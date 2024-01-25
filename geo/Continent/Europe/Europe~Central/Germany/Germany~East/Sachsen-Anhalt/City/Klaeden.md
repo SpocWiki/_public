@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.md|Klaeden]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.internal.md|Klaeden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.protect.md|Klaeden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.private.md|Klaeden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.personal.md|Klaeden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.secret.md|Klaeden.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.internal|Klaeden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.protect|Klaeden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.private|Klaeden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.personal|Klaeden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Klaeden.secret|Klaeden.secret]] 

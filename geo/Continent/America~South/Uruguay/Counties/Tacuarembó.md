@@ -41,9 +41,9 @@ markerFolder: ./Tacuarembó/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.md|Tacuarembó]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.internal.md|Tacuarembó.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.protect.md|Tacuarembó.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.private.md|Tacuarembó.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.personal.md|Tacuarembó.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.secret.md|Tacuarembó.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.internal|Tacuarembó.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.protect|Tacuarembó.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.private|Tacuarembó.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.personal|Tacuarembó.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Tacuarembó.secret|Tacuarembó.secret]] 
 

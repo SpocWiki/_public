@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.md|Feldberg]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.internal.md|Feldberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.protect.md|Feldberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.private.md|Feldberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.personal.md|Feldberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.secret.md|Feldberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.internal|Feldberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.protect|Feldberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.private|Feldberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.personal|Feldberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Feldberg.secret|Feldberg.secret]] 

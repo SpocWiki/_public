@@ -41,9 +41,9 @@ markerFolder: ./Vienne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.md|Vienne]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.internal.md|Vienne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.protect.md|Vienne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.private.md|Vienne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.personal.md|Vienne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.secret.md|Vienne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.internal|Vienne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.protect|Vienne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.private|Vienne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.personal|Vienne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.secret|Vienne.secret]] 
 

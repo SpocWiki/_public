@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bad_Salzuflen|Bad_Salzuflen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.internal.md|Bad_Salzuflen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.protect.md|Bad_Salzuflen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.private.md|Bad_Salzuflen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.personal.md|Bad_Salzuflen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.secret.md|Bad_Salzuflen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.internal|Bad_Salzuflen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.protect|Bad_Salzuflen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.private|Bad_Salzuflen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.personal|Bad_Salzuflen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.secret|Bad_Salzuflen.secret]] 

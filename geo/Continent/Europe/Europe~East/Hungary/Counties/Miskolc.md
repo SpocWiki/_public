@@ -41,9 +41,9 @@ markerFolder: ./Miskolc/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Miskolc.md|Miskolc]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Miskolc.internal.md|Miskolc.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Miskolc.protect.md|Miskolc.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Miskolc.private.md|Miskolc.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Miskolc.personal.md|Miskolc.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Miskolc.secret.md|Miskolc.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Miskolc.internal|Miskolc.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Miskolc.protect|Miskolc.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Miskolc.private|Miskolc.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Miskolc.personal|Miskolc.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Miskolc.secret|Miskolc.secret]] 
 

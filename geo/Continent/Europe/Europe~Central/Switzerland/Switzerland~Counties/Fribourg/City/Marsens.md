@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Marsens.md|Marsens]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Marsens.internal.md|Marsens.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Marsens.protect.md|Marsens.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Marsens.private.md|Marsens.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Marsens.personal.md|Marsens.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Marsens.secret.md|Marsens.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Marsens.internal|Marsens.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Marsens.protect|Marsens.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Marsens.private|Marsens.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Marsens.personal|Marsens.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Marsens.secret|Marsens.secret]] 

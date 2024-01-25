@@ -41,9 +41,9 @@ markerFolder: ./Lewisham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.md|Lewisham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.internal.md|Lewisham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.protect.md|Lewisham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.private.md|Lewisham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.personal.md|Lewisham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.secret.md|Lewisham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.internal|Lewisham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.protect|Lewisham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.private|Lewisham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.personal|Lewisham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.secret|Lewisham.secret]] 
 

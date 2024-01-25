@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.md|Ruzomberok=Rosenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.internal.md|Ruzomberok=Rosenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.protect.md|Ruzomberok=Rosenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.private.md|Ruzomberok=Rosenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.personal.md|Ruzomberok=Rosenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.secret.md|Ruzomberok=Rosenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.internal|Ruzomberok=Rosenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.protect|Ruzomberok=Rosenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.private|Ruzomberok=Rosenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.personal|Ruzomberok=Rosenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.secret|Ruzomberok=Rosenberg.secret]] 

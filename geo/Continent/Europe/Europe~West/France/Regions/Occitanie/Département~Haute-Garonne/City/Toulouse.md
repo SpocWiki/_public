@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Toulouse.md|Toulouse]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Toulouse.internal.md|Toulouse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Toulouse.protect.md|Toulouse.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Toulouse.private.md|Toulouse.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Toulouse.personal.md|Toulouse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Toulouse.secret.md|Toulouse.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Toulouse.internal|Toulouse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Toulouse.protect|Toulouse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Toulouse.private|Toulouse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Toulouse.personal|Toulouse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Toulouse.secret|Toulouse.secret]] 

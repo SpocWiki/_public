@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Hellenthal|Hellenthal]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.internal.md|Hellenthal.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.protect.md|Hellenthal.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.private.md|Hellenthal.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.personal.md|Hellenthal.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.secret.md|Hellenthal.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.internal|Hellenthal.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.protect|Hellenthal.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.private|Hellenthal.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.personal|Hellenthal.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hellenthal.secret|Hellenthal.secret]] 

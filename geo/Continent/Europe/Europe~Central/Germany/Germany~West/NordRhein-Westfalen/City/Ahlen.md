@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Ahlen|Ahlen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.internal.md|Ahlen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.protect.md|Ahlen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.private.md|Ahlen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.personal.md|Ahlen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.secret.md|Ahlen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.internal|Ahlen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.protect|Ahlen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.private|Ahlen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.personal|Ahlen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ahlen.secret|Ahlen.secret]] 

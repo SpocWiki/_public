@@ -41,9 +41,9 @@ markerFolder: ./Alger/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Alger.md|Alger]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Alger.internal.md|Alger.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Alger.protect.md|Alger.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Alger.private.md|Alger.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Alger.personal.md|Alger.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Alger.secret.md|Alger.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Alger.internal|Alger.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Alger.protect|Alger.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Alger.private|Alger.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Alger.personal|Alger.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Alger.secret|Alger.secret]] 
 

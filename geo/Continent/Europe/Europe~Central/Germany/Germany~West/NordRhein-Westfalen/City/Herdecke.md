@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Herdecke|Herdecke]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.internal.md|Herdecke.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.protect.md|Herdecke.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.private.md|Herdecke.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.personal.md|Herdecke.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.secret.md|Herdecke.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.internal|Herdecke.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.protect|Herdecke.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.private|Herdecke.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.personal|Herdecke.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Herdecke.secret|Herdecke.secret]] 

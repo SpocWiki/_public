@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Nouvion_en_Thierache.md|Nouvion_en_Thierache]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nouvion_en_Thierache.internal.md|Nouvion_en_Thierache.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nouvion_en_Thierache.protect.md|Nouvion_en_Thierache.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Nouvion_en_Thierache.private.md|Nouvion_en_Thierache.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nouvion_en_Thierache.personal.md|Nouvion_en_Thierache.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nouvion_en_Thierache.secret.md|Nouvion_en_Thierache.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nouvion_en_Thierache.internal|Nouvion_en_Thierache.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nouvion_en_Thierache.protect|Nouvion_en_Thierache.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nouvion_en_Thierache.private|Nouvion_en_Thierache.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nouvion_en_Thierache.personal|Nouvion_en_Thierache.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nouvion_en_Thierache.secret|Nouvion_en_Thierache.secret]] 

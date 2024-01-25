@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.md|Sub~Russell_Square]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.internal.md|Sub~Russell_Square.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.protect.md|Sub~Russell_Square.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.private.md|Sub~Russell_Square.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.personal.md|Sub~Russell_Square.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.secret.md|Sub~Russell_Square.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.internal|Sub~Russell_Square.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.protect|Sub~Russell_Square.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.private|Sub~Russell_Square.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.personal|Sub~Russell_Square.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Russell_Square.secret|Sub~Russell_Square.secret]] 

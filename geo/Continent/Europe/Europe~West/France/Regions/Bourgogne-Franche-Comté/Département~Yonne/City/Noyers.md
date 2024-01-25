@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Noyers.md|Noyers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Noyers.internal.md|Noyers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Noyers.protect.md|Noyers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Noyers.private.md|Noyers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Noyers.personal.md|Noyers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Noyers.secret.md|Noyers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Noyers.internal|Noyers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Noyers.protect|Noyers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Noyers.private|Noyers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Noyers.personal|Noyers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Noyers.secret|Noyers.secret]] 

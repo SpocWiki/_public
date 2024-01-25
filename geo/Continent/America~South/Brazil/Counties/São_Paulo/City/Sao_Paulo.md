@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Brazil/City/Sao_Paulo.md|Sao_Paulo]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Brazil/City/Sao_Paulo.internal.md|Sao_Paulo.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Brazil/City/Sao_Paulo.protect.md|Sao_Paulo.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Brazil/City/Sao_Paulo.private.md|Sao_Paulo.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Brazil/City/Sao_Paulo.personal.md|Sao_Paulo.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Brazil/City/Sao_Paulo.secret.md|Sao_Paulo.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Brazil/City/Sao_Paulo.internal|Sao_Paulo.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Brazil/City/Sao_Paulo.protect|Sao_Paulo.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Brazil/City/Sao_Paulo.private|Sao_Paulo.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Brazil/City/Sao_Paulo.personal|Sao_Paulo.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Brazil/City/Sao_Paulo.secret|Sao_Paulo.secret]] 

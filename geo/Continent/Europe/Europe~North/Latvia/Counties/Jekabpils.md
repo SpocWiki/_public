@@ -41,9 +41,9 @@ markerFolder: ./Jekabpils/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Jekabpils.md|Jekabpils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jekabpils.internal.md|Jekabpils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jekabpils.protect.md|Jekabpils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jekabpils.private.md|Jekabpils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jekabpils.personal.md|Jekabpils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jekabpils.secret.md|Jekabpils.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jekabpils.internal|Jekabpils.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jekabpils.protect|Jekabpils.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jekabpils.private|Jekabpils.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jekabpils.personal|Jekabpils.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jekabpils.secret|Jekabpils.secret]] 
 

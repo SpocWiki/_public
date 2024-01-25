@@ -41,9 +41,9 @@ markerFolder: ./Gedo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Gedo.md|Gedo]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Gedo.internal.md|Gedo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Gedo.protect.md|Gedo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Gedo.private.md|Gedo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Gedo.personal.md|Gedo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Gedo.secret.md|Gedo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Gedo.internal|Gedo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Gedo.protect|Gedo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Gedo.private|Gedo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Gedo.personal|Gedo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Gedo.secret|Gedo.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Grand'Anse/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.md|Grand'Anse]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.internal.md|Grand'Anse.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.protect.md|Grand'Anse.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.private.md|Grand'Anse.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.personal.md|Grand'Anse.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.secret.md|Grand'Anse.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.internal|Grand'Anse.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.protect|Grand'Anse.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.private|Grand'Anse.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.personal|Grand'Anse.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.secret|Grand'Anse.secret]] 
 

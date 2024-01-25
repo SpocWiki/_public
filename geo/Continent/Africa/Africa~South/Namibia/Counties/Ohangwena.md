@@ -41,9 +41,9 @@ markerFolder: ./Ohangwena/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Ohangwena.md|Ohangwena]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Ohangwena.internal.md|Ohangwena.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Ohangwena.protect.md|Ohangwena.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Ohangwena.private.md|Ohangwena.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Ohangwena.personal.md|Ohangwena.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Ohangwena.secret.md|Ohangwena.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Ohangwena.internal|Ohangwena.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Ohangwena.protect|Ohangwena.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Ohangwena.private|Ohangwena.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Ohangwena.personal|Ohangwena.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Ohangwena.secret|Ohangwena.secret]] 
 

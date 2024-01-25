@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Marbach~Lauter|Marbach~Lauter]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.internal.md|Marbach~Lauter.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.protect.md|Marbach~Lauter.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.private.md|Marbach~Lauter.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.personal.md|Marbach~Lauter.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.secret.md|Marbach~Lauter.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.internal|Marbach~Lauter.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.protect|Marbach~Lauter.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.private|Marbach~Lauter.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.personal|Marbach~Lauter.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.secret|Marbach~Lauter.secret]] 

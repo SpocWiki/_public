@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.md|Plaue]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.internal.md|Plaue.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.protect.md|Plaue.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.private.md|Plaue.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.personal.md|Plaue.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.secret.md|Plaue.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.internal|Plaue.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.protect|Plaue.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.private|Plaue.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.personal|Plaue.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.secret|Plaue.secret]] 

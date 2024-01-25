@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Soltau|Soltau]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.internal.md|Soltau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.protect.md|Soltau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.private.md|Soltau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.personal.md|Soltau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.secret.md|Soltau.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.internal|Soltau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.protect|Soltau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.private|Soltau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.personal|Soltau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.secret|Soltau.secret]] 

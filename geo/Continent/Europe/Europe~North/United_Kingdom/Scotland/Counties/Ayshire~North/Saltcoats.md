@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Saltcoats.md|Saltcoats]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Saltcoats.internal.md|Saltcoats.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Saltcoats.protect.md|Saltcoats.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Saltcoats.private.md|Saltcoats.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Saltcoats.personal.md|Saltcoats.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Saltcoats.secret.md|Saltcoats.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Saltcoats.internal|Saltcoats.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Saltcoats.protect|Saltcoats.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Saltcoats.private|Saltcoats.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Saltcoats.personal|Saltcoats.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Saltcoats.secret|Saltcoats.secret]] 

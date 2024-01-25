@@ -41,9 +41,9 @@ markerFolder: ./Bío-Bío/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Chile/Counties/Bío-Bío.md|Bío-Bío]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Bío-Bío.internal.md|Bío-Bío.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Bío-Bío.protect.md|Bío-Bío.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Bío-Bío.private.md|Bío-Bío.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Bío-Bío.personal.md|Bío-Bío.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Bío-Bío.secret.md|Bío-Bío.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Bío-Bío.internal|Bío-Bío.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Bío-Bío.protect|Bío-Bío.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Bío-Bío.private|Bío-Bío.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Bío-Bío.personal|Bío-Bío.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Bío-Bío.secret|Bío-Bío.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Equipotentiality-Power]
 [SpocWebEntityId::22954]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Equipotentiality]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.md|Triz-stationary_Length+Equipotentiality-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.internal.md|Triz-stationary_Length+Equipotentiality-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.protect.md|Triz-stationary_Length+Equipotentiality-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.private.md|Triz-stationary_Length+Equipotentiality-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.personal.md|Triz-stationary_Length+Equipotentiality-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.secret.md|Triz-stationary_Length+Equipotentiality-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.internal|Triz-stationary_Length+Equipotentiality-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.protect|Triz-stationary_Length+Equipotentiality-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.private|Triz-stationary_Length+Equipotentiality-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.personal|Triz-stationary_Length+Equipotentiality-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.secret|Triz-stationary_Length+Equipotentiality-Power.secret]] 

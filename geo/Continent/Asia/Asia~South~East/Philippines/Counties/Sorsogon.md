@@ -41,9 +41,9 @@ markerFolder: ./Sorsogon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.md|Sorsogon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.internal.md|Sorsogon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.protect.md|Sorsogon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.private.md|Sorsogon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.personal.md|Sorsogon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.secret.md|Sorsogon.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.internal|Sorsogon.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.protect|Sorsogon.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.private|Sorsogon.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.personal|Sorsogon.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.secret|Sorsogon.secret]] 
 

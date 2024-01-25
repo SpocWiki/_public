@@ -140,8 +140,8 @@ markerFolder: ./Brazil/
 
 ## Confidential Links & Embeds: 
 - [[Brazil|Brazil]] 
-- [[../../../../_internal/geo/Continent/South-America/Brazil.internal.md|Brazil.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Brazil.protect.md|Brazil.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Brazil.private.md|Brazil.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Brazil.personal.md|Brazil.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Brazil.secret.md|Brazil.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Brazil.internal|Brazil.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Brazil.protect|Brazil.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Brazil.private|Brazil.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Brazil.personal|Brazil.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Brazil.secret|Brazil.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Kaufbeuren|Kaufbeuren]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.internal.md|Kaufbeuren.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.protect.md|Kaufbeuren.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.private.md|Kaufbeuren.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.personal.md|Kaufbeuren.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.secret.md|Kaufbeuren.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.internal|Kaufbeuren.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.protect|Kaufbeuren.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.private|Kaufbeuren.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.personal|Kaufbeuren.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.secret|Kaufbeuren.secret]] 

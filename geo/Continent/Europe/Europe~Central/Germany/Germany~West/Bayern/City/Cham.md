@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Cham|Cham]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Cham.internal.md|Cham.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Cham.protect.md|Cham.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Cham.private.md|Cham.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Cham.personal.md|Cham.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Cham.secret.md|Cham.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Cham.internal|Cham.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Cham.protect|Cham.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Cham.private|Cham.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Cham.personal|Cham.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Cham.secret|Cham.secret]] 

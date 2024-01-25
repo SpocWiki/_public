@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Nokia.md|Nokia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nokia.internal.md|Nokia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nokia.protect.md|Nokia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nokia.private.md|Nokia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nokia.personal.md|Nokia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nokia.secret.md|Nokia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nokia.internal|Nokia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nokia.protect|Nokia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nokia.private|Nokia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nokia.personal|Nokia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nokia.secret|Nokia.secret]] 

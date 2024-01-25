@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Neunkirchen.md|Neunkirchen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neunkirchen.internal.md|Neunkirchen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neunkirchen.protect.md|Neunkirchen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neunkirchen.private.md|Neunkirchen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neunkirchen.personal.md|Neunkirchen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neunkirchen.secret.md|Neunkirchen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neunkirchen.internal|Neunkirchen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neunkirchen.protect|Neunkirchen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neunkirchen.private|Neunkirchen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neunkirchen.personal|Neunkirchen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neunkirchen.secret|Neunkirchen.secret]] 

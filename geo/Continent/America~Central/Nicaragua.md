@@ -134,8 +134,8 @@ markerFolder: ./Nicaragua/
 
 ## Confidential Links & Embeds: 
 - [[Nicaragua|Nicaragua]] 
-- [[../../../../_internal/geo/Continent/South-America/Nicaragua.internal.md|Nicaragua.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Nicaragua.protect.md|Nicaragua.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Nicaragua.private.md|Nicaragua.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Nicaragua.personal.md|Nicaragua.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Nicaragua.secret.md|Nicaragua.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Nicaragua.internal|Nicaragua.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Nicaragua.protect|Nicaragua.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Nicaragua.private|Nicaragua.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Nicaragua.personal|Nicaragua.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Nicaragua.secret|Nicaragua.secret]] 

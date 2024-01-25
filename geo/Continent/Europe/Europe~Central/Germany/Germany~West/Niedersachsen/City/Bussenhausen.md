@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bussenhausen|Bussenhausen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.internal.md|Bussenhausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.protect.md|Bussenhausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.private.md|Bussenhausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.personal.md|Bussenhausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.secret.md|Bussenhausen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.internal|Bussenhausen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.protect|Bussenhausen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.private|Bussenhausen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.personal|Bussenhausen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.secret|Bussenhausen.secret]] 

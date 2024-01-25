@@ -41,9 +41,9 @@ markerFolder: ./Hainaut/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Hainaut.md|Hainaut]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Hainaut.internal.md|Hainaut.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Hainaut.protect.md|Hainaut.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Hainaut.private.md|Hainaut.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Hainaut.personal.md|Hainaut.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Hainaut.secret.md|Hainaut.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Hainaut.internal|Hainaut.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Hainaut.protect|Hainaut.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Hainaut.private|Hainaut.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Hainaut.personal|Hainaut.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Hainaut.secret|Hainaut.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Mediator-Quantity]
 [SpocWebEntityId::24958]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.md|Triz-Information-Loss+Mediator-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.internal.md|Triz-Information-Loss+Mediator-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.protect.md|Triz-Information-Loss+Mediator-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.private.md|Triz-Information-Loss+Mediator-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.personal.md|Triz-Information-Loss+Mediator-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.secret.md|Triz-Information-Loss+Mediator-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.internal|Triz-Information-Loss+Mediator-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.protect|Triz-Information-Loss+Mediator-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.private|Triz-Information-Loss+Mediator-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.personal|Triz-Information-Loss+Mediator-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.secret|Triz-Information-Loss+Mediator-Quantity.secret]] 

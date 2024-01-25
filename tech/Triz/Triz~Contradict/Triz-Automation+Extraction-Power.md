@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Extraction-Power]
 [SpocWebEntityId::26579]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Extraction-Power.md|Triz-Automation+Extraction-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Extraction-Power.internal.md|Triz-Automation+Extraction-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Extraction-Power.protect.md|Triz-Automation+Extraction-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Extraction-Power.private.md|Triz-Automation+Extraction-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Extraction-Power.personal.md|Triz-Automation+Extraction-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Extraction-Power.secret.md|Triz-Automation+Extraction-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Extraction-Power.internal|Triz-Automation+Extraction-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Extraction-Power.protect|Triz-Automation+Extraction-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Extraction-Power.private|Triz-Automation+Extraction-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Extraction-Power.personal|Triz-Automation+Extraction-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Extraction-Power.secret|Triz-Automation+Extraction-Power.secret]] 

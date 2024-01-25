@@ -41,9 +41,9 @@ markerFolder: ./Castries/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.md|Castries]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.internal.md|Castries.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.protect.md|Castries.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.private.md|Castries.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.personal.md|Castries.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.secret.md|Castries.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.internal|Castries.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.protect|Castries.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.private|Castries.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.personal|Castries.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Castries.secret|Castries.secret]] 
 

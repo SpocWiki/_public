@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Leer|Leer]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.internal.md|Leer.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.protect.md|Leer.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.private.md|Leer.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.personal.md|Leer.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.secret.md|Leer.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.internal|Leer.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.protect|Leer.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.private|Leer.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.personal|Leer.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.secret|Leer.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Maramures/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Maramures.md|Maramures]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Maramures.internal.md|Maramures.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Maramures.protect.md|Maramures.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Maramures.private.md|Maramures.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Maramures.personal.md|Maramures.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Maramures.secret.md|Maramures.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Maramures.internal|Maramures.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Maramures.protect|Maramures.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Maramures.private|Maramures.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Maramures.personal|Maramures.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Maramures.secret|Maramures.secret]] 
 

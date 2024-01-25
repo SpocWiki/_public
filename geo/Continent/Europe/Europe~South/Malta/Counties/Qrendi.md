@@ -41,9 +41,9 @@ markerFolder: ./Qrendi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Qrendi.md|Qrendi]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Qrendi.internal.md|Qrendi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Qrendi.protect.md|Qrendi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Qrendi.private.md|Qrendi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Qrendi.personal.md|Qrendi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Qrendi.secret.md|Qrendi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Qrendi.internal|Qrendi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Qrendi.protect|Qrendi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Qrendi.private|Qrendi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Qrendi.personal|Qrendi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Qrendi.secret|Qrendi.secret]] 
 

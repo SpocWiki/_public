@@ -41,9 +41,9 @@ markerFolder: ./Lâm_Đồng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.md|Lâm_Đồng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.internal.md|Lâm_Đồng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.protect.md|Lâm_Đồng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.private.md|Lâm_Đồng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.personal.md|Lâm_Đồng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.secret.md|Lâm_Đồng.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.internal|Lâm_Đồng.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.protect|Lâm_Đồng.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.private|Lâm_Đồng.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.personal|Lâm_Đồng.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lâm_Đồng.secret|Lâm_Đồng.secret]] 
 

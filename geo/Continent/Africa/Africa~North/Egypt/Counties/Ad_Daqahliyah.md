@@ -41,9 +41,9 @@ markerFolder: ./Ad_Daqahliyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.md|Ad_Daqahliyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.internal.md|Ad_Daqahliyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.protect.md|Ad_Daqahliyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.private.md|Ad_Daqahliyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.personal.md|Ad_Daqahliyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.secret.md|Ad_Daqahliyah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.internal|Ad_Daqahliyah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.protect|Ad_Daqahliyah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.private|Ad_Daqahliyah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.personal|Ad_Daqahliyah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.secret|Ad_Daqahliyah.secret]] 
 

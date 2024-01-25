@@ -41,9 +41,9 @@ markerFolder: ./Papua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.md|Papua]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.internal.md|Papua.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.protect.md|Papua.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.private.md|Papua.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.personal.md|Papua.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.secret.md|Papua.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.internal|Papua.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.protect|Papua.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.private|Papua.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.personal|Papua.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Papua.secret|Papua.secret]] 
 

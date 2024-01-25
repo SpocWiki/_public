@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Telaw.md|Telaw]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Telaw.internal.md|Telaw.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Telaw.protect.md|Telaw.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Telaw.private.md|Telaw.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Telaw.personal.md|Telaw.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Telaw.secret.md|Telaw.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Telaw.internal|Telaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Telaw.protect|Telaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Telaw.private|Telaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Telaw.personal|Telaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Telaw.secret|Telaw.secret]] 

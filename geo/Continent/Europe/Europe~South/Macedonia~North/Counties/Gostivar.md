@@ -41,9 +41,9 @@ markerFolder: ./Gostivar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.md|Gostivar]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.internal.md|Gostivar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.protect.md|Gostivar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.private.md|Gostivar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.personal.md|Gostivar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.secret.md|Gostivar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.internal|Gostivar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.protect|Gostivar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.private|Gostivar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.personal|Gostivar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Gostivar.secret|Gostivar.secret]] 
 

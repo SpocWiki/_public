@@ -41,9 +41,9 @@ markerFolder: ./Oyam/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Oyam.md|Oyam]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Oyam.internal.md|Oyam.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Oyam.protect.md|Oyam.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Oyam.private.md|Oyam.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Oyam.personal.md|Oyam.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Oyam.secret.md|Oyam.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Oyam.internal|Oyam.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Oyam.protect|Oyam.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Oyam.private|Oyam.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Oyam.personal|Oyam.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Oyam.secret|Oyam.secret]] 
 

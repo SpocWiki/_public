@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Nogent_le_Rotrou.md|Nogent_le_Rotrou]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nogent_le_Rotrou.internal.md|Nogent_le_Rotrou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nogent_le_Rotrou.protect.md|Nogent_le_Rotrou.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Nogent_le_Rotrou.private.md|Nogent_le_Rotrou.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nogent_le_Rotrou.personal.md|Nogent_le_Rotrou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nogent_le_Rotrou.secret.md|Nogent_le_Rotrou.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nogent_le_Rotrou.internal|Nogent_le_Rotrou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nogent_le_Rotrou.protect|Nogent_le_Rotrou.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nogent_le_Rotrou.private|Nogent_le_Rotrou.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nogent_le_Rotrou.personal|Nogent_le_Rotrou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nogent_le_Rotrou.secret|Nogent_le_Rotrou.secret]] 

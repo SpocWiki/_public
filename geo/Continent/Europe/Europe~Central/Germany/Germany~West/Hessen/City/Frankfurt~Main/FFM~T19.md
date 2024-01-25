@@ -45,8 +45,8 @@ markerFolder: ./Station/
 
 ## Confidential Links & Embeds: 
 - [[FFM~T19|FFM~T19]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.internal.md|FFM~T19.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.protect.md|FFM~T19.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.private.md|FFM~T19.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.personal.md|FFM~T19.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.secret.md|FFM~T19.secret]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.internal|FFM~T19.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.protect|FFM~T19.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.private|FFM~T19.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.personal|FFM~T19.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~T19.secret|FFM~T19.secret]] 

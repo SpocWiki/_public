@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.md|Sub~Dollis_Hill]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.internal.md|Sub~Dollis_Hill.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.protect.md|Sub~Dollis_Hill.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.private.md|Sub~Dollis_Hill.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.personal.md|Sub~Dollis_Hill.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.secret.md|Sub~Dollis_Hill.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.internal|Sub~Dollis_Hill.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.protect|Sub~Dollis_Hill.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.private|Sub~Dollis_Hill.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.personal|Sub~Dollis_Hill.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Dollis_Hill.secret|Sub~Dollis_Hill.secret]] 

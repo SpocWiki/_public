@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Combining_(Integration)-Substance-Loss]
 [SpocWebEntityId::23545]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle:[[Triz-Combining(Integration)]]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.md|Triz-Intensity+Combining_(Integration)-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.internal.md|Triz-Intensity+Combining_(Integration)-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.protect.md|Triz-Intensity+Combining_(Integration)-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.private.md|Triz-Intensity+Combining_(Integration)-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.personal.md|Triz-Intensity+Combining_(Integration)-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.secret.md|Triz-Intensity+Combining_(Integration)-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.internal|Triz-Intensity+Combining_(Integration)-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.protect|Triz-Intensity+Combining_(Integration)-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.private|Triz-Intensity+Combining_(Integration)-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.personal|Triz-Intensity+Combining_(Integration)-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Combining_(Integration)-Substance-Loss.secret|Triz-Intensity+Combining_(Integration)-Substance-Loss.secret]] 

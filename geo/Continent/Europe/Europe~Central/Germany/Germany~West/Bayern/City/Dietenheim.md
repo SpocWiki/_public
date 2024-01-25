@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Dietenheim|Dietenheim]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.internal.md|Dietenheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.protect.md|Dietenheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.private.md|Dietenheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.personal.md|Dietenheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.secret.md|Dietenheim.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.internal|Dietenheim.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.protect|Dietenheim.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.private|Dietenheim.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.personal|Dietenheim.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.secret|Dietenheim.secret]] 

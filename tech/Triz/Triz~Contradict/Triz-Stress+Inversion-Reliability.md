@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Inversion-Reliability]
 [SpocWebEntityId::23676]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.md|Triz-Stress+Inversion-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.internal.md|Triz-Stress+Inversion-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.protect.md|Triz-Stress+Inversion-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.private.md|Triz-Stress+Inversion-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.personal.md|Triz-Stress+Inversion-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.secret.md|Triz-Stress+Inversion-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.internal|Triz-Stress+Inversion-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.protect|Triz-Stress+Inversion-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.private|Triz-Stress+Inversion-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.personal|Triz-Stress+Inversion-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.secret|Triz-Stress+Inversion-Reliability.secret]] 

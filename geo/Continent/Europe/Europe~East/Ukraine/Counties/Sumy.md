@@ -41,9 +41,9 @@ markerFolder: ./Sumy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Sumy.md|Sumy]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Sumy.internal.md|Sumy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Sumy.protect.md|Sumy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Sumy.private.md|Sumy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Sumy.personal.md|Sumy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Sumy.secret.md|Sumy.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Sumy.internal|Sumy.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Sumy.protect|Sumy.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Sumy.private|Sumy.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Sumy.personal|Sumy.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Sumy.secret|Sumy.secret]] 
 

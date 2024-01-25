@@ -41,9 +41,9 @@ markerFolder: ./Yilan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.md|Yilan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.internal.md|Yilan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.protect.md|Yilan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.private.md|Yilan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.personal.md|Yilan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.secret.md|Yilan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.internal|Yilan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.protect|Yilan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.private|Yilan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.personal|Yilan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yilan.secret|Yilan.secret]] 
 

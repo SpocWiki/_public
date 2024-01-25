@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Stephansposching|Stephansposching]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.internal.md|Stephansposching.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.protect.md|Stephansposching.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.private.md|Stephansposching.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.personal.md|Stephansposching.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.secret.md|Stephansposching.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.internal|Stephansposching.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.protect|Stephansposching.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.private|Stephansposching.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.personal|Stephansposching.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.secret|Stephansposching.secret]] 

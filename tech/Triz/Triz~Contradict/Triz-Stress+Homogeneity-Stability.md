@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Homogeneity-Stability]
 [SpocWebEntityId::23641]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Homogeneity]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.md|Triz-Stress+Homogeneity-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.internal.md|Triz-Stress+Homogeneity-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.protect.md|Triz-Stress+Homogeneity-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.private.md|Triz-Stress+Homogeneity-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.personal.md|Triz-Stress+Homogeneity-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.secret.md|Triz-Stress+Homogeneity-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.internal|Triz-Stress+Homogeneity-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.protect|Triz-Stress+Homogeneity-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.private|Triz-Stress+Homogeneity-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.personal|Triz-Stress+Homogeneity-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.secret|Triz-Stress+Homogeneity-Stability.secret]] 

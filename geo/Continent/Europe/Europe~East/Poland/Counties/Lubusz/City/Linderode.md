@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Linderode.md|Linderode]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Linderode.internal.md|Linderode.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Linderode.protect.md|Linderode.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Linderode.private.md|Linderode.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Linderode.personal.md|Linderode.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Linderode.secret.md|Linderode.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Linderode.internal|Linderode.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Linderode.protect|Linderode.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Linderode.private|Linderode.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Linderode.personal|Linderode.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Linderode.secret|Linderode.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Vlotho|Vlotho]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.internal.md|Vlotho.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.protect.md|Vlotho.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.private.md|Vlotho.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.personal.md|Vlotho.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.secret.md|Vlotho.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.internal|Vlotho.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.protect|Vlotho.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.private|Vlotho.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.personal|Vlotho.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.secret|Vlotho.secret]] 

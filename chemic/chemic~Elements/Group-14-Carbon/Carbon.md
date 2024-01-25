@@ -36,8 +36,8 @@ SpocWebEntityId: 21480
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-14-Carbon/Carbon.md|Carbon]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Carbon.internal.md|Carbon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Carbon.protect.md|Carbon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Carbon.private.md|Carbon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Carbon.personal.md|Carbon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Carbon.secret.md|Carbon.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Carbon.internal|Carbon.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Carbon.protect|Carbon.protect]] 
+- [[../../../../_private/chemic/Elements/Group-14-Carbon/Carbon.private|Carbon.private]] 
+- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Carbon.personal|Carbon.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Carbon.secret|Carbon.secret]] 

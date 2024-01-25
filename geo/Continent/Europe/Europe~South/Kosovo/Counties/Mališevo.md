@@ -41,9 +41,9 @@ markerFolder: ./Mališevo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Mališevo.md|Mališevo]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Mališevo.internal.md|Mališevo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Mališevo.protect.md|Mališevo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Mališevo.private.md|Mališevo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Mališevo.personal.md|Mališevo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Mališevo.secret.md|Mališevo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Mališevo.internal|Mališevo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Mališevo.protect|Mališevo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Mališevo.private|Mališevo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Mališevo.personal|Mališevo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Mališevo.secret|Mališevo.secret]] 
 

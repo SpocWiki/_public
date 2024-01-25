@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Uttenreuth|Uttenreuth]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.internal.md|Uttenreuth.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.protect.md|Uttenreuth.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.private.md|Uttenreuth.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.personal.md|Uttenreuth.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.secret.md|Uttenreuth.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.internal|Uttenreuth.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.protect|Uttenreuth.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.private|Uttenreuth.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.personal|Uttenreuth.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.secret|Uttenreuth.secret]] 

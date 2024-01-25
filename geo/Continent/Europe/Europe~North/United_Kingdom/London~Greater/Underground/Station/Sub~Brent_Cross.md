@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.md|Sub~Brent_Cross]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.internal.md|Sub~Brent_Cross.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.protect.md|Sub~Brent_Cross.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.private.md|Sub~Brent_Cross.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.personal.md|Sub~Brent_Cross.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.secret.md|Sub~Brent_Cross.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.internal|Sub~Brent_Cross.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.protect|Sub~Brent_Cross.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.private|Sub~Brent_Cross.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.personal|Sub~Brent_Cross.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Brent_Cross.secret|Sub~Brent_Cross.secret]] 

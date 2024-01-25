@@ -41,9 +41,9 @@ markerFolder: ./Toledo.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.md|Toledo.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.internal.md|Toledo.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.protect.md|Toledo.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.private.md|Toledo.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.personal.md|Toledo.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.secret.md|Toledo.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.internal|Toledo.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.protect|Toledo.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.private|Toledo.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.personal|Toledo.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Toledo.Province.secret|Toledo.Province.secret]] 
 

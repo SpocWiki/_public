@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Salzbergen|Salzbergen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.internal.md|Salzbergen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.protect.md|Salzbergen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.private.md|Salzbergen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.personal.md|Salzbergen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.secret.md|Salzbergen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.internal|Salzbergen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.protect|Salzbergen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.private|Salzbergen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.personal|Salzbergen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.secret|Salzbergen.secret]] 

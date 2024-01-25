@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Loevanger.md|Loevanger]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Loevanger.internal.md|Loevanger.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Loevanger.protect.md|Loevanger.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Loevanger.private.md|Loevanger.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Loevanger.personal.md|Loevanger.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Loevanger.secret.md|Loevanger.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Loevanger.internal|Loevanger.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Loevanger.protect|Loevanger.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Loevanger.private|Loevanger.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Loevanger.personal|Loevanger.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Loevanger.secret|Loevanger.secret]] 

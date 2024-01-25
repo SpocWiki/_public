@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.md|Sub~Mile_End]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.internal.md|Sub~Mile_End.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.protect.md|Sub~Mile_End.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.private.md|Sub~Mile_End.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.personal.md|Sub~Mile_End.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.secret.md|Sub~Mile_End.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.internal|Sub~Mile_End.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.protect|Sub~Mile_End.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.private|Sub~Mile_End.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.personal|Sub~Mile_End.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mile_End.secret|Sub~Mile_End.secret]] 

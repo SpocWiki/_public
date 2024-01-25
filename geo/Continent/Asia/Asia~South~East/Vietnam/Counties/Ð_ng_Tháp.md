@@ -41,9 +41,9 @@ markerFolder: ./Ð_ng_Tháp/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.md|Ð_ng_Tháp]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.internal.md|Ð_ng_Tháp.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.protect.md|Ð_ng_Tháp.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.private.md|Ð_ng_Tháp.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.personal.md|Ð_ng_Tháp.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.secret.md|Ð_ng_Tháp.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.internal|Ð_ng_Tháp.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.protect|Ð_ng_Tháp.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.private|Ð_ng_Tháp.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.personal|Ð_ng_Tháp.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ð_ng_Tháp.secret|Ð_ng_Tháp.secret]] 
 

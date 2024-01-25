@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Warnsveld.md|Warnsveld]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Warnsveld.internal.md|Warnsveld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Warnsveld.protect.md|Warnsveld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Warnsveld.private.md|Warnsveld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Warnsveld.personal.md|Warnsveld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Warnsveld.secret.md|Warnsveld.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Warnsveld.internal|Warnsveld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Warnsveld.protect|Warnsveld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Warnsveld.private|Warnsveld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Warnsveld.personal|Warnsveld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Warnsveld.secret|Warnsveld.secret]] 

@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Bashkortostan~Republic|State~Bashkortostan~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.internal|State~Bashkortostan~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.protect.md|State~Bashkortostan~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.private.md|State~Bashkortostan~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.personal.md|State~Bashkortostan~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.secret.md|State~Bashkortostan~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.protect|State~Bashkortostan~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.private|State~Bashkortostan~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.personal|State~Bashkortostan~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.secret|State~Bashkortostan~Republic.secret]] 

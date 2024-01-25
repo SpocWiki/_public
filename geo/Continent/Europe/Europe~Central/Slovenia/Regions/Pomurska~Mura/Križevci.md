@@ -41,9 +41,9 @@ markerFolder: ./Križevci/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.md|Križevci]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.internal.md|Križevci.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.protect.md|Križevci.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.private.md|Križevci.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.personal.md|Križevci.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.secret.md|Križevci.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.internal|Križevci.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.protect|Križevci.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.private|Križevci.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.personal|Križevci.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Križevci.secret|Križevci.secret]] 
 

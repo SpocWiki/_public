@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Vassy.md|Vassy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vassy.internal.md|Vassy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vassy.protect.md|Vassy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Vassy.private.md|Vassy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vassy.personal.md|Vassy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vassy.secret.md|Vassy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vassy.internal|Vassy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vassy.protect|Vassy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Vassy.private|Vassy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vassy.personal|Vassy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vassy.secret|Vassy.secret]] 

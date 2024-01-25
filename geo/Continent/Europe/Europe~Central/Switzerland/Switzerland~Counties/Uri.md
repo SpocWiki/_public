@@ -41,9 +41,9 @@ markerFolder: ./Uri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.md|Uri]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.internal.md|Uri.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.protect.md|Uri.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.private.md|Uri.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.personal.md|Uri.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.secret.md|Uri.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.internal|Uri.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.protect|Uri.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.private|Uri.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.personal|Uri.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Uri.secret|Uri.secret]] 
 

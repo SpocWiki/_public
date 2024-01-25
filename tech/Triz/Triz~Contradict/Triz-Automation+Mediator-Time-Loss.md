@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Mediator-Time-Loss]
 [SpocWebEntityId::26589]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.md|Triz-Automation+Mediator-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.internal.md|Triz-Automation+Mediator-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.protect.md|Triz-Automation+Mediator-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.private.md|Triz-Automation+Mediator-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.personal.md|Triz-Automation+Mediator-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.secret.md|Triz-Automation+Mediator-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.internal|Triz-Automation+Mediator-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.protect|Triz-Automation+Mediator-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.private|Triz-Automation+Mediator-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.personal|Triz-Automation+Mediator-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Mediator-Time-Loss.secret|Triz-Automation+Mediator-Time-Loss.secret]] 

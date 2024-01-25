@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Ohrid.md|Ohrid]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Ohrid.internal.md|Ohrid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Ohrid.protect.md|Ohrid.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Ohrid.private.md|Ohrid.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Ohrid.personal.md|Ohrid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Ohrid.secret.md|Ohrid.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Ohrid.internal|Ohrid.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Ohrid.protect|Ohrid.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Ohrid.private|Ohrid.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Ohrid.personal|Ohrid.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Ohrid.secret|Ohrid.secret]] 

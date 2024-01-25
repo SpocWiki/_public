@@ -41,9 +41,9 @@ markerFolder: ./Crnomelj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.md|Crnomelj]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.internal.md|Crnomelj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.protect.md|Crnomelj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.private.md|Crnomelj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.personal.md|Crnomelj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.secret.md|Crnomelj.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.internal|Crnomelj.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.protect|Crnomelj.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.private|Crnomelj.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.personal|Crnomelj.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Crnomelj.secret|Crnomelj.secret]] 
 

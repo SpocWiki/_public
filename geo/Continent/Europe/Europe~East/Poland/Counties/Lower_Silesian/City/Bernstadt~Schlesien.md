@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.md|Bernstadt~Schlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.internal.md|Bernstadt~Schlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.protect.md|Bernstadt~Schlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.private.md|Bernstadt~Schlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.personal.md|Bernstadt~Schlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.secret.md|Bernstadt~Schlesien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.internal|Bernstadt~Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.protect|Bernstadt~Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.private|Bernstadt~Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.personal|Bernstadt~Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.secret|Bernstadt~Schlesien.secret]] 

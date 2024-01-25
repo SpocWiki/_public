@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Adolfsfors.md|Adolfsfors]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Adolfsfors.internal.md|Adolfsfors.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Adolfsfors.protect.md|Adolfsfors.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Adolfsfors.private.md|Adolfsfors.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Adolfsfors.personal.md|Adolfsfors.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Adolfsfors.secret.md|Adolfsfors.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Adolfsfors.internal|Adolfsfors.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Adolfsfors.protect|Adolfsfors.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Adolfsfors.private|Adolfsfors.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Adolfsfors.personal|Adolfsfors.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Adolfsfors.secret|Adolfsfors.secret]] 

@@ -39,8 +39,8 @@ SpocWebEntityId: 21947
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Antimony.md|Antimony]] 
-- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Antimony.internal.md|Antimony.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Antimony.protect.md|Antimony.protect]] 
-- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Antimony.private.md|Antimony.private]] 
-- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Antimony.personal.md|Antimony.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Antimony.secret.md|Antimony.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Antimony.internal|Antimony.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Antimony.protect|Antimony.protect]] 
+- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Antimony.private|Antimony.private]] 
+- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Antimony.personal|Antimony.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Antimony.secret|Antimony.secret]] 

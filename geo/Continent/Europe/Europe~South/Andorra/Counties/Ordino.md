@@ -41,9 +41,9 @@ markerFolder: ./Ordino/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Andorra/Counties/Ordino.md|Ordino]] 
-- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Ordino.internal.md|Ordino.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Ordino.protect.md|Ordino.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Ordino.private.md|Ordino.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Ordino.personal.md|Ordino.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Ordino.secret.md|Ordino.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Ordino.internal|Ordino.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Ordino.protect|Ordino.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Ordino.private|Ordino.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Ordino.personal|Ordino.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Ordino.secret|Ordino.secret]] 
 

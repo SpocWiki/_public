@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Moving_to_a_new_dimension-Automation]
 [SpocWebEntityId::24696]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.md|Triz-Power+Moving_to_a_new_dimension-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.internal.md|Triz-Power+Moving_to_a_new_dimension-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.protect.md|Triz-Power+Moving_to_a_new_dimension-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.private.md|Triz-Power+Moving_to_a_new_dimension-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.personal.md|Triz-Power+Moving_to_a_new_dimension-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.secret.md|Triz-Power+Moving_to_a_new_dimension-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.internal|Triz-Power+Moving_to_a_new_dimension-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.protect|Triz-Power+Moving_to_a_new_dimension-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.private|Triz-Power+Moving_to_a_new_dimension-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.personal|Triz-Power+Moving_to_a_new_dimension-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.secret|Triz-Power+Moving_to_a_new_dimension-Automation.secret]] 

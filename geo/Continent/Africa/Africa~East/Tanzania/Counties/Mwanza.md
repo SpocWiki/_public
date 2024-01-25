@@ -41,9 +41,9 @@ markerFolder: ./Mwanza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mwanza.md|Mwanza]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mwanza.internal.md|Mwanza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mwanza.protect.md|Mwanza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mwanza.private.md|Mwanza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mwanza.personal.md|Mwanza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mwanza.secret.md|Mwanza.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mwanza.internal|Mwanza.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mwanza.protect|Mwanza.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mwanza.private|Mwanza.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mwanza.personal|Mwanza.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mwanza.secret|Mwanza.secret]] 
 

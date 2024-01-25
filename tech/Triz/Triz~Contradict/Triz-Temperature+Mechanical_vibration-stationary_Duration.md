@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Mechanical_vibration-stationary_Duration]
 [SpocWebEntityId::24277]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.md|Triz-Temperature+Mechanical_vibration-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.internal.md|Triz-Temperature+Mechanical_vibration-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.protect.md|Triz-Temperature+Mechanical_vibration-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.private.md|Triz-Temperature+Mechanical_vibration-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.personal.md|Triz-Temperature+Mechanical_vibration-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.secret.md|Triz-Temperature+Mechanical_vibration-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.internal|Triz-Temperature+Mechanical_vibration-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.protect|Triz-Temperature+Mechanical_vibration-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.private|Triz-Temperature+Mechanical_vibration-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.personal|Triz-Temperature+Mechanical_vibration-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.secret|Triz-Temperature+Mechanical_vibration-stationary_Duration.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.md|Mlada_Boleslaw]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.internal.md|Mlada_Boleslaw.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.protect.md|Mlada_Boleslaw.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.private.md|Mlada_Boleslaw.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.personal.md|Mlada_Boleslaw.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.secret.md|Mlada_Boleslaw.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.internal|Mlada_Boleslaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.protect|Mlada_Boleslaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.private|Mlada_Boleslaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.personal|Mlada_Boleslaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.secret|Mlada_Boleslaw.secret]] 

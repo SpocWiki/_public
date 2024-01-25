@@ -18,8 +18,8 @@ Back-up Parachute
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Back-up.md|Triz-Back-up]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Back-up.internal.md|Triz-Back-up.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Back-up.protect.md|Triz-Back-up.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Back-up.private.md|Triz-Back-up.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Back-up.personal.md|Triz-Back-up.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Back-up.secret.md|Triz-Back-up.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Back-up.internal|Triz-Back-up.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Back-up.protect|Triz-Back-up.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Back-up.private|Triz-Back-up.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Back-up.personal|Triz-Back-up.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Back-up.secret|Triz-Back-up.secret]] 

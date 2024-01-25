@@ -41,9 +41,9 @@ markerFolder: ./Mahdia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Mahdia.md|Mahdia]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Mahdia.internal.md|Mahdia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Mahdia.protect.md|Mahdia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Mahdia.private.md|Mahdia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Mahdia.personal.md|Mahdia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Mahdia.secret.md|Mahdia.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Mahdia.internal|Mahdia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Mahdia.protect|Mahdia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Mahdia.private|Mahdia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Mahdia.personal|Mahdia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Mahdia.secret|Mahdia.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.md|Colditz]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.internal.md|Colditz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.protect.md|Colditz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.private.md|Colditz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.personal.md|Colditz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.secret.md|Colditz.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.internal|Colditz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.protect|Colditz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.private|Colditz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.personal|Colditz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Colditz.secret|Colditz.secret]] 

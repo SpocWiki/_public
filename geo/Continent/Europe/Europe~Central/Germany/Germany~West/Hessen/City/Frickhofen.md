@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Frickhofen|Frickhofen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.internal.md|Frickhofen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.protect.md|Frickhofen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.private.md|Frickhofen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.personal.md|Frickhofen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.secret.md|Frickhofen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.internal|Frickhofen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.protect|Frickhofen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.private|Frickhofen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.personal|Frickhofen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.secret|Frickhofen.secret]] 

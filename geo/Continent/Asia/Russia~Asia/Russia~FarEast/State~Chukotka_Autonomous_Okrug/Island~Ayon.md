@@ -41,11 +41,11 @@ markerFolder: ./Island~Ayon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.md|Island~Ayon]] 
-- [[../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.internal.md|Island~Ayon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.protect.md|Island~Ayon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.private.md|Island~Ayon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.personal.md|Island~Ayon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.secret.md|Island~Ayon.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.internal|Island~Ayon.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.protect|Island~Ayon.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.private|Island~Ayon.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.personal|Island~Ayon.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.secret|Island~Ayon.secret]] 
 
 
 

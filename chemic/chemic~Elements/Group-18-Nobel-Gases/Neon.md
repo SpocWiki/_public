@@ -38,8 +38,8 @@ SpocWebEntityId: 21912
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Neon.md|Neon]] 
-- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Neon.internal.md|Neon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Neon.protect.md|Neon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Neon.private.md|Neon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Neon.personal.md|Neon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Neon.secret.md|Neon.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Neon.internal|Neon.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Neon.protect|Neon.protect]] 
+- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Neon.private|Neon.private]] 
+- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Neon.personal|Neon.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Neon.secret|Neon.secret]] 

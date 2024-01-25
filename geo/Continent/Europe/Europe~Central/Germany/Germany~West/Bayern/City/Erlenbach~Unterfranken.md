@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Erlenbach~Unterfranken|Erlenbach~Unterfranken]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.internal.md|Erlenbach~Unterfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.protect.md|Erlenbach~Unterfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.private.md|Erlenbach~Unterfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.personal.md|Erlenbach~Unterfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.secret.md|Erlenbach~Unterfranken.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.internal|Erlenbach~Unterfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.protect|Erlenbach~Unterfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.private|Erlenbach~Unterfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.personal|Erlenbach~Unterfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.secret|Erlenbach~Unterfranken.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.md|Chateau-d'Oex]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.internal.md|Chateau-d'Oex.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.protect.md|Chateau-d'Oex.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.private.md|Chateau-d'Oex.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.personal.md|Chateau-d'Oex.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.secret.md|Chateau-d'Oex.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.internal|Chateau-d'Oex.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.protect|Chateau-d'Oex.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.private|Chateau-d'Oex.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.personal|Chateau-d'Oex.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.secret|Chateau-d'Oex.secret]] 

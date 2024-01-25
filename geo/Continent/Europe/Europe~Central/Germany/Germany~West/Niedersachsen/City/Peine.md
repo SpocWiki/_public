@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Peine|Peine]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.internal.md|Peine.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.protect.md|Peine.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.private.md|Peine.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.personal.md|Peine.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.secret.md|Peine.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.internal|Peine.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.protect|Peine.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.private|Peine.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.personal|Peine.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.secret|Peine.secret]] 

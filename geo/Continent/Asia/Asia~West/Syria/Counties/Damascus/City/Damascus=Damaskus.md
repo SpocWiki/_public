@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Syria/City/Damascus=Damaskus.md|Damascus=Damaskus]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Syria/City/Damascus=Damaskus.internal.md|Damascus=Damaskus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Syria/City/Damascus=Damaskus.protect.md|Damascus=Damaskus.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Syria/City/Damascus=Damaskus.private.md|Damascus=Damaskus.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Syria/City/Damascus=Damaskus.personal.md|Damascus=Damaskus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Syria/City/Damascus=Damaskus.secret.md|Damascus=Damaskus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Syria/City/Damascus=Damaskus.internal|Damascus=Damaskus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Syria/City/Damascus=Damaskus.protect|Damascus=Damaskus.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Syria/City/Damascus=Damaskus.private|Damascus=Damaskus.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Syria/City/Damascus=Damaskus.personal|Damascus=Damaskus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Syria/City/Damascus=Damaskus.secret|Damascus=Damaskus.secret]] 

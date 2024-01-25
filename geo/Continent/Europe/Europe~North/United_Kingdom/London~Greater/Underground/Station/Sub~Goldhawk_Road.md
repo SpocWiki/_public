@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.md|Sub~Goldhawk_Road]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.internal.md|Sub~Goldhawk_Road.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.protect.md|Sub~Goldhawk_Road.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.private.md|Sub~Goldhawk_Road.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.personal.md|Sub~Goldhawk_Road.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.secret.md|Sub~Goldhawk_Road.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.internal|Sub~Goldhawk_Road.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.protect|Sub~Goldhawk_Road.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.private|Sub~Goldhawk_Road.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.personal|Sub~Goldhawk_Road.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.secret|Sub~Goldhawk_Road.secret]] 

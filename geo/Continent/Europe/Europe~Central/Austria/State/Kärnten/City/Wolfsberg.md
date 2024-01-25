@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wolfsberg.md|Wolfsberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfsberg.internal.md|Wolfsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfsberg.protect.md|Wolfsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfsberg.private.md|Wolfsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfsberg.personal.md|Wolfsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfsberg.secret.md|Wolfsberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfsberg.internal|Wolfsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfsberg.protect|Wolfsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfsberg.private|Wolfsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfsberg.personal|Wolfsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfsberg.secret|Wolfsberg.secret]] 

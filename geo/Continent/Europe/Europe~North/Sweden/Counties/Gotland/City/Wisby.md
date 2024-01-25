@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Wisby.md|Wisby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Wisby.internal.md|Wisby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Wisby.protect.md|Wisby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Wisby.private.md|Wisby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Wisby.personal.md|Wisby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Wisby.secret.md|Wisby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Wisby.internal|Wisby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Wisby.protect|Wisby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Wisby.private|Wisby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Wisby.personal|Wisby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Wisby.secret|Wisby.secret]] 

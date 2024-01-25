@@ -41,9 +41,9 @@ markerFolder: ./Morazán/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Morazán.md|Morazán]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Morazán.internal.md|Morazán.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Morazán.protect.md|Morazán.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Morazán.private.md|Morazán.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Morazán.personal.md|Morazán.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Morazán.secret.md|Morazán.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Morazán.internal|Morazán.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Morazán.protect|Morazán.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Morazán.private|Morazán.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Morazán.personal|Morazán.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Morazán.secret|Morazán.secret]] 
 

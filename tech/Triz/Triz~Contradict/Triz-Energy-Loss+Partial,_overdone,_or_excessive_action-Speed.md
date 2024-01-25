@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Partial,_overdone,_or_excessive_action-Speed]
 [SpocWebEntityId::24727]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.md|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.internal.md|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.protect.md|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.private.md|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.personal.md|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.secret.md|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.internal|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.protect|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.private|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.personal|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.secret|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.secret]] 

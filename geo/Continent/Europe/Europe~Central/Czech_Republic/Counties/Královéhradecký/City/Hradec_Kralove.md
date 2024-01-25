@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.md|Hradec_Kralove]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.internal.md|Hradec_Kralove.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.protect.md|Hradec_Kralove.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.private.md|Hradec_Kralove.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.personal.md|Hradec_Kralove.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.secret.md|Hradec_Kralove.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.internal|Hradec_Kralove.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.protect|Hradec_Kralove.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.private|Hradec_Kralove.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.personal|Hradec_Kralove.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.secret|Hradec_Kralove.secret]] 

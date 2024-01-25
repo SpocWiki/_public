@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.md|Mittenwalde]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.internal.md|Mittenwalde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.protect.md|Mittenwalde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.private.md|Mittenwalde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.personal.md|Mittenwalde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.secret.md|Mittenwalde.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.internal|Mittenwalde.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.protect|Mittenwalde.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.private|Mittenwalde.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.personal|Mittenwalde.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.secret|Mittenwalde.secret]] 

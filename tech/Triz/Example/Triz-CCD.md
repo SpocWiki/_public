@@ -18,8 +18,8 @@ CCD (Charge coupled device) with micro-lenses formed on the surface
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-CCD.md|Triz-CCD]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-CCD.internal.md|Triz-CCD.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-CCD.protect.md|Triz-CCD.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-CCD.private.md|Triz-CCD.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-CCD.personal.md|Triz-CCD.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-CCD.secret.md|Triz-CCD.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-CCD.internal|Triz-CCD.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-CCD.protect|Triz-CCD.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-CCD.private|Triz-CCD.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-CCD.personal|Triz-CCD.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-CCD.secret|Triz-CCD.secret]] 

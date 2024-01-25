@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alkes.md|Alkes]] 
-- [[../../../_internal/astro/Star/Alkes.internal.md|Alkes.internal]] 
-- [[../../../_protect/astro/Star/Alkes.protect.md|Alkes.protect]] 
-- [[../../../_private/astro/Star/Alkes.private.md|Alkes.private]] 
-- [[../../../_personal/astro/Star/Alkes.personal.md|Alkes.personal]] 
-- [[../../../_secret/astro/Star/Alkes.secret.md|Alkes.secret]]
+- [[../../../_internal/astro/Star/Alkes.internal|Alkes.internal]] 
+- [[../../../_protect/astro/Star/Alkes.protect|Alkes.protect]] 
+- [[../../../_private/astro/Star/Alkes.private|Alkes.private]] 
+- [[../../../_personal/astro/Star/Alkes.personal|Alkes.personal]] 
+- [[../../../_secret/astro/Star/Alkes.secret|Alkes.secret]]
 

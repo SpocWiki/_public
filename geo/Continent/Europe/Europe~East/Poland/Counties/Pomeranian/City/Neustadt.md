@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neustadt.md|Neustadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustadt.internal.md|Neustadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustadt.protect.md|Neustadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neustadt.private.md|Neustadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustadt.personal.md|Neustadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustadt.secret.md|Neustadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustadt.internal|Neustadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustadt.protect|Neustadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neustadt.private|Neustadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustadt.personal|Neustadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustadt.secret|Neustadt.secret]] 

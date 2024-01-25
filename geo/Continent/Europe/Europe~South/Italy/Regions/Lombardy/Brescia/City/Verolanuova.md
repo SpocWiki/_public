@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Verolanuova.md|Verolanuova]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Verolanuova.internal.md|Verolanuova.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Verolanuova.protect.md|Verolanuova.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Verolanuova.private.md|Verolanuova.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Verolanuova.personal.md|Verolanuova.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Verolanuova.secret.md|Verolanuova.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Verolanuova.internal|Verolanuova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Verolanuova.protect|Verolanuova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Verolanuova.private|Verolanuova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Verolanuova.personal|Verolanuova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Verolanuova.secret|Verolanuova.secret]] 

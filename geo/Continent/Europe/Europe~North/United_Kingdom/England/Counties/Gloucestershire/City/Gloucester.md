@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gloucester.md|Gloucester]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gloucester.internal.md|Gloucester.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gloucester.protect.md|Gloucester.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gloucester.private.md|Gloucester.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gloucester.personal.md|Gloucester.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gloucester.secret.md|Gloucester.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gloucester.internal|Gloucester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gloucester.protect|Gloucester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gloucester.private|Gloucester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gloucester.personal|Gloucester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gloucester.secret|Gloucester.secret]] 

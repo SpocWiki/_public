@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.md|Ried~Oberoesterreich]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.internal.md|Ried~Oberoesterreich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.protect.md|Ried~Oberoesterreich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.private.md|Ried~Oberoesterreich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.personal.md|Ried~Oberoesterreich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.secret.md|Ried~Oberoesterreich.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.internal|Ried~Oberoesterreich.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.protect|Ried~Oberoesterreich.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.private|Ried~Oberoesterreich.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.personal|Ried~Oberoesterreich.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.secret|Ried~Oberoesterreich.secret]] 

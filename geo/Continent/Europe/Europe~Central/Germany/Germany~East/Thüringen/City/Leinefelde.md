@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.md|Leinefelde]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.internal.md|Leinefelde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.protect.md|Leinefelde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.private.md|Leinefelde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.personal.md|Leinefelde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.secret.md|Leinefelde.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.internal|Leinefelde.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.protect|Leinefelde.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.private|Leinefelde.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.personal|Leinefelde.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Leinefelde.secret|Leinefelde.secret]] 

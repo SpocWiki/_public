@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Vollmerz|Vollmerz]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.internal.md|Vollmerz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.protect.md|Vollmerz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.private.md|Vollmerz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.personal.md|Vollmerz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.secret.md|Vollmerz.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.internal|Vollmerz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.protect|Vollmerz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.private|Vollmerz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.personal|Vollmerz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.secret|Vollmerz.secret]] 

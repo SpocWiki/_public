@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Thermal_expansion-Shape]
 [SpocWebEntityId::26213]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.md|Triz-Versatility+Thermal_expansion-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.internal.md|Triz-Versatility+Thermal_expansion-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.protect.md|Triz-Versatility+Thermal_expansion-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.private.md|Triz-Versatility+Thermal_expansion-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.personal.md|Triz-Versatility+Thermal_expansion-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.secret.md|Triz-Versatility+Thermal_expansion-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.internal|Triz-Versatility+Thermal_expansion-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.protect|Triz-Versatility+Thermal_expansion-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.private|Triz-Versatility+Thermal_expansion-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.personal|Triz-Versatility+Thermal_expansion-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.secret|Triz-Versatility+Thermal_expansion-Shape.secret]] 

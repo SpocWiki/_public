@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Marschinskoje.md|Marschinskoje]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Marschinskoje.internal.md|Marschinskoje.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Marschinskoje.protect.md|Marschinskoje.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Marschinskoje.private.md|Marschinskoje.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Marschinskoje.personal.md|Marschinskoje.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Marschinskoje.secret.md|Marschinskoje.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Marschinskoje.internal|Marschinskoje.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Marschinskoje.protect|Marschinskoje.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Marschinskoje.private|Marschinskoje.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Marschinskoje.personal|Marschinskoje.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Marschinskoje.secret|Marschinskoje.secret]] 

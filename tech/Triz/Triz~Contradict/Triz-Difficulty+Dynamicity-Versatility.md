@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Dynamicity-Versatility]
 [SpocWebEntityId::26525]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.md|Triz-Difficulty+Dynamicity-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.internal.md|Triz-Difficulty+Dynamicity-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.protect.md|Triz-Difficulty+Dynamicity-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.private.md|Triz-Difficulty+Dynamicity-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.personal.md|Triz-Difficulty+Dynamicity-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.secret.md|Triz-Difficulty+Dynamicity-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.internal|Triz-Difficulty+Dynamicity-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.protect|Triz-Difficulty+Dynamicity-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.private|Triz-Difficulty+Dynamicity-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.personal|Triz-Difficulty+Dynamicity-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Versatility.secret|Triz-Difficulty+Dynamicity-Versatility.secret]] 

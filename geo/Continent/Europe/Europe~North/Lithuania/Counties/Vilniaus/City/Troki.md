@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Troki.md|Troki]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troki.internal.md|Troki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troki.protect.md|Troki.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troki.private.md|Troki.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troki.personal.md|Troki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troki.secret.md|Troki.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troki.internal|Troki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troki.protect|Troki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troki.private|Troki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troki.personal|Troki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troki.secret|Troki.secret]] 

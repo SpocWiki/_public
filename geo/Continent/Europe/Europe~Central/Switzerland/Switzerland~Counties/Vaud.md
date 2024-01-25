@@ -41,9 +41,9 @@ markerFolder: ./Vaud/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.md|Vaud]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.internal.md|Vaud.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.protect.md|Vaud.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.private.md|Vaud.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.personal.md|Vaud.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.secret.md|Vaud.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.internal|Vaud.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.protect|Vaud.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.private|Vaud.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.personal|Vaud.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Vaud.secret|Vaud.secret]] 
 

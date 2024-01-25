@@ -137,7 +137,7 @@ markerFolder: ./Zimbabwe//
 ## Confidential Links & Embeds: 
 - [[Zimbabwe|Zimbabwe]] 
 - [[../../../../../_internal/geo/Continent/Africa/Zimbabwe.internal|Zimbabwe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zimbabwe.protect.md|Zimbabwe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zimbabwe.private.md|Zimbabwe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zimbabwe.personal.md|Zimbabwe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zimbabwe.secret.md|Zimbabwe.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Zimbabwe.protect|Zimbabwe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zimbabwe.private|Zimbabwe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zimbabwe.personal|Zimbabwe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zimbabwe.secret|Zimbabwe.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Saint_Mary/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.md|Saint_Mary]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.internal.md|Saint_Mary.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.protect.md|Saint_Mary.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.private.md|Saint_Mary.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.personal.md|Saint_Mary.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.secret.md|Saint_Mary.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.internal|Saint_Mary.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.protect|Saint_Mary.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.private|Saint_Mary.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.personal|Saint_Mary.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Mary.secret|Saint_Mary.secret]] 
 

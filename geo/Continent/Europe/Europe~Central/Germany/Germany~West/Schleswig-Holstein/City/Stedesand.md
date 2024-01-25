@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Stedesand|Stedesand]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.internal.md|Stedesand.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.protect.md|Stedesand.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.private.md|Stedesand.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.personal.md|Stedesand.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.secret.md|Stedesand.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.internal|Stedesand.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.protect|Stedesand.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.private|Stedesand.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.personal|Stedesand.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.secret|Stedesand.secret]] 

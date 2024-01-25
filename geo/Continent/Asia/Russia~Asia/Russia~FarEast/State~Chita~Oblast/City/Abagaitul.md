@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/China/City/Abagaitul.md|Abagaitul]] 
-- [[../../../../../../_internal/geo/Continent/Asia/China/City/Abagaitul.internal.md|Abagaitul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/China/City/Abagaitul.protect.md|Abagaitul.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/China/City/Abagaitul.private.md|Abagaitul.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/China/City/Abagaitul.personal.md|Abagaitul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/China/City/Abagaitul.secret.md|Abagaitul.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/China/City/Abagaitul.internal|Abagaitul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/China/City/Abagaitul.protect|Abagaitul.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/China/City/Abagaitul.private|Abagaitul.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/China/City/Abagaitul.personal|Abagaitul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/China/City/Abagaitul.secret|Abagaitul.secret]] 

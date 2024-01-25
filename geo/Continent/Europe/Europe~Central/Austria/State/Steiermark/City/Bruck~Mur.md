@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bruck~Mur.md|Bruck~Mur]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bruck~Mur.internal.md|Bruck~Mur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bruck~Mur.protect.md|Bruck~Mur.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bruck~Mur.private.md|Bruck~Mur.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bruck~Mur.personal.md|Bruck~Mur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bruck~Mur.secret.md|Bruck~Mur.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bruck~Mur.internal|Bruck~Mur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bruck~Mur.protect|Bruck~Mur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bruck~Mur.private|Bruck~Mur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bruck~Mur.personal|Bruck~Mur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bruck~Mur.secret|Bruck~Mur.secret]] 

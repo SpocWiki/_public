@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Mechanical_vibration-stationary_Length]
 [SpocWebEntityId::26082]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-stationary_Length]]]
+- [#has_/Cons :: [[Triz-stationary_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.md|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.internal.md|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.protect.md|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.private.md|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.personal.md|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.secret.md|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.internal|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.protect|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.private|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.personal|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.secret|Triz-Ease_of_repair+Mechanical_vibration-stationary_Length.secret]] 

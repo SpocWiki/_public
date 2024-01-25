@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Madrid.md|Madrid]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Madrid.internal.md|Madrid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Madrid.protect.md|Madrid.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Madrid.private.md|Madrid.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Madrid.personal.md|Madrid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Madrid.secret.md|Madrid.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Madrid.internal|Madrid.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Madrid.protect|Madrid.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Madrid.private|Madrid.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Madrid.personal|Madrid.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Madrid.secret|Madrid.secret]] 

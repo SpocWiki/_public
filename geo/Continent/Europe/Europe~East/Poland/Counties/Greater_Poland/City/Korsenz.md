@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Korsenz.md|Korsenz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Korsenz.internal.md|Korsenz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Korsenz.protect.md|Korsenz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Korsenz.private.md|Korsenz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Korsenz.personal.md|Korsenz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Korsenz.secret.md|Korsenz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Korsenz.internal|Korsenz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Korsenz.protect|Korsenz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Korsenz.private|Korsenz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Korsenz.personal|Korsenz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Korsenz.secret|Korsenz.secret]] 

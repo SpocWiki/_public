@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Phase_transition-Manufacturing_Precision]
 [SpocWebEntityId::23564]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.md|Triz-Intensity+Phase_transition-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.internal.md|Triz-Intensity+Phase_transition-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.protect.md|Triz-Intensity+Phase_transition-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.private.md|Triz-Intensity+Phase_transition-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.personal.md|Triz-Intensity+Phase_transition-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.secret.md|Triz-Intensity+Phase_transition-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.internal|Triz-Intensity+Phase_transition-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.protect|Triz-Intensity+Phase_transition-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.private|Triz-Intensity+Phase_transition-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.personal|Triz-Intensity+Phase_transition-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.secret|Triz-Intensity+Phase_transition-Manufacturing_Precision.secret]] 

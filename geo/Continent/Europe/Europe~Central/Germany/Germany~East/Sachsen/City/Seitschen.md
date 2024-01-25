@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.md|Seitschen]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.internal.md|Seitschen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.protect.md|Seitschen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.private.md|Seitschen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.personal.md|Seitschen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.secret.md|Seitschen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.internal|Seitschen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.protect|Seitschen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.private|Seitschen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.personal|Seitschen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.secret|Seitschen.secret]] 

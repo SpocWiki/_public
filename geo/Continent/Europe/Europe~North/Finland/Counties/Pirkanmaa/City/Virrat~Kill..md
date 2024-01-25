@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Virrat~Kill..md|Virrat~Kill.]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Virrat~Kill..internal.md|Virrat~Kill..internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Virrat~Kill..protect.md|Virrat~Kill..protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Virrat~Kill..private.md|Virrat~Kill..private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Virrat~Kill..personal.md|Virrat~Kill..personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Virrat~Kill..secret.md|Virrat~Kill..secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Virrat~Kill..internal|Virrat~Kill..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Virrat~Kill..protect|Virrat~Kill..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Virrat~Kill..private|Virrat~Kill..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Virrat~Kill..personal|Virrat~Kill..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Virrat~Kill..secret|Virrat~Kill..secret]] 

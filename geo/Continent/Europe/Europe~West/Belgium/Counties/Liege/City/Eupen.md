@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Eupen.md|Eupen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Eupen.internal.md|Eupen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Eupen.protect.md|Eupen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Eupen.private.md|Eupen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Eupen.personal.md|Eupen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Eupen.secret.md|Eupen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Eupen.internal|Eupen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Eupen.protect|Eupen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Eupen.private|Eupen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Eupen.personal|Eupen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Eupen.secret|Eupen.secret]] 

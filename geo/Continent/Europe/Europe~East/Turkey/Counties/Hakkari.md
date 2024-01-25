@@ -41,9 +41,9 @@ markerFolder: ./Hakkari/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Hakkari.md|Hakkari]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Hakkari.internal.md|Hakkari.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Hakkari.protect.md|Hakkari.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Hakkari.private.md|Hakkari.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Hakkari.personal.md|Hakkari.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Hakkari.secret.md|Hakkari.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Hakkari.internal|Hakkari.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Hakkari.protect|Hakkari.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Hakkari.private|Hakkari.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Hakkari.personal|Hakkari.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Hakkari.secret|Hakkari.secret]] 
 

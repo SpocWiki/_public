@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Tania_Borealis.md|Tania_Borealis]] 
-- [[../../../_internal/astro/Star/Tania_Borealis.internal.md|Tania_Borealis.internal]] 
-- [[../../../_protect/astro/Star/Tania_Borealis.protect.md|Tania_Borealis.protect]] 
-- [[../../../_private/astro/Star/Tania_Borealis.private.md|Tania_Borealis.private]] 
-- [[../../../_personal/astro/Star/Tania_Borealis.personal.md|Tania_Borealis.personal]] 
-- [[../../../_secret/astro/Star/Tania_Borealis.secret.md|Tania_Borealis.secret]] 
+- [[../../../_internal/astro/Star/Tania_Borealis.internal|Tania_Borealis.internal]] 
+- [[../../../_protect/astro/Star/Tania_Borealis.protect|Tania_Borealis.protect]] 
+- [[../../../_private/astro/Star/Tania_Borealis.private|Tania_Borealis.private]] 
+- [[../../../_personal/astro/Star/Tania_Borealis.personal|Tania_Borealis.personal]] 
+- [[../../../_secret/astro/Star/Tania_Borealis.secret|Tania_Borealis.secret]] 

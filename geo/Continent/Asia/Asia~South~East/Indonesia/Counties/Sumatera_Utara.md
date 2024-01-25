@@ -41,9 +41,9 @@ markerFolder: ./Sumatera_Utara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.md|Sumatera_Utara]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.internal.md|Sumatera_Utara.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.protect.md|Sumatera_Utara.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.private.md|Sumatera_Utara.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.personal.md|Sumatera_Utara.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.secret.md|Sumatera_Utara.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.internal|Sumatera_Utara.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.protect|Sumatera_Utara.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.private|Sumatera_Utara.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.personal|Sumatera_Utara.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Utara.secret|Sumatera_Utara.secret]] 
 

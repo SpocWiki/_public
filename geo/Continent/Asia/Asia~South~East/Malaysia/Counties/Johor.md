@@ -41,9 +41,9 @@ markerFolder: ./Johor/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.md|Johor]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.internal.md|Johor.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.protect.md|Johor.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.private.md|Johor.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.personal.md|Johor.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.secret.md|Johor.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.internal|Johor.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.protect|Johor.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.private|Johor.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.personal|Johor.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Johor.secret|Johor.secret]] 
 

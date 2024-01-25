@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Cursa.md|Cursa]] 
-- [[../../../_internal/astro/Star/Cursa.internal.md|Cursa.internal]] 
-- [[../../../_protect/astro/Star/Cursa.protect.md|Cursa.protect]] 
-- [[../../../_private/astro/Star/Cursa.private.md|Cursa.private]] 
-- [[../../../_personal/astro/Star/Cursa.personal.md|Cursa.personal]] 
-- [[../../../_secret/astro/Star/Cursa.secret.md|Cursa.secret]]
+- [[../../../_internal/astro/Star/Cursa.internal|Cursa.internal]] 
+- [[../../../_protect/astro/Star/Cursa.protect|Cursa.protect]] 
+- [[../../../_private/astro/Star/Cursa.private|Cursa.private]] 
+- [[../../../_personal/astro/Star/Cursa.personal|Cursa.personal]] 
+- [[../../../_secret/astro/Star/Cursa.secret|Cursa.secret]]
 

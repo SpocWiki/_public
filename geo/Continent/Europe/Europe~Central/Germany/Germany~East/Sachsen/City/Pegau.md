@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.md|Pegau]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.internal.md|Pegau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.protect.md|Pegau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.private.md|Pegau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.personal.md|Pegau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.secret.md|Pegau.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.internal|Pegau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.protect|Pegau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.private|Pegau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.personal|Pegau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.secret|Pegau.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Oubritenga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.md|Oubritenga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.internal.md|Oubritenga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.protect.md|Oubritenga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.private.md|Oubritenga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.personal.md|Oubritenga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.secret.md|Oubritenga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.internal|Oubritenga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.protect|Oubritenga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.private|Oubritenga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.personal|Oubritenga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Oubritenga.secret|Oubritenga.secret]] 
 

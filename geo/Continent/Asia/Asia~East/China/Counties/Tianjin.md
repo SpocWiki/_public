@@ -41,9 +41,9 @@ markerFolder: ./Tianjin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.md|Tianjin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.internal.md|Tianjin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.protect.md|Tianjin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.private.md|Tianjin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.personal.md|Tianjin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.secret.md|Tianjin.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.internal|Tianjin.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.protect|Tianjin.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.private|Tianjin.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.personal|Tianjin.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.secret|Tianjin.secret]] 
 

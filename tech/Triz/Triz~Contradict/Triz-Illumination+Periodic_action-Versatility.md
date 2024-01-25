@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Periodic_action-Versatility]
 [SpocWebEntityId::24428]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.md|Triz-Illumination+Periodic_action-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.internal.md|Triz-Illumination+Periodic_action-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.protect.md|Triz-Illumination+Periodic_action-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.private.md|Triz-Illumination+Periodic_action-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.personal.md|Triz-Illumination+Periodic_action-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.secret.md|Triz-Illumination+Periodic_action-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.internal|Triz-Illumination+Periodic_action-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.protect|Triz-Illumination+Periodic_action-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.private|Triz-Illumination+Periodic_action-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.personal|Triz-Illumination+Periodic_action-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.secret|Triz-Illumination+Periodic_action-Versatility.secret]] 

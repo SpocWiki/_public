@@ -41,9 +41,9 @@ markerFolder: ./Azuay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Azuay.md|Azuay]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Azuay.internal.md|Azuay.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Azuay.protect.md|Azuay.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Azuay.private.md|Azuay.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Azuay.personal.md|Azuay.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Azuay.secret.md|Azuay.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Azuay.internal|Azuay.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Azuay.protect|Azuay.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Azuay.private|Azuay.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Azuay.personal|Azuay.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Azuay.secret|Azuay.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Myanmar/City/Naypyidaw.md|Naypyidaw]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Myanmar/City/Naypyidaw.internal.md|Naypyidaw.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Myanmar/City/Naypyidaw.protect.md|Naypyidaw.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Myanmar/City/Naypyidaw.private.md|Naypyidaw.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Myanmar/City/Naypyidaw.personal.md|Naypyidaw.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Myanmar/City/Naypyidaw.secret.md|Naypyidaw.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Myanmar/City/Naypyidaw.internal|Naypyidaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Myanmar/City/Naypyidaw.protect|Naypyidaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Myanmar/City/Naypyidaw.private|Naypyidaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Myanmar/City/Naypyidaw.personal|Naypyidaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Myanmar/City/Naypyidaw.secret|Naypyidaw.secret]] 

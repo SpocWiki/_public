@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Achernar.md|Achernar]] 
-- [[../../../_internal/astro/Star/Achernar.internal.md|Achernar.internal]] 
-- [[../../../_protect/astro/Star/Achernar.protect.md|Achernar.protect]] 
-- [[../../../_private/astro/Star/Achernar.private.md|Achernar.private]] 
-- [[../../../_personal/astro/Star/Achernar.personal.md|Achernar.personal]] 
-- [[../../../_secret/astro/Star/Achernar.secret.md|Achernar.secret]]
+- [[../../../_internal/astro/Star/Achernar.internal|Achernar.internal]] 
+- [[../../../_protect/astro/Star/Achernar.protect|Achernar.protect]] 
+- [[../../../_private/astro/Star/Achernar.private|Achernar.private]] 
+- [[../../../_personal/astro/Star/Achernar.personal|Achernar.personal]] 
+- [[../../../_secret/astro/Star/Achernar.secret|Achernar.secret]]
 

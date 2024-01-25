@@ -41,9 +41,9 @@ markerFolder: ./Paphos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Cyprus/Counties/Paphos.md|Paphos]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Paphos.internal.md|Paphos.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Paphos.protect.md|Paphos.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Paphos.private.md|Paphos.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Paphos.personal.md|Paphos.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Paphos.secret.md|Paphos.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Paphos.internal|Paphos.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Paphos.protect|Paphos.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Paphos.private|Paphos.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Paphos.personal|Paphos.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Paphos.secret|Paphos.secret]] 
 

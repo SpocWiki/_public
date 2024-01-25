@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Norrtelje.md|Norrtelje]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Norrtelje.internal.md|Norrtelje.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Norrtelje.protect.md|Norrtelje.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Norrtelje.private.md|Norrtelje.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Norrtelje.personal.md|Norrtelje.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Norrtelje.secret.md|Norrtelje.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Norrtelje.internal|Norrtelje.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Norrtelje.protect|Norrtelje.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Norrtelje.private|Norrtelje.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Norrtelje.personal|Norrtelje.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Norrtelje.secret|Norrtelje.secret]] 

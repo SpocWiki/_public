@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.md|Wittenberg]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.internal.md|Wittenberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.protect.md|Wittenberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.private.md|Wittenberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.personal.md|Wittenberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.secret.md|Wittenberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.internal|Wittenberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.protect|Wittenberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.private|Wittenberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.personal|Wittenberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wittenberg.secret|Wittenberg.secret]] 

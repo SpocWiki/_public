@@ -41,9 +41,9 @@ markerFolder: ./Cerkvenjak/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.md|Cerkvenjak]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.internal.md|Cerkvenjak.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.protect.md|Cerkvenjak.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.private.md|Cerkvenjak.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.personal.md|Cerkvenjak.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.secret.md|Cerkvenjak.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.internal|Cerkvenjak.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.protect|Cerkvenjak.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.private|Cerkvenjak.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.personal|Cerkvenjak.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Cerkvenjak.secret|Cerkvenjak.secret]] 
 

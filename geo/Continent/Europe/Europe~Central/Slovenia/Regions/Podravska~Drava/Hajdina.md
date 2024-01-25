@@ -41,9 +41,9 @@ markerFolder: ./Hajdina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.md|Hajdina]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.internal.md|Hajdina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.protect.md|Hajdina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.private.md|Hajdina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.personal.md|Hajdina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.secret.md|Hajdina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.internal|Hajdina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.protect|Hajdina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.private|Hajdina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.personal|Hajdina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hajdina.secret|Hajdina.secret]] 
 

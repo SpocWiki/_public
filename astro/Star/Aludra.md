@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Aludra.md|Aludra]] 
-- [[../../../_internal/astro/Star/Aludra.internal.md|Aludra.internal]] 
-- [[../../../_protect/astro/Star/Aludra.protect.md|Aludra.protect]] 
-- [[../../../_private/astro/Star/Aludra.private.md|Aludra.private]] 
-- [[../../../_personal/astro/Star/Aludra.personal.md|Aludra.personal]] 
-- [[../../../_secret/astro/Star/Aludra.secret.md|Aludra.secret]]
+- [[../../../_internal/astro/Star/Aludra.internal|Aludra.internal]] 
+- [[../../../_protect/astro/Star/Aludra.protect|Aludra.protect]] 
+- [[../../../_private/astro/Star/Aludra.private|Aludra.private]] 
+- [[../../../_personal/astro/Star/Aludra.personal|Aludra.personal]] 
+- [[../../../_secret/astro/Star/Aludra.secret|Aludra.secret]]
 

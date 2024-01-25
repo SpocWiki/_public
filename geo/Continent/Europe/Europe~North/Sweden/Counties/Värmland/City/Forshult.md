@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Forshult.md|Forshult]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Forshult.internal.md|Forshult.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Forshult.protect.md|Forshult.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Forshult.private.md|Forshult.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Forshult.personal.md|Forshult.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Forshult.secret.md|Forshult.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Forshult.internal|Forshult.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Forshult.protect|Forshult.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Forshult.private|Forshult.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Forshult.personal|Forshult.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Forshult.secret|Forshult.secret]] 

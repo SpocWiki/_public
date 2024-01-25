@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Rann.md|Rann]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Rann.internal.md|Rann.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Rann.protect.md|Rann.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Rann.private.md|Rann.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Rann.personal.md|Rann.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Rann.secret.md|Rann.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Rann.internal|Rann.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Rann.protect|Rann.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Rann.private|Rann.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Rann.personal|Rann.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Rann.secret|Rann.secret]] 

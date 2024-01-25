@@ -41,9 +41,9 @@ markerFolder: ./Denizli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Denizli.md|Denizli]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Denizli.internal.md|Denizli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Denizli.protect.md|Denizli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Denizli.private.md|Denizli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Denizli.personal.md|Denizli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Denizli.secret.md|Denizli.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Denizli.internal|Denizli.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Denizli.protect|Denizli.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Denizli.private|Denizli.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Denizli.personal|Denizli.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Denizli.secret|Denizli.secret]] 
 

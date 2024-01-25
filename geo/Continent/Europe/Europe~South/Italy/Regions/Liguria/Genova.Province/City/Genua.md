@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Genua.md|Genua]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Genua.internal.md|Genua.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Genua.protect.md|Genua.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Genua.private.md|Genua.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Genua.personal.md|Genua.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Genua.secret.md|Genua.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Genua.internal|Genua.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Genua.protect|Genua.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Genua.private|Genua.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Genua.personal|Genua.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Genua.secret|Genua.secret]] 

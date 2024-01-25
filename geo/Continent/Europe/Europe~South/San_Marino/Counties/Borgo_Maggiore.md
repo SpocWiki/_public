@@ -41,9 +41,9 @@ markerFolder: ./Borgo_Maggiore/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.md|Borgo_Maggiore]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.internal.md|Borgo_Maggiore.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.protect.md|Borgo_Maggiore.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.private.md|Borgo_Maggiore.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.personal.md|Borgo_Maggiore.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.secret.md|Borgo_Maggiore.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.internal|Borgo_Maggiore.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.protect|Borgo_Maggiore.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.private|Borgo_Maggiore.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.personal|Borgo_Maggiore.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Borgo_Maggiore.secret|Borgo_Maggiore.secret]] 
 

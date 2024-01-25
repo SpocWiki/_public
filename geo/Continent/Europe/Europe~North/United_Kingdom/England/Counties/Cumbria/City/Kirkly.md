@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkly.md|Kirkly]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkly.internal.md|Kirkly.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkly.protect.md|Kirkly.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkly.private.md|Kirkly.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkly.personal.md|Kirkly.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkly.secret.md|Kirkly.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkly.internal|Kirkly.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkly.protect|Kirkly.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkly.private|Kirkly.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkly.personal|Kirkly.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkly.secret|Kirkly.secret]] 

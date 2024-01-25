@@ -41,9 +41,9 @@ markerFolder: ./Grigoriopol/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Grigoriopol.md|Grigoriopol]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Grigoriopol.internal.md|Grigoriopol.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Grigoriopol.protect.md|Grigoriopol.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Grigoriopol.private.md|Grigoriopol.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Grigoriopol.personal.md|Grigoriopol.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Grigoriopol.secret.md|Grigoriopol.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Grigoriopol.internal|Grigoriopol.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Grigoriopol.protect|Grigoriopol.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Grigoriopol.private|Grigoriopol.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Grigoriopol.personal|Grigoriopol.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Grigoriopol.secret|Grigoriopol.secret]] 
 

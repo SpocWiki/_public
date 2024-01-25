@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Arezzo.md|Arezzo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Arezzo.internal.md|Arezzo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Arezzo.protect.md|Arezzo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Arezzo.private.md|Arezzo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Arezzo.personal.md|Arezzo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Arezzo.secret.md|Arezzo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Arezzo.internal|Arezzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Arezzo.protect|Arezzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Arezzo.private|Arezzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Arezzo.personal|Arezzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Arezzo.secret|Arezzo.secret]] 

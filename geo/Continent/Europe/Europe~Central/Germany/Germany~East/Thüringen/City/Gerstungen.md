@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.md|Gerstungen]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.internal.md|Gerstungen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.protect.md|Gerstungen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.private.md|Gerstungen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.personal.md|Gerstungen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.secret.md|Gerstungen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.internal|Gerstungen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.protect|Gerstungen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.private|Gerstungen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.personal|Gerstungen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Gerstungen.secret|Gerstungen.secret]] 

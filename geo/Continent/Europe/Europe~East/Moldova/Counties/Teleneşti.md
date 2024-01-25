@@ -41,9 +41,9 @@ markerFolder: ./Teleneşti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Teleneşti.md|Teleneşti]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Teleneşti.internal.md|Teleneşti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Teleneşti.protect.md|Teleneşti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Teleneşti.private.md|Teleneşti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Teleneşti.personal.md|Teleneşti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Teleneşti.secret.md|Teleneşti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Teleneşti.internal|Teleneşti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Teleneşti.protect|Teleneşti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Teleneşti.private|Teleneşti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Teleneşti.personal|Teleneşti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Teleneşti.secret|Teleneşti.secret]] 
 

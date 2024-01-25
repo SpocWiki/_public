@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Koenigstein~Taunus|Koenigstein~Taunus]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.internal.md|Koenigstein~Taunus.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.protect.md|Koenigstein~Taunus.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.private.md|Koenigstein~Taunus.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.personal.md|Koenigstein~Taunus.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.secret.md|Koenigstein~Taunus.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.internal|Koenigstein~Taunus.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.protect|Koenigstein~Taunus.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.private|Koenigstein~Taunus.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.personal|Koenigstein~Taunus.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein~Taunus.secret|Koenigstein~Taunus.secret]] 

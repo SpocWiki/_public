@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Inert_environment-Stability]
 [SpocWebEntityId::26452]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.md|Triz-Difficulty+Inert_environment-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.internal.md|Triz-Difficulty+Inert_environment-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.protect.md|Triz-Difficulty+Inert_environment-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.private.md|Triz-Difficulty+Inert_environment-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.personal.md|Triz-Difficulty+Inert_environment-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.secret.md|Triz-Difficulty+Inert_environment-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.internal|Triz-Difficulty+Inert_environment-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.protect|Triz-Difficulty+Inert_environment-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.private|Triz-Difficulty+Inert_environment-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.personal|Triz-Difficulty+Inert_environment-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Stability.secret|Triz-Difficulty+Inert_environment-Stability.secret]] 

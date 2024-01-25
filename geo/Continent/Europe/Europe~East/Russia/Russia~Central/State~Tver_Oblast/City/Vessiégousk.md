@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vessiégousk.md|Vessiégousk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vessiégousk.internal.md|Vessiégousk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vessiégousk.protect.md|Vessiégousk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vessiégousk.private.md|Vessiégousk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vessiégousk.personal.md|Vessiégousk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vessiégousk.secret.md|Vessiégousk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vessiégousk.internal|Vessiégousk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vessiégousk.protect|Vessiégousk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vessiégousk.private|Vessiégousk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vessiégousk.personal|Vessiégousk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vessiégousk.secret|Vessiégousk.secret]] 

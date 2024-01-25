@@ -41,9 +41,9 @@ markerFolder: ./Kindia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Kindia.md|Kindia]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kindia.internal.md|Kindia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kindia.protect.md|Kindia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Kindia.private.md|Kindia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kindia.personal.md|Kindia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kindia.secret.md|Kindia.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kindia.internal|Kindia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kindia.protect|Kindia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Kindia.private|Kindia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kindia.personal|Kindia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kindia.secret|Kindia.secret]] 
 

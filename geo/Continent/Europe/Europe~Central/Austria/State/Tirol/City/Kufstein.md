@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kufstein.md|Kufstein]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kufstein.internal.md|Kufstein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kufstein.protect.md|Kufstein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kufstein.private.md|Kufstein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kufstein.personal.md|Kufstein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kufstein.secret.md|Kufstein.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kufstein.internal|Kufstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kufstein.protect|Kufstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kufstein.private|Kufstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kufstein.personal|Kufstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kufstein.secret|Kufstein.secret]] 

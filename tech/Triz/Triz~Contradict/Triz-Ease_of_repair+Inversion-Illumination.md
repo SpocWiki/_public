@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Inversion-Illumination]
 [SpocWebEntityId::26119]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.md|Triz-Ease_of_repair+Inversion-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.internal.md|Triz-Ease_of_repair+Inversion-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.protect.md|Triz-Ease_of_repair+Inversion-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.private.md|Triz-Ease_of_repair+Inversion-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.personal.md|Triz-Ease_of_repair+Inversion-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.secret.md|Triz-Ease_of_repair+Inversion-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.internal|Triz-Ease_of_repair+Inversion-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.protect|Triz-Ease_of_repair+Inversion-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.private|Triz-Ease_of_repair+Inversion-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.personal|Triz-Ease_of_repair+Inversion-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.secret|Triz-Ease_of_repair+Inversion-Illumination.secret]] 

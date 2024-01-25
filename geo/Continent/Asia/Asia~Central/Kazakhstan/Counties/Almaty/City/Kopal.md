@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kopal.md|Kopal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kopal.internal.md|Kopal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kopal.protect.md|Kopal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kopal.private.md|Kopal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kopal.personal.md|Kopal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kopal.secret.md|Kopal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kopal.internal|Kopal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kopal.protect|Kopal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kopal.private|Kopal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kopal.personal|Kopal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kopal.secret|Kopal.secret]] 

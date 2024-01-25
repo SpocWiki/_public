@@ -41,9 +41,9 @@ markerFolder: ./Al_Marj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Marj.md|Al_Marj]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Marj.internal.md|Al_Marj.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Marj.protect.md|Al_Marj.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Marj.private.md|Al_Marj.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Marj.personal.md|Al_Marj.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Marj.secret.md|Al_Marj.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Marj.internal|Al_Marj.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Marj.protect|Al_Marj.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Marj.private|Al_Marj.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Marj.personal|Al_Marj.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Marj.secret|Al_Marj.secret]] 
 

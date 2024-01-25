@@ -18,8 +18,8 @@ Retractable Aircraft Landing Gear Stow inside the Fuselage (also demonstrates Pr
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Retractable_Gear.md|Triz-Retractable_Gear]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Retractable_Gear.internal.md|Triz-Retractable_Gear.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Retractable_Gear.protect.md|Triz-Retractable_Gear.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Retractable_Gear.private.md|Triz-Retractable_Gear.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Retractable_Gear.personal.md|Triz-Retractable_Gear.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Retractable_Gear.secret.md|Triz-Retractable_Gear.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Retractable_Gear.internal|Triz-Retractable_Gear.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Retractable_Gear.protect|Triz-Retractable_Gear.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Retractable_Gear.private|Triz-Retractable_Gear.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Retractable_Gear.personal|Triz-Retractable_Gear.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Retractable_Gear.secret|Triz-Retractable_Gear.secret]] 

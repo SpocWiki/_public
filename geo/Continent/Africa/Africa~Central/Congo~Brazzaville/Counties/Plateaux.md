@@ -41,9 +41,9 @@ markerFolder: ./Plateaux/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.md|Plateaux]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.internal.md|Plateaux.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.protect.md|Plateaux.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.private.md|Plateaux.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.personal.md|Plateaux.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.secret.md|Plateaux.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.internal|Plateaux.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.protect|Plateaux.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.private|Plateaux.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.personal|Plateaux.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Plateaux.secret|Plateaux.secret]] 
 

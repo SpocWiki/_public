@@ -132,8 +132,8 @@ markerFolder: ./Tonga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Tonga.md|Tonga]] 
-- [[../../../../_internal/geo/Continent/Oceania/Tonga.internal.md|Tonga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Tonga.protect.md|Tonga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Tonga.private.md|Tonga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Tonga.personal.md|Tonga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Tonga.secret.md|Tonga.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Tonga.internal|Tonga.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Tonga.protect|Tonga.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Tonga.private|Tonga.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Tonga.personal|Tonga.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Tonga.secret|Tonga.secret]] 

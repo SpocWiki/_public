@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Woldenberg.md|Woldenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Woldenberg.internal.md|Woldenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Woldenberg.protect.md|Woldenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Woldenberg.private.md|Woldenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Woldenberg.personal.md|Woldenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Woldenberg.secret.md|Woldenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Woldenberg.internal|Woldenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Woldenberg.protect|Woldenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Woldenberg.private|Woldenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Woldenberg.personal|Woldenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Woldenberg.secret|Woldenberg.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.md|Olmuetz=Cloumuc]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.internal.md|Olmuetz=Cloumuc.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.protect.md|Olmuetz=Cloumuc.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.private.md|Olmuetz=Cloumuc.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.personal.md|Olmuetz=Cloumuc.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.secret.md|Olmuetz=Cloumuc.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.internal|Olmuetz=Cloumuc.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.protect|Olmuetz=Cloumuc.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.private|Olmuetz=Cloumuc.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.personal|Olmuetz=Cloumuc.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.secret|Olmuetz=Cloumuc.secret]] 

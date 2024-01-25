@@ -41,9 +41,9 @@ markerFolder: ./Daejeon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.md|Daejeon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.internal.md|Daejeon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.protect.md|Daejeon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.private.md|Daejeon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.personal.md|Daejeon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.secret.md|Daejeon.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.internal|Daejeon.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.protect|Daejeon.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.private|Daejeon.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.personal|Daejeon.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.secret|Daejeon.secret]] 
 

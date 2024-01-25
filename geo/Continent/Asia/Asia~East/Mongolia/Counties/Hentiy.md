@@ -41,9 +41,9 @@ markerFolder: ./Hentiy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.md|Hentiy]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.internal.md|Hentiy.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.protect.md|Hentiy.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.private.md|Hentiy.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.personal.md|Hentiy.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.secret.md|Hentiy.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.internal|Hentiy.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.protect|Hentiy.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.private|Hentiy.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.personal|Hentiy.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Hentiy.secret|Hentiy.secret]] 
 

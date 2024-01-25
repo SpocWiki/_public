@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Flexible_film_or_thin_membranes-Substance-Loss]
 [SpocWebEntityId::23901]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.md|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.internal.md|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.protect.md|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.private.md|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.personal.md|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.secret.md|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.internal|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.protect|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.private|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.personal|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.secret|Triz-Stability+Flexible_film_or_thin_membranes-Substance-Loss.secret]] 

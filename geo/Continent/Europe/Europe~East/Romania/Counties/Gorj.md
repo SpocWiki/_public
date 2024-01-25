@@ -41,9 +41,9 @@ markerFolder: ./Gorj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Gorj.md|Gorj]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Gorj.internal.md|Gorj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Gorj.protect.md|Gorj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Gorj.private.md|Gorj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Gorj.personal.md|Gorj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Gorj.secret.md|Gorj.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Gorj.internal|Gorj.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Gorj.protect|Gorj.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Gorj.private|Gorj.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Gorj.personal|Gorj.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Gorj.secret|Gorj.secret]] 
 

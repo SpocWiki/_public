@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Karlsberg.md|Karlsberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Karlsberg.internal.md|Karlsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Karlsberg.protect.md|Karlsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Karlsberg.private.md|Karlsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Karlsberg.personal.md|Karlsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Karlsberg.secret.md|Karlsberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Karlsberg.internal|Karlsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Karlsberg.protect|Karlsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Karlsberg.private|Karlsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Karlsberg.personal|Karlsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Karlsberg.secret|Karlsberg.secret]] 

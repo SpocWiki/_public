@@ -41,9 +41,9 @@ markerFolder: ./Département~Val-de-Marne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.md|Département~Val-de-Marne]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.internal.md|Département~Val-de-Marne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.protect.md|Département~Val-de-Marne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.private.md|Département~Val-de-Marne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.personal.md|Département~Val-de-Marne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.secret.md|Département~Val-de-Marne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.internal|Département~Val-de-Marne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.protect|Département~Val-de-Marne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.private|Département~Val-de-Marne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.personal|Département~Val-de-Marne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-de-Marne.secret|Département~Val-de-Marne.secret]] 
 

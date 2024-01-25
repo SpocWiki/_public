@@ -41,9 +41,9 @@ markerFolder: ./North_Lebanon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.md|North_Lebanon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.internal.md|North_Lebanon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.protect.md|North_Lebanon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.private.md|North_Lebanon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.personal.md|North_Lebanon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.secret.md|North_Lebanon.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.internal|North_Lebanon.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.protect|North_Lebanon.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.private|North_Lebanon.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.personal|North_Lebanon.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/North_Lebanon.secret|North_Lebanon.secret]] 
 

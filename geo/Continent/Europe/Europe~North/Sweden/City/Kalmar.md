@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kalmar.md|Kalmar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kalmar.internal.md|Kalmar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kalmar.protect.md|Kalmar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kalmar.private.md|Kalmar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kalmar.personal.md|Kalmar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kalmar.secret.md|Kalmar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kalmar.internal|Kalmar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kalmar.protect|Kalmar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kalmar.private|Kalmar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kalmar.personal|Kalmar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kalmar.secret|Kalmar.secret]] 

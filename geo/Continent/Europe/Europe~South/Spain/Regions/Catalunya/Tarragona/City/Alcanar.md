@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Alcanar.md|Alcanar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Alcanar.internal.md|Alcanar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Alcanar.protect.md|Alcanar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Alcanar.private.md|Alcanar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Alcanar.personal.md|Alcanar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Alcanar.secret.md|Alcanar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Alcanar.internal|Alcanar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Alcanar.protect|Alcanar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Alcanar.private|Alcanar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Alcanar.personal|Alcanar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Alcanar.secret|Alcanar.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Ungvar.md|Ungvar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Ungvar.internal.md|Ungvar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Ungvar.protect.md|Ungvar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Ungvar.private.md|Ungvar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Ungvar.personal.md|Ungvar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Ungvar.secret.md|Ungvar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Ungvar.internal|Ungvar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Ungvar.protect|Ungvar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Ungvar.private|Ungvar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Ungvar.personal|Ungvar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Ungvar.secret|Ungvar.secret]] 

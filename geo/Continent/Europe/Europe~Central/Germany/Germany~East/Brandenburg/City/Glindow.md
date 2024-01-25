@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.md|Glindow]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.internal.md|Glindow.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.protect.md|Glindow.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.private.md|Glindow.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.personal.md|Glindow.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.secret.md|Glindow.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.internal|Glindow.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.protect|Glindow.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.private|Glindow.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.personal|Glindow.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Glindow.secret|Glindow.secret]] 

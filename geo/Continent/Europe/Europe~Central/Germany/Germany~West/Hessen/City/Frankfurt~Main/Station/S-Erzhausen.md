@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Erzhausen|S-Erzhausen]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.internal.md|S-Erzhausen.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.protect.md|S-Erzhausen.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.private.md|S-Erzhausen.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.personal.md|S-Erzhausen.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.secret.md|S-Erzhausen.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.internal|S-Erzhausen.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.protect|S-Erzhausen.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.private|S-Erzhausen.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.personal|S-Erzhausen.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Erzhausen.secret|S-Erzhausen.secret]] 

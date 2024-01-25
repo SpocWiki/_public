@@ -37,8 +37,8 @@ markerFolder: ./Saint-Pierre-et-Miquelon///
 
 ## Confidential Links & Embeds: 
 - [[Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]] 
-- [[../../../../_internal/geo/Continent/North-America/Saint-Pierre-et-Miquelon.internal.md|Saint-Pierre-et-Miquelon.internal]] 
-- [[../../../../_protect/geo/Continent/North-America/Saint-Pierre-et-Miquelon.protect.md|Saint-Pierre-et-Miquelon.protect]] 
-- [[../../../../_private/geo/Continent/North-America/Saint-Pierre-et-Miquelon.private.md|Saint-Pierre-et-Miquelon.private]] 
-- [[../../../../_personal/geo/Continent/North-America/Saint-Pierre-et-Miquelon.personal.md|Saint-Pierre-et-Miquelon.personal]] 
-- [[../../../../_secret/geo/Continent/North-America/Saint-Pierre-et-Miquelon.secret.md|Saint-Pierre-et-Miquelon.secret]] 
+- [[../../../../_internal/geo/Continent/North-America/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]] 
+- [[../../../../_private/geo/Continent/North-America/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]] 
+- [[../../../../_personal/geo/Continent/North-America/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ogooué-Lolo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.md|Ogooué-Lolo]] 
-- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.internal.md|Ogooué-Lolo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.protect.md|Ogooué-Lolo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.private.md|Ogooué-Lolo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.personal.md|Ogooué-Lolo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.secret.md|Ogooué-Lolo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.internal|Ogooué-Lolo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.protect|Ogooué-Lolo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.private|Ogooué-Lolo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.personal|Ogooué-Lolo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ogooué-Lolo.secret|Ogooué-Lolo.secret]] 
 

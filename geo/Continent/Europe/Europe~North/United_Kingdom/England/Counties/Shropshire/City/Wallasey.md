@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wallasey.md|Wallasey]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wallasey.internal.md|Wallasey.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wallasey.protect.md|Wallasey.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wallasey.private.md|Wallasey.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wallasey.personal.md|Wallasey.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wallasey.secret.md|Wallasey.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wallasey.internal|Wallasey.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wallasey.protect|Wallasey.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wallasey.private|Wallasey.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wallasey.personal|Wallasey.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wallasey.secret|Wallasey.secret]] 

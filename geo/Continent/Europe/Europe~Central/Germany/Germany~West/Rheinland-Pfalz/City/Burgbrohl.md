@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Burgbrohl|Burgbrohl]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.internal.md|Burgbrohl.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.protect.md|Burgbrohl.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.private.md|Burgbrohl.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.personal.md|Burgbrohl.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.secret.md|Burgbrohl.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.internal|Burgbrohl.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.protect|Burgbrohl.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.private|Burgbrohl.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.personal|Burgbrohl.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burgbrohl.secret|Burgbrohl.secret]] 

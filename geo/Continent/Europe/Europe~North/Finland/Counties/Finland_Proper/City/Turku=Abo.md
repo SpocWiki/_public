@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Turku=Abo.md|Turku=Abo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Turku=Abo.internal.md|Turku=Abo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Turku=Abo.protect.md|Turku=Abo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Turku=Abo.private.md|Turku=Abo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Turku=Abo.personal.md|Turku=Abo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Turku=Abo.secret.md|Turku=Abo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Turku=Abo.internal|Turku=Abo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Turku=Abo.protect|Turku=Abo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Turku=Abo.private|Turku=Abo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Turku=Abo.personal|Turku=Abo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Turku=Abo.secret|Turku=Abo.secret]] 

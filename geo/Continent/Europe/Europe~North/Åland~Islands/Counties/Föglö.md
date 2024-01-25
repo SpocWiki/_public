@@ -41,9 +41,9 @@ markerFolder: ./Föglö/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Föglö.md|Föglö]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Föglö.internal.md|Föglö.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Föglö.protect.md|Föglö.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Föglö.private.md|Föglö.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Föglö.personal.md|Föglö.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Föglö.secret.md|Föglö.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Föglö.internal|Föglö.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Föglö.protect|Föglö.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Föglö.private|Föglö.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Föglö.personal|Föglö.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Föglö.secret|Föglö.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Mersin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Mersin.md|Mersin]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mersin.internal.md|Mersin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mersin.protect.md|Mersin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mersin.private.md|Mersin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mersin.personal.md|Mersin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mersin.secret.md|Mersin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mersin.internal|Mersin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mersin.protect|Mersin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mersin.private|Mersin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mersin.personal|Mersin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mersin.secret|Mersin.secret]] 
 

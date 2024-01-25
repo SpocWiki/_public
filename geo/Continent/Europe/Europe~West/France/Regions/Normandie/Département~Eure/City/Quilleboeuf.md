@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Quilleboeuf.md|Quilleboeuf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Quilleboeuf.internal.md|Quilleboeuf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Quilleboeuf.protect.md|Quilleboeuf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Quilleboeuf.private.md|Quilleboeuf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Quilleboeuf.personal.md|Quilleboeuf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Quilleboeuf.secret.md|Quilleboeuf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Quilleboeuf.internal|Quilleboeuf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Quilleboeuf.protect|Quilleboeuf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Quilleboeuf.private|Quilleboeuf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Quilleboeuf.personal|Quilleboeuf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Quilleboeuf.secret|Quilleboeuf.secret]] 

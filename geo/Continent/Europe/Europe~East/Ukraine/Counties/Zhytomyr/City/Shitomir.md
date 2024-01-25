@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Shitomir.md|Shitomir]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Shitomir.internal.md|Shitomir.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Shitomir.protect.md|Shitomir.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Shitomir.private.md|Shitomir.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Shitomir.personal.md|Shitomir.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Shitomir.secret.md|Shitomir.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Shitomir.internal|Shitomir.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Shitomir.protect|Shitomir.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Shitomir.private|Shitomir.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Shitomir.personal|Shitomir.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Shitomir.secret|Shitomir.secret]] 

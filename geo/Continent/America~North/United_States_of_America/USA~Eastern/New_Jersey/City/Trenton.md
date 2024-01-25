@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.md|Trenton]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.internal.md|Trenton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.protect.md|Trenton.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.private.md|Trenton.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.personal.md|Trenton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.secret.md|Trenton.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.internal|Trenton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.protect|Trenton.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.private|Trenton.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.personal|Trenton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.secret|Trenton.secret]] 

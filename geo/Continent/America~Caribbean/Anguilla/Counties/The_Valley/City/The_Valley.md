@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Anguilla/City/The_Valley.md|The_Valley]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Anguilla/City/The_Valley.internal.md|The_Valley.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Anguilla/City/The_Valley.protect.md|The_Valley.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Anguilla/City/The_Valley.private.md|The_Valley.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Anguilla/City/The_Valley.personal.md|The_Valley.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Anguilla/City/The_Valley.secret.md|The_Valley.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Anguilla/City/The_Valley.internal|The_Valley.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Anguilla/City/The_Valley.protect|The_Valley.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Anguilla/City/The_Valley.private|The_Valley.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Anguilla/City/The_Valley.personal|The_Valley.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Anguilla/City/The_Valley.secret|The_Valley.secret]] 

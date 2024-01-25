@@ -42,8 +42,8 @@ markerFolder: ./Saint_Barthelemy/
 
 ## Confidential Links & Embeds: 
 - [[Saint_Barthelemy|Saint_Barthelemy]] 
-- [[../../../../_internal/geo/Continent/South-America/Saint_Barthelemy.internal.md|Saint_Barthelemy.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Saint_Barthelemy.protect.md|Saint_Barthelemy.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Saint_Barthelemy.private.md|Saint_Barthelemy.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Saint_Barthelemy.personal.md|Saint_Barthelemy.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Saint_Barthelemy.secret.md|Saint_Barthelemy.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Saint_Barthelemy.internal|Saint_Barthelemy.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Saint_Barthelemy.protect|Saint_Barthelemy.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Saint_Barthelemy.private|Saint_Barthelemy.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Saint_Barthelemy.personal|Saint_Barthelemy.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Saint_Barthelemy.secret|Saint_Barthelemy.secret]] 

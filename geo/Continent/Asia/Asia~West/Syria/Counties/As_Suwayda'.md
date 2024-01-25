@@ -41,9 +41,9 @@ markerFolder: ./As_Suwayda'/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.md|As_Suwayda']] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.internal.md|As_Suwayda'.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.protect.md|As_Suwayda'.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.private.md|As_Suwayda'.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.personal.md|As_Suwayda'.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.secret.md|As_Suwayda'.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.internal|As_Suwayda'.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.protect|As_Suwayda'.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.private|As_Suwayda'.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.personal|As_Suwayda'.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/As_Suwayda'.secret|As_Suwayda'.secret]] 
 

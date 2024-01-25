@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Marstrand.md|Marstrand]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Marstrand.internal.md|Marstrand.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Marstrand.protect.md|Marstrand.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Marstrand.private.md|Marstrand.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Marstrand.personal.md|Marstrand.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Marstrand.secret.md|Marstrand.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Marstrand.internal|Marstrand.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Marstrand.protect|Marstrand.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Marstrand.private|Marstrand.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Marstrand.personal|Marstrand.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Marstrand.secret|Marstrand.secret]] 

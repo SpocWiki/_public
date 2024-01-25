@@ -41,9 +41,9 @@ markerFolder: ./São_Paulo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Brazil/Counties/São_Paulo.md|São_Paulo]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/São_Paulo.internal.md|São_Paulo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/São_Paulo.protect.md|São_Paulo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/São_Paulo.private.md|São_Paulo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/São_Paulo.personal.md|São_Paulo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/São_Paulo.secret.md|São_Paulo.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/São_Paulo.internal|São_Paulo.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/São_Paulo.protect|São_Paulo.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/São_Paulo.private|São_Paulo.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/São_Paulo.personal|São_Paulo.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/São_Paulo.secret|São_Paulo.secret]] 
 

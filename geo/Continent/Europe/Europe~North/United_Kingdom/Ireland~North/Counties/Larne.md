@@ -41,9 +41,9 @@ markerFolder: ./Larne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.md|Larne]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.internal.md|Larne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.protect.md|Larne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.private.md|Larne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.personal.md|Larne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.secret.md|Larne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.internal|Larne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.protect|Larne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.private|Larne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.personal|Larne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Larne.secret|Larne.secret]] 
 

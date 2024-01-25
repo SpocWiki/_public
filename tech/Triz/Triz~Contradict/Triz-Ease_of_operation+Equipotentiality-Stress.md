@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Equipotentiality-Stress]
 [SpocWebEntityId::25981]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Equipotentiality]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.md|Triz-Ease_of_operation+Equipotentiality-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.internal.md|Triz-Ease_of_operation+Equipotentiality-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.protect.md|Triz-Ease_of_operation+Equipotentiality-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.private.md|Triz-Ease_of_operation+Equipotentiality-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.personal.md|Triz-Ease_of_operation+Equipotentiality-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.secret.md|Triz-Ease_of_operation+Equipotentiality-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.internal|Triz-Ease_of_operation+Equipotentiality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.protect|Triz-Ease_of_operation+Equipotentiality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.private|Triz-Ease_of_operation+Equipotentiality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.personal|Triz-Ease_of_operation+Equipotentiality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.secret|Triz-Ease_of_operation+Equipotentiality-Stress.secret]] 

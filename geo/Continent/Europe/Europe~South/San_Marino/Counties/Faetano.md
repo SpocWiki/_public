@@ -41,9 +41,9 @@ markerFolder: ./Faetano/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Faetano.md|Faetano]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Faetano.internal.md|Faetano.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Faetano.protect.md|Faetano.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Faetano.private.md|Faetano.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Faetano.personal.md|Faetano.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Faetano.secret.md|Faetano.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Faetano.internal|Faetano.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Faetano.protect|Faetano.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Faetano.private|Faetano.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Faetano.personal|Faetano.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Faetano.secret|Faetano.secret]] 
 

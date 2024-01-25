@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision]
 [SpocWebEntityId::25814]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.md|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.internal.md|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.protect.md|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.private.md|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.personal.md|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.secret.md|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.internal|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.protect|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.private|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.personal|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.secret|Triz-generated_harm+Rejecting_and_regenerating_parts-Manufacturing_Precision.secret]] 

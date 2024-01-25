@@ -41,9 +41,9 @@ markerFolder: ./Somali/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Somali.md|Somali]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Somali.internal.md|Somali.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Somali.protect.md|Somali.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Somali.private.md|Somali.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Somali.personal.md|Somali.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Somali.secret.md|Somali.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Somali.internal|Somali.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Somali.protect|Somali.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Somali.private|Somali.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Somali.personal|Somali.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Somali.secret|Somali.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Enfield/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.md|Enfield]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.internal.md|Enfield.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.protect.md|Enfield.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.private.md|Enfield.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.personal.md|Enfield.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.secret.md|Enfield.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.internal|Enfield.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.protect|Enfield.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.private|Enfield.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.personal|Enfield.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Enfield.secret|Enfield.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Ghat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Ghat.md|Ghat]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ghat.internal.md|Ghat.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ghat.protect.md|Ghat.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ghat.private.md|Ghat.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ghat.personal.md|Ghat.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ghat.secret.md|Ghat.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ghat.internal|Ghat.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ghat.protect|Ghat.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ghat.private|Ghat.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ghat.personal|Ghat.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ghat.secret|Ghat.secret]] 
 

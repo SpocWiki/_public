@@ -41,9 +41,9 @@ markerFolder: ./Plzeňský/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.md|Plzeňský]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.internal.md|Plzeňský.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.protect.md|Plzeňský.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.private.md|Plzeňský.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.personal.md|Plzeňský.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.secret.md|Plzeňský.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.internal|Plzeňský.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.protect|Plzeňský.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.private|Plzeňský.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.personal|Plzeňský.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.secret|Plzeňský.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Weggis.md|Weggis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Weggis.internal.md|Weggis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Weggis.protect.md|Weggis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Weggis.private.md|Weggis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Weggis.personal.md|Weggis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Weggis.secret.md|Weggis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Weggis.internal|Weggis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Weggis.protect|Weggis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Weggis.private|Weggis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Weggis.personal|Weggis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Weggis.secret|Weggis.secret]] 

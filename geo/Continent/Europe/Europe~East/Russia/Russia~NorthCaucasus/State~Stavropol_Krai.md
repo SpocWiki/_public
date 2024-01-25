@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Stavropol_Krai|State~Stavropol_Krai]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.internal|State~Stavropol_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.protect.md|State~Stavropol_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.private.md|State~Stavropol_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.personal.md|State~Stavropol_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.secret.md|State~Stavropol_Krai.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.protect|State~Stavropol_Krai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.private|State~Stavropol_Krai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.personal|State~Stavropol_Krai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.secret|State~Stavropol_Krai.secret]] 

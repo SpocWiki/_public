@@ -41,9 +41,9 @@ markerFolder: ./City~St._Petersburg/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.md|City~St._Petersburg]] 
-- [[../../../../_internal/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.internal.md|City~St._Petersburg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.protect.md|City~St._Petersburg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.private.md|City~St._Petersburg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.personal.md|City~St._Petersburg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.secret.md|City~St._Petersburg.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.internal|City~St._Petersburg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.protect|City~St._Petersburg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.private|City~St._Petersburg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.personal|City~St._Petersburg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Russia/Russia~NorthWest/City~St._Petersburg.secret|City~St._Petersburg.secret]] 
 

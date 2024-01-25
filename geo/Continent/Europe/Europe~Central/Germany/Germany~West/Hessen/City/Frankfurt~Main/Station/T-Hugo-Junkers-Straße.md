@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Hugo-Junkers-Straße|T-Hugo-Junkers-Straße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.internal.md|T-Hugo-Junkers-Straße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.protect.md|T-Hugo-Junkers-Straße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.private.md|T-Hugo-Junkers-Straße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.personal.md|T-Hugo-Junkers-Straße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.secret.md|T-Hugo-Junkers-Straße.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.internal|T-Hugo-Junkers-Straße.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.protect|T-Hugo-Junkers-Straße.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.private|T-Hugo-Junkers-Straße.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.personal|T-Hugo-Junkers-Straße.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hugo-Junkers-Straße.secret|T-Hugo-Junkers-Straße.secret]] 

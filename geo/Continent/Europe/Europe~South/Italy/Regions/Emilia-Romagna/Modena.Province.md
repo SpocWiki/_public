@@ -41,9 +41,9 @@ markerFolder: ./Modena.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.md|Modena.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.internal.md|Modena.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.protect.md|Modena.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.private.md|Modena.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.personal.md|Modena.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.secret.md|Modena.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.internal|Modena.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.protect|Modena.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.private|Modena.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.personal|Modena.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Modena.Province.secret|Modena.Province.secret]] 
 

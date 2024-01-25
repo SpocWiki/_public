@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hasborough.md|Hasborough]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hasborough.internal.md|Hasborough.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hasborough.protect.md|Hasborough.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hasborough.private.md|Hasborough.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hasborough.personal.md|Hasborough.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hasborough.secret.md|Hasborough.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hasborough.internal|Hasborough.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hasborough.protect|Hasborough.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hasborough.private|Hasborough.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hasborough.personal|Hasborough.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hasborough.secret|Hasborough.secret]] 

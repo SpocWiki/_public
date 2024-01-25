@@ -41,9 +41,9 @@ markerFolder: ./Trengganu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.md|Trengganu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.internal.md|Trengganu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.protect.md|Trengganu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.private.md|Trengganu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.personal.md|Trengganu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.secret.md|Trengganu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.internal|Trengganu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.protect|Trengganu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.private|Trengganu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.personal|Trengganu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.secret|Trengganu.secret]] 
 

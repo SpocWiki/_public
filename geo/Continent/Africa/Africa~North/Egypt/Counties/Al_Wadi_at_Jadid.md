@@ -41,9 +41,9 @@ markerFolder: ./Al_Wadi_at_Jadid/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.md|Al_Wadi_at_Jadid]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.internal.md|Al_Wadi_at_Jadid.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.protect.md|Al_Wadi_at_Jadid.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.private.md|Al_Wadi_at_Jadid.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.personal.md|Al_Wadi_at_Jadid.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.secret.md|Al_Wadi_at_Jadid.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.internal|Al_Wadi_at_Jadid.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.protect|Al_Wadi_at_Jadid.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.private|Al_Wadi_at_Jadid.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.personal|Al_Wadi_at_Jadid.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.secret|Al_Wadi_at_Jadid.secret]] 
 

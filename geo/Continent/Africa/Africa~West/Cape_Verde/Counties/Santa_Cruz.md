@@ -41,9 +41,9 @@ markerFolder: ./Santa_Cruz/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.md|Santa_Cruz]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.internal.md|Santa_Cruz.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.protect.md|Santa_Cruz.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.private.md|Santa_Cruz.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.personal.md|Santa_Cruz.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.secret.md|Santa_Cruz.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.internal|Santa_Cruz.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.protect|Santa_Cruz.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.private|Santa_Cruz.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.personal|Santa_Cruz.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.secret|Santa_Cruz.secret]] 
 

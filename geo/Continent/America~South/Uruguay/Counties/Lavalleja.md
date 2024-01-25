@@ -41,9 +41,9 @@ markerFolder: ./Lavalleja/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Lavalleja.md|Lavalleja]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Lavalleja.internal.md|Lavalleja.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Lavalleja.protect.md|Lavalleja.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Lavalleja.private.md|Lavalleja.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Lavalleja.personal.md|Lavalleja.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Lavalleja.secret.md|Lavalleja.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Lavalleja.internal|Lavalleja.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Lavalleja.protect|Lavalleja.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Lavalleja.private|Lavalleja.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Lavalleja.personal|Lavalleja.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Lavalleja.secret|Lavalleja.secret]] 
 

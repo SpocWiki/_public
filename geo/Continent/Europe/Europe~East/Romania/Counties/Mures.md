@@ -41,9 +41,9 @@ markerFolder: ./Mures/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Mures.md|Mures]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Mures.internal.md|Mures.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Mures.protect.md|Mures.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Mures.private.md|Mures.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Mures.personal.md|Mures.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Mures.secret.md|Mures.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Mures.internal|Mures.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Mures.protect|Mures.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Mures.private|Mures.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Mures.personal|Mures.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Mures.secret|Mures.secret]] 
 

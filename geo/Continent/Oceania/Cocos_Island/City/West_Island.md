@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Cocos_Island/City/West_Island.md|West_Island]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Cocos_Island/City/West_Island.internal.md|West_Island.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Cocos_Island/City/West_Island.protect.md|West_Island.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Cocos_Island/City/West_Island.private.md|West_Island.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Cocos_Island/City/West_Island.personal.md|West_Island.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Cocos_Island/City/West_Island.secret.md|West_Island.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cocos_Island/City/West_Island.internal|West_Island.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cocos_Island/City/West_Island.protect|West_Island.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cocos_Island/City/West_Island.private|West_Island.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cocos_Island/City/West_Island.personal|West_Island.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cocos_Island/City/West_Island.secret|West_Island.secret]] 

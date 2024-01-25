@@ -135,8 +135,8 @@ markerFolder: ./Cuba/
 
 ## Confidential Links & Embeds: 
 - [[Cuba|Cuba]] 
-- [[../../../../_internal/geo/Continent/South-America/Cuba.internal.md|Cuba.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Cuba.protect.md|Cuba.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Cuba.private.md|Cuba.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Cuba.personal.md|Cuba.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Cuba.secret.md|Cuba.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Cuba.internal|Cuba.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Cuba.protect|Cuba.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Cuba.private|Cuba.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Cuba.personal|Cuba.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Cuba.secret|Cuba.secret]] 

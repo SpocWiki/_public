@@ -41,9 +41,9 @@ markerFolder: ./Appenzell_Innerrhoden/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.md|Appenzell_Innerrhoden]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.internal.md|Appenzell_Innerrhoden.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.protect.md|Appenzell_Innerrhoden.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.private.md|Appenzell_Innerrhoden.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.personal.md|Appenzell_Innerrhoden.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.secret.md|Appenzell_Innerrhoden.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.internal|Appenzell_Innerrhoden.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.protect|Appenzell_Innerrhoden.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.private|Appenzell_Innerrhoden.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.personal|Appenzell_Innerrhoden.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.secret|Appenzell_Innerrhoden.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Kândal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.md|Kândal]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.internal.md|Kândal.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.protect.md|Kândal.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.private.md|Kândal.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.personal.md|Kândal.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.secret.md|Kândal.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.internal|Kândal.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.protect|Kândal.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.private|Kândal.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.personal|Kândal.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kândal.secret|Kândal.secret]] 
 

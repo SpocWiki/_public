@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.md|Kuhfelde]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.internal.md|Kuhfelde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.protect.md|Kuhfelde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.private.md|Kuhfelde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.personal.md|Kuhfelde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.secret.md|Kuhfelde.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.internal|Kuhfelde.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.protect|Kuhfelde.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.private|Kuhfelde.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.personal|Kuhfelde.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Kuhfelde.secret|Kuhfelde.secret]] 

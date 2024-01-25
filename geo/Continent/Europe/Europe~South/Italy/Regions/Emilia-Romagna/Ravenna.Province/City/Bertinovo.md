@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bertinovo.md|Bertinovo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bertinovo.internal.md|Bertinovo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bertinovo.protect.md|Bertinovo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bertinovo.private.md|Bertinovo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bertinovo.personal.md|Bertinovo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bertinovo.secret.md|Bertinovo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bertinovo.internal|Bertinovo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bertinovo.protect|Bertinovo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bertinovo.private|Bertinovo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bertinovo.personal|Bertinovo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bertinovo.secret|Bertinovo.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ordubad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.md|Ordubad]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.internal.md|Ordubad.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.protect.md|Ordubad.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.private.md|Ordubad.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.personal.md|Ordubad.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.secret.md|Ordubad.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.internal|Ordubad.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.protect|Ordubad.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.private|Ordubad.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.personal|Ordubad.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.secret|Ordubad.secret]] 
 

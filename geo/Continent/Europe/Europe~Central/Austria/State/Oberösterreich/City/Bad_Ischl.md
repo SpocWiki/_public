@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bad_Ischl.md|Bad_Ischl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Ischl.internal.md|Bad_Ischl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Ischl.protect.md|Bad_Ischl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Ischl.private.md|Bad_Ischl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Ischl.personal.md|Bad_Ischl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Ischl.secret.md|Bad_Ischl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Ischl.internal|Bad_Ischl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Ischl.protect|Bad_Ischl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Ischl.private|Bad_Ischl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Ischl.personal|Bad_Ischl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Ischl.secret|Bad_Ischl.secret]] 

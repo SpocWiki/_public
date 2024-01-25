@@ -19,8 +19,8 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Actinide-Group.md|Actinide-Group]] 
-- [[../../../_internal/chemic/Elements/Actinide-Group.internal.md|Actinide-Group.internal]] 
-- [[../../../_protect/chemic/Elements/Actinide-Group.protect.md|Actinide-Group.protect]] 
-- [[../../../_private/chemic/Elements/Actinide-Group.private.md|Actinide-Group.private]] 
-- [[../../../_personal/chemic/Elements/Actinide-Group.personal.md|Actinide-Group.personal]] 
-- [[../../../_secret/chemic/Elements/Actinide-Group.secret.md|Actinide-Group.secret]] 
+- [[../../../_internal/chemic/Elements/Actinide-Group.internal|Actinide-Group.internal]] 
+- [[../../../_protect/chemic/Elements/Actinide-Group.protect|Actinide-Group.protect]] 
+- [[../../../_private/chemic/Elements/Actinide-Group.private|Actinide-Group.private]] 
+- [[../../../_personal/chemic/Elements/Actinide-Group.personal|Actinide-Group.personal]] 
+- [[../../../_secret/chemic/Elements/Actinide-Group.secret|Actinide-Group.secret]] 

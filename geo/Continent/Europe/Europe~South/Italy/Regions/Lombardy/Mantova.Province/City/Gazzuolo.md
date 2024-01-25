@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gazzuolo.md|Gazzuolo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gazzuolo.internal.md|Gazzuolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gazzuolo.protect.md|Gazzuolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gazzuolo.private.md|Gazzuolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gazzuolo.personal.md|Gazzuolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gazzuolo.secret.md|Gazzuolo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gazzuolo.internal|Gazzuolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gazzuolo.protect|Gazzuolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gazzuolo.private|Gazzuolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gazzuolo.personal|Gazzuolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gazzuolo.secret|Gazzuolo.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Lincolnshire~North_East/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.md|Lincolnshire~North_East]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.internal.md|Lincolnshire~North_East.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.protect.md|Lincolnshire~North_East.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.private.md|Lincolnshire~North_East.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.personal.md|Lincolnshire~North_East.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.secret.md|Lincolnshire~North_East.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.internal|Lincolnshire~North_East.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.protect|Lincolnshire~North_East.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.private|Lincolnshire~North_East.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.personal|Lincolnshire~North_East.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North_East.secret|Lincolnshire~North_East.secret]] 
 

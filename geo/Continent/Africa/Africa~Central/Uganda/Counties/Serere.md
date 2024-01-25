@@ -41,9 +41,9 @@ markerFolder: ./Serere/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Serere.md|Serere]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Serere.internal.md|Serere.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Serere.protect.md|Serere.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Serere.private.md|Serere.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Serere.personal.md|Serere.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Serere.secret.md|Serere.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Serere.internal|Serere.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Serere.protect|Serere.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Serere.private|Serere.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Serere.personal|Serere.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Serere.secret|Serere.secret]] 
 

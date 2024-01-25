@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Aranjuez.md|Aranjuez]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Aranjuez.internal.md|Aranjuez.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Aranjuez.protect.md|Aranjuez.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Aranjuez.private.md|Aranjuez.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Aranjuez.personal.md|Aranjuez.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Aranjuez.secret.md|Aranjuez.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Aranjuez.internal|Aranjuez.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Aranjuez.protect|Aranjuez.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Aranjuez.private|Aranjuez.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Aranjuez.personal|Aranjuez.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Aranjuez.secret|Aranjuez.secret]] 

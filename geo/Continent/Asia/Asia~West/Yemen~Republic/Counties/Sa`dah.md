@@ -41,9 +41,9 @@ markerFolder: ./Sa`dah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.md|Sa`dah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.internal.md|Sa`dah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.protect.md|Sa`dah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.private.md|Sa`dah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.personal.md|Sa`dah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.secret.md|Sa`dah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.internal|Sa`dah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.protect|Sa`dah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.private|Sa`dah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.personal|Sa`dah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sa`dah.secret|Sa`dah.secret]] 
 

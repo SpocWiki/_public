@@ -319,8 +319,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[_CountryStateDB|_CountryStateDB]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/_CountryStateDB.internal.md|_CountryStateDB.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/_CountryStateDB.protect.md|_CountryStateDB.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/_CountryStateDB.private.md|_CountryStateDB.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/_CountryStateDB.personal.md|_CountryStateDB.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/_CountryStateDB.secret.md|_CountryStateDB.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/_CountryStateDB.internal|_CountryStateDB.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/_CountryStateDB.protect|_CountryStateDB.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/_CountryStateDB.private|_CountryStateDB.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/_CountryStateDB.personal|_CountryStateDB.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/_CountryStateDB.secret|_CountryStateDB.secret]] 

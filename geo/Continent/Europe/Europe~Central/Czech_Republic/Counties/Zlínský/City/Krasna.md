@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krasna.md|Krasna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krasna.internal.md|Krasna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krasna.protect.md|Krasna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krasna.private.md|Krasna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krasna.personal.md|Krasna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krasna.secret.md|Krasna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krasna.internal|Krasna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krasna.protect|Krasna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krasna.private|Krasna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krasna.personal|Krasna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krasna.secret|Krasna.secret]] 

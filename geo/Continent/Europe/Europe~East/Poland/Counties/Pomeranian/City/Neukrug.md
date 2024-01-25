@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neukrug.md|Neukrug]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neukrug.internal.md|Neukrug.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neukrug.protect.md|Neukrug.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neukrug.private.md|Neukrug.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neukrug.personal.md|Neukrug.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neukrug.secret.md|Neukrug.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neukrug.internal|Neukrug.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neukrug.protect|Neukrug.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neukrug.private|Neukrug.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neukrug.personal|Neukrug.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neukrug.secret|Neukrug.secret]] 

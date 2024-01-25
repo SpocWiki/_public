@@ -41,9 +41,9 @@ markerFolder: ./Monaghan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Monaghan.md|Monaghan]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Monaghan.internal.md|Monaghan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Monaghan.protect.md|Monaghan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Monaghan.private.md|Monaghan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Monaghan.personal.md|Monaghan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Monaghan.secret.md|Monaghan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Monaghan.internal|Monaghan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Monaghan.protect|Monaghan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Monaghan.private|Monaghan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Monaghan.personal|Monaghan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Monaghan.secret|Monaghan.secret]] 
 

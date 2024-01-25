@@ -135,8 +135,8 @@ markerFolder: ./Dominica/
 
 ## Confidential Links & Embeds: 
 - [[Dominica|Dominica]] 
-- [[../../../../_internal/geo/Continent/South-America/Dominica.internal.md|Dominica.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Dominica.protect.md|Dominica.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Dominica.private.md|Dominica.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Dominica.personal.md|Dominica.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Dominica.secret.md|Dominica.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Dominica.internal|Dominica.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Dominica.protect|Dominica.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Dominica.private|Dominica.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Dominica.personal|Dominica.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Dominica.secret|Dominica.secret]] 

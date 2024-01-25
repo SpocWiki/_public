@@ -18,8 +18,8 @@ Use Photolithography to change transparent Material to a solid Mask for Semicond
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Photolithography.md|Triz-Photolithography]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Photolithography.internal.md|Triz-Photolithography.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Photolithography.protect.md|Triz-Photolithography.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Photolithography.private.md|Triz-Photolithography.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Photolithography.personal.md|Triz-Photolithography.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Photolithography.secret.md|Triz-Photolithography.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Photolithography.internal|Triz-Photolithography.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Photolithography.protect|Triz-Photolithography.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Photolithography.private|Triz-Photolithography.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Photolithography.personal|Triz-Photolithography.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Photolithography.secret|Triz-Photolithography.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Carmona.md|Carmona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Carmona.internal.md|Carmona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Carmona.protect.md|Carmona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Carmona.private.md|Carmona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Carmona.personal.md|Carmona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Carmona.secret.md|Carmona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Carmona.internal|Carmona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Carmona.protect|Carmona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Carmona.private|Carmona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Carmona.personal|Carmona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Carmona.secret|Carmona.secret]] 

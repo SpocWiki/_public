@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Counterweight-Substance-Loss]
 [SpocWebEntityId::22751]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle::[[Triz-Counterweight]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.md|Triz-stationary_Weight+Counterweight-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.internal.md|Triz-stationary_Weight+Counterweight-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.protect.md|Triz-stationary_Weight+Counterweight-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.private.md|Triz-stationary_Weight+Counterweight-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.personal.md|Triz-stationary_Weight+Counterweight-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.secret.md|Triz-stationary_Weight+Counterweight-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.internal|Triz-stationary_Weight+Counterweight-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.protect|Triz-stationary_Weight+Counterweight-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.private|Triz-stationary_Weight+Counterweight-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.personal|Triz-stationary_Weight+Counterweight-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Counterweight-Substance-Loss.secret|Triz-stationary_Weight+Counterweight-Substance-Loss.secret]] 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Elnath.md|Elnath]] 
-- [[../../../_internal/astro/Star/Elnath.internal.md|Elnath.internal]] 
-- [[../../../_protect/astro/Star/Elnath.protect.md|Elnath.protect]] 
-- [[../../../_private/astro/Star/Elnath.private.md|Elnath.private]] 
-- [[../../../_personal/astro/Star/Elnath.personal.md|Elnath.personal]] 
-- [[../../../_secret/astro/Star/Elnath.secret.md|Elnath.secret]]
+- [[../../../_internal/astro/Star/Elnath.internal|Elnath.internal]] 
+- [[../../../_protect/astro/Star/Elnath.protect|Elnath.protect]] 
+- [[../../../_private/astro/Star/Elnath.private|Elnath.private]] 
+- [[../../../_personal/astro/Star/Elnath.personal|Elnath.personal]] 
+- [[../../../_secret/astro/Star/Elnath.secret|Elnath.secret]]
 

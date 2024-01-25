@@ -231,9 +231,9 @@ Let's continue to make this a great resource for everybody on this planet.
 
 ## Confidential Links & Embeds: 
 - [[../_public/Contributing.md|Contributing]] 
-- [[../_internal/Contributing.internal.md|Contributing.internal]] 
-- [[../_protect/Contributing.protect.md|Contributing.protect]] 
-- [[../_private/Contributing.private.md|Contributing.private]] 
-- [[../_personal/Contributing.personal.md|Contributing.personal]] 
-- [[../_secret/Contributing.secret.md|Contributing.secret]]
+- [[../_internal/Contributing.internal|Contributing.internal]] 
+- [[../_protect/Contributing.protect|Contributing.protect]] 
+- [[../_private/Contributing.private|Contributing.private]] 
+- [[../_personal/Contributing.personal|Contributing.personal]] 
+- [[../_secret/Contributing.secret|Contributing.secret]]
 

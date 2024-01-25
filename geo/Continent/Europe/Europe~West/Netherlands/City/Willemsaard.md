@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Willemsaard.md|Willemsaard]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Willemsaard.internal.md|Willemsaard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Willemsaard.protect.md|Willemsaard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Willemsaard.private.md|Willemsaard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Willemsaard.personal.md|Willemsaard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Willemsaard.secret.md|Willemsaard.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Willemsaard.internal|Willemsaard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Willemsaard.protect|Willemsaard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Willemsaard.private|Willemsaard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Willemsaard.personal|Willemsaard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Willemsaard.secret|Willemsaard.secret]] 

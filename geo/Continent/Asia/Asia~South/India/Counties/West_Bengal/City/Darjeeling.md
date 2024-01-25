@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/India/City/Darjeeling.md|Darjeeling]] 
-- [[../../../../../../_internal/geo/Continent/Asia/India/City/Darjeeling.internal.md|Darjeeling.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/India/City/Darjeeling.protect.md|Darjeeling.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/India/City/Darjeeling.private.md|Darjeeling.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/India/City/Darjeeling.personal.md|Darjeeling.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/India/City/Darjeeling.secret.md|Darjeeling.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Darjeeling.internal|Darjeeling.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Darjeeling.protect|Darjeeling.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Darjeeling.private|Darjeeling.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Darjeeling.personal|Darjeeling.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Darjeeling.secret|Darjeeling.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hamadan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.md|Hamadan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.internal.md|Hamadan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.protect.md|Hamadan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.private.md|Hamadan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.personal.md|Hamadan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.secret.md|Hamadan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.internal|Hamadan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.protect|Hamadan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.private|Hamadan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.personal|Hamadan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.secret|Hamadan.secret]] 
 

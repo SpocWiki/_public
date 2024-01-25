@@ -41,9 +41,9 @@ markerFolder: ./Mukdahan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.md|Mukdahan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.internal.md|Mukdahan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.protect.md|Mukdahan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.private.md|Mukdahan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.personal.md|Mukdahan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.secret.md|Mukdahan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.internal|Mukdahan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.protect|Mukdahan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.private|Mukdahan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.personal|Mukdahan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mukdahan.secret|Mukdahan.secret]] 
 

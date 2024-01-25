@@ -41,9 +41,9 @@ markerFolder: ./Makkah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.md|Makkah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.internal.md|Makkah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.protect.md|Makkah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.private.md|Makkah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.personal.md|Makkah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.secret.md|Makkah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.internal|Makkah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.protect|Makkah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.private|Makkah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.personal|Makkah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Makkah.secret|Makkah.secret]] 
 

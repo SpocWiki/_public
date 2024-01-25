@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Foggia.md|Foggia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Foggia.internal.md|Foggia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Foggia.protect.md|Foggia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Foggia.private.md|Foggia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Foggia.personal.md|Foggia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Foggia.secret.md|Foggia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Foggia.internal|Foggia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Foggia.protect|Foggia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Foggia.private|Foggia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Foggia.personal|Foggia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Foggia.secret|Foggia.secret]] 

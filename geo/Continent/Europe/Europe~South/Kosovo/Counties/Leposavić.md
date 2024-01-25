@@ -41,9 +41,9 @@ markerFolder: ./Leposavić/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Leposavić.md|Leposavić]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Leposavić.internal.md|Leposavić.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Leposavić.protect.md|Leposavić.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Leposavić.private.md|Leposavić.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Leposavić.personal.md|Leposavić.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Leposavić.secret.md|Leposavić.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Leposavić.internal|Leposavić.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Leposavić.protect|Leposavić.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Leposavić.private|Leposavić.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Leposavić.personal|Leposavić.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Leposavić.secret|Leposavić.secret]] 
 

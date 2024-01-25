@@ -128,7 +128,7 @@ markerFolder: ./Antarctica/
 ## Confidential Links & Embeds: 
 - [[Country~Antarctica|Antarctica]] 
 - [[../../../../_internal/geo/Continent/Antarctica/Country~Antarctica.internal|Country~Antarctica.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Country~Antarctica.protect.md|Country~Antarctica.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Country~Antarctica.private.md|Country~Antarctica.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Country~Antarctica.personal.md|Country~Antarctica.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Country~Antarctica.secret.md|Country~Antarctica.secret]] 
+- [[../../../../_protect/geo/Continent/Antarctica/Country~Antarctica.protect|Country~Antarctica.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/Country~Antarctica.private|Country~Antarctica.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/Country~Antarctica.personal|Country~Antarctica.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/Country~Antarctica.secret|Country~Antarctica.secret]] 

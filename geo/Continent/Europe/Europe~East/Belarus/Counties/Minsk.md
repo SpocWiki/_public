@@ -41,9 +41,9 @@ markerFolder: ./Minsk/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belarus/Counties/Minsk.md|Minsk]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Minsk.internal.md|Minsk.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Minsk.protect.md|Minsk.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Minsk.private.md|Minsk.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Minsk.personal.md|Minsk.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Minsk.secret.md|Minsk.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Minsk.internal|Minsk.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Minsk.protect|Minsk.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Minsk.private|Minsk.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Minsk.personal|Minsk.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Minsk.secret|Minsk.secret]] 
 

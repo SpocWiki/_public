@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kars.md|Kars]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kars.internal.md|Kars.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kars.protect.md|Kars.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kars.private.md|Kars.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kars.personal.md|Kars.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kars.secret.md|Kars.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kars.internal|Kars.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kars.protect|Kars.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kars.private|Kars.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kars.personal|Kars.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kars.secret|Kars.secret]] 

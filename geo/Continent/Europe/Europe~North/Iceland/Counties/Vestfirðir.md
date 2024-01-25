@@ -41,9 +41,9 @@ markerFolder: ./Vestfirðir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Vestfirðir.md|Vestfirðir]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Vestfirðir.internal.md|Vestfirðir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Vestfirðir.protect.md|Vestfirðir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Vestfirðir.private.md|Vestfirðir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Vestfirðir.personal.md|Vestfirðir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Vestfirðir.secret.md|Vestfirðir.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Vestfirðir.internal|Vestfirðir.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Vestfirðir.protect|Vestfirðir.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Vestfirðir.private|Vestfirðir.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Vestfirðir.personal|Vestfirðir.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Vestfirðir.secret|Vestfirðir.secret]] 
 

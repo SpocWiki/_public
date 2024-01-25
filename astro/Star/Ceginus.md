@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Ceginus.md|Ceginus]] 
-- [[../../../_internal/astro/Star/Ceginus.internal.md|Ceginus.internal]] 
-- [[../../../_protect/astro/Star/Ceginus.protect.md|Ceginus.protect]] 
-- [[../../../_private/astro/Star/Ceginus.private.md|Ceginus.private]] 
-- [[../../../_personal/astro/Star/Ceginus.personal.md|Ceginus.personal]] 
-- [[../../../_secret/astro/Star/Ceginus.secret.md|Ceginus.secret]]
+- [[../../../_internal/astro/Star/Ceginus.internal|Ceginus.internal]] 
+- [[../../../_protect/astro/Star/Ceginus.protect|Ceginus.protect]] 
+- [[../../../_private/astro/Star/Ceginus.private|Ceginus.private]] 
+- [[../../../_personal/astro/Star/Ceginus.personal|Ceginus.personal]] 
+- [[../../../_secret/astro/Star/Ceginus.secret|Ceginus.secret]]
 

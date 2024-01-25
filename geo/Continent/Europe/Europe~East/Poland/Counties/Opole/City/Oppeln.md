@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Oppeln.md|Oppeln]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Oppeln.internal.md|Oppeln.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Oppeln.protect.md|Oppeln.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Oppeln.private.md|Oppeln.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Oppeln.personal.md|Oppeln.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Oppeln.secret.md|Oppeln.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Oppeln.internal|Oppeln.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Oppeln.protect|Oppeln.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Oppeln.private|Oppeln.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Oppeln.personal|Oppeln.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Oppeln.secret|Oppeln.secret]] 

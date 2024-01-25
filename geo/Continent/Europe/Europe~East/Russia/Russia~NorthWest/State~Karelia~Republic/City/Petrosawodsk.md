@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petrosawodsk.md|Petrosawodsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrosawodsk.internal.md|Petrosawodsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrosawodsk.protect.md|Petrosawodsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrosawodsk.private.md|Petrosawodsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrosawodsk.personal.md|Petrosawodsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrosawodsk.secret.md|Petrosawodsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrosawodsk.internal|Petrosawodsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrosawodsk.protect|Petrosawodsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrosawodsk.private|Petrosawodsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrosawodsk.personal|Petrosawodsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrosawodsk.secret|Petrosawodsk.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./River_Cess/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Liberia/Counties/River_Cess.md|River_Cess]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/River_Cess.internal.md|River_Cess.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/River_Cess.protect.md|River_Cess.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/River_Cess.private.md|River_Cess.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/River_Cess.personal.md|River_Cess.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/River_Cess.secret.md|River_Cess.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/River_Cess.internal|River_Cess.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/River_Cess.protect|River_Cess.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/River_Cess.private|River_Cess.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/River_Cess.personal|River_Cess.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/River_Cess.secret|River_Cess.secret]] 
 

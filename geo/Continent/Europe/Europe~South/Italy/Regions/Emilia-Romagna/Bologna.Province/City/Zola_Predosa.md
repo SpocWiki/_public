@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Zola_Predosa.md|Zola_Predosa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Zola_Predosa.internal.md|Zola_Predosa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Zola_Predosa.protect.md|Zola_Predosa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Zola_Predosa.private.md|Zola_Predosa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Zola_Predosa.personal.md|Zola_Predosa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Zola_Predosa.secret.md|Zola_Predosa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Zola_Predosa.internal|Zola_Predosa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Zola_Predosa.protect|Zola_Predosa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Zola_Predosa.private|Zola_Predosa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Zola_Predosa.personal|Zola_Predosa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Zola_Predosa.secret|Zola_Predosa.secret]] 

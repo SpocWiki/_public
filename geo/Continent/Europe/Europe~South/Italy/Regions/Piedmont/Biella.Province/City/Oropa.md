@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Oropa.md|Oropa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oropa.internal.md|Oropa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oropa.protect.md|Oropa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oropa.private.md|Oropa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oropa.personal.md|Oropa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oropa.secret.md|Oropa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oropa.internal|Oropa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oropa.protect|Oropa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oropa.private|Oropa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oropa.personal|Oropa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oropa.secret|Oropa.secret]] 

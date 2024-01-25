@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.md|Treuenbrietzen]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.internal.md|Treuenbrietzen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.protect.md|Treuenbrietzen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.private.md|Treuenbrietzen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.personal.md|Treuenbrietzen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.secret.md|Treuenbrietzen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.internal|Treuenbrietzen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.protect|Treuenbrietzen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.private|Treuenbrietzen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.personal|Treuenbrietzen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.secret|Treuenbrietzen.secret]] 

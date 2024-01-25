@@ -41,9 +41,9 @@ markerFolder: ./Dudley/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.md|Dudley]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.internal.md|Dudley.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.protect.md|Dudley.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.private.md|Dudley.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.personal.md|Dudley.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.secret.md|Dudley.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.internal|Dudley.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.protect|Dudley.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.private|Dudley.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.personal|Dudley.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Dudley.secret|Dudley.secret]] 
 

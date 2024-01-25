@@ -36,8 +36,8 @@ markerFolder: ./Cyprus/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Cyprus~North.md|Cyprus~North]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus~North.internal.md|Cyprus~North.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus~North.protect.md|Cyprus~North.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus~North.private.md|Cyprus~North.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus~North.personal.md|Cyprus~North.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus~North.secret.md|Cyprus~North.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Cyprus~North.internal|Cyprus~North.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Cyprus~North.protect|Cyprus~North.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Cyprus~North.private|Cyprus~North.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Cyprus~North.personal|Cyprus~North.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Cyprus~North.secret|Cyprus~North.secret]] 

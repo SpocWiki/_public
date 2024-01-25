@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Czernowitz.md|Czernowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Czernowitz.internal.md|Czernowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Czernowitz.protect.md|Czernowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Czernowitz.private.md|Czernowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Czernowitz.personal.md|Czernowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Czernowitz.secret.md|Czernowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Czernowitz.internal|Czernowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Czernowitz.protect|Czernowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Czernowitz.private|Czernowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Czernowitz.personal|Czernowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Czernowitz.secret|Czernowitz.secret]] 

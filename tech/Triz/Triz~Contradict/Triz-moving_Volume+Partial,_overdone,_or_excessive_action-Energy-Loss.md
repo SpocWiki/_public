@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss]
 [SpocWebEntityId::23242]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.internal.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.protect.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.private.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.personal.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.secret.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.internal|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.protect|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.private|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.personal|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.secret|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Energy-Loss.secret]] 

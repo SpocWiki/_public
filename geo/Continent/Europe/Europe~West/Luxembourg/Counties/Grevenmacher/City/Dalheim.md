@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Dalheim.md|Dalheim]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Dalheim.internal.md|Dalheim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Dalheim.protect.md|Dalheim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Dalheim.private.md|Dalheim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Dalheim.personal.md|Dalheim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Dalheim.secret.md|Dalheim.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Dalheim.internal|Dalheim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Dalheim.protect|Dalheim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Dalheim.private|Dalheim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Dalheim.personal|Dalheim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Dalheim.secret|Dalheim.secret]] 

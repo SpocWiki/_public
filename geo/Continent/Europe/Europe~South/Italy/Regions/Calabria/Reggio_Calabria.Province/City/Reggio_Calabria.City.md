@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.md|Reggio_Calabria.City]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.internal.md|Reggio_Calabria.City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.protect.md|Reggio_Calabria.City.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.private.md|Reggio_Calabria.City.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.personal.md|Reggio_Calabria.City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.secret.md|Reggio_Calabria.City.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.internal|Reggio_Calabria.City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.protect|Reggio_Calabria.City.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.private|Reggio_Calabria.City.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.personal|Reggio_Calabria.City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Reggio_Calabria.City.secret|Reggio_Calabria.City.secret]] 

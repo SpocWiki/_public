@@ -41,9 +41,9 @@ markerFolder: ./Loški_Potok/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.md|Loški_Potok]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.internal.md|Loški_Potok.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.protect.md|Loški_Potok.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.private.md|Loški_Potok.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.personal.md|Loški_Potok.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.secret.md|Loški_Potok.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.internal|Loški_Potok.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.protect|Loški_Potok.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.private|Loški_Potok.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.personal|Loški_Potok.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Loški_Potok.secret|Loški_Potok.secret]] 
 

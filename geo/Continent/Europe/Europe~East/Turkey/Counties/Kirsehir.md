@@ -41,9 +41,9 @@ markerFolder: ./Kirsehir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kirsehir.md|Kirsehir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kirsehir.internal.md|Kirsehir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kirsehir.protect.md|Kirsehir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kirsehir.private.md|Kirsehir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kirsehir.personal.md|Kirsehir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kirsehir.secret.md|Kirsehir.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kirsehir.internal|Kirsehir.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kirsehir.protect|Kirsehir.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kirsehir.private|Kirsehir.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kirsehir.personal|Kirsehir.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kirsehir.secret|Kirsehir.secret]] 
 

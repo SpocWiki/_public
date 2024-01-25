@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Modesto.md|Modesto]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Modesto.internal.md|Modesto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Modesto.protect.md|Modesto.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Modesto.private.md|Modesto.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Modesto.personal.md|Modesto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Modesto.secret.md|Modesto.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Modesto.internal|Modesto.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Modesto.protect|Modesto.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Modesto.private|Modesto.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Modesto.personal|Modesto.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Modesto.secret|Modesto.secret]] 

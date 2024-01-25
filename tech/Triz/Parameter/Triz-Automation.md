@@ -18,8 +18,8 @@ Extent of automation
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Automation.md|Triz-Automation]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-Automation.internal.md|Triz-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-Automation.protect.md|Triz-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-Automation.private.md|Triz-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-Automation.personal.md|Triz-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-Automation.secret.md|Triz-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Automation.internal|Triz-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Automation.protect|Triz-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Automation.private|Triz-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Automation.personal|Triz-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Automation.secret|Triz-Automation.secret]] 

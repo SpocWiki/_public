@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Inning~Ammersee|Inning~Ammersee]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.internal.md|Inning~Ammersee.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.protect.md|Inning~Ammersee.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.private.md|Inning~Ammersee.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.personal.md|Inning~Ammersee.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.secret.md|Inning~Ammersee.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.internal|Inning~Ammersee.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.protect|Inning~Ammersee.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.private|Inning~Ammersee.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.personal|Inning~Ammersee.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.secret|Inning~Ammersee.secret]] 

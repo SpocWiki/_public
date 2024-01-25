@@ -41,9 +41,9 @@ markerFolder: ./Bălţi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Bălţi.md|Bălţi]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Bălţi.internal.md|Bălţi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Bălţi.protect.md|Bălţi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Bălţi.private.md|Bălţi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Bălţi.personal.md|Bălţi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Bălţi.secret.md|Bălţi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Bălţi.internal|Bălţi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Bălţi.protect|Bălţi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Bălţi.private|Bălţi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Bălţi.personal|Bălţi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Bălţi.secret|Bălţi.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.md|Luckenwalde]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.internal.md|Luckenwalde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.protect.md|Luckenwalde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.private.md|Luckenwalde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.personal.md|Luckenwalde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.secret.md|Luckenwalde.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.internal|Luckenwalde.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.protect|Luckenwalde.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.private|Luckenwalde.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.personal|Luckenwalde.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luckenwalde.secret|Luckenwalde.secret]] 

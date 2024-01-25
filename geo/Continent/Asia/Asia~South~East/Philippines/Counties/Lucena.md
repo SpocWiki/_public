@@ -41,9 +41,9 @@ markerFolder: ./Lucena/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.md|Lucena]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.internal.md|Lucena.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.protect.md|Lucena.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.private.md|Lucena.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.personal.md|Lucena.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.secret.md|Lucena.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.internal|Lucena.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.protect|Lucena.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.private|Lucena.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.personal|Lucena.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lucena.secret|Lucena.secret]] 
 

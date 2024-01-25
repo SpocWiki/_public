@@ -41,9 +41,9 @@ markerFolder: ./Kween/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kween.md|Kween]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kween.internal.md|Kween.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kween.protect.md|Kween.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kween.private.md|Kween.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kween.personal.md|Kween.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kween.secret.md|Kween.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kween.internal|Kween.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kween.protect|Kween.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kween.private|Kween.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kween.personal|Kween.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kween.secret|Kween.secret]] 
 

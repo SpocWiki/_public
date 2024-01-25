@@ -41,9 +41,9 @@ markerFolder: ./Département~Ardèche/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Département~Ardèche.md|Département~Ardèche]] 
-- [[../../../../_internal/geo/Continent/Département~Ardèche.internal.md|Département~Ardèche.internal]] 
-- [[../../../../_protect/geo/Continent/Département~Ardèche.protect.md|Département~Ardèche.protect]] 
-- [[../../../../_private/geo/Continent/Département~Ardèche.private.md|Département~Ardèche.private]] 
-- [[../../../../_personal/geo/Continent/Département~Ardèche.personal.md|Département~Ardèche.personal]] 
-- [[../../../../_secret/geo/Continent/Département~Ardèche.secret.md|Département~Ardèche.secret]] 
+- [[../../../../_internal/geo/Continent/Département~Ardèche.internal|Département~Ardèche.internal]] 
+- [[../../../../_protect/geo/Continent/Département~Ardèche.protect|Département~Ardèche.protect]] 
+- [[../../../../_private/geo/Continent/Département~Ardèche.private|Département~Ardèche.private]] 
+- [[../../../../_personal/geo/Continent/Département~Ardèche.personal|Département~Ardèche.personal]] 
+- [[../../../../_secret/geo/Continent/Département~Ardèche.secret|Département~Ardèche.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[U-Zoo|U-Zoo]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.internal.md|U-Zoo.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.protect.md|U-Zoo.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.private.md|U-Zoo.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.personal.md|U-Zoo.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.secret.md|U-Zoo.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.internal|U-Zoo.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.protect|U-Zoo.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.private|U-Zoo.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.personal|U-Zoo.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Zoo.secret|U-Zoo.secret]] 

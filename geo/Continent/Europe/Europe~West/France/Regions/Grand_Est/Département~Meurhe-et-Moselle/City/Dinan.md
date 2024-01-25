@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Dinan.md|Dinan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dinan.internal.md|Dinan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dinan.protect.md|Dinan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Dinan.private.md|Dinan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dinan.personal.md|Dinan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dinan.secret.md|Dinan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dinan.internal|Dinan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dinan.protect|Dinan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Dinan.private|Dinan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dinan.personal|Dinan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dinan.secret|Dinan.secret]] 

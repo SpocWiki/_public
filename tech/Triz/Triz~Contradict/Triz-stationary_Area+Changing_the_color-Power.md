@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Changing_the_color-Power]
 [SpocWebEntityId::23132]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.md|Triz-stationary_Area+Changing_the_color-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.internal.md|Triz-stationary_Area+Changing_the_color-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.protect.md|Triz-stationary_Area+Changing_the_color-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.private.md|Triz-stationary_Area+Changing_the_color-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.personal.md|Triz-stationary_Area+Changing_the_color-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.secret.md|Triz-stationary_Area+Changing_the_color-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.internal|Triz-stationary_Area+Changing_the_color-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.protect|Triz-stationary_Area+Changing_the_color-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.private|Triz-stationary_Area+Changing_the_color-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.personal|Triz-stationary_Area+Changing_the_color-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Power.secret|Triz-stationary_Area+Changing_the_color-Power.secret]] 

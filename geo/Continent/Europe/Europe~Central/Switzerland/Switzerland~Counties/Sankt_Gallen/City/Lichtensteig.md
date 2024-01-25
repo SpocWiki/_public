@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lichtensteig.md|Lichtensteig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lichtensteig.internal.md|Lichtensteig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lichtensteig.protect.md|Lichtensteig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lichtensteig.private.md|Lichtensteig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lichtensteig.personal.md|Lichtensteig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lichtensteig.secret.md|Lichtensteig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lichtensteig.internal|Lichtensteig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lichtensteig.protect|Lichtensteig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lichtensteig.private|Lichtensteig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lichtensteig.personal|Lichtensteig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lichtensteig.secret|Lichtensteig.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Poelten.md|St.Poelten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Poelten.internal.md|St.Poelten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Poelten.protect.md|St.Poelten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Poelten.private.md|St.Poelten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Poelten.personal.md|St.Poelten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Poelten.secret.md|St.Poelten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Poelten.internal|St.Poelten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Poelten.protect|St.Poelten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Poelten.private|St.Poelten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Poelten.personal|St.Poelten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Poelten.secret|St.Poelten.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Vannes.md|Vannes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vannes.internal.md|Vannes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vannes.protect.md|Vannes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Vannes.private.md|Vannes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vannes.personal.md|Vannes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vannes.secret.md|Vannes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vannes.internal|Vannes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vannes.protect|Vannes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Vannes.private|Vannes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vannes.personal|Vannes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vannes.secret|Vannes.secret]] 

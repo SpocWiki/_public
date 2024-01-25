@@ -41,9 +41,9 @@ markerFolder: ./Chanthaburi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.md|Chanthaburi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.internal.md|Chanthaburi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.protect.md|Chanthaburi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.private.md|Chanthaburi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.personal.md|Chanthaburi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.secret.md|Chanthaburi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.internal|Chanthaburi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.protect|Chanthaburi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.private|Chanthaburi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.personal|Chanthaburi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chanthaburi.secret|Chanthaburi.secret]] 
 

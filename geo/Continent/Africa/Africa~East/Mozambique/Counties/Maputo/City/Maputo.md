@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Mozambique/City/Maputo.md|Maputo]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/City/Maputo.internal.md|Maputo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/City/Maputo.protect.md|Maputo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/City/Maputo.private.md|Maputo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/City/Maputo.personal.md|Maputo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/City/Maputo.secret.md|Maputo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/City/Maputo.internal|Maputo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/City/Maputo.protect|Maputo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mozambique/City/Maputo.private|Maputo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/City/Maputo.personal|Maputo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/City/Maputo.secret|Maputo.secret]] 

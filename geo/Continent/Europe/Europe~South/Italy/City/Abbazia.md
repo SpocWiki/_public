@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Abbazia.md|Abbazia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Abbazia.internal.md|Abbazia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Abbazia.protect.md|Abbazia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Abbazia.private.md|Abbazia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Abbazia.personal.md|Abbazia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Abbazia.secret.md|Abbazia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Abbazia.internal|Abbazia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Abbazia.protect|Abbazia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Abbazia.private|Abbazia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Abbazia.personal|Abbazia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Abbazia.secret|Abbazia.secret]] 

@@ -34,7 +34,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 - [[City~Banbridge|City~Banbridge]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.internal|Banbridge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.protect.md|Banbridge.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.private.md|Banbridge.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.personal.md|Banbridge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.secret.md|Banbridge.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.protect|Banbridge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.private|Banbridge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.personal|Banbridge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.secret|Banbridge.secret]] 

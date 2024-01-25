@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Frauenfeld.md|Frauenfeld]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Frauenfeld.internal.md|Frauenfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Frauenfeld.protect.md|Frauenfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Frauenfeld.private.md|Frauenfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Frauenfeld.personal.md|Frauenfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Frauenfeld.secret.md|Frauenfeld.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Frauenfeld.internal|Frauenfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Frauenfeld.protect|Frauenfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Frauenfeld.private|Frauenfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Frauenfeld.personal|Frauenfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Frauenfeld.secret|Frauenfeld.secret]] 

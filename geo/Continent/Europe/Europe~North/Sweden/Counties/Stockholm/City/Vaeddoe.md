@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaeddoe.md|Vaeddoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaeddoe.internal.md|Vaeddoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaeddoe.protect.md|Vaeddoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaeddoe.private.md|Vaeddoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaeddoe.personal.md|Vaeddoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaeddoe.secret.md|Vaeddoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaeddoe.internal|Vaeddoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaeddoe.protect|Vaeddoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaeddoe.private|Vaeddoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaeddoe.personal|Vaeddoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaeddoe.secret|Vaeddoe.secret]] 

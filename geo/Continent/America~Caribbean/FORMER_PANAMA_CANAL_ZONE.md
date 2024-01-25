@@ -36,8 +36,8 @@ markerFolder: ./FORMER_PANAMA_CANAL_ZONE/
 
 ## Confidential Links & Embeds: 
 - [[FORMER_PANAMA_CANAL_ZONE|FORMER_PANAMA_CANAL_ZONE]] 
-- [[../../../../_internal/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.internal.md|FORMER_PANAMA_CANAL_ZONE.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.protect.md|FORMER_PANAMA_CANAL_ZONE.protect]] 
-- [[../../../../_private/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.private.md|FORMER_PANAMA_CANAL_ZONE.private]] 
-- [[../../../../_personal/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.personal.md|FORMER_PANAMA_CANAL_ZONE.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.secret.md|FORMER_PANAMA_CANAL_ZONE.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.internal|FORMER_PANAMA_CANAL_ZONE.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.protect|FORMER_PANAMA_CANAL_ZONE.protect]] 
+- [[../../../../_private/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.private|FORMER_PANAMA_CANAL_ZONE.private]] 
+- [[../../../../_personal/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.personal|FORMER_PANAMA_CANAL_ZONE.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.secret|FORMER_PANAMA_CANAL_ZONE.secret]] 

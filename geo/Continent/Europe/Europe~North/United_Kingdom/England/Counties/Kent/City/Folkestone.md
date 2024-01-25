@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Folkestone.md|Folkestone]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Folkestone.internal.md|Folkestone.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Folkestone.protect.md|Folkestone.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Folkestone.private.md|Folkestone.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Folkestone.personal.md|Folkestone.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Folkestone.secret.md|Folkestone.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Folkestone.internal|Folkestone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Folkestone.protect|Folkestone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Folkestone.private|Folkestone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Folkestone.personal|Folkestone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Folkestone.secret|Folkestone.secret]] 

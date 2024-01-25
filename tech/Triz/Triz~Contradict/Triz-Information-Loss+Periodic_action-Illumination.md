@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Periodic_action-Illumination]
 [SpocWebEntityId::24949]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.md|Triz-Information-Loss+Periodic_action-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.internal.md|Triz-Information-Loss+Periodic_action-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.protect.md|Triz-Information-Loss+Periodic_action-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.private.md|Triz-Information-Loss+Periodic_action-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.personal.md|Triz-Information-Loss+Periodic_action-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.secret.md|Triz-Information-Loss+Periodic_action-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.internal|Triz-Information-Loss+Periodic_action-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.protect|Triz-Information-Loss+Periodic_action-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.private|Triz-Information-Loss+Periodic_action-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.personal|Triz-Information-Loss+Periodic_action-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Illumination.secret|Triz-Information-Loss+Periodic_action-Illumination.secret]] 

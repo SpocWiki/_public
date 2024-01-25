@@ -41,9 +41,9 @@ markerFolder: ./Al_Buhayrah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.md|Al_Buhayrah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.internal.md|Al_Buhayrah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.protect.md|Al_Buhayrah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.private.md|Al_Buhayrah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.personal.md|Al_Buhayrah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.secret.md|Al_Buhayrah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.internal|Al_Buhayrah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.protect|Al_Buhayrah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.private|Al_Buhayrah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.personal|Al_Buhayrah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.secret|Al_Buhayrah.secret]] 
 

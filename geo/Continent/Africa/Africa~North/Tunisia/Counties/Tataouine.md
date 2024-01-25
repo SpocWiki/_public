@@ -41,9 +41,9 @@ markerFolder: ./Tataouine/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Tataouine.md|Tataouine]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tataouine.internal.md|Tataouine.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tataouine.protect.md|Tataouine.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tataouine.private.md|Tataouine.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tataouine.personal.md|Tataouine.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tataouine.secret.md|Tataouine.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tataouine.internal|Tataouine.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tataouine.protect|Tataouine.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tataouine.private|Tataouine.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tataouine.personal|Tataouine.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tataouine.secret|Tataouine.secret]] 
 

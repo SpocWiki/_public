@@ -41,9 +41,9 @@ markerFolder: ./West_Flanders/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/West_Flanders.md|West_Flanders]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/West_Flanders.internal.md|West_Flanders.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/West_Flanders.protect.md|West_Flanders.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/West_Flanders.private.md|West_Flanders.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/West_Flanders.personal.md|West_Flanders.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/West_Flanders.secret.md|West_Flanders.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/West_Flanders.internal|West_Flanders.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/West_Flanders.protect|West_Flanders.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/West_Flanders.private|West_Flanders.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/West_Flanders.personal|West_Flanders.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/West_Flanders.secret|West_Flanders.secret]] 
 

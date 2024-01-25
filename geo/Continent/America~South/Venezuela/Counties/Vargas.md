@@ -41,9 +41,9 @@ markerFolder: ./Vargas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Vargas.md|Vargas]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Vargas.internal.md|Vargas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Vargas.protect.md|Vargas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Vargas.private.md|Vargas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Vargas.personal.md|Vargas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Vargas.secret.md|Vargas.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Vargas.internal|Vargas.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Vargas.protect|Vargas.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Vargas.private|Vargas.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Vargas.personal|Vargas.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Vargas.secret|Vargas.secret]] 
 

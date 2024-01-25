@@ -41,9 +41,9 @@ markerFolder: ./Famagusta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Cyprus/Counties/Famagusta.md|Famagusta]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Famagusta.internal.md|Famagusta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Famagusta.protect.md|Famagusta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Famagusta.private.md|Famagusta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Famagusta.personal.md|Famagusta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Famagusta.secret.md|Famagusta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Famagusta.internal|Famagusta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Famagusta.protect|Famagusta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Famagusta.private|Famagusta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Famagusta.personal|Famagusta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Famagusta.secret|Famagusta.secret]] 
 

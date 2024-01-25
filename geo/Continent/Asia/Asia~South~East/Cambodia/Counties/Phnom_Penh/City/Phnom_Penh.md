@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Cambodia/City/Phnom_Penh.md|Phnom_Penh]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Cambodia/City/Phnom_Penh.internal.md|Phnom_Penh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Cambodia/City/Phnom_Penh.protect.md|Phnom_Penh.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Cambodia/City/Phnom_Penh.private.md|Phnom_Penh.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Cambodia/City/Phnom_Penh.personal.md|Phnom_Penh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Cambodia/City/Phnom_Penh.secret.md|Phnom_Penh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Cambodia/City/Phnom_Penh.internal|Phnom_Penh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Cambodia/City/Phnom_Penh.protect|Phnom_Penh.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Cambodia/City/Phnom_Penh.private|Phnom_Penh.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Cambodia/City/Phnom_Penh.personal|Phnom_Penh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Cambodia/City/Phnom_Penh.secret|Phnom_Penh.secret]] 

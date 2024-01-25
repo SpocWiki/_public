@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Altjauer.md|Altjauer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altjauer.internal.md|Altjauer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altjauer.protect.md|Altjauer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altjauer.private.md|Altjauer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altjauer.personal.md|Altjauer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altjauer.secret.md|Altjauer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altjauer.internal|Altjauer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altjauer.protect|Altjauer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altjauer.private|Altjauer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altjauer.personal|Altjauer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altjauer.secret|Altjauer.secret]] 

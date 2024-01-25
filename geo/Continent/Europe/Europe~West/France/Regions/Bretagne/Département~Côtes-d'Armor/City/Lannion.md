@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Lannion.md|Lannion]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lannion.internal.md|Lannion.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lannion.protect.md|Lannion.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Lannion.private.md|Lannion.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lannion.personal.md|Lannion.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lannion.secret.md|Lannion.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lannion.internal|Lannion.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lannion.protect|Lannion.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lannion.private|Lannion.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lannion.personal|Lannion.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lannion.secret|Lannion.secret]] 

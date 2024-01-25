@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.md|Lehesten]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.internal.md|Lehesten.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.protect.md|Lehesten.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.private.md|Lehesten.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.personal.md|Lehesten.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.secret.md|Lehesten.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.internal|Lehesten.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.protect|Lehesten.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.private|Lehesten.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.personal|Lehesten.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Lehesten.secret|Lehesten.secret]] 

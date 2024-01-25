@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.md|Leitzkau]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.internal.md|Leitzkau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.protect.md|Leitzkau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.private.md|Leitzkau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.personal.md|Leitzkau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.secret.md|Leitzkau.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.internal|Leitzkau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.protect|Leitzkau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.private|Leitzkau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.personal|Leitzkau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Leitzkau.secret|Leitzkau.secret]] 

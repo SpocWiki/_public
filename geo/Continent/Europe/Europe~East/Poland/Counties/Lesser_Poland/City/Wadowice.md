@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wadowice.md|Wadowice]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wadowice.internal.md|Wadowice.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wadowice.protect.md|Wadowice.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wadowice.private.md|Wadowice.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wadowice.personal.md|Wadowice.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wadowice.secret.md|Wadowice.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wadowice.internal|Wadowice.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wadowice.protect|Wadowice.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wadowice.private|Wadowice.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wadowice.personal|Wadowice.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wadowice.secret|Wadowice.secret]] 

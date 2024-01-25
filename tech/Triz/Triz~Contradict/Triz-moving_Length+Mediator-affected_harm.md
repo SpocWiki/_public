@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Mediator-affected_harm]
 [SpocWebEntityId::22884]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.md|Triz-moving_Length+Mediator-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.internal.md|Triz-moving_Length+Mediator-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.protect.md|Triz-moving_Length+Mediator-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.private.md|Triz-moving_Length+Mediator-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.personal.md|Triz-moving_Length+Mediator-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.secret.md|Triz-moving_Length+Mediator-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.internal|Triz-moving_Length+Mediator-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.protect|Triz-moving_Length+Mediator-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.private|Triz-moving_Length+Mediator-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.personal|Triz-moving_Length+Mediator-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Mediator-affected_harm.secret|Triz-moving_Length+Mediator-affected_harm.secret]] 

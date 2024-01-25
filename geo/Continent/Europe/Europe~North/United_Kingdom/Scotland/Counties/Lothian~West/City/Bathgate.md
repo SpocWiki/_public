@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bathgate.md|Bathgate]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bathgate.internal.md|Bathgate.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bathgate.protect.md|Bathgate.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bathgate.private.md|Bathgate.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bathgate.personal.md|Bathgate.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bathgate.secret.md|Bathgate.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bathgate.internal|Bathgate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bathgate.protect|Bathgate.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bathgate.private|Bathgate.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bathgate.personal|Bathgate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bathgate.secret|Bathgate.secret]] 

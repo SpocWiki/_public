@@ -41,9 +41,9 @@ markerFolder: ./Département~Tarn/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.md|Département~Tarn]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.internal.md|Département~Tarn.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.protect.md|Département~Tarn.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.private.md|Département~Tarn.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.personal.md|Département~Tarn.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.secret.md|Département~Tarn.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.internal|Département~Tarn.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.protect|Département~Tarn.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.private|Département~Tarn.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.personal|Département~Tarn.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Occitanie/Département~Tarn.secret|Département~Tarn.secret]] 
 

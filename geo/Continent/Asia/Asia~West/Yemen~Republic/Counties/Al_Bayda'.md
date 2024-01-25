@@ -41,9 +41,9 @@ markerFolder: ./Al_Bayda'/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.md|Al_Bayda']] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.internal.md|Al_Bayda'.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.protect.md|Al_Bayda'.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.private.md|Al_Bayda'.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.personal.md|Al_Bayda'.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.secret.md|Al_Bayda'.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.internal|Al_Bayda'.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.protect|Al_Bayda'.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.private|Al_Bayda'.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.personal|Al_Bayda'.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Bayda'.secret|Al_Bayda'.secret]] 
 

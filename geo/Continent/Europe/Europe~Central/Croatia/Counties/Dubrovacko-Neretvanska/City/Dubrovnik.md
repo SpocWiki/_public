@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.md|Dubrovnik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.internal.md|Dubrovnik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.protect.md|Dubrovnik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.private.md|Dubrovnik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.personal.md|Dubrovnik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.secret.md|Dubrovnik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.internal|Dubrovnik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.protect|Dubrovnik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.private|Dubrovnik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.personal|Dubrovnik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.secret|Dubrovnik.secret]] 

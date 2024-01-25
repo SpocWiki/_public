@@ -41,9 +41,9 @@ markerFolder: ./Kassala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Kassala.md|Kassala]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Kassala.internal.md|Kassala.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Kassala.protect.md|Kassala.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Kassala.private.md|Kassala.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Kassala.personal.md|Kassala.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Kassala.secret.md|Kassala.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Kassala.internal|Kassala.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Kassala.protect|Kassala.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Kassala.private|Kassala.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Kassala.personal|Kassala.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Kassala.secret|Kassala.secret]] 
 

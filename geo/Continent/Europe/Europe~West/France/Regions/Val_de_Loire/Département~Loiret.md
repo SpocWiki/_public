@@ -41,9 +41,9 @@ markerFolder: ./Département~Loiret/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.md|Département~Loiret]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.internal.md|Département~Loiret.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.protect.md|Département~Loiret.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.private.md|Département~Loiret.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.personal.md|Département~Loiret.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.secret.md|Département~Loiret.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.internal|Département~Loiret.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.protect|Département~Loiret.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.private|Département~Loiret.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.personal|Département~Loiret.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loiret.secret|Département~Loiret.secret]] 
 

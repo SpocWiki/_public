@@ -41,9 +41,9 @@ markerFolder: ./Montana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Montana.md|Montana]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Montana.internal.md|Montana.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Montana.protect.md|Montana.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Montana.private.md|Montana.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Montana.personal.md|Montana.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Montana.secret.md|Montana.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Montana.internal|Montana.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Montana.protect|Montana.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Montana.private|Montana.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Montana.personal|Montana.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Montana.secret|Montana.secret]] 
 

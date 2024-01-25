@@ -41,9 +41,9 @@ markerFolder: ./Baa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.md|Baa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.internal.md|Baa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.protect.md|Baa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.private.md|Baa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.personal.md|Baa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.secret.md|Baa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.internal|Baa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.protect|Baa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.private|Baa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.personal|Baa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.secret|Baa.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Vuzenica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.md|Vuzenica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.internal.md|Vuzenica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.protect.md|Vuzenica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.private.md|Vuzenica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.personal.md|Vuzenica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.secret.md|Vuzenica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.internal|Vuzenica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.protect|Vuzenica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.private|Vuzenica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.personal|Vuzenica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Vuzenica.secret|Vuzenica.secret]] 
 

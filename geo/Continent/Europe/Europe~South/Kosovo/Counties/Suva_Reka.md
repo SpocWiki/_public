@@ -41,9 +41,9 @@ markerFolder: ./Suva_Reka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.md|Suva_Reka]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.internal.md|Suva_Reka.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.protect.md|Suva_Reka.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.private.md|Suva_Reka.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.personal.md|Suva_Reka.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.secret.md|Suva_Reka.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.internal|Suva_Reka.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.protect|Suva_Reka.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.private|Suva_Reka.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.personal|Suva_Reka.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Suva_Reka.secret|Suva_Reka.secret]] 
 

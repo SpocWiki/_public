@@ -41,9 +41,9 @@ markerFolder: ./Chiradzulu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Chiradzulu.md|Chiradzulu]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Chiradzulu.internal.md|Chiradzulu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Chiradzulu.protect.md|Chiradzulu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Chiradzulu.private.md|Chiradzulu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Chiradzulu.personal.md|Chiradzulu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Chiradzulu.secret.md|Chiradzulu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Chiradzulu.internal|Chiradzulu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Chiradzulu.protect|Chiradzulu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Chiradzulu.private|Chiradzulu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Chiradzulu.personal|Chiradzulu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Chiradzulu.secret|Chiradzulu.secret]] 
 

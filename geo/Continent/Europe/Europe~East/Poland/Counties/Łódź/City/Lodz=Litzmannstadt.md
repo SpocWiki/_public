@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.md|Lodz=Litzmannstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.internal.md|Lodz=Litzmannstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.protect.md|Lodz=Litzmannstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.private.md|Lodz=Litzmannstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.personal.md|Lodz=Litzmannstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.secret.md|Lodz=Litzmannstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.internal|Lodz=Litzmannstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.protect|Lodz=Litzmannstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.private|Lodz=Litzmannstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.personal|Lodz=Litzmannstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.secret|Lodz=Litzmannstadt.secret]] 

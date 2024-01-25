@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bernhardin.md|Bernhardin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bernhardin.internal.md|Bernhardin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bernhardin.protect.md|Bernhardin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bernhardin.private.md|Bernhardin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bernhardin.personal.md|Bernhardin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bernhardin.secret.md|Bernhardin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bernhardin.internal|Bernhardin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bernhardin.protect|Bernhardin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bernhardin.private|Bernhardin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bernhardin.personal|Bernhardin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bernhardin.secret|Bernhardin.secret]] 

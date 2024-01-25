@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.md|Neustadt~Orla]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.internal.md|Neustadt~Orla.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.protect.md|Neustadt~Orla.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.private.md|Neustadt~Orla.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.personal.md|Neustadt~Orla.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.secret.md|Neustadt~Orla.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.internal|Neustadt~Orla.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.protect|Neustadt~Orla.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.private|Neustadt~Orla.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.personal|Neustadt~Orla.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Orla.secret|Neustadt~Orla.secret]] 

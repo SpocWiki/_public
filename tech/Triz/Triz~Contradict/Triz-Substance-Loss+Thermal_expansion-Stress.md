@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Thermal_expansion-Stress]
 [SpocWebEntityId::24828]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.md|Triz-Substance-Loss+Thermal_expansion-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.internal.md|Triz-Substance-Loss+Thermal_expansion-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.protect.md|Triz-Substance-Loss+Thermal_expansion-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.private.md|Triz-Substance-Loss+Thermal_expansion-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.personal.md|Triz-Substance-Loss+Thermal_expansion-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.secret.md|Triz-Substance-Loss+Thermal_expansion-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.internal|Triz-Substance-Loss+Thermal_expansion-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.protect|Triz-Substance-Loss+Thermal_expansion-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.private|Triz-Substance-Loss+Thermal_expansion-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.personal|Triz-Substance-Loss+Thermal_expansion-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Thermal_expansion-Stress.secret|Triz-Substance-Loss+Thermal_expansion-Stress.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Hohlacker|Hohlacker]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.internal.md|Hohlacker.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.protect.md|Hohlacker.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.private.md|Hohlacker.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.personal.md|Hohlacker.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.secret.md|Hohlacker.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.internal|Hohlacker.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.protect|Hohlacker.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.private|Hohlacker.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.personal|Hohlacker.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.secret|Hohlacker.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Canterbury.md|Canterbury]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Canterbury.internal.md|Canterbury.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Canterbury.protect.md|Canterbury.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Canterbury.private.md|Canterbury.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Canterbury.personal.md|Canterbury.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Canterbury.secret.md|Canterbury.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Canterbury.internal|Canterbury.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Canterbury.protect|Canterbury.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Canterbury.private|Canterbury.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Canterbury.personal|Canterbury.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Canterbury.secret|Canterbury.secret]] 

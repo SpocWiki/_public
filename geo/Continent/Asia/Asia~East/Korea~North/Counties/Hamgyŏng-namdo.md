@@ -41,9 +41,9 @@ markerFolder: ./Hamgyŏng-namdo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.md|Hamgyŏng-namdo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.internal.md|Hamgyŏng-namdo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.protect.md|Hamgyŏng-namdo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.private.md|Hamgyŏng-namdo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.personal.md|Hamgyŏng-namdo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.secret.md|Hamgyŏng-namdo.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.internal|Hamgyŏng-namdo.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.protect|Hamgyŏng-namdo.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.private|Hamgyŏng-namdo.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.personal|Hamgyŏng-namdo.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-namdo.secret|Hamgyŏng-namdo.secret]] 
 

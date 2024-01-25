@@ -41,9 +41,9 @@ markerFolder: ./Rum_Cay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.md|Rum_Cay]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.internal.md|Rum_Cay.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.protect.md|Rum_Cay.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.private.md|Rum_Cay.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.personal.md|Rum_Cay.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.secret.md|Rum_Cay.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.internal|Rum_Cay.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.protect|Rum_Cay.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.private|Rum_Cay.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.personal|Rum_Cay.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.secret|Rum_Cay.secret]] 
 

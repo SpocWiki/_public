@@ -41,9 +41,9 @@ markerFolder: ./Mulativ/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.md|Mulativ]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.internal.md|Mulativ.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.protect.md|Mulativ.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.private.md|Mulativ.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.personal.md|Mulativ.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.secret.md|Mulativ.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.internal|Mulativ.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.protect|Mulativ.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.private|Mulativ.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.personal|Mulativ.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.secret|Mulativ.secret]] 
 

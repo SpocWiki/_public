@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity]
 [SpocWebEntityId::26169]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.personal.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.secret.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.personal|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.secret|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Tours.md|Tours]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tours.internal.md|Tours.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tours.protect.md|Tours.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Tours.private.md|Tours.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tours.personal.md|Tours.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tours.secret.md|Tours.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tours.internal|Tours.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tours.protect|Tours.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Tours.private|Tours.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tours.personal|Tours.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tours.secret|Tours.secret]] 

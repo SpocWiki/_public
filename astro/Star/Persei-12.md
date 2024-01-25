@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Persei-12.md|Persei-12]] 
-- [[../../../_internal/astro/Star/Persei-12.internal.md|Persei-12.internal]] 
-- [[../../../_protect/astro/Star/Persei-12.protect.md|Persei-12.protect]] 
-- [[../../../_private/astro/Star/Persei-12.private.md|Persei-12.private]] 
-- [[../../../_personal/astro/Star/Persei-12.personal.md|Persei-12.personal]] 
-- [[../../../_secret/astro/Star/Persei-12.secret.md|Persei-12.secret]] 
+- [[../../../_internal/astro/Star/Persei-12.internal|Persei-12.internal]] 
+- [[../../../_protect/astro/Star/Persei-12.protect|Persei-12.protect]] 
+- [[../../../_private/astro/Star/Persei-12.private|Persei-12.private]] 
+- [[../../../_personal/astro/Star/Persei-12.personal|Persei-12.personal]] 
+- [[../../../_secret/astro/Star/Persei-12.secret|Persei-12.secret]] 

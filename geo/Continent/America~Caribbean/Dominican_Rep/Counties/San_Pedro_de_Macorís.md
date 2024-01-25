@@ -41,9 +41,9 @@ markerFolder: ./San_Pedro_de_Macorís/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.md|San_Pedro_de_Macorís]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.internal.md|San_Pedro_de_Macorís.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.protect.md|San_Pedro_de_Macorís.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.private.md|San_Pedro_de_Macorís.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.personal.md|San_Pedro_de_Macorís.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.secret.md|San_Pedro_de_Macorís.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.internal|San_Pedro_de_Macorís.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.protect|San_Pedro_de_Macorís.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.private|San_Pedro_de_Macorís.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.personal|San_Pedro_de_Macorís.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.secret|San_Pedro_de_Macorís.secret]] 
 

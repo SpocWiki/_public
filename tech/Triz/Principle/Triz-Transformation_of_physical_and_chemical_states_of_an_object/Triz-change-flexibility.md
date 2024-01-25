@@ -26,8 +26,8 @@ Change the Degree of Flexibility.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-change-flexibility.md|Triz-change-flexibility]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-change-flexibility.internal.md|Triz-change-flexibility.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-change-flexibility.protect.md|Triz-change-flexibility.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-change-flexibility.private.md|Triz-change-flexibility.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-change-flexibility.personal.md|Triz-change-flexibility.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-change-flexibility.secret.md|Triz-change-flexibility.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-change-flexibility.internal|Triz-change-flexibility.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-change-flexibility.protect|Triz-change-flexibility.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-change-flexibility.private|Triz-change-flexibility.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-change-flexibility.personal|Triz-change-flexibility.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-change-flexibility.secret|Triz-change-flexibility.secret]] 

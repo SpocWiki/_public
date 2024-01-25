@@ -41,9 +41,9 @@ markerFolder: ./Marupes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Marupes.md|Marupes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Marupes.internal.md|Marupes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Marupes.protect.md|Marupes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Marupes.private.md|Marupes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Marupes.personal.md|Marupes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Marupes.secret.md|Marupes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Marupes.internal|Marupes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Marupes.protect|Marupes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Marupes.private|Marupes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Marupes.personal|Marupes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Marupes.secret|Marupes.secret]] 
 

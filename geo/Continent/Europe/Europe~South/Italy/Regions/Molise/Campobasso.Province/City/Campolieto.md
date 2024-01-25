@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Campolieto.md|Campolieto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Campolieto.internal.md|Campolieto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Campolieto.protect.md|Campolieto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Campolieto.private.md|Campolieto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Campolieto.personal.md|Campolieto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Campolieto.secret.md|Campolieto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Campolieto.internal|Campolieto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Campolieto.protect|Campolieto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Campolieto.private|Campolieto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Campolieto.personal|Campolieto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Campolieto.secret|Campolieto.secret]] 

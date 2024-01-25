@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Dynamicity-moving_Volume]
 [SpocWebEntityId::23498]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.md|Triz-Intensity+Dynamicity-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.internal.md|Triz-Intensity+Dynamicity-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.protect.md|Triz-Intensity+Dynamicity-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.private.md|Triz-Intensity+Dynamicity-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.personal.md|Triz-Intensity+Dynamicity-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.secret.md|Triz-Intensity+Dynamicity-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.internal|Triz-Intensity+Dynamicity-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.protect|Triz-Intensity+Dynamicity-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.private|Triz-Intensity+Dynamicity-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.personal|Triz-Intensity+Dynamicity-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Dynamicity-moving_Volume.secret|Triz-Intensity+Dynamicity-moving_Volume.secret]] 

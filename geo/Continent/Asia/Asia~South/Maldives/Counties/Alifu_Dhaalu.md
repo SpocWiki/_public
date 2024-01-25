@@ -41,9 +41,9 @@ markerFolder: ./Alifu_Dhaalu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.md|Alifu_Dhaalu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.internal.md|Alifu_Dhaalu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.protect.md|Alifu_Dhaalu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.private.md|Alifu_Dhaalu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.personal.md|Alifu_Dhaalu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.secret.md|Alifu_Dhaalu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.internal|Alifu_Dhaalu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.protect|Alifu_Dhaalu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.private|Alifu_Dhaalu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.personal|Alifu_Dhaalu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Dhaalu.secret|Alifu_Dhaalu.secret]] 
 

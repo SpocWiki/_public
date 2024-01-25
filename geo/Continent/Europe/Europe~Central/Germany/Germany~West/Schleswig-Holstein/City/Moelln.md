@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Moelln|Moelln]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.internal.md|Moelln.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.protect.md|Moelln.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.private.md|Moelln.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.personal.md|Moelln.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.secret.md|Moelln.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.internal|Moelln.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.protect|Moelln.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.private|Moelln.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.personal|Moelln.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.secret|Moelln.secret]] 

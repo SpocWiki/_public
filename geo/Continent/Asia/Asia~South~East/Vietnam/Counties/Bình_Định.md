@@ -41,9 +41,9 @@ markerFolder: ./Bình_Định/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.md|Bình_Định]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.internal.md|Bình_Định.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.protect.md|Bình_Định.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.private.md|Bình_Định.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.personal.md|Bình_Định.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.secret.md|Bình_Định.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.internal|Bình_Định.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.protect|Bình_Định.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.private|Bình_Định.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.personal|Bình_Định.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Định.secret|Bình_Định.secret]] 
 

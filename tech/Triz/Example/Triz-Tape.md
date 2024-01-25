@@ -18,8 +18,8 @@ Rubber Cement in a Bottle is difficult to apply neatly and uniformly. Instead, i
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Tape.md|Triz-Tape]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Tape.internal.md|Triz-Tape.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Tape.protect.md|Triz-Tape.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Tape.private.md|Triz-Tape.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Tape.personal.md|Triz-Tape.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Tape.secret.md|Triz-Tape.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Tape.internal|Triz-Tape.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Tape.protect|Triz-Tape.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Tape.private|Triz-Tape.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Tape.personal|Triz-Tape.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Tape.secret|Triz-Tape.secret]] 

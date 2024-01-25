@@ -41,9 +41,9 @@ markerFolder: ./Qacha's_Nek/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.md|Qacha's_Nek]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.internal.md|Qacha's_Nek.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.protect.md|Qacha's_Nek.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.private.md|Qacha's_Nek.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.personal.md|Qacha's_Nek.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.secret.md|Qacha's_Nek.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.internal|Qacha's_Nek.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.protect|Qacha's_Nek.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.private|Qacha's_Nek.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.personal|Qacha's_Nek.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Qacha's_Nek.secret|Qacha's_Nek.secret]] 
 

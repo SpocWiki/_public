@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.md|Chorczow=Hindenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.internal.md|Chorczow=Hindenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.protect.md|Chorczow=Hindenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.private.md|Chorczow=Hindenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.personal.md|Chorczow=Hindenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.secret.md|Chorczow=Hindenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.internal|Chorczow=Hindenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.protect|Chorczow=Hindenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.private|Chorczow=Hindenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.personal|Chorczow=Hindenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Chorczow=Hindenburg.secret|Chorczow=Hindenburg.secret]] 

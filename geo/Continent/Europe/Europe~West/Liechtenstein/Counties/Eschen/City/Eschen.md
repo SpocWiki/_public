@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.2]
 [name::Eschen]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../../Europe~Central/Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Eschen.md|Eschen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Eschen.internal.md|Eschen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Eschen.protect.md|Eschen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Eschen.private.md|Eschen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Eschen.personal.md|Eschen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Eschen.secret.md|Eschen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Eschen.internal|Eschen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Eschen.protect|Eschen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Eschen.private|Eschen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Eschen.personal|Eschen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Eschen.secret|Eschen.secret]] 

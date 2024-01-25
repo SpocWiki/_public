@@ -41,9 +41,9 @@ markerFolder: ./Southland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Southland.md|Southland]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Southland.internal.md|Southland.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Southland.protect.md|Southland.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Southland.private.md|Southland.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Southland.personal.md|Southland.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Southland.secret.md|Southland.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Southland.internal|Southland.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Southland.protect|Southland.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Southland.private|Southland.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Southland.personal|Southland.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Southland.secret|Southland.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Wokingham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.md|Wokingham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.internal.md|Wokingham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.protect.md|Wokingham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.private.md|Wokingham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.personal.md|Wokingham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.secret.md|Wokingham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.internal|Wokingham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.protect|Wokingham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.private|Wokingham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.personal|Wokingham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.secret|Wokingham.secret]] 
 

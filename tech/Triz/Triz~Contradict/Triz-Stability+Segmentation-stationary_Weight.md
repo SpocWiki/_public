@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Segmentation-stationary_Weight]
 [SpocWebEntityId::23833]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.md|Triz-Stability+Segmentation-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.internal.md|Triz-Stability+Segmentation-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.protect.md|Triz-Stability+Segmentation-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.private.md|Triz-Stability+Segmentation-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.personal.md|Triz-Stability+Segmentation-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.secret.md|Triz-Stability+Segmentation-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.internal|Triz-Stability+Segmentation-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.protect|Triz-Stability+Segmentation-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.private|Triz-Stability+Segmentation-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.personal|Triz-Stability+Segmentation-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Segmentation-stationary_Weight.secret|Triz-Stability+Segmentation-stationary_Weight.secret]] 

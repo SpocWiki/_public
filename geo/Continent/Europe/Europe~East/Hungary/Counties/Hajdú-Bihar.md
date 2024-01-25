@@ -41,9 +41,9 @@ markerFolder: ./Hajdú-Bihar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.md|Hajdú-Bihar]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.internal.md|Hajdú-Bihar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.protect.md|Hajdú-Bihar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.private.md|Hajdú-Bihar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.personal.md|Hajdú-Bihar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.secret.md|Hajdú-Bihar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.internal|Hajdú-Bihar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.protect|Hajdú-Bihar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.private|Hajdú-Bihar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.personal|Hajdú-Bihar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.secret|Hajdú-Bihar.secret]] 
 

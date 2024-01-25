@@ -41,9 +41,9 @@ markerFolder: ./Luxembourg/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Luxembourg.md|Luxembourg]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Luxembourg.internal.md|Luxembourg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Luxembourg.protect.md|Luxembourg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Luxembourg.private.md|Luxembourg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Luxembourg.personal.md|Luxembourg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Luxembourg.secret.md|Luxembourg.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Luxembourg.internal|Luxembourg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Luxembourg.protect|Luxembourg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Luxembourg.private|Luxembourg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Luxembourg.personal|Luxembourg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Luxembourg.secret|Luxembourg.secret]] 
 

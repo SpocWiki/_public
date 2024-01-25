@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.md|Honolulu]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.internal.md|Honolulu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.protect.md|Honolulu.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.private.md|Honolulu.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.personal.md|Honolulu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.secret.md|Honolulu.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.internal|Honolulu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.protect|Honolulu.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.private|Honolulu.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.personal|Honolulu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.secret|Honolulu.secret]] 

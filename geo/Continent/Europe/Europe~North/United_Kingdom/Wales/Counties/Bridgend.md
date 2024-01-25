@@ -41,9 +41,9 @@ markerFolder: ./Bridgend/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.md|Bridgend]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.internal.md|Bridgend.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.protect.md|Bridgend.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.private.md|Bridgend.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.personal.md|Bridgend.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.secret.md|Bridgend.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.internal|Bridgend.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.protect|Bridgend.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.private|Bridgend.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.personal|Bridgend.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Bridgend.secret|Bridgend.secret]] 
 

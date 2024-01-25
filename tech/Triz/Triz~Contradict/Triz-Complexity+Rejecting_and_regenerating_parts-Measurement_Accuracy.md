@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy]
 [SpocWebEntityId::26371]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.md|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal.md|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect.md|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.private.md|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.personal.md|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.secret.md|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.private|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.personal|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.secret|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.secret]] 

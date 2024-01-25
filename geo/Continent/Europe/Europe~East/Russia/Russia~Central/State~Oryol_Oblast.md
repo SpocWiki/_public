@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Oryol_Oblast|State~Oryol_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.internal|State~Oryol_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.protect.md|State~Oryol_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.private.md|State~Oryol_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.personal.md|State~Oryol_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.secret.md|State~Oryol_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.protect|State~Oryol_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.private|State~Oryol_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.personal|State~Oryol_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.secret|State~Oryol_Oblast.secret]] 

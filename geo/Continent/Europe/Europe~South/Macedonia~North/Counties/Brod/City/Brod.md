@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Brod.md|Brod]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Brod.internal.md|Brod.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Brod.protect.md|Brod.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Brod.private.md|Brod.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Brod.personal.md|Brod.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Brod.secret.md|Brod.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Brod.internal|Brod.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Brod.protect|Brod.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Brod.private|Brod.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Brod.personal|Brod.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Brod.secret|Brod.secret]] 

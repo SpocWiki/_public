@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bremerhaven|Bremerhaven]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.internal.md|Bremerhaven.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.protect.md|Bremerhaven.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.private.md|Bremerhaven.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.personal.md|Bremerhaven.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.secret.md|Bremerhaven.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.internal|Bremerhaven.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.protect|Bremerhaven.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.private|Bremerhaven.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.personal|Bremerhaven.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremerhaven.secret|Bremerhaven.secret]] 

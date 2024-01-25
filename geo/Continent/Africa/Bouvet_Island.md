@@ -136,8 +136,8 @@ markerFolder: ./Bouvet_Island/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Bouvet_Island.md|Bouvet_Island]] 
-- [[../../../../_internal/geo/Continent/Africa/Bouvet_Island.internal.md|Bouvet_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Bouvet_Island.protect.md|Bouvet_Island.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Bouvet_Island.private.md|Bouvet_Island.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Bouvet_Island.personal.md|Bouvet_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Bouvet_Island.secret.md|Bouvet_Island.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Bouvet_Island.internal|Bouvet_Island.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Bouvet_Island.protect|Bouvet_Island.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Bouvet_Island.private|Bouvet_Island.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Bouvet_Island.personal|Bouvet_Island.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Bouvet_Island.secret|Bouvet_Island.secret]] 

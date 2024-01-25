@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Octantis-4.md|Octantis-4]] 
-- [[../../../_internal/astro/Star/Octantis-4.internal.md|Octantis-4.internal]] 
-- [[../../../_protect/astro/Star/Octantis-4.protect.md|Octantis-4.protect]] 
-- [[../../../_private/astro/Star/Octantis-4.private.md|Octantis-4.private]] 
-- [[../../../_personal/astro/Star/Octantis-4.personal.md|Octantis-4.personal]] 
-- [[../../../_secret/astro/Star/Octantis-4.secret.md|Octantis-4.secret]] 
+- [[../../../_internal/astro/Star/Octantis-4.internal|Octantis-4.internal]] 
+- [[../../../_protect/astro/Star/Octantis-4.protect|Octantis-4.protect]] 
+- [[../../../_private/astro/Star/Octantis-4.private|Octantis-4.private]] 
+- [[../../../_personal/astro/Star/Octantis-4.personal|Octantis-4.personal]] 
+- [[../../../_secret/astro/Star/Octantis-4.secret|Octantis-4.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jelisawetpol.md|Jelisawetpol]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jelisawetpol.internal.md|Jelisawetpol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jelisawetpol.protect.md|Jelisawetpol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jelisawetpol.private.md|Jelisawetpol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jelisawetpol.personal.md|Jelisawetpol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jelisawetpol.secret.md|Jelisawetpol.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jelisawetpol.internal|Jelisawetpol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jelisawetpol.protect|Jelisawetpol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jelisawetpol.private|Jelisawetpol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jelisawetpol.personal|Jelisawetpol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jelisawetpol.secret|Jelisawetpol.secret]] 

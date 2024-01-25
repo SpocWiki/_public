@@ -41,9 +41,9 @@ markerFolder: ./Central_Eleuthera/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.md|Central_Eleuthera]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.internal.md|Central_Eleuthera.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.protect.md|Central_Eleuthera.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.private.md|Central_Eleuthera.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.personal.md|Central_Eleuthera.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.secret.md|Central_Eleuthera.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.internal|Central_Eleuthera.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.protect|Central_Eleuthera.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.private|Central_Eleuthera.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.personal|Central_Eleuthera.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Eleuthera.secret|Central_Eleuthera.secret]] 
 

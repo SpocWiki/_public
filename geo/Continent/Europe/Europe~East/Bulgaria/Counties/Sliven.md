@@ -41,9 +41,9 @@ markerFolder: ./Sliven/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Sliven.md|Sliven]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Sliven.internal.md|Sliven.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Sliven.protect.md|Sliven.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Sliven.private.md|Sliven.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Sliven.personal.md|Sliven.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Sliven.secret.md|Sliven.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Sliven.internal|Sliven.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Sliven.protect|Sliven.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Sliven.private|Sliven.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Sliven.personal|Sliven.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Sliven.secret|Sliven.secret]] 
 

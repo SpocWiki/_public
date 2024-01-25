@@ -41,9 +41,9 @@ markerFolder: ./Kelantan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.md|Kelantan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.internal.md|Kelantan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.protect.md|Kelantan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.private.md|Kelantan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.personal.md|Kelantan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.secret.md|Kelantan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.internal|Kelantan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.protect|Kelantan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.private|Kelantan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.personal|Kelantan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kelantan.secret|Kelantan.secret]] 
 

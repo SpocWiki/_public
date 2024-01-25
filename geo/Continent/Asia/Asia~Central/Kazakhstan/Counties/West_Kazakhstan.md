@@ -41,9 +41,9 @@ markerFolder: ./West_Kazakhstan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.md|West_Kazakhstan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.internal.md|West_Kazakhstan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.protect.md|West_Kazakhstan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.private.md|West_Kazakhstan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.personal.md|West_Kazakhstan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.secret.md|West_Kazakhstan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.internal|West_Kazakhstan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.protect|West_Kazakhstan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.private|West_Kazakhstan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.personal|West_Kazakhstan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.secret|West_Kazakhstan.secret]] 
 

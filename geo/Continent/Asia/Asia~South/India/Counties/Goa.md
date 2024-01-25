@@ -41,9 +41,9 @@ markerFolder: ./Goa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Goa.md|Goa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Goa.internal.md|Goa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Goa.protect.md|Goa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Goa.private.md|Goa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Goa.personal.md|Goa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Goa.secret.md|Goa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Goa.internal|Goa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Goa.protect|Goa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Goa.private|Goa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Goa.personal|Goa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Goa.secret|Goa.secret]] 
 

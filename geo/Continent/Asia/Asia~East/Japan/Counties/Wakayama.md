@@ -41,9 +41,9 @@ markerFolder: ./Wakayama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.md|Wakayama]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.internal.md|Wakayama.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.protect.md|Wakayama.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.private.md|Wakayama.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.personal.md|Wakayama.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.secret.md|Wakayama.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.internal|Wakayama.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.protect|Wakayama.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.private|Wakayama.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.personal|Wakayama.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Wakayama.secret|Wakayama.secret]] 
 

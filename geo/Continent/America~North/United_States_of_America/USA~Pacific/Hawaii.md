@@ -37,8 +37,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Hawaii.md|Hawaii]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Hawaii.internal.md|Hawaii.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Hawaii.protect.md|Hawaii.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Hawaii.private.md|Hawaii.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Hawaii.personal.md|Hawaii.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Hawaii.secret.md|Hawaii.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Hawaii.internal|Hawaii.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Hawaii.protect|Hawaii.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Hawaii.private|Hawaii.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Hawaii.personal|Hawaii.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Hawaii.secret|Hawaii.secret]] 

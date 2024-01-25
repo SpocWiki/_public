@@ -36,8 +36,8 @@ markerFolder: ./State~Hamburg/
 
 ## Confidential Links & Embeds: 
 - [[State~Hamburg|State~Hamburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg.internal.md|State~Hamburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg.protect.md|State~Hamburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg.private.md|State~Hamburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg.personal.md|State~Hamburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg.secret.md|State~Hamburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg.internal|State~Hamburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg.protect|State~Hamburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg.private|State~Hamburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg.personal|State~Hamburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg.secret|State~Hamburg.secret]] 

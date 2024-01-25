@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.md|Cheyenne]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.internal.md|Cheyenne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.protect.md|Cheyenne.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.private.md|Cheyenne.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.personal.md|Cheyenne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.secret.md|Cheyenne.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.internal|Cheyenne.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.protect|Cheyenne.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.private|Cheyenne.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.personal|Cheyenne.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Wyoming/City/Cheyenne.secret|Cheyenne.secret]] 

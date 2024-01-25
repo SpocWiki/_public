@@ -41,9 +41,9 @@ markerFolder: ./Vevčani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.md|Vevčani]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.internal.md|Vevčani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.protect.md|Vevčani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.private.md|Vevčani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.personal.md|Vevčani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.secret.md|Vevčani.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.internal|Vevčani.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.protect|Vevčani.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.private|Vevčani.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.personal|Vevčani.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.secret|Vevčani.secret]] 
 

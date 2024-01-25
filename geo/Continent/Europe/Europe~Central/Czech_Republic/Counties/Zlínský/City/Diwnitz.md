@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Diwnitz.md|Diwnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Diwnitz.internal.md|Diwnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Diwnitz.protect.md|Diwnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Diwnitz.private.md|Diwnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Diwnitz.personal.md|Diwnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Diwnitz.secret.md|Diwnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Diwnitz.internal|Diwnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Diwnitz.protect|Diwnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Diwnitz.private|Diwnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Diwnitz.personal|Diwnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Diwnitz.secret|Diwnitz.secret]] 

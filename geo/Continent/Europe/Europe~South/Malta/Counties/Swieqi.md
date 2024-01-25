@@ -41,9 +41,9 @@ markerFolder: ./Swieqi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Swieqi.md|Swieqi]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Swieqi.internal.md|Swieqi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Swieqi.protect.md|Swieqi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Swieqi.private.md|Swieqi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Swieqi.personal.md|Swieqi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Swieqi.secret.md|Swieqi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Swieqi.internal|Swieqi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Swieqi.protect|Swieqi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Swieqi.private|Swieqi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Swieqi.personal|Swieqi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Swieqi.secret|Swieqi.secret]] 
 

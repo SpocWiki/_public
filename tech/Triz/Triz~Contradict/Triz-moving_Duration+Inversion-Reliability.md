@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Duration+Inversion-Reliability]
 [SpocWebEntityId::24129]
-+ [pro::[[Triz-moving_Duration]]]
++ [#has_/Pros :: [[Triz-moving_Duration]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.md|Triz-moving_Duration+Inversion-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.internal.md|Triz-moving_Duration+Inversion-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.protect.md|Triz-moving_Duration+Inversion-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.private.md|Triz-moving_Duration+Inversion-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.personal.md|Triz-moving_Duration+Inversion-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.secret.md|Triz-moving_Duration+Inversion-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.internal|Triz-moving_Duration+Inversion-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.protect|Triz-moving_Duration+Inversion-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.private|Triz-moving_Duration+Inversion-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.personal|Triz-moving_Duration+Inversion-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.secret|Triz-moving_Duration+Inversion-Reliability.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./León/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/León.md|León]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/León.internal.md|León.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/León.protect.md|León.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/León.private.md|León.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/León.personal.md|León.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/León.secret.md|León.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/León.internal|León.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/León.protect|León.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/León.private|León.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/León.personal|León.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/León.secret|León.secret]] 
 

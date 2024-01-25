@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wilkersdorf.md|Wilkersdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wilkersdorf.internal.md|Wilkersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wilkersdorf.protect.md|Wilkersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wilkersdorf.private.md|Wilkersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wilkersdorf.personal.md|Wilkersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wilkersdorf.secret.md|Wilkersdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wilkersdorf.internal|Wilkersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wilkersdorf.protect|Wilkersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wilkersdorf.private|Wilkersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wilkersdorf.personal|Wilkersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wilkersdorf.secret|Wilkersdorf.secret]] 

@@ -137,8 +137,8 @@ markerFolder: ./Puerto_Rico/
 
 ## Confidential Links & Embeds: 
 - [[Puerto_Rico|Puerto_Rico]] 
-- [[../../../../_internal/geo/Continent/South-America/Puerto_Rico.internal.md|Puerto_Rico.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Puerto_Rico.protect.md|Puerto_Rico.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Puerto_Rico.private.md|Puerto_Rico.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Puerto_Rico.personal.md|Puerto_Rico.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Puerto_Rico.secret.md|Puerto_Rico.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Puerto_Rico.internal|Puerto_Rico.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Puerto_Rico.protect|Puerto_Rico.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Puerto_Rico.private|Puerto_Rico.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Puerto_Rico.personal|Puerto_Rico.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Puerto_Rico.secret|Puerto_Rico.secret]] 

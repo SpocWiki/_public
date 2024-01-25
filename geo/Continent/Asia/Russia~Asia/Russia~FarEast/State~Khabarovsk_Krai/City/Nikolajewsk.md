@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nikolajewsk.md|Nikolajewsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nikolajewsk.internal.md|Nikolajewsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nikolajewsk.protect.md|Nikolajewsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nikolajewsk.private.md|Nikolajewsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nikolajewsk.personal.md|Nikolajewsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nikolajewsk.secret.md|Nikolajewsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nikolajewsk.internal|Nikolajewsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nikolajewsk.protect|Nikolajewsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nikolajewsk.private|Nikolajewsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nikolajewsk.personal|Nikolajewsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nikolajewsk.secret|Nikolajewsk.secret]] 

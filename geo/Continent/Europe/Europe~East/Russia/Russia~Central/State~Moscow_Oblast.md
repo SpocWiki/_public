@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Moscow_Oblast|State~Moscow_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.internal|State~Moscow_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.protect.md|State~Moscow_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.private.md|State~Moscow_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.personal.md|State~Moscow_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.secret.md|State~Moscow_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.protect|State~Moscow_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.private|State~Moscow_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.personal|State~Moscow_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.secret|State~Moscow_Oblast.secret]] 

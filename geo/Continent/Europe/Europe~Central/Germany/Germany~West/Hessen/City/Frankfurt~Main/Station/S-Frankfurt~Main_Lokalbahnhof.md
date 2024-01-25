@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Frankfurt~Main_Lokalbahnhof|S-Frankfurt~Main_Lokalbahnhof]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.internal.md|S-Frankfurt~Main_Lokalbahnhof.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.protect.md|S-Frankfurt~Main_Lokalbahnhof.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.private.md|S-Frankfurt~Main_Lokalbahnhof.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.personal.md|S-Frankfurt~Main_Lokalbahnhof.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.secret.md|S-Frankfurt~Main_Lokalbahnhof.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.internal|S-Frankfurt~Main_Lokalbahnhof.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.protect|S-Frankfurt~Main_Lokalbahnhof.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.private|S-Frankfurt~Main_Lokalbahnhof.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.personal|S-Frankfurt~Main_Lokalbahnhof.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.secret|S-Frankfurt~Main_Lokalbahnhof.secret]] 

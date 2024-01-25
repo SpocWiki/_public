@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Neufra~Hohenzollern|Neufra~Hohenzollern]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.internal.md|Neufra~Hohenzollern.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.protect.md|Neufra~Hohenzollern.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.private.md|Neufra~Hohenzollern.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.personal.md|Neufra~Hohenzollern.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.secret.md|Neufra~Hohenzollern.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.internal|Neufra~Hohenzollern.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.protect|Neufra~Hohenzollern.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.private|Neufra~Hohenzollern.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.personal|Neufra~Hohenzollern.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.secret|Neufra~Hohenzollern.secret]] 

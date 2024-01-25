@@ -41,9 +41,9 @@ markerFolder: ./Nyíregyháza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.md|Nyíregyháza]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.internal.md|Nyíregyháza.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.protect.md|Nyíregyháza.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.private.md|Nyíregyháza.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.personal.md|Nyíregyháza.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.secret.md|Nyíregyháza.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.internal|Nyíregyháza.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.protect|Nyíregyháza.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.private|Nyíregyháza.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.personal|Nyíregyháza.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.secret|Nyíregyháza.secret]] 
 

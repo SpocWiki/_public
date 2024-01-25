@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Omsk.md|Omsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Omsk.internal.md|Omsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Omsk.protect.md|Omsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Omsk.private.md|Omsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Omsk.personal.md|Omsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Omsk.secret.md|Omsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Omsk.internal|Omsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Omsk.protect|Omsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Omsk.private|Omsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Omsk.personal|Omsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Omsk.secret|Omsk.secret]] 

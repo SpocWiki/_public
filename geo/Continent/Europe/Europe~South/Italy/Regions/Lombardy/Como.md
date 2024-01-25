@@ -41,11 +41,11 @@ markerFolder: ./Como/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lombardy/Como.md|Como]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Como.internal.md|Como.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Como.protect.md|Como.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Como.private.md|Como.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Como.personal.md|Como.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Como.secret.md|Como.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Como.internal|Como.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Como.protect|Como.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Como.private|Como.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Como.personal|Como.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Como.secret|Como.secret]] 
 
 
 ```leaflet

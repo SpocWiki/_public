@@ -41,9 +41,9 @@ markerFolder: ./Louangphrabang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.md|Louangphrabang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.internal.md|Louangphrabang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.protect.md|Louangphrabang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.private.md|Louangphrabang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.personal.md|Louangphrabang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.secret.md|Louangphrabang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.internal|Louangphrabang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.protect|Louangphrabang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.private|Louangphrabang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.personal|Louangphrabang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Louangphrabang.secret|Louangphrabang.secret]] 
 

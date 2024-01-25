@@ -41,9 +41,9 @@ markerFolder: ./Princes_Town/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.md|Princes_Town]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.internal.md|Princes_Town.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.protect.md|Princes_Town.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.private.md|Princes_Town.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.personal.md|Princes_Town.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.secret.md|Princes_Town.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.internal|Princes_Town.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.protect|Princes_Town.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.private|Princes_Town.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.personal|Princes_Town.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Princes_Town.secret|Princes_Town.secret]] 
 

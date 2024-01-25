@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/China/City/Schanghai.md|Schanghai]] 
-- [[../../../../../../_internal/geo/Continent/Asia/China/City/Schanghai.internal.md|Schanghai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/China/City/Schanghai.protect.md|Schanghai.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/China/City/Schanghai.private.md|Schanghai.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/China/City/Schanghai.personal.md|Schanghai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/China/City/Schanghai.secret.md|Schanghai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/China/City/Schanghai.internal|Schanghai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/China/City/Schanghai.protect|Schanghai.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/China/City/Schanghai.private|Schanghai.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/China/City/Schanghai.personal|Schanghai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/China/City/Schanghai.secret|Schanghai.secret]] 

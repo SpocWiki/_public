@@ -41,9 +41,9 @@ markerFolder: ./Dobje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.md|Dobje]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.internal.md|Dobje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.protect.md|Dobje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.private.md|Dobje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.personal.md|Dobje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.secret.md|Dobje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.internal|Dobje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.protect|Dobje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.private|Dobje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.personal|Dobje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobje.secret|Dobje.secret]] 
 

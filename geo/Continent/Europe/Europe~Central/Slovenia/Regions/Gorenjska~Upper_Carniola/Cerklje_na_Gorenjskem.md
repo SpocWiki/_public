@@ -41,9 +41,9 @@ markerFolder: ./Cerklje_na_Gorenjskem/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.md|Cerklje_na_Gorenjskem]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.internal.md|Cerklje_na_Gorenjskem.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.protect.md|Cerklje_na_Gorenjskem.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.private.md|Cerklje_na_Gorenjskem.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.personal.md|Cerklje_na_Gorenjskem.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.secret.md|Cerklje_na_Gorenjskem.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.internal|Cerklje_na_Gorenjskem.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.protect|Cerklje_na_Gorenjskem.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.private|Cerklje_na_Gorenjskem.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.personal|Cerklje_na_Gorenjskem.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Cerklje_na_Gorenjskem.secret|Cerklje_na_Gorenjskem.secret]] 
 

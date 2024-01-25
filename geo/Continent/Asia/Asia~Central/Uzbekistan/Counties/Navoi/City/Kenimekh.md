@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kenimekh.md|Kenimekh]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kenimekh.internal.md|Kenimekh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kenimekh.protect.md|Kenimekh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kenimekh.private.md|Kenimekh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kenimekh.personal.md|Kenimekh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kenimekh.secret.md|Kenimekh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kenimekh.internal|Kenimekh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kenimekh.protect|Kenimekh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kenimekh.private|Kenimekh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kenimekh.personal|Kenimekh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kenimekh.secret|Kenimekh.secret]] 

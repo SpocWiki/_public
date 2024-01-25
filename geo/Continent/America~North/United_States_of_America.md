@@ -48,8 +48,8 @@ markerFolder: ./United_States_of_America/
 
 ## Confidential Links & Embeds: 
 - [[United_States_of_America|United_States_of_America]] 
-- [[../../../../_internal/geo/Continent/North-America/United_States_of_America.internal.md|United_States_of_America.internal]] 
-- [[../../../../_protect/geo/Continent/North-America/United_States_of_America.protect.md|United_States_of_America.protect]] 
-- [[../../../../_private/geo/Continent/North-America/United_States_of_America.private.md|United_States_of_America.private]] 
-- [[../../../../_personal/geo/Continent/North-America/United_States_of_America.personal.md|United_States_of_America.personal]] 
-- [[../../../../_secret/geo/Continent/North-America/United_States_of_America.secret.md|United_States_of_America.secret]] 
+- [[../../../../_internal/geo/Continent/North-America/United_States_of_America.internal|United_States_of_America.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/United_States_of_America.protect|United_States_of_America.protect]] 
+- [[../../../../_private/geo/Continent/North-America/United_States_of_America.private|United_States_of_America.private]] 
+- [[../../../../_personal/geo/Continent/North-America/United_States_of_America.personal|United_States_of_America.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/United_States_of_America.secret|United_States_of_America.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Muret.md|Muret]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Muret.internal.md|Muret.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Muret.protect.md|Muret.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Muret.private.md|Muret.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Muret.personal.md|Muret.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Muret.secret.md|Muret.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Muret.internal|Muret.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Muret.protect|Muret.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Muret.private|Muret.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Muret.personal|Muret.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Muret.secret|Muret.secret]] 

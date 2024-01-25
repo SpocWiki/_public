@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Liebenthal.md|Liebenthal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebenthal.internal.md|Liebenthal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebenthal.protect.md|Liebenthal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Liebenthal.private.md|Liebenthal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebenthal.personal.md|Liebenthal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebenthal.secret.md|Liebenthal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebenthal.internal|Liebenthal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebenthal.protect|Liebenthal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Liebenthal.private|Liebenthal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebenthal.personal|Liebenthal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebenthal.secret|Liebenthal.secret]] 

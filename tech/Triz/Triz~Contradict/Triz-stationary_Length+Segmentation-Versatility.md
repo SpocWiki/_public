@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Segmentation-Versatility]
 [SpocWebEntityId::22984]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.md|Triz-stationary_Length+Segmentation-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.internal.md|Triz-stationary_Length+Segmentation-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.protect.md|Triz-stationary_Length+Segmentation-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.private.md|Triz-stationary_Length+Segmentation-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.personal.md|Triz-stationary_Length+Segmentation-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.secret.md|Triz-stationary_Length+Segmentation-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.internal|Triz-stationary_Length+Segmentation-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.protect|Triz-stationary_Length+Segmentation-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.private|Triz-stationary_Length+Segmentation-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.personal|Triz-stationary_Length+Segmentation-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Versatility.secret|Triz-stationary_Length+Segmentation-Versatility.secret]] 

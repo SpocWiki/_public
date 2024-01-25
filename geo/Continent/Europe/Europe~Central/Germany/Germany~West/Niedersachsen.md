@@ -35,8 +35,8 @@ markerFolder: ./Niedersachsen/
 
 ## Confidential Links & Embeds: 
 - [[Niedersachsen|Niedersachsen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen.internal.md|Niedersachsen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen.protect.md|Niedersachsen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen.private.md|Niedersachsen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen.personal.md|Niedersachsen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen.secret.md|Niedersachsen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen.internal|Niedersachsen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen.protect|Niedersachsen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen.private|Niedersachsen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen.personal|Niedersachsen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen.secret|Niedersachsen.secret]] 

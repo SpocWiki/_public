@@ -41,9 +41,9 @@ markerFolder: ./Ruse/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Ruse.md|Ruse]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Ruse.internal.md|Ruse.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Ruse.protect.md|Ruse.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Ruse.private.md|Ruse.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Ruse.personal.md|Ruse.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Ruse.secret.md|Ruse.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Ruse.internal|Ruse.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Ruse.protect|Ruse.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Ruse.private|Ruse.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Ruse.personal|Ruse.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Ruse.secret|Ruse.secret]] 
 

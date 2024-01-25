@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength]
 [SpocWebEntityId::24374]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret]] 

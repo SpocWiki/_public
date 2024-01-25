@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gurjew.md|Gurjew]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gurjew.internal.md|Gurjew.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gurjew.protect.md|Gurjew.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gurjew.private.md|Gurjew.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gurjew.personal.md|Gurjew.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gurjew.secret.md|Gurjew.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gurjew.internal|Gurjew.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gurjew.protect|Gurjew.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gurjew.private|Gurjew.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gurjew.personal|Gurjew.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gurjew.secret|Gurjew.secret]] 

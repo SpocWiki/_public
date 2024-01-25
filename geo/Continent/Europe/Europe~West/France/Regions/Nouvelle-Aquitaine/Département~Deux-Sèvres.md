@@ -41,9 +41,9 @@ markerFolder: ./Département~Deux-Sèvres/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.md|Département~Deux-Sèvres]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.internal.md|Département~Deux-Sèvres.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.protect.md|Département~Deux-Sèvres.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.private.md|Département~Deux-Sèvres.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.personal.md|Département~Deux-Sèvres.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.secret.md|Département~Deux-Sèvres.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.internal|Département~Deux-Sèvres.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.protect|Département~Deux-Sèvres.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.private|Département~Deux-Sèvres.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.personal|Département~Deux-Sèvres.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Deux-Sèvres.secret|Département~Deux-Sèvres.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Sevilla.md|Sevilla]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Sevilla.internal.md|Sevilla.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Sevilla.protect.md|Sevilla.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Sevilla.private.md|Sevilla.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Sevilla.personal.md|Sevilla.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Sevilla.secret.md|Sevilla.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Sevilla.internal|Sevilla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Sevilla.protect|Sevilla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Sevilla.private|Sevilla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Sevilla.personal|Sevilla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Sevilla.secret|Sevilla.secret]] 

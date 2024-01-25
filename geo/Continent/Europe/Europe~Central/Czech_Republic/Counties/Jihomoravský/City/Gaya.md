@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gaya.md|Gaya]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gaya.internal.md|Gaya.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gaya.protect.md|Gaya.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gaya.private.md|Gaya.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gaya.personal.md|Gaya.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gaya.secret.md|Gaya.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gaya.internal|Gaya.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gaya.protect|Gaya.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gaya.private|Gaya.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gaya.personal|Gaya.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gaya.secret|Gaya.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Obertiefenbach~Lahn|Obertiefenbach~Lahn]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.internal.md|Obertiefenbach~Lahn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.protect.md|Obertiefenbach~Lahn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.private.md|Obertiefenbach~Lahn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.personal.md|Obertiefenbach~Lahn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.secret.md|Obertiefenbach~Lahn.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.internal|Obertiefenbach~Lahn.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.protect|Obertiefenbach~Lahn.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.private|Obertiefenbach~Lahn.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.personal|Obertiefenbach~Lahn.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.secret|Obertiefenbach~Lahn.secret]] 

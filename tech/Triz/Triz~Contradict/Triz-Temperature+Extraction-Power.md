@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Extraction-Power]
 [SpocWebEntityId::24288]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.md|Triz-Temperature+Extraction-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.internal.md|Triz-Temperature+Extraction-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.protect.md|Triz-Temperature+Extraction-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.private.md|Triz-Temperature+Extraction-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.personal.md|Triz-Temperature+Extraction-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.secret.md|Triz-Temperature+Extraction-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.internal|Triz-Temperature+Extraction-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.protect|Triz-Temperature+Extraction-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.private|Triz-Temperature+Extraction-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.personal|Triz-Temperature+Extraction-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.secret|Triz-Temperature+Extraction-Power.secret]] 

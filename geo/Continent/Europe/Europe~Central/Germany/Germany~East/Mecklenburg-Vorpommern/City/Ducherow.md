@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.md|Ducherow]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.internal.md|Ducherow.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.protect.md|Ducherow.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.private.md|Ducherow.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.personal.md|Ducherow.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.secret.md|Ducherow.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.internal|Ducherow.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.protect|Ducherow.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.private|Ducherow.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.personal|Ducherow.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Ducherow.secret|Ducherow.secret]] 

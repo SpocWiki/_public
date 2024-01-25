@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Inversion-Strength]
 [SpocWebEntityId::26566]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.md|Triz-Automation+Inversion-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.internal.md|Triz-Automation+Inversion-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.protect.md|Triz-Automation+Inversion-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.private.md|Triz-Automation+Inversion-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.personal.md|Triz-Automation+Inversion-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.secret.md|Triz-Automation+Inversion-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.internal|Triz-Automation+Inversion-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.protect|Triz-Automation+Inversion-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.private|Triz-Automation+Inversion-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.personal|Triz-Automation+Inversion-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.secret|Triz-Automation+Inversion-Strength.secret]] 

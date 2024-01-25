@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Puycerda.md|Puycerda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Puycerda.internal.md|Puycerda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Puycerda.protect.md|Puycerda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Puycerda.private.md|Puycerda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Puycerda.personal.md|Puycerda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Puycerda.secret.md|Puycerda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Puycerda.internal|Puycerda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Puycerda.protect|Puycerda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Puycerda.private|Puycerda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Puycerda.personal|Puycerda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Puycerda.secret|Puycerda.secret]] 

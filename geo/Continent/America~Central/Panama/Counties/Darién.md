@@ -41,9 +41,9 @@ markerFolder: ./Darién/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Darién.md|Darién]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Darién.internal.md|Darién.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Darién.protect.md|Darién.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Darién.private.md|Darién.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Darién.personal.md|Darién.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Darién.secret.md|Darién.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Darién.internal|Darién.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Darién.protect|Darién.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Darién.private|Darién.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Darién.personal|Darién.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Darién.secret|Darién.secret]] 
 

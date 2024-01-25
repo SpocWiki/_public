@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.md|Vinzelberg]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.internal.md|Vinzelberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.protect.md|Vinzelberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.private.md|Vinzelberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.personal.md|Vinzelberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.secret.md|Vinzelberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.internal|Vinzelberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.protect|Vinzelberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.private|Vinzelberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.personal|Vinzelberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Vinzelberg.secret|Vinzelberg.secret]] 

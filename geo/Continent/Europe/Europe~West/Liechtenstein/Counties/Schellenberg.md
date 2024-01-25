@@ -41,9 +41,9 @@ markerFolder: ./Schellenberg/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.md|Schellenberg]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.internal.md|Schellenberg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.protect.md|Schellenberg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.private.md|Schellenberg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.personal.md|Schellenberg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.secret.md|Schellenberg.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.internal|Schellenberg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.protect|Schellenberg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.private|Schellenberg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.personal|Schellenberg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.secret|Schellenberg.secret]] 
 

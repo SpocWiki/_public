@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Feedback-Reliability]
 [SpocWebEntityId::24565]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle:[[Triz~Sub~feedback]]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.md|Triz-stationary_Energy+Feedback-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.internal.md|Triz-stationary_Energy+Feedback-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.protect.md|Triz-stationary_Energy+Feedback-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.private.md|Triz-stationary_Energy+Feedback-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.personal.md|Triz-stationary_Energy+Feedback-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.secret.md|Triz-stationary_Energy+Feedback-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.internal|Triz-stationary_Energy+Feedback-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.protect|Triz-stationary_Energy+Feedback-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.private|Triz-stationary_Energy+Feedback-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.personal|Triz-stationary_Energy+Feedback-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.secret|Triz-stationary_Energy+Feedback-Reliability.secret]] 

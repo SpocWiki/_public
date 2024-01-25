@@ -41,9 +41,9 @@ markerFolder: ./Sokoto/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Sokoto.md|Sokoto]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Sokoto.internal.md|Sokoto.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Sokoto.protect.md|Sokoto.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Sokoto.private.md|Sokoto.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Sokoto.personal.md|Sokoto.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Sokoto.secret.md|Sokoto.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Sokoto.internal|Sokoto.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Sokoto.protect|Sokoto.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Sokoto.private|Sokoto.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Sokoto.personal|Sokoto.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Sokoto.secret|Sokoto.secret]] 
 

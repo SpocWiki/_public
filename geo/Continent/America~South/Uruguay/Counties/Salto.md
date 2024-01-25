@@ -41,9 +41,9 @@ markerFolder: ./Salto/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Salto.md|Salto]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Salto.internal.md|Salto.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Salto.protect.md|Salto.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Salto.private.md|Salto.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Salto.personal.md|Salto.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Salto.secret.md|Salto.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Salto.internal|Salto.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Salto.protect|Salto.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Salto.private|Salto.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Salto.personal|Salto.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Salto.secret|Salto.secret]] 
 

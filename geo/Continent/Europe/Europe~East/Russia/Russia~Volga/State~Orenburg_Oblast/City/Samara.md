@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Samara.md|Samara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Samara.internal.md|Samara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Samara.protect.md|Samara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Samara.private.md|Samara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Samara.personal.md|Samara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Samara.secret.md|Samara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Samara.internal|Samara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Samara.protect|Samara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Samara.private|Samara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Samara.personal|Samara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Samara.secret|Samara.secret]] 

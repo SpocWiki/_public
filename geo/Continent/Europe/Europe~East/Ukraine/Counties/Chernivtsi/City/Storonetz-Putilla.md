@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Storonetz-Putilla.md|Storonetz-Putilla]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Storonetz-Putilla.internal.md|Storonetz-Putilla.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Storonetz-Putilla.protect.md|Storonetz-Putilla.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Storonetz-Putilla.private.md|Storonetz-Putilla.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Storonetz-Putilla.personal.md|Storonetz-Putilla.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Storonetz-Putilla.secret.md|Storonetz-Putilla.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Storonetz-Putilla.internal|Storonetz-Putilla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Storonetz-Putilla.protect|Storonetz-Putilla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Storonetz-Putilla.private|Storonetz-Putilla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Storonetz-Putilla.personal|Storonetz-Putilla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Storonetz-Putilla.secret|Storonetz-Putilla.secret]] 

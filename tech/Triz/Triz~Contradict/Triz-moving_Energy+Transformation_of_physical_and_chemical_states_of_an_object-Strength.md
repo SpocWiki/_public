@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength]
 [SpocWebEntityId::24471]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret]] 

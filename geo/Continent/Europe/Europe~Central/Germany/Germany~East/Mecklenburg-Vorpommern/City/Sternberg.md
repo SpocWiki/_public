@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.md|Sternberg]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.internal.md|Sternberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.protect.md|Sternberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.private.md|Sternberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.personal.md|Sternberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.secret.md|Sternberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.internal|Sternberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.protect|Sternberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.private|Sternberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.personal|Sternberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Sternberg.secret|Sternberg.secret]] 

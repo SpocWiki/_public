@@ -41,9 +41,9 @@ markerFolder: ./Cascade/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Cascade.md|Cascade]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Cascade.internal.md|Cascade.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Cascade.protect.md|Cascade.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Cascade.private.md|Cascade.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Cascade.personal.md|Cascade.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Cascade.secret.md|Cascade.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Cascade.internal|Cascade.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Cascade.protect|Cascade.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Cascade.private|Cascade.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Cascade.personal|Cascade.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Cascade.secret|Cascade.secret]] 
 

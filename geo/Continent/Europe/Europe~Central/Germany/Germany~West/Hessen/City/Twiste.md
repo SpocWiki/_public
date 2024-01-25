@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Twiste|Twiste]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.internal.md|Twiste.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.protect.md|Twiste.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.private.md|Twiste.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.personal.md|Twiste.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.secret.md|Twiste.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.internal|Twiste.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.protect|Twiste.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.private|Twiste.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.personal|Twiste.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.secret|Twiste.secret]] 

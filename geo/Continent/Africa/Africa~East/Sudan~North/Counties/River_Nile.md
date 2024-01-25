@@ -41,9 +41,9 @@ markerFolder: ./River_Nile/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/River_Nile.md|River_Nile]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/River_Nile.internal.md|River_Nile.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/River_Nile.protect.md|River_Nile.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/River_Nile.private.md|River_Nile.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/River_Nile.personal.md|River_Nile.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/River_Nile.secret.md|River_Nile.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/River_Nile.internal|River_Nile.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/River_Nile.protect|River_Nile.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/River_Nile.private|River_Nile.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/River_Nile.personal|River_Nile.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/River_Nile.secret|River_Nile.secret]] 
 

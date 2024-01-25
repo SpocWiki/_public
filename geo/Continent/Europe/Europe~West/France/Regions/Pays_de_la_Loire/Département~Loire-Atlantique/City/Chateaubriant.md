@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chateaubriant.md|Chateaubriant]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateaubriant.internal.md|Chateaubriant.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateaubriant.protect.md|Chateaubriant.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateaubriant.private.md|Chateaubriant.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateaubriant.personal.md|Chateaubriant.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateaubriant.secret.md|Chateaubriant.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateaubriant.internal|Chateaubriant.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateaubriant.protect|Chateaubriant.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateaubriant.private|Chateaubriant.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateaubriant.personal|Chateaubriant.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateaubriant.secret|Chateaubriant.secret]] 

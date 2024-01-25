@@ -41,9 +41,9 @@ markerFolder: ./Ruše/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.md|Ruše]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.internal.md|Ruše.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.protect.md|Ruše.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.private.md|Ruše.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.personal.md|Ruše.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.secret.md|Ruše.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.internal|Ruše.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.protect|Ruše.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.private|Ruše.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.personal|Ruše.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Ruše.secret|Ruše.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Bratislavský/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovakia/Counties/Bratislavský.md|Bratislavský]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Bratislavský.internal.md|Bratislavský.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Bratislavský.protect.md|Bratislavský.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Bratislavský.private.md|Bratislavský.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Bratislavský.personal.md|Bratislavský.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Bratislavský.secret.md|Bratislavský.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Bratislavský.internal|Bratislavský.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Bratislavský.protect|Bratislavský.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Bratislavský.private|Bratislavský.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Bratislavský.personal|Bratislavský.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Bratislavský.secret|Bratislavský.secret]] 
 

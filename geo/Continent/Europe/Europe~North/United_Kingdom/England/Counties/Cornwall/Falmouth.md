@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Falmouth.md|Falmouth]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Falmouth.internal.md|Falmouth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Falmouth.protect.md|Falmouth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Falmouth.private.md|Falmouth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Falmouth.personal.md|Falmouth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Falmouth.secret.md|Falmouth.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Falmouth.internal|Falmouth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Falmouth.protect|Falmouth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Falmouth.private|Falmouth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Falmouth.personal|Falmouth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Falmouth.secret|Falmouth.secret]] 

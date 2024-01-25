@@ -41,9 +41,9 @@ markerFolder: ./Stirling/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.md|Stirling]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.internal.md|Stirling.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.protect.md|Stirling.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.private.md|Stirling.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.personal.md|Stirling.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.secret.md|Stirling.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.internal|Stirling.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.protect|Stirling.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.private|Stirling.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.personal|Stirling.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Stirling.secret|Stirling.secret]] 
 

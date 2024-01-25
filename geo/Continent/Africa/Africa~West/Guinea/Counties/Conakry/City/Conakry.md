@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Guinea/City/Conakry.md|Conakry]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/City/Conakry.internal.md|Conakry.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/City/Conakry.protect.md|Conakry.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/City/Conakry.private.md|Conakry.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/City/Conakry.personal.md|Conakry.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/City/Conakry.secret.md|Conakry.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/City/Conakry.internal|Conakry.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/City/Conakry.protect|Conakry.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/City/Conakry.private|Conakry.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/City/Conakry.personal|Conakry.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/City/Conakry.secret|Conakry.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Almada.md|Almada]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Almada.internal.md|Almada.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Almada.protect.md|Almada.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Almada.private.md|Almada.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Almada.personal.md|Almada.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Almada.secret.md|Almada.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Almada.internal|Almada.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Almada.protect|Almada.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Almada.private|Almada.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Almada.personal|Almada.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Almada.secret|Almada.secret]] 

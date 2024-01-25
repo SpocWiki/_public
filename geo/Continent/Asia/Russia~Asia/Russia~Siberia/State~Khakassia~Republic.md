@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.md|State~Khakassia~Republic]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.internal|State~Khakassia~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.protect.md|State~Khakassia~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.private.md|State~Khakassia~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.personal.md|State~Khakassia~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.secret.md|State~Khakassia~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.protect|State~Khakassia~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.private|State~Khakassia~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.personal|State~Khakassia~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Khakassia~Republic.secret|State~Khakassia~Republic.secret]] 

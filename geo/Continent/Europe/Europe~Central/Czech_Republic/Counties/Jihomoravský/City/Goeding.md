@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Goeding.md|Goeding]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Goeding.internal.md|Goeding.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Goeding.protect.md|Goeding.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Goeding.private.md|Goeding.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Goeding.personal.md|Goeding.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Goeding.secret.md|Goeding.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Goeding.internal|Goeding.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Goeding.protect|Goeding.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Goeding.private|Goeding.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Goeding.personal|Goeding.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Goeding.secret|Goeding.secret]] 

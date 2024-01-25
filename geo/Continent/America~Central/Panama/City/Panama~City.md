@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Panama~City|Panama~City]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Panama/City/Panama~City.internal.md|Panama~City.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Panama/City/Panama~City.protect.md|Panama~City.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Panama/City/Panama~City.private.md|Panama~City.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Panama/City/Panama~City.personal.md|Panama~City.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Panama/City/Panama~City.secret.md|Panama~City.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Panama/City/Panama~City.internal|Panama~City.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Panama/City/Panama~City.protect|Panama~City.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Panama/City/Panama~City.private|Panama~City.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Panama/City/Panama~City.personal|Panama~City.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Panama/City/Panama~City.secret|Panama~City.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../[[City~Edinburgh|City~Edinburgh]]/../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.internal.md|Edinburgh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.protect.md|Edinburgh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.private.md|Edinburgh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.personal.md|Edinburgh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.secret.md|Edinburgh.secret]] 
+- [[../../[[City~Edinburgh|City~Edinburgh]]/../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.internal|Edinburgh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.protect|Edinburgh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.private|Edinburgh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.personal|Edinburgh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.secret|Edinburgh.secret]] 

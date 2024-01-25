@@ -40,8 +40,8 @@ SpocWebEntityId: 21919
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Argon.md|Argon]] 
-- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Argon.internal.md|Argon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Argon.protect.md|Argon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Argon.private.md|Argon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Argon.personal.md|Argon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Argon.secret.md|Argon.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Argon.internal|Argon.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Argon.protect|Argon.protect]] 
+- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Argon.private|Argon.private]] 
+- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Argon.personal|Argon.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Argon.secret|Argon.secret]] 

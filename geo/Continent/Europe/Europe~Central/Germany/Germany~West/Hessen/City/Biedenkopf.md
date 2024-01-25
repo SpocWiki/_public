@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Biedenkopf|Biedenkopf]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.internal.md|Biedenkopf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.protect.md|Biedenkopf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.private.md|Biedenkopf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.personal.md|Biedenkopf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.secret.md|Biedenkopf.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.internal|Biedenkopf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.protect|Biedenkopf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.private|Biedenkopf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.personal|Biedenkopf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.secret|Biedenkopf.secret]] 

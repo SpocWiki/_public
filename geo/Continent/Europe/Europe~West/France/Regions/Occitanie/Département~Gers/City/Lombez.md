@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Lombez.md|Lombez]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lombez.internal.md|Lombez.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lombez.protect.md|Lombez.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Lombez.private.md|Lombez.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lombez.personal.md|Lombez.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lombez.secret.md|Lombez.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lombez.internal|Lombez.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lombez.protect|Lombez.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lombez.private|Lombez.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lombez.personal|Lombez.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lombez.secret|Lombez.secret]] 

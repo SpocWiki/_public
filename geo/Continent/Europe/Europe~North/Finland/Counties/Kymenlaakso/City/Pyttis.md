@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pyttis.md|Pyttis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pyttis.internal.md|Pyttis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pyttis.protect.md|Pyttis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pyttis.private.md|Pyttis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pyttis.personal.md|Pyttis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pyttis.secret.md|Pyttis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pyttis.internal|Pyttis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pyttis.protect|Pyttis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pyttis.private|Pyttis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pyttis.personal|Pyttis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pyttis.secret|Pyttis.secret]] 

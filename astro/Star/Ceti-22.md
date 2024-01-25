@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Ceti-22.md|Ceti-22]] 
-- [[../../../_internal/astro/Star/Ceti-22.internal.md|Ceti-22.internal]] 
-- [[../../../_protect/astro/Star/Ceti-22.protect.md|Ceti-22.protect]] 
-- [[../../../_private/astro/Star/Ceti-22.private.md|Ceti-22.private]] 
-- [[../../../_personal/astro/Star/Ceti-22.personal.md|Ceti-22.personal]] 
-- [[../../../_secret/astro/Star/Ceti-22.secret.md|Ceti-22.secret]]
+- [[../../../_internal/astro/Star/Ceti-22.internal|Ceti-22.internal]] 
+- [[../../../_protect/astro/Star/Ceti-22.protect|Ceti-22.protect]] 
+- [[../../../_private/astro/Star/Ceti-22.private|Ceti-22.private]] 
+- [[../../../_personal/astro/Star/Ceti-22.personal|Ceti-22.personal]] 
+- [[../../../_secret/astro/Star/Ceti-22.secret|Ceti-22.secret]]
 

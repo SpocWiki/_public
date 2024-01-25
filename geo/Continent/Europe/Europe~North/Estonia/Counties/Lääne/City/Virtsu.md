@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Virtsu.md|Virtsu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Virtsu.internal.md|Virtsu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Virtsu.protect.md|Virtsu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Virtsu.private.md|Virtsu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Virtsu.personal.md|Virtsu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Virtsu.secret.md|Virtsu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Virtsu.internal|Virtsu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Virtsu.protect|Virtsu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Virtsu.private|Virtsu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Virtsu.personal|Virtsu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Virtsu.secret|Virtsu.secret]] 

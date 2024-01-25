@@ -41,9 +41,9 @@ markerFolder: ./Département~Var/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.md|Département~Var]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.internal.md|Département~Var.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.protect.md|Département~Var.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.private.md|Département~Var.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.personal.md|Département~Var.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.secret.md|Département~Var.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.internal|Département~Var.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.protect|Département~Var.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.private|Département~Var.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.personal|Département~Var.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Var.secret|Département~Var.secret]] 
 

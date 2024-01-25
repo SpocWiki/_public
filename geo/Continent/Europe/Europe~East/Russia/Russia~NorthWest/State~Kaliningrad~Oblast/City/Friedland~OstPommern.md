@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Friedland~OstPommern.md|Friedland~OstPommern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Friedland~OstPommern.internal.md|Friedland~OstPommern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Friedland~OstPommern.protect.md|Friedland~OstPommern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Friedland~OstPommern.private.md|Friedland~OstPommern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Friedland~OstPommern.personal.md|Friedland~OstPommern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Friedland~OstPommern.secret.md|Friedland~OstPommern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Friedland~OstPommern.internal|Friedland~OstPommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Friedland~OstPommern.protect|Friedland~OstPommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Friedland~OstPommern.private|Friedland~OstPommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Friedland~OstPommern.personal|Friedland~OstPommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Friedland~OstPommern.secret|Friedland~OstPommern.secret]] 

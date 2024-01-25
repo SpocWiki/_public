@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Borgholm.md|Borgholm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Borgholm.internal.md|Borgholm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Borgholm.protect.md|Borgholm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Borgholm.private.md|Borgholm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Borgholm.personal.md|Borgholm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Borgholm.secret.md|Borgholm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Borgholm.internal|Borgholm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Borgholm.protect|Borgholm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Borgholm.private|Borgholm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Borgholm.personal|Borgholm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Borgholm.secret|Borgholm.secret]] 

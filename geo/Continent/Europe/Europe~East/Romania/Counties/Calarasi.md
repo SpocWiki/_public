@@ -41,9 +41,9 @@ markerFolder: ./Calarasi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Calarasi.md|Calarasi]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Calarasi.internal.md|Calarasi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Calarasi.protect.md|Calarasi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Calarasi.private.md|Calarasi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Calarasi.personal.md|Calarasi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Calarasi.secret.md|Calarasi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Calarasi.internal|Calarasi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Calarasi.protect|Calarasi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Calarasi.private|Calarasi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Calarasi.personal|Calarasi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Calarasi.secret|Calarasi.secret]] 
 

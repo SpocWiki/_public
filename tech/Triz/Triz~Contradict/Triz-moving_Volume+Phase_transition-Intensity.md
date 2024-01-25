@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Phase_transition-Intensity]
 [SpocWebEntityId::23206]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.md|Triz-moving_Volume+Phase_transition-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.internal.md|Triz-moving_Volume+Phase_transition-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.protect.md|Triz-moving_Volume+Phase_transition-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.private.md|Triz-moving_Volume+Phase_transition-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.personal.md|Triz-moving_Volume+Phase_transition-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.secret.md|Triz-moving_Volume+Phase_transition-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.internal|Triz-moving_Volume+Phase_transition-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.protect|Triz-moving_Volume+Phase_transition-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.private|Triz-moving_Volume+Phase_transition-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.personal|Triz-moving_Volume+Phase_transition-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Intensity.secret|Triz-moving_Volume+Phase_transition-Intensity.secret]] 

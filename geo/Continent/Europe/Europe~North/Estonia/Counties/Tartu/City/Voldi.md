@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Voldi.md|Voldi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Voldi.internal.md|Voldi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Voldi.protect.md|Voldi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Voldi.private.md|Voldi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Voldi.personal.md|Voldi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Voldi.secret.md|Voldi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Voldi.internal|Voldi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Voldi.protect|Voldi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Voldi.private|Voldi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Voldi.personal|Voldi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Voldi.secret|Voldi.secret]] 

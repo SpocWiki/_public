@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Magadan_Oblast|State~Magadan_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.internal|State~Magadan_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.protect.md|State~Magadan_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.private.md|State~Magadan_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.personal.md|State~Magadan_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.secret.md|State~Magadan_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.protect|State~Magadan_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.private|State~Magadan_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.personal|State~Magadan_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Magadan_Oblast.secret|State~Magadan_Oblast.secret]] 

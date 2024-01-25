@@ -41,9 +41,9 @@ markerFolder: ./Vecumnieku/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Vecumnieku.md|Vecumnieku]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Vecumnieku.internal.md|Vecumnieku.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Vecumnieku.protect.md|Vecumnieku.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Vecumnieku.private.md|Vecumnieku.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Vecumnieku.personal.md|Vecumnieku.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Vecumnieku.secret.md|Vecumnieku.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Vecumnieku.internal|Vecumnieku.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Vecumnieku.protect|Vecumnieku.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Vecumnieku.private|Vecumnieku.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Vecumnieku.personal|Vecumnieku.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Vecumnieku.secret|Vecumnieku.secret]] 
 

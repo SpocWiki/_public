@@ -41,9 +41,9 @@ markerFolder: ./Roma.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.md|Roma.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.internal.md|Roma.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.protect.md|Roma.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.private.md|Roma.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.personal.md|Roma.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.secret.md|Roma.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.internal|Roma.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.protect|Roma.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.private|Roma.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.personal|Roma.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Roma.Province.secret|Roma.Province.secret]] 
 

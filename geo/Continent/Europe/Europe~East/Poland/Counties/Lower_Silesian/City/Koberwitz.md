@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Koberwitz.md|Koberwitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koberwitz.internal.md|Koberwitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koberwitz.protect.md|Koberwitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koberwitz.private.md|Koberwitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koberwitz.personal.md|Koberwitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koberwitz.secret.md|Koberwitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koberwitz.internal|Koberwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koberwitz.protect|Koberwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koberwitz.private|Koberwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koberwitz.personal|Koberwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koberwitz.secret|Koberwitz.secret]] 

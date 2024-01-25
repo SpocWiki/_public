@@ -41,9 +41,9 @@ markerFolder: ./Lyantonde/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Lyantonde.md|Lyantonde]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lyantonde.internal.md|Lyantonde.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lyantonde.protect.md|Lyantonde.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Lyantonde.private.md|Lyantonde.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lyantonde.personal.md|Lyantonde.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lyantonde.secret.md|Lyantonde.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lyantonde.internal|Lyantonde.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lyantonde.protect|Lyantonde.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Lyantonde.private|Lyantonde.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lyantonde.personal|Lyantonde.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lyantonde.secret|Lyantonde.secret]] 
 

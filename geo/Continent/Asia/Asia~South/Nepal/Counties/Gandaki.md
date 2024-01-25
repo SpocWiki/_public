@@ -41,9 +41,9 @@ markerFolder: ./Gandaki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.md|Gandaki]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.internal.md|Gandaki.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.protect.md|Gandaki.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.private.md|Gandaki.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.personal.md|Gandaki.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.secret.md|Gandaki.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.internal|Gandaki.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.protect|Gandaki.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.private|Gandaki.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.personal|Gandaki.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.secret|Gandaki.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Kagera/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kagera.md|Kagera]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kagera.internal.md|Kagera.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kagera.protect.md|Kagera.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kagera.private.md|Kagera.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kagera.personal.md|Kagera.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kagera.secret.md|Kagera.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kagera.internal|Kagera.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kagera.protect|Kagera.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kagera.private|Kagera.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kagera.personal|Kagera.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kagera.secret|Kagera.secret]] 
 

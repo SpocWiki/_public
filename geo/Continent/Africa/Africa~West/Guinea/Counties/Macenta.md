@@ -41,9 +41,9 @@ markerFolder: ./Macenta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Macenta.md|Macenta]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Macenta.internal.md|Macenta.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Macenta.protect.md|Macenta.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Macenta.private.md|Macenta.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Macenta.personal.md|Macenta.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Macenta.secret.md|Macenta.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Macenta.internal|Macenta.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Macenta.protect|Macenta.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Macenta.private|Macenta.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Macenta.personal|Macenta.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Macenta.secret|Macenta.secret]] 
 

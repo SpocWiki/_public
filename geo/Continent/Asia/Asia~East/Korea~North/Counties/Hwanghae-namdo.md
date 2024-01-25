@@ -41,9 +41,9 @@ markerFolder: ./Hwanghae-namdo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.md|Hwanghae-namdo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.internal.md|Hwanghae-namdo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.protect.md|Hwanghae-namdo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.private.md|Hwanghae-namdo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.personal.md|Hwanghae-namdo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.secret.md|Hwanghae-namdo.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.internal|Hwanghae-namdo.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.protect|Hwanghae-namdo.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.private|Hwanghae-namdo.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.personal|Hwanghae-namdo.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-namdo.secret|Hwanghae-namdo.secret]] 
 

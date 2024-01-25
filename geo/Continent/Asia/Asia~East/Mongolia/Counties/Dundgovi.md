@@ -41,9 +41,9 @@ markerFolder: ./Dundgovi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.md|Dundgovi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.internal.md|Dundgovi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.protect.md|Dundgovi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.private.md|Dundgovi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.personal.md|Dundgovi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.secret.md|Dundgovi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.internal|Dundgovi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.protect|Dundgovi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.private|Dundgovi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.personal|Dundgovi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dundgovi.secret|Dundgovi.secret]] 
 

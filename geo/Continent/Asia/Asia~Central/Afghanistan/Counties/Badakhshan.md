@@ -41,9 +41,9 @@ markerFolder: ./Badakhshan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.md|Badakhshan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.internal.md|Badakhshan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.protect.md|Badakhshan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.private.md|Badakhshan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.personal.md|Badakhshan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.secret.md|Badakhshan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.internal|Badakhshan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.protect|Badakhshan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.private|Badakhshan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.personal|Badakhshan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badakhshan.secret|Badakhshan.secret]] 
 

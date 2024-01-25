@@ -41,9 +41,9 @@ markerFolder: ./Tovuz/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.md|Tovuz]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.internal.md|Tovuz.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.protect.md|Tovuz.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.private.md|Tovuz.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.personal.md|Tovuz.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.secret.md|Tovuz.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.internal|Tovuz.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.protect|Tovuz.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.private|Tovuz.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.personal|Tovuz.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Tovuz.secret|Tovuz.secret]] 
 

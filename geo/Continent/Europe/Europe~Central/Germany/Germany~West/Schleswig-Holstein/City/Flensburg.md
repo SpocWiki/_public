@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Flensburg|Flensburg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.internal.md|Flensburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.protect.md|Flensburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.private.md|Flensburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.personal.md|Flensburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.secret.md|Flensburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.internal|Flensburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.protect|Flensburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.private|Flensburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.personal|Flensburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.secret|Flensburg.secret]] 

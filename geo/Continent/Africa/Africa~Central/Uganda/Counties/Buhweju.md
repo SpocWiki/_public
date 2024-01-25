@@ -41,9 +41,9 @@ markerFolder: ./Buhweju/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Buhweju.md|Buhweju]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buhweju.internal.md|Buhweju.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buhweju.protect.md|Buhweju.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Buhweju.private.md|Buhweju.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buhweju.personal.md|Buhweju.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buhweju.secret.md|Buhweju.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buhweju.internal|Buhweju.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buhweju.protect|Buhweju.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Buhweju.private|Buhweju.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buhweju.personal|Buhweju.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buhweju.secret|Buhweju.secret]] 
 

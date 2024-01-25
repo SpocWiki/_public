@@ -145,7 +145,7 @@ markerFolder: ./South_Africa//
 ## Confidential Links & Embeds: 
 - [[South_Africa|South_Africa]] 
 - [[../../../../../_internal/geo/Continent/Africa/South_Africa.internal|South_Africa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/South_Africa.protect.md|South_Africa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/South_Africa.private.md|South_Africa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/South_Africa.personal.md|South_Africa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/South_Africa.secret.md|South_Africa.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/South_Africa.protect|South_Africa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/South_Africa.private|South_Africa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/South_Africa.personal|South_Africa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/South_Africa.secret|South_Africa.secret]] 

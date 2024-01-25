@@ -41,9 +41,9 @@ markerFolder: ./Gnaviyani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.md|Gnaviyani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.internal.md|Gnaviyani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.protect.md|Gnaviyani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.private.md|Gnaviyani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.personal.md|Gnaviyani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.secret.md|Gnaviyani.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.internal|Gnaviyani.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.protect|Gnaviyani.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.private|Gnaviyani.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.personal|Gnaviyani.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.secret|Gnaviyani.secret]] 
 

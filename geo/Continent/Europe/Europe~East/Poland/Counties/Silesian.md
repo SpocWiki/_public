@@ -41,9 +41,9 @@ markerFolder: ./Silesian/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/Silesian.md|Silesian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Silesian.internal.md|Silesian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Silesian.protect.md|Silesian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Silesian.private.md|Silesian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Silesian.personal.md|Silesian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Silesian.secret.md|Silesian.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Silesian.internal|Silesian.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Silesian.protect|Silesian.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Silesian.private|Silesian.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Silesian.personal|Silesian.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Silesian.secret|Silesian.secret]] 
 

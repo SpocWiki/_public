@@ -41,9 +41,9 @@ markerFolder: ./Maseru/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Maseru.md|Maseru]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Maseru.internal.md|Maseru.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Maseru.protect.md|Maseru.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Maseru.private.md|Maseru.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Maseru.personal.md|Maseru.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Maseru.secret.md|Maseru.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Maseru.internal|Maseru.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Maseru.protect|Maseru.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Maseru.private|Maseru.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Maseru.personal|Maseru.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Maseru.secret|Maseru.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Segmentation-Power]
 [SpocWebEntityId::26241]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.md|Triz-Versatility+Segmentation-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.internal.md|Triz-Versatility+Segmentation-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.protect.md|Triz-Versatility+Segmentation-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.private.md|Triz-Versatility+Segmentation-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.personal.md|Triz-Versatility+Segmentation-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.secret.md|Triz-Versatility+Segmentation-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.internal|Triz-Versatility+Segmentation-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.protect|Triz-Versatility+Segmentation-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.private|Triz-Versatility+Segmentation-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.personal|Triz-Versatility+Segmentation-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.secret|Triz-Versatility+Segmentation-Power.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Teisko.md|Teisko]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Teisko.internal.md|Teisko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Teisko.protect.md|Teisko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Teisko.private.md|Teisko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Teisko.personal.md|Teisko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Teisko.secret.md|Teisko.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Teisko.internal|Teisko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Teisko.protect|Teisko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Teisko.private|Teisko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Teisko.personal|Teisko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Teisko.secret|Teisko.secret]] 

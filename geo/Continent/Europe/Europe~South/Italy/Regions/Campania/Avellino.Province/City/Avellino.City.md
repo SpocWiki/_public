@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Avellino.City.md|Avellino.City]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Avellino.City.internal.md|Avellino.City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Avellino.City.protect.md|Avellino.City.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Avellino.City.private.md|Avellino.City.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Avellino.City.personal.md|Avellino.City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Avellino.City.secret.md|Avellino.City.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Avellino.City.internal|Avellino.City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Avellino.City.protect|Avellino.City.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Avellino.City.private|Avellino.City.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Avellino.City.personal|Avellino.City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Avellino.City.secret|Avellino.City.secret]] 

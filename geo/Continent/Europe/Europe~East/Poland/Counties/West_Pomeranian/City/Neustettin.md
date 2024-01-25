@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neustettin.md|Neustettin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustettin.internal.md|Neustettin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustettin.protect.md|Neustettin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neustettin.private.md|Neustettin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustettin.personal.md|Neustettin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustettin.secret.md|Neustettin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustettin.internal|Neustettin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustettin.protect|Neustettin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neustettin.private|Neustettin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustettin.personal|Neustettin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustettin.secret|Neustettin.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Renfrew|City~Renfrew]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.internal.md|Renfrew.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.protect.md|Renfrew.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.private.md|Renfrew.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.personal.md|Renfrew.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.secret.md|Renfrew.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.internal|Renfrew.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.protect|Renfrew.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.private|Renfrew.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.personal|Renfrew.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.secret|Renfrew.secret]] 

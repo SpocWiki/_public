@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Monte_Generoso.md|Monte_Generoso]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Monte_Generoso.internal.md|Monte_Generoso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Monte_Generoso.protect.md|Monte_Generoso.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Monte_Generoso.private.md|Monte_Generoso.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Monte_Generoso.personal.md|Monte_Generoso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Monte_Generoso.secret.md|Monte_Generoso.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Monte_Generoso.internal|Monte_Generoso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Monte_Generoso.protect|Monte_Generoso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Monte_Generoso.private|Monte_Generoso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Monte_Generoso.personal|Monte_Generoso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Monte_Generoso.secret|Monte_Generoso.secret]] 

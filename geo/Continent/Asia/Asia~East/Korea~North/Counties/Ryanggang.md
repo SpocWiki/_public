@@ -41,9 +41,9 @@ markerFolder: ./Ryanggang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.md|Ryanggang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.internal.md|Ryanggang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.protect.md|Ryanggang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.private.md|Ryanggang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.personal.md|Ryanggang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.secret.md|Ryanggang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.internal|Ryanggang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.protect|Ryanggang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.private|Ryanggang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.personal|Ryanggang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Ryanggang.secret|Ryanggang.secret]] 
 

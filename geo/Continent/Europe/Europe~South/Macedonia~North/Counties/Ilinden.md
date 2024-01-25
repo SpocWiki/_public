@@ -41,9 +41,9 @@ markerFolder: ./Ilinden/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.md|Ilinden]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.internal.md|Ilinden.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.protect.md|Ilinden.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.private.md|Ilinden.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.personal.md|Ilinden.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.secret.md|Ilinden.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.internal|Ilinden.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.protect|Ilinden.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.private|Ilinden.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.personal|Ilinden.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.secret|Ilinden.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Soum/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Soum.md|Soum]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Soum.internal.md|Soum.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Soum.protect.md|Soum.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Soum.private.md|Soum.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Soum.personal.md|Soum.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Soum.secret.md|Soum.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Soum.internal|Soum.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Soum.protect|Soum.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Soum.private|Soum.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Soum.personal|Soum.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Soum.secret|Soum.secret]] 
 

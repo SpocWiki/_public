@@ -41,9 +41,9 @@ markerFolder: ./Sha_Tin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.md|Sha_Tin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.internal.md|Sha_Tin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.protect.md|Sha_Tin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.private.md|Sha_Tin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.personal.md|Sha_Tin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.secret.md|Sha_Tin.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.internal|Sha_Tin.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.protect|Sha_Tin.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.private|Sha_Tin.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.personal|Sha_Tin.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.secret|Sha_Tin.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Krappitz.md|Krappitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krappitz.internal.md|Krappitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krappitz.protect.md|Krappitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krappitz.private.md|Krappitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krappitz.personal.md|Krappitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krappitz.secret.md|Krappitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krappitz.internal|Krappitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krappitz.protect|Krappitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krappitz.private|Krappitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krappitz.personal|Krappitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krappitz.secret|Krappitz.secret]] 

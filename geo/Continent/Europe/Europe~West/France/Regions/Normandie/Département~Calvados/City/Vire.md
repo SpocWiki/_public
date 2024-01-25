@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Vire.md|Vire]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vire.internal.md|Vire.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vire.protect.md|Vire.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Vire.private.md|Vire.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vire.personal.md|Vire.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vire.secret.md|Vire.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vire.internal|Vire.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vire.protect|Vire.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Vire.private|Vire.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vire.personal|Vire.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vire.secret|Vire.secret]] 

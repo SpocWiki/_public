@@ -41,9 +41,9 @@ markerFolder: ./Sinoe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Sinoe.md|Sinoe]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Sinoe.internal.md|Sinoe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Sinoe.protect.md|Sinoe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Sinoe.private.md|Sinoe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Sinoe.personal.md|Sinoe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Sinoe.secret.md|Sinoe.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Sinoe.internal|Sinoe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Sinoe.protect|Sinoe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Sinoe.private|Sinoe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Sinoe.personal|Sinoe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Sinoe.secret|Sinoe.secret]] 
 

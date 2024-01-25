@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Changing_the_color-Illumination]
 [SpocWebEntityId::25643]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.md|Triz-affected_harm+Changing_the_color-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.internal.md|Triz-affected_harm+Changing_the_color-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.protect.md|Triz-affected_harm+Changing_the_color-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.private.md|Triz-affected_harm+Changing_the_color-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.personal.md|Triz-affected_harm+Changing_the_color-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.secret.md|Triz-affected_harm+Changing_the_color-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.internal|Triz-affected_harm+Changing_the_color-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.protect|Triz-affected_harm+Changing_the_color-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.private|Triz-affected_harm+Changing_the_color-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.personal|Triz-affected_harm+Changing_the_color-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Changing_the_color-Illumination.secret|Triz-affected_harm+Changing_the_color-Illumination.secret]] 

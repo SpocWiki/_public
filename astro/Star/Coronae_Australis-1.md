@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Coronae_Australis-1.md|Coronae_Australis-1]] 
-- [[../../../_internal/astro/Star/Coronae_Australis-1.internal.md|Coronae_Australis-1.internal]] 
-- [[../../../_protect/astro/Star/Coronae_Australis-1.protect.md|Coronae_Australis-1.protect]] 
-- [[../../../_private/astro/Star/Coronae_Australis-1.private.md|Coronae_Australis-1.private]] 
-- [[../../../_personal/astro/Star/Coronae_Australis-1.personal.md|Coronae_Australis-1.personal]] 
-- [[../../../_secret/astro/Star/Coronae_Australis-1.secret.md|Coronae_Australis-1.secret]]
+- [[../../../_internal/astro/Star/Coronae_Australis-1.internal|Coronae_Australis-1.internal]] 
+- [[../../../_protect/astro/Star/Coronae_Australis-1.protect|Coronae_Australis-1.protect]] 
+- [[../../../_private/astro/Star/Coronae_Australis-1.private|Coronae_Australis-1.private]] 
+- [[../../../_personal/astro/Star/Coronae_Australis-1.personal|Coronae_Australis-1.personal]] 
+- [[../../../_secret/astro/Star/Coronae_Australis-1.secret|Coronae_Australis-1.secret]]
 

@@ -41,9 +41,9 @@ markerFolder: ./Domagnano/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Domagnano.md|Domagnano]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Domagnano.internal.md|Domagnano.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Domagnano.protect.md|Domagnano.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Domagnano.private.md|Domagnano.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Domagnano.personal.md|Domagnano.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Domagnano.secret.md|Domagnano.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Domagnano.internal|Domagnano.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Domagnano.protect|Domagnano.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Domagnano.private|Domagnano.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Domagnano.personal|Domagnano.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Domagnano.secret|Domagnano.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Oria.md|Oria]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oria.internal.md|Oria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oria.protect.md|Oria.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oria.private.md|Oria.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oria.personal.md|Oria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oria.secret.md|Oria.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oria.internal|Oria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oria.protect|Oria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oria.private|Oria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oria.personal|Oria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oria.secret|Oria.secret]] 

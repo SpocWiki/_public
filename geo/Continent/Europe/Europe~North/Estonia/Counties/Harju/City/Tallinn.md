@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Estonia/City/Tallinn.md|Tallinn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Estonia/City/Tallinn.internal.md|Tallinn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Estonia/City/Tallinn.protect.md|Tallinn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Estonia/City/Tallinn.private.md|Tallinn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Estonia/City/Tallinn.personal.md|Tallinn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Estonia/City/Tallinn.secret.md|Tallinn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Estonia/City/Tallinn.internal|Tallinn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Estonia/City/Tallinn.protect|Tallinn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Estonia/City/Tallinn.private|Tallinn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Estonia/City/Tallinn.personal|Tallinn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Estonia/City/Tallinn.secret|Tallinn.secret]] 

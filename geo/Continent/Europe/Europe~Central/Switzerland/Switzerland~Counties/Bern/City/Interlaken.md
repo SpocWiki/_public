@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Interlaken.md|Interlaken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Interlaken.internal.md|Interlaken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Interlaken.protect.md|Interlaken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Interlaken.private.md|Interlaken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Interlaken.personal.md|Interlaken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Interlaken.secret.md|Interlaken.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Interlaken.internal|Interlaken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Interlaken.protect|Interlaken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Interlaken.private|Interlaken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Interlaken.personal|Interlaken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Interlaken.secret|Interlaken.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Liboune.md|Liboune]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Liboune.internal.md|Liboune.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Liboune.protect.md|Liboune.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Liboune.private.md|Liboune.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Liboune.personal.md|Liboune.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Liboune.secret.md|Liboune.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Liboune.internal|Liboune.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Liboune.protect|Liboune.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Liboune.private|Liboune.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Liboune.personal|Liboune.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Liboune.secret|Liboune.secret]] 

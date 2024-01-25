@@ -41,9 +41,9 @@ markerFolder: ./Geylegphug/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.md|Geylegphug]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.internal.md|Geylegphug.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.protect.md|Geylegphug.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.private.md|Geylegphug.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.personal.md|Geylegphug.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.secret.md|Geylegphug.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.internal|Geylegphug.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.protect|Geylegphug.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.private|Geylegphug.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.personal|Geylegphug.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.secret|Geylegphug.secret]] 
 

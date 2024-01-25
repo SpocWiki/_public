@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Borodino.md|Borodino]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Borodino.internal.md|Borodino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Borodino.protect.md|Borodino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Borodino.private.md|Borodino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Borodino.personal.md|Borodino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Borodino.secret.md|Borodino.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Borodino.internal|Borodino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Borodino.protect|Borodino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Borodino.private|Borodino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Borodino.personal|Borodino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Borodino.secret|Borodino.secret]] 

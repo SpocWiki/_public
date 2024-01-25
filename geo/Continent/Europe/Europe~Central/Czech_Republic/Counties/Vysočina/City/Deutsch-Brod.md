@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.md|Deutsch-Brod]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.internal.md|Deutsch-Brod.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.protect.md|Deutsch-Brod.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.private.md|Deutsch-Brod.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.personal.md|Deutsch-Brod.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.secret.md|Deutsch-Brod.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.internal|Deutsch-Brod.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.protect|Deutsch-Brod.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.private|Deutsch-Brod.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.personal|Deutsch-Brod.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deutsch-Brod.secret|Deutsch-Brod.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Steinbach~Allg|Steinbach~Allg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.internal.md|Steinbach~Allg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.protect.md|Steinbach~Allg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.private.md|Steinbach~Allg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.personal.md|Steinbach~Allg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.secret.md|Steinbach~Allg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.internal|Steinbach~Allg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.protect|Steinbach~Allg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.private|Steinbach~Allg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.personal|Steinbach~Allg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.secret|Steinbach~Allg.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Salgotarjan.md|Salgotarjan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Salgotarjan.internal.md|Salgotarjan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Salgotarjan.protect.md|Salgotarjan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Salgotarjan.private.md|Salgotarjan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Salgotarjan.personal.md|Salgotarjan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Salgotarjan.secret.md|Salgotarjan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Salgotarjan.internal|Salgotarjan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Salgotarjan.protect|Salgotarjan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Salgotarjan.private|Salgotarjan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Salgotarjan.personal|Salgotarjan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Salgotarjan.secret|Salgotarjan.secret]] 

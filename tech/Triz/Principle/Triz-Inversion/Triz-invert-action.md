@@ -26,8 +26,8 @@ Invert the action(s) used to solve the problem (e.g. instead of cooling an objec
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-invert-action.md|Triz-invert-action]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-invert-action.internal.md|Triz-invert-action.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-invert-action.protect.md|Triz-invert-action.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-invert-action.private.md|Triz-invert-action.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-invert-action.personal.md|Triz-invert-action.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-invert-action.secret.md|Triz-invert-action.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-invert-action.internal|Triz-invert-action.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-invert-action.protect|Triz-invert-action.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-invert-action.private|Triz-invert-action.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-invert-action.personal|Triz-invert-action.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-invert-action.secret|Triz-invert-action.secret]] 

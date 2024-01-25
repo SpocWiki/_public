@@ -41,9 +41,9 @@ markerFolder: ./Jomala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Jomala.md|Jomala]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Jomala.internal.md|Jomala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Jomala.protect.md|Jomala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Jomala.private.md|Jomala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Jomala.personal.md|Jomala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Jomala.secret.md|Jomala.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Jomala.internal|Jomala.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Jomala.protect|Jomala.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Jomala.private|Jomala.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Jomala.personal|Jomala.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Jomala.secret|Jomala.secret]] 
 

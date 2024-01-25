@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Guildford.md|Guildford]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Guildford.internal.md|Guildford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Guildford.protect.md|Guildford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Guildford.private.md|Guildford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Guildford.personal.md|Guildford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Guildford.secret.md|Guildford.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Guildford.internal|Guildford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Guildford.protect|Guildford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Guildford.private|Guildford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Guildford.personal|Guildford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Guildford.secret|Guildford.secret]] 

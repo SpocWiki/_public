@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Ciotat.md|Ciotat]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ciotat.internal.md|Ciotat.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ciotat.protect.md|Ciotat.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Ciotat.private.md|Ciotat.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ciotat.personal.md|Ciotat.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ciotat.secret.md|Ciotat.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ciotat.internal|Ciotat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ciotat.protect|Ciotat.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Ciotat.private|Ciotat.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ciotat.personal|Ciotat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ciotat.secret|Ciotat.secret]] 

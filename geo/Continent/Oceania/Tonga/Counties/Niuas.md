@@ -41,9 +41,9 @@ markerFolder: ./Niuas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Tonga/Counties/Niuas.md|Niuas]] 
-- [[../../../../_internal/geo/Continent/Oceania/Tonga/Counties/Niuas.internal.md|Niuas.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Tonga/Counties/Niuas.protect.md|Niuas.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Tonga/Counties/Niuas.private.md|Niuas.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Tonga/Counties/Niuas.personal.md|Niuas.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Tonga/Counties/Niuas.secret.md|Niuas.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Tonga/Counties/Niuas.internal|Niuas.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Tonga/Counties/Niuas.protect|Niuas.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Tonga/Counties/Niuas.private|Niuas.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Tonga/Counties/Niuas.personal|Niuas.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Tonga/Counties/Niuas.secret|Niuas.secret]] 
 

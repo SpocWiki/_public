@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bartenstein.md|Bartenstein]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bartenstein.internal.md|Bartenstein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bartenstein.protect.md|Bartenstein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bartenstein.private.md|Bartenstein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bartenstein.personal.md|Bartenstein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bartenstein.secret.md|Bartenstein.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bartenstein.internal|Bartenstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bartenstein.protect|Bartenstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bartenstein.private|Bartenstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bartenstein.personal|Bartenstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bartenstein.secret|Bartenstein.secret]] 

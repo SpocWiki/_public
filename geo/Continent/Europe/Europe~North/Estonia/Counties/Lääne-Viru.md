@@ -41,9 +41,9 @@ markerFolder: ./Lääne-Viru/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.md|Lääne-Viru]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.internal.md|Lääne-Viru.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.protect.md|Lääne-Viru.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.private.md|Lääne-Viru.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.personal.md|Lääne-Viru.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.secret.md|Lääne-Viru.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.internal|Lääne-Viru.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.protect|Lääne-Viru.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.private|Lääne-Viru.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.personal|Lääne-Viru.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.secret|Lääne-Viru.secret]] 
 

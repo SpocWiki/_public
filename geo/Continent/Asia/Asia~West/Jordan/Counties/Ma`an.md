@@ -41,9 +41,9 @@ markerFolder: ./Ma`an/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.md|Ma`an]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.internal.md|Ma`an.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.protect.md|Ma`an.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.private.md|Ma`an.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.personal.md|Ma`an.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.secret.md|Ma`an.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.internal|Ma`an.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.protect|Ma`an.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.private|Ma`an.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.personal|Ma`an.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Ma`an.secret|Ma`an.secret]] 
 

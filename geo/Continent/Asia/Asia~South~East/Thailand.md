@@ -135,7 +135,7 @@ markerFolder: ./Thailand/
 ## Confidential Links & Embeds: 
 -[[Thailand|Thailand]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Thailand.internal|Thailand.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Thailand.protect.md|Thailand.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Thailand.private.md|Thailand.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Thailand.personal.md|Thailand.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Thailand.secret.md|Thailand.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Thailand.protect|Thailand.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Thailand.private|Thailand.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Thailand.personal|Thailand.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Thailand.secret|Thailand.secret]] 

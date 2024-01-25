@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Uddevalla.md|Uddevalla]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Uddevalla.internal.md|Uddevalla.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Uddevalla.protect.md|Uddevalla.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Uddevalla.private.md|Uddevalla.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Uddevalla.personal.md|Uddevalla.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Uddevalla.secret.md|Uddevalla.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Uddevalla.internal|Uddevalla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Uddevalla.protect|Uddevalla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Uddevalla.private|Uddevalla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Uddevalla.personal|Uddevalla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Uddevalla.secret|Uddevalla.secret]] 

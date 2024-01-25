@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Korea~North/City/Pyongyang.md|Pyongyang]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Korea~North/City/Pyongyang.internal.md|Pyongyang.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Korea~North/City/Pyongyang.protect.md|Pyongyang.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Korea~North/City/Pyongyang.private.md|Pyongyang.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Korea~North/City/Pyongyang.personal.md|Pyongyang.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Korea~North/City/Pyongyang.secret.md|Pyongyang.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Korea~North/City/Pyongyang.internal|Pyongyang.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Korea~North/City/Pyongyang.protect|Pyongyang.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Korea~North/City/Pyongyang.private|Pyongyang.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Korea~North/City/Pyongyang.personal|Pyongyang.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Korea~North/City/Pyongyang.secret|Pyongyang.secret]] 

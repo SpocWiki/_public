@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Periodic_action-moving_Length]
 [SpocWebEntityId::24354]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.md|Triz-Illumination+Periodic_action-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.internal.md|Triz-Illumination+Periodic_action-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.protect.md|Triz-Illumination+Periodic_action-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.private.md|Triz-Illumination+Periodic_action-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.personal.md|Triz-Illumination+Periodic_action-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.secret.md|Triz-Illumination+Periodic_action-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.internal|Triz-Illumination+Periodic_action-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.protect|Triz-Illumination+Periodic_action-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.private|Triz-Illumination+Periodic_action-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.personal|Triz-Illumination+Periodic_action-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Length.secret|Triz-Illumination+Periodic_action-moving_Length.secret]] 

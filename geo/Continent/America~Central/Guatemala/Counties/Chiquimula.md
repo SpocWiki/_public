@@ -41,9 +41,9 @@ markerFolder: ./Chiquimula/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.md|Chiquimula]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.internal.md|Chiquimula.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.protect.md|Chiquimula.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.private.md|Chiquimula.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.personal.md|Chiquimula.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.secret.md|Chiquimula.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.internal|Chiquimula.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.protect|Chiquimula.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.private|Chiquimula.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.personal|Chiquimula.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Chiquimula.secret|Chiquimula.secret]] 
 

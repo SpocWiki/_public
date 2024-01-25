@@ -41,9 +41,9 @@ markerFolder: ./Ivancna_Gorica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.md|Ivancna_Gorica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.internal.md|Ivancna_Gorica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.protect.md|Ivancna_Gorica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.private.md|Ivancna_Gorica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.personal.md|Ivancna_Gorica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.secret.md|Ivancna_Gorica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.internal|Ivancna_Gorica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.protect|Ivancna_Gorica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.private|Ivancna_Gorica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.personal|Ivancna_Gorica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ivancna_Gorica.secret|Ivancna_Gorica.secret]] 
 

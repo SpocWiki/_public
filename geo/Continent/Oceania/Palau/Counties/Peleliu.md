@@ -41,9 +41,9 @@ markerFolder: ./Peleliu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Peleliu.md|Peleliu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Peleliu.internal.md|Peleliu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Peleliu.protect.md|Peleliu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Peleliu.private.md|Peleliu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Peleliu.personal.md|Peleliu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Peleliu.secret.md|Peleliu.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Peleliu.internal|Peleliu.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Peleliu.protect|Peleliu.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Peleliu.private|Peleliu.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Peleliu.personal|Peleliu.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Peleliu.secret|Peleliu.secret]] 
 

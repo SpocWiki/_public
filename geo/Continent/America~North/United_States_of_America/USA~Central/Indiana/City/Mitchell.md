@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.md|Mitchell]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.internal.md|Mitchell.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.protect.md|Mitchell.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.private.md|Mitchell.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.personal.md|Mitchell.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.secret.md|Mitchell.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.internal|Mitchell.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.protect|Mitchell.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.private|Mitchell.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.personal|Mitchell.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.secret|Mitchell.secret]] 

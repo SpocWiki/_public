@@ -20,9 +20,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/Lang-es.md|Lang-es]] 
-- [[../../_internal/lang/Lang-es.internal.md|Lang-es.internal]] 
-- [[../../_protect/lang/Lang-es.protect.md|Lang-es.protect]] 
-- [[../../_private/lang/Lang-es.private.md|Lang-es.private]] 
-- [[../../_personal/lang/Lang-es.personal.md|Lang-es.personal]] 
-- [[../../_secret/lang/Lang-es.secret.md|Lang-es.secret]]
+- [[../../_internal/lang/Lang-es.internal|Lang-es.internal]] 
+- [[../../_protect/lang/Lang-es.protect|Lang-es.protect]] 
+- [[../../_private/lang/Lang-es.private|Lang-es.private]] 
+- [[../../_personal/lang/Lang-es.personal|Lang-es.personal]] 
+- [[../../_secret/lang/Lang-es.secret|Lang-es.secret]]
 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Val-d'Oise/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.md|Département~Val-d'Oise]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.internal.md|Département~Val-d'Oise.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.protect.md|Département~Val-d'Oise.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.private.md|Département~Val-d'Oise.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.personal.md|Département~Val-d'Oise.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.secret.md|Département~Val-d'Oise.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.internal|Département~Val-d'Oise.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.protect|Département~Val-d'Oise.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.private|Département~Val-d'Oise.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.personal|Département~Val-d'Oise.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Val-d'Oise.secret|Département~Val-d'Oise.secret]] 
 

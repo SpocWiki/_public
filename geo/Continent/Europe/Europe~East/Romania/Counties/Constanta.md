@@ -41,9 +41,9 @@ markerFolder: ./Constanta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Constanta.md|Constanta]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Constanta.internal.md|Constanta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Constanta.protect.md|Constanta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Constanta.private.md|Constanta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Constanta.personal.md|Constanta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Constanta.secret.md|Constanta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Constanta.internal|Constanta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Constanta.protect|Constanta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Constanta.private|Constanta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Constanta.personal|Constanta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Constanta.secret|Constanta.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kuestrin.md|Kuestrin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kuestrin.internal.md|Kuestrin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kuestrin.protect.md|Kuestrin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kuestrin.private.md|Kuestrin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kuestrin.personal.md|Kuestrin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kuestrin.secret.md|Kuestrin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kuestrin.internal|Kuestrin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kuestrin.protect|Kuestrin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kuestrin.private|Kuestrin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kuestrin.personal|Kuestrin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kuestrin.secret|Kuestrin.secret]] 

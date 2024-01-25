@@ -41,9 +41,9 @@ markerFolder: ./Département~Haute-Rhin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.md|Département~Haute-Rhin]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.internal.md|Département~Haute-Rhin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.protect.md|Département~Haute-Rhin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.private.md|Département~Haute-Rhin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.personal.md|Département~Haute-Rhin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.secret.md|Département~Haute-Rhin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.internal|Département~Haute-Rhin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.protect|Département~Haute-Rhin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.private|Département~Haute-Rhin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.personal|Département~Haute-Rhin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Grand_Est/Département~Haute-Rhin.secret|Département~Haute-Rhin.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Tranekiaer.md|Tranekiaer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Tranekiaer.internal.md|Tranekiaer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Tranekiaer.protect.md|Tranekiaer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Tranekiaer.private.md|Tranekiaer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Tranekiaer.personal.md|Tranekiaer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Tranekiaer.secret.md|Tranekiaer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Tranekiaer.internal|Tranekiaer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Tranekiaer.protect|Tranekiaer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Tranekiaer.private|Tranekiaer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Tranekiaer.personal|Tranekiaer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Tranekiaer.secret|Tranekiaer.secret]] 

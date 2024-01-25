@@ -41,9 +41,9 @@ markerFolder: ./Aizputes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Aizputes.md|Aizputes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aizputes.internal.md|Aizputes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aizputes.protect.md|Aizputes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aizputes.private.md|Aizputes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aizputes.personal.md|Aizputes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aizputes.secret.md|Aizputes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aizputes.internal|Aizputes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aizputes.protect|Aizputes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aizputes.private|Aizputes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aizputes.personal|Aizputes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aizputes.secret|Aizputes.secret]] 
 

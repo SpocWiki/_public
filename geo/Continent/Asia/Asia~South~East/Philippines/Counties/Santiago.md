@@ -41,9 +41,9 @@ markerFolder: ./Santiago/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.md|Santiago]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.internal.md|Santiago.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.protect.md|Santiago.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.private.md|Santiago.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.personal.md|Santiago.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.secret.md|Santiago.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.internal|Santiago.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.protect|Santiago.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.private|Santiago.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.personal|Santiago.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Santiago.secret|Santiago.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Novara.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.md|Novara.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.internal.md|Novara.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.protect.md|Novara.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.private.md|Novara.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.personal.md|Novara.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.secret.md|Novara.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.internal|Novara.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.protect|Novara.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.private|Novara.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.personal|Novara.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Novara.Province.secret|Novara.Province.secret]] 
 

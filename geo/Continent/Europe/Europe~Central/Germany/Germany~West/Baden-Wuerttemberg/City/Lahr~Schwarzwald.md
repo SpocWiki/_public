@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Lahr~Schwarzwald|Lahr~Schwarzwald]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.internal.md|Lahr~Schwarzwald.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.protect.md|Lahr~Schwarzwald.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.private.md|Lahr~Schwarzwald.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.personal.md|Lahr~Schwarzwald.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.secret.md|Lahr~Schwarzwald.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.internal|Lahr~Schwarzwald.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.protect|Lahr~Schwarzwald.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.private|Lahr~Schwarzwald.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.personal|Lahr~Schwarzwald.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lahr~Schwarzwald.secret|Lahr~Schwarzwald.secret]] 

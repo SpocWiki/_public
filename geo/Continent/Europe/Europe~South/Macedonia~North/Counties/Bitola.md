@@ -41,9 +41,9 @@ markerFolder: ./Bitola/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Bitola.md|Bitola]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Bitola.internal.md|Bitola.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Bitola.protect.md|Bitola.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Bitola.private.md|Bitola.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Bitola.personal.md|Bitola.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Bitola.secret.md|Bitola.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Bitola.internal|Bitola.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Bitola.protect|Bitola.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Bitola.private|Bitola.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Bitola.personal|Bitola.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Bitola.secret|Bitola.secret]] 
 

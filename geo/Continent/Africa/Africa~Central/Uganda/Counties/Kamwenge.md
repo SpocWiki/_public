@@ -41,9 +41,9 @@ markerFolder: ./Kamwenge/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kamwenge.md|Kamwenge]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kamwenge.internal.md|Kamwenge.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kamwenge.protect.md|Kamwenge.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kamwenge.private.md|Kamwenge.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kamwenge.personal.md|Kamwenge.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kamwenge.secret.md|Kamwenge.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kamwenge.internal|Kamwenge.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kamwenge.protect|Kamwenge.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kamwenge.private|Kamwenge.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kamwenge.personal|Kamwenge.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kamwenge.secret|Kamwenge.secret]] 
 

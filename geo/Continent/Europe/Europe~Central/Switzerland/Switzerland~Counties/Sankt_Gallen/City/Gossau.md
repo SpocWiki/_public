@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Gossau.md|Gossau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gossau.internal.md|Gossau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gossau.protect.md|Gossau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gossau.private.md|Gossau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gossau.personal.md|Gossau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gossau.secret.md|Gossau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gossau.internal|Gossau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gossau.protect|Gossau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gossau.private|Gossau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gossau.personal|Gossau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gossau.secret|Gossau.secret]] 

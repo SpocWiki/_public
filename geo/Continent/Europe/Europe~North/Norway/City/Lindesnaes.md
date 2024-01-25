@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Lindesnaes.md|Lindesnaes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Lindesnaes.internal.md|Lindesnaes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Lindesnaes.protect.md|Lindesnaes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Lindesnaes.private.md|Lindesnaes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Lindesnaes.personal.md|Lindesnaes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Lindesnaes.secret.md|Lindesnaes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Lindesnaes.internal|Lindesnaes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Lindesnaes.protect|Lindesnaes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Lindesnaes.private|Lindesnaes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Lindesnaes.personal|Lindesnaes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Lindesnaes.secret|Lindesnaes.secret]] 

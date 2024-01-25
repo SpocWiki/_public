@@ -18,8 +18,8 @@ Bullet Casings are ejected after the Gun fires.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Bullet_Casings.md|Triz-Bullet_Casings]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Bullet_Casings.internal.md|Triz-Bullet_Casings.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Bullet_Casings.protect.md|Triz-Bullet_Casings.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Bullet_Casings.private.md|Triz-Bullet_Casings.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Bullet_Casings.personal.md|Triz-Bullet_Casings.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Bullet_Casings.secret.md|Triz-Bullet_Casings.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Bullet_Casings.internal|Triz-Bullet_Casings.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Bullet_Casings.protect|Triz-Bullet_Casings.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Bullet_Casings.private|Triz-Bullet_Casings.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Bullet_Casings.personal|Triz-Bullet_Casings.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Bullet_Casings.secret|Triz-Bullet_Casings.secret]] 

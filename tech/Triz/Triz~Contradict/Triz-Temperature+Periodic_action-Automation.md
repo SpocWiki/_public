@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Periodic_action-Automation]
 [SpocWebEntityId::24343]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.md|Triz-Temperature+Periodic_action-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.internal.md|Triz-Temperature+Periodic_action-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.protect.md|Triz-Temperature+Periodic_action-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.private.md|Triz-Temperature+Periodic_action-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.personal.md|Triz-Temperature+Periodic_action-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.secret.md|Triz-Temperature+Periodic_action-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.internal|Triz-Temperature+Periodic_action-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.protect|Triz-Temperature+Periodic_action-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.private|Triz-Temperature+Periodic_action-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.personal|Triz-Temperature+Periodic_action-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.secret|Triz-Temperature+Periodic_action-Automation.secret]] 

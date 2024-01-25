@@ -41,9 +41,9 @@ markerFolder: ./Troms/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Troms.md|Troms]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Troms.internal.md|Troms.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Troms.protect.md|Troms.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Troms.private.md|Troms.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Troms.personal.md|Troms.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Troms.secret.md|Troms.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Troms.internal|Troms.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Troms.protect|Troms.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Troms.private|Troms.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Troms.personal|Troms.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Troms.secret|Troms.secret]] 
 

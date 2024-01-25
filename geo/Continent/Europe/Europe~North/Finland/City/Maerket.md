@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Maerket.md|Maerket]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Maerket.internal.md|Maerket.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Maerket.protect.md|Maerket.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Maerket.private.md|Maerket.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Maerket.personal.md|Maerket.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Maerket.secret.md|Maerket.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Maerket.internal|Maerket.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Maerket.protect|Maerket.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Maerket.private|Maerket.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Maerket.personal|Maerket.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Maerket.secret|Maerket.secret]] 

@@ -24,8 +24,8 @@ If such Additives are already used, employ luminescent Traces or Tracer Elements
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-luminescent-tracer.md|Triz-luminescent-tracer]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-luminescent-tracer.internal.md|Triz-luminescent-tracer.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-luminescent-tracer.protect.md|Triz-luminescent-tracer.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-luminescent-tracer.private.md|Triz-luminescent-tracer.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-luminescent-tracer.personal.md|Triz-luminescent-tracer.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-luminescent-tracer.secret.md|Triz-luminescent-tracer.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-luminescent-tracer.internal|Triz-luminescent-tracer.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-luminescent-tracer.protect|Triz-luminescent-tracer.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-luminescent-tracer.private|Triz-luminescent-tracer.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-luminescent-tracer.personal|Triz-luminescent-tracer.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-luminescent-tracer.secret|Triz-luminescent-tracer.secret]] 

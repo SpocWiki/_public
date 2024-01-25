@@ -41,9 +41,9 @@ markerFolder: ./Zabul/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.md|Zabul]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.internal.md|Zabul.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.protect.md|Zabul.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.private.md|Zabul.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.personal.md|Zabul.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.secret.md|Zabul.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.internal|Zabul.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.protect|Zabul.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.private|Zabul.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.personal|Zabul.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Zabul.secret|Zabul.secret]] 
 

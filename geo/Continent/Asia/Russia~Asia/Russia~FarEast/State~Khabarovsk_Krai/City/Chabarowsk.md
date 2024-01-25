@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chabarowsk.md|Chabarowsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chabarowsk.internal.md|Chabarowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chabarowsk.protect.md|Chabarowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chabarowsk.private.md|Chabarowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chabarowsk.personal.md|Chabarowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chabarowsk.secret.md|Chabarowsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chabarowsk.internal|Chabarowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chabarowsk.protect|Chabarowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chabarowsk.private|Chabarowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chabarowsk.personal|Chabarowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chabarowsk.secret|Chabarowsk.secret]] 

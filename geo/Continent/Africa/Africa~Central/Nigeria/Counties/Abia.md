@@ -41,9 +41,9 @@ markerFolder: ./Abia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Abia.md|Abia]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Abia.internal.md|Abia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Abia.protect.md|Abia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Abia.private.md|Abia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Abia.personal.md|Abia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Abia.secret.md|Abia.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Abia.internal|Abia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Abia.protect|Abia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Abia.private|Abia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Abia.personal|Abia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Abia.secret|Abia.secret]] 
 

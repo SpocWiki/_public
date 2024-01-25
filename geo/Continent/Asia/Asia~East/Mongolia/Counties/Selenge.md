@@ -41,9 +41,9 @@ markerFolder: ./Selenge/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.md|Selenge]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.internal.md|Selenge.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.protect.md|Selenge.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.private.md|Selenge.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.personal.md|Selenge.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.secret.md|Selenge.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.internal|Selenge.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.protect|Selenge.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.private|Selenge.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.personal|Selenge.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.secret|Selenge.secret]] 
 

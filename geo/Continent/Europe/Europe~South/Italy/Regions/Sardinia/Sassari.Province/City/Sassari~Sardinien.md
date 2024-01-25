@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sassari~Sardinien.md|Sassari~Sardinien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sassari~Sardinien.internal.md|Sassari~Sardinien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sassari~Sardinien.protect.md|Sassari~Sardinien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sassari~Sardinien.private.md|Sassari~Sardinien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sassari~Sardinien.personal.md|Sassari~Sardinien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sassari~Sardinien.secret.md|Sassari~Sardinien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sassari~Sardinien.internal|Sassari~Sardinien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sassari~Sardinien.protect|Sassari~Sardinien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sassari~Sardinien.private|Sassari~Sardinien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sassari~Sardinien.personal|Sassari~Sardinien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sassari~Sardinien.secret|Sassari~Sardinien.secret]] 

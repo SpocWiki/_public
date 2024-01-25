@@ -41,9 +41,9 @@ markerFolder: ./Oruro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/Oruro.md|Oruro]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Oruro.internal.md|Oruro.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Oruro.protect.md|Oruro.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/Oruro.private.md|Oruro.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Oruro.personal.md|Oruro.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Oruro.secret.md|Oruro.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Oruro.internal|Oruro.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Oruro.protect|Oruro.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/Oruro.private|Oruro.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Oruro.personal|Oruro.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Oruro.secret|Oruro.secret]] 
 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Yed_Posterior.md|Yed_Posterior]] 
-- [[../../../_internal/astro/Star/Yed_Posterior.internal.md|Yed_Posterior.internal]] 
-- [[../../../_protect/astro/Star/Yed_Posterior.protect.md|Yed_Posterior.protect]] 
-- [[../../../_private/astro/Star/Yed_Posterior.private.md|Yed_Posterior.private]] 
-- [[../../../_personal/astro/Star/Yed_Posterior.personal.md|Yed_Posterior.personal]] 
-- [[../../../_secret/astro/Star/Yed_Posterior.secret.md|Yed_Posterior.secret]] 
+- [[../../../_internal/astro/Star/Yed_Posterior.internal|Yed_Posterior.internal]] 
+- [[../../../_protect/astro/Star/Yed_Posterior.protect|Yed_Posterior.protect]] 
+- [[../../../_private/astro/Star/Yed_Posterior.private|Yed_Posterior.private]] 
+- [[../../../_personal/astro/Star/Yed_Posterior.personal|Yed_Posterior.personal]] 
+- [[../../../_secret/astro/Star/Yed_Posterior.secret|Yed_Posterior.secret]] 

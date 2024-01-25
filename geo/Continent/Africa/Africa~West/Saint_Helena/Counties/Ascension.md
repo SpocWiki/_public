@@ -41,9 +41,9 @@ markerFolder: ./Ascension/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Saint_Helena/Counties/Ascension.md|Ascension]] 
-- [[../../../../_internal/geo/Continent/Africa/Saint_Helena/Counties/Ascension.internal.md|Ascension.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Saint_Helena/Counties/Ascension.protect.md|Ascension.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Saint_Helena/Counties/Ascension.private.md|Ascension.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Saint_Helena/Counties/Ascension.personal.md|Ascension.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Saint_Helena/Counties/Ascension.secret.md|Ascension.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Saint_Helena/Counties/Ascension.internal|Ascension.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Saint_Helena/Counties/Ascension.protect|Ascension.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Saint_Helena/Counties/Ascension.private|Ascension.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Saint_Helena/Counties/Ascension.personal|Ascension.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Saint_Helena/Counties/Ascension.secret|Ascension.secret]] 
 

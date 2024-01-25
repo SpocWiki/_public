@@ -38,8 +38,8 @@ FROM [[]]
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../[[Sub~Bond_Street|Sub~Bond_Street]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.internal.md|Sub~Bond_Street.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.protect.md|Sub~Bond_Street.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.private.md|Sub~Bond_Street.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.personal.md|Sub~Bond_Street.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.secret.md|Sub~Bond_Street.secret]] 
+- [[../../[[Sub~Bond_Street|Sub~Bond_Street]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.internal|Sub~Bond_Street.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.protect|Sub~Bond_Street.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.private|Sub~Bond_Street.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.personal|Sub~Bond_Street.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.secret|Sub~Bond_Street.secret]] 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Fomalhaut.md|Fomalhaut]] 
-- [[../../../_internal/astro/Star/Fomalhaut.internal.md|Fomalhaut.internal]] 
-- [[../../../_protect/astro/Star/Fomalhaut.protect.md|Fomalhaut.protect]] 
-- [[../../../_private/astro/Star/Fomalhaut.private.md|Fomalhaut.private]] 
-- [[../../../_personal/astro/Star/Fomalhaut.personal.md|Fomalhaut.personal]] 
-- [[../../../_secret/astro/Star/Fomalhaut.secret.md|Fomalhaut.secret]]
+- [[../../../_internal/astro/Star/Fomalhaut.internal|Fomalhaut.internal]] 
+- [[../../../_protect/astro/Star/Fomalhaut.protect|Fomalhaut.protect]] 
+- [[../../../_private/astro/Star/Fomalhaut.private|Fomalhaut.private]] 
+- [[../../../_personal/astro/Star/Fomalhaut.personal|Fomalhaut.personal]] 
+- [[../../../_secret/astro/Star/Fomalhaut.secret|Fomalhaut.secret]]
 

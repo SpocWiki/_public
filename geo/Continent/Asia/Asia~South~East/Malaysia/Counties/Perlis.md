@@ -41,9 +41,9 @@ markerFolder: ./Perlis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.md|Perlis]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.internal.md|Perlis.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.protect.md|Perlis.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.private.md|Perlis.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.personal.md|Perlis.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.secret.md|Perlis.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.internal|Perlis.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.protect|Perlis.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.private|Perlis.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.personal|Perlis.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perlis.secret|Perlis.secret]] 
 

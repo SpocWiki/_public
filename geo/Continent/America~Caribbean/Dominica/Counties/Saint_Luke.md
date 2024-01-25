@@ -41,9 +41,9 @@ markerFolder: ./Saint_Luke/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.md|Saint_Luke]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.internal.md|Saint_Luke.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.protect.md|Saint_Luke.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.private.md|Saint_Luke.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.personal.md|Saint_Luke.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.secret.md|Saint_Luke.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.internal|Saint_Luke.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.protect|Saint_Luke.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.private|Saint_Luke.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.personal|Saint_Luke.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.secret|Saint_Luke.secret]] 
 

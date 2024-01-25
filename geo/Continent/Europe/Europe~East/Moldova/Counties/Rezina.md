@@ -41,9 +41,9 @@ markerFolder: ./Rezina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Rezina.md|Rezina]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Rezina.internal.md|Rezina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Rezina.protect.md|Rezina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Rezina.private.md|Rezina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Rezina.personal.md|Rezina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Rezina.secret.md|Rezina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Rezina.internal|Rezina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Rezina.protect|Rezina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Rezina.private|Rezina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Rezina.personal|Rezina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Rezina.secret|Rezina.secret]] 
 

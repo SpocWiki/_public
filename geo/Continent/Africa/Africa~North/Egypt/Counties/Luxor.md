@@ -41,9 +41,9 @@ markerFolder: ./Luxor/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Luxor.md|Luxor]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Luxor.internal.md|Luxor.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Luxor.protect.md|Luxor.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Luxor.private.md|Luxor.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Luxor.personal.md|Luxor.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Luxor.secret.md|Luxor.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Luxor.internal|Luxor.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Luxor.protect|Luxor.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Luxor.private|Luxor.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Luxor.personal|Luxor.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Luxor.secret|Luxor.secret]] 
 

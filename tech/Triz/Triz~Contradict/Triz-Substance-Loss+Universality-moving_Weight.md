@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Universality-moving_Weight]
 [SpocWebEntityId::24788]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.md|Triz-Substance-Loss+Universality-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.internal.md|Triz-Substance-Loss+Universality-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.protect.md|Triz-Substance-Loss+Universality-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.private.md|Triz-Substance-Loss+Universality-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.personal.md|Triz-Substance-Loss+Universality-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.secret.md|Triz-Substance-Loss+Universality-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.internal|Triz-Substance-Loss+Universality-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.protect|Triz-Substance-Loss+Universality-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.private|Triz-Substance-Loss+Universality-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.personal|Triz-Substance-Loss+Universality-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Universality-moving_Weight.secret|Triz-Substance-Loss+Universality-moving_Weight.secret]] 

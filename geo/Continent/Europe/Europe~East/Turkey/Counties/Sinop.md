@@ -41,9 +41,9 @@ markerFolder: ./Sinop/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sinop.md|Sinop]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sinop.internal.md|Sinop.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sinop.protect.md|Sinop.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sinop.private.md|Sinop.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sinop.personal.md|Sinop.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sinop.secret.md|Sinop.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sinop.internal|Sinop.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sinop.protect|Sinop.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sinop.private|Sinop.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sinop.personal|Sinop.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sinop.secret|Sinop.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Suva|Suva]]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Fiji/City/Suva.internal.md|Suva.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Fiji/City/Suva.protect.md|Suva.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Fiji/City/Suva.private.md|Suva.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Fiji/City/Suva.personal.md|Suva.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Fiji/City/Suva.secret.md|Suva.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Fiji/City/Suva.internal|Suva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Fiji/City/Suva.protect|Suva.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Fiji/City/Suva.private|Suva.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Fiji/City/Suva.personal|Suva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Fiji/City/Suva.secret|Suva.secret]] 

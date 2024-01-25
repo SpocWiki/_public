@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Lindau~Bodensee|Lindau~Bodensee]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.internal.md|Lindau~Bodensee.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.protect.md|Lindau~Bodensee.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.private.md|Lindau~Bodensee.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.personal.md|Lindau~Bodensee.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.secret.md|Lindau~Bodensee.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.internal|Lindau~Bodensee.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.protect|Lindau~Bodensee.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.private|Lindau~Bodensee.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.personal|Lindau~Bodensee.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.secret|Lindau~Bodensee.secret]] 

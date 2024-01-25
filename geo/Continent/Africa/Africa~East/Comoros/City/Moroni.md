@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Comoros/City/Moroni.md|Moroni]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Comoros/City/Moroni.internal.md|Moroni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Comoros/City/Moroni.protect.md|Moroni.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Comoros/City/Moroni.private.md|Moroni.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Comoros/City/Moroni.personal.md|Moroni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Comoros/City/Moroni.secret.md|Moroni.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Comoros/City/Moroni.internal|Moroni.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Comoros/City/Moroni.protect|Moroni.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Comoros/City/Moroni.private|Moroni.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Comoros/City/Moroni.personal|Moroni.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Comoros/City/Moroni.secret|Moroni.secret]] 

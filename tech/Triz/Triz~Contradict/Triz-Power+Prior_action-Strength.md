@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Prior_action-Strength]
 [SpocWebEntityId::24624]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.md|Triz-Power+Prior_action-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.internal.md|Triz-Power+Prior_action-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.protect.md|Triz-Power+Prior_action-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.private.md|Triz-Power+Prior_action-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.personal.md|Triz-Power+Prior_action-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.secret.md|Triz-Power+Prior_action-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.internal|Triz-Power+Prior_action-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.protect|Triz-Power+Prior_action-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.private|Triz-Power+Prior_action-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.personal|Triz-Power+Prior_action-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.secret|Triz-Power+Prior_action-Strength.secret]] 

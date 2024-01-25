@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Periodic_action-Temperature]
 [SpocWebEntityId::25410]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.md|Triz-Measurement_Accuracy+Periodic_action-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.internal.md|Triz-Measurement_Accuracy+Periodic_action-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.protect.md|Triz-Measurement_Accuracy+Periodic_action-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.private.md|Triz-Measurement_Accuracy+Periodic_action-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.personal.md|Triz-Measurement_Accuracy+Periodic_action-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.secret.md|Triz-Measurement_Accuracy+Periodic_action-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.internal|Triz-Measurement_Accuracy+Periodic_action-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.protect|Triz-Measurement_Accuracy+Periodic_action-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.private|Triz-Measurement_Accuracy+Periodic_action-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.personal|Triz-Measurement_Accuracy+Periodic_action-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Periodic_action-Temperature.secret|Triz-Measurement_Accuracy+Periodic_action-Temperature.secret]] 

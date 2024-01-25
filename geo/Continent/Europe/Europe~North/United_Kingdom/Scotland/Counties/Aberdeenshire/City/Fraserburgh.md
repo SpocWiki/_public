@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.md|Fraserburgh]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.internal.md|Fraserburgh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.protect.md|Fraserburgh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.private.md|Fraserburgh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.personal.md|Fraserburgh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.secret.md|Fraserburgh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.internal|Fraserburgh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.protect|Fraserburgh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.private|Fraserburgh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.personal|Fraserburgh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.secret|Fraserburgh.secret]] 

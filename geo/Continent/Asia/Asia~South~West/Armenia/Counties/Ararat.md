@@ -41,9 +41,9 @@ markerFolder: ./Ararat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.md|Ararat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.internal.md|Ararat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.protect.md|Ararat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.private.md|Ararat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.personal.md|Ararat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.secret.md|Ararat.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.internal|Ararat.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.protect|Ararat.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.private|Ararat.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.personal|Ararat.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Ararat.secret|Ararat.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Staw.md|Staw]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Staw.internal.md|Staw.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Staw.protect.md|Staw.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Staw.private.md|Staw.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Staw.personal.md|Staw.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Staw.secret.md|Staw.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Staw.internal|Staw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Staw.protect|Staw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Staw.private|Staw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Staw.personal|Staw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Staw.secret|Staw.secret]] 

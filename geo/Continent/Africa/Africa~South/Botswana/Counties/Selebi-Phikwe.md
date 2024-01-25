@@ -41,9 +41,9 @@ markerFolder: ./Selebi-Phikwe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.md|Selebi-Phikwe]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.internal.md|Selebi-Phikwe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.protect.md|Selebi-Phikwe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.private.md|Selebi-Phikwe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.personal.md|Selebi-Phikwe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.secret.md|Selebi-Phikwe.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.internal|Selebi-Phikwe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.protect|Selebi-Phikwe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.private|Selebi-Phikwe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.personal|Selebi-Phikwe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.secret|Selebi-Phikwe.secret]] 
 

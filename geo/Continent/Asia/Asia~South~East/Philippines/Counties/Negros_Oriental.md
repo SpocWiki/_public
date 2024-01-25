@@ -41,9 +41,9 @@ markerFolder: ./Negros_Oriental/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.md|Negros_Oriental]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.internal.md|Negros_Oriental.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.protect.md|Negros_Oriental.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.private.md|Negros_Oriental.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.personal.md|Negros_Oriental.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.secret.md|Negros_Oriental.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.internal|Negros_Oriental.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.protect|Negros_Oriental.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.private|Negros_Oriental.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.personal|Negros_Oriental.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.secret|Negros_Oriental.secret]] 
 

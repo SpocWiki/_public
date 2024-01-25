@@ -41,9 +41,9 @@ markerFolder: ./Airai/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Airai.md|Airai]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Airai.internal.md|Airai.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Airai.protect.md|Airai.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Airai.private.md|Airai.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Airai.personal.md|Airai.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Airai.secret.md|Airai.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Airai.internal|Airai.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Airai.protect|Airai.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Airai.private|Airai.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Airai.personal|Airai.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Airai.secret|Airai.secret]] 
 

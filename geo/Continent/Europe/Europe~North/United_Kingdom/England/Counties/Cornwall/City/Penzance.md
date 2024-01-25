@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Penzance.md|Penzance]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Penzance.internal.md|Penzance.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Penzance.protect.md|Penzance.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Penzance.private.md|Penzance.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Penzance.personal.md|Penzance.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Penzance.secret.md|Penzance.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Penzance.internal|Penzance.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Penzance.protect|Penzance.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Penzance.private|Penzance.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Penzance.personal|Penzance.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Penzance.secret|Penzance.secret]] 

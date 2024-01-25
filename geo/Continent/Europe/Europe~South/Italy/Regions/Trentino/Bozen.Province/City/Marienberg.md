@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Marienberg.md|Marienberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Marienberg.internal.md|Marienberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Marienberg.protect.md|Marienberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Marienberg.private.md|Marienberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Marienberg.personal.md|Marienberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Marienberg.secret.md|Marienberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Marienberg.internal|Marienberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Marienberg.protect|Marienberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Marienberg.private|Marienberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Marienberg.personal|Marienberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Marienberg.secret|Marienberg.secret]] 

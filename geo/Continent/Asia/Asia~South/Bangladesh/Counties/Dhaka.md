@@ -41,9 +41,9 @@ markerFolder: ./Dhaka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.md|Dhaka]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.internal.md|Dhaka.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.protect.md|Dhaka.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.private.md|Dhaka.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.personal.md|Dhaka.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.secret.md|Dhaka.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.internal|Dhaka.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.protect|Dhaka.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.private|Dhaka.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.personal|Dhaka.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Dhaka.secret|Dhaka.secret]] 
 

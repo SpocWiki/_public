@@ -41,9 +41,9 @@ markerFolder: ./Quba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.md|Quba]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.internal.md|Quba.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.protect.md|Quba.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.private.md|Quba.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.personal.md|Quba.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.secret.md|Quba.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.internal|Quba.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.protect|Quba.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.private|Quba.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.personal|Quba.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.secret|Quba.secret]] 
 

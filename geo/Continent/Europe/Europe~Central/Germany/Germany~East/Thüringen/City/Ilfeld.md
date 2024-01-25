@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.md|Ilfeld]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.internal.md|Ilfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.protect.md|Ilfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.private.md|Ilfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.personal.md|Ilfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.secret.md|Ilfeld.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.internal|Ilfeld.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.protect|Ilfeld.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.private|Ilfeld.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.personal|Ilfeld.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ilfeld.secret|Ilfeld.secret]] 

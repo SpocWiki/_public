@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sundsvall.md|Sundsvall]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sundsvall.internal.md|Sundsvall.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sundsvall.protect.md|Sundsvall.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sundsvall.private.md|Sundsvall.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sundsvall.personal.md|Sundsvall.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sundsvall.secret.md|Sundsvall.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sundsvall.internal|Sundsvall.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sundsvall.protect|Sundsvall.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sundsvall.private|Sundsvall.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sundsvall.personal|Sundsvall.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sundsvall.secret|Sundsvall.secret]] 

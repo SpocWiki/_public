@@ -41,9 +41,9 @@ markerFolder: ./Gyôr/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Gyôr.md|Gyôr]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Gyôr.internal.md|Gyôr.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Gyôr.protect.md|Gyôr.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Gyôr.private.md|Gyôr.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Gyôr.personal.md|Gyôr.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Gyôr.secret.md|Gyôr.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Gyôr.internal|Gyôr.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Gyôr.protect|Gyôr.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Gyôr.private|Gyôr.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Gyôr.personal|Gyôr.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Gyôr.secret|Gyôr.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Nueva_Esparta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.md|Nueva_Esparta]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.internal.md|Nueva_Esparta.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.protect.md|Nueva_Esparta.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.private.md|Nueva_Esparta.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.personal.md|Nueva_Esparta.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.secret.md|Nueva_Esparta.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.internal|Nueva_Esparta.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.protect|Nueva_Esparta.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.private|Nueva_Esparta.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.personal|Nueva_Esparta.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Nueva_Esparta.secret|Nueva_Esparta.secret]] 
 

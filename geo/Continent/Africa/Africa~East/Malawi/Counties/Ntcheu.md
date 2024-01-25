@@ -41,9 +41,9 @@ markerFolder: ./Ntcheu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Ntcheu.md|Ntcheu]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Ntcheu.internal.md|Ntcheu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Ntcheu.protect.md|Ntcheu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Ntcheu.private.md|Ntcheu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Ntcheu.personal.md|Ntcheu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Ntcheu.secret.md|Ntcheu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Ntcheu.internal|Ntcheu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Ntcheu.protect|Ntcheu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Ntcheu.private|Ntcheu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Ntcheu.personal|Ntcheu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Ntcheu.secret|Ntcheu.secret]] 
 

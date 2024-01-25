@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hartlieb.md|Hartlieb]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hartlieb.internal.md|Hartlieb.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hartlieb.protect.md|Hartlieb.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hartlieb.private.md|Hartlieb.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hartlieb.personal.md|Hartlieb.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hartlieb.secret.md|Hartlieb.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hartlieb.internal|Hartlieb.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hartlieb.protect|Hartlieb.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hartlieb.private|Hartlieb.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hartlieb.personal|Hartlieb.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hartlieb.secret|Hartlieb.secret]] 

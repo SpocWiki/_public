@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Convert_harm_into_benefit-Stability]
 [SpocWebEntityId::26327]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.md|Triz-Complexity+Convert_harm_into_benefit-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.internal.md|Triz-Complexity+Convert_harm_into_benefit-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.protect.md|Triz-Complexity+Convert_harm_into_benefit-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.private.md|Triz-Complexity+Convert_harm_into_benefit-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.personal.md|Triz-Complexity+Convert_harm_into_benefit-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.secret.md|Triz-Complexity+Convert_harm_into_benefit-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.internal|Triz-Complexity+Convert_harm_into_benefit-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.protect|Triz-Complexity+Convert_harm_into_benefit-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.private|Triz-Complexity+Convert_harm_into_benefit-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.personal|Triz-Complexity+Convert_harm_into_benefit-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Convert_harm_into_benefit-Stability.secret|Triz-Complexity+Convert_harm_into_benefit-Stability.secret]] 

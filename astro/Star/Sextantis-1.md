@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Sextantis-1.md|Sextantis-1]] 
-- [[../../../_internal/astro/Star/Sextantis-1.internal.md|Sextantis-1.internal]] 
-- [[../../../_protect/astro/Star/Sextantis-1.protect.md|Sextantis-1.protect]] 
-- [[../../../_private/astro/Star/Sextantis-1.private.md|Sextantis-1.private]] 
-- [[../../../_personal/astro/Star/Sextantis-1.personal.md|Sextantis-1.personal]] 
-- [[../../../_secret/astro/Star/Sextantis-1.secret.md|Sextantis-1.secret]] 
+- [[../../../_internal/astro/Star/Sextantis-1.internal|Sextantis-1.internal]] 
+- [[../../../_protect/astro/Star/Sextantis-1.protect|Sextantis-1.protect]] 
+- [[../../../_private/astro/Star/Sextantis-1.private|Sextantis-1.private]] 
+- [[../../../_personal/astro/Star/Sextantis-1.personal|Sextantis-1.personal]] 
+- [[../../../_secret/astro/Star/Sextantis-1.secret|Sextantis-1.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kayseri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kayseri.md|Kayseri]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kayseri.internal.md|Kayseri.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kayseri.protect.md|Kayseri.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kayseri.private.md|Kayseri.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kayseri.personal.md|Kayseri.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kayseri.secret.md|Kayseri.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kayseri.internal|Kayseri.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kayseri.protect|Kayseri.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kayseri.private|Kayseri.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kayseri.personal|Kayseri.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kayseri.secret|Kayseri.secret]] 
 

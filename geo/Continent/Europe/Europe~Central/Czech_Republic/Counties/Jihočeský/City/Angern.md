@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Angern.md|Angern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Angern.internal.md|Angern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Angern.protect.md|Angern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Angern.private.md|Angern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Angern.personal.md|Angern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Angern.secret.md|Angern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Angern.internal|Angern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Angern.protect|Angern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Angern.private|Angern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Angern.personal|Angern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Angern.secret|Angern.secret]] 

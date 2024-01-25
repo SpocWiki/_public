@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bellinzona.md|Bellinzona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bellinzona.internal.md|Bellinzona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bellinzona.protect.md|Bellinzona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bellinzona.private.md|Bellinzona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bellinzona.personal.md|Bellinzona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bellinzona.secret.md|Bellinzona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bellinzona.internal|Bellinzona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bellinzona.protect|Bellinzona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bellinzona.private|Bellinzona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bellinzona.personal|Bellinzona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bellinzona.secret|Bellinzona.secret]] 

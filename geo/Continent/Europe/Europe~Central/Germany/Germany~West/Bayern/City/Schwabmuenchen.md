@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Schwabmuenchen|Schwabmuenchen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.internal.md|Schwabmuenchen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.protect.md|Schwabmuenchen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.private.md|Schwabmuenchen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.personal.md|Schwabmuenchen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.secret.md|Schwabmuenchen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.internal|Schwabmuenchen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.protect|Schwabmuenchen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.private|Schwabmuenchen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.personal|Schwabmuenchen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schwabmuenchen.secret|Schwabmuenchen.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Nigde/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Nigde.md|Nigde]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Nigde.internal.md|Nigde.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Nigde.protect.md|Nigde.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Nigde.private.md|Nigde.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Nigde.personal.md|Nigde.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Nigde.secret.md|Nigde.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Nigde.internal|Nigde.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Nigde.protect|Nigde.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Nigde.private|Nigde.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Nigde.personal|Nigde.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Nigde.secret|Nigde.secret]] 
 

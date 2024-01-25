@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Wasserburg~Bodensee|Wasserburg~Bodensee]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.internal.md|Wasserburg~Bodensee.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.protect.md|Wasserburg~Bodensee.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.private.md|Wasserburg~Bodensee.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.personal.md|Wasserburg~Bodensee.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.secret.md|Wasserburg~Bodensee.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.internal|Wasserburg~Bodensee.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.protect|Wasserburg~Bodensee.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.private|Wasserburg~Bodensee.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.personal|Wasserburg~Bodensee.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.secret|Wasserburg~Bodensee.secret]] 

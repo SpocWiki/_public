@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Irvine.md|Irvine]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Irvine.internal.md|Irvine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Irvine.protect.md|Irvine.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Irvine.private.md|Irvine.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Irvine.personal.md|Irvine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Irvine.secret.md|Irvine.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Irvine.internal|Irvine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Irvine.protect|Irvine.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Irvine.private|Irvine.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Irvine.personal|Irvine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Irvine.secret|Irvine.secret]] 

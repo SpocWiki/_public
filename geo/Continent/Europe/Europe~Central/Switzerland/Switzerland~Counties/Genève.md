@@ -41,9 +41,9 @@ markerFolder: ./Genève/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.md|Genève]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.internal.md|Genève.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.protect.md|Genève.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.private.md|Genève.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.personal.md|Genève.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.secret.md|Genève.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.internal|Genève.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.protect|Genève.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.private|Genève.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.personal|Genève.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.secret|Genève.secret]] 
 

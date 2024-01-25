@@ -41,9 +41,9 @@ markerFolder: ./Hà_Nam/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.md|Hà_Nam]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.internal.md|Hà_Nam.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.protect.md|Hà_Nam.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.private.md|Hà_Nam.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.personal.md|Hà_Nam.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.secret.md|Hà_Nam.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.internal|Hà_Nam.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.protect|Hà_Nam.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.private|Hà_Nam.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.personal|Hà_Nam.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Nam.secret|Hà_Nam.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Muri.md|Muri]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Muri.internal.md|Muri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Muri.protect.md|Muri.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Muri.private.md|Muri.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Muri.personal.md|Muri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Muri.secret.md|Muri.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Muri.internal|Muri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Muri.protect|Muri.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Muri.private|Muri.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Muri.personal|Muri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Muri.secret|Muri.secret]] 

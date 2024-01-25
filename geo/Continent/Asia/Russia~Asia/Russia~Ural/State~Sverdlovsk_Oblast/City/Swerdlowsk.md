@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Swerdlowsk.md|Swerdlowsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Swerdlowsk.internal.md|Swerdlowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Swerdlowsk.protect.md|Swerdlowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Swerdlowsk.private.md|Swerdlowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Swerdlowsk.personal.md|Swerdlowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Swerdlowsk.secret.md|Swerdlowsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Swerdlowsk.internal|Swerdlowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Swerdlowsk.protect|Swerdlowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Swerdlowsk.private|Swerdlowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Swerdlowsk.personal|Swerdlowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Swerdlowsk.secret|Swerdlowsk.secret]] 

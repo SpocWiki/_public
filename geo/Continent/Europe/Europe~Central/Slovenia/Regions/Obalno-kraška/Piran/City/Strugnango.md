@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Strugnango.md|Strugnango]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Strugnango.internal.md|Strugnango.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Strugnango.protect.md|Strugnango.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Strugnango.private.md|Strugnango.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Strugnango.personal.md|Strugnango.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Strugnango.secret.md|Strugnango.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Strugnango.internal|Strugnango.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Strugnango.protect|Strugnango.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Strugnango.private|Strugnango.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Strugnango.personal|Strugnango.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Strugnango.secret|Strugnango.secret]] 

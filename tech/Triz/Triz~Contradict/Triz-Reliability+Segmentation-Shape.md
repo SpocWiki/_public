@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Segmentation-Shape]
 [SpocWebEntityId::25276]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.md|Triz-Reliability+Segmentation-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.internal.md|Triz-Reliability+Segmentation-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.protect.md|Triz-Reliability+Segmentation-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.private.md|Triz-Reliability+Segmentation-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.personal.md|Triz-Reliability+Segmentation-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.secret.md|Triz-Reliability+Segmentation-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.internal|Triz-Reliability+Segmentation-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.protect|Triz-Reliability+Segmentation-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.private|Triz-Reliability+Segmentation-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.personal|Triz-Reliability+Segmentation-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.secret|Triz-Reliability+Segmentation-Shape.secret]] 

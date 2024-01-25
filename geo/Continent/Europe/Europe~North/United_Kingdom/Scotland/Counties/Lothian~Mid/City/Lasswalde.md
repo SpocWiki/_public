@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lasswalde.md|Lasswalde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lasswalde.internal.md|Lasswalde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lasswalde.protect.md|Lasswalde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lasswalde.private.md|Lasswalde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lasswalde.personal.md|Lasswalde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lasswalde.secret.md|Lasswalde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lasswalde.internal|Lasswalde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lasswalde.protect|Lasswalde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lasswalde.private|Lasswalde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lasswalde.personal|Lasswalde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lasswalde.secret|Lasswalde.secret]] 

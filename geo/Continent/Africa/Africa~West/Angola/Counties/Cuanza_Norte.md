@@ -41,9 +41,9 @@ markerFolder: ./Cuanza_Norte/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.md|Cuanza_Norte]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.internal.md|Cuanza_Norte.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.protect.md|Cuanza_Norte.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.private.md|Cuanza_Norte.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.personal.md|Cuanza_Norte.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.secret.md|Cuanza_Norte.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.internal|Cuanza_Norte.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.protect|Cuanza_Norte.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.private|Cuanza_Norte.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.personal|Cuanza_Norte.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.secret|Cuanza_Norte.secret]] 
 

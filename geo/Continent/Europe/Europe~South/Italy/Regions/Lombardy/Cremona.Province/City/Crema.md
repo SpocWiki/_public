@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Crema.md|Crema]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Crema.internal.md|Crema.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Crema.protect.md|Crema.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Crema.private.md|Crema.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Crema.personal.md|Crema.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Crema.secret.md|Crema.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Crema.internal|Crema.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Crema.protect|Crema.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Crema.private|Crema.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Crema.personal|Crema.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Crema.secret|Crema.secret]] 

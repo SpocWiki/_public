@@ -18,8 +18,8 @@ A Cylinder is painted by dipping into Paint, but contains more Paint than desire
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-dip_into_Paint.md|Triz-dip_into_Paint]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-dip_into_Paint.internal.md|Triz-dip_into_Paint.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-dip_into_Paint.protect.md|Triz-dip_into_Paint.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-dip_into_Paint.private.md|Triz-dip_into_Paint.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-dip_into_Paint.personal.md|Triz-dip_into_Paint.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-dip_into_Paint.secret.md|Triz-dip_into_Paint.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-dip_into_Paint.internal|Triz-dip_into_Paint.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-dip_into_Paint.protect|Triz-dip_into_Paint.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-dip_into_Paint.private|Triz-dip_into_Paint.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-dip_into_Paint.personal|Triz-dip_into_Paint.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-dip_into_Paint.secret|Triz-dip_into_Paint.secret]] 

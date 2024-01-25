@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Universality-Shape]
 [SpocWebEntityId::25394]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.md|Triz-Measurement_Accuracy+Universality-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.internal.md|Triz-Measurement_Accuracy+Universality-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.protect.md|Triz-Measurement_Accuracy+Universality-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.private.md|Triz-Measurement_Accuracy+Universality-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.personal.md|Triz-Measurement_Accuracy+Universality-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.secret.md|Triz-Measurement_Accuracy+Universality-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.internal|Triz-Measurement_Accuracy+Universality-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.protect|Triz-Measurement_Accuracy+Universality-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.private|Triz-Measurement_Accuracy+Universality-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.personal|Triz-Measurement_Accuracy+Universality-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.secret|Triz-Measurement_Accuracy+Universality-Shape.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Commercy.md|Commercy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Commercy.internal.md|Commercy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Commercy.protect.md|Commercy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Commercy.private.md|Commercy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Commercy.personal.md|Commercy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Commercy.secret.md|Commercy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Commercy.internal|Commercy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Commercy.protect|Commercy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Commercy.private|Commercy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Commercy.personal|Commercy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Commercy.secret|Commercy.secret]] 

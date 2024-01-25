@@ -41,9 +41,9 @@ markerFolder: ./Vientiane/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.md|Vientiane]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.internal.md|Vientiane.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.protect.md|Vientiane.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.private.md|Vientiane.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.personal.md|Vientiane.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.secret.md|Vientiane.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.internal|Vientiane.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.protect|Vientiane.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.private|Vientiane.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.personal|Vientiane.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane.secret|Vientiane.secret]] 
 

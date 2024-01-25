@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Landsort.md|Landsort]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Landsort.internal.md|Landsort.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Landsort.protect.md|Landsort.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Landsort.private.md|Landsort.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Landsort.personal.md|Landsort.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Landsort.secret.md|Landsort.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Landsort.internal|Landsort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Landsort.protect|Landsort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Landsort.private|Landsort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Landsort.personal|Landsort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Landsort.secret|Landsort.secret]] 

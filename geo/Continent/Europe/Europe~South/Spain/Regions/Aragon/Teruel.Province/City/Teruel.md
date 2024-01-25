@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Teruel.md|Teruel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Teruel.internal.md|Teruel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Teruel.protect.md|Teruel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Teruel.private.md|Teruel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Teruel.personal.md|Teruel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Teruel.secret.md|Teruel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Teruel.internal|Teruel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Teruel.protect|Teruel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Teruel.private|Teruel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Teruel.personal|Teruel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Teruel.secret|Teruel.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ağsu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.md|Ağsu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.internal.md|Ağsu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.protect.md|Ağsu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.private.md|Ağsu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.personal.md|Ağsu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.secret.md|Ağsu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.internal|Ağsu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.protect|Ağsu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.private|Ağsu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.personal|Ağsu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağsu.secret|Ağsu.secret]] 
 

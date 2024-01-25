@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Shaula.md|Shaula]] 
-- [[../../../_internal/astro/Star/Shaula.internal.md|Shaula.internal]] 
-- [[../../../_protect/astro/Star/Shaula.protect.md|Shaula.protect]] 
-- [[../../../_private/astro/Star/Shaula.private.md|Shaula.private]] 
-- [[../../../_personal/astro/Star/Shaula.personal.md|Shaula.personal]] 
-- [[../../../_secret/astro/Star/Shaula.secret.md|Shaula.secret]] 
+- [[../../../_internal/astro/Star/Shaula.internal|Shaula.internal]] 
+- [[../../../_protect/astro/Star/Shaula.protect|Shaula.protect]] 
+- [[../../../_private/astro/Star/Shaula.private|Shaula.private]] 
+- [[../../../_personal/astro/Star/Shaula.personal|Shaula.personal]] 
+- [[../../../_secret/astro/Star/Shaula.secret|Shaula.secret]] 

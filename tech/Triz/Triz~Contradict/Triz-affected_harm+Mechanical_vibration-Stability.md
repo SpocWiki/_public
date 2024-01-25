@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Mechanical_vibration-Stability]
 [SpocWebEntityId::25624]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.md|Triz-affected_harm+Mechanical_vibration-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.internal.md|Triz-affected_harm+Mechanical_vibration-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.protect.md|Triz-affected_harm+Mechanical_vibration-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.private.md|Triz-affected_harm+Mechanical_vibration-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.personal.md|Triz-affected_harm+Mechanical_vibration-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.secret.md|Triz-affected_harm+Mechanical_vibration-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.internal|Triz-affected_harm+Mechanical_vibration-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.protect|Triz-affected_harm+Mechanical_vibration-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.private|Triz-affected_harm+Mechanical_vibration-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.personal|Triz-affected_harm+Mechanical_vibration-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.secret|Triz-affected_harm+Mechanical_vibration-Stability.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Santo_Domingo_de_los_Tsáchilas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.md|Santo_Domingo_de_los_Tsáchilas]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.internal.md|Santo_Domingo_de_los_Tsáchilas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.protect.md|Santo_Domingo_de_los_Tsáchilas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.private.md|Santo_Domingo_de_los_Tsáchilas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.personal.md|Santo_Domingo_de_los_Tsáchilas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.secret.md|Santo_Domingo_de_los_Tsáchilas.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.internal|Santo_Domingo_de_los_Tsáchilas.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.protect|Santo_Domingo_de_los_Tsáchilas.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.private|Santo_Domingo_de_los_Tsáchilas.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.personal|Santo_Domingo_de_los_Tsáchilas.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Santo_Domingo_de_los_Tsáchilas.secret|Santo_Domingo_de_los_Tsáchilas.secret]] 
 

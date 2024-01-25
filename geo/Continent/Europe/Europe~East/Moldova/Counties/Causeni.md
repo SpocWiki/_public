@@ -41,9 +41,9 @@ markerFolder: ./Causeni/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Causeni.md|Causeni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Causeni.internal.md|Causeni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Causeni.protect.md|Causeni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Causeni.private.md|Causeni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Causeni.personal.md|Causeni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Causeni.secret.md|Causeni.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Causeni.internal|Causeni.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Causeni.protect|Causeni.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Causeni.private|Causeni.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Causeni.personal|Causeni.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Causeni.secret|Causeni.secret]] 
 

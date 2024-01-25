@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Sculptoris-2.md|Sculptoris-2]] 
-- [[../../../_internal/astro/Star/Sculptoris-2.internal.md|Sculptoris-2.internal]] 
-- [[../../../_protect/astro/Star/Sculptoris-2.protect.md|Sculptoris-2.protect]] 
-- [[../../../_private/astro/Star/Sculptoris-2.private.md|Sculptoris-2.private]] 
-- [[../../../_personal/astro/Star/Sculptoris-2.personal.md|Sculptoris-2.personal]] 
-- [[../../../_secret/astro/Star/Sculptoris-2.secret.md|Sculptoris-2.secret]] 
+- [[../../../_internal/astro/Star/Sculptoris-2.internal|Sculptoris-2.internal]] 
+- [[../../../_protect/astro/Star/Sculptoris-2.protect|Sculptoris-2.protect]] 
+- [[../../../_private/astro/Star/Sculptoris-2.private|Sculptoris-2.private]] 
+- [[../../../_personal/astro/Star/Sculptoris-2.personal|Sculptoris-2.personal]] 
+- [[../../../_secret/astro/Star/Sculptoris-2.secret|Sculptoris-2.secret]] 

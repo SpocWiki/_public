@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Altenstadt~Oberpfalz|Altenstadt~Oberpfalz]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.internal.md|Altenstadt~Oberpfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.protect.md|Altenstadt~Oberpfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.private.md|Altenstadt~Oberpfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.personal.md|Altenstadt~Oberpfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.secret.md|Altenstadt~Oberpfalz.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.internal|Altenstadt~Oberpfalz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.protect|Altenstadt~Oberpfalz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.private|Altenstadt~Oberpfalz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.personal|Altenstadt~Oberpfalz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.secret|Altenstadt~Oberpfalz.secret]] 

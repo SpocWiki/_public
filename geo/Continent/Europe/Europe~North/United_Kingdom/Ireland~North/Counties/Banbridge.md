@@ -41,9 +41,9 @@ markerFolder: ./Banbridge/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.md|Banbridge]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.internal.md|Banbridge.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.protect.md|Banbridge.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.private.md|Banbridge.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.personal.md|Banbridge.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.secret.md|Banbridge.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.internal|Banbridge.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.protect|Banbridge.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.private|Banbridge.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.personal|Banbridge.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Banbridge.secret|Banbridge.secret]] 
 

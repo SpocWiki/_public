@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Goes.md|Goes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Goes.internal.md|Goes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Goes.protect.md|Goes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Goes.private.md|Goes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Goes.personal.md|Goes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Goes.secret.md|Goes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Goes.internal|Goes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Goes.protect|Goes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Goes.private|Goes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Goes.personal|Goes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Goes.secret|Goes.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Dornogovi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.md|Dornogovi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.internal.md|Dornogovi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.protect.md|Dornogovi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.private.md|Dornogovi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.personal.md|Dornogovi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.secret.md|Dornogovi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.internal|Dornogovi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.protect|Dornogovi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.private|Dornogovi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.personal|Dornogovi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornogovi.secret|Dornogovi.secret]] 
 

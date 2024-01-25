@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Tauri-11.md|Tauri-11]] 
-- [[../../../_internal/astro/Star/Tauri-11.internal.md|Tauri-11.internal]] 
-- [[../../../_protect/astro/Star/Tauri-11.protect.md|Tauri-11.protect]] 
-- [[../../../_private/astro/Star/Tauri-11.private.md|Tauri-11.private]] 
-- [[../../../_personal/astro/Star/Tauri-11.personal.md|Tauri-11.personal]] 
-- [[../../../_secret/astro/Star/Tauri-11.secret.md|Tauri-11.secret]] 
+- [[../../../_internal/astro/Star/Tauri-11.internal|Tauri-11.internal]] 
+- [[../../../_protect/astro/Star/Tauri-11.protect|Tauri-11.protect]] 
+- [[../../../_private/astro/Star/Tauri-11.private|Tauri-11.private]] 
+- [[../../../_personal/astro/Star/Tauri-11.personal|Tauri-11.personal]] 
+- [[../../../_secret/astro/Star/Tauri-11.secret|Tauri-11.secret]] 

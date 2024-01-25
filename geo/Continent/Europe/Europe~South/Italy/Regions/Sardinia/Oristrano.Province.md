@@ -41,9 +41,9 @@ markerFolder: ./Oristrano/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.md|Oristrano]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.internal.md|Oristrano.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.protect.md|Oristrano.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.private.md|Oristrano.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.personal.md|Oristrano.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.secret.md|Oristrano.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.internal|Oristrano.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.protect|Oristrano.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.private|Oristrano.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.personal|Oristrano.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Oristrano.secret|Oristrano.secret]] 
 

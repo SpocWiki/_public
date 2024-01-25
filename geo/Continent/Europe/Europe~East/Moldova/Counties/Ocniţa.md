@@ -41,9 +41,9 @@ markerFolder: ./Ocniţa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Ocniţa.md|Ocniţa]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ocniţa.internal.md|Ocniţa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ocniţa.protect.md|Ocniţa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ocniţa.private.md|Ocniţa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ocniţa.personal.md|Ocniţa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ocniţa.secret.md|Ocniţa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ocniţa.internal|Ocniţa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ocniţa.protect|Ocniţa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ocniţa.private|Ocniţa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ocniţa.personal|Ocniţa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ocniţa.secret|Ocniţa.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Gelderland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Gelderland.md|Gelderland]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Gelderland.internal.md|Gelderland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Gelderland.protect.md|Gelderland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Gelderland.private.md|Gelderland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Gelderland.personal.md|Gelderland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Gelderland.secret.md|Gelderland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Gelderland.internal|Gelderland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Gelderland.protect|Gelderland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Gelderland.private|Gelderland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Gelderland.personal|Gelderland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Gelderland.secret|Gelderland.secret]] 
 

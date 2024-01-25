@@ -41,9 +41,9 @@ markerFolder: ./Jesenice/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.md|Jesenice]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.internal.md|Jesenice.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.protect.md|Jesenice.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.private.md|Jesenice.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.personal.md|Jesenice.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.secret.md|Jesenice.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.internal|Jesenice.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.protect|Jesenice.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.private|Jesenice.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.personal|Jesenice.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Jesenice.secret|Jesenice.secret]] 
 

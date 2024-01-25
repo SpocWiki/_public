@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Merzdorf.md|Merzdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Merzdorf.internal.md|Merzdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Merzdorf.protect.md|Merzdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Merzdorf.private.md|Merzdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Merzdorf.personal.md|Merzdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Merzdorf.secret.md|Merzdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Merzdorf.internal|Merzdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Merzdorf.protect|Merzdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Merzdorf.private|Merzdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Merzdorf.personal|Merzdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Merzdorf.secret|Merzdorf.secret]] 

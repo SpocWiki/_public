@@ -39,8 +39,8 @@ after WW2 and developed into the Economic Union.
 
 ## Confidential Links & Embeds: 
 - [[_public/geo/Continent/Europe.md|Europe]] 
-- [[_internal/geo/Continent/Europe.internal.md|Europe.internal]] 
-- [[_protect/geo/Continent/Europe.protect.md|Europe.protect]] 
-- [[_private/geo/Continent/Europe.private.md|Europe.private]] 
-- [[_personal/geo/Continent/Europe.personal.md|Europe.personal]] 
-- [[_secret/geo/Continent/Europe.secret.md|Europe.secret]] 
+- [[_internal/geo/Continent/Europe.internal|Europe.internal]] 
+- [[_protect/geo/Continent/Europe.protect|Europe.protect]] 
+- [[_private/geo/Continent/Europe.private|Europe.private]] 
+- [[_personal/geo/Continent/Europe.personal|Europe.personal]] 
+- [[_secret/geo/Continent/Europe.secret|Europe.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Periodic_action-Illumination]
 [SpocWebEntityId::24482]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.md|Triz-moving_Energy+Periodic_action-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.internal.md|Triz-moving_Energy+Periodic_action-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.protect.md|Triz-moving_Energy+Periodic_action-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.private.md|Triz-moving_Energy+Periodic_action-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.personal.md|Triz-moving_Energy+Periodic_action-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.secret.md|Triz-moving_Energy+Periodic_action-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.internal|Triz-moving_Energy+Periodic_action-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.protect|Triz-moving_Energy+Periodic_action-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.private|Triz-moving_Energy+Periodic_action-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.personal|Triz-moving_Energy+Periodic_action-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Periodic_action-Illumination.secret|Triz-moving_Energy+Periodic_action-Illumination.secret]] 

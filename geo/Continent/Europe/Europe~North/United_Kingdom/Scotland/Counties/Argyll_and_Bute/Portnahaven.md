@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Portnahaven.md|Portnahaven]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Portnahaven.internal.md|Portnahaven.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Portnahaven.protect.md|Portnahaven.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Portnahaven.private.md|Portnahaven.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Portnahaven.personal.md|Portnahaven.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Portnahaven.secret.md|Portnahaven.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Portnahaven.internal|Portnahaven.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Portnahaven.protect|Portnahaven.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Portnahaven.private|Portnahaven.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Portnahaven.personal|Portnahaven.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Portnahaven.secret|Portnahaven.secret]] 

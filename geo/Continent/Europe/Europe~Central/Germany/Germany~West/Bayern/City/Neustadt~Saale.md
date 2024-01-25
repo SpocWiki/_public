@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Neustadt~Saale|Neustadt~Saale]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.internal.md|Neustadt~Saale.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.protect.md|Neustadt~Saale.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.private.md|Neustadt~Saale.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.personal.md|Neustadt~Saale.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.secret.md|Neustadt~Saale.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.internal|Neustadt~Saale.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.protect|Neustadt~Saale.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.private|Neustadt~Saale.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.personal|Neustadt~Saale.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Saale.secret|Neustadt~Saale.secret]] 

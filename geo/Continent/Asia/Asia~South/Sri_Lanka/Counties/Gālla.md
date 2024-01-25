@@ -41,9 +41,9 @@ markerFolder: ./Gālla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.md|Gālla]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.internal.md|Gālla.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.protect.md|Gālla.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.private.md|Gālla.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.personal.md|Gālla.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.secret.md|Gālla.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.internal|Gālla.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.protect|Gālla.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.private|Gālla.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.personal|Gālla.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gālla.secret|Gālla.secret]] 
 

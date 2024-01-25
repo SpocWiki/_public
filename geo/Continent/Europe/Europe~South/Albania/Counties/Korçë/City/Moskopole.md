@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Moskopole.md|Moskopole]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Moskopole.internal.md|Moskopole.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Moskopole.protect.md|Moskopole.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Moskopole.private.md|Moskopole.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Moskopole.personal.md|Moskopole.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Moskopole.secret.md|Moskopole.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Moskopole.internal|Moskopole.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Moskopole.protect|Moskopole.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Moskopole.private|Moskopole.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Moskopole.personal|Moskopole.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Moskopole.secret|Moskopole.secret]] 

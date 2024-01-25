@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.md|Hodmezovasarhely]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.internal.md|Hodmezovasarhely.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.protect.md|Hodmezovasarhely.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.private.md|Hodmezovasarhely.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.personal.md|Hodmezovasarhely.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.secret.md|Hodmezovasarhely.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.internal|Hodmezovasarhely.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.protect|Hodmezovasarhely.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.private|Hodmezovasarhely.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.personal|Hodmezovasarhely.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.secret|Hodmezovasarhely.secret]] 

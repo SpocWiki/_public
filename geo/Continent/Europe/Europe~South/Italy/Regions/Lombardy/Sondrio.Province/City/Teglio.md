@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Teglio.md|Teglio]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Teglio.internal.md|Teglio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Teglio.protect.md|Teglio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Teglio.private.md|Teglio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Teglio.personal.md|Teglio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Teglio.secret.md|Teglio.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Teglio.internal|Teglio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Teglio.protect|Teglio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Teglio.private|Teglio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Teglio.personal|Teglio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Teglio.secret|Teglio.secret]] 

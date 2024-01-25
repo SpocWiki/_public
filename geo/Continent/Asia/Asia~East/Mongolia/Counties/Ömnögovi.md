@@ -41,9 +41,9 @@ markerFolder: ./Ömnögovi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.md|Ömnögovi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.internal.md|Ömnögovi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.protect.md|Ömnögovi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.private.md|Ömnögovi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.personal.md|Ömnögovi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.secret.md|Ömnögovi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.internal|Ömnögovi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.protect|Ömnögovi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.private|Ömnögovi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.personal|Ömnögovi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.secret|Ömnögovi.secret]] 
 

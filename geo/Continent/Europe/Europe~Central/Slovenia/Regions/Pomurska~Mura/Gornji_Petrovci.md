@@ -41,9 +41,9 @@ markerFolder: ./Gornji_Petrovci/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.md|Gornji_Petrovci]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.internal.md|Gornji_Petrovci.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.protect.md|Gornji_Petrovci.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.private.md|Gornji_Petrovci.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.personal.md|Gornji_Petrovci.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.secret.md|Gornji_Petrovci.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.internal|Gornji_Petrovci.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.protect|Gornji_Petrovci.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.private|Gornji_Petrovci.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.personal|Gornji_Petrovci.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Gornji_Petrovci.secret|Gornji_Petrovci.secret]] 
 

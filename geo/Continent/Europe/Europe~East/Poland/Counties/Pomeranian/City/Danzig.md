@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Danzig.md|Danzig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Danzig.internal.md|Danzig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Danzig.protect.md|Danzig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Danzig.private.md|Danzig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Danzig.personal.md|Danzig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Danzig.secret.md|Danzig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Danzig.internal|Danzig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Danzig.protect|Danzig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Danzig.private|Danzig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Danzig.personal|Danzig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Danzig.secret|Danzig.secret]] 

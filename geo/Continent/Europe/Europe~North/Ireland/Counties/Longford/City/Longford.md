@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Longford.md|Longford]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Longford.internal.md|Longford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Longford.protect.md|Longford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Longford.private.md|Longford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Longford.personal.md|Longford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Longford.secret.md|Longford.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Longford.internal|Longford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Longford.protect|Longford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Longford.private|Longford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Longford.personal|Longford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Longford.secret|Longford.secret]] 

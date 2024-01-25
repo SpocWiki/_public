@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Lauknen.md|Lauknen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Lauknen.internal.md|Lauknen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Lauknen.protect.md|Lauknen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Lauknen.private.md|Lauknen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Lauknen.personal.md|Lauknen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Lauknen.secret.md|Lauknen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Lauknen.internal|Lauknen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Lauknen.protect|Lauknen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Lauknen.private|Lauknen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Lauknen.personal|Lauknen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Lauknen.secret|Lauknen.secret]] 

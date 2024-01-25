@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Mechanical_vibration-Reliability]
 [SpocWebEntityId::25186]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.md|Triz-Quantity+Mechanical_vibration-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.internal.md|Triz-Quantity+Mechanical_vibration-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.protect.md|Triz-Quantity+Mechanical_vibration-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.private.md|Triz-Quantity+Mechanical_vibration-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.personal.md|Triz-Quantity+Mechanical_vibration-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.secret.md|Triz-Quantity+Mechanical_vibration-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.internal|Triz-Quantity+Mechanical_vibration-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.protect|Triz-Quantity+Mechanical_vibration-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.private|Triz-Quantity+Mechanical_vibration-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.personal|Triz-Quantity+Mechanical_vibration-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.secret|Triz-Quantity+Mechanical_vibration-Reliability.secret]] 

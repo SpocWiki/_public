@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Avignon.md|Avignon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Avignon.internal.md|Avignon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Avignon.protect.md|Avignon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Avignon.private.md|Avignon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Avignon.personal.md|Avignon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Avignon.secret.md|Avignon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Avignon.internal|Avignon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Avignon.protect|Avignon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Avignon.private|Avignon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Avignon.personal|Avignon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Avignon.secret|Avignon.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Equipotentiality-Shape]
 [SpocWebEntityId::24461]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Equipotentiality]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.md|Triz-moving_Energy+Equipotentiality-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.internal.md|Triz-moving_Energy+Equipotentiality-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.protect.md|Triz-moving_Energy+Equipotentiality-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.private.md|Triz-moving_Energy+Equipotentiality-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.personal.md|Triz-moving_Energy+Equipotentiality-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.secret.md|Triz-moving_Energy+Equipotentiality-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.internal|Triz-moving_Energy+Equipotentiality-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.protect|Triz-moving_Energy+Equipotentiality-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.private|Triz-moving_Energy+Equipotentiality-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.personal|Triz-moving_Energy+Equipotentiality-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.secret|Triz-moving_Energy+Equipotentiality-Shape.secret]] 

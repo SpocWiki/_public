@@ -41,9 +41,9 @@ markerFolder: ./Mbarara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mbarara.md|Mbarara]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mbarara.internal.md|Mbarara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mbarara.protect.md|Mbarara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mbarara.private.md|Mbarara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mbarara.personal.md|Mbarara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mbarara.secret.md|Mbarara.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mbarara.internal|Mbarara.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mbarara.protect|Mbarara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mbarara.private|Mbarara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mbarara.personal|Mbarara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mbarara.secret|Mbarara.secret]] 
 

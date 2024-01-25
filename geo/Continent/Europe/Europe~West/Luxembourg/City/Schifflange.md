@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Schifflange.md|Schifflange]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Schifflange.internal.md|Schifflange.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Schifflange.protect.md|Schifflange.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Schifflange.private.md|Schifflange.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Schifflange.personal.md|Schifflange.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Schifflange.secret.md|Schifflange.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Schifflange.internal|Schifflange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Schifflange.protect|Schifflange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Schifflange.private|Schifflange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Schifflange.personal|Schifflange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Schifflange.secret|Schifflange.secret]] 

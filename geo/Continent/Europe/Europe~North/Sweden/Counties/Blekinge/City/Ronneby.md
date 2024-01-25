@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ronneby.md|Ronneby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ronneby.internal.md|Ronneby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ronneby.protect.md|Ronneby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ronneby.private.md|Ronneby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ronneby.personal.md|Ronneby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ronneby.secret.md|Ronneby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ronneby.internal|Ronneby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ronneby.protect|Ronneby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ronneby.private|Ronneby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ronneby.personal|Ronneby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ronneby.secret|Ronneby.secret]] 

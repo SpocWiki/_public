@@ -41,9 +41,9 @@ markerFolder: ./Guangdong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.md|Guangdong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.internal.md|Guangdong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.protect.md|Guangdong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.private.md|Guangdong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.personal.md|Guangdong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.secret.md|Guangdong.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.internal|Guangdong.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.protect|Guangdong.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.private|Guangdong.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.personal|Guangdong.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Guangdong.secret|Guangdong.secret]] 
 

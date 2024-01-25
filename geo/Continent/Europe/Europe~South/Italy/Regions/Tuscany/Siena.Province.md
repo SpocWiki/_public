@@ -41,9 +41,9 @@ markerFolder: ./Siena.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.md|Siena.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.internal.md|Siena.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.protect.md|Siena.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.private.md|Siena.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.personal.md|Siena.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.secret.md|Siena.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.internal|Siena.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.protect|Siena.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.private|Siena.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.personal|Siena.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Tuscany/Siena.Province.secret|Siena.Province.secret]] 
 

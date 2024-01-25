@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Rugby.md|Rugby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rugby.internal.md|Rugby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rugby.protect.md|Rugby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rugby.private.md|Rugby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rugby.personal.md|Rugby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rugby.secret.md|Rugby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rugby.internal|Rugby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rugby.protect|Rugby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rugby.private|Rugby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rugby.personal|Rugby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rugby.secret|Rugby.secret]] 

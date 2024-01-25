@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Hontskari.md|Hontskari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hontskari.internal.md|Hontskari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hontskari.protect.md|Hontskari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hontskari.private.md|Hontskari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hontskari.personal.md|Hontskari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hontskari.secret.md|Hontskari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hontskari.internal|Hontskari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hontskari.protect|Hontskari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hontskari.private|Hontskari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hontskari.personal|Hontskari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hontskari.secret|Hontskari.secret]] 

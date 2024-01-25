@@ -41,9 +41,9 @@ markerFolder: ./Saint_Mary_Cayon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.md|Saint_Mary_Cayon]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.internal.md|Saint_Mary_Cayon.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.protect.md|Saint_Mary_Cayon.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.private.md|Saint_Mary_Cayon.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.personal.md|Saint_Mary_Cayon.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.secret.md|Saint_Mary_Cayon.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.internal|Saint_Mary_Cayon.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.protect|Saint_Mary_Cayon.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.private|Saint_Mary_Cayon.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.personal|Saint_Mary_Cayon.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Mary_Cayon.secret|Saint_Mary_Cayon.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Soederamrm.md|Soederamrm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Soederamrm.internal.md|Soederamrm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Soederamrm.protect.md|Soederamrm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Soederamrm.private.md|Soederamrm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Soederamrm.personal.md|Soederamrm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Soederamrm.secret.md|Soederamrm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Soederamrm.internal|Soederamrm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Soederamrm.protect|Soederamrm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Soederamrm.private|Soederamrm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Soederamrm.personal|Soederamrm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Soederamrm.secret|Soederamrm.secret]] 

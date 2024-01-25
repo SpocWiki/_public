@@ -41,9 +41,9 @@ markerFolder: ./Negeri_Sembilan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.md|Negeri_Sembilan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.internal.md|Negeri_Sembilan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.protect.md|Negeri_Sembilan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.private.md|Negeri_Sembilan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.personal.md|Negeri_Sembilan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.secret.md|Negeri_Sembilan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.internal|Negeri_Sembilan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.protect|Negeri_Sembilan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.private|Negeri_Sembilan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.personal|Negeri_Sembilan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Negeri_Sembilan.secret|Negeri_Sembilan.secret]] 
 

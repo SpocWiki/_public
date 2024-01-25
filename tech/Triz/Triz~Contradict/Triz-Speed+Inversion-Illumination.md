@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Inversion-Illumination]
 [SpocWebEntityId::23408]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.md|Triz-Speed+Inversion-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.internal.md|Triz-Speed+Inversion-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.protect.md|Triz-Speed+Inversion-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.private.md|Triz-Speed+Inversion-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.personal.md|Triz-Speed+Inversion-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.secret.md|Triz-Speed+Inversion-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.internal|Triz-Speed+Inversion-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.protect|Triz-Speed+Inversion-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.private|Triz-Speed+Inversion-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.personal|Triz-Speed+Inversion-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Inversion-Illumination.secret|Triz-Speed+Inversion-Illumination.secret]] 

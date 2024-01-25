@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Reims.md|Reims]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Reims.internal.md|Reims.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Reims.protect.md|Reims.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Reims.private.md|Reims.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Reims.personal.md|Reims.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Reims.secret.md|Reims.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Reims.internal|Reims.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Reims.protect|Reims.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Reims.private|Reims.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Reims.personal|Reims.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Reims.secret|Reims.secret]] 

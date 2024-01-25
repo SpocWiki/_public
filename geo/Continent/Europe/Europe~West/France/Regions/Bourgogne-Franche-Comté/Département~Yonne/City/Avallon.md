@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Avallon.md|Avallon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Avallon.internal.md|Avallon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Avallon.protect.md|Avallon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Avallon.private.md|Avallon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Avallon.personal.md|Avallon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Avallon.secret.md|Avallon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Avallon.internal|Avallon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Avallon.protect|Avallon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Avallon.private|Avallon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Avallon.personal|Avallon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Avallon.secret|Avallon.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Guayas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Guayas.md|Guayas]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Guayas.internal.md|Guayas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Guayas.protect.md|Guayas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Guayas.private.md|Guayas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Guayas.personal.md|Guayas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Guayas.secret.md|Guayas.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Guayas.internal|Guayas.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Guayas.protect|Guayas.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Guayas.private|Guayas.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Guayas.personal|Guayas.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Guayas.secret|Guayas.secret]] 
 

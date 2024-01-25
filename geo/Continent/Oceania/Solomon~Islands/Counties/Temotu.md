@@ -41,9 +41,9 @@ markerFolder: ./Temotu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.md|Temotu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.internal.md|Temotu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.protect.md|Temotu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.private.md|Temotu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.personal.md|Temotu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.secret.md|Temotu.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.internal|Temotu.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.protect|Temotu.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.private|Temotu.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.personal|Temotu.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.secret|Temotu.secret]] 
 

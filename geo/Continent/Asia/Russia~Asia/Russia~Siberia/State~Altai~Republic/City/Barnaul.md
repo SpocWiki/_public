@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Barnaul.md|Barnaul]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Barnaul.internal.md|Barnaul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Barnaul.protect.md|Barnaul.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Barnaul.private.md|Barnaul.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Barnaul.personal.md|Barnaul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Barnaul.secret.md|Barnaul.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Barnaul.internal|Barnaul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Barnaul.protect|Barnaul.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Barnaul.private|Barnaul.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Barnaul.personal|Barnaul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Barnaul.secret|Barnaul.secret]] 

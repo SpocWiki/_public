@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Prior_counteracion-moving_Length]
 [SpocWebEntityId::23487]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Prior_counteracion]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.md|Triz-Intensity+Prior_counteracion-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.internal.md|Triz-Intensity+Prior_counteracion-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.protect.md|Triz-Intensity+Prior_counteracion-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.private.md|Triz-Intensity+Prior_counteracion-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.personal.md|Triz-Intensity+Prior_counteracion-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.secret.md|Triz-Intensity+Prior_counteracion-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.internal|Triz-Intensity+Prior_counteracion-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.protect|Triz-Intensity+Prior_counteracion-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.private|Triz-Intensity+Prior_counteracion-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.personal|Triz-Intensity+Prior_counteracion-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Length.secret|Triz-Intensity+Prior_counteracion-moving_Length.secret]] 

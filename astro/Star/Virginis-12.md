@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Virginis-12.md|Virginis-12]] 
-- [[../../../_internal/astro/Star/Virginis-12.internal.md|Virginis-12.internal]] 
-- [[../../../_protect/astro/Star/Virginis-12.protect.md|Virginis-12.protect]] 
-- [[../../../_private/astro/Star/Virginis-12.private.md|Virginis-12.private]] 
-- [[../../../_personal/astro/Star/Virginis-12.personal.md|Virginis-12.personal]] 
-- [[../../../_secret/astro/Star/Virginis-12.secret.md|Virginis-12.secret]] 
+- [[../../../_internal/astro/Star/Virginis-12.internal|Virginis-12.internal]] 
+- [[../../../_protect/astro/Star/Virginis-12.protect|Virginis-12.protect]] 
+- [[../../../_private/astro/Star/Virginis-12.private|Virginis-12.private]] 
+- [[../../../_personal/astro/Star/Virginis-12.personal|Virginis-12.personal]] 
+- [[../../../_secret/astro/Star/Virginis-12.secret|Virginis-12.secret]] 

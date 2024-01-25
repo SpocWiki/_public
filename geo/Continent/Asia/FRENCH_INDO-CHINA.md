@@ -36,8 +36,8 @@ markerFolder: ./FRENCH_INDO-CHINA/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/FRENCH_INDO-CHINA.md|FRENCH_INDO-CHINA]] 
-- [[../../../../_internal/geo/Continent/Asia/FRENCH_INDO-CHINA.internal.md|FRENCH_INDO-CHINA.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/FRENCH_INDO-CHINA.protect.md|FRENCH_INDO-CHINA.protect]] 
-- [[../../../../_private/geo/Continent/Asia/FRENCH_INDO-CHINA.private.md|FRENCH_INDO-CHINA.private]] 
-- [[../../../../_personal/geo/Continent/Asia/FRENCH_INDO-CHINA.personal.md|FRENCH_INDO-CHINA.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/FRENCH_INDO-CHINA.secret.md|FRENCH_INDO-CHINA.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/FRENCH_INDO-CHINA.internal|FRENCH_INDO-CHINA.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/FRENCH_INDO-CHINA.protect|FRENCH_INDO-CHINA.protect]] 
+- [[../../../../_private/geo/Continent/Asia/FRENCH_INDO-CHINA.private|FRENCH_INDO-CHINA.private]] 
+- [[../../../../_personal/geo/Continent/Asia/FRENCH_INDO-CHINA.personal|FRENCH_INDO-CHINA.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/FRENCH_INDO-CHINA.secret|FRENCH_INDO-CHINA.secret]] 

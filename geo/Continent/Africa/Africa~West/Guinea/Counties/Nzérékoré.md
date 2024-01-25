@@ -41,9 +41,9 @@ markerFolder: ./Nzérékoré/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Nzérékoré.md|Nzérékoré]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Nzérékoré.internal.md|Nzérékoré.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Nzérékoré.protect.md|Nzérékoré.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Nzérékoré.private.md|Nzérékoré.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Nzérékoré.personal.md|Nzérékoré.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Nzérékoré.secret.md|Nzérékoré.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Nzérékoré.internal|Nzérékoré.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Nzérékoré.protect|Nzérékoré.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Nzérékoré.private|Nzérékoré.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Nzérékoré.personal|Nzérékoré.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Nzérékoré.secret|Nzérékoré.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jannowitz.md|Jannowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jannowitz.internal.md|Jannowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jannowitz.protect.md|Jannowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jannowitz.private.md|Jannowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jannowitz.personal.md|Jannowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jannowitz.secret.md|Jannowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jannowitz.internal|Jannowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jannowitz.protect|Jannowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jannowitz.private|Jannowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jannowitz.personal|Jannowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jannowitz.secret|Jannowitz.secret]] 

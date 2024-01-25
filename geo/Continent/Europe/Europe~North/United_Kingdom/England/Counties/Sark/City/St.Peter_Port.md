@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.md|St.Peter_Port]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.internal.md|St.Peter_Port.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.protect.md|St.Peter_Port.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.private.md|St.Peter_Port.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.personal.md|St.Peter_Port.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.secret.md|St.Peter_Port.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.internal|St.Peter_Port.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.protect|St.Peter_Port.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.private|St.Peter_Port.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.personal|St.Peter_Port.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.secret|St.Peter_Port.secret]] 

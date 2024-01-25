@@ -41,9 +41,9 @@ markerFolder: ./Mdina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Mdina.md|Mdina]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mdina.internal.md|Mdina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mdina.protect.md|Mdina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mdina.private.md|Mdina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mdina.personal.md|Mdina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mdina.secret.md|Mdina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mdina.internal|Mdina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mdina.protect|Mdina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mdina.private|Mdina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mdina.personal|Mdina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mdina.secret|Mdina.secret]] 
 

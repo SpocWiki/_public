@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Oyrot.md|Oyrot]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Oyrot.internal.md|Oyrot.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Oyrot.protect.md|Oyrot.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Oyrot.private.md|Oyrot.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Oyrot.personal.md|Oyrot.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Oyrot.secret.md|Oyrot.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Oyrot.internal|Oyrot.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Oyrot.protect|Oyrot.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Oyrot.private|Oyrot.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Oyrot.personal|Oyrot.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Oyrot.secret|Oyrot.secret]] 

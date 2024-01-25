@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Schwaebisch_Hall|Schwaebisch_Hall]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.internal.md|Schwaebisch_Hall.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.protect.md|Schwaebisch_Hall.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.private.md|Schwaebisch_Hall.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.personal.md|Schwaebisch_Hall.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.secret.md|Schwaebisch_Hall.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.internal|Schwaebisch_Hall.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.protect|Schwaebisch_Hall.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.private|Schwaebisch_Hall.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.personal|Schwaebisch_Hall.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.secret|Schwaebisch_Hall.secret]] 

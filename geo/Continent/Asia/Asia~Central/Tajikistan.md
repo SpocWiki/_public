@@ -135,7 +135,7 @@ markerFolder: ./Tajikistan/
 ## Confidential Links & Embeds: 
 -[[Tajikistan|Tajikistan]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Tajikistan.internal|Tajikistan.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Tajikistan.protect.md|Tajikistan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Tajikistan.private.md|Tajikistan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Tajikistan.personal.md|Tajikistan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Tajikistan.secret.md|Tajikistan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Tajikistan.protect|Tajikistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Tajikistan.private|Tajikistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Tajikistan.personal|Tajikistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Tajikistan.secret|Tajikistan.secret]] 

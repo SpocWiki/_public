@@ -41,9 +41,9 @@ markerFolder: ./Paktika/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.md|Paktika]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.internal.md|Paktika.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.protect.md|Paktika.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.private.md|Paktika.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.personal.md|Paktika.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.secret.md|Paktika.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.internal|Paktika.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.protect|Paktika.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.private|Paktika.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.personal|Paktika.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.secret|Paktika.secret]] 
 

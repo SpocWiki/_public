@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Gacrux.md|Gacrux]] 
-- [[../../../_internal/astro/Star/Gacrux.internal.md|Gacrux.internal]] 
-- [[../../../_protect/astro/Star/Gacrux.protect.md|Gacrux.protect]] 
-- [[../../../_private/astro/Star/Gacrux.private.md|Gacrux.private]] 
-- [[../../../_personal/astro/Star/Gacrux.personal.md|Gacrux.personal]] 
-- [[../../../_secret/astro/Star/Gacrux.secret.md|Gacrux.secret]]
+- [[../../../_internal/astro/Star/Gacrux.internal|Gacrux.internal]] 
+- [[../../../_protect/astro/Star/Gacrux.protect|Gacrux.protect]] 
+- [[../../../_private/astro/Star/Gacrux.private|Gacrux.private]] 
+- [[../../../_personal/astro/Star/Gacrux.personal|Gacrux.personal]] 
+- [[../../../_secret/astro/Star/Gacrux.secret|Gacrux.secret]]
 

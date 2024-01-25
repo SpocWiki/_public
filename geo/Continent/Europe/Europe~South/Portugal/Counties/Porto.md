@@ -41,9 +41,9 @@ markerFolder: ./Porto/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Porto.md|Porto]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Porto.internal.md|Porto.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Porto.protect.md|Porto.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Porto.private.md|Porto.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Porto.personal.md|Porto.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Porto.secret.md|Porto.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Porto.internal|Porto.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Porto.protect|Porto.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Porto.private|Porto.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Porto.personal|Porto.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Porto.secret|Porto.secret]] 
 

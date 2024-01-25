@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.md|Teplitz-Schoenau=Teplice]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.internal.md|Teplitz-Schoenau=Teplice.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.protect.md|Teplitz-Schoenau=Teplice.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.private.md|Teplitz-Schoenau=Teplice.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.personal.md|Teplitz-Schoenau=Teplice.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.secret.md|Teplitz-Schoenau=Teplice.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.internal|Teplitz-Schoenau=Teplice.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.protect|Teplitz-Schoenau=Teplice.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.private|Teplitz-Schoenau=Teplice.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.personal|Teplitz-Schoenau=Teplice.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Teplitz-Schoenau=Teplice.secret|Teplitz-Schoenau=Teplice.secret]] 

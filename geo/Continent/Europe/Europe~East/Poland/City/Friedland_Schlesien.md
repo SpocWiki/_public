@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Friedland_Schlesien.md|Friedland_Schlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedland_Schlesien.internal.md|Friedland_Schlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedland_Schlesien.protect.md|Friedland_Schlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Friedland_Schlesien.private.md|Friedland_Schlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedland_Schlesien.personal.md|Friedland_Schlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedland_Schlesien.secret.md|Friedland_Schlesien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedland_Schlesien.internal|Friedland_Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedland_Schlesien.protect|Friedland_Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Friedland_Schlesien.private|Friedland_Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedland_Schlesien.personal|Friedland_Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedland_Schlesien.secret|Friedland_Schlesien.secret]] 

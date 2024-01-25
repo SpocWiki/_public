@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Wolfenbuettel|Wolfenbuettel]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.internal.md|Wolfenbuettel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.protect.md|Wolfenbuettel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.private.md|Wolfenbuettel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.personal.md|Wolfenbuettel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.secret.md|Wolfenbuettel.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.internal|Wolfenbuettel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.protect|Wolfenbuettel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.private|Wolfenbuettel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.personal|Wolfenbuettel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.secret|Wolfenbuettel.secret]] 

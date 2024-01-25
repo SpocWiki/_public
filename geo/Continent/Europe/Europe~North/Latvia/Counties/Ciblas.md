@@ -41,9 +41,9 @@ markerFolder: ./Ciblas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ciblas.md|Ciblas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ciblas.internal.md|Ciblas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ciblas.protect.md|Ciblas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ciblas.private.md|Ciblas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ciblas.personal.md|Ciblas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ciblas.secret.md|Ciblas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ciblas.internal|Ciblas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ciblas.protect|Ciblas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ciblas.private|Ciblas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ciblas.personal|Ciblas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ciblas.secret|Ciblas.secret]] 
 

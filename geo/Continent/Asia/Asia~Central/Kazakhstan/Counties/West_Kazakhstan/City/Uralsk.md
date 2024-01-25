@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Uralsk.md|Uralsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Uralsk.internal.md|Uralsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Uralsk.protect.md|Uralsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Uralsk.private.md|Uralsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Uralsk.personal.md|Uralsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Uralsk.secret.md|Uralsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Uralsk.internal|Uralsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Uralsk.protect|Uralsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Uralsk.private|Uralsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Uralsk.personal|Uralsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Uralsk.secret|Uralsk.secret]] 

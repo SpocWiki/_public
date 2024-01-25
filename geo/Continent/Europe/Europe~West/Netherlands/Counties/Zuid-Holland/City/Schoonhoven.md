@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Schoonhoven.md|Schoonhoven]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Schoonhoven.internal.md|Schoonhoven.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Schoonhoven.protect.md|Schoonhoven.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Schoonhoven.private.md|Schoonhoven.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Schoonhoven.personal.md|Schoonhoven.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Schoonhoven.secret.md|Schoonhoven.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Schoonhoven.internal|Schoonhoven.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Schoonhoven.protect|Schoonhoven.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Schoonhoven.private|Schoonhoven.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Schoonhoven.personal|Schoonhoven.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Schoonhoven.secret|Schoonhoven.secret]] 

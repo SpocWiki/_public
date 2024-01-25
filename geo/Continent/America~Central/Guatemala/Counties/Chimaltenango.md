@@ -41,9 +41,9 @@ markerFolder: ./Chimaltenango/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.md|Chimaltenango]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.internal.md|Chimaltenango.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.protect.md|Chimaltenango.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.private.md|Chimaltenango.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.personal.md|Chimaltenango.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.secret.md|Chimaltenango.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.internal|Chimaltenango.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.protect|Chimaltenango.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.private|Chimaltenango.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.personal|Chimaltenango.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Chimaltenango.secret|Chimaltenango.secret]] 
 

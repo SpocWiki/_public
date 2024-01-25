@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Perm_Krai|State~Perm_Krai]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Perm_Krai.internal|State~Perm_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Perm_Krai.protect.md|State~Perm_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Perm_Krai.private.md|State~Perm_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Perm_Krai.personal.md|State~Perm_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Perm_Krai.secret.md|State~Perm_Krai.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Perm_Krai.protect|State~Perm_Krai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Perm_Krai.private|State~Perm_Krai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Perm_Krai.personal|State~Perm_Krai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Perm_Krai.secret|State~Perm_Krai.secret]] 

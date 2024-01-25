@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Hogland.md|Hogland]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hogland.internal.md|Hogland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hogland.protect.md|Hogland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hogland.private.md|Hogland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hogland.personal.md|Hogland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hogland.secret.md|Hogland.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hogland.internal|Hogland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hogland.protect|Hogland.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hogland.private|Hogland.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hogland.personal|Hogland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hogland.secret|Hogland.secret]] 

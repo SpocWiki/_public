@@ -41,9 +41,9 @@ markerFolder: ./Ngozi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Ngozi.md|Ngozi]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Ngozi.internal.md|Ngozi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Ngozi.protect.md|Ngozi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Ngozi.private.md|Ngozi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Ngozi.personal.md|Ngozi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Ngozi.secret.md|Ngozi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Ngozi.internal|Ngozi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Ngozi.protect|Ngozi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Ngozi.private|Ngozi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Ngozi.personal|Ngozi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Ngozi.secret|Ngozi.secret]] 
 

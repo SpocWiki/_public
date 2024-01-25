@@ -41,9 +41,9 @@ markerFolder: ./Mendoza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Mendoza.md|Mendoza]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Mendoza.internal.md|Mendoza.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Mendoza.protect.md|Mendoza.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Mendoza.private.md|Mendoza.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Mendoza.personal.md|Mendoza.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Mendoza.secret.md|Mendoza.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Mendoza.internal|Mendoza.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Mendoza.protect|Mendoza.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Mendoza.private|Mendoza.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Mendoza.personal|Mendoza.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Mendoza.secret|Mendoza.secret]] 
 

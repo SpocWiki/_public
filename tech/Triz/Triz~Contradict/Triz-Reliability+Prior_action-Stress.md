@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Prior_action-Stress]
 [SpocWebEntityId::25271]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.md|Triz-Reliability+Prior_action-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.internal.md|Triz-Reliability+Prior_action-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.protect.md|Triz-Reliability+Prior_action-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.private.md|Triz-Reliability+Prior_action-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.personal.md|Triz-Reliability+Prior_action-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.secret.md|Triz-Reliability+Prior_action-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.internal|Triz-Reliability+Prior_action-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.protect|Triz-Reliability+Prior_action-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.private|Triz-Reliability+Prior_action-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.personal|Triz-Reliability+Prior_action-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.secret|Triz-Reliability+Prior_action-Stress.secret]] 

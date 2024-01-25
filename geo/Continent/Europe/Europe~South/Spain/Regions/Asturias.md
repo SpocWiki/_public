@@ -41,9 +41,9 @@ markerFolder: ./Asturias/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Asturias.md|Asturias]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Asturias.internal.md|Asturias.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Asturias.protect.md|Asturias.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Asturias.private.md|Asturias.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Asturias.personal.md|Asturias.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Asturias.secret.md|Asturias.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Asturias.internal|Asturias.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Asturias.protect|Asturias.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Asturias.private|Asturias.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Asturias.personal|Asturias.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Asturias.secret|Asturias.secret]] 
 

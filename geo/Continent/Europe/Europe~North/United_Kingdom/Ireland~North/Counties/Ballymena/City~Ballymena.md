@@ -34,7 +34,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 - [[City~Ballymena|City~Ballymena]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.internal|Ballymena.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.protect.md|Ballymena.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.private.md|Ballymena.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.personal.md|Ballymena.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.secret.md|Ballymena.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.protect|Ballymena.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.private|Ballymena.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.personal|Ballymena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.secret|Ballymena.secret]] 

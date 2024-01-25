@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Extraction-Ease_of_operation]
 [SpocWebEntityId::24046]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.md|Triz-Strength+Extraction-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.internal.md|Triz-Strength+Extraction-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.protect.md|Triz-Strength+Extraction-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.private.md|Triz-Strength+Extraction-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.personal.md|Triz-Strength+Extraction-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.secret.md|Triz-Strength+Extraction-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.internal|Triz-Strength+Extraction-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.protect|Triz-Strength+Extraction-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.private|Triz-Strength+Extraction-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.personal|Triz-Strength+Extraction-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Extraction-Ease_of_operation.secret|Triz-Strength+Extraction-Ease_of_operation.secret]] 

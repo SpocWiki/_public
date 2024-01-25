@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Newfoundland|State~Newfoundland]]] 
 - [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~Newfoundland.internal|State~Newfoundland.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Newfoundland.protect.md|State~Newfoundland.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Newfoundland.private.md|State~Newfoundland.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Newfoundland.personal.md|State~Newfoundland.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Newfoundland.secret.md|State~Newfoundland.secret]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Newfoundland.protect|State~Newfoundland.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Newfoundland.private|State~Newfoundland.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Newfoundland.personal|State~Newfoundland.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Newfoundland.secret|State~Newfoundland.secret]] 

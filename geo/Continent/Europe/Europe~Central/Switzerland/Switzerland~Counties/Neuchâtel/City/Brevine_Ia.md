@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Brevine_Ia.md|Brevine_Ia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Brevine_Ia.internal.md|Brevine_Ia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Brevine_Ia.protect.md|Brevine_Ia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Brevine_Ia.private.md|Brevine_Ia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Brevine_Ia.personal.md|Brevine_Ia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Brevine_Ia.secret.md|Brevine_Ia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Brevine_Ia.internal|Brevine_Ia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Brevine_Ia.protect|Brevine_Ia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Brevine_Ia.private|Brevine_Ia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Brevine_Ia.personal|Brevine_Ia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Brevine_Ia.secret|Brevine_Ia.secret]] 

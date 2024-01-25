@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Falaise.md|Falaise]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Falaise.internal.md|Falaise.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Falaise.protect.md|Falaise.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Falaise.private.md|Falaise.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Falaise.personal.md|Falaise.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Falaise.secret.md|Falaise.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Falaise.internal|Falaise.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Falaise.protect|Falaise.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Falaise.private|Falaise.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Falaise.personal|Falaise.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Falaise.secret|Falaise.secret]] 

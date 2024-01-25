@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wells.md|Wells]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wells.internal.md|Wells.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wells.protect.md|Wells.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wells.private.md|Wells.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wells.personal.md|Wells.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wells.secret.md|Wells.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wells.internal|Wells.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wells.protect|Wells.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wells.private|Wells.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wells.personal|Wells.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wells.secret|Wells.secret]] 

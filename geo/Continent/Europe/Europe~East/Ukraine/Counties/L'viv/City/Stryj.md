@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Stryj.md|Stryj]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stryj.internal.md|Stryj.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stryj.protect.md|Stryj.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stryj.private.md|Stryj.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stryj.personal.md|Stryj.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stryj.secret.md|Stryj.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stryj.internal|Stryj.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stryj.protect|Stryj.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stryj.private|Stryj.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stryj.personal|Stryj.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stryj.secret|Stryj.secret]] 

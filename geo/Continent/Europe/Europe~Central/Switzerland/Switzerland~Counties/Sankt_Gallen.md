@@ -41,9 +41,9 @@ markerFolder: ./Sankt_Gallen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.md|Sankt_Gallen]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.internal.md|Sankt_Gallen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.protect.md|Sankt_Gallen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.private.md|Sankt_Gallen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.personal.md|Sankt_Gallen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.secret.md|Sankt_Gallen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.internal|Sankt_Gallen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.protect|Sankt_Gallen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.private|Sankt_Gallen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.personal|Sankt_Gallen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.secret|Sankt_Gallen.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Klosterneuburg.md|Klosterneuburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Klosterneuburg.internal.md|Klosterneuburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Klosterneuburg.protect.md|Klosterneuburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Klosterneuburg.private.md|Klosterneuburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Klosterneuburg.personal.md|Klosterneuburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Klosterneuburg.secret.md|Klosterneuburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Klosterneuburg.internal|Klosterneuburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Klosterneuburg.protect|Klosterneuburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Klosterneuburg.private|Klosterneuburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Klosterneuburg.personal|Klosterneuburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Klosterneuburg.secret|Klosterneuburg.secret]] 

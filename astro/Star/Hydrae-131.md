@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Hydrae-131.md|Hydrae-131]] 
-- [[../../../_internal/astro/Star/Hydrae-131.internal.md|Hydrae-131.internal]] 
-- [[../../../_protect/astro/Star/Hydrae-131.protect.md|Hydrae-131.protect]] 
-- [[../../../_private/astro/Star/Hydrae-131.private.md|Hydrae-131.private]] 
-- [[../../../_personal/astro/Star/Hydrae-131.personal.md|Hydrae-131.personal]] 
-- [[../../../_secret/astro/Star/Hydrae-131.secret.md|Hydrae-131.secret]]
+- [[../../../_internal/astro/Star/Hydrae-131.internal|Hydrae-131.internal]] 
+- [[../../../_protect/astro/Star/Hydrae-131.protect|Hydrae-131.protect]] 
+- [[../../../_private/astro/Star/Hydrae-131.private|Hydrae-131.private]] 
+- [[../../../_personal/astro/Star/Hydrae-131.personal|Hydrae-131.personal]] 
+- [[../../../_secret/astro/Star/Hydrae-131.secret|Hydrae-131.secret]]
 

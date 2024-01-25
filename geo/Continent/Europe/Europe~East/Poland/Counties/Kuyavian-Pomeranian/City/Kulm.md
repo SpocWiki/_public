@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kulm.md|Kulm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kulm.internal.md|Kulm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kulm.protect.md|Kulm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kulm.private.md|Kulm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kulm.personal.md|Kulm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kulm.secret.md|Kulm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kulm.internal|Kulm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kulm.protect|Kulm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kulm.private|Kulm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kulm.personal|Kulm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kulm.secret|Kulm.secret]] 

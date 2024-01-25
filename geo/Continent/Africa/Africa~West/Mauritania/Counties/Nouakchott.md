@@ -41,9 +41,9 @@ markerFolder: ./Nouakchott/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Nouakchott.md|Nouakchott]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Nouakchott.internal.md|Nouakchott.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Nouakchott.protect.md|Nouakchott.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Nouakchott.private.md|Nouakchott.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Nouakchott.personal.md|Nouakchott.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Nouakchott.secret.md|Nouakchott.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Nouakchott.internal|Nouakchott.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Nouakchott.protect|Nouakchott.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Nouakchott.private|Nouakchott.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Nouakchott.personal|Nouakchott.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Nouakchott.secret|Nouakchott.secret]] 
 

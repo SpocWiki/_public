@@ -41,9 +41,9 @@ markerFolder: ./Champasak/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.md|Champasak]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.internal.md|Champasak.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.protect.md|Champasak.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.private.md|Champasak.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.personal.md|Champasak.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.secret.md|Champasak.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.internal|Champasak.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.protect|Champasak.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.private|Champasak.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.personal|Champasak.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.secret|Champasak.secret]] 
 

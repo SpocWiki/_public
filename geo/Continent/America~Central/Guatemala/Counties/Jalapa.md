@@ -41,9 +41,9 @@ markerFolder: ./Jalapa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Jalapa.md|Jalapa]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Jalapa.internal.md|Jalapa.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Jalapa.protect.md|Jalapa.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Jalapa.private.md|Jalapa.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Jalapa.personal.md|Jalapa.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Jalapa.secret.md|Jalapa.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Jalapa.internal|Jalapa.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Jalapa.protect|Jalapa.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Jalapa.private|Jalapa.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Jalapa.personal|Jalapa.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Jalapa.secret|Jalapa.secret]] 
 

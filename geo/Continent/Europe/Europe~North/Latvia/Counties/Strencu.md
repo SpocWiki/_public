@@ -41,9 +41,9 @@ markerFolder: ./Strencu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Strencu.md|Strencu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Strencu.internal.md|Strencu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Strencu.protect.md|Strencu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Strencu.private.md|Strencu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Strencu.personal.md|Strencu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Strencu.secret.md|Strencu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Strencu.internal|Strencu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Strencu.protect|Strencu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Strencu.private|Strencu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Strencu.personal|Strencu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Strencu.secret|Strencu.secret]] 
 

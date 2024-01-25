@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Heinola.md|Heinola]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Heinola.internal.md|Heinola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Heinola.protect.md|Heinola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Heinola.private.md|Heinola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Heinola.personal.md|Heinola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Heinola.secret.md|Heinola.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Heinola.internal|Heinola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Heinola.protect|Heinola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Heinola.private|Heinola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Heinola.personal|Heinola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Heinola.secret|Heinola.secret]] 

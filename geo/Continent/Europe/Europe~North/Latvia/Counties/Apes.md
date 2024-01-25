@@ -41,9 +41,9 @@ markerFolder: ./Apes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Apes.md|Apes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Apes.internal.md|Apes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Apes.protect.md|Apes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Apes.private.md|Apes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Apes.personal.md|Apes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Apes.secret.md|Apes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Apes.internal|Apes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Apes.protect|Apes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Apes.private|Apes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Apes.personal|Apes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Apes.secret|Apes.secret]] 
 

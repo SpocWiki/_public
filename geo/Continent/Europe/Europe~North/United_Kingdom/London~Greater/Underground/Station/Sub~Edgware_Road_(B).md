@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).md|Sub~Edgware_Road_(B)]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).internal.md|Sub~Edgware_Road_(B).internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).protect.md|Sub~Edgware_Road_(B).protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).private.md|Sub~Edgware_Road_(B).private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).personal.md|Sub~Edgware_Road_(B).personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).secret.md|Sub~Edgware_Road_(B).secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).internal|Sub~Edgware_Road_(B).internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).protect|Sub~Edgware_Road_(B).protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).private|Sub~Edgware_Road_(B).private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).personal|Sub~Edgware_Road_(B).personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Edgware_Road_(B).secret|Sub~Edgware_Road_(B).secret]] 

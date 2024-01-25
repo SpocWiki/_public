@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wieps.md|Wieps]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wieps.internal.md|Wieps.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wieps.protect.md|Wieps.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wieps.private.md|Wieps.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wieps.personal.md|Wieps.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wieps.secret.md|Wieps.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wieps.internal|Wieps.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wieps.protect|Wieps.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wieps.private|Wieps.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wieps.personal|Wieps.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wieps.secret|Wieps.secret]] 

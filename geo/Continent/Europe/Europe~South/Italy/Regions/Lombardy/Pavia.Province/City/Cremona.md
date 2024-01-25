@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cremona.md|Cremona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cremona.internal.md|Cremona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cremona.protect.md|Cremona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cremona.private.md|Cremona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cremona.personal.md|Cremona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cremona.secret.md|Cremona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cremona.internal|Cremona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cremona.protect|Cremona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cremona.private|Cremona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cremona.personal|Cremona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cremona.secret|Cremona.secret]] 

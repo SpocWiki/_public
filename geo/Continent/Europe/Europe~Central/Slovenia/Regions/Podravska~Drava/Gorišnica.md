@@ -41,9 +41,9 @@ markerFolder: ./Gorišnica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.md|Gorišnica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.internal.md|Gorišnica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.protect.md|Gorišnica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.private.md|Gorišnica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.personal.md|Gorišnica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.secret.md|Gorišnica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.internal|Gorišnica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.protect|Gorišnica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.private|Gorišnica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.personal|Gorišnica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Gorišnica.secret|Gorišnica.secret]] 
 

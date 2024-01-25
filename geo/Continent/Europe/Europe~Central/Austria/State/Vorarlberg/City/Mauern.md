@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.22]
 [name::Mauern]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Mauern.md|Mauern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Mauern.internal.md|Mauern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Mauern.protect.md|Mauern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Mauern.private.md|Mauern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Mauern.personal.md|Mauern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Mauern.secret.md|Mauern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Mauern.internal|Mauern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Mauern.protect|Mauern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Mauern.private|Mauern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Mauern.personal|Mauern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Mauern.secret|Mauern.secret]] 

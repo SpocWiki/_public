@@ -41,9 +41,9 @@ markerFolder: ./Guantánamo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.md|Guantánamo]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.internal.md|Guantánamo.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.protect.md|Guantánamo.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.private.md|Guantánamo.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.personal.md|Guantánamo.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.secret.md|Guantánamo.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.internal|Guantánamo.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.protect|Guantánamo.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.private|Guantánamo.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.personal|Guantánamo.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Guantánamo.secret|Guantánamo.secret]] 
 

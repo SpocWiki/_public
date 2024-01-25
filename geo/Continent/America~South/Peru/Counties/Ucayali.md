@@ -41,9 +41,9 @@ markerFolder: ./Ucayali/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Ucayali.md|Ucayali]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Ucayali.internal.md|Ucayali.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Ucayali.protect.md|Ucayali.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Ucayali.private.md|Ucayali.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Ucayali.personal.md|Ucayali.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Ucayali.secret.md|Ucayali.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Ucayali.internal|Ucayali.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Ucayali.protect|Ucayali.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Ucayali.private|Ucayali.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Ucayali.personal|Ucayali.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Ucayali.secret|Ucayali.secret]] 
 

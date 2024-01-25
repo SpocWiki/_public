@@ -41,9 +41,9 @@ markerFolder: ./Analanjirofo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.md|Analanjirofo]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.internal.md|Analanjirofo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.protect.md|Analanjirofo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.private.md|Analanjirofo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.personal.md|Analanjirofo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.secret.md|Analanjirofo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.internal|Analanjirofo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.protect|Analanjirofo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.private|Analanjirofo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.personal|Analanjirofo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.secret|Analanjirofo.secret]] 
 

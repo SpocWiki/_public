@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Vallenhove.md|Vallenhove]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vallenhove.internal.md|Vallenhove.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vallenhove.protect.md|Vallenhove.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vallenhove.private.md|Vallenhove.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vallenhove.personal.md|Vallenhove.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vallenhove.secret.md|Vallenhove.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vallenhove.internal|Vallenhove.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vallenhove.protect|Vallenhove.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vallenhove.private|Vallenhove.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vallenhove.personal|Vallenhove.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vallenhove.secret|Vallenhove.secret]] 

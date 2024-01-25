@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wormditt.md|Wormditt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wormditt.internal.md|Wormditt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wormditt.protect.md|Wormditt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wormditt.private.md|Wormditt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wormditt.personal.md|Wormditt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wormditt.secret.md|Wormditt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wormditt.internal|Wormditt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wormditt.protect|Wormditt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wormditt.private|Wormditt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wormditt.personal|Wormditt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wormditt.secret|Wormditt.secret]] 

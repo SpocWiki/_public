@@ -141,7 +141,7 @@ markerFolder: ./Laos/
 ## Confidential Links & Embeds: 
 -[[Laos|Laos]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Laos.internal|Laos.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Laos.protect.md|Laos.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Laos.private.md|Laos.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Laos.personal.md|Laos.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Laos.secret.md|Laos.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Laos.protect|Laos.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Laos.private|Laos.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Laos.personal|Laos.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Laos.secret|Laos.secret]] 

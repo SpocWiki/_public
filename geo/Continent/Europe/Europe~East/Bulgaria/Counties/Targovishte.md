@@ -41,9 +41,9 @@ markerFolder: ./Targovishte/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Targovishte.md|Targovishte]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Targovishte.internal.md|Targovishte.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Targovishte.protect.md|Targovishte.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Targovishte.private.md|Targovishte.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Targovishte.personal.md|Targovishte.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Targovishte.secret.md|Targovishte.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Targovishte.internal|Targovishte.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Targovishte.protect|Targovishte.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Targovishte.private|Targovishte.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Targovishte.personal|Targovishte.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Targovishte.secret|Targovishte.secret]] 
 

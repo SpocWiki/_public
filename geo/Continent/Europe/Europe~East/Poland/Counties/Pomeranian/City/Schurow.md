@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schurow.md|Schurow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schurow.internal.md|Schurow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schurow.protect.md|Schurow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schurow.private.md|Schurow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schurow.personal.md|Schurow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schurow.secret.md|Schurow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schurow.internal|Schurow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schurow.protect|Schurow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schurow.private|Schurow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schurow.personal|Schurow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schurow.secret|Schurow.secret]] 

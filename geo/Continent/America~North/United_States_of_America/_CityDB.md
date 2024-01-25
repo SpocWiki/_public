@@ -336,8 +336,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[_CityDB|_CityDB]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/_CityDB.internal.md|_CityDB.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/_CityDB.protect.md|_CityDB.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/_CityDB.private.md|_CityDB.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/_CityDB.personal.md|_CityDB.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/_CityDB.secret.md|_CityDB.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/_CityDB.internal|_CityDB.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/_CityDB.protect|_CityDB.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/_CityDB.private|_CityDB.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/_CityDB.personal|_CityDB.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/_CityDB.secret|_CityDB.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Talsi.md|Talsi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Talsi.internal.md|Talsi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Talsi.protect.md|Talsi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Talsi.private.md|Talsi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Talsi.personal.md|Talsi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Talsi.secret.md|Talsi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Talsi.internal|Talsi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Talsi.protect|Talsi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Talsi.private|Talsi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Talsi.personal|Talsi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Talsi.secret|Talsi.secret]] 

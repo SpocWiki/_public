@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[U-Bonames_Mitte|U-Bonames_Mitte]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.internal.md|U-Bonames_Mitte.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.protect.md|U-Bonames_Mitte.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.private.md|U-Bonames_Mitte.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.personal.md|U-Bonames_Mitte.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.secret.md|U-Bonames_Mitte.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.internal|U-Bonames_Mitte.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.protect|U-Bonames_Mitte.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.private|U-Bonames_Mitte.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.personal|U-Bonames_Mitte.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bonames_Mitte.secret|U-Bonames_Mitte.secret]] 

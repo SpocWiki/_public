@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Yvetot.md|Yvetot]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Yvetot.internal.md|Yvetot.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Yvetot.protect.md|Yvetot.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Yvetot.private.md|Yvetot.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Yvetot.personal.md|Yvetot.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Yvetot.secret.md|Yvetot.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Yvetot.internal|Yvetot.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Yvetot.protect|Yvetot.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Yvetot.private|Yvetot.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Yvetot.personal|Yvetot.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Yvetot.secret|Yvetot.secret]] 

@@ -131,8 +131,8 @@ markerFolder: ./Marshall_Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Marshall~Islands.md|Marshall~Islands]] 
-- [[../../../../_internal/geo/Continent/Oceania/Marshall~Islands.internal.md|Marshall~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Marshall~Islands.protect.md|Marshall~Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Marshall~Islands.private.md|Marshall~Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Marshall~Islands.personal.md|Marshall~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Marshall~Islands.secret.md|Marshall~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Marshall~Islands.internal|Marshall~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Marshall~Islands.protect|Marshall~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Marshall~Islands.private|Marshall~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Marshall~Islands.personal|Marshall~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Marshall~Islands.secret|Marshall~Islands.secret]] 

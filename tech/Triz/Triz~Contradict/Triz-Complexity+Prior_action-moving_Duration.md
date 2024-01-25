@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Prior_action-moving_Duration]
 [SpocWebEntityId::26333]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.md|Triz-Complexity+Prior_action-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.internal.md|Triz-Complexity+Prior_action-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.protect.md|Triz-Complexity+Prior_action-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.private.md|Triz-Complexity+Prior_action-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.personal.md|Triz-Complexity+Prior_action-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.secret.md|Triz-Complexity+Prior_action-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.internal|Triz-Complexity+Prior_action-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.protect|Triz-Complexity+Prior_action-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.private|Triz-Complexity+Prior_action-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.personal|Triz-Complexity+Prior_action-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Prior_action-moving_Duration.secret|Triz-Complexity+Prior_action-moving_Duration.secret]] 

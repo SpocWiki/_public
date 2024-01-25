@@ -41,9 +41,9 @@ markerFolder: ./Göyçay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.md|Göyçay]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.internal.md|Göyçay.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.protect.md|Göyçay.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.private.md|Göyçay.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.personal.md|Göyçay.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.secret.md|Göyçay.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.internal|Göyçay.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.protect|Göyçay.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.private|Göyçay.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.personal|Göyçay.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Göyçay.secret|Göyçay.secret]] 
 

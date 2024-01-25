@@ -45,9 +45,9 @@ markerFolder: ./Hillingdon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.md|Hillingdon]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.internal.md|Hillingdon.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.protect.md|Hillingdon.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.private.md|Hillingdon.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.personal.md|Hillingdon.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.secret.md|Hillingdon.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.internal|Hillingdon.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.protect|Hillingdon.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.private|Hillingdon.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.personal|Hillingdon.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hillingdon.secret|Hillingdon.secret]] 
 

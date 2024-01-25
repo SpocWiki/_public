@@ -41,9 +41,9 @@ markerFolder: ./Ayrshire~South/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.md|Ayrshire~South]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.internal.md|Ayrshire~South.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.protect.md|Ayrshire~South.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.private.md|Ayrshire~South.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.personal.md|Ayrshire~South.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.secret.md|Ayrshire~South.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.internal|Ayrshire~South.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.protect|Ayrshire~South.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.private|Ayrshire~South.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.personal|Ayrshire~South.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayrshire~South.secret|Ayrshire~South.secret]] 
 

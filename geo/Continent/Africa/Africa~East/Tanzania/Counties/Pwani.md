@@ -41,9 +41,9 @@ markerFolder: ./Pwani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Pwani.md|Pwani]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Pwani.internal.md|Pwani.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Pwani.protect.md|Pwani.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Pwani.private.md|Pwani.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Pwani.personal.md|Pwani.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Pwani.secret.md|Pwani.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Pwani.internal|Pwani.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Pwani.protect|Pwani.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Pwani.private|Pwani.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Pwani.personal|Pwani.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Pwani.secret|Pwani.secret]] 
 

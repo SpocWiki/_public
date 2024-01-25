@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Nekkar.md|Nekkar]] 
-- [[../../../_internal/astro/Star/Nekkar.internal.md|Nekkar.internal]] 
-- [[../../../_protect/astro/Star/Nekkar.protect.md|Nekkar.protect]] 
-- [[../../../_private/astro/Star/Nekkar.private.md|Nekkar.private]] 
-- [[../../../_personal/astro/Star/Nekkar.personal.md|Nekkar.personal]] 
-- [[../../../_secret/astro/Star/Nekkar.secret.md|Nekkar.secret]] 
+- [[../../../_internal/astro/Star/Nekkar.internal|Nekkar.internal]] 
+- [[../../../_protect/astro/Star/Nekkar.protect|Nekkar.protect]] 
+- [[../../../_private/astro/Star/Nekkar.private|Nekkar.private]] 
+- [[../../../_personal/astro/Star/Nekkar.personal|Nekkar.personal]] 
+- [[../../../_secret/astro/Star/Nekkar.secret|Nekkar.secret]] 

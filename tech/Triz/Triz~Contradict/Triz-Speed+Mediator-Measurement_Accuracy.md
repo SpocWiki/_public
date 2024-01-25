@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Mediator-Measurement_Accuracy]
 [SpocWebEntityId::23439]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.md|Triz-Speed+Mediator-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.internal.md|Triz-Speed+Mediator-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.protect.md|Triz-Speed+Mediator-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.private.md|Triz-Speed+Mediator-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.personal.md|Triz-Speed+Mediator-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.secret.md|Triz-Speed+Mediator-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.internal|Triz-Speed+Mediator-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.protect|Triz-Speed+Mediator-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.private|Triz-Speed+Mediator-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.personal|Triz-Speed+Mediator-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mediator-Measurement_Accuracy.secret|Triz-Speed+Mediator-Measurement_Accuracy.secret]] 

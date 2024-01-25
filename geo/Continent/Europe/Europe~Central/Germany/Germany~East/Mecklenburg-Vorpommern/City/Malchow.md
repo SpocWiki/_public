@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.md|Malchow]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.internal.md|Malchow.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.protect.md|Malchow.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.private.md|Malchow.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.personal.md|Malchow.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.secret.md|Malchow.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.internal|Malchow.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.protect|Malchow.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.private|Malchow.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.personal|Malchow.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Malchow.secret|Malchow.secret]] 

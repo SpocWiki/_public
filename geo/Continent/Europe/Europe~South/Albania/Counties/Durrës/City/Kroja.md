@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Kroja.md|Kroja]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Kroja.internal.md|Kroja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Kroja.protect.md|Kroja.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Kroja.private.md|Kroja.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Kroja.personal.md|Kroja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Kroja.secret.md|Kroja.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Kroja.internal|Kroja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Kroja.protect|Kroja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Kroja.private|Kroja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Kroja.personal|Kroja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Kroja.secret|Kroja.secret]] 

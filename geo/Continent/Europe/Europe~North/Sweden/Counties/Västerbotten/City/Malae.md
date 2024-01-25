@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Malae.md|Malae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Malae.internal.md|Malae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Malae.protect.md|Malae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Malae.private.md|Malae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Malae.personal.md|Malae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Malae.secret.md|Malae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Malae.internal|Malae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Malae.protect|Malae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Malae.private|Malae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Malae.personal|Malae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Malae.secret|Malae.secret]] 

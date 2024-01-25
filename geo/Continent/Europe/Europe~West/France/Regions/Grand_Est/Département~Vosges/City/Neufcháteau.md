@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Neufcháteau.md|Neufcháteau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Neufcháteau.internal.md|Neufcháteau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Neufcháteau.protect.md|Neufcháteau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Neufcháteau.private.md|Neufcháteau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Neufcháteau.personal.md|Neufcháteau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Neufcháteau.secret.md|Neufcháteau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Neufcháteau.internal|Neufcháteau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Neufcháteau.protect|Neufcháteau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Neufcháteau.private|Neufcháteau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Neufcháteau.personal|Neufcháteau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Neufcháteau.secret|Neufcháteau.secret]] 

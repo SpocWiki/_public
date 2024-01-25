@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Pons.md|St.Pons]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Pons.internal.md|St.Pons.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Pons.protect.md|St.Pons.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Pons.private.md|St.Pons.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Pons.personal.md|St.Pons.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Pons.secret.md|St.Pons.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Pons.internal|St.Pons.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Pons.protect|St.Pons.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Pons.private|St.Pons.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Pons.personal|St.Pons.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Pons.secret|St.Pons.secret]] 

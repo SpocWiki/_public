@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Buetow.md|Buetow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Buetow.internal.md|Buetow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Buetow.protect.md|Buetow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Buetow.private.md|Buetow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Buetow.personal.md|Buetow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Buetow.secret.md|Buetow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Buetow.internal|Buetow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Buetow.protect|Buetow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Buetow.private|Buetow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Buetow.personal|Buetow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Buetow.secret|Buetow.secret]] 

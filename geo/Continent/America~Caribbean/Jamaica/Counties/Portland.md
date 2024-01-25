@@ -41,9 +41,9 @@ markerFolder: ./Portland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.md|Portland]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.internal.md|Portland.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.protect.md|Portland.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.private.md|Portland.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.personal.md|Portland.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.secret.md|Portland.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.internal|Portland.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.protect|Portland.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.private|Portland.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.personal|Portland.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.secret|Portland.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Urk.md|Urk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Urk.internal.md|Urk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Urk.protect.md|Urk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Urk.private.md|Urk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Urk.personal.md|Urk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Urk.secret.md|Urk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Urk.internal|Urk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Urk.protect|Urk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Urk.private|Urk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Urk.personal|Urk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Urk.secret|Urk.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Phase_transition-Intensity]
 [SpocWebEntityId::23633]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.md|Triz-Stress+Phase_transition-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.internal.md|Triz-Stress+Phase_transition-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.protect.md|Triz-Stress+Phase_transition-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.private.md|Triz-Stress+Phase_transition-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.personal.md|Triz-Stress+Phase_transition-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.secret.md|Triz-Stress+Phase_transition-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.internal|Triz-Stress+Phase_transition-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.protect|Triz-Stress+Phase_transition-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.private|Triz-Stress+Phase_transition-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.personal|Triz-Stress+Phase_transition-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Phase_transition-Intensity.secret|Triz-Stress+Phase_transition-Intensity.secret]] 

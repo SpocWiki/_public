@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Bodo.md|Bodo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Bodo.internal.md|Bodo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Bodo.protect.md|Bodo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Bodo.private.md|Bodo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Bodo.personal.md|Bodo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Bodo.secret.md|Bodo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Bodo.internal|Bodo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Bodo.protect|Bodo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Bodo.private|Bodo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Bodo.personal|Bodo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Bodo.secret|Bodo.secret]] 

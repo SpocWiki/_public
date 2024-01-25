@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Castelnaudary.md|Castelnaudary]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Castelnaudary.internal.md|Castelnaudary.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Castelnaudary.protect.md|Castelnaudary.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Castelnaudary.private.md|Castelnaudary.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Castelnaudary.personal.md|Castelnaudary.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Castelnaudary.secret.md|Castelnaudary.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Castelnaudary.internal|Castelnaudary.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Castelnaudary.protect|Castelnaudary.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Castelnaudary.private|Castelnaudary.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Castelnaudary.personal|Castelnaudary.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Castelnaudary.secret|Castelnaudary.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Magherafelt/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.md|Magherafelt]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.internal.md|Magherafelt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.protect.md|Magherafelt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.private.md|Magherafelt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.personal.md|Magherafelt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.secret.md|Magherafelt.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.internal|Magherafelt.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.protect|Magherafelt.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.private|Magherafelt.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.personal|Magherafelt.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Magherafelt.secret|Magherafelt.secret]] 
 

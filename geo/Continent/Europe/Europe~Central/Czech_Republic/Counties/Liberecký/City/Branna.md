@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Branna.md|Branna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Branna.internal.md|Branna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Branna.protect.md|Branna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Branna.private.md|Branna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Branna.personal.md|Branna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Branna.secret.md|Branna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Branna.internal|Branna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Branna.protect|Branna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Branna.private|Branna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Branna.personal|Branna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Branna.secret|Branna.secret]] 

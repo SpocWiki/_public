@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.md|Columbia]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.internal.md|Columbia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.protect.md|Columbia.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.private.md|Columbia.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.personal.md|Columbia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.secret.md|Columbia.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.internal|Columbia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.protect|Columbia.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.private|Columbia.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.personal|Columbia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.secret|Columbia.secret]] 

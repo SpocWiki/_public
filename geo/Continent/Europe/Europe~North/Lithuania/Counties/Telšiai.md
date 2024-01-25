@@ -41,9 +41,9 @@ markerFolder: ./Telšiai/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Telšiai.md|Telšiai]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Telšiai.internal.md|Telšiai.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Telšiai.protect.md|Telšiai.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Telšiai.private.md|Telšiai.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Telšiai.personal.md|Telšiai.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Telšiai.secret.md|Telšiai.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Telšiai.internal|Telšiai.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Telšiai.protect|Telšiai.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Telšiai.private|Telšiai.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Telšiai.personal|Telšiai.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Telšiai.secret|Telšiai.secret]] 
 

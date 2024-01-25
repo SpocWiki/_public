@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Grosseto.md|Grosseto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Grosseto.internal.md|Grosseto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Grosseto.protect.md|Grosseto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Grosseto.private.md|Grosseto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Grosseto.personal.md|Grosseto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Grosseto.secret.md|Grosseto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Grosseto.internal|Grosseto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Grosseto.protect|Grosseto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Grosseto.private|Grosseto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Grosseto.personal|Grosseto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Grosseto.secret|Grosseto.secret]] 

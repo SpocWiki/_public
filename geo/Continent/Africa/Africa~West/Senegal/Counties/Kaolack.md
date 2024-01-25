@@ -41,9 +41,9 @@ markerFolder: ./Kaolack/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Kaolack.md|Kaolack]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kaolack.internal.md|Kaolack.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kaolack.protect.md|Kaolack.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Kaolack.private.md|Kaolack.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kaolack.personal.md|Kaolack.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kaolack.secret.md|Kaolack.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kaolack.internal|Kaolack.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kaolack.protect|Kaolack.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Kaolack.private|Kaolack.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kaolack.personal|Kaolack.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kaolack.secret|Kaolack.secret]] 
 

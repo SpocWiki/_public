@@ -41,9 +41,9 @@ markerFolder: ./Aracinovo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.md|Aracinovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.internal.md|Aracinovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.protect.md|Aracinovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.private.md|Aracinovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.personal.md|Aracinovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.secret.md|Aracinovo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.internal|Aracinovo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.protect|Aracinovo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.private|Aracinovo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.personal|Aracinovo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Aracinovo.secret|Aracinovo.secret]] 
 

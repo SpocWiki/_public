@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Pavonis-7.md|Pavonis-7]] 
-- [[../../../_internal/astro/Star/Pavonis-7.internal.md|Pavonis-7.internal]] 
-- [[../../../_protect/astro/Star/Pavonis-7.protect.md|Pavonis-7.protect]] 
-- [[../../../_private/astro/Star/Pavonis-7.private.md|Pavonis-7.private]] 
-- [[../../../_personal/astro/Star/Pavonis-7.personal.md|Pavonis-7.personal]] 
-- [[../../../_secret/astro/Star/Pavonis-7.secret.md|Pavonis-7.secret]] 
+- [[../../../_internal/astro/Star/Pavonis-7.internal|Pavonis-7.internal]] 
+- [[../../../_protect/astro/Star/Pavonis-7.protect|Pavonis-7.protect]] 
+- [[../../../_private/astro/Star/Pavonis-7.private|Pavonis-7.private]] 
+- [[../../../_personal/astro/Star/Pavonis-7.personal|Pavonis-7.personal]] 
+- [[../../../_secret/astro/Star/Pavonis-7.secret|Pavonis-7.secret]] 

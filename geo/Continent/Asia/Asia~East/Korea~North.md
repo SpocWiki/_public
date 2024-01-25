@@ -41,7 +41,7 @@ markerFolder: ./Korea~North/
 ## Confidential Links & Embeds: 
 -[[Korea~North|Korea~North]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Korea~North.internal|Korea~North.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Korea~North.protect.md|Korea~North.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Korea~North.private.md|Korea~North.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Korea~North.personal.md|Korea~North.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Korea~North.secret.md|Korea~North.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Korea~North.protect|Korea~North.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Korea~North.private|Korea~North.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Korea~North.personal|Korea~North.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Korea~North.secret|Korea~North.secret]] 

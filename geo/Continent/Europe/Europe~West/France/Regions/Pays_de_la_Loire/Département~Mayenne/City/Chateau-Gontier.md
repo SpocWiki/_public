@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chateau-Gontier.md|Chateau-Gontier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateau-Gontier.internal.md|Chateau-Gontier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateau-Gontier.protect.md|Chateau-Gontier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateau-Gontier.private.md|Chateau-Gontier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateau-Gontier.personal.md|Chateau-Gontier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateau-Gontier.secret.md|Chateau-Gontier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateau-Gontier.internal|Chateau-Gontier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateau-Gontier.protect|Chateau-Gontier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateau-Gontier.private|Chateau-Gontier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateau-Gontier.personal|Chateau-Gontier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateau-Gontier.secret|Chateau-Gontier.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Vatovavy-Fitovinany/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.md|Vatovavy-Fitovinany]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.internal.md|Vatovavy-Fitovinany.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.protect.md|Vatovavy-Fitovinany.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.private.md|Vatovavy-Fitovinany.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.personal.md|Vatovavy-Fitovinany.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.secret.md|Vatovavy-Fitovinany.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.internal|Vatovavy-Fitovinany.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.protect|Vatovavy-Fitovinany.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.private|Vatovavy-Fitovinany.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.personal|Vatovavy-Fitovinany.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.secret|Vatovavy-Fitovinany.secret]] 
 

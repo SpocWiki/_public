@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Puppis-103.md|Puppis-103]] 
-- [[../../../_internal/astro/Star/Puppis-103.internal.md|Puppis-103.internal]] 
-- [[../../../_protect/astro/Star/Puppis-103.protect.md|Puppis-103.protect]] 
-- [[../../../_private/astro/Star/Puppis-103.private.md|Puppis-103.private]] 
-- [[../../../_personal/astro/Star/Puppis-103.personal.md|Puppis-103.personal]] 
-- [[../../../_secret/astro/Star/Puppis-103.secret.md|Puppis-103.secret]] 
+- [[../../../_internal/astro/Star/Puppis-103.internal|Puppis-103.internal]] 
+- [[../../../_protect/astro/Star/Puppis-103.protect|Puppis-103.protect]] 
+- [[../../../_private/astro/Star/Puppis-103.private|Puppis-103.private]] 
+- [[../../../_personal/astro/Star/Puppis-103.personal|Puppis-103.personal]] 
+- [[../../../_secret/astro/Star/Puppis-103.secret|Puppis-103.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Striegau.md|Striegau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Striegau.internal.md|Striegau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Striegau.protect.md|Striegau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Striegau.private.md|Striegau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Striegau.personal.md|Striegau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Striegau.secret.md|Striegau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Striegau.internal|Striegau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Striegau.protect|Striegau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Striegau.private|Striegau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Striegau.personal|Striegau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Striegau.secret|Striegau.secret]] 

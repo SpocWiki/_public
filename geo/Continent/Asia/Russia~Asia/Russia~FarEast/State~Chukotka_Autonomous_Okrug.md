@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Chukotka_Autonomous_Okrug|State~Chukotka_Autonomous_Okrug]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.internal|State~Chukotka_Autonomous_Okrug.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.protect.md|State~Chukotka_Autonomous_Okrug.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.private.md|State~Chukotka_Autonomous_Okrug.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.personal.md|State~Chukotka_Autonomous_Okrug.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.secret.md|State~Chukotka_Autonomous_Okrug.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.protect|State~Chukotka_Autonomous_Okrug.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.private|State~Chukotka_Autonomous_Okrug.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.personal|State~Chukotka_Autonomous_Okrug.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Chukotka_Autonomous_Okrug.secret|State~Chukotka_Autonomous_Okrug.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Warwickshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.md|Warwickshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.internal.md|Warwickshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.protect.md|Warwickshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.private.md|Warwickshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.personal.md|Warwickshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.secret.md|Warwickshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.internal|Warwickshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.protect|Warwickshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.private|Warwickshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.personal|Warwickshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Warwickshire.secret|Warwickshire.secret]] 
 

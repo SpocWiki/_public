@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Persei-4.md|Persei-4]] 
-- [[../../../_internal/astro/Star/Persei-4.internal.md|Persei-4.internal]] 
-- [[../../../_protect/astro/Star/Persei-4.protect.md|Persei-4.protect]] 
-- [[../../../_private/astro/Star/Persei-4.private.md|Persei-4.private]] 
-- [[../../../_personal/astro/Star/Persei-4.personal.md|Persei-4.personal]] 
-- [[../../../_secret/astro/Star/Persei-4.secret.md|Persei-4.secret]] 
+- [[../../../_internal/astro/Star/Persei-4.internal|Persei-4.internal]] 
+- [[../../../_protect/astro/Star/Persei-4.protect|Persei-4.protect]] 
+- [[../../../_private/astro/Star/Persei-4.private|Persei-4.private]] 
+- [[../../../_personal/astro/Star/Persei-4.personal|Persei-4.personal]] 
+- [[../../../_secret/astro/Star/Persei-4.secret|Persei-4.secret]] 

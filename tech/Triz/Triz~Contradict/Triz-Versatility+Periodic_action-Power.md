@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Periodic_action-Power]
 [SpocWebEntityId::26240]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.md|Triz-Versatility+Periodic_action-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.internal.md|Triz-Versatility+Periodic_action-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.protect.md|Triz-Versatility+Periodic_action-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.private.md|Triz-Versatility+Periodic_action-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.personal.md|Triz-Versatility+Periodic_action-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.secret.md|Triz-Versatility+Periodic_action-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.internal|Triz-Versatility+Periodic_action-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.protect|Triz-Versatility+Periodic_action-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.private|Triz-Versatility+Periodic_action-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.personal|Triz-Versatility+Periodic_action-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Periodic_action-Power.secret|Triz-Versatility+Periodic_action-Power.secret]] 

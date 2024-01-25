@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Laval.md|Laval]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Laval.internal.md|Laval.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Laval.protect.md|Laval.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Laval.private.md|Laval.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Laval.personal.md|Laval.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Laval.secret.md|Laval.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Laval.internal|Laval.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Laval.protect|Laval.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Laval.private|Laval.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Laval.personal|Laval.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Laval.secret|Laval.secret]] 

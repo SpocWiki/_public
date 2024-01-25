@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gaeta.md|Gaeta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gaeta.internal.md|Gaeta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gaeta.protect.md|Gaeta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gaeta.private.md|Gaeta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gaeta.personal.md|Gaeta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gaeta.secret.md|Gaeta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gaeta.internal|Gaeta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gaeta.protect|Gaeta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gaeta.private|Gaeta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gaeta.personal|Gaeta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gaeta.secret|Gaeta.secret]] 

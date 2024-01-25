@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.md|Lesmahagow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.internal.md|Lesmahagow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.protect.md|Lesmahagow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.private.md|Lesmahagow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.personal.md|Lesmahagow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.secret.md|Lesmahagow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.internal|Lesmahagow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.protect|Lesmahagow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.private|Lesmahagow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.personal|Lesmahagow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.secret|Lesmahagow.secret]] 

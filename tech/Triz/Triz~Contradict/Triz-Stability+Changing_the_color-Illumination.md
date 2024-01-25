@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Changing_the_color-Illumination]
 [SpocWebEntityId::23881]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.md|Triz-Stability+Changing_the_color-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.internal.md|Triz-Stability+Changing_the_color-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.protect.md|Triz-Stability+Changing_the_color-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.private.md|Triz-Stability+Changing_the_color-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.personal.md|Triz-Stability+Changing_the_color-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.secret.md|Triz-Stability+Changing_the_color-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.internal|Triz-Stability+Changing_the_color-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.protect|Triz-Stability+Changing_the_color-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.private|Triz-Stability+Changing_the_color-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.personal|Triz-Stability+Changing_the_color-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Illumination.secret|Triz-Stability+Changing_the_color-Illumination.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Karnali/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.md|Karnali]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.internal.md|Karnali.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.protect.md|Karnali.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.private.md|Karnali.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.personal.md|Karnali.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.secret.md|Karnali.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.internal|Karnali.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.protect|Karnali.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.private|Karnali.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.personal|Karnali.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.secret|Karnali.secret]] 
 

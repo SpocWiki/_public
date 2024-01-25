@@ -41,9 +41,9 @@ markerFolder: ./Australian_Capital_Territory/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.md|Australian_Capital_Territory]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.internal.md|Australian_Capital_Territory.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.protect.md|Australian_Capital_Territory.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.private.md|Australian_Capital_Territory.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.personal.md|Australian_Capital_Territory.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.secret.md|Australian_Capital_Territory.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.internal|Australian_Capital_Territory.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.protect|Australian_Capital_Territory.protect]] 
+- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.private|Australian_Capital_Territory.private]] 
+- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.personal|Australian_Capital_Territory.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Australian_Capital_Territory.secret|Australian_Capital_Territory.secret]] 
 

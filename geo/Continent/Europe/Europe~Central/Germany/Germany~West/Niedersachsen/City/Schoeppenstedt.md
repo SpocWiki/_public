@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Schoeppenstedt|Schoeppenstedt]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.internal.md|Schoeppenstedt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.protect.md|Schoeppenstedt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.private.md|Schoeppenstedt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.personal.md|Schoeppenstedt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.secret.md|Schoeppenstedt.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.internal|Schoeppenstedt.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.protect|Schoeppenstedt.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.private|Schoeppenstedt.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.personal|Schoeppenstedt.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.secret|Schoeppenstedt.secret]] 

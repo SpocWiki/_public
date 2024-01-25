@@ -41,9 +41,9 @@ markerFolder: ./Barcelona.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.md|Barcelona.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.internal.md|Barcelona.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.protect.md|Barcelona.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.private.md|Barcelona.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.personal.md|Barcelona.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.secret.md|Barcelona.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.internal|Barcelona.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.protect|Barcelona.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.private|Barcelona.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.personal|Barcelona.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Catalunya/Barcelona.Province.secret|Barcelona.Province.secret]] 
 

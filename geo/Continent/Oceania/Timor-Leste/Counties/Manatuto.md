@@ -41,9 +41,9 @@ markerFolder: ./Manatuto/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.md|Manatuto]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.internal.md|Manatuto.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.protect.md|Manatuto.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.private.md|Manatuto.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.personal.md|Manatuto.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.secret.md|Manatuto.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.internal|Manatuto.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.protect|Manatuto.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.private|Manatuto.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.personal|Manatuto.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.secret|Manatuto.secret]] 
 

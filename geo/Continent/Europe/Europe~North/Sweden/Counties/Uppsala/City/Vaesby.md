@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaesby.md|Vaesby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaesby.internal.md|Vaesby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaesby.protect.md|Vaesby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaesby.private.md|Vaesby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaesby.personal.md|Vaesby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaesby.secret.md|Vaesby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaesby.internal|Vaesby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaesby.protect|Vaesby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaesby.private|Vaesby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaesby.personal|Vaesby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaesby.secret|Vaesby.secret]] 

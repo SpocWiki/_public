@@ -41,9 +41,9 @@ markerFolder: ./Iganga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Iganga.md|Iganga]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Iganga.internal.md|Iganga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Iganga.protect.md|Iganga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Iganga.private.md|Iganga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Iganga.personal.md|Iganga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Iganga.secret.md|Iganga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Iganga.internal|Iganga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Iganga.protect|Iganga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Iganga.private|Iganga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Iganga.personal|Iganga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Iganga.secret|Iganga.secret]] 
 

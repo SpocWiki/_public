@@ -41,9 +41,9 @@ markerFolder: ./Azua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.md|Azua]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.internal.md|Azua.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.protect.md|Azua.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.private.md|Azua.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.personal.md|Azua.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.secret.md|Azua.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.internal|Azua.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.protect|Azua.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.private|Azua.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.personal|Azua.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.secret|Azua.secret]] 
 

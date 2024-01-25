@@ -41,9 +41,9 @@ markerFolder: ./Senglea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Senglea.md|Senglea]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Senglea.internal.md|Senglea.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Senglea.protect.md|Senglea.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Senglea.private.md|Senglea.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Senglea.personal.md|Senglea.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Senglea.secret.md|Senglea.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Senglea.internal|Senglea.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Senglea.protect|Senglea.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Senglea.private|Senglea.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Senglea.personal|Senglea.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Senglea.secret|Senglea.secret]] 
 

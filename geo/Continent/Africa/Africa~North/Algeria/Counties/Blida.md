@@ -41,9 +41,9 @@ markerFolder: ./Blida/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Blida.md|Blida]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Blida.internal.md|Blida.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Blida.protect.md|Blida.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Blida.private.md|Blida.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Blida.personal.md|Blida.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Blida.secret.md|Blida.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Blida.internal|Blida.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Blida.protect|Blida.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Blida.private|Blida.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Blida.personal|Blida.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Blida.secret|Blida.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed]
 [SpocWebEntityId::24453]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret]] 

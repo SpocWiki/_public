@@ -41,9 +41,9 @@ markerFolder: ./Mizoram/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.md|Mizoram]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.internal.md|Mizoram.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.protect.md|Mizoram.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.private.md|Mizoram.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.personal.md|Mizoram.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.secret.md|Mizoram.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.internal|Mizoram.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.protect|Mizoram.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.private|Mizoram.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.personal|Mizoram.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Mizoram.secret|Mizoram.secret]] 
 

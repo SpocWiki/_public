@@ -41,9 +41,9 @@ markerFolder: ./Mont_Fleuri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.md|Mont_Fleuri]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.internal.md|Mont_Fleuri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.protect.md|Mont_Fleuri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.private.md|Mont_Fleuri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.personal.md|Mont_Fleuri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.secret.md|Mont_Fleuri.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.internal|Mont_Fleuri.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.protect|Mont_Fleuri.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.private|Mont_Fleuri.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.personal|Mont_Fleuri.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.secret|Mont_Fleuri.secret]] 
 

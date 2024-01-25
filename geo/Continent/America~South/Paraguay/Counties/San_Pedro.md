@@ -41,9 +41,9 @@ markerFolder: ./San_Pedro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/San_Pedro.md|San_Pedro]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/San_Pedro.internal.md|San_Pedro.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/San_Pedro.protect.md|San_Pedro.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/San_Pedro.private.md|San_Pedro.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/San_Pedro.personal.md|San_Pedro.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/San_Pedro.secret.md|San_Pedro.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/San_Pedro.internal|San_Pedro.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/San_Pedro.protect|San_Pedro.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/San_Pedro.private|San_Pedro.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/San_Pedro.personal|San_Pedro.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/San_Pedro.secret|San_Pedro.secret]] 
 

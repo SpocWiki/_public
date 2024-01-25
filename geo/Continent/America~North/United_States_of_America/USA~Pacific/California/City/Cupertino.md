@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.md|Cupertino]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.internal.md|Cupertino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.protect.md|Cupertino.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.private.md|Cupertino.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.personal.md|Cupertino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.secret.md|Cupertino.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.internal|Cupertino.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.protect|Cupertino.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.private|Cupertino.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.personal|Cupertino.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.secret|Cupertino.secret]] 

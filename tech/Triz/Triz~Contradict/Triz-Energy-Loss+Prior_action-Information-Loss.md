@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Prior_action-Information-Loss]
 [SpocWebEntityId::24751]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.md|Triz-Energy-Loss+Prior_action-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.internal.md|Triz-Energy-Loss+Prior_action-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.protect.md|Triz-Energy-Loss+Prior_action-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.private.md|Triz-Energy-Loss+Prior_action-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.personal.md|Triz-Energy-Loss+Prior_action-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.secret.md|Triz-Energy-Loss+Prior_action-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.internal|Triz-Energy-Loss+Prior_action-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.protect|Triz-Energy-Loss+Prior_action-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.private|Triz-Energy-Loss+Prior_action-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.personal|Triz-Energy-Loss+Prior_action-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Information-Loss.secret|Triz-Energy-Loss+Prior_action-Information-Loss.secret]] 

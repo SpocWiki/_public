@@ -41,9 +41,9 @@ markerFolder: ./Škofja_Loka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.md|Škofja_Loka]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.internal.md|Škofja_Loka.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.protect.md|Škofja_Loka.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.private.md|Škofja_Loka.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.personal.md|Škofja_Loka.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.secret.md|Škofja_Loka.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.internal|Škofja_Loka.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.protect|Škofja_Loka.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.private|Škofja_Loka.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.personal|Škofja_Loka.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Škofja_Loka.secret|Škofja_Loka.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Pomoravski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Pomoravski.md|Pomoravski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Pomoravski.internal.md|Pomoravski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Pomoravski.protect.md|Pomoravski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Pomoravski.private.md|Pomoravski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Pomoravski.personal.md|Pomoravski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Pomoravski.secret.md|Pomoravski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Pomoravski.internal|Pomoravski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Pomoravski.protect|Pomoravski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Pomoravski.private|Pomoravski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Pomoravski.personal|Pomoravski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Pomoravski.secret|Pomoravski.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Landskron.md|Landskron]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Landskron.internal.md|Landskron.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Landskron.protect.md|Landskron.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Landskron.private.md|Landskron.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Landskron.personal.md|Landskron.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Landskron.secret.md|Landskron.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Landskron.internal|Landskron.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Landskron.protect|Landskron.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Landskron.private|Landskron.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Landskron.personal|Landskron.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Landskron.secret|Landskron.secret]] 

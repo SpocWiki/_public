@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Zaniah.md|Zaniah]] 
-- [[../../../_internal/astro/Star/Zaniah.internal.md|Zaniah.internal]] 
-- [[../../../_protect/astro/Star/Zaniah.protect.md|Zaniah.protect]] 
-- [[../../../_private/astro/Star/Zaniah.private.md|Zaniah.private]] 
-- [[../../../_personal/astro/Star/Zaniah.personal.md|Zaniah.personal]] 
-- [[../../../_secret/astro/Star/Zaniah.secret.md|Zaniah.secret]] 
+- [[../../../_internal/astro/Star/Zaniah.internal|Zaniah.internal]] 
+- [[../../../_protect/astro/Star/Zaniah.protect|Zaniah.protect]] 
+- [[../../../_private/astro/Star/Zaniah.private|Zaniah.private]] 
+- [[../../../_personal/astro/Star/Zaniah.personal|Zaniah.personal]] 
+- [[../../../_secret/astro/Star/Zaniah.secret|Zaniah.secret]] 

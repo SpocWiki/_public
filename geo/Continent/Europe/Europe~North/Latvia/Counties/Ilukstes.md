@@ -41,9 +41,9 @@ markerFolder: ./Ilukstes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ilukstes.md|Ilukstes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ilukstes.internal.md|Ilukstes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ilukstes.protect.md|Ilukstes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ilukstes.private.md|Ilukstes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ilukstes.personal.md|Ilukstes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ilukstes.secret.md|Ilukstes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ilukstes.internal|Ilukstes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ilukstes.protect|Ilukstes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ilukstes.private|Ilukstes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ilukstes.personal|Ilukstes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ilukstes.secret|Ilukstes.secret]] 
 

@@ -445,8 +445,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[_South-America-CountryDb|_South-America-CountryDb]] 
-- [[../../../../_internal/geo/Continent/South-America/_South-America-CountryDb.internal.md|_South-America-CountryDb.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/_South-America-CountryDb.protect.md|_South-America-CountryDb.protect]] 
-- [[../../../../_private/geo/Continent/South-America/_South-America-CountryDb.private.md|_South-America-CountryDb.private]] 
-- [[../../../../_personal/geo/Continent/South-America/_South-America-CountryDb.personal.md|_South-America-CountryDb.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/_South-America-CountryDb.secret.md|_South-America-CountryDb.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/_South-America-CountryDb.internal|_South-America-CountryDb.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/_South-America-CountryDb.protect|_South-America-CountryDb.protect]] 
+- [[../../../../_private/geo/Continent/South-America/_South-America-CountryDb.private|_South-America-CountryDb.private]] 
+- [[../../../../_personal/geo/Continent/South-America/_South-America-CountryDb.personal|_South-America-CountryDb.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/_South-America-CountryDb.secret|_South-America-CountryDb.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Gourdon.md|Gourdon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gourdon.internal.md|Gourdon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gourdon.protect.md|Gourdon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Gourdon.private.md|Gourdon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gourdon.personal.md|Gourdon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gourdon.secret.md|Gourdon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gourdon.internal|Gourdon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gourdon.protect|Gourdon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Gourdon.private|Gourdon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gourdon.personal|Gourdon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gourdon.secret|Gourdon.secret]] 

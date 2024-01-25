@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Use_strong_oxidisers-moving_Volume]
 [SpocWebEntityId::24601]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.md|Triz-Power+Use_strong_oxidisers-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.internal.md|Triz-Power+Use_strong_oxidisers-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.protect.md|Triz-Power+Use_strong_oxidisers-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.private.md|Triz-Power+Use_strong_oxidisers-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.personal.md|Triz-Power+Use_strong_oxidisers-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.secret.md|Triz-Power+Use_strong_oxidisers-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.internal|Triz-Power+Use_strong_oxidisers-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.protect|Triz-Power+Use_strong_oxidisers-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.private|Triz-Power+Use_strong_oxidisers-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.personal|Triz-Power+Use_strong_oxidisers-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-moving_Volume.secret|Triz-Power+Use_strong_oxidisers-moving_Volume.secret]] 

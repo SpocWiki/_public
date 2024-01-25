@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Erlenbach~Pfalz|Erlenbach~Pfalz]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.internal.md|Erlenbach~Pfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.protect.md|Erlenbach~Pfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.private.md|Erlenbach~Pfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.personal.md|Erlenbach~Pfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.secret.md|Erlenbach~Pfalz.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.internal|Erlenbach~Pfalz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.protect|Erlenbach~Pfalz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.private|Erlenbach~Pfalz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.personal|Erlenbach~Pfalz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.secret|Erlenbach~Pfalz.secret]] 

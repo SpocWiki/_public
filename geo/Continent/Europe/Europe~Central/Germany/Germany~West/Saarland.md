@@ -37,7 +37,7 @@ markerFolder: ./Saarland/
 ## Confidential Links & Embeds: 
 -[[Saarland|Saarland]]] 
 -[[../../../../../../_internal/geo/Continent/Europe/Germany/Saarland.internal|Saarland.internal]]] 
-- [[../../../../../_protect/geo/Continent/Europe/Germany/Saarland.protect.md|Saarland.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Germany/Saarland.private.md|Saarland.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Germany/Saarland.personal.md|Saarland.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Germany/Saarland.secret.md|Saarland.secret]] 
+- [[../../../../../_protect/geo/Continent/Europe/Germany/Saarland.protect|Saarland.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Germany/Saarland.private|Saarland.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Germany/Saarland.personal|Saarland.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Germany/Saarland.secret|Saarland.secret]] 

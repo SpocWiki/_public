@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Composite_materials-Shape]
 [SpocWebEntityId::23992]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.md|Triz-Strength+Composite_materials-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.internal.md|Triz-Strength+Composite_materials-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.protect.md|Triz-Strength+Composite_materials-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.private.md|Triz-Strength+Composite_materials-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.personal.md|Triz-Strength+Composite_materials-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.secret.md|Triz-Strength+Composite_materials-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.internal|Triz-Strength+Composite_materials-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.protect|Triz-Strength+Composite_materials-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.private|Triz-Strength+Composite_materials-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.personal|Triz-Strength+Composite_materials-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-Shape.secret|Triz-Strength+Composite_materials-Shape.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Seckau.md|Seckau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Seckau.internal.md|Seckau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Seckau.protect.md|Seckau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Seckau.private.md|Seckau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Seckau.personal.md|Seckau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Seckau.secret.md|Seckau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Seckau.internal|Seckau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Seckau.protect|Seckau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Seckau.private|Seckau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Seckau.personal|Seckau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Seckau.secret|Seckau.secret]] 

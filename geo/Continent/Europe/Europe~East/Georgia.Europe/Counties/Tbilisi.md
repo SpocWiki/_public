@@ -41,9 +41,9 @@ markerFolder: ./Tbilisi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.md|Tbilisi]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.internal.md|Tbilisi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.protect.md|Tbilisi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.private.md|Tbilisi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.personal.md|Tbilisi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.secret.md|Tbilisi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.internal|Tbilisi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.protect|Tbilisi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.private|Tbilisi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.personal|Tbilisi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Tbilisi.secret|Tbilisi.secret]] 
 

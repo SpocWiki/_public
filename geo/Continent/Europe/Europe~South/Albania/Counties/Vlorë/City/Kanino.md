@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Kanino.md|Kanino]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Kanino.internal.md|Kanino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Kanino.protect.md|Kanino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Kanino.private.md|Kanino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Kanino.personal.md|Kanino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Kanino.secret.md|Kanino.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Kanino.internal|Kanino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Kanino.protect|Kanino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Kanino.private|Kanino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Kanino.personal|Kanino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Kanino.secret|Kanino.secret]] 

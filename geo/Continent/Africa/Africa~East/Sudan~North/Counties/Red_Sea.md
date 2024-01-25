@@ -41,9 +41,9 @@ markerFolder: ./Red_Sea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Red_Sea.md|Red_Sea]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Red_Sea.internal.md|Red_Sea.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Red_Sea.protect.md|Red_Sea.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Red_Sea.private.md|Red_Sea.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Red_Sea.personal.md|Red_Sea.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Red_Sea.secret.md|Red_Sea.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Red_Sea.internal|Red_Sea.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Red_Sea.protect|Red_Sea.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Red_Sea.private|Red_Sea.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Red_Sea.personal|Red_Sea.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Red_Sea.secret|Red_Sea.secret]] 
 

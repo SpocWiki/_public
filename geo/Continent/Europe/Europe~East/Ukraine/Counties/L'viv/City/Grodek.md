@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Grodek.md|Grodek]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grodek.internal.md|Grodek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grodek.protect.md|Grodek.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grodek.private.md|Grodek.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grodek.personal.md|Grodek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grodek.secret.md|Grodek.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grodek.internal|Grodek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grodek.protect|Grodek.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grodek.private|Grodek.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grodek.personal|Grodek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grodek.secret|Grodek.secret]] 

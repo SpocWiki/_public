@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Periodic_action-Stability]
 [SpocWebEntityId::26329]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.md|Triz-Complexity+Periodic_action-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.internal.md|Triz-Complexity+Periodic_action-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.protect.md|Triz-Complexity+Periodic_action-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.private.md|Triz-Complexity+Periodic_action-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.personal.md|Triz-Complexity+Periodic_action-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.secret.md|Triz-Complexity+Periodic_action-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.internal|Triz-Complexity+Periodic_action-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.protect|Triz-Complexity+Periodic_action-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.private|Triz-Complexity+Periodic_action-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.personal|Triz-Complexity+Periodic_action-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.secret|Triz-Complexity+Periodic_action-Stability.secret]] 

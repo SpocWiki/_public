@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Yeu.md|Yeu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Yeu.internal.md|Yeu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Yeu.protect.md|Yeu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Yeu.private.md|Yeu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Yeu.personal.md|Yeu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Yeu.secret.md|Yeu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Yeu.internal|Yeu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Yeu.protect|Yeu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Yeu.private|Yeu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Yeu.personal|Yeu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Yeu.secret|Yeu.secret]] 

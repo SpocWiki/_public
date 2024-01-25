@@ -41,9 +41,9 @@ markerFolder: ./Masvingo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.md|Masvingo]] 
-- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.internal.md|Masvingo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.protect.md|Masvingo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.private.md|Masvingo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.personal.md|Masvingo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.secret.md|Masvingo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.internal|Masvingo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.protect|Masvingo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.private|Masvingo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.personal|Masvingo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Masvingo.secret|Masvingo.secret]] 
 

@@ -133,8 +133,8 @@ markerFolder: ./Martinique/
 
 ## Confidential Links & Embeds: 
 - [[Martinique|Martinique]] 
-- [[../../../../_internal/geo/Continent/South-America/Martinique.internal.md|Martinique.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Martinique.protect.md|Martinique.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Martinique.private.md|Martinique.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Martinique.personal.md|Martinique.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Martinique.secret.md|Martinique.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Martinique.internal|Martinique.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Martinique.protect|Martinique.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Martinique.private|Martinique.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Martinique.personal|Martinique.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Martinique.secret|Martinique.secret]] 

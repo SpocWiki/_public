@@ -41,9 +41,9 @@ markerFolder: ./Trebinje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.md|Trebinje]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.internal.md|Trebinje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.protect.md|Trebinje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.private.md|Trebinje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.personal.md|Trebinje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.secret.md|Trebinje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.internal|Trebinje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.protect|Trebinje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.private|Trebinje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.personal|Trebinje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Trebinje.secret|Trebinje.secret]] 
 

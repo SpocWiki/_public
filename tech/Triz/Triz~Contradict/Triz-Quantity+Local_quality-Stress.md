@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Local_quality-Stress]
 [SpocWebEntityId::25143]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.md|Triz-Quantity+Local_quality-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.internal.md|Triz-Quantity+Local_quality-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.protect.md|Triz-Quantity+Local_quality-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.private.md|Triz-Quantity+Local_quality-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.personal.md|Triz-Quantity+Local_quality-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.secret.md|Triz-Quantity+Local_quality-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.internal|Triz-Quantity+Local_quality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.protect|Triz-Quantity+Local_quality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.private|Triz-Quantity+Local_quality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.personal|Triz-Quantity+Local_quality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.secret|Triz-Quantity+Local_quality-Stress.secret]] 

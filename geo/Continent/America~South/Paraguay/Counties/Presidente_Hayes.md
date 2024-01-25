@@ -41,9 +41,9 @@ markerFolder: ./Presidente_Hayes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.md|Presidente_Hayes]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.internal.md|Presidente_Hayes.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.protect.md|Presidente_Hayes.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.private.md|Presidente_Hayes.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.personal.md|Presidente_Hayes.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.secret.md|Presidente_Hayes.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.internal|Presidente_Hayes.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.protect|Presidente_Hayes.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.private|Presidente_Hayes.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.personal|Presidente_Hayes.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Presidente_Hayes.secret|Presidente_Hayes.secret]] 
 

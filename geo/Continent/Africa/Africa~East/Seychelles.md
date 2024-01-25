@@ -135,7 +135,7 @@ markerFolder: ./Seychelles//
 ## Confidential Links & Embeds: 
 - [[Seychelles|Seychelles]] 
 - [[../../../../../_internal/geo/Continent/Africa/Seychelles.internal|Seychelles.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles.protect.md|Seychelles.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles.private.md|Seychelles.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles.personal.md|Seychelles.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles.secret.md|Seychelles.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles.protect|Seychelles.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles.private|Seychelles.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles.personal|Seychelles.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles.secret|Seychelles.secret]] 

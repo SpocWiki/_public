@@ -41,9 +41,9 @@ markerFolder: ./Zambezia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Zambezia.md|Zambezia]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Zambezia.internal.md|Zambezia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Zambezia.protect.md|Zambezia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Zambezia.private.md|Zambezia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Zambezia.personal.md|Zambezia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Zambezia.secret.md|Zambezia.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Zambezia.internal|Zambezia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Zambezia.protect|Zambezia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Zambezia.private|Zambezia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Zambezia.personal|Zambezia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Zambezia.secret|Zambezia.secret]] 
 

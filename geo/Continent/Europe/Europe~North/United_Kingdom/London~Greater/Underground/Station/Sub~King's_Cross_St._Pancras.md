@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.md|Sub~King's_Cross_St._Pancras]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.internal.md|Sub~King's_Cross_St._Pancras.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.protect.md|Sub~King's_Cross_St._Pancras.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.private.md|Sub~King's_Cross_St._Pancras.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.personal.md|Sub~King's_Cross_St._Pancras.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.secret.md|Sub~King's_Cross_St._Pancras.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.internal|Sub~King's_Cross_St._Pancras.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.protect|Sub~King's_Cross_St._Pancras.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.private|Sub~King's_Cross_St._Pancras.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.personal|Sub~King's_Cross_St._Pancras.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.secret|Sub~King's_Cross_St._Pancras.secret]] 

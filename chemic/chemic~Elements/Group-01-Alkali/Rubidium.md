@@ -33,8 +33,8 @@ SpocWebEntityId: 21935
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-01-Alkali/Rubidium.md|Rubidium]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Rubidium.internal.md|Rubidium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Rubidium.protect.md|Rubidium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Rubidium.private.md|Rubidium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Rubidium.personal.md|Rubidium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Rubidium.secret.md|Rubidium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Rubidium.internal|Rubidium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Rubidium.protect|Rubidium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Rubidium.private|Rubidium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Rubidium.personal|Rubidium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Rubidium.secret|Rubidium.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22205-stationary_Area]
 [SpocWebEntityId::26653]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22205]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.md|Triz-10307+22205-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.internal.md|Triz-10307+22205-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.protect.md|Triz-10307+22205-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.private.md|Triz-10307+22205-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.personal.md|Triz-10307+22205-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.secret.md|Triz-10307+22205-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.internal|Triz-10307+22205-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.protect|Triz-10307+22205-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.private|Triz-10307+22205-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.personal|Triz-10307+22205-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-stationary_Area.secret|Triz-10307+22205-stationary_Area.secret]] 

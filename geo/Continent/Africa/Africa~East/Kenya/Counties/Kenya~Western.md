@@ -41,9 +41,9 @@ markerFolder: ./Kenya~Western/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Kenya~Western.md|Kenya~Western]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Kenya~Western.internal.md|Kenya~Western.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Kenya~Western.protect.md|Kenya~Western.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Kenya~Western.private.md|Kenya~Western.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Kenya~Western.personal.md|Kenya~Western.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Kenya~Western.secret.md|Kenya~Western.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Kenya~Western.internal|Kenya~Western.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Kenya~Western.protect|Kenya~Western.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Kenya~Western.private|Kenya~Western.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Kenya~Western.personal|Kenya~Western.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Kenya~Western.secret|Kenya~Western.secret]] 
 

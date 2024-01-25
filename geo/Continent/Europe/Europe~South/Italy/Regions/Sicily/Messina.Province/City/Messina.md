@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Messina.md|Messina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Messina.internal.md|Messina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Messina.protect.md|Messina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Messina.private.md|Messina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Messina.personal.md|Messina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Messina.secret.md|Messina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Messina.internal|Messina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Messina.protect|Messina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Messina.private|Messina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Messina.personal|Messina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Messina.secret|Messina.secret]] 

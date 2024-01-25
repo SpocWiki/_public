@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity]
 [SpocWebEntityId::24197]
-+ [pro::[[Triz-stationary_Duration]]]
++ [#has_/Pros :: [[Triz-stationary_Duration]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.md|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal.md|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect.md|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private.md|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.personal.md|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.secret.md|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.personal|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.secret|Triz-stationary_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.secret]] 

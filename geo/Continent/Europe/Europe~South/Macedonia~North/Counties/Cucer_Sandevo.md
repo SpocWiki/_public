@@ -41,9 +41,9 @@ markerFolder: ./Cucer_Sandevo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.md|Cucer_Sandevo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.internal.md|Cucer_Sandevo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.protect.md|Cucer_Sandevo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.private.md|Cucer_Sandevo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.personal.md|Cucer_Sandevo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.secret.md|Cucer_Sandevo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.internal|Cucer_Sandevo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.protect|Cucer_Sandevo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.private|Cucer_Sandevo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.personal|Cucer_Sandevo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Cucer_Sandevo.secret|Cucer_Sandevo.secret]] 
 

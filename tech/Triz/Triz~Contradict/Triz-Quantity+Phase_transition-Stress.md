@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Phase_transition-Stress]
 [SpocWebEntityId::25141]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.md|Triz-Quantity+Phase_transition-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.internal.md|Triz-Quantity+Phase_transition-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.protect.md|Triz-Quantity+Phase_transition-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.private.md|Triz-Quantity+Phase_transition-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.personal.md|Triz-Quantity+Phase_transition-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.secret.md|Triz-Quantity+Phase_transition-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.internal|Triz-Quantity+Phase_transition-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.protect|Triz-Quantity+Phase_transition-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.private|Triz-Quantity+Phase_transition-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.personal|Triz-Quantity+Phase_transition-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.secret|Triz-Quantity+Phase_transition-Stress.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Czestochowa.md|Czestochowa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Czestochowa.internal.md|Czestochowa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Czestochowa.protect.md|Czestochowa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Czestochowa.private.md|Czestochowa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Czestochowa.personal.md|Czestochowa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Czestochowa.secret.md|Czestochowa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Czestochowa.internal|Czestochowa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Czestochowa.protect|Czestochowa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Czestochowa.private|Czestochowa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Czestochowa.personal|Czestochowa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Czestochowa.secret|Czestochowa.secret]] 

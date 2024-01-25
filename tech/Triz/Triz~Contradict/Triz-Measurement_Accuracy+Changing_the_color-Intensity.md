@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Changing_the_color-Intensity]
 [SpocWebEntityId::25389]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.md|Triz-Measurement_Accuracy+Changing_the_color-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.internal.md|Triz-Measurement_Accuracy+Changing_the_color-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.protect.md|Triz-Measurement_Accuracy+Changing_the_color-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.private.md|Triz-Measurement_Accuracy+Changing_the_color-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.personal.md|Triz-Measurement_Accuracy+Changing_the_color-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.secret.md|Triz-Measurement_Accuracy+Changing_the_color-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.internal|Triz-Measurement_Accuracy+Changing_the_color-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.protect|Triz-Measurement_Accuracy+Changing_the_color-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.private|Triz-Measurement_Accuracy+Changing_the_color-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.personal|Triz-Measurement_Accuracy+Changing_the_color-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.secret|Triz-Measurement_Accuracy+Changing_the_color-Intensity.secret]] 

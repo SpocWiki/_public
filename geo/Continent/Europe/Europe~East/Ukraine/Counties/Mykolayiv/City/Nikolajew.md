@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nikolajew.md|Nikolajew]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nikolajew.internal.md|Nikolajew.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nikolajew.protect.md|Nikolajew.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nikolajew.private.md|Nikolajew.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nikolajew.personal.md|Nikolajew.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nikolajew.secret.md|Nikolajew.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nikolajew.internal|Nikolajew.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nikolajew.protect|Nikolajew.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nikolajew.private|Nikolajew.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nikolajew.personal|Nikolajew.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nikolajew.secret|Nikolajew.secret]] 

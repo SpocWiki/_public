@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Ussel.md|Ussel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ussel.internal.md|Ussel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ussel.protect.md|Ussel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Ussel.private.md|Ussel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ussel.personal.md|Ussel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ussel.secret.md|Ussel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ussel.internal|Ussel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ussel.protect|Ussel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Ussel.private|Ussel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ussel.personal|Ussel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ussel.secret|Ussel.secret]] 

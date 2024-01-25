@@ -138,8 +138,8 @@ markerFolder: ./Netherlands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Netherlands.md|Netherlands]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands.internal.md|Netherlands.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands.protect.md|Netherlands.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands.private.md|Netherlands.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands.personal.md|Netherlands.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands.secret.md|Netherlands.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Netherlands.internal|Netherlands.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Netherlands.protect|Netherlands.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Netherlands.private|Netherlands.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Netherlands.personal|Netherlands.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Netherlands.secret|Netherlands.secret]] 

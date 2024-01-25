@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.md|Chomutov=Komotau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.internal.md|Chomutov=Komotau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.protect.md|Chomutov=Komotau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.private.md|Chomutov=Komotau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.personal.md|Chomutov=Komotau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.secret.md|Chomutov=Komotau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.internal|Chomutov=Komotau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.protect|Chomutov=Komotau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.private|Chomutov=Komotau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.personal|Chomutov=Komotau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.secret|Chomutov=Komotau.secret]] 

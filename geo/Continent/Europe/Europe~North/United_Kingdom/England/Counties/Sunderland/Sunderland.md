@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sunderland.md|Sunderland]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sunderland.internal.md|Sunderland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sunderland.protect.md|Sunderland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sunderland.private.md|Sunderland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sunderland.personal.md|Sunderland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sunderland.secret.md|Sunderland.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sunderland.internal|Sunderland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sunderland.protect|Sunderland.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sunderland.private|Sunderland.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sunderland.personal|Sunderland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sunderland.secret|Sunderland.secret]] 

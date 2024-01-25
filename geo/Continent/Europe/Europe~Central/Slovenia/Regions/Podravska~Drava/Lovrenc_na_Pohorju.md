@@ -41,9 +41,9 @@ markerFolder: ./Lovrenc_na_Pohorju/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.md|Lovrenc_na_Pohorju]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.internal.md|Lovrenc_na_Pohorju.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.protect.md|Lovrenc_na_Pohorju.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.private.md|Lovrenc_na_Pohorju.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.personal.md|Lovrenc_na_Pohorju.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.secret.md|Lovrenc_na_Pohorju.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.internal|Lovrenc_na_Pohorju.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.protect|Lovrenc_na_Pohorju.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.private|Lovrenc_na_Pohorju.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.personal|Lovrenc_na_Pohorju.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Lovrenc_na_Pohorju.secret|Lovrenc_na_Pohorju.secret]] 
 

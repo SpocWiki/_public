@@ -41,9 +41,9 @@ markerFolder: ./Zanzibar_West/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.md|Zanzibar_West]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.internal.md|Zanzibar_West.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.protect.md|Zanzibar_West.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.private.md|Zanzibar_West.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.personal.md|Zanzibar_West.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.secret.md|Zanzibar_West.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.internal|Zanzibar_West.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.protect|Zanzibar_West.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.private|Zanzibar_West.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.personal|Zanzibar_West.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.secret|Zanzibar_West.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hoburg.md|Hoburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hoburg.internal.md|Hoburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hoburg.protect.md|Hoburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hoburg.private.md|Hoburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hoburg.personal.md|Hoburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hoburg.secret.md|Hoburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hoburg.internal|Hoburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hoburg.protect|Hoburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hoburg.private|Hoburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hoburg.personal|Hoburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hoburg.secret|Hoburg.secret]] 

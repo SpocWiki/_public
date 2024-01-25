@@ -41,9 +41,9 @@ markerFolder: ./Las_Tunas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.md|Las_Tunas]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.internal.md|Las_Tunas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.protect.md|Las_Tunas.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.private.md|Las_Tunas.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.personal.md|Las_Tunas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.secret.md|Las_Tunas.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.internal|Las_Tunas.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.protect|Las_Tunas.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.private|Las_Tunas.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.personal|Las_Tunas.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Las_Tunas.secret|Las_Tunas.secret]] 
 

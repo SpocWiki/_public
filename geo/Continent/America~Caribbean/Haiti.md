@@ -136,8 +136,8 @@ markerFolder: ./Haiti/
 
 ## Confidential Links & Embeds: 
 - [[Haiti|Haiti]] 
-- [[../../../../_internal/geo/Continent/South-America/Haiti.internal.md|Haiti.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Haiti.protect.md|Haiti.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Haiti.private.md|Haiti.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Haiti.personal.md|Haiti.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Haiti.secret.md|Haiti.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Haiti.internal|Haiti.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Haiti.protect|Haiti.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Haiti.private|Haiti.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Haiti.personal|Haiti.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Haiti.secret|Haiti.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Point_Fortin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.md|Point_Fortin]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.internal.md|Point_Fortin.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.protect.md|Point_Fortin.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.private.md|Point_Fortin.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.personal.md|Point_Fortin.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.secret.md|Point_Fortin.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.internal|Point_Fortin.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.protect|Point_Fortin.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.private|Point_Fortin.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.personal|Point_Fortin.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Point_Fortin.secret|Point_Fortin.secret]] 
 

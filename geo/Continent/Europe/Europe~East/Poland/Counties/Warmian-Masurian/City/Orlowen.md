@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Orlowen.md|Orlowen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Orlowen.internal.md|Orlowen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Orlowen.protect.md|Orlowen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Orlowen.private.md|Orlowen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Orlowen.personal.md|Orlowen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Orlowen.secret.md|Orlowen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Orlowen.internal|Orlowen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Orlowen.protect|Orlowen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Orlowen.private|Orlowen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Orlowen.personal|Orlowen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Orlowen.secret|Orlowen.secret]] 

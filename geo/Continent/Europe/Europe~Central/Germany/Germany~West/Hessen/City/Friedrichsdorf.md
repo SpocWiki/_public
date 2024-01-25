@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Friedrichsdorf|Friedrichsdorf]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.internal.md|Friedrichsdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.protect.md|Friedrichsdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.private.md|Friedrichsdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.personal.md|Friedrichsdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.secret.md|Friedrichsdorf.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.internal|Friedrichsdorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.protect|Friedrichsdorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.private|Friedrichsdorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.personal|Friedrichsdorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.secret|Friedrichsdorf.secret]] 

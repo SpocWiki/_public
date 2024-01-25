@@ -41,9 +41,9 @@ markerFolder: ./Khuzestan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.md|Khuzestan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.internal.md|Khuzestan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.protect.md|Khuzestan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.private.md|Khuzestan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.personal.md|Khuzestan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.secret.md|Khuzestan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.internal|Khuzestan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.protect|Khuzestan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.private|Khuzestan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.personal|Khuzestan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.secret|Khuzestan.secret]] 
 

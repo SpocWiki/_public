@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Dolina.md|Dolina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Dolina.internal.md|Dolina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Dolina.protect.md|Dolina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Dolina.private.md|Dolina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Dolina.personal.md|Dolina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Dolina.secret.md|Dolina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Dolina.internal|Dolina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Dolina.protect|Dolina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Dolina.private|Dolina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Dolina.personal|Dolina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Dolina.secret|Dolina.secret]] 

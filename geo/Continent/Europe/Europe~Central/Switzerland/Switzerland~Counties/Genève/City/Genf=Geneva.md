@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Genf=Geneva.md|Genf=Geneva]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Genf=Geneva.internal.md|Genf=Geneva.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Genf=Geneva.protect.md|Genf=Geneva.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Genf=Geneva.private.md|Genf=Geneva.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Genf=Geneva.personal.md|Genf=Geneva.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Genf=Geneva.secret.md|Genf=Geneva.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Genf=Geneva.internal|Genf=Geneva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Genf=Geneva.protect|Genf=Geneva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Genf=Geneva.private|Genf=Geneva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Genf=Geneva.personal|Genf=Geneva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Genf=Geneva.secret|Genf=Geneva.secret]] 

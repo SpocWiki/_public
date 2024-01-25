@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.md|Juneau]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.internal.md|Juneau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.protect.md|Juneau.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.private.md|Juneau.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.personal.md|Juneau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.secret.md|Juneau.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.internal|Juneau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.protect|Juneau.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.private|Juneau.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.personal|Juneau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.secret|Juneau.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Cross_River/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Cross_River.md|Cross_River]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Cross_River.internal.md|Cross_River.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Cross_River.protect.md|Cross_River.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Cross_River.private.md|Cross_River.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Cross_River.personal.md|Cross_River.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Cross_River.secret.md|Cross_River.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Cross_River.internal|Cross_River.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Cross_River.protect|Cross_River.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Cross_River.private|Cross_River.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Cross_River.personal|Cross_River.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Cross_River.secret|Cross_River.secret]] 
 

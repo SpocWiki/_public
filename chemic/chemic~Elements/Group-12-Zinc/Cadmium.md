@@ -37,8 +37,8 @@ SpocWebEntityId: 21945
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-12-Zinc/Cadmium.md|Cadmium]] 
-- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Cadmium.internal.md|Cadmium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Cadmium.protect.md|Cadmium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-12-Zinc/Cadmium.private.md|Cadmium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Cadmium.personal.md|Cadmium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Cadmium.secret.md|Cadmium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Cadmium.internal|Cadmium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Cadmium.protect|Cadmium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-12-Zinc/Cadmium.private|Cadmium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Cadmium.personal|Cadmium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Cadmium.secret|Cadmium.secret]] 

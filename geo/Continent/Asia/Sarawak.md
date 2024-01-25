@@ -41,8 +41,8 @@ markerFolder: ./Sarawak/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Sarawak.md|Sarawak]] 
-- [[../../../../_internal/geo/Continent/Asia/Sarawak.internal.md|Sarawak.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Sarawak.protect.md|Sarawak.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Sarawak.private.md|Sarawak.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Sarawak.personal.md|Sarawak.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Sarawak.secret.md|Sarawak.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Sarawak.internal|Sarawak.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Sarawak.protect|Sarawak.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Sarawak.private|Sarawak.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Sarawak.personal|Sarawak.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Sarawak.secret|Sarawak.secret]] 

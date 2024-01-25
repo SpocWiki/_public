@@ -41,9 +41,9 @@ markerFolder: ./Aberdeenshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.md|Aberdeenshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.internal.md|Aberdeenshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.protect.md|Aberdeenshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.private.md|Aberdeenshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.personal.md|Aberdeenshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.secret.md|Aberdeenshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.internal|Aberdeenshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.protect|Aberdeenshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.private|Aberdeenshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.personal|Aberdeenshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Aberdeenshire.secret|Aberdeenshire.secret]] 
 

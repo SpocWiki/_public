@@ -41,9 +41,9 @@ markerFolder: ./Gasa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.md|Gasa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.internal.md|Gasa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.protect.md|Gasa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.private.md|Gasa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.personal.md|Gasa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.secret.md|Gasa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.internal|Gasa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.protect|Gasa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.private|Gasa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.personal|Gasa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.secret|Gasa.secret]] 
 

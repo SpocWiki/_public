@@ -41,9 +41,9 @@ markerFolder: ./Cookstown/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.md|Cookstown]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.internal.md|Cookstown.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.protect.md|Cookstown.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.private.md|Cookstown.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.personal.md|Cookstown.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.secret.md|Cookstown.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.internal|Cookstown.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.protect|Cookstown.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.private|Cookstown.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.personal|Cookstown.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Cookstown.secret|Cookstown.secret]] 
 

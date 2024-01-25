@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rothwasser.md|Rothwasser]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rothwasser.internal.md|Rothwasser.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rothwasser.protect.md|Rothwasser.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rothwasser.private.md|Rothwasser.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rothwasser.personal.md|Rothwasser.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rothwasser.secret.md|Rothwasser.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rothwasser.internal|Rothwasser.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rothwasser.protect|Rothwasser.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rothwasser.private|Rothwasser.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rothwasser.personal|Rothwasser.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rothwasser.secret|Rothwasser.secret]] 

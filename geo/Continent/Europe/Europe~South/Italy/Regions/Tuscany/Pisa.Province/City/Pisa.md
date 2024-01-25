@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pisa.md|Pisa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pisa.internal.md|Pisa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pisa.protect.md|Pisa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pisa.private.md|Pisa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pisa.personal.md|Pisa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pisa.secret.md|Pisa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pisa.internal|Pisa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pisa.protect|Pisa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pisa.private|Pisa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pisa.personal|Pisa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pisa.secret|Pisa.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Livanu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Livanu.md|Livanu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Livanu.internal.md|Livanu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Livanu.protect.md|Livanu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Livanu.private.md|Livanu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Livanu.personal.md|Livanu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Livanu.secret.md|Livanu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Livanu.internal|Livanu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Livanu.protect|Livanu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Livanu.private|Livanu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Livanu.personal|Livanu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Livanu.secret|Livanu.secret]] 
 

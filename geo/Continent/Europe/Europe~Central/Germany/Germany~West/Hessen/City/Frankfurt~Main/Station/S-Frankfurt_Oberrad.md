@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Frankfurt_Oberrad|S-Frankfurt_Oberrad]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.internal.md|S-Frankfurt_Oberrad.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.protect.md|S-Frankfurt_Oberrad.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.private.md|S-Frankfurt_Oberrad.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.personal.md|S-Frankfurt_Oberrad.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.secret.md|S-Frankfurt_Oberrad.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.internal|S-Frankfurt_Oberrad.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.protect|S-Frankfurt_Oberrad.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.private|S-Frankfurt_Oberrad.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.personal|S-Frankfurt_Oberrad.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Oberrad.secret|S-Frankfurt_Oberrad.secret]] 

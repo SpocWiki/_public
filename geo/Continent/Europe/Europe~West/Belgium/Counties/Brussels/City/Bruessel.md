@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Bruessel.md|Bruessel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Bruessel.internal.md|Bruessel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Bruessel.protect.md|Bruessel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Bruessel.private.md|Bruessel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Bruessel.personal.md|Bruessel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Bruessel.secret.md|Bruessel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Bruessel.internal|Bruessel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Bruessel.protect|Bruessel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Bruessel.private|Bruessel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Bruessel.personal|Bruessel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Bruessel.secret|Bruessel.secret]] 

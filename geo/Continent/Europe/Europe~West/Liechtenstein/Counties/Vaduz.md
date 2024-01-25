@@ -41,9 +41,9 @@ markerFolder: ./Vaduz/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.md|Vaduz]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.internal.md|Vaduz.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.protect.md|Vaduz.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.private.md|Vaduz.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.personal.md|Vaduz.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.secret.md|Vaduz.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.internal|Vaduz.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.protect|Vaduz.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.private|Vaduz.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.personal|Vaduz.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.secret|Vaduz.secret]] 
 

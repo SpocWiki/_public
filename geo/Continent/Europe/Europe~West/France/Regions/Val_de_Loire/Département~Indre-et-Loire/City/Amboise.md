@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Amboise.md|Amboise]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Amboise.internal.md|Amboise.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Amboise.protect.md|Amboise.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Amboise.private.md|Amboise.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Amboise.personal.md|Amboise.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Amboise.secret.md|Amboise.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Amboise.internal|Amboise.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Amboise.protect|Amboise.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Amboise.private|Amboise.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Amboise.personal|Amboise.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Amboise.secret|Amboise.secret]] 

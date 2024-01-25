@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Volume+Mechanical_vibration-Intensity]
 [SpocWebEntityId::23308]
-+ [pro::[[Triz-stationary_Volume]]]
++ [#has_/Pros :: [[Triz-stationary_Volume]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.md|Triz-stationary_Volume+Mechanical_vibration-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.internal.md|Triz-stationary_Volume+Mechanical_vibration-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.protect.md|Triz-stationary_Volume+Mechanical_vibration-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.private.md|Triz-stationary_Volume+Mechanical_vibration-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.personal.md|Triz-stationary_Volume+Mechanical_vibration-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.secret.md|Triz-stationary_Volume+Mechanical_vibration-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.internal|Triz-stationary_Volume+Mechanical_vibration-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.protect|Triz-stationary_Volume+Mechanical_vibration-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.private|Triz-stationary_Volume+Mechanical_vibration-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.personal|Triz-stationary_Volume+Mechanical_vibration-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Mechanical_vibration-Intensity.secret|Triz-stationary_Volume+Mechanical_vibration-Intensity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Uusimaa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland/Counties/Uusimaa.md|Uusimaa]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Uusimaa.internal.md|Uusimaa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Uusimaa.protect.md|Uusimaa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Uusimaa.private.md|Uusimaa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Uusimaa.personal.md|Uusimaa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Uusimaa.secret.md|Uusimaa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Uusimaa.internal|Uusimaa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Uusimaa.protect|Uusimaa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Uusimaa.private|Uusimaa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Uusimaa.personal|Uusimaa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Uusimaa.secret|Uusimaa.secret]] 
 

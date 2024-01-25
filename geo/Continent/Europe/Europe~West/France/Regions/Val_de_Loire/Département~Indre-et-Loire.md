@@ -41,9 +41,9 @@ markerFolder: ./Département~Indre-et-Loire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.md|Département~Indre-et-Loire]] 
-- [[../../../../_internal/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.internal.md|Département~Indre-et-Loire.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.protect.md|Département~Indre-et-Loire.protect]] 
-- [[../../../../_private/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.private.md|Département~Indre-et-Loire.private]] 
-- [[../../../../_personal/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.personal.md|Département~Indre-et-Loire.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.secret.md|Département~Indre-et-Loire.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.internal|Département~Indre-et-Loire.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.protect|Département~Indre-et-Loire.protect]] 
+- [[../../../../_private/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.private|Département~Indre-et-Loire.private]] 
+- [[../../../../_personal/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.personal|Département~Indre-et-Loire.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.secret|Département~Indre-et-Loire.secret]] 
 

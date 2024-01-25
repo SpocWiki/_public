@@ -41,9 +41,9 @@ markerFolder: ./Sétif/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Sétif.md|Sétif]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Sétif.internal.md|Sétif.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Sétif.protect.md|Sétif.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Sétif.private.md|Sétif.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Sétif.personal.md|Sétif.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Sétif.secret.md|Sétif.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Sétif.internal|Sétif.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Sétif.protect|Sétif.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Sétif.private|Sétif.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Sétif.personal|Sétif.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Sétif.secret|Sétif.secret]] 
 

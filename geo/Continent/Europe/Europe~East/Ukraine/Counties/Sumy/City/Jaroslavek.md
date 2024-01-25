@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jaroslavek.md|Jaroslavek]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jaroslavek.internal.md|Jaroslavek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jaroslavek.protect.md|Jaroslavek.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jaroslavek.private.md|Jaroslavek.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jaroslavek.personal.md|Jaroslavek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jaroslavek.secret.md|Jaroslavek.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jaroslavek.internal|Jaroslavek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jaroslavek.protect|Jaroslavek.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jaroslavek.private|Jaroslavek.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jaroslavek.personal|Jaroslavek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jaroslavek.secret|Jaroslavek.secret]] 

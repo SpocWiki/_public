@@ -18,8 +18,8 @@ Bring the Mountain to Mohammed, instead of bringing Mohammed to the Mountain.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Mountain_to_Mohammed.md|Triz-Mountain_to_Mohammed]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Mountain_to_Mohammed.internal.md|Triz-Mountain_to_Mohammed.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Mountain_to_Mohammed.protect.md|Triz-Mountain_to_Mohammed.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Mountain_to_Mohammed.private.md|Triz-Mountain_to_Mohammed.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Mountain_to_Mohammed.personal.md|Triz-Mountain_to_Mohammed.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Mountain_to_Mohammed.secret.md|Triz-Mountain_to_Mohammed.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Mountain_to_Mohammed.internal|Triz-Mountain_to_Mohammed.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Mountain_to_Mohammed.protect|Triz-Mountain_to_Mohammed.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Mountain_to_Mohammed.private|Triz-Mountain_to_Mohammed.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Mountain_to_Mohammed.personal|Triz-Mountain_to_Mohammed.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Mountain_to_Mohammed.secret|Triz-Mountain_to_Mohammed.secret]] 

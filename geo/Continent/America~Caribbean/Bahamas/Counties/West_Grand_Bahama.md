@@ -41,9 +41,9 @@ markerFolder: ./West_Grand_Bahama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.md|West_Grand_Bahama]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.internal.md|West_Grand_Bahama.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.protect.md|West_Grand_Bahama.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.private.md|West_Grand_Bahama.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.personal.md|West_Grand_Bahama.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.secret.md|West_Grand_Bahama.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.internal|West_Grand_Bahama.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.protect|West_Grand_Bahama.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.private|West_Grand_Bahama.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.personal|West_Grand_Bahama.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/West_Grand_Bahama.secret|West_Grand_Bahama.secret]] 
 

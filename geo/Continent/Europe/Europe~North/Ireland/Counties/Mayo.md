@@ -41,9 +41,9 @@ markerFolder: ./Mayo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Mayo.md|Mayo]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Mayo.internal.md|Mayo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Mayo.protect.md|Mayo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Mayo.private.md|Mayo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Mayo.personal.md|Mayo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Mayo.secret.md|Mayo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Mayo.internal|Mayo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Mayo.protect|Mayo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Mayo.private|Mayo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Mayo.personal|Mayo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Mayo.secret|Mayo.secret]] 
 

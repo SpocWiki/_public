@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Singen~Hohentwiel|Singen~Hohentwiel]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.internal.md|Singen~Hohentwiel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.protect.md|Singen~Hohentwiel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.private.md|Singen~Hohentwiel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.personal.md|Singen~Hohentwiel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.secret.md|Singen~Hohentwiel.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.internal|Singen~Hohentwiel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.protect|Singen~Hohentwiel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.private|Singen~Hohentwiel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.personal|Singen~Hohentwiel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.secret|Singen~Hohentwiel.secret]] 

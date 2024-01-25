@@ -41,9 +41,9 @@ markerFolder: ./Ciudad_Real.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.md|Ciudad_Real.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.internal.md|Ciudad_Real.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.protect.md|Ciudad_Real.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.private.md|Ciudad_Real.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.personal.md|Ciudad_Real.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.secret.md|Ciudad_Real.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.internal|Ciudad_Real.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.protect|Ciudad_Real.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.private|Ciudad_Real.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.personal|Ciudad_Real.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Ciudad_Real.Province.secret|Ciudad_Real.Province.secret]] 
 

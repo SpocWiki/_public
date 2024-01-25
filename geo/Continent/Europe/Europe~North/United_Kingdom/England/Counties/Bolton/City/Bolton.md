@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bolton.md|Bolton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bolton.internal.md|Bolton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bolton.protect.md|Bolton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bolton.private.md|Bolton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bolton.personal.md|Bolton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bolton.secret.md|Bolton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bolton.internal|Bolton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bolton.protect|Bolton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bolton.private|Bolton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bolton.personal|Bolton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bolton.secret|Bolton.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Helsinki.md|Helsinki]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Helsinki.internal.md|Helsinki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Helsinki.protect.md|Helsinki.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Helsinki.private.md|Helsinki.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Helsinki.personal.md|Helsinki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Helsinki.secret.md|Helsinki.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Helsinki.internal|Helsinki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Helsinki.protect|Helsinki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Helsinki.private|Helsinki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Helsinki.personal|Helsinki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Helsinki.secret|Helsinki.secret]] 

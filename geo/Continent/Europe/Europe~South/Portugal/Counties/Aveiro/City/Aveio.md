@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Aveio.md|Aveio]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Aveio.internal.md|Aveio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Aveio.protect.md|Aveio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Aveio.private.md|Aveio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Aveio.personal.md|Aveio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Aveio.secret.md|Aveio.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Aveio.internal|Aveio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Aveio.protect|Aveio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Aveio.private|Aveio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Aveio.personal|Aveio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Aveio.secret|Aveio.secret]] 

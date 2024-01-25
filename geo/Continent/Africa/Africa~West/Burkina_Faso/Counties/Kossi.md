@@ -41,9 +41,9 @@ markerFolder: ./Kossi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.md|Kossi]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.internal.md|Kossi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.protect.md|Kossi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.private.md|Kossi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.personal.md|Kossi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.secret.md|Kossi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.internal|Kossi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.protect|Kossi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.private|Kossi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.personal|Kossi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kossi.secret|Kossi.secret]] 
 

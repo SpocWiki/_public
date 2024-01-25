@@ -35,8 +35,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Nebraska.md|Nebraska]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nebraska.internal.md|Nebraska.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nebraska.protect.md|Nebraska.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Nebraska.private.md|Nebraska.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nebraska.personal.md|Nebraska.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nebraska.secret.md|Nebraska.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nebraska.internal|Nebraska.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nebraska.protect|Nebraska.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Nebraska.private|Nebraska.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nebraska.personal|Nebraska.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nebraska.secret|Nebraska.secret]] 

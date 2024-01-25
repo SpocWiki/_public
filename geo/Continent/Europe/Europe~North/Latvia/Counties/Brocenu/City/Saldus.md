@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Saldus.md|Saldus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Saldus.internal.md|Saldus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Saldus.protect.md|Saldus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Saldus.private.md|Saldus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Saldus.personal.md|Saldus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Saldus.secret.md|Saldus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Saldus.internal|Saldus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Saldus.protect|Saldus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Saldus.private|Saldus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Saldus.personal|Saldus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Saldus.secret|Saldus.secret]] 

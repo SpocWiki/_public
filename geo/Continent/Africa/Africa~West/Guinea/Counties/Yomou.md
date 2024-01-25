@@ -41,9 +41,9 @@ markerFolder: ./Yomou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Yomou.md|Yomou]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Yomou.internal.md|Yomou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Yomou.protect.md|Yomou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Yomou.private.md|Yomou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Yomou.personal.md|Yomou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Yomou.secret.md|Yomou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Yomou.internal|Yomou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Yomou.protect|Yomou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Yomou.private|Yomou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Yomou.personal|Yomou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Yomou.secret|Yomou.secret]] 
 

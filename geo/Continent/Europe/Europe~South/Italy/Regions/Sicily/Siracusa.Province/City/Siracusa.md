@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Siracusa.md|Siracusa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Siracusa.internal.md|Siracusa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Siracusa.protect.md|Siracusa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Siracusa.private.md|Siracusa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Siracusa.personal.md|Siracusa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Siracusa.secret.md|Siracusa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Siracusa.internal|Siracusa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Siracusa.protect|Siracusa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Siracusa.private|Siracusa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Siracusa.personal|Siracusa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Siracusa.secret|Siracusa.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Taranaki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Taranaki.md|Taranaki]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Taranaki.internal.md|Taranaki.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Taranaki.protect.md|Taranaki.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Taranaki.private.md|Taranaki.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Taranaki.personal.md|Taranaki.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Taranaki.secret.md|Taranaki.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Taranaki.internal|Taranaki.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Taranaki.protect|Taranaki.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Taranaki.private|Taranaki.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Taranaki.personal|Taranaki.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Taranaki.secret|Taranaki.secret]] 
 

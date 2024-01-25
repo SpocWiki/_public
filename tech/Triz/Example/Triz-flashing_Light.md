@@ -18,8 +18,8 @@ A Warning Lamp flashes so that it is even more noticeable than when continuously
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-flashing_Light.md|Triz-flashing_Light]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-flashing_Light.internal.md|Triz-flashing_Light.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-flashing_Light.protect.md|Triz-flashing_Light.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-flashing_Light.private.md|Triz-flashing_Light.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-flashing_Light.personal.md|Triz-flashing_Light.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-flashing_Light.secret.md|Triz-flashing_Light.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-flashing_Light.internal|Triz-flashing_Light.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-flashing_Light.protect|Triz-flashing_Light.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-flashing_Light.private|Triz-flashing_Light.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-flashing_Light.personal|Triz-flashing_Light.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-flashing_Light.secret|Triz-flashing_Light.secret]] 

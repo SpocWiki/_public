@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Saaz.md|Saaz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Saaz.internal.md|Saaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Saaz.protect.md|Saaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Saaz.private.md|Saaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Saaz.personal.md|Saaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Saaz.secret.md|Saaz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Saaz.internal|Saaz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Saaz.protect|Saaz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Saaz.private|Saaz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Saaz.personal|Saaz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Saaz.secret|Saaz.secret]] 

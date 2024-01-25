@@ -41,9 +41,9 @@ markerFolder: ./Rankovce/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.md|Rankovce]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.internal.md|Rankovce.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.protect.md|Rankovce.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.private.md|Rankovce.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.personal.md|Rankovce.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.secret.md|Rankovce.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.internal|Rankovce.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.protect|Rankovce.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.private|Rankovce.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.personal|Rankovce.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Rankovce.secret|Rankovce.secret]] 
 

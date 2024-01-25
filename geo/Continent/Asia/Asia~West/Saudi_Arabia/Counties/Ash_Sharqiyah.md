@@ -41,9 +41,9 @@ markerFolder: ./Ash_Sharqiyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.md|Ash_Sharqiyah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.internal.md|Ash_Sharqiyah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.protect.md|Ash_Sharqiyah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.private.md|Ash_Sharqiyah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.personal.md|Ash_Sharqiyah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.secret.md|Ash_Sharqiyah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.internal|Ash_Sharqiyah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.protect|Ash_Sharqiyah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.private|Ash_Sharqiyah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.personal|Ash_Sharqiyah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.secret|Ash_Sharqiyah.secret]] 
 

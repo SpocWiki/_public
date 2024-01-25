@@ -41,9 +41,9 @@ markerFolder: ./Moyen-Comoe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.md|Moyen-Comoe]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.internal.md|Moyen-Comoe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.protect.md|Moyen-Comoe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.private.md|Moyen-Comoe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.personal.md|Moyen-Comoe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.secret.md|Moyen-Comoe.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.internal|Moyen-Comoe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.protect|Moyen-Comoe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.private|Moyen-Comoe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.personal|Moyen-Comoe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.secret|Moyen-Comoe.secret]] 
 

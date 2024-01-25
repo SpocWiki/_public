@@ -122,7 +122,7 @@ markerFolder: ./Sudan~South//
 ## Confidential Links & Embeds: 
 - [[Sudan~South|Sudan~South]] 
 - [[../../../../../_internal/geo/Continent/Africa/Sudan~South.internal|Sudan~South.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South.protect.md|Sudan~South.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South.private.md|Sudan~South.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South.personal.md|Sudan~South.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South.secret.md|Sudan~South.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~South.protect|Sudan~South.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~South.private|Sudan~South.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~South.personal|Sudan~South.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~South.secret|Sudan~South.secret]] 

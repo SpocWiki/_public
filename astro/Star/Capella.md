@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Capella.md|Capella]] 
-- [[../../../_internal/astro/Star/Capella.internal.md|Capella.internal]] 
-- [[../../../_protect/astro/Star/Capella.protect.md|Capella.protect]] 
-- [[../../../_private/astro/Star/Capella.private.md|Capella.private]] 
-- [[../../../_personal/astro/Star/Capella.personal.md|Capella.personal]] 
-- [[../../../_secret/astro/Star/Capella.secret.md|Capella.secret]]
+- [[../../../_internal/astro/Star/Capella.internal|Capella.internal]] 
+- [[../../../_protect/astro/Star/Capella.protect|Capella.protect]] 
+- [[../../../_private/astro/Star/Capella.private|Capella.private]] 
+- [[../../../_personal/astro/Star/Capella.personal|Capella.personal]] 
+- [[../../../_secret/astro/Star/Capella.secret|Capella.secret]]
 

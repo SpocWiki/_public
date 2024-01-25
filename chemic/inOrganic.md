@@ -7,9 +7,9 @@
 
 ## Confidential Links & Embeds: 
 - [[../../_public/chemic/inOrganic.md|inOrganic]] 
-- [[../../_internal/chemic/inOrganic.internal.md|inOrganic.internal]] 
-- [[../../_protect/chemic/inOrganic.protect.md|inOrganic.protect]] 
-- [[../../_private/chemic/inOrganic.private.md|inOrganic.private]] 
-- [[../../_personal/chemic/inOrganic.personal.md|inOrganic.personal]] 
-- [[../../_secret/chemic/inOrganic.secret.md|inOrganic.secret]]
+- [[../../_internal/chemic/inOrganic.internal|inOrganic.internal]] 
+- [[../../_protect/chemic/inOrganic.protect|inOrganic.protect]] 
+- [[../../_private/chemic/inOrganic.private|inOrganic.private]] 
+- [[../../_personal/chemic/inOrganic.personal|inOrganic.personal]] 
+- [[../../_secret/chemic/inOrganic.secret|inOrganic.secret]]
 

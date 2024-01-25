@@ -41,9 +41,9 @@ markerFolder: ./East_Kazakhstan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.md|East_Kazakhstan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.internal.md|East_Kazakhstan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.protect.md|East_Kazakhstan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.private.md|East_Kazakhstan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.personal.md|East_Kazakhstan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.secret.md|East_Kazakhstan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.internal|East_Kazakhstan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.protect|East_Kazakhstan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.private|East_Kazakhstan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.personal|East_Kazakhstan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan.secret|East_Kazakhstan.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Siliana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Siliana.md|Siliana]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Siliana.internal.md|Siliana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Siliana.protect.md|Siliana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Siliana.private.md|Siliana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Siliana.personal.md|Siliana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Siliana.secret.md|Siliana.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Siliana.internal|Siliana.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Siliana.protect|Siliana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Siliana.private|Siliana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Siliana.personal|Siliana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Siliana.secret|Siliana.secret]] 
 

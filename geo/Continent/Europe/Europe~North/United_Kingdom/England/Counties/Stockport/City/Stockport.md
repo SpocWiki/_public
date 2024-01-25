@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stockport.md|Stockport]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stockport.internal.md|Stockport.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stockport.protect.md|Stockport.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stockport.private.md|Stockport.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stockport.personal.md|Stockport.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stockport.secret.md|Stockport.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stockport.internal|Stockport.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stockport.protect|Stockport.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stockport.private|Stockport.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stockport.personal|Stockport.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stockport.secret|Stockport.secret]] 

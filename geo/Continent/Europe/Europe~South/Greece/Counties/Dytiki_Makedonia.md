@@ -41,9 +41,9 @@ markerFolder: ./Dytiki_Makedonia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.md|Dytiki_Makedonia]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.internal.md|Dytiki_Makedonia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.protect.md|Dytiki_Makedonia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.private.md|Dytiki_Makedonia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.personal.md|Dytiki_Makedonia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.secret.md|Dytiki_Makedonia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.internal|Dytiki_Makedonia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.protect|Dytiki_Makedonia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.private|Dytiki_Makedonia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.personal|Dytiki_Makedonia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Dytiki_Makedonia.secret|Dytiki_Makedonia.secret]] 
 

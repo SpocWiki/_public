@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]
 [SpocWebEntityId::23735]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.md|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal.md|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect.md|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private.md|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal.md|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret.md|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret|Triz-Shape+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret]] 

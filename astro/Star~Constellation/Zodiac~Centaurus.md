@@ -17,8 +17,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Centaurus.md|Zodiac~Centaurus]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Centaurus.internal.md|Zodiac~Centaurus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Centaurus.protect.md|Zodiac~Centaurus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Centaurus.private.md|Zodiac~Centaurus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Centaurus.personal.md|Zodiac~Centaurus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Centaurus.secret.md|Zodiac~Centaurus.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Centaurus.internal|Zodiac~Centaurus.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Centaurus.protect|Zodiac~Centaurus.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Centaurus.private|Zodiac~Centaurus.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Centaurus.personal|Zodiac~Centaurus.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Centaurus.secret|Zodiac~Centaurus.secret]] 

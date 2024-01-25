@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bismantova.md|Bismantova]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bismantova.internal.md|Bismantova.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bismantova.protect.md|Bismantova.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bismantova.private.md|Bismantova.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bismantova.personal.md|Bismantova.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bismantova.secret.md|Bismantova.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bismantova.internal|Bismantova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bismantova.protect|Bismantova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bismantova.private|Bismantova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bismantova.personal|Bismantova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bismantova.secret|Bismantova.secret]] 

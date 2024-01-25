@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Roermond.md|Roermond]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Roermond.internal.md|Roermond.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Roermond.protect.md|Roermond.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Roermond.private.md|Roermond.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Roermond.personal.md|Roermond.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Roermond.secret.md|Roermond.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Roermond.internal|Roermond.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Roermond.protect|Roermond.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Roermond.private|Roermond.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Roermond.personal|Roermond.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Roermond.secret|Roermond.secret]] 

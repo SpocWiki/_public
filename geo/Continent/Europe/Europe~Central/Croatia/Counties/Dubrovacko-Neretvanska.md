@@ -41,9 +41,9 @@ markerFolder: ./Dubrovacko-Neretvanska/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.md|Dubrovacko-Neretvanska]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.internal.md|Dubrovacko-Neretvanska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.protect.md|Dubrovacko-Neretvanska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.private.md|Dubrovacko-Neretvanska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.personal.md|Dubrovacko-Neretvanska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.secret.md|Dubrovacko-Neretvanska.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.internal|Dubrovacko-Neretvanska.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.protect|Dubrovacko-Neretvanska.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.private|Dubrovacko-Neretvanska.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.personal|Dubrovacko-Neretvanska.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Dubrovacko-Neretvanska.secret|Dubrovacko-Neretvanska.secret]] 
 

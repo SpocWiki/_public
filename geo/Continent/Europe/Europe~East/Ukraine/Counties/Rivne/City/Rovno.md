@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Rovno.md|Rovno]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Rovno.internal.md|Rovno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Rovno.protect.md|Rovno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Rovno.private.md|Rovno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Rovno.personal.md|Rovno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Rovno.secret.md|Rovno.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Rovno.internal|Rovno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Rovno.protect|Rovno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Rovno.private|Rovno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Rovno.personal|Rovno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Rovno.secret|Rovno.secret]] 

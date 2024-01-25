@@ -41,9 +41,9 @@ markerFolder: ./Ljutomer/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.md|Ljutomer]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.internal.md|Ljutomer.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.protect.md|Ljutomer.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.private.md|Ljutomer.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.personal.md|Ljutomer.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.secret.md|Ljutomer.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.internal|Ljutomer.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.protect|Ljutomer.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.private|Ljutomer.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.personal|Ljutomer.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Ljutomer.secret|Ljutomer.secret]] 
 

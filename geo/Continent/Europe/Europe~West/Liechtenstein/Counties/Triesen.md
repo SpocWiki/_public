@@ -41,9 +41,9 @@ markerFolder: ./Triesen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Triesen.md|Triesen]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Triesen.internal.md|Triesen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Triesen.protect.md|Triesen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Triesen.private.md|Triesen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Triesen.personal.md|Triesen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Triesen.secret.md|Triesen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Triesen.internal|Triesen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Triesen.protect|Triesen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Triesen.private|Triesen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Triesen.personal|Triesen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Triesen.secret|Triesen.secret]] 
 

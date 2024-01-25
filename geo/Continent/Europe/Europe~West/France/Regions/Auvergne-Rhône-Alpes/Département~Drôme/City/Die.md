@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Die.md|Die]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Die.internal.md|Die.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Die.protect.md|Die.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Die.private.md|Die.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Die.personal.md|Die.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Die.secret.md|Die.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Die.internal|Die.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Die.protect|Die.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Die.private|Die.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Die.personal|Die.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Die.secret|Die.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Chirang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.md|Chirang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.internal.md|Chirang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.protect.md|Chirang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.private.md|Chirang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.personal.md|Chirang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.secret.md|Chirang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.internal|Chirang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.protect|Chirang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.private|Chirang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.personal|Chirang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chirang.secret|Chirang.secret]] 
 

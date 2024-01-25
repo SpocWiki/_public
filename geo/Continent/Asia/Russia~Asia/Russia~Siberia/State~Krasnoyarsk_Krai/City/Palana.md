@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Palana.md|Palana]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Palana.internal.md|Palana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Palana.protect.md|Palana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Palana.private.md|Palana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Palana.personal.md|Palana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Palana.secret.md|Palana.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Palana.internal|Palana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Palana.protect|Palana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Palana.private|Palana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Palana.personal|Palana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Palana.secret|Palana.secret]] 

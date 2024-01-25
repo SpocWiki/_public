@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Bad_Vilbel_Süd|S-Bad_Vilbel_Süd]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.internal.md|S-Bad_Vilbel_Süd.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.protect.md|S-Bad_Vilbel_Süd.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.private.md|S-Bad_Vilbel_Süd.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.personal.md|S-Bad_Vilbel_Süd.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.secret.md|S-Bad_Vilbel_Süd.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.internal|S-Bad_Vilbel_Süd.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.protect|S-Bad_Vilbel_Süd.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.private|S-Bad_Vilbel_Süd.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.personal|S-Bad_Vilbel_Süd.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_Süd.secret|S-Bad_Vilbel_Süd.secret]] 

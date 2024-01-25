@@ -133,8 +133,8 @@ markerFolder: ./El_Salvador/
 
 ## Confidential Links & Embeds: 
 - [[El_Salvador|El_Salvador]] 
-- [[../../../../_internal/geo/Continent/South-America/El_Salvador.internal.md|El_Salvador.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/El_Salvador.protect.md|El_Salvador.protect]] 
-- [[../../../../_private/geo/Continent/South-America/El_Salvador.private.md|El_Salvador.private]] 
-- [[../../../../_personal/geo/Continent/South-America/El_Salvador.personal.md|El_Salvador.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/El_Salvador.secret.md|El_Salvador.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/El_Salvador.internal|El_Salvador.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/El_Salvador.protect|El_Salvador.protect]] 
+- [[../../../../_private/geo/Continent/South-America/El_Salvador.private|El_Salvador.private]] 
+- [[../../../../_personal/geo/Continent/South-America/El_Salvador.personal|El_Salvador.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/El_Salvador.secret|El_Salvador.secret]] 

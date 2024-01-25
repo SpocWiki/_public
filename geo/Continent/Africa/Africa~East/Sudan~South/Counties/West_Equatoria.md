@@ -41,9 +41,9 @@ markerFolder: ./West_Equatoria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.md|West_Equatoria]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.internal.md|West_Equatoria.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.protect.md|West_Equatoria.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.private.md|West_Equatoria.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.personal.md|West_Equatoria.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.secret.md|West_Equatoria.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.internal|West_Equatoria.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.protect|West_Equatoria.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.private|West_Equatoria.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.personal|West_Equatoria.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.secret|West_Equatoria.secret]] 
 

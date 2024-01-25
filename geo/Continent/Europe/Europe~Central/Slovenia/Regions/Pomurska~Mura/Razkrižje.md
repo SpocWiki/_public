@@ -41,9 +41,9 @@ markerFolder: ./Razkrižje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.md|Razkrižje]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.internal.md|Razkrižje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.protect.md|Razkrižje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.private.md|Razkrižje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.personal.md|Razkrižje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.secret.md|Razkrižje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.internal|Razkrižje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.protect|Razkrižje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.private|Razkrižje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.personal|Razkrižje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Razkrižje.secret|Razkrižje.secret]] 
 

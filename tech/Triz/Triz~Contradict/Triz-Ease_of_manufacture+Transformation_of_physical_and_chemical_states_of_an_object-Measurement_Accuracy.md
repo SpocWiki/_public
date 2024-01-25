@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy]
 [SpocWebEntityId::25915]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.md|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal.md|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect.md|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private.md|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.personal.md|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.secret.md|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.personal|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.secret|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Sirnak/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sirnak.md|Sirnak]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sirnak.internal.md|Sirnak.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sirnak.protect.md|Sirnak.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sirnak.private.md|Sirnak.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sirnak.personal.md|Sirnak.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sirnak.secret.md|Sirnak.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sirnak.internal|Sirnak.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sirnak.protect|Sirnak.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sirnak.private|Sirnak.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sirnak.personal|Sirnak.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sirnak.secret|Sirnak.secret]] 
 

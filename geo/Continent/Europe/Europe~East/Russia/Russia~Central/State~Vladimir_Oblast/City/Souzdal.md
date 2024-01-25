@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Souzdal.md|Souzdal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Souzdal.internal.md|Souzdal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Souzdal.protect.md|Souzdal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Souzdal.private.md|Souzdal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Souzdal.personal.md|Souzdal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Souzdal.secret.md|Souzdal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Souzdal.internal|Souzdal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Souzdal.protect|Souzdal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Souzdal.private|Souzdal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Souzdal.personal|Souzdal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Souzdal.secret|Souzdal.secret]] 

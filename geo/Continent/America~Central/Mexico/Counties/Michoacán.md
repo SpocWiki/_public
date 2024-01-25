@@ -41,9 +41,9 @@ markerFolder: ./Michoacán/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Michoacán.md|Michoacán]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Michoacán.internal.md|Michoacán.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Michoacán.protect.md|Michoacán.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Michoacán.private.md|Michoacán.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Michoacán.personal.md|Michoacán.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Michoacán.secret.md|Michoacán.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Michoacán.internal|Michoacán.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Michoacán.protect|Michoacán.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Michoacán.private|Michoacán.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Michoacán.personal|Michoacán.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Michoacán.secret|Michoacán.secret]] 
 

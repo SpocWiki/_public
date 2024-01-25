@@ -41,9 +41,9 @@ markerFolder: ./Mont_Buxton/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.md|Mont_Buxton]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.internal.md|Mont_Buxton.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.protect.md|Mont_Buxton.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.private.md|Mont_Buxton.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.personal.md|Mont_Buxton.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.secret.md|Mont_Buxton.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.internal|Mont_Buxton.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.protect|Mont_Buxton.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.private|Mont_Buxton.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.personal|Mont_Buxton.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.secret|Mont_Buxton.secret]] 
 

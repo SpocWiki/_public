@@ -40,8 +40,8 @@ markerFolder: ./Dominican_Rep/
 
 ## Confidential Links & Embeds: 
 - [[Dominican_Rep|Dominican_Rep]] 
-- [[../../../../_internal/geo/Continent/South-America/Dominican_Rep.internal.md|Dominican_Rep.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Dominican_Rep.protect.md|Dominican_Rep.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Dominican_Rep.private.md|Dominican_Rep.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Dominican_Rep.personal.md|Dominican_Rep.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Dominican_Rep.secret.md|Dominican_Rep.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Dominican_Rep.internal|Dominican_Rep.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Dominican_Rep.protect|Dominican_Rep.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Dominican_Rep.private|Dominican_Rep.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Dominican_Rep.personal|Dominican_Rep.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Dominican_Rep.secret|Dominican_Rep.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Local_quality-Shape]
 [SpocWebEntityId::24832]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.md|Triz-Substance-Loss+Local_quality-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.internal.md|Triz-Substance-Loss+Local_quality-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.protect.md|Triz-Substance-Loss+Local_quality-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.private.md|Triz-Substance-Loss+Local_quality-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.personal.md|Triz-Substance-Loss+Local_quality-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.secret.md|Triz-Substance-Loss+Local_quality-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.internal|Triz-Substance-Loss+Local_quality-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.protect|Triz-Substance-Loss+Local_quality-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.private|Triz-Substance-Loss+Local_quality-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.personal|Triz-Substance-Loss+Local_quality-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Shape.secret|Triz-Substance-Loss+Local_quality-Shape.secret]] 

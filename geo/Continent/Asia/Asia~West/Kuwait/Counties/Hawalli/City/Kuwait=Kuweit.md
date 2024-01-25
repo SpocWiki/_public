@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.md|Kuwait=Kuweit]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.internal.md|Kuwait=Kuweit.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.protect.md|Kuwait=Kuweit.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.private.md|Kuwait=Kuweit.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.personal.md|Kuwait=Kuweit.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.secret.md|Kuwait=Kuweit.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.internal|Kuwait=Kuweit.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.protect|Kuwait=Kuweit.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.private|Kuwait=Kuweit.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.personal|Kuwait=Kuweit.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.secret|Kuwait=Kuweit.secret]] 

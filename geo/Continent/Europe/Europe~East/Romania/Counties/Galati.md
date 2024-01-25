@@ -41,9 +41,9 @@ markerFolder: ./Galati/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Galati.md|Galati]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Galati.internal.md|Galati.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Galati.protect.md|Galati.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Galati.private.md|Galati.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Galati.personal.md|Galati.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Galati.secret.md|Galati.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Galati.internal|Galati.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Galati.protect|Galati.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Galati.private|Galati.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Galati.personal|Galati.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Galati.secret|Galati.secret]] 
 

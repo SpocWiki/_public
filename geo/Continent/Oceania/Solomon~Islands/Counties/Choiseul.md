@@ -41,9 +41,9 @@ markerFolder: ./Choiseul/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.md|Choiseul]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.internal.md|Choiseul.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.protect.md|Choiseul.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.private.md|Choiseul.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.personal.md|Choiseul.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.secret.md|Choiseul.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.internal|Choiseul.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.protect|Choiseul.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.private|Choiseul.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.personal|Choiseul.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Choiseul.secret|Choiseul.secret]] 
 

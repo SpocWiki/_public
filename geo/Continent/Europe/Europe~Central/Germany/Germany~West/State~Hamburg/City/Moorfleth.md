@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Moorfleth|Moorfleth]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.internal.md|Moorfleth.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.protect.md|Moorfleth.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.private.md|Moorfleth.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.personal.md|Moorfleth.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.secret.md|Moorfleth.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.internal|Moorfleth.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.protect|Moorfleth.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.private|Moorfleth.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.personal|Moorfleth.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg/City/Moorfleth.secret|Moorfleth.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Composite_materials-Strength]
 [SpocWebEntityId::23647]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.md|Triz-Stress+Composite_materials-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.internal.md|Triz-Stress+Composite_materials-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.protect.md|Triz-Stress+Composite_materials-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.private.md|Triz-Stress+Composite_materials-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.personal.md|Triz-Stress+Composite_materials-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.secret.md|Triz-Stress+Composite_materials-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.internal|Triz-Stress+Composite_materials-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.protect|Triz-Stress+Composite_materials-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.private|Triz-Stress+Composite_materials-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.personal|Triz-Stress+Composite_materials-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Composite_materials-Strength.secret|Triz-Stress+Composite_materials-Strength.secret]] 

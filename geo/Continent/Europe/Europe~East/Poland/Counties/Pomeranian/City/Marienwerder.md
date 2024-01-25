@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Marienwerder.md|Marienwerder]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Marienwerder.internal.md|Marienwerder.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Marienwerder.protect.md|Marienwerder.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Marienwerder.private.md|Marienwerder.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Marienwerder.personal.md|Marienwerder.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Marienwerder.secret.md|Marienwerder.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Marienwerder.internal|Marienwerder.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Marienwerder.protect|Marienwerder.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Marienwerder.private|Marienwerder.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Marienwerder.personal|Marienwerder.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Marienwerder.secret|Marienwerder.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/St.Maria.md|St.Maria]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Maria.internal.md|St.Maria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Maria.protect.md|St.Maria.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Maria.private.md|St.Maria.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Maria.personal.md|St.Maria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Maria.secret.md|St.Maria.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Maria.internal|St.Maria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Maria.protect|St.Maria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Maria.private|St.Maria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Maria.personal|St.Maria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Maria.secret|St.Maria.secret]] 

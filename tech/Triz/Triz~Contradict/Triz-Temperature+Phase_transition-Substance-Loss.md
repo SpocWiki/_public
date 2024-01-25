@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Phase_transition-Substance-Loss]
 [SpocWebEntityId::24297]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.md|Triz-Temperature+Phase_transition-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.internal.md|Triz-Temperature+Phase_transition-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.protect.md|Triz-Temperature+Phase_transition-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.private.md|Triz-Temperature+Phase_transition-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.personal.md|Triz-Temperature+Phase_transition-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.secret.md|Triz-Temperature+Phase_transition-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.internal|Triz-Temperature+Phase_transition-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.protect|Triz-Temperature+Phase_transition-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.private|Triz-Temperature+Phase_transition-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.personal|Triz-Temperature+Phase_transition-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Substance-Loss.secret|Triz-Temperature+Phase_transition-Substance-Loss.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Victoria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Victoria.md|Victoria]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Victoria.internal.md|Victoria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Victoria.protect.md|Victoria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Victoria.private.md|Victoria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Victoria.personal.md|Victoria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Victoria.secret.md|Victoria.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Victoria.internal|Victoria.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Victoria.protect|Victoria.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Victoria.private|Victoria.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Victoria.personal|Victoria.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Victoria.secret|Victoria.secret]] 
 

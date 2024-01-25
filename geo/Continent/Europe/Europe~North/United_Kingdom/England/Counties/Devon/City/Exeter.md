@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Exeter.md|Exeter]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Exeter.internal.md|Exeter.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Exeter.protect.md|Exeter.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Exeter.private.md|Exeter.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Exeter.personal.md|Exeter.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Exeter.secret.md|Exeter.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Exeter.internal|Exeter.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Exeter.protect|Exeter.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Exeter.private|Exeter.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Exeter.personal|Exeter.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Exeter.secret|Exeter.secret]] 

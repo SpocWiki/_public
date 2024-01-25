@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.md|Monvalvo_Irpinio]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.internal.md|Monvalvo_Irpinio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.protect.md|Monvalvo_Irpinio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.private.md|Monvalvo_Irpinio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.personal.md|Monvalvo_Irpinio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.secret.md|Monvalvo_Irpinio.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.internal|Monvalvo_Irpinio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.protect|Monvalvo_Irpinio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.private|Monvalvo_Irpinio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.personal|Monvalvo_Irpinio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Monvalvo_Irpinio.secret|Monvalvo_Irpinio.secret]] 

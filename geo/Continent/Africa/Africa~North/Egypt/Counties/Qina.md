@@ -41,9 +41,9 @@ markerFolder: ./Qina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Qina.md|Qina]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Qina.internal.md|Qina.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Qina.protect.md|Qina.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Qina.private.md|Qina.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Qina.personal.md|Qina.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Qina.secret.md|Qina.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Qina.internal|Qina.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Qina.protect|Qina.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Qina.private|Qina.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Qina.personal|Qina.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Qina.secret|Qina.secret]] 
 

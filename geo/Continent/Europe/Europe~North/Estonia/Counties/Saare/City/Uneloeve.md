@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Uneloeve.md|Uneloeve]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Uneloeve.internal.md|Uneloeve.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Uneloeve.protect.md|Uneloeve.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Uneloeve.private.md|Uneloeve.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Uneloeve.personal.md|Uneloeve.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Uneloeve.secret.md|Uneloeve.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Uneloeve.internal|Uneloeve.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Uneloeve.protect|Uneloeve.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Uneloeve.private|Uneloeve.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Uneloeve.personal|Uneloeve.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Uneloeve.secret|Uneloeve.secret]] 

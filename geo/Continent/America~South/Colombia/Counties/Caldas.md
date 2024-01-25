@@ -41,9 +41,9 @@ markerFolder: ./Caldas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Caldas.md|Caldas]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Caldas.internal.md|Caldas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Caldas.protect.md|Caldas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Caldas.private.md|Caldas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Caldas.personal.md|Caldas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Caldas.secret.md|Caldas.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Caldas.internal|Caldas.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Caldas.protect|Caldas.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Caldas.private|Caldas.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Caldas.personal|Caldas.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Caldas.secret|Caldas.secret]] 
 

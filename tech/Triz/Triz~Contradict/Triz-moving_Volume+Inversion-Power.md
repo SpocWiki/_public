@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Inversion-Power]
 [SpocWebEntityId::23237]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.md|Triz-moving_Volume+Inversion-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.internal.md|Triz-moving_Volume+Inversion-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.protect.md|Triz-moving_Volume+Inversion-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.private.md|Triz-moving_Volume+Inversion-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.personal.md|Triz-moving_Volume+Inversion-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.secret.md|Triz-moving_Volume+Inversion-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.internal|Triz-moving_Volume+Inversion-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.protect|Triz-moving_Volume+Inversion-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.private|Triz-moving_Volume+Inversion-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.personal|Triz-moving_Volume+Inversion-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.secret|Triz-moving_Volume+Inversion-Power.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Georgsthal.md|Georgsthal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Georgsthal.internal.md|Georgsthal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Georgsthal.protect.md|Georgsthal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Georgsthal.private.md|Georgsthal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Georgsthal.personal.md|Georgsthal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Georgsthal.secret.md|Georgsthal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Georgsthal.internal|Georgsthal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Georgsthal.protect|Georgsthal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Georgsthal.private|Georgsthal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Georgsthal.personal|Georgsthal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Georgsthal.secret|Georgsthal.secret]] 

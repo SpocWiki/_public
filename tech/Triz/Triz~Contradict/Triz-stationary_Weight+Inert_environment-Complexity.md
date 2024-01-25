@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Inert_environment-Complexity]
 [SpocWebEntityId::22801]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.md|Triz-stationary_Weight+Inert_environment-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.internal.md|Triz-stationary_Weight+Inert_environment-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.protect.md|Triz-stationary_Weight+Inert_environment-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.private.md|Triz-stationary_Weight+Inert_environment-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.personal.md|Triz-stationary_Weight+Inert_environment-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.secret.md|Triz-stationary_Weight+Inert_environment-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.internal|Triz-stationary_Weight+Inert_environment-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.protect|Triz-stationary_Weight+Inert_environment-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.private|Triz-stationary_Weight+Inert_environment-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.personal|Triz-stationary_Weight+Inert_environment-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.secret|Triz-stationary_Weight+Inert_environment-Complexity.secret]] 

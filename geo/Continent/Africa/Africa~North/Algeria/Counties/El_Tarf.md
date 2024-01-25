@@ -41,9 +41,9 @@ markerFolder: ./El_Tarf/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/El_Tarf.md|El_Tarf]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/El_Tarf.internal.md|El_Tarf.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/El_Tarf.protect.md|El_Tarf.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/El_Tarf.private.md|El_Tarf.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/El_Tarf.personal.md|El_Tarf.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/El_Tarf.secret.md|El_Tarf.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/El_Tarf.internal|El_Tarf.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/El_Tarf.protect|El_Tarf.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/El_Tarf.private|El_Tarf.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/El_Tarf.personal|El_Tarf.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/El_Tarf.secret|El_Tarf.secret]] 
 

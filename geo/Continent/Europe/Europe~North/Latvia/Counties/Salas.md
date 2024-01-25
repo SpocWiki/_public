@@ -41,9 +41,9 @@ markerFolder: ./Salas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Salas.md|Salas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Salas.internal.md|Salas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Salas.protect.md|Salas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Salas.private.md|Salas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Salas.personal.md|Salas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Salas.secret.md|Salas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Salas.internal|Salas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Salas.protect|Salas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Salas.private|Salas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Salas.personal|Salas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Salas.secret|Salas.secret]] 
 

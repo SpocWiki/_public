@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hela.md|Hela]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hela.internal.md|Hela.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hela.protect.md|Hela.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hela.private.md|Hela.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hela.personal.md|Hela.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hela.secret.md|Hela.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hela.internal|Hela.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hela.protect|Hela.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hela.private|Hela.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hela.personal|Hela.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hela.secret|Hela.secret]] 

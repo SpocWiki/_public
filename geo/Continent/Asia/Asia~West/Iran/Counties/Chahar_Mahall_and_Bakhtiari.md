@@ -41,9 +41,9 @@ markerFolder: ./Chahar_Mahall_and_Bakhtiari/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.md|Chahar_Mahall_and_Bakhtiari]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.internal.md|Chahar_Mahall_and_Bakhtiari.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.protect.md|Chahar_Mahall_and_Bakhtiari.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.private.md|Chahar_Mahall_and_Bakhtiari.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.personal.md|Chahar_Mahall_and_Bakhtiari.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.secret.md|Chahar_Mahall_and_Bakhtiari.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.internal|Chahar_Mahall_and_Bakhtiari.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.protect|Chahar_Mahall_and_Bakhtiari.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.private|Chahar_Mahall_and_Bakhtiari.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.personal|Chahar_Mahall_and_Bakhtiari.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Chahar_Mahall_and_Bakhtiari.secret|Chahar_Mahall_and_Bakhtiari.secret]] 
 

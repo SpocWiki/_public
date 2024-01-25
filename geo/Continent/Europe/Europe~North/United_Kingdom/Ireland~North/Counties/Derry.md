@@ -41,9 +41,9 @@ markerFolder: ./Derry/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.md|Derry]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.internal.md|Derry.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.protect.md|Derry.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.private.md|Derry.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.personal.md|Derry.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.secret.md|Derry.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.internal|Derry.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.protect|Derry.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.private|Derry.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.personal|Derry.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Derry.secret|Derry.secret]] 
 

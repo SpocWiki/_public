@@ -41,9 +41,9 @@ markerFolder: ./Atiu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.md|Atiu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.internal.md|Atiu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.protect.md|Atiu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.private.md|Atiu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.personal.md|Atiu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.secret.md|Atiu.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.internal|Atiu.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.protect|Atiu.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.private|Atiu.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.personal|Atiu.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.secret|Atiu.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Staraya_Roussa.md|Staraya_Roussa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Staraya_Roussa.internal.md|Staraya_Roussa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Staraya_Roussa.protect.md|Staraya_Roussa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Staraya_Roussa.private.md|Staraya_Roussa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Staraya_Roussa.personal.md|Staraya_Roussa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Staraya_Roussa.secret.md|Staraya_Roussa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Staraya_Roussa.internal|Staraya_Roussa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Staraya_Roussa.protect|Staraya_Roussa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Staraya_Roussa.private|Staraya_Roussa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Staraya_Roussa.personal|Staraya_Roussa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Staraya_Roussa.secret|Staraya_Roussa.secret]] 

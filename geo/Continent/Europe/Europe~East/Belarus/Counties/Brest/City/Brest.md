@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Brest.md|Brest]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Brest.internal.md|Brest.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Brest.protect.md|Brest.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Brest.private.md|Brest.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Brest.personal.md|Brest.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Brest.secret.md|Brest.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Brest.internal|Brest.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Brest.protect|Brest.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Brest.private|Brest.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Brest.personal|Brest.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Brest.secret|Brest.secret]] 

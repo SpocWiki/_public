@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Composite_materials-Difficulty]
 [SpocWebEntityId::24060]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.md|Triz-Strength+Composite_materials-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.internal.md|Triz-Strength+Composite_materials-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.protect.md|Triz-Strength+Composite_materials-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.private.md|Triz-Strength+Composite_materials-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.personal.md|Triz-Strength+Composite_materials-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.secret.md|Triz-Strength+Composite_materials-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.internal|Triz-Strength+Composite_materials-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.protect|Triz-Strength+Composite_materials-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.private|Triz-Strength+Composite_materials-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.personal|Triz-Strength+Composite_materials-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.secret|Triz-Strength+Composite_materials-Difficulty.secret]] 

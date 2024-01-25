@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Alberga.md|Alberga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Alberga.internal.md|Alberga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Alberga.protect.md|Alberga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Alberga.private.md|Alberga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Alberga.personal.md|Alberga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Alberga.secret.md|Alberga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Alberga.internal|Alberga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Alberga.protect|Alberga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Alberga.private|Alberga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Alberga.personal|Alberga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Alberga.secret|Alberga.secret]] 

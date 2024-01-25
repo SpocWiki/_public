@@ -41,9 +41,9 @@ markerFolder: ./Volta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Volta.md|Volta]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Volta.internal.md|Volta.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Volta.protect.md|Volta.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Volta.private.md|Volta.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Volta.personal.md|Volta.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Volta.secret.md|Volta.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Volta.internal|Volta.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Volta.protect|Volta.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Volta.private|Volta.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Volta.personal|Volta.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Volta.secret|Volta.secret]] 
 

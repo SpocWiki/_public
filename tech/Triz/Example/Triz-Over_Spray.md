@@ -18,8 +18,8 @@ Over Spray when painting, then remove Excess. (Or, use a Stencil--this is an app
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Over_Spray.md|Triz-Over_Spray]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Over_Spray.internal.md|Triz-Over_Spray.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Over_Spray.protect.md|Triz-Over_Spray.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Over_Spray.private.md|Triz-Over_Spray.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Over_Spray.personal.md|Triz-Over_Spray.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Over_Spray.secret.md|Triz-Over_Spray.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Over_Spray.internal|Triz-Over_Spray.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Over_Spray.protect|Triz-Over_Spray.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Over_Spray.private|Triz-Over_Spray.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Over_Spray.personal|Triz-Over_Spray.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Over_Spray.secret|Triz-Over_Spray.secret]] 

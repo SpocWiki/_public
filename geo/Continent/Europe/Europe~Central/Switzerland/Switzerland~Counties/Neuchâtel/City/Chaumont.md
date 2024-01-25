@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chaumont.md|Chaumont]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chaumont.internal.md|Chaumont.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chaumont.protect.md|Chaumont.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chaumont.private.md|Chaumont.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chaumont.personal.md|Chaumont.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chaumont.secret.md|Chaumont.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chaumont.internal|Chaumont.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chaumont.protect|Chaumont.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chaumont.private|Chaumont.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chaumont.personal|Chaumont.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chaumont.secret|Chaumont.secret]] 

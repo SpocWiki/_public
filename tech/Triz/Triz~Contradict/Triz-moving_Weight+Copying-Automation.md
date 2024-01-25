@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Copying-Automation]
 [SpocWebEntityId::22688]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.md|Triz-moving_Weight+Copying-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.internal.md|Triz-moving_Weight+Copying-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.protect.md|Triz-moving_Weight+Copying-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.private.md|Triz-moving_Weight+Copying-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.personal.md|Triz-moving_Weight+Copying-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.secret.md|Triz-moving_Weight+Copying-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.internal|Triz-moving_Weight+Copying-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.protect|Triz-moving_Weight+Copying-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.private|Triz-moving_Weight+Copying-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.personal|Triz-moving_Weight+Copying-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Copying-Automation.secret|Triz-moving_Weight+Copying-Automation.secret]] 

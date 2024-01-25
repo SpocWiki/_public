@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Segmentation-moving_Duration]
 [SpocWebEntityId::25876]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.md|Triz-Ease_of_manufacture+Segmentation-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.internal.md|Triz-Ease_of_manufacture+Segmentation-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.protect.md|Triz-Ease_of_manufacture+Segmentation-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.private.md|Triz-Ease_of_manufacture+Segmentation-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.personal.md|Triz-Ease_of_manufacture+Segmentation-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.secret.md|Triz-Ease_of_manufacture+Segmentation-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.internal|Triz-Ease_of_manufacture+Segmentation-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.protect|Triz-Ease_of_manufacture+Segmentation-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.private|Triz-Ease_of_manufacture+Segmentation-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.personal|Triz-Ease_of_manufacture+Segmentation-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Duration.secret|Triz-Ease_of_manufacture+Segmentation-moving_Duration.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Peeskau.md|Peeskau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Peeskau.internal.md|Peeskau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Peeskau.protect.md|Peeskau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Peeskau.private.md|Peeskau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Peeskau.personal.md|Peeskau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Peeskau.secret.md|Peeskau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Peeskau.internal|Peeskau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Peeskau.protect|Peeskau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Peeskau.private|Peeskau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Peeskau.personal|Peeskau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Peeskau.secret|Peeskau.secret]] 

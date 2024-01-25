@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Korea~South/City/Seoul.md|Seoul]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Korea~South/City/Seoul.internal.md|Seoul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Korea~South/City/Seoul.protect.md|Seoul.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Korea~South/City/Seoul.private.md|Seoul.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Korea~South/City/Seoul.personal.md|Seoul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Korea~South/City/Seoul.secret.md|Seoul.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Korea~South/City/Seoul.internal|Seoul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Korea~South/City/Seoul.protect|Seoul.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Korea~South/City/Seoul.private|Seoul.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Korea~South/City/Seoul.personal|Seoul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Korea~South/City/Seoul.secret|Seoul.secret]] 

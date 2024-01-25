@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Langenau~Wuerttemberg|Langenau~Wuerttemberg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.internal.md|Langenau~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.protect.md|Langenau~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.private.md|Langenau~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.personal.md|Langenau~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.secret.md|Langenau~Wuerttemberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.internal|Langenau~Wuerttemberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.protect|Langenau~Wuerttemberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.private|Langenau~Wuerttemberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.personal|Langenau~Wuerttemberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.secret|Langenau~Wuerttemberg.secret]] 

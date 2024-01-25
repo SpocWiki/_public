@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stepnoy.md|Stepnoy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stepnoy.internal.md|Stepnoy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stepnoy.protect.md|Stepnoy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stepnoy.private.md|Stepnoy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stepnoy.personal.md|Stepnoy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stepnoy.secret.md|Stepnoy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stepnoy.internal|Stepnoy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stepnoy.protect|Stepnoy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stepnoy.private|Stepnoy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stepnoy.personal|Stepnoy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stepnoy.secret|Stepnoy.secret]] 

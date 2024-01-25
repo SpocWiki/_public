@@ -41,9 +41,9 @@ markerFolder: ./Kyegegwa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyegegwa.md|Kyegegwa]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.internal.md|Kyegegwa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyegegwa.protect.md|Kyegegwa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyegegwa.private.md|Kyegegwa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.personal.md|Kyegegwa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyegegwa.secret.md|Kyegegwa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.internal|Kyegegwa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyegegwa.protect|Kyegegwa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyegegwa.private|Kyegegwa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.personal|Kyegegwa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyegegwa.secret|Kyegegwa.secret]] 
 

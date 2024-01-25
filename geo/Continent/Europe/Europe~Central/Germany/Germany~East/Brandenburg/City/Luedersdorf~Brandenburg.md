@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.md|Luedersdorf~Brandenburg]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.internal.md|Luedersdorf~Brandenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.protect.md|Luedersdorf~Brandenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.private.md|Luedersdorf~Brandenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.personal.md|Luedersdorf~Brandenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.secret.md|Luedersdorf~Brandenburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.internal|Luedersdorf~Brandenburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.protect|Luedersdorf~Brandenburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.private|Luedersdorf~Brandenburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.personal|Luedersdorf~Brandenburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.secret|Luedersdorf~Brandenburg.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Lumbini/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.md|Lumbini]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.internal.md|Lumbini.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.protect.md|Lumbini.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.private.md|Lumbini.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.personal.md|Lumbini.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.secret.md|Lumbini.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.internal|Lumbini.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.protect|Lumbini.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.private|Lumbini.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.personal|Lumbini.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.secret|Lumbini.secret]] 
 

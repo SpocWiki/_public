@@ -41,9 +41,9 @@ markerFolder: ./Norðurland_eystra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.md|Norðurland_eystra]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.internal.md|Norðurland_eystra.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.protect.md|Norðurland_eystra.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.private.md|Norðurland_eystra.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.personal.md|Norðurland_eystra.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.secret.md|Norðurland_eystra.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.internal|Norðurland_eystra.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.protect|Norðurland_eystra.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.private|Norðurland_eystra.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.personal|Norðurland_eystra.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.secret|Norðurland_eystra.secret]] 
 

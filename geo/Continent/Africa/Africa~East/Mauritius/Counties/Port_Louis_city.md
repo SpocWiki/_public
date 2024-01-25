@@ -41,9 +41,9 @@ markerFolder: ./Port_Louis_city/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.md|Port_Louis_city]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.internal.md|Port_Louis_city.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.protect.md|Port_Louis_city.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.private.md|Port_Louis_city.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.personal.md|Port_Louis_city.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.secret.md|Port_Louis_city.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.internal|Port_Louis_city.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.protect|Port_Louis_city.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.private|Port_Louis_city.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.personal|Port_Louis_city.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.secret|Port_Louis_city.secret]] 
 

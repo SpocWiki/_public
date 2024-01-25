@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Prior_action-Ease_of_operation]
 [SpocWebEntityId::24679]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.md|Triz-Power+Prior_action-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.internal.md|Triz-Power+Prior_action-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.protect.md|Triz-Power+Prior_action-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.private.md|Triz-Power+Prior_action-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.personal.md|Triz-Power+Prior_action-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.secret.md|Triz-Power+Prior_action-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.internal|Triz-Power+Prior_action-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.protect|Triz-Power+Prior_action-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.private|Triz-Power+Prior_action-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.personal|Triz-Power+Prior_action-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Prior_action-Ease_of_operation.secret|Triz-Power+Prior_action-Ease_of_operation.secret]] 

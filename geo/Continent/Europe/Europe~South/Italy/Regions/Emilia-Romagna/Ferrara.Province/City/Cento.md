@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cento.md|Cento]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cento.internal.md|Cento.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cento.protect.md|Cento.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cento.private.md|Cento.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cento.personal.md|Cento.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cento.secret.md|Cento.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cento.internal|Cento.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cento.protect|Cento.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cento.private|Cento.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cento.personal|Cento.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cento.secret|Cento.secret]] 

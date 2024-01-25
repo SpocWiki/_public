@@ -41,9 +41,9 @@ markerFolder: ./Ibanda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Ibanda.md|Ibanda]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ibanda.internal.md|Ibanda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ibanda.protect.md|Ibanda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Ibanda.private.md|Ibanda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ibanda.personal.md|Ibanda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ibanda.secret.md|Ibanda.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ibanda.internal|Ibanda.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ibanda.protect|Ibanda.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Ibanda.private|Ibanda.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ibanda.personal|Ibanda.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ibanda.secret|Ibanda.secret]] 
 

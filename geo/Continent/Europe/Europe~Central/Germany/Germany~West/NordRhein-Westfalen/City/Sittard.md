@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Sittard.md|Sittard]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sittard.internal.md|Sittard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sittard.protect.md|Sittard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sittard.private.md|Sittard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sittard.personal.md|Sittard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sittard.secret.md|Sittard.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sittard.internal|Sittard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sittard.protect|Sittard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sittard.private|Sittard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sittard.personal|Sittard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sittard.secret|Sittard.secret]] 

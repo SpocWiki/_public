@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.md|Spassk~Wjaetka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.internal.md|Spassk~Wjaetka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.protect.md|Spassk~Wjaetka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.private.md|Spassk~Wjaetka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.personal.md|Spassk~Wjaetka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.secret.md|Spassk~Wjaetka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.internal|Spassk~Wjaetka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.protect|Spassk~Wjaetka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.private|Spassk~Wjaetka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.personal|Spassk~Wjaetka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Spassk~Wjaetka.secret|Spassk~Wjaetka.secret]] 

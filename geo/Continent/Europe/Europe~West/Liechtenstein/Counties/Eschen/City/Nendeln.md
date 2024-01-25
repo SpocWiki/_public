@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.2]
 [name::Nendeln]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../../Europe~Central/Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Nendeln.md|Nendeln]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Nendeln.internal.md|Nendeln.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Nendeln.protect.md|Nendeln.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Nendeln.private.md|Nendeln.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Nendeln.personal.md|Nendeln.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Nendeln.secret.md|Nendeln.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Nendeln.internal|Nendeln.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Nendeln.protect|Nendeln.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Nendeln.private|Nendeln.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Nendeln.personal|Nendeln.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Nendeln.secret|Nendeln.secret]] 

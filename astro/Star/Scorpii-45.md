@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Scorpii-45.md|Scorpii-45]] 
-- [[../../../_internal/astro/Star/Scorpii-45.internal.md|Scorpii-45.internal]] 
-- [[../../../_protect/astro/Star/Scorpii-45.protect.md|Scorpii-45.protect]] 
-- [[../../../_private/astro/Star/Scorpii-45.private.md|Scorpii-45.private]] 
-- [[../../../_personal/astro/Star/Scorpii-45.personal.md|Scorpii-45.personal]] 
-- [[../../../_secret/astro/Star/Scorpii-45.secret.md|Scorpii-45.secret]] 
+- [[../../../_internal/astro/Star/Scorpii-45.internal|Scorpii-45.internal]] 
+- [[../../../_protect/astro/Star/Scorpii-45.protect|Scorpii-45.protect]] 
+- [[../../../_private/astro/Star/Scorpii-45.private|Scorpii-45.private]] 
+- [[../../../_personal/astro/Star/Scorpii-45.personal|Scorpii-45.personal]] 
+- [[../../../_secret/astro/Star/Scorpii-45.secret|Scorpii-45.secret]] 

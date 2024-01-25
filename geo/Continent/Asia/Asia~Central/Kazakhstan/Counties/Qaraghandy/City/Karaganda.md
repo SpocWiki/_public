@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karaganda.md|Karaganda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karaganda.internal.md|Karaganda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karaganda.protect.md|Karaganda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karaganda.private.md|Karaganda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Karaganda.personal.md|Karaganda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Karaganda.secret.md|Karaganda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karaganda.internal|Karaganda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karaganda.protect|Karaganda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karaganda.private|Karaganda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Karaganda.personal|Karaganda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Karaganda.secret|Karaganda.secret]] 

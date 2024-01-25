@@ -41,9 +41,9 @@ markerFolder: ./Kâmpóng_Thum/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.md|Kâmpóng_Thum]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.internal.md|Kâmpóng_Thum.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.protect.md|Kâmpóng_Thum.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.private.md|Kâmpóng_Thum.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.personal.md|Kâmpóng_Thum.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.secret.md|Kâmpóng_Thum.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.internal|Kâmpóng_Thum.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.protect|Kâmpóng_Thum.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.private|Kâmpóng_Thum.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.personal|Kâmpóng_Thum.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Thum.secret|Kâmpóng_Thum.secret]] 
 

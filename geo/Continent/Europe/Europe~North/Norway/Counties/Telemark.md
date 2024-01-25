@@ -41,9 +41,9 @@ markerFolder: ./Telemark/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Telemark.md|Telemark]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Telemark.internal.md|Telemark.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Telemark.protect.md|Telemark.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Telemark.private.md|Telemark.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Telemark.personal.md|Telemark.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Telemark.secret.md|Telemark.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Telemark.internal|Telemark.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Telemark.protect|Telemark.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Telemark.private|Telemark.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Telemark.personal|Telemark.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Telemark.secret|Telemark.secret]] 
 

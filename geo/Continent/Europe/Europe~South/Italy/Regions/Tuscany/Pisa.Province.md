@@ -41,9 +41,9 @@ markerFolder: ./Pisa.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.md|Pisa.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.internal.md|Pisa.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.protect.md|Pisa.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.private.md|Pisa.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.personal.md|Pisa.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.secret.md|Pisa.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.internal|Pisa.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.protect|Pisa.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.private|Pisa.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.personal|Pisa.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Tuscany/Pisa.Province.secret|Pisa.Province.secret]] 
 

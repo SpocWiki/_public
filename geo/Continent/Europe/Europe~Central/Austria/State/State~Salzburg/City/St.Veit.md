@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Veit.md|St.Veit]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Veit.internal.md|St.Veit.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Veit.protect.md|St.Veit.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Veit.private.md|St.Veit.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Veit.personal.md|St.Veit.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Veit.secret.md|St.Veit.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Veit.internal|St.Veit.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Veit.protect|St.Veit.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Veit.private|St.Veit.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Veit.personal|St.Veit.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Veit.secret|St.Veit.secret]] 

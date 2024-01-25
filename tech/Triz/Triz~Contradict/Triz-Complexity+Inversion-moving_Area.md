@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Inversion-moving_Area]
 [SpocWebEntityId::26305]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.md|Triz-Complexity+Inversion-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.internal.md|Triz-Complexity+Inversion-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.protect.md|Triz-Complexity+Inversion-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.private.md|Triz-Complexity+Inversion-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.personal.md|Triz-Complexity+Inversion-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.secret.md|Triz-Complexity+Inversion-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.internal|Triz-Complexity+Inversion-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.protect|Triz-Complexity+Inversion-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.private|Triz-Complexity+Inversion-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.personal|Triz-Complexity+Inversion-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-moving_Area.secret|Triz-Complexity+Inversion-moving_Area.secret]] 

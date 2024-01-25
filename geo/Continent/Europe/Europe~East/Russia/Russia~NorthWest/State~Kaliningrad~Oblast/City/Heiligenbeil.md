@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Heiligenbeil.md|Heiligenbeil]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Heiligenbeil.internal.md|Heiligenbeil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Heiligenbeil.protect.md|Heiligenbeil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Heiligenbeil.private.md|Heiligenbeil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Heiligenbeil.personal.md|Heiligenbeil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Heiligenbeil.secret.md|Heiligenbeil.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Heiligenbeil.internal|Heiligenbeil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Heiligenbeil.protect|Heiligenbeil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Heiligenbeil.private|Heiligenbeil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Heiligenbeil.personal|Heiligenbeil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Heiligenbeil.secret|Heiligenbeil.secret]] 

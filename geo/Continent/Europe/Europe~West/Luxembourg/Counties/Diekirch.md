@@ -41,9 +41,9 @@ markerFolder: ./Diekirch/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Luxembourg/Counties/Diekirch.md|Diekirch]] 
-- [[../../../../_internal/geo/Continent/Europe/Luxembourg/Counties/Diekirch.internal.md|Diekirch.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Luxembourg/Counties/Diekirch.protect.md|Diekirch.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Luxembourg/Counties/Diekirch.private.md|Diekirch.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Luxembourg/Counties/Diekirch.personal.md|Diekirch.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Luxembourg/Counties/Diekirch.secret.md|Diekirch.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Luxembourg/Counties/Diekirch.internal|Diekirch.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Luxembourg/Counties/Diekirch.protect|Diekirch.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Luxembourg/Counties/Diekirch.private|Diekirch.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Luxembourg/Counties/Diekirch.personal|Diekirch.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Luxembourg/Counties/Diekirch.secret|Diekirch.secret]] 
 

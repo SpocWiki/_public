@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Canum_Venaticorum-125.md|Canum_Venaticorum-125]] 
-- [[../../../_internal/astro/Star/Canum_Venaticorum-125.internal.md|Canum_Venaticorum-125.internal]] 
-- [[../../../_protect/astro/Star/Canum_Venaticorum-125.protect.md|Canum_Venaticorum-125.protect]] 
-- [[../../../_private/astro/Star/Canum_Venaticorum-125.private.md|Canum_Venaticorum-125.private]] 
-- [[../../../_personal/astro/Star/Canum_Venaticorum-125.personal.md|Canum_Venaticorum-125.personal]] 
-- [[../../../_secret/astro/Star/Canum_Venaticorum-125.secret.md|Canum_Venaticorum-125.secret]]
+- [[../../../_internal/astro/Star/Canum_Venaticorum-125.internal|Canum_Venaticorum-125.internal]] 
+- [[../../../_protect/astro/Star/Canum_Venaticorum-125.protect|Canum_Venaticorum-125.protect]] 
+- [[../../../_private/astro/Star/Canum_Venaticorum-125.private|Canum_Venaticorum-125.private]] 
+- [[../../../_personal/astro/Star/Canum_Venaticorum-125.personal|Canum_Venaticorum-125.personal]] 
+- [[../../../_secret/astro/Star/Canum_Venaticorum-125.secret|Canum_Venaticorum-125.secret]]
 

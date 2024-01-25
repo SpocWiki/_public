@@ -18,8 +18,8 @@ Change a Management Measure from Budget Variance to Customer Satisfaction.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Change_Measure.md|Triz-Change_Measure]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Change_Measure.internal.md|Triz-Change_Measure.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Change_Measure.protect.md|Triz-Change_Measure.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Change_Measure.private.md|Triz-Change_Measure.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Change_Measure.personal.md|Triz-Change_Measure.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Change_Measure.secret.md|Triz-Change_Measure.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Change_Measure.internal|Triz-Change_Measure.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Change_Measure.protect|Triz-Change_Measure.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Change_Measure.private|Triz-Change_Measure.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Change_Measure.personal|Triz-Change_Measure.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Change_Measure.secret|Triz-Change_Measure.secret]] 

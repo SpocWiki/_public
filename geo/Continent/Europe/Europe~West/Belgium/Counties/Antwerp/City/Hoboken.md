@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Hoboken.md|Hoboken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Hoboken.internal.md|Hoboken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Hoboken.protect.md|Hoboken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Hoboken.private.md|Hoboken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Hoboken.personal.md|Hoboken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Hoboken.secret.md|Hoboken.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Hoboken.internal|Hoboken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Hoboken.protect|Hoboken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Hoboken.private|Hoboken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Hoboken.personal|Hoboken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Hoboken.secret|Hoboken.secret]] 

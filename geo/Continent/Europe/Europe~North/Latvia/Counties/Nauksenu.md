@@ -41,9 +41,9 @@ markerFolder: ./Nauksenu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Nauksenu.md|Nauksenu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Nauksenu.internal.md|Nauksenu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Nauksenu.protect.md|Nauksenu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Nauksenu.private.md|Nauksenu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Nauksenu.personal.md|Nauksenu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Nauksenu.secret.md|Nauksenu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Nauksenu.internal|Nauksenu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Nauksenu.protect|Nauksenu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Nauksenu.private|Nauksenu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Nauksenu.personal|Nauksenu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Nauksenu.secret|Nauksenu.secret]] 
 

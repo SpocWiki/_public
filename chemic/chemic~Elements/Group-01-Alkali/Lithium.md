@@ -38,8 +38,8 @@ SpocWebEntityId: 21906
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-01-Alkali/Lithium.md|Lithium]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Lithium.internal.md|Lithium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Lithium.protect.md|Lithium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Lithium.private.md|Lithium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Lithium.personal.md|Lithium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Lithium.secret.md|Lithium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Lithium.internal|Lithium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Lithium.protect|Lithium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Lithium.private|Lithium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Lithium.personal|Lithium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Lithium.secret|Lithium.secret]] 

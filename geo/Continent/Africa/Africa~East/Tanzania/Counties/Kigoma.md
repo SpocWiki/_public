@@ -41,9 +41,9 @@ markerFolder: ./Kigoma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kigoma.md|Kigoma]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kigoma.internal.md|Kigoma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kigoma.protect.md|Kigoma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kigoma.private.md|Kigoma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kigoma.personal.md|Kigoma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kigoma.secret.md|Kigoma.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kigoma.internal|Kigoma.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kigoma.protect|Kigoma.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kigoma.private|Kigoma.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kigoma.personal|Kigoma.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kigoma.secret|Kigoma.secret]] 
 

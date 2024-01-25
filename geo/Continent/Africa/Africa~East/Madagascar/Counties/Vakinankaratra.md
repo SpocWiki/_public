@@ -41,9 +41,9 @@ markerFolder: ./Vakinankaratra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.md|Vakinankaratra]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.internal.md|Vakinankaratra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.protect.md|Vakinankaratra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.private.md|Vakinankaratra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.personal.md|Vakinankaratra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.secret.md|Vakinankaratra.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.internal|Vakinankaratra.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.protect|Vakinankaratra.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.private|Vakinankaratra.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.personal|Vakinankaratra.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Vakinankaratra.secret|Vakinankaratra.secret]] 
 

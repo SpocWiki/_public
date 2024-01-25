@@ -41,9 +41,9 @@ markerFolder: ./Buada/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Buada.md|Buada]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Buada.internal.md|Buada.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Buada.protect.md|Buada.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Buada.private.md|Buada.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Buada.personal.md|Buada.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Buada.secret.md|Buada.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Buada.internal|Buada.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Buada.protect|Buada.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Buada.private|Buada.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Buada.personal|Buada.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Buada.secret|Buada.secret]] 
 

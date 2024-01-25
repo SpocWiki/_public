@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mineo.md|Mineo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mineo.internal.md|Mineo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mineo.protect.md|Mineo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mineo.private.md|Mineo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mineo.personal.md|Mineo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mineo.secret.md|Mineo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mineo.internal|Mineo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mineo.protect|Mineo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mineo.private|Mineo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mineo.personal|Mineo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mineo.secret|Mineo.secret]] 

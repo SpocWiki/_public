@@ -41,9 +41,9 @@ markerFolder: ./Gateshead/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.md|Gateshead]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.internal.md|Gateshead.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.protect.md|Gateshead.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.private.md|Gateshead.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.personal.md|Gateshead.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.secret.md|Gateshead.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.internal|Gateshead.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.protect|Gateshead.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.private|Gateshead.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.personal|Gateshead.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Gateshead.secret|Gateshead.secret]] 
 

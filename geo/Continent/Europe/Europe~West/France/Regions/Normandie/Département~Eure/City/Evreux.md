@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Evreux.md|Evreux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Evreux.internal.md|Evreux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Evreux.protect.md|Evreux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Evreux.private.md|Evreux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Evreux.personal.md|Evreux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Evreux.secret.md|Evreux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Evreux.internal|Evreux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Evreux.protect|Evreux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Evreux.private|Evreux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Evreux.personal|Evreux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Evreux.secret|Evreux.secret]] 

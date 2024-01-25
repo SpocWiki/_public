@@ -41,9 +41,9 @@ markerFolder: ./Jendouba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Jendouba.md|Jendouba]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Jendouba.internal.md|Jendouba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Jendouba.protect.md|Jendouba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Jendouba.private.md|Jendouba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Jendouba.personal.md|Jendouba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Jendouba.secret.md|Jendouba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Jendouba.internal|Jendouba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Jendouba.protect|Jendouba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Jendouba.private|Jendouba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Jendouba.personal|Jendouba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Jendouba.secret|Jendouba.secret]] 
 

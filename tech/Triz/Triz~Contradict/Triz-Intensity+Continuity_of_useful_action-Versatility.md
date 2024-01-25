@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Continuity_of_useful_action-Versatility]
 [SpocWebEntityId::23587]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Continuity_of_useful_action]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.md|Triz-Intensity+Continuity_of_useful_action-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.internal.md|Triz-Intensity+Continuity_of_useful_action-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.protect.md|Triz-Intensity+Continuity_of_useful_action-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.private.md|Triz-Intensity+Continuity_of_useful_action-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.personal.md|Triz-Intensity+Continuity_of_useful_action-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.secret.md|Triz-Intensity+Continuity_of_useful_action-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.internal|Triz-Intensity+Continuity_of_useful_action-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.protect|Triz-Intensity+Continuity_of_useful_action-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.private|Triz-Intensity+Continuity_of_useful_action-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.personal|Triz-Intensity+Continuity_of_useful_action-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.secret|Triz-Intensity+Continuity_of_useful_action-Versatility.secret]] 

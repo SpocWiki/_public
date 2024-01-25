@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Cieszyn.md|Cieszyn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Cieszyn.internal.md|Cieszyn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Cieszyn.protect.md|Cieszyn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Cieszyn.private.md|Cieszyn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Cieszyn.personal.md|Cieszyn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Cieszyn.secret.md|Cieszyn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Cieszyn.internal|Cieszyn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Cieszyn.protect|Cieszyn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Cieszyn.private|Cieszyn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Cieszyn.personal|Cieszyn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Cieszyn.secret|Cieszyn.secret]] 

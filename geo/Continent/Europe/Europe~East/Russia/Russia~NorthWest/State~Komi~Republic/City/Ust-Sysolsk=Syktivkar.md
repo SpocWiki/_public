@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.md|Ust-Sysolsk=Syktivkar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.internal.md|Ust-Sysolsk=Syktivkar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.protect.md|Ust-Sysolsk=Syktivkar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.private.md|Ust-Sysolsk=Syktivkar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.personal.md|Ust-Sysolsk=Syktivkar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.secret.md|Ust-Sysolsk=Syktivkar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.internal|Ust-Sysolsk=Syktivkar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.protect|Ust-Sysolsk=Syktivkar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.private|Ust-Sysolsk=Syktivkar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.personal|Ust-Sysolsk=Syktivkar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.secret|Ust-Sysolsk=Syktivkar.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Făleşti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Făleşti.md|Făleşti]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Făleşti.internal.md|Făleşti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Făleşti.protect.md|Făleşti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Făleşti.private.md|Făleşti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Făleşti.personal.md|Făleşti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Făleşti.secret.md|Făleşti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Făleşti.internal|Făleşti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Făleşti.protect|Făleşti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Făleşti.private|Făleşti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Făleşti.personal|Făleşti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Făleşti.secret|Făleşti.secret]] 
 

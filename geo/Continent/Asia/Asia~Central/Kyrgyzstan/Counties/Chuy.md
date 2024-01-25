@@ -41,9 +41,9 @@ markerFolder: ./Chuy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.md|Chuy]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.internal.md|Chuy.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.protect.md|Chuy.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.private.md|Chuy.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.personal.md|Chuy.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.secret.md|Chuy.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.internal|Chuy.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.protect|Chuy.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.private|Chuy.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.personal|Chuy.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Chuy.secret|Chuy.secret]] 
 

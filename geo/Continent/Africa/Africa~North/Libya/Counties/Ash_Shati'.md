@@ -41,9 +41,9 @@ markerFolder: ./Ash_Shati'/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Ash_Shati'.md|Ash_Shati']] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ash_Shati'.internal.md|Ash_Shati'.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ash_Shati'.protect.md|Ash_Shati'.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ash_Shati'.private.md|Ash_Shati'.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ash_Shati'.personal.md|Ash_Shati'.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ash_Shati'.secret.md|Ash_Shati'.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ash_Shati'.internal|Ash_Shati'.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ash_Shati'.protect|Ash_Shati'.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ash_Shati'.private|Ash_Shati'.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ash_Shati'.personal|Ash_Shati'.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ash_Shati'.secret|Ash_Shati'.secret]] 
 

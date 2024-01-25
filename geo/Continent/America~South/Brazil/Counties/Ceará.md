@@ -41,9 +41,9 @@ markerFolder: ./Ceará/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Ceará.md|Ceará]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Ceará.internal.md|Ceará.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Ceará.protect.md|Ceará.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Ceará.private.md|Ceará.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Ceará.personal.md|Ceará.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Ceará.secret.md|Ceará.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Ceará.internal|Ceará.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Ceará.protect|Ceará.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Ceará.private|Ceará.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Ceará.personal|Ceará.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Ceará.secret|Ceará.secret]] 
 

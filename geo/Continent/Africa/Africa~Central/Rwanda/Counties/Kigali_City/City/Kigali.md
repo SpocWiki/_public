@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Rwanda/City/Kigali.md|Kigali]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Rwanda/City/Kigali.internal.md|Kigali.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Rwanda/City/Kigali.protect.md|Kigali.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Rwanda/City/Kigali.private.md|Kigali.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Rwanda/City/Kigali.personal.md|Kigali.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Rwanda/City/Kigali.secret.md|Kigali.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Rwanda/City/Kigali.internal|Kigali.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Rwanda/City/Kigali.protect|Kigali.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Rwanda/City/Kigali.private|Kigali.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Rwanda/City/Kigali.personal|Kigali.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Rwanda/City/Kigali.secret|Kigali.secret]] 

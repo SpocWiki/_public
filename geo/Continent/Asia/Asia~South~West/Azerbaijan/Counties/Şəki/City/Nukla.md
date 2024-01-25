@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nukla.md|Nukla]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nukla.internal.md|Nukla.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nukla.protect.md|Nukla.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nukla.private.md|Nukla.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nukla.personal.md|Nukla.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nukla.secret.md|Nukla.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nukla.internal|Nukla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nukla.protect|Nukla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nukla.private|Nukla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nukla.personal|Nukla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nukla.secret|Nukla.secret]] 

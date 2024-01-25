@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gudzianai.md|Gudzianai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gudzianai.internal.md|Gudzianai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gudzianai.protect.md|Gudzianai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gudzianai.private.md|Gudzianai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gudzianai.personal.md|Gudzianai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gudzianai.secret.md|Gudzianai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gudzianai.internal|Gudzianai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gudzianai.protect|Gudzianai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gudzianai.private|Gudzianai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gudzianai.personal|Gudzianai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gudzianai.secret|Gudzianai.secret]] 

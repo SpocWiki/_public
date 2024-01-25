@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wansen.md|Wansen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wansen.internal.md|Wansen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wansen.protect.md|Wansen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wansen.private.md|Wansen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wansen.personal.md|Wansen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wansen.secret.md|Wansen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wansen.internal|Wansen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wansen.protect|Wansen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wansen.private|Wansen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wansen.personal|Wansen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wansen.secret|Wansen.secret]] 

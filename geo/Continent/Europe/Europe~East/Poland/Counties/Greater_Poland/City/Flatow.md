@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Flatow.md|Flatow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Flatow.internal.md|Flatow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Flatow.protect.md|Flatow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Flatow.private.md|Flatow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Flatow.personal.md|Flatow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Flatow.secret.md|Flatow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Flatow.internal|Flatow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Flatow.protect|Flatow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Flatow.private|Flatow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Flatow.personal|Flatow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Flatow.secret|Flatow.secret]] 

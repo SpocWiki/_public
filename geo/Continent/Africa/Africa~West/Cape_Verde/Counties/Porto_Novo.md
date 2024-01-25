@@ -41,9 +41,9 @@ markerFolder: ./Porto_Novo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.md|Porto_Novo]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.internal.md|Porto_Novo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.protect.md|Porto_Novo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.private.md|Porto_Novo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.personal.md|Porto_Novo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.secret.md|Porto_Novo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.internal|Porto_Novo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.protect|Porto_Novo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.private|Porto_Novo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.personal|Porto_Novo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.secret|Porto_Novo.secret]] 
 

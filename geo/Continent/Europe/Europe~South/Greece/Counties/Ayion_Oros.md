@@ -41,9 +41,9 @@ markerFolder: ./Ayion_Oros/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Ayion_Oros.md|Ayion_Oros]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Ayion_Oros.internal.md|Ayion_Oros.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Ayion_Oros.protect.md|Ayion_Oros.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Ayion_Oros.private.md|Ayion_Oros.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Ayion_Oros.personal.md|Ayion_Oros.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Ayion_Oros.secret.md|Ayion_Oros.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Ayion_Oros.internal|Ayion_Oros.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Ayion_Oros.protect|Ayion_Oros.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Ayion_Oros.private|Ayion_Oros.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Ayion_Oros.personal|Ayion_Oros.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Ayion_Oros.secret|Ayion_Oros.secret]] 
 

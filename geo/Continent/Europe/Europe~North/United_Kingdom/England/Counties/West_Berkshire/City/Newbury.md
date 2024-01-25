@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Newbury.md|Newbury]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Newbury.internal.md|Newbury.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Newbury.protect.md|Newbury.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Newbury.private.md|Newbury.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Newbury.personal.md|Newbury.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Newbury.secret.md|Newbury.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Newbury.internal|Newbury.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Newbury.protect|Newbury.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Newbury.private|Newbury.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Newbury.personal|Newbury.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Newbury.secret|Newbury.secret]] 

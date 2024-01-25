@@ -41,9 +41,9 @@ markerFolder: ./Imperia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.md|Imperia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.internal.md|Imperia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.protect.md|Imperia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.private.md|Imperia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.personal.md|Imperia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.secret.md|Imperia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.internal|Imperia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.protect|Imperia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.private|Imperia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.personal|Imperia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Liguria/Imperia.Province.secret|Imperia.Province.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Composite_materials-Reliability]
 [SpocWebEntityId::26034]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.md|Triz-Ease_of_operation+Composite_materials-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.internal.md|Triz-Ease_of_operation+Composite_materials-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.protect.md|Triz-Ease_of_operation+Composite_materials-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.private.md|Triz-Ease_of_operation+Composite_materials-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.personal.md|Triz-Ease_of_operation+Composite_materials-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.secret.md|Triz-Ease_of_operation+Composite_materials-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.internal|Triz-Ease_of_operation+Composite_materials-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.protect|Triz-Ease_of_operation+Composite_materials-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.private|Triz-Ease_of_operation+Composite_materials-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.personal|Triz-Ease_of_operation+Composite_materials-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Reliability.secret|Triz-Ease_of_operation+Composite_materials-Reliability.secret]] 

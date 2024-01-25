@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.md|San_Angelo]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.internal.md|San_Angelo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.protect.md|San_Angelo.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.private.md|San_Angelo.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.personal.md|San_Angelo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.secret.md|San_Angelo.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.internal|San_Angelo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.protect|San_Angelo.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.private|San_Angelo.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.personal|San_Angelo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.secret|San_Angelo.secret]] 

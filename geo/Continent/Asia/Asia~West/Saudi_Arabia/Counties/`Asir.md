@@ -41,9 +41,9 @@ markerFolder: ./`Asir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.md|`Asir]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.internal.md|`Asir.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.protect.md|`Asir.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.private.md|`Asir.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.personal.md|`Asir.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.secret.md|`Asir.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.internal|`Asir.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.protect|`Asir.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.private|`Asir.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.personal|`Asir.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.secret|`Asir.secret]] 
 

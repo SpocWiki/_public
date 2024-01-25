@@ -41,9 +41,9 @@ markerFolder: ./Compostela_Valley/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.md|Compostela_Valley]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.internal.md|Compostela_Valley.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.protect.md|Compostela_Valley.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.private.md|Compostela_Valley.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.personal.md|Compostela_Valley.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.secret.md|Compostela_Valley.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.internal|Compostela_Valley.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.protect|Compostela_Valley.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.private|Compostela_Valley.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.personal|Compostela_Valley.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Compostela_Valley.secret|Compostela_Valley.secret]] 
 

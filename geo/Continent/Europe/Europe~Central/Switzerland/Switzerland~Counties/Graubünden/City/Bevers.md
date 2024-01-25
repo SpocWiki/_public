@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bevers.md|Bevers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bevers.internal.md|Bevers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bevers.protect.md|Bevers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bevers.private.md|Bevers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bevers.personal.md|Bevers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bevers.secret.md|Bevers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bevers.internal|Bevers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bevers.protect|Bevers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bevers.private|Bevers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bevers.personal|Bevers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bevers.secret|Bevers.secret]] 

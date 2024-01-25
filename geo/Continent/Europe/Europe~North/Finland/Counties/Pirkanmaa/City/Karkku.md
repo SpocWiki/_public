@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Karkku.md|Karkku]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Karkku.internal.md|Karkku.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Karkku.protect.md|Karkku.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Karkku.private.md|Karkku.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Karkku.personal.md|Karkku.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Karkku.secret.md|Karkku.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Karkku.internal|Karkku.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Karkku.protect|Karkku.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Karkku.private|Karkku.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Karkku.personal|Karkku.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Karkku.secret|Karkku.secret]] 

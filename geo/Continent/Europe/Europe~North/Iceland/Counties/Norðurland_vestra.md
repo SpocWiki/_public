@@ -41,9 +41,9 @@ markerFolder: ./Norðurland_vestra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.md|Norðurland_vestra]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.internal.md|Norðurland_vestra.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.protect.md|Norðurland_vestra.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.private.md|Norðurland_vestra.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.personal.md|Norðurland_vestra.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.secret.md|Norðurland_vestra.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.internal|Norðurland_vestra.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.protect|Norðurland_vestra.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.private|Norðurland_vestra.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.personal|Norðurland_vestra.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Norðurland_vestra.secret|Norðurland_vestra.secret]] 
 

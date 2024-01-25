@@ -41,9 +41,9 @@ markerFolder: ./Bristol/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.md|Bristol]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.internal.md|Bristol.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.protect.md|Bristol.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.private.md|Bristol.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.personal.md|Bristol.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.secret.md|Bristol.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.internal|Bristol.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.protect|Bristol.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.private|Bristol.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.personal|Bristol.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Bristol.secret|Bristol.secret]] 
 

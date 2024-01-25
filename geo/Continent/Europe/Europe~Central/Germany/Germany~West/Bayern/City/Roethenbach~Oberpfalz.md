@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Roethenbach~Oberpfalz|Roethenbach~Oberpfalz]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.internal.md|Roethenbach~Oberpfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.protect.md|Roethenbach~Oberpfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.private.md|Roethenbach~Oberpfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.personal.md|Roethenbach~Oberpfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.secret.md|Roethenbach~Oberpfalz.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.internal|Roethenbach~Oberpfalz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.protect|Roethenbach~Oberpfalz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.private|Roethenbach~Oberpfalz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.personal|Roethenbach~Oberpfalz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.secret|Roethenbach~Oberpfalz.secret]] 

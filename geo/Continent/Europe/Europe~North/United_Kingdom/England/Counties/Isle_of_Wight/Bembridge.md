@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bembridge.md|Bembridge]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bembridge.internal.md|Bembridge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bembridge.protect.md|Bembridge.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bembridge.private.md|Bembridge.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bembridge.personal.md|Bembridge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bembridge.secret.md|Bembridge.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bembridge.internal|Bembridge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bembridge.protect|Bembridge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bembridge.private|Bembridge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bembridge.personal|Bembridge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bembridge.secret|Bembridge.secret]] 

@@ -133,8 +133,8 @@ markerFolder: ./French_Polynesia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/French_Polynesia.md|French_Polynesia]] 
-- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia.internal.md|French_Polynesia.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia.protect.md|French_Polynesia.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/French_Polynesia.private.md|French_Polynesia.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia.personal.md|French_Polynesia.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia.secret.md|French_Polynesia.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia.internal|French_Polynesia.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia.protect|French_Polynesia.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/French_Polynesia.private|French_Polynesia.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia.personal|French_Polynesia.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia.secret|French_Polynesia.secret]] 

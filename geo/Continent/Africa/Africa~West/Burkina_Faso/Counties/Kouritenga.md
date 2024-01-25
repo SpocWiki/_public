@@ -41,9 +41,9 @@ markerFolder: ./Kouritenga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.md|Kouritenga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.internal.md|Kouritenga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.protect.md|Kouritenga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.private.md|Kouritenga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.personal.md|Kouritenga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.secret.md|Kouritenga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.internal|Kouritenga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.protect|Kouritenga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.private|Kouritenga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.personal|Kouritenga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.secret|Kouritenga.secret]] 
 

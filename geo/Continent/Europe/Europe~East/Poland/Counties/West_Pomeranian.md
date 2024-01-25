@@ -41,9 +41,9 @@ markerFolder: ./West_Pomeranian/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/West_Pomeranian.md|West_Pomeranian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/West_Pomeranian.internal.md|West_Pomeranian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/West_Pomeranian.protect.md|West_Pomeranian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/West_Pomeranian.private.md|West_Pomeranian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/West_Pomeranian.personal.md|West_Pomeranian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/West_Pomeranian.secret.md|West_Pomeranian.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/West_Pomeranian.internal|West_Pomeranian.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/West_Pomeranian.protect|West_Pomeranian.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/West_Pomeranian.private|West_Pomeranian.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/West_Pomeranian.personal|West_Pomeranian.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/West_Pomeranian.secret|West_Pomeranian.secret]] 
 

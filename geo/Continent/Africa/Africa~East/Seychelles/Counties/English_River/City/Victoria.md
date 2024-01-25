@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Seychelles/City/Victoria.md|Victoria]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/City/Victoria.internal.md|Victoria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/City/Victoria.protect.md|Victoria.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/City/Victoria.private.md|Victoria.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/City/Victoria.personal.md|Victoria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/City/Victoria.secret.md|Victoria.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/City/Victoria.internal|Victoria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/City/Victoria.protect|Victoria.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Seychelles/City/Victoria.private|Victoria.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/City/Victoria.personal|Victoria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/City/Victoria.secret|Victoria.secret]] 

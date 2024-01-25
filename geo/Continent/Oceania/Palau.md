@@ -138,8 +138,8 @@ markerFolder: ./Palau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau.md|Palau]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau.internal.md|Palau.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau.protect.md|Palau.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau.private.md|Palau.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau.personal.md|Palau.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau.secret.md|Palau.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau.internal|Palau.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau.protect|Palau.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau.private|Palau.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau.personal|Palau.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau.secret|Palau.secret]] 

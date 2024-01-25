@@ -41,9 +41,9 @@ markerFolder: ./Borovnica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.md|Borovnica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.internal.md|Borovnica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.protect.md|Borovnica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.private.md|Borovnica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.personal.md|Borovnica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.secret.md|Borovnica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.internal|Borovnica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.protect|Borovnica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.private|Borovnica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.personal|Borovnica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Borovnica.secret|Borovnica.secret]] 
 

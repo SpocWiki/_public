@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Blanc.md|Blanc]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Blanc.internal.md|Blanc.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Blanc.protect.md|Blanc.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Blanc.private.md|Blanc.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Blanc.personal.md|Blanc.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Blanc.secret.md|Blanc.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Blanc.internal|Blanc.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Blanc.protect|Blanc.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Blanc.private|Blanc.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Blanc.personal|Blanc.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Blanc.secret|Blanc.secret]] 

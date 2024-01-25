@@ -41,9 +41,9 @@ markerFolder: ./Tébessa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tébessa.md|Tébessa]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tébessa.internal.md|Tébessa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tébessa.protect.md|Tébessa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tébessa.private.md|Tébessa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tébessa.personal.md|Tébessa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tébessa.secret.md|Tébessa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tébessa.internal|Tébessa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tébessa.protect|Tébessa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tébessa.private|Tébessa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tébessa.personal|Tébessa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tébessa.secret|Tébessa.secret]] 
 

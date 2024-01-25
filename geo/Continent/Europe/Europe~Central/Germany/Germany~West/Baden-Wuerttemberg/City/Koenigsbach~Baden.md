@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Koenigsbach~Baden|Koenigsbach~Baden]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.internal.md|Koenigsbach~Baden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.protect.md|Koenigsbach~Baden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.private.md|Koenigsbach~Baden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.personal.md|Koenigsbach~Baden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.secret.md|Koenigsbach~Baden.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.internal|Koenigsbach~Baden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.protect|Koenigsbach~Baden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.private|Koenigsbach~Baden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.personal|Koenigsbach~Baden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.secret|Koenigsbach~Baden.secret]] 

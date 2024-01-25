@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Dongo.md|Dongo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Dongo.internal.md|Dongo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Dongo.protect.md|Dongo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Dongo.private.md|Dongo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Dongo.personal.md|Dongo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Dongo.secret.md|Dongo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Dongo.internal|Dongo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Dongo.protect|Dongo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Dongo.private|Dongo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Dongo.personal|Dongo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Dongo.secret|Dongo.secret]] 

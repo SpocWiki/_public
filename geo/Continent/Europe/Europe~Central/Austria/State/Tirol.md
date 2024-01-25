@@ -28,8 +28,8 @@ markerFolder: ./Tirol/
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/State/Tirol.md|Tirol]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Tirol.internal.md|Tirol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Tirol.protect.md|Tirol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Tirol.private.md|Tirol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Tirol.personal.md|Tirol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Tirol.secret.md|Tirol.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Tirol.internal|Tirol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Tirol.protect|Tirol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Tirol.private|Tirol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Tirol.personal|Tirol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Tirol.secret|Tirol.secret]] 

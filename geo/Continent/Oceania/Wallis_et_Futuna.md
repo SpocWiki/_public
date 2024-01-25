@@ -36,8 +36,8 @@ markerFolder: ./Wallis_et_Futuna/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Wallis_et_Futuna.md|Wallis_et_Futuna]] 
-- [[../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna.internal.md|Wallis_et_Futuna.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna.protect.md|Wallis_et_Futuna.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna.private.md|Wallis_et_Futuna.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna.personal.md|Wallis_et_Futuna.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna.secret.md|Wallis_et_Futuna.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna.internal|Wallis_et_Futuna.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna.protect|Wallis_et_Futuna.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna.private|Wallis_et_Futuna.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna.personal|Wallis_et_Futuna.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna.secret|Wallis_et_Futuna.secret]] 

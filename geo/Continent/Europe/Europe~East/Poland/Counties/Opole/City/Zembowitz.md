@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zembowitz.md|Zembowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zembowitz.internal.md|Zembowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zembowitz.protect.md|Zembowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zembowitz.private.md|Zembowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zembowitz.personal.md|Zembowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zembowitz.secret.md|Zembowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zembowitz.internal|Zembowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zembowitz.protect|Zembowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zembowitz.private|Zembowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zembowitz.personal|Zembowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zembowitz.secret|Zembowitz.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss]
 [SpocWebEntityId::26028]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.internal.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.protect.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.private.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.personal.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.secret.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.internal|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.protect|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.private|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.personal|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.secret|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.secret]] 

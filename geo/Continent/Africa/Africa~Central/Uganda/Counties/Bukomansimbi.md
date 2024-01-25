@@ -41,9 +41,9 @@ markerFolder: ./Bukomansimbi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.md|Bukomansimbi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.internal.md|Bukomansimbi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.protect.md|Bukomansimbi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.private.md|Bukomansimbi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.personal.md|Bukomansimbi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.secret.md|Bukomansimbi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.internal|Bukomansimbi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.protect|Bukomansimbi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.private|Bukomansimbi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.personal|Bukomansimbi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.secret|Bukomansimbi.secret]] 
 

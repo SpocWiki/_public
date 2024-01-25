@@ -41,9 +41,9 @@ markerFolder: ./Clare/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Clare.md|Clare]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Clare.internal.md|Clare.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Clare.protect.md|Clare.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Clare.private.md|Clare.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Clare.personal.md|Clare.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Clare.secret.md|Clare.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Clare.internal|Clare.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Clare.protect|Clare.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Clare.private|Clare.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Clare.personal|Clare.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Clare.secret|Clare.secret]] 
 

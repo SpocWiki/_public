@@ -41,9 +41,9 @@ markerFolder: ./Đông_Bắc/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.md|Đông_Bắc]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.internal.md|Đông_Bắc.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.protect.md|Đông_Bắc.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.private.md|Đông_Bắc.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.personal.md|Đông_Bắc.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.secret.md|Đông_Bắc.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.internal|Đông_Bắc.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.protect|Đông_Bắc.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.private|Đông_Bắc.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.personal|Đông_Bắc.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Bắc.secret|Đông_Bắc.secret]] 
 

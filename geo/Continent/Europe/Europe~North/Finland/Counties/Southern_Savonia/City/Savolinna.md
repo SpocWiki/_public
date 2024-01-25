@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Savolinna.md|Savolinna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Savolinna.internal.md|Savolinna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Savolinna.protect.md|Savolinna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Savolinna.private.md|Savolinna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Savolinna.personal.md|Savolinna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Savolinna.secret.md|Savolinna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Savolinna.internal|Savolinna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Savolinna.protect|Savolinna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Savolinna.private|Savolinna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Savolinna.personal|Savolinna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Savolinna.secret|Savolinna.secret]] 

@@ -37,7 +37,7 @@ markerFolder: ./Palestinian_Territory,_Occupied/
 ## Confidential Links & Embeds: 
 -[[Palestinian_Territory,_Occupied|Palestinian_Territory,_Occupied]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Palestinian_Territory,_Occupied.internal|Palestinian_Territory,_Occupied.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Palestinian_Territory,_Occupied.protect.md|Palestinian_Territory,_Occupied.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Palestinian_Territory,_Occupied.private.md|Palestinian_Territory,_Occupied.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Palestinian_Territory,_Occupied.personal.md|Palestinian_Territory,_Occupied.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Palestinian_Territory,_Occupied.secret.md|Palestinian_Territory,_Occupied.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Palestinian_Territory,_Occupied.protect|Palestinian_Territory,_Occupied.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Palestinian_Territory,_Occupied.private|Palestinian_Territory,_Occupied.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Palestinian_Territory,_Occupied.personal|Palestinian_Territory,_Occupied.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Palestinian_Territory,_Occupied.secret|Palestinian_Territory,_Occupied.secret]] 

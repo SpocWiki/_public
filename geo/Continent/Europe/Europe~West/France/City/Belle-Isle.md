@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Belle-Isle.md|Belle-Isle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Belle-Isle.internal.md|Belle-Isle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Belle-Isle.protect.md|Belle-Isle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Belle-Isle.private.md|Belle-Isle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Belle-Isle.personal.md|Belle-Isle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Belle-Isle.secret.md|Belle-Isle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Belle-Isle.internal|Belle-Isle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Belle-Isle.protect|Belle-Isle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Belle-Isle.private|Belle-Isle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Belle-Isle.personal|Belle-Isle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Belle-Isle.secret|Belle-Isle.secret]] 

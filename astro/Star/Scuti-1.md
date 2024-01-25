@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Scuti-1.md|Scuti-1]] 
-- [[../../../_internal/astro/Star/Scuti-1.internal.md|Scuti-1.internal]] 
-- [[../../../_protect/astro/Star/Scuti-1.protect.md|Scuti-1.protect]] 
-- [[../../../_private/astro/Star/Scuti-1.private.md|Scuti-1.private]] 
-- [[../../../_personal/astro/Star/Scuti-1.personal.md|Scuti-1.personal]] 
-- [[../../../_secret/astro/Star/Scuti-1.secret.md|Scuti-1.secret]] 
+- [[../../../_internal/astro/Star/Scuti-1.internal|Scuti-1.internal]] 
+- [[../../../_protect/astro/Star/Scuti-1.protect|Scuti-1.protect]] 
+- [[../../../_private/astro/Star/Scuti-1.private|Scuti-1.private]] 
+- [[../../../_personal/astro/Star/Scuti-1.personal|Scuti-1.personal]] 
+- [[../../../_secret/astro/Star/Scuti-1.secret|Scuti-1.secret]] 

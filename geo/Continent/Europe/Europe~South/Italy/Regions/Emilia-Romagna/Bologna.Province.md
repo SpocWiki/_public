@@ -41,9 +41,9 @@ markerFolder: ./Bologna.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.md|Bologna.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.internal.md|Bologna.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.protect.md|Bologna.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.private.md|Bologna.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.personal.md|Bologna.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.secret.md|Bologna.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.internal|Bologna.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.protect|Bologna.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.private|Bologna.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.personal|Bologna.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Bologna.Province.secret|Bologna.Province.secret]] 
 

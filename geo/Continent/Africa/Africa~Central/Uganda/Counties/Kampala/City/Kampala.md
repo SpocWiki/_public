@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Uganda/City/Kampala.md|Kampala]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/City/Kampala.internal.md|Kampala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/City/Kampala.protect.md|Kampala.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/City/Kampala.private.md|Kampala.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/City/Kampala.personal.md|Kampala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/City/Kampala.secret.md|Kampala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/City/Kampala.internal|Kampala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/City/Kampala.protect|Kampala.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/City/Kampala.private|Kampala.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/City/Kampala.personal|Kampala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/City/Kampala.secret|Kampala.secret]] 

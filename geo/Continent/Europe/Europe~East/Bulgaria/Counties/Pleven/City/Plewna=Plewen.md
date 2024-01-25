@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.md|Plewna=Plewen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.internal.md|Plewna=Plewen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.protect.md|Plewna=Plewen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.private.md|Plewna=Plewen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.personal.md|Plewna=Plewen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.secret.md|Plewna=Plewen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.internal|Plewna=Plewen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.protect|Plewna=Plewen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.private|Plewna=Plewen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.personal|Plewna=Plewen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Plewna=Plewen.secret|Plewna=Plewen.secret]] 

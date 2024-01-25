@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Serdobol.md|Serdobol]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Serdobol.internal.md|Serdobol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Serdobol.protect.md|Serdobol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Serdobol.private.md|Serdobol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Serdobol.personal.md|Serdobol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Serdobol.secret.md|Serdobol.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Serdobol.internal|Serdobol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Serdobol.protect|Serdobol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Serdobol.private|Serdobol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Serdobol.personal|Serdobol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Serdobol.secret|Serdobol.secret]] 

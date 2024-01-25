@@ -41,9 +41,9 @@ markerFolder: ./Belluno.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.md|Belluno.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.internal.md|Belluno.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.protect.md|Belluno.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.private.md|Belluno.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.personal.md|Belluno.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.secret.md|Belluno.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.internal|Belluno.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.protect|Belluno.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.private|Belluno.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.personal|Belluno.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Belluno.Province.secret|Belluno.Province.secret]] 
 

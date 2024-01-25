@@ -41,9 +41,9 @@ markerFolder: ./Saint_Ann/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.md|Saint_Ann]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.internal.md|Saint_Ann.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.protect.md|Saint_Ann.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.private.md|Saint_Ann.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.personal.md|Saint_Ann.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.secret.md|Saint_Ann.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.internal|Saint_Ann.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.protect|Saint_Ann.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.private|Saint_Ann.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.personal|Saint_Ann.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.secret|Saint_Ann.secret]] 
 

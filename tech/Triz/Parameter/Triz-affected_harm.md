@@ -20,8 +20,14 @@ Object-affected harmful factors
 `$=dv.current().SpocWebEntityId`
 `$=dv.current().license`
 
+# has_/Cons: 
 ```dataview
-TABLE WHERE SpocWebEntityId=22183
+TABLE WHERE has_cons=Triz-affected_harm
+```
+
+# has_/Pros 
+```dataview
+TABLE WHERE has_pros=Triz-affected_harm
 ```
 
 slow: =dv.pages().where(p => p.SpocWebEntityId=22183)`
@@ -30,8 +36,8 @@ fast: $=dv.current()`
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-affected_harm.md|Triz-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-affected_harm.internal.md|Triz-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-affected_harm.protect.md|Triz-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-affected_harm.private.md|Triz-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-affected_harm.personal.md|Triz-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-affected_harm.secret.md|Triz-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-affected_harm.internal|Triz-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-affected_harm.protect|Triz-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-affected_harm.private|Triz-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-affected_harm.personal|Triz-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-affected_harm.secret|Triz-affected_harm.secret]] 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Phoenicis-5.md|Phoenicis-5]] 
-- [[../../../_internal/astro/Star/Phoenicis-5.internal.md|Phoenicis-5.internal]] 
-- [[../../../_protect/astro/Star/Phoenicis-5.protect.md|Phoenicis-5.protect]] 
-- [[../../../_private/astro/Star/Phoenicis-5.private.md|Phoenicis-5.private]] 
-- [[../../../_personal/astro/Star/Phoenicis-5.personal.md|Phoenicis-5.personal]] 
-- [[../../../_secret/astro/Star/Phoenicis-5.secret.md|Phoenicis-5.secret]] 
+- [[../../../_internal/astro/Star/Phoenicis-5.internal|Phoenicis-5.internal]] 
+- [[../../../_protect/astro/Star/Phoenicis-5.protect|Phoenicis-5.protect]] 
+- [[../../../_private/astro/Star/Phoenicis-5.private|Phoenicis-5.private]] 
+- [[../../../_personal/astro/Star/Phoenicis-5.personal|Phoenicis-5.personal]] 
+- [[../../../_secret/astro/Star/Phoenicis-5.secret|Phoenicis-5.secret]] 

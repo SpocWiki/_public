@@ -136,7 +136,7 @@ markerFolder: ./China//
 ## Confidential Links & Embeds: 
 -[[China|China]]] 
 -[[../../../../../_internal/geo/Continent/Asia/China.internal|China.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/China.protect.md|China.protect]] 
-- [[../../../../_private/geo/Continent/Asia/China.private.md|China.private]] 
-- [[../../../../_personal/geo/Continent/Asia/China.personal.md|China.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/China.secret.md|China.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/China.protect|China.protect]] 
+- [[../../../../_private/geo/Continent/Asia/China.private|China.private]] 
+- [[../../../../_personal/geo/Continent/Asia/China.personal|China.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/China.secret|China.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Aveyron/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Occitanie/Département~Aveyron.md|Département~Aveyron]] 
-- [[../../../../_internal/geo/Continent/egions/Occitanie/Département~Aveyron.internal.md|Département~Aveyron.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Occitanie/Département~Aveyron.protect.md|Département~Aveyron.protect]] 
-- [[../../../../_private/geo/Continent/egions/Occitanie/Département~Aveyron.private.md|Département~Aveyron.private]] 
-- [[../../../../_personal/geo/Continent/egions/Occitanie/Département~Aveyron.personal.md|Département~Aveyron.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Occitanie/Département~Aveyron.secret.md|Département~Aveyron.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Occitanie/Département~Aveyron.internal|Département~Aveyron.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Occitanie/Département~Aveyron.protect|Département~Aveyron.protect]] 
+- [[../../../../_private/geo/Continent/egions/Occitanie/Département~Aveyron.private|Département~Aveyron.private]] 
+- [[../../../../_personal/geo/Continent/egions/Occitanie/Département~Aveyron.personal|Département~Aveyron.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Occitanie/Département~Aveyron.secret|Département~Aveyron.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Dariel.md|Dariel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dariel.internal.md|Dariel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dariel.protect.md|Dariel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dariel.private.md|Dariel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dariel.personal.md|Dariel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dariel.secret.md|Dariel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dariel.internal|Dariel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dariel.protect|Dariel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dariel.private|Dariel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dariel.personal|Dariel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dariel.secret|Dariel.secret]] 

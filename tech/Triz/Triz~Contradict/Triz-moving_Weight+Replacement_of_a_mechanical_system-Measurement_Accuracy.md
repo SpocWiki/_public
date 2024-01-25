@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy]
 [SpocWebEntityId::22648]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.private.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.private|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret|Triz-moving_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Haynau.md|Haynau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Haynau.internal.md|Haynau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Haynau.protect.md|Haynau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Haynau.private.md|Haynau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Haynau.personal.md|Haynau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Haynau.secret.md|Haynau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Haynau.internal|Haynau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Haynau.protect|Haynau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Haynau.private|Haynau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Haynau.personal|Haynau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Haynau.secret|Haynau.secret]] 

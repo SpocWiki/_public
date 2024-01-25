@@ -41,9 +41,9 @@ markerFolder: ./Tlaxcala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.md|Tlaxcala]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.internal.md|Tlaxcala.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.protect.md|Tlaxcala.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.private.md|Tlaxcala.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.personal.md|Tlaxcala.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.secret.md|Tlaxcala.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.internal|Tlaxcala.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.protect|Tlaxcala.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.private|Tlaxcala.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.personal|Tlaxcala.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.secret|Tlaxcala.secret]] 
 

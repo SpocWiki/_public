@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Algeciras.md|Algeciras]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Algeciras.internal.md|Algeciras.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Algeciras.protect.md|Algeciras.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Algeciras.private.md|Algeciras.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Algeciras.personal.md|Algeciras.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Algeciras.secret.md|Algeciras.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Algeciras.internal|Algeciras.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Algeciras.protect|Algeciras.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Algeciras.private|Algeciras.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Algeciras.personal|Algeciras.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Algeciras.secret|Algeciras.secret]] 

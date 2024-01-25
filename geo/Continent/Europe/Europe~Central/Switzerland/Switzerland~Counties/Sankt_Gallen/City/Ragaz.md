@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Ragaz.md|Ragaz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ragaz.internal.md|Ragaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ragaz.protect.md|Ragaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ragaz.private.md|Ragaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ragaz.personal.md|Ragaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ragaz.secret.md|Ragaz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ragaz.internal|Ragaz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ragaz.protect|Ragaz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ragaz.private|Ragaz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ragaz.personal|Ragaz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ragaz.secret|Ragaz.secret]] 

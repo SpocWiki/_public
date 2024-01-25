@@ -41,9 +41,9 @@ markerFolder: ./Glarus/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.md|Glarus]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.internal.md|Glarus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.protect.md|Glarus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.private.md|Glarus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.personal.md|Glarus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.secret.md|Glarus.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.internal|Glarus.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.protect|Glarus.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.private|Glarus.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.personal|Glarus.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Glarus.secret|Glarus.secret]] 
 

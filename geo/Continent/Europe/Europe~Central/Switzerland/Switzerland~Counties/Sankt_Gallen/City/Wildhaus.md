@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Wildhaus.md|Wildhaus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wildhaus.internal.md|Wildhaus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wildhaus.protect.md|Wildhaus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wildhaus.private.md|Wildhaus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wildhaus.personal.md|Wildhaus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wildhaus.secret.md|Wildhaus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wildhaus.internal|Wildhaus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wildhaus.protect|Wildhaus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wildhaus.private|Wildhaus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wildhaus.personal|Wildhaus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wildhaus.secret|Wildhaus.secret]] 

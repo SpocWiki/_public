@@ -12,16 +12,16 @@ tags:
 ---
 [name::22182+Changing_the_color-10307]
 [SpocWebEntityId::25574]
-+ [pro::[[Triz-22182]]]
++ [#has_/Pros :: [[Triz-22182]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-10307]]]
+- [#has_/Cons :: [[Triz-10307]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.md|Triz-22182+Changing_the_color-10307]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.internal.md|Triz-22182+Changing_the_color-10307.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.protect.md|Triz-22182+Changing_the_color-10307.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.private.md|Triz-22182+Changing_the_color-10307.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.personal.md|Triz-22182+Changing_the_color-10307.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.secret.md|Triz-22182+Changing_the_color-10307.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.internal|Triz-22182+Changing_the_color-10307.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.protect|Triz-22182+Changing_the_color-10307.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.private|Triz-22182+Changing_the_color-10307.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.personal|Triz-22182+Changing_the_color-10307.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-22182+Changing_the_color-10307.secret|Triz-22182+Changing_the_color-10307.secret]] 

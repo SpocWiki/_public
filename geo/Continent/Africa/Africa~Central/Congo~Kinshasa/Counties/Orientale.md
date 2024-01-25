@@ -41,9 +41,9 @@ markerFolder: ./Orientale/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.md|Orientale]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.internal.md|Orientale.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.protect.md|Orientale.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.private.md|Orientale.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.personal.md|Orientale.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.secret.md|Orientale.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.internal|Orientale.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.protect|Orientale.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.private|Orientale.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.personal|Orientale.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.secret|Orientale.secret]] 
 

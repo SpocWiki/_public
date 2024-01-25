@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Segmentation-Substance-Loss]
 [SpocWebEntityId::26486]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.md|Triz-Difficulty+Segmentation-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.internal.md|Triz-Difficulty+Segmentation-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.protect.md|Triz-Difficulty+Segmentation-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.private.md|Triz-Difficulty+Segmentation-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.personal.md|Triz-Difficulty+Segmentation-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.secret.md|Triz-Difficulty+Segmentation-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.internal|Triz-Difficulty+Segmentation-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.protect|Triz-Difficulty+Segmentation-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.private|Triz-Difficulty+Segmentation-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.personal|Triz-Difficulty+Segmentation-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.secret|Triz-Difficulty+Segmentation-Substance-Loss.secret]] 

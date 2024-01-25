@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Griesskirchen.md|Griesskirchen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Griesskirchen.internal.md|Griesskirchen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Griesskirchen.protect.md|Griesskirchen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Griesskirchen.private.md|Griesskirchen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Griesskirchen.personal.md|Griesskirchen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Griesskirchen.secret.md|Griesskirchen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Griesskirchen.internal|Griesskirchen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Griesskirchen.protect|Griesskirchen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Griesskirchen.private|Griesskirchen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Griesskirchen.personal|Griesskirchen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Griesskirchen.secret|Griesskirchen.secret]] 

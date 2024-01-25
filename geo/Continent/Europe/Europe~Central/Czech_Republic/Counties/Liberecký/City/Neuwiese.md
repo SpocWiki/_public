@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Neuwiese.md|Neuwiese]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Neuwiese.internal.md|Neuwiese.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Neuwiese.protect.md|Neuwiese.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Neuwiese.private.md|Neuwiese.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Neuwiese.personal.md|Neuwiese.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Neuwiese.secret.md|Neuwiese.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Neuwiese.internal|Neuwiese.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Neuwiese.protect|Neuwiese.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Neuwiese.private|Neuwiese.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Neuwiese.personal|Neuwiese.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Neuwiese.secret|Neuwiese.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Extraction-moving_Energy]
 [SpocWebEntityId::25532]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-moving_Energy]]]
+- [#has_/Cons :: [[Triz-moving_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.md|Triz-Manufacturing_Precision+Extraction-moving_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.internal.md|Triz-Manufacturing_Precision+Extraction-moving_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.protect.md|Triz-Manufacturing_Precision+Extraction-moving_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.private.md|Triz-Manufacturing_Precision+Extraction-moving_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.personal.md|Triz-Manufacturing_Precision+Extraction-moving_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.secret.md|Triz-Manufacturing_Precision+Extraction-moving_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.internal|Triz-Manufacturing_Precision+Extraction-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.protect|Triz-Manufacturing_Precision+Extraction-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.private|Triz-Manufacturing_Precision+Extraction-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.personal|Triz-Manufacturing_Precision+Extraction-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-moving_Energy.secret|Triz-Manufacturing_Precision+Extraction-moving_Energy.secret]] 

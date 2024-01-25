@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Helier.md|St.Helier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Helier.internal.md|St.Helier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Helier.protect.md|St.Helier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Helier.private.md|St.Helier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Helier.personal.md|St.Helier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Helier.secret.md|St.Helier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Helier.internal|St.Helier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Helier.protect|St.Helier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Helier.private|St.Helier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Helier.personal|St.Helier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Helier.secret|St.Helier.secret]] 

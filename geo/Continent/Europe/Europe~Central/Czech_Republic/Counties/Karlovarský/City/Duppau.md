@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Duppau.md|Duppau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Duppau.internal.md|Duppau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Duppau.protect.md|Duppau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Duppau.private.md|Duppau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Duppau.personal.md|Duppau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Duppau.secret.md|Duppau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Duppau.internal|Duppau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Duppau.protect|Duppau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Duppau.private|Duppau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Duppau.personal|Duppau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Duppau.secret|Duppau.secret]] 

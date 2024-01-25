@@ -37,8 +37,8 @@ SpocWebEntityId: 21976
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-13-Boron/Thallium.md|Thallium]] 
-- [[../../../../_internal/chemic/Elements/Group-13-Boron/Thallium.internal.md|Thallium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-13-Boron/Thallium.protect.md|Thallium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-13-Boron/Thallium.private.md|Thallium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-13-Boron/Thallium.personal.md|Thallium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-13-Boron/Thallium.secret.md|Thallium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-13-Boron/Thallium.internal|Thallium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-13-Boron/Thallium.protect|Thallium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-13-Boron/Thallium.private|Thallium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-13-Boron/Thallium.personal|Thallium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-13-Boron/Thallium.secret|Thallium.secret]] 

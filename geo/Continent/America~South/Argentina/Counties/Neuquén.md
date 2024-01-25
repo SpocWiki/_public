@@ -41,9 +41,9 @@ markerFolder: ./Neuquén/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Neuquén.md|Neuquén]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Neuquén.internal.md|Neuquén.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Neuquén.protect.md|Neuquén.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Neuquén.private.md|Neuquén.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Neuquén.personal.md|Neuquén.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Neuquén.secret.md|Neuquén.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Neuquén.internal|Neuquén.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Neuquén.protect|Neuquén.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Neuquén.private|Neuquén.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Neuquén.personal|Neuquén.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Neuquén.secret|Neuquén.secret]] 
 

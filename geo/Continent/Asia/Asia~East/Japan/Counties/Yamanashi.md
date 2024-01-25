@@ -41,9 +41,9 @@ markerFolder: ./Yamanashi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.md|Yamanashi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.internal.md|Yamanashi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.protect.md|Yamanashi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.private.md|Yamanashi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.personal.md|Yamanashi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.secret.md|Yamanashi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.internal|Yamanashi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.protect|Yamanashi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.private|Yamanashi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.personal|Yamanashi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.secret|Yamanashi.secret]] 
 

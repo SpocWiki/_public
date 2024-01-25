@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Bahrain/City/Manama.md|Manama]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Bahrain/City/Manama.internal.md|Manama.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Bahrain/City/Manama.protect.md|Manama.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Bahrain/City/Manama.private.md|Manama.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Bahrain/City/Manama.personal.md|Manama.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Bahrain/City/Manama.secret.md|Manama.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Bahrain/City/Manama.internal|Manama.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Bahrain/City/Manama.protect|Manama.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Bahrain/City/Manama.private|Manama.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Bahrain/City/Manama.personal|Manama.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Bahrain/City/Manama.secret|Manama.secret]] 

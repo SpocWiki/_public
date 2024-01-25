@@ -41,9 +41,9 @@ markerFolder: ./Davao_Oriental/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.md|Davao_Oriental]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.internal.md|Davao_Oriental.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.protect.md|Davao_Oriental.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.private.md|Davao_Oriental.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.personal.md|Davao_Oriental.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.secret.md|Davao_Oriental.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.internal|Davao_Oriental.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.protect|Davao_Oriental.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.private|Davao_Oriental.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.personal|Davao_Oriental.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.secret|Davao_Oriental.secret]] 
 

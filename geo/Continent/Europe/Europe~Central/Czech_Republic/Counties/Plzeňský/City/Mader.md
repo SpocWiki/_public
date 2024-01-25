@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Mader.md|Mader]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Mader.internal.md|Mader.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Mader.protect.md|Mader.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Mader.private.md|Mader.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Mader.personal.md|Mader.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Mader.secret.md|Mader.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Mader.internal|Mader.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Mader.protect|Mader.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Mader.private|Mader.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Mader.personal|Mader.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Mader.secret|Mader.secret]] 

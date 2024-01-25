@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Davos-Platz.md|Davos-Platz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Davos-Platz.internal.md|Davos-Platz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Davos-Platz.protect.md|Davos-Platz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Davos-Platz.private.md|Davos-Platz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Davos-Platz.personal.md|Davos-Platz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Davos-Platz.secret.md|Davos-Platz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Davos-Platz.internal|Davos-Platz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Davos-Platz.protect|Davos-Platz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Davos-Platz.private|Davos-Platz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Davos-Platz.personal|Davos-Platz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Davos-Platz.secret|Davos-Platz.secret]] 

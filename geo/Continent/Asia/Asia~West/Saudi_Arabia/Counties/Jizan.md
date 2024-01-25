@@ -41,9 +41,9 @@ markerFolder: ./Jizan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.md|Jizan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.internal.md|Jizan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.protect.md|Jizan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.private.md|Jizan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.personal.md|Jizan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.secret.md|Jizan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.internal|Jizan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.protect|Jizan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.private|Jizan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.personal|Jizan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Jizan.secret|Jizan.secret]] 
 

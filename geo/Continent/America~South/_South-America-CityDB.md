@@ -343,8 +343,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[_South-America-CityDB|_South-America-CityDB]] 
-- [[../../../../_internal/geo/Continent/South-America/_South-America-CityDB.internal.md|_South-America-CityDB.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/_South-America-CityDB.protect.md|_South-America-CityDB.protect]] 
-- [[../../../../_private/geo/Continent/South-America/_South-America-CityDB.private.md|_South-America-CityDB.private]] 
-- [[../../../../_personal/geo/Continent/South-America/_South-America-CityDB.personal.md|_South-America-CityDB.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/_South-America-CityDB.secret.md|_South-America-CityDB.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/_South-America-CityDB.internal|_South-America-CityDB.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/_South-America-CityDB.protect|_South-America-CityDB.protect]] 
+- [[../../../../_private/geo/Continent/South-America/_South-America-CityDB.private|_South-America-CityDB.private]] 
+- [[../../../../_personal/geo/Continent/South-America/_South-America-CityDB.personal|_South-America-CityDB.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/_South-America-CityDB.secret|_South-America-CityDB.secret]] 

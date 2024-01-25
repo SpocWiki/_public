@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Copying-Strength]
 [SpocWebEntityId::24736]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.md|Triz-Energy-Loss+Copying-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.internal.md|Triz-Energy-Loss+Copying-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.protect.md|Triz-Energy-Loss+Copying-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.private.md|Triz-Energy-Loss+Copying-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.personal.md|Triz-Energy-Loss+Copying-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.secret.md|Triz-Energy-Loss+Copying-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.internal|Triz-Energy-Loss+Copying-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.protect|Triz-Energy-Loss+Copying-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.private|Triz-Energy-Loss+Copying-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.personal|Triz-Energy-Loss+Copying-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.secret|Triz-Energy-Loss+Copying-Strength.secret]] 

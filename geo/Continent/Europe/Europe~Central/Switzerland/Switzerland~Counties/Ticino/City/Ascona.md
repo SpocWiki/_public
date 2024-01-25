@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ascona.md|Ascona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ascona.internal.md|Ascona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ascona.protect.md|Ascona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ascona.private.md|Ascona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ascona.personal.md|Ascona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ascona.secret.md|Ascona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ascona.internal|Ascona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ascona.protect|Ascona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ascona.private|Ascona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ascona.personal|Ascona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ascona.secret|Ascona.secret]] 

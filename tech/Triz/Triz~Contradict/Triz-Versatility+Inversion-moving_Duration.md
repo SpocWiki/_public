@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Inversion-moving_Duration]
 [SpocWebEntityId::26223]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.md|Triz-Versatility+Inversion-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.internal.md|Triz-Versatility+Inversion-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.protect.md|Triz-Versatility+Inversion-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.private.md|Triz-Versatility+Inversion-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.personal.md|Triz-Versatility+Inversion-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.secret.md|Triz-Versatility+Inversion-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.internal|Triz-Versatility+Inversion-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.protect|Triz-Versatility+Inversion-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.private|Triz-Versatility+Inversion-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.personal|Triz-Versatility+Inversion-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Duration.secret|Triz-Versatility+Inversion-moving_Duration.secret]] 

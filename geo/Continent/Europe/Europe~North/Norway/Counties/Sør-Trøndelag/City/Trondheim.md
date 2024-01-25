@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Trondheim.md|Trondheim]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Trondheim.internal.md|Trondheim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Trondheim.protect.md|Trondheim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Trondheim.private.md|Trondheim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Trondheim.personal.md|Trondheim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Trondheim.secret.md|Trondheim.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Trondheim.internal|Trondheim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Trondheim.protect|Trondheim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Trondheim.private|Trondheim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Trondheim.personal|Trondheim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Trondheim.secret|Trondheim.secret]] 

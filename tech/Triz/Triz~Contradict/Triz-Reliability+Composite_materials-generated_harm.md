@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Composite_materials-generated_harm]
 [SpocWebEntityId::25334]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.md|Triz-Reliability+Composite_materials-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.internal.md|Triz-Reliability+Composite_materials-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.protect.md|Triz-Reliability+Composite_materials-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.private.md|Triz-Reliability+Composite_materials-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.personal.md|Triz-Reliability+Composite_materials-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.secret.md|Triz-Reliability+Composite_materials-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.internal|Triz-Reliability+Composite_materials-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.protect|Triz-Reliability+Composite_materials-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.private|Triz-Reliability+Composite_materials-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.personal|Triz-Reliability+Composite_materials-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Composite_materials-generated_harm.secret|Triz-Reliability+Composite_materials-generated_harm.secret]] 

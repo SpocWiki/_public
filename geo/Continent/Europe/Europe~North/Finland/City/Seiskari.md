@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Seiskari.md|Seiskari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Seiskari.internal.md|Seiskari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Seiskari.protect.md|Seiskari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Seiskari.private.md|Seiskari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Seiskari.personal.md|Seiskari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Seiskari.secret.md|Seiskari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Seiskari.internal|Seiskari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Seiskari.protect|Seiskari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Seiskari.private|Seiskari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Seiskari.personal|Seiskari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Seiskari.secret|Seiskari.secret]] 

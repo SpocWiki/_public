@@ -41,9 +41,9 @@ markerFolder: ./Rochdale/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.md|Rochdale]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.internal.md|Rochdale.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.protect.md|Rochdale.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.private.md|Rochdale.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.personal.md|Rochdale.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.secret.md|Rochdale.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.internal|Rochdale.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.protect|Rochdale.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.private|Rochdale.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.personal|Rochdale.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Rochdale.secret|Rochdale.secret]] 
 

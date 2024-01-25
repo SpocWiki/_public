@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lonkau-Paschak.md|Lonkau-Paschak]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lonkau-Paschak.internal.md|Lonkau-Paschak.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lonkau-Paschak.protect.md|Lonkau-Paschak.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lonkau-Paschak.private.md|Lonkau-Paschak.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lonkau-Paschak.personal.md|Lonkau-Paschak.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lonkau-Paschak.secret.md|Lonkau-Paschak.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lonkau-Paschak.internal|Lonkau-Paschak.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lonkau-Paschak.protect|Lonkau-Paschak.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lonkau-Paschak.private|Lonkau-Paschak.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lonkau-Paschak.personal|Lonkau-Paschak.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lonkau-Paschak.secret|Lonkau-Paschak.secret]] 

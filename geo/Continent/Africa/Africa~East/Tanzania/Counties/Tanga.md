@@ -41,9 +41,9 @@ markerFolder: ./Tanga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Tanga.md|Tanga]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Tanga.internal.md|Tanga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Tanga.protect.md|Tanga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Tanga.private.md|Tanga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Tanga.personal.md|Tanga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Tanga.secret.md|Tanga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Tanga.internal|Tanga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Tanga.protect|Tanga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Tanga.private|Tanga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Tanga.personal|Tanga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Tanga.secret|Tanga.secret]] 
 

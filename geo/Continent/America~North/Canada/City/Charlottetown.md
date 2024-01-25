@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Charlottetown|Charlottetown]]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Charlottetown.internal.md|Charlottetown.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Charlottetown.protect.md|Charlottetown.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Charlottetown.private.md|Charlottetown.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Charlottetown.personal.md|Charlottetown.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Charlottetown.secret.md|Charlottetown.secret]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Charlottetown.internal|Charlottetown.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Charlottetown.protect|Charlottetown.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Charlottetown.private|Charlottetown.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Charlottetown.personal|Charlottetown.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Charlottetown.secret|Charlottetown.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zereb.md|Zereb]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zereb.internal.md|Zereb.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zereb.protect.md|Zereb.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zereb.private.md|Zereb.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zereb.personal.md|Zereb.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zereb.secret.md|Zereb.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zereb.internal|Zereb.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zereb.protect|Zereb.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zereb.private|Zereb.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zereb.personal|Zereb.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zereb.secret|Zereb.secret]] 

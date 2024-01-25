@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Enniskilien.md|Enniskilien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Enniskilien.internal.md|Enniskilien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Enniskilien.protect.md|Enniskilien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Enniskilien.private.md|Enniskilien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Enniskilien.personal.md|Enniskilien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Enniskilien.secret.md|Enniskilien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Enniskilien.internal|Enniskilien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Enniskilien.protect|Enniskilien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Enniskilien.private|Enniskilien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Enniskilien.personal|Enniskilien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Enniskilien.secret|Enniskilien.secret]] 

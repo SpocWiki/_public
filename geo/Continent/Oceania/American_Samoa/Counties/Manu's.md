@@ -41,9 +41,9 @@ markerFolder: ./Manu's/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/American_Samoa/Counties/Manu's.md|Manu's]] 
-- [[../../../../_internal/geo/Continent/Oceania/American_Samoa/Counties/Manu's.internal.md|Manu's.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/American_Samoa/Counties/Manu's.protect.md|Manu's.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/American_Samoa/Counties/Manu's.private.md|Manu's.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/American_Samoa/Counties/Manu's.personal.md|Manu's.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/American_Samoa/Counties/Manu's.secret.md|Manu's.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/American_Samoa/Counties/Manu's.internal|Manu's.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/American_Samoa/Counties/Manu's.protect|Manu's.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/American_Samoa/Counties/Manu's.private|Manu's.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/American_Samoa/Counties/Manu's.personal|Manu's.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/American_Samoa/Counties/Manu's.secret|Manu's.secret]] 
 

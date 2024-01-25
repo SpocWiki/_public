@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Biella.md|Biella]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Biella.internal.md|Biella.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Biella.protect.md|Biella.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Biella.private.md|Biella.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Biella.personal.md|Biella.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Biella.secret.md|Biella.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Biella.internal|Biella.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Biella.protect|Biella.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Biella.private|Biella.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Biella.personal|Biella.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Biella.secret|Biella.secret]] 

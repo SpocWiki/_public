@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.md|Waldenburg~Oberschlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.internal.md|Waldenburg~Oberschlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.protect.md|Waldenburg~Oberschlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.private.md|Waldenburg~Oberschlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.personal.md|Waldenburg~Oberschlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.secret.md|Waldenburg~Oberschlesien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.internal|Waldenburg~Oberschlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.protect|Waldenburg~Oberschlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.private|Waldenburg~Oberschlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.personal|Waldenburg~Oberschlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Waldenburg~Oberschlesien.secret|Waldenburg~Oberschlesien.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Viljandi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Viljandi.md|Viljandi]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Viljandi.internal.md|Viljandi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Viljandi.protect.md|Viljandi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Viljandi.private.md|Viljandi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Viljandi.personal.md|Viljandi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Viljandi.secret.md|Viljandi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Viljandi.internal|Viljandi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Viljandi.protect|Viljandi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Viljandi.private|Viljandi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Viljandi.personal|Viljandi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Viljandi.secret|Viljandi.secret]] 
 

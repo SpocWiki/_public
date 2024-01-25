@@ -41,9 +41,9 @@ markerFolder: ./Segovia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.md|Segovia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.internal.md|Segovia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.protect.md|Segovia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.private.md|Segovia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.personal.md|Segovia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.secret.md|Segovia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.internal|Segovia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.protect|Segovia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.private|Segovia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.personal|Segovia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Segovia.Province.secret|Segovia.Province.secret]] 
 

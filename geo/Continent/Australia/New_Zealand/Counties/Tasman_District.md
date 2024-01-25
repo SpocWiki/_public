@@ -41,9 +41,9 @@ markerFolder: ./Tasman_District/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.md|Tasman_District]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.internal.md|Tasman_District.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.protect.md|Tasman_District.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.private.md|Tasman_District.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.personal.md|Tasman_District.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.secret.md|Tasman_District.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.internal|Tasman_District.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.protect|Tasman_District.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.private|Tasman_District.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.personal|Tasman_District.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Tasman_District.secret|Tasman_District.secret]] 
 

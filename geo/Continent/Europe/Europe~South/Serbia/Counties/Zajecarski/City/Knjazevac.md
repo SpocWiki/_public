@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Knjazevac.md|Knjazevac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Knjazevac.internal.md|Knjazevac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Knjazevac.protect.md|Knjazevac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Knjazevac.private.md|Knjazevac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Knjazevac.personal.md|Knjazevac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Knjazevac.secret.md|Knjazevac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Knjazevac.internal|Knjazevac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Knjazevac.protect|Knjazevac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Knjazevac.private|Knjazevac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Knjazevac.personal|Knjazevac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Knjazevac.secret|Knjazevac.secret]] 

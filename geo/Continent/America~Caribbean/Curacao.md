@@ -120,8 +120,8 @@ markerFolder: ./Curacao/
 
 ## Confidential Links & Embeds: 
 - [[Curacao|Curacao]] 
-- [[../../../../_internal/geo/Continent/South-America/Curacao.internal.md|Curacao.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Curacao.protect.md|Curacao.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Curacao.private.md|Curacao.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Curacao.personal.md|Curacao.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Curacao.secret.md|Curacao.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Curacao.internal|Curacao.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Curacao.protect|Curacao.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Curacao.private|Curacao.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Curacao.personal|Curacao.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Curacao.secret|Curacao.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Beyla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Beyla.md|Beyla]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Beyla.internal.md|Beyla.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Beyla.protect.md|Beyla.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Beyla.private.md|Beyla.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Beyla.personal.md|Beyla.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Beyla.secret.md|Beyla.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Beyla.internal|Beyla.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Beyla.protect|Beyla.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Beyla.private|Beyla.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Beyla.personal|Beyla.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Beyla.secret|Beyla.secret]] 
 

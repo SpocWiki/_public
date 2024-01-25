@@ -35,8 +35,8 @@ SpocWebEntityId: 21952
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Barium.md|Barium]] 
-- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Barium.internal.md|Barium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Barium.protect.md|Barium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Barium.private.md|Barium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Barium.personal.md|Barium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Barium.secret.md|Barium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Barium.internal|Barium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Barium.protect|Barium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Barium.private|Barium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Barium.personal|Barium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Barium.secret|Barium.secret]] 

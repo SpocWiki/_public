@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair]
 [SpocWebEntityId::26275]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.private.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.private|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret]] 

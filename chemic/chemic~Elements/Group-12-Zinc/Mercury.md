@@ -44,8 +44,8 @@ SpocWebEntityId: 21975
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-12-Zinc/Mercury.md|Mercury]] 
-- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Mercury.internal.md|Mercury.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Mercury.protect.md|Mercury.protect]] 
-- [[../../../../_private/chemic/Elements/Group-12-Zinc/Mercury.private.md|Mercury.private]] 
-- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Mercury.personal.md|Mercury.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Mercury.secret.md|Mercury.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Mercury.internal|Mercury.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Mercury.protect|Mercury.protect]] 
+- [[../../../../_private/chemic/Elements/Group-12-Zinc/Mercury.private|Mercury.private]] 
+- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Mercury.personal|Mercury.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Mercury.secret|Mercury.secret]] 

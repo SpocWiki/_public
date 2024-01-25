@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Prior_action-Stress]
 [SpocWebEntityId::24829]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.md|Triz-Substance-Loss+Prior_action-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.internal.md|Triz-Substance-Loss+Prior_action-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.protect.md|Triz-Substance-Loss+Prior_action-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.private.md|Triz-Substance-Loss+Prior_action-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.personal.md|Triz-Substance-Loss+Prior_action-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.secret.md|Triz-Substance-Loss+Prior_action-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.internal|Triz-Substance-Loss+Prior_action-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.protect|Triz-Substance-Loss+Prior_action-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.private|Triz-Substance-Loss+Prior_action-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.personal|Triz-Substance-Loss+Prior_action-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.secret|Triz-Substance-Loss+Prior_action-Stress.secret]] 

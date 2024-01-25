@@ -41,9 +41,9 @@ markerFolder: ./Krivogaštani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.md|Krivogaštani]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.internal.md|Krivogaštani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.protect.md|Krivogaštani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.private.md|Krivogaštani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.personal.md|Krivogaštani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.secret.md|Krivogaštani.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.internal|Krivogaštani.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.protect|Krivogaštani.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.private|Krivogaštani.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.personal|Krivogaštani.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Krivogaštani.secret|Krivogaštani.secret]] 
 

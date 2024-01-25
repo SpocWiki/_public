@@ -41,9 +41,9 @@ markerFolder: ./Jakarta_Raya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.md|Jakarta_Raya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.internal.md|Jakarta_Raya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.protect.md|Jakarta_Raya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.private.md|Jakarta_Raya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.personal.md|Jakarta_Raya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.secret.md|Jakarta_Raya.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.internal|Jakarta_Raya.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.protect|Jakarta_Raya.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.private|Jakarta_Raya.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.personal|Jakarta_Raya.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.secret|Jakarta_Raya.secret]] 
 

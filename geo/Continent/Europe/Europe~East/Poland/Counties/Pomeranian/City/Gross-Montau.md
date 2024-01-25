@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gross-Montau.md|Gross-Montau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gross-Montau.internal.md|Gross-Montau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gross-Montau.protect.md|Gross-Montau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gross-Montau.private.md|Gross-Montau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gross-Montau.personal.md|Gross-Montau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gross-Montau.secret.md|Gross-Montau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gross-Montau.internal|Gross-Montau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gross-Montau.protect|Gross-Montau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gross-Montau.private|Gross-Montau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gross-Montau.personal|Gross-Montau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gross-Montau.secret|Gross-Montau.secret]] 

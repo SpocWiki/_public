@@ -41,9 +41,9 @@ markerFolder: ./Zadarska/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Zadarska.md|Zadarska]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Zadarska.internal.md|Zadarska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Zadarska.protect.md|Zadarska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Zadarska.private.md|Zadarska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Zadarska.personal.md|Zadarska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Zadarska.secret.md|Zadarska.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Zadarska.internal|Zadarska.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Zadarska.protect|Zadarska.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Zadarska.private|Zadarska.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Zadarska.personal|Zadarska.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Zadarska.secret|Zadarska.secret]] 
 

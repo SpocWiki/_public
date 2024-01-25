@@ -38,8 +38,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York.State.md|New_York.State]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York.State.internal.md|New_York.State.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York.State.protect.md|New_York.State.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York.State.private.md|New_York.State.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York.State.personal.md|New_York.State.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York.State.secret.md|New_York.State.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York.State.internal|New_York.State.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York.State.protect|New_York.State.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York.State.private|New_York.State.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York.State.personal|New_York.State.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York.State.secret|New_York.State.secret]] 

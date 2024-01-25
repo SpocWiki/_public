@@ -41,9 +41,9 @@ markerFolder: ./Putumayo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Putumayo.md|Putumayo]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Putumayo.internal.md|Putumayo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Putumayo.protect.md|Putumayo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Putumayo.private.md|Putumayo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Putumayo.personal.md|Putumayo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Putumayo.secret.md|Putumayo.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Putumayo.internal|Putumayo.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Putumayo.protect|Putumayo.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Putumayo.private|Putumayo.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Putumayo.personal|Putumayo.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Putumayo.secret|Putumayo.secret]] 
 

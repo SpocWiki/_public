@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Vulpeculae-1.md|Vulpeculae-1]] 
-- [[../../../_internal/astro/Star/Vulpeculae-1.internal.md|Vulpeculae-1.internal]] 
-- [[../../../_protect/astro/Star/Vulpeculae-1.protect.md|Vulpeculae-1.protect]] 
-- [[../../../_private/astro/Star/Vulpeculae-1.private.md|Vulpeculae-1.private]] 
-- [[../../../_personal/astro/Star/Vulpeculae-1.personal.md|Vulpeculae-1.personal]] 
-- [[../../../_secret/astro/Star/Vulpeculae-1.secret.md|Vulpeculae-1.secret]] 
+- [[../../../_internal/astro/Star/Vulpeculae-1.internal|Vulpeculae-1.internal]] 
+- [[../../../_protect/astro/Star/Vulpeculae-1.protect|Vulpeculae-1.protect]] 
+- [[../../../_private/astro/Star/Vulpeculae-1.private|Vulpeculae-1.private]] 
+- [[../../../_personal/astro/Star/Vulpeculae-1.personal|Vulpeculae-1.personal]] 
+- [[../../../_secret/astro/Star/Vulpeculae-1.secret|Vulpeculae-1.secret]] 

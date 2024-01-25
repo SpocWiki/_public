@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Eskilstuna.md|Eskilstuna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Eskilstuna.internal.md|Eskilstuna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Eskilstuna.protect.md|Eskilstuna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Eskilstuna.private.md|Eskilstuna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Eskilstuna.personal.md|Eskilstuna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Eskilstuna.secret.md|Eskilstuna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Eskilstuna.internal|Eskilstuna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Eskilstuna.protect|Eskilstuna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Eskilstuna.private|Eskilstuna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Eskilstuna.personal|Eskilstuna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Eskilstuna.secret|Eskilstuna.secret]] 

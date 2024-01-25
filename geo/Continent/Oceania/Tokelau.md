@@ -130,8 +130,8 @@ markerFolder: ./Tokelau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Tokelau.md|Tokelau]] 
-- [[../../../../_internal/geo/Continent/Oceania/Tokelau.internal.md|Tokelau.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Tokelau.protect.md|Tokelau.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Tokelau.private.md|Tokelau.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Tokelau.personal.md|Tokelau.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Tokelau.secret.md|Tokelau.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Tokelau.internal|Tokelau.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Tokelau.protect|Tokelau.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Tokelau.private|Tokelau.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Tokelau.personal|Tokelau.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Tokelau.secret|Tokelau.secret]] 

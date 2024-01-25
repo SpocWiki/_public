@@ -41,9 +41,9 @@ markerFolder: ./Ghanzi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Ghanzi.md|Ghanzi]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Ghanzi.internal.md|Ghanzi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Ghanzi.protect.md|Ghanzi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Ghanzi.private.md|Ghanzi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Ghanzi.personal.md|Ghanzi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Ghanzi.secret.md|Ghanzi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Ghanzi.internal|Ghanzi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Ghanzi.protect|Ghanzi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Ghanzi.private|Ghanzi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Ghanzi.personal|Ghanzi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Ghanzi.secret|Ghanzi.secret]] 
 

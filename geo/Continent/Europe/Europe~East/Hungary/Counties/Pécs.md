@@ -41,9 +41,9 @@ markerFolder: ./Pécs/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Pécs.md|Pécs]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Pécs.internal.md|Pécs.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Pécs.protect.md|Pécs.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Pécs.private.md|Pécs.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Pécs.personal.md|Pécs.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Pécs.secret.md|Pécs.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Pécs.internal|Pécs.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Pécs.protect|Pécs.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Pécs.private|Pécs.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Pécs.personal|Pécs.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Pécs.secret|Pécs.secret]] 
 

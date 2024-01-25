@@ -41,9 +41,9 @@ markerFolder: ./West_Coast/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Gambia/Counties/West_Coast.md|West_Coast]] 
-- [[../../../../_internal/geo/Continent/Africa/Gambia/Counties/West_Coast.internal.md|West_Coast.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gambia/Counties/West_Coast.protect.md|West_Coast.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gambia/Counties/West_Coast.private.md|West_Coast.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gambia/Counties/West_Coast.personal.md|West_Coast.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gambia/Counties/West_Coast.secret.md|West_Coast.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Gambia/Counties/West_Coast.internal|West_Coast.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Gambia/Counties/West_Coast.protect|West_Coast.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gambia/Counties/West_Coast.private|West_Coast.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gambia/Counties/West_Coast.personal|West_Coast.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gambia/Counties/West_Coast.secret|West_Coast.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Wasit/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.md|Wasit]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.internal.md|Wasit.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.protect.md|Wasit.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.private.md|Wasit.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.personal.md|Wasit.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.secret.md|Wasit.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.internal|Wasit.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.protect|Wasit.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.private|Wasit.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.personal|Wasit.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Wasit.secret|Wasit.secret]] 
 

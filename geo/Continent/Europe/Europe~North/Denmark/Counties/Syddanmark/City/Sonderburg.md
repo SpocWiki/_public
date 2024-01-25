@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Sonderburg.md|Sonderburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Sonderburg.internal.md|Sonderburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Sonderburg.protect.md|Sonderburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Sonderburg.private.md|Sonderburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Sonderburg.personal.md|Sonderburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Sonderburg.secret.md|Sonderburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Sonderburg.internal|Sonderburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Sonderburg.protect|Sonderburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Sonderburg.private|Sonderburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Sonderburg.personal|Sonderburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Sonderburg.secret|Sonderburg.secret]] 

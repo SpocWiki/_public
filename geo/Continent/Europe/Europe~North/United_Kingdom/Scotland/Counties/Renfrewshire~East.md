@@ -41,9 +41,9 @@ markerFolder: ./Renfrewshire~East/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.md|Renfrewshire~East]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.internal.md|Renfrewshire~East.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.protect.md|Renfrewshire~East.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.private.md|Renfrewshire~East.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.personal.md|Renfrewshire~East.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.secret.md|Renfrewshire~East.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.internal|Renfrewshire~East.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.protect|Renfrewshire~East.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.private|Renfrewshire~East.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.personal|Renfrewshire~East.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Renfrewshire~East.secret|Renfrewshire~East.secret]] 
 

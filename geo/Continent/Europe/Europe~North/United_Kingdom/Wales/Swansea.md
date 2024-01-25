@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Swansea.md|Swansea]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Swansea.internal.md|Swansea.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Swansea.protect.md|Swansea.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Swansea.private.md|Swansea.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Swansea.personal.md|Swansea.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Swansea.secret.md|Swansea.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Swansea.internal|Swansea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Swansea.protect|Swansea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Swansea.private|Swansea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Swansea.personal|Swansea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Swansea.secret|Swansea.secret]] 

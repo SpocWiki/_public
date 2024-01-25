@@ -41,9 +41,9 @@ markerFolder: ./Moravce/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.md|Moravce]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.internal.md|Moravce.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.protect.md|Moravce.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.private.md|Moravce.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.personal.md|Moravce.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.secret.md|Moravce.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.internal|Moravce.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.protect|Moravce.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.private|Moravce.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.personal|Moravce.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Moravce.secret|Moravce.secret]] 
 

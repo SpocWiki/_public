@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Makhachkala.md|Makhachkala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Makhachkala.internal.md|Makhachkala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Makhachkala.protect.md|Makhachkala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Makhachkala.private.md|Makhachkala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Makhachkala.personal.md|Makhachkala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Makhachkala.secret.md|Makhachkala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Makhachkala.internal|Makhachkala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Makhachkala.protect|Makhachkala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Makhachkala.private|Makhachkala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Makhachkala.personal|Makhachkala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Makhachkala.secret|Makhachkala.secret]] 

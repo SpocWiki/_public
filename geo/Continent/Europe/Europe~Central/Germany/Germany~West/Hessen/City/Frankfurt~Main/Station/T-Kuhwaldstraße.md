@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Kuhwaldstraße|T-Kuhwaldstraße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.internal.md|T-Kuhwaldstraße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.protect.md|T-Kuhwaldstraße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.private.md|T-Kuhwaldstraße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.personal.md|T-Kuhwaldstraße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.secret.md|T-Kuhwaldstraße.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.internal|T-Kuhwaldstraße.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.protect|T-Kuhwaldstraße.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.private|T-Kuhwaldstraße.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.personal|T-Kuhwaldstraße.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Kuhwaldstraße.secret|T-Kuhwaldstraße.secret]] 

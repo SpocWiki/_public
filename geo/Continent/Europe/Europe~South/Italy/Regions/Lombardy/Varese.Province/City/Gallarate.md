@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gallarate.md|Gallarate]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gallarate.internal.md|Gallarate.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gallarate.protect.md|Gallarate.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gallarate.private.md|Gallarate.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gallarate.personal.md|Gallarate.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gallarate.secret.md|Gallarate.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gallarate.internal|Gallarate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gallarate.protect|Gallarate.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gallarate.private|Gallarate.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gallarate.personal|Gallarate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gallarate.secret|Gallarate.secret]] 

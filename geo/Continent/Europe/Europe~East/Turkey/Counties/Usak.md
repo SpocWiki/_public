@@ -41,9 +41,9 @@ markerFolder: ./Usak/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Usak.md|Usak]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Usak.internal.md|Usak.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Usak.protect.md|Usak.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Usak.private.md|Usak.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Usak.personal.md|Usak.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Usak.secret.md|Usak.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Usak.internal|Usak.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Usak.protect|Usak.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Usak.private|Usak.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Usak.personal|Usak.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Usak.secret|Usak.secret]] 
 

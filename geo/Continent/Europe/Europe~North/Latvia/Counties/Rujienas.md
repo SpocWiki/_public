@@ -41,9 +41,9 @@ markerFolder: ./Rujienas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Rujienas.md|Rujienas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rujienas.internal.md|Rujienas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rujienas.protect.md|Rujienas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rujienas.private.md|Rujienas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rujienas.personal.md|Rujienas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rujienas.secret.md|Rujienas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rujienas.internal|Rujienas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rujienas.protect|Rujienas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rujienas.private|Rujienas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rujienas.personal|Rujienas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rujienas.secret|Rujienas.secret]] 
 

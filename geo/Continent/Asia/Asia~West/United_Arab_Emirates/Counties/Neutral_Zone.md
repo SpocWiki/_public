@@ -41,9 +41,9 @@ markerFolder: ./Neutral_Zone/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.md|Neutral_Zone]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.internal.md|Neutral_Zone.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.protect.md|Neutral_Zone.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.private.md|Neutral_Zone.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.personal.md|Neutral_Zone.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.secret.md|Neutral_Zone.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.internal|Neutral_Zone.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.protect|Neutral_Zone.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.private|Neutral_Zone.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.personal|Neutral_Zone.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.secret|Neutral_Zone.secret]] 
 

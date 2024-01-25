@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Olten.md|Olten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Olten.internal.md|Olten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Olten.protect.md|Olten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Olten.private.md|Olten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Olten.personal.md|Olten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Olten.secret.md|Olten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Olten.internal|Olten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Olten.protect|Olten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Olten.private|Olten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Olten.personal|Olten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Olten.secret|Olten.secret]] 

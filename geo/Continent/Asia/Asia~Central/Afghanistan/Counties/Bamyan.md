@@ -41,9 +41,9 @@ markerFolder: ./Bamyan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.md|Bamyan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.internal.md|Bamyan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.protect.md|Bamyan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.private.md|Bamyan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.personal.md|Bamyan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.secret.md|Bamyan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.internal|Bamyan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.protect|Bamyan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.private|Bamyan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.personal|Bamyan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Bamyan.secret|Bamyan.secret]] 
 

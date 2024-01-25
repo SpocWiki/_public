@@ -45,8 +45,8 @@ SpocWebEntityId: 3285
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-14-Carbon/Tin.md|Tin]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Tin.internal.md|Tin.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Tin.protect.md|Tin.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Tin.private.md|Tin.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Tin.personal.md|Tin.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Tin.secret.md|Tin.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Tin.internal|Tin.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Tin.protect|Tin.protect]] 
+- [[../../../../_private/chemic/Elements/Group-14-Carbon/Tin.private|Tin.private]] 
+- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Tin.personal|Tin.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Tin.secret|Tin.secret]] 

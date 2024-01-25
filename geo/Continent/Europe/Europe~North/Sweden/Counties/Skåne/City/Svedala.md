@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Svedala.md|Svedala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Svedala.internal.md|Svedala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Svedala.protect.md|Svedala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Svedala.private.md|Svedala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Svedala.personal.md|Svedala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Svedala.secret.md|Svedala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Svedala.internal|Svedala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Svedala.protect|Svedala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Svedala.private|Svedala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Svedala.personal|Svedala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Svedala.secret|Svedala.secret]] 

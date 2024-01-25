@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sztutowo.md|Sztutowo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sztutowo.internal.md|Sztutowo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sztutowo.protect.md|Sztutowo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sztutowo.private.md|Sztutowo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sztutowo.personal.md|Sztutowo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sztutowo.secret.md|Sztutowo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sztutowo.internal|Sztutowo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sztutowo.protect|Sztutowo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sztutowo.private|Sztutowo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sztutowo.personal|Sztutowo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sztutowo.secret|Sztutowo.secret]] 

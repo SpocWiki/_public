@@ -41,9 +41,9 @@ markerFolder: ./La_Unión/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.md|La_Unión]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.internal.md|La_Unión.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.protect.md|La_Unión.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.private.md|La_Unión.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.personal.md|La_Unión.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.secret.md|La_Unión.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.internal|La_Unión.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.protect|La_Unión.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.private|La_Unión.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.personal|La_Unión.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/La_Unión.secret|La_Unión.secret]] 
 

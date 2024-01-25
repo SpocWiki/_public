@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Heerlen.md|Heerlen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Heerlen.internal.md|Heerlen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Heerlen.protect.md|Heerlen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Heerlen.private.md|Heerlen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Heerlen.personal.md|Heerlen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Heerlen.secret.md|Heerlen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Heerlen.internal|Heerlen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Heerlen.protect|Heerlen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Heerlen.private|Heerlen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Heerlen.personal|Heerlen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Heerlen.secret|Heerlen.secret]] 

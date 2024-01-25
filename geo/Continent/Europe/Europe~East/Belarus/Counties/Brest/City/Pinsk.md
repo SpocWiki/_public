@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pinsk.md|Pinsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pinsk.internal.md|Pinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pinsk.protect.md|Pinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pinsk.private.md|Pinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pinsk.personal.md|Pinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pinsk.secret.md|Pinsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pinsk.internal|Pinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pinsk.protect|Pinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pinsk.private|Pinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pinsk.personal|Pinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pinsk.secret|Pinsk.secret]] 

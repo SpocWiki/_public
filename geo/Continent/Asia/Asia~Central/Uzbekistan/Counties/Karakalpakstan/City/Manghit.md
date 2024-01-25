@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Manghit.md|Manghit]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Manghit.internal.md|Manghit.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Manghit.protect.md|Manghit.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Manghit.private.md|Manghit.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Manghit.personal.md|Manghit.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Manghit.secret.md|Manghit.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Manghit.internal|Manghit.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Manghit.protect|Manghit.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Manghit.private|Manghit.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Manghit.personal|Manghit.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Manghit.secret|Manghit.secret]] 

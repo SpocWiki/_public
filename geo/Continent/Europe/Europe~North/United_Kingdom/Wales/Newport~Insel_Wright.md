@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.md|Newport~Insel_Wright]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.internal.md|Newport~Insel_Wright.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.protect.md|Newport~Insel_Wright.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.private.md|Newport~Insel_Wright.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.personal.md|Newport~Insel_Wright.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.secret.md|Newport~Insel_Wright.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.internal|Newport~Insel_Wright.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.protect|Newport~Insel_Wright.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.private|Newport~Insel_Wright.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.personal|Newport~Insel_Wright.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.secret|Newport~Insel_Wright.secret]] 

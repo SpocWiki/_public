@@ -41,9 +41,9 @@ markerFolder: ./Addis_Ababa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.md|Addis_Ababa]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.internal.md|Addis_Ababa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.protect.md|Addis_Ababa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.private.md|Addis_Ababa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.personal.md|Addis_Ababa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.secret.md|Addis_Ababa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.internal|Addis_Ababa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.protect|Addis_Ababa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.private|Addis_Ababa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.personal|Addis_Ababa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.secret|Addis_Ababa.secret]] 
 

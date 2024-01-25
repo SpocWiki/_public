@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Carinae-24.md|Carinae-24]] 
-- [[../../../_internal/astro/Star/Carinae-24.internal.md|Carinae-24.internal]] 
-- [[../../../_protect/astro/Star/Carinae-24.protect.md|Carinae-24.protect]] 
-- [[../../../_private/astro/Star/Carinae-24.private.md|Carinae-24.private]] 
-- [[../../../_personal/astro/Star/Carinae-24.personal.md|Carinae-24.personal]] 
-- [[../../../_secret/astro/Star/Carinae-24.secret.md|Carinae-24.secret]]
+- [[../../../_internal/astro/Star/Carinae-24.internal|Carinae-24.internal]] 
+- [[../../../_protect/astro/Star/Carinae-24.protect|Carinae-24.protect]] 
+- [[../../../_private/astro/Star/Carinae-24.private|Carinae-24.private]] 
+- [[../../../_personal/astro/Star/Carinae-24.personal|Carinae-24.personal]] 
+- [[../../../_secret/astro/Star/Carinae-24.secret|Carinae-24.secret]]
 

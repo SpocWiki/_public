@@ -41,9 +41,9 @@ markerFolder: ./Solothurn/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.md|Solothurn]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.internal.md|Solothurn.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.protect.md|Solothurn.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.private.md|Solothurn.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.personal.md|Solothurn.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.secret.md|Solothurn.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.internal|Solothurn.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.protect|Solothurn.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.private|Solothurn.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.personal|Solothurn.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.secret|Solothurn.secret]] 
 

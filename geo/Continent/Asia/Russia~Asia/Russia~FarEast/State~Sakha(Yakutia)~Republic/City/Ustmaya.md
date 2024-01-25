@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ustmaya.md|Ustmaya]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustmaya.internal.md|Ustmaya.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustmaya.protect.md|Ustmaya.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ustmaya.private.md|Ustmaya.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustmaya.personal.md|Ustmaya.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustmaya.secret.md|Ustmaya.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustmaya.internal|Ustmaya.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustmaya.protect|Ustmaya.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ustmaya.private|Ustmaya.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustmaya.personal|Ustmaya.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustmaya.secret|Ustmaya.secret]] 

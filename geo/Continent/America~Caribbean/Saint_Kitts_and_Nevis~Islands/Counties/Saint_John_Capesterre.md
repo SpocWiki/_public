@@ -41,9 +41,9 @@ markerFolder: ./Saint_John_Capesterre/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.md|Saint_John_Capesterre]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.internal.md|Saint_John_Capesterre.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.protect.md|Saint_John_Capesterre.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.private.md|Saint_John_Capesterre.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.personal.md|Saint_John_Capesterre.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.secret.md|Saint_John_Capesterre.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.internal|Saint_John_Capesterre.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.protect|Saint_John_Capesterre.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.private|Saint_John_Capesterre.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.personal|Saint_John_Capesterre.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Capesterre.secret|Saint_John_Capesterre.secret]] 
 

@@ -132,8 +132,8 @@ markerFolder: ./Romania//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania.md|Romania]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania.internal.md|Romania.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania.protect.md|Romania.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania.private.md|Romania.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania.personal.md|Romania.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania.secret.md|Romania.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania.internal|Romania.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania.protect|Romania.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania.private|Romania.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania.personal|Romania.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania.secret|Romania.secret]] 

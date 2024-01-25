@@ -41,9 +41,9 @@ markerFolder: ./Bauchi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Bauchi.md|Bauchi]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Bauchi.internal.md|Bauchi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Bauchi.protect.md|Bauchi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Bauchi.private.md|Bauchi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Bauchi.personal.md|Bauchi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Bauchi.secret.md|Bauchi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Bauchi.internal|Bauchi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Bauchi.protect|Bauchi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Bauchi.private|Bauchi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Bauchi.personal|Bauchi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Bauchi.secret|Bauchi.secret]] 
 

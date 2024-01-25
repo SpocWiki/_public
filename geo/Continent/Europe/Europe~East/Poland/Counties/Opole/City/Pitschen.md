@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Pitschen.md|Pitschen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pitschen.internal.md|Pitschen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pitschen.protect.md|Pitschen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pitschen.private.md|Pitschen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pitschen.personal.md|Pitschen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pitschen.secret.md|Pitschen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pitschen.internal|Pitschen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pitschen.protect|Pitschen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pitschen.private|Pitschen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pitschen.personal|Pitschen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pitschen.secret|Pitschen.secret]] 

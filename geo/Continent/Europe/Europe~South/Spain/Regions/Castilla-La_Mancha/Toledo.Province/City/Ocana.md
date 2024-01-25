@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Ocana.md|Ocana]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Ocana.internal.md|Ocana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Ocana.protect.md|Ocana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Ocana.private.md|Ocana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Ocana.personal.md|Ocana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Ocana.secret.md|Ocana.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Ocana.internal|Ocana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Ocana.protect|Ocana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Ocana.private|Ocana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Ocana.personal|Ocana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Ocana.secret|Ocana.secret]] 

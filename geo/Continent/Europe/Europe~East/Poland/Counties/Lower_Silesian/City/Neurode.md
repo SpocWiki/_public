@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neurode.md|Neurode]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neurode.internal.md|Neurode.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neurode.protect.md|Neurode.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neurode.private.md|Neurode.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neurode.personal.md|Neurode.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neurode.secret.md|Neurode.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neurode.internal|Neurode.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neurode.protect|Neurode.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neurode.private|Neurode.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neurode.personal|Neurode.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neurode.secret|Neurode.secret]] 

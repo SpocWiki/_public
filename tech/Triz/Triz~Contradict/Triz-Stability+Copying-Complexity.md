@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Copying-Complexity]
 [SpocWebEntityId::23934]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.md|Triz-Stability+Copying-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.internal.md|Triz-Stability+Copying-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.protect.md|Triz-Stability+Copying-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.private.md|Triz-Stability+Copying-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.personal.md|Triz-Stability+Copying-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.secret.md|Triz-Stability+Copying-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.internal|Triz-Stability+Copying-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.protect|Triz-Stability+Copying-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.private|Triz-Stability+Copying-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.personal|Triz-Stability+Copying-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.secret|Triz-Stability+Copying-Complexity.secret]] 

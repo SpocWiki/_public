@@ -41,9 +41,9 @@ markerFolder: ./Sanma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Sanma.md|Sanma]] 
-- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Sanma.internal.md|Sanma.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Sanma.protect.md|Sanma.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Sanma.private.md|Sanma.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Sanma.personal.md|Sanma.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Sanma.secret.md|Sanma.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Sanma.internal|Sanma.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Sanma.protect|Sanma.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Sanma.private|Sanma.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Sanma.personal|Sanma.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Sanma.secret|Sanma.secret]] 
 

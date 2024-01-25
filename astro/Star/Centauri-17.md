@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Centauri-17.md|Centauri-17]] 
-- [[../../../_internal/astro/Star/Centauri-17.internal.md|Centauri-17.internal]] 
-- [[../../../_protect/astro/Star/Centauri-17.protect.md|Centauri-17.protect]] 
-- [[../../../_private/astro/Star/Centauri-17.private.md|Centauri-17.private]] 
-- [[../../../_personal/astro/Star/Centauri-17.personal.md|Centauri-17.personal]] 
-- [[../../../_secret/astro/Star/Centauri-17.secret.md|Centauri-17.secret]]
+- [[../../../_internal/astro/Star/Centauri-17.internal|Centauri-17.internal]] 
+- [[../../../_protect/astro/Star/Centauri-17.protect|Centauri-17.protect]] 
+- [[../../../_private/astro/Star/Centauri-17.private|Centauri-17.private]] 
+- [[../../../_personal/astro/Star/Centauri-17.personal|Centauri-17.personal]] 
+- [[../../../_secret/astro/Star/Centauri-17.secret|Centauri-17.secret]]
 

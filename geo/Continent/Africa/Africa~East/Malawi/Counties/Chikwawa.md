@@ -41,9 +41,9 @@ markerFolder: ./Chikwawa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Chikwawa.md|Chikwawa]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Chikwawa.internal.md|Chikwawa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Chikwawa.protect.md|Chikwawa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Chikwawa.private.md|Chikwawa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Chikwawa.personal.md|Chikwawa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Chikwawa.secret.md|Chikwawa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Chikwawa.internal|Chikwawa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Chikwawa.protect|Chikwawa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Chikwawa.private|Chikwawa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Chikwawa.personal|Chikwawa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Chikwawa.secret|Chikwawa.secret]] 
 

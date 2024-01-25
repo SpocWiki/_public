@@ -41,9 +41,9 @@ markerFolder: ./Newham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.md|Newham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.internal.md|Newham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.protect.md|Newham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.private.md|Newham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.personal.md|Newham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.secret.md|Newham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.internal|Newham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.protect|Newham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.private|Newham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.personal|Newham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Newham.secret|Newham.secret]] 
 

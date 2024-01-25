@@ -41,9 +41,9 @@ markerFolder: ./Nova_Goriška/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.md|Nova_Goriška]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.internal.md|Nova_Goriška.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.protect.md|Nova_Goriška.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.private.md|Nova_Goriška.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.personal.md|Nova_Goriška.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.secret.md|Nova_Goriška.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.internal|Nova_Goriška.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.protect|Nova_Goriška.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.private|Nova_Goriška.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.personal|Nova_Goriška.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Nova_Goriška.secret|Nova_Goriška.secret]] 
 

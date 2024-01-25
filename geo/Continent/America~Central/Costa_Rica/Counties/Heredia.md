@@ -41,9 +41,9 @@ markerFolder: ./Heredia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.md|Heredia]] 
-- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.internal.md|Heredia.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.protect.md|Heredia.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.private.md|Heredia.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.personal.md|Heredia.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.secret.md|Heredia.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.internal|Heredia.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.protect|Heredia.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.private|Heredia.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.personal|Heredia.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Heredia.secret|Heredia.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Patschkau.md|Patschkau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Patschkau.internal.md|Patschkau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Patschkau.protect.md|Patschkau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Patschkau.private.md|Patschkau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Patschkau.personal.md|Patschkau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Patschkau.secret.md|Patschkau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Patschkau.internal|Patschkau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Patschkau.protect|Patschkau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Patschkau.private|Patschkau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Patschkau.personal|Patschkau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Patschkau.secret|Patschkau.secret]] 

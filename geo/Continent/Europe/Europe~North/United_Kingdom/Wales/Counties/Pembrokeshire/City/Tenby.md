@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tenby.md|Tenby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tenby.internal.md|Tenby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tenby.protect.md|Tenby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tenby.private.md|Tenby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tenby.personal.md|Tenby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tenby.secret.md|Tenby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tenby.internal|Tenby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tenby.protect|Tenby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tenby.private|Tenby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tenby.personal|Tenby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tenby.secret|Tenby.secret]] 

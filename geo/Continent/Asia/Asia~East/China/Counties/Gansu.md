@@ -41,9 +41,9 @@ markerFolder: ./Gansu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Gansu.md|Gansu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Gansu.internal.md|Gansu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Gansu.protect.md|Gansu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Gansu.private.md|Gansu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Gansu.personal.md|Gansu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Gansu.secret.md|Gansu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Gansu.internal|Gansu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Gansu.protect|Gansu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Gansu.private|Gansu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Gansu.personal|Gansu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Gansu.secret|Gansu.secret]] 
 

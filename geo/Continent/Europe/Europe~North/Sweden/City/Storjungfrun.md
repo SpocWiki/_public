@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Storjungfrun.md|Storjungfrun]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storjungfrun.internal.md|Storjungfrun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storjungfrun.protect.md|Storjungfrun.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Storjungfrun.private.md|Storjungfrun.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storjungfrun.personal.md|Storjungfrun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storjungfrun.secret.md|Storjungfrun.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storjungfrun.internal|Storjungfrun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storjungfrun.protect|Storjungfrun.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Storjungfrun.private|Storjungfrun.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storjungfrun.personal|Storjungfrun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storjungfrun.secret|Storjungfrun.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Terni.md|Terni]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Terni.internal.md|Terni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Terni.protect.md|Terni.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Terni.private.md|Terni.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Terni.personal.md|Terni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Terni.secret.md|Terni.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Terni.internal|Terni.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Terni.protect|Terni.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Terni.private|Terni.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Terni.personal|Terni.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Terni.secret|Terni.secret]] 

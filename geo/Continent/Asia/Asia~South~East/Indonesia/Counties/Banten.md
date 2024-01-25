@@ -41,9 +41,9 @@ markerFolder: ./Banten/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.md|Banten]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.internal.md|Banten.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.protect.md|Banten.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.private.md|Banten.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.personal.md|Banten.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.secret.md|Banten.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.internal|Banten.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.protect|Banten.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.private|Banten.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.personal|Banten.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Banten.secret|Banten.secret]] 
 

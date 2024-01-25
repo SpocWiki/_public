@@ -41,9 +41,9 @@ markerFolder: ./Navarra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Navarra.md|Navarra]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Navarra.internal.md|Navarra.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Navarra.protect.md|Navarra.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Navarra.private.md|Navarra.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Navarra.personal.md|Navarra.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Navarra.secret.md|Navarra.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Navarra.internal|Navarra.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Navarra.protect|Navarra.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Navarra.private|Navarra.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Navarra.personal|Navarra.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Navarra.secret|Navarra.secret]] 
 

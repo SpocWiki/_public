@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Pithiviers.md|Pithiviers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pithiviers.internal.md|Pithiviers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pithiviers.protect.md|Pithiviers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Pithiviers.private.md|Pithiviers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pithiviers.personal.md|Pithiviers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pithiviers.secret.md|Pithiviers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pithiviers.internal|Pithiviers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pithiviers.protect|Pithiviers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Pithiviers.private|Pithiviers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pithiviers.personal|Pithiviers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pithiviers.secret|Pithiviers.secret]] 

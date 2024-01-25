@@ -137,8 +137,8 @@ markerFolder: ./Venezuela/
 
 ## Confidential Links & Embeds: 
 - [[Venezuela|Venezuela]] 
-- [[../../../../_internal/geo/Continent/South-America/Venezuela.internal.md|Venezuela.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Venezuela.protect.md|Venezuela.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Venezuela.private.md|Venezuela.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Venezuela.personal.md|Venezuela.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Venezuela.secret.md|Venezuela.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Venezuela.internal|Venezuela.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Venezuela.protect|Venezuela.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Venezuela.private|Venezuela.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Venezuela.personal|Venezuela.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Venezuela.secret|Venezuela.secret]] 

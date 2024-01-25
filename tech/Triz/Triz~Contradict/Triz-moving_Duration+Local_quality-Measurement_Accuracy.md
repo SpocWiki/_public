@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Duration+Local_quality-Measurement_Accuracy]
 [SpocWebEntityId::24130]
-+ [pro::[[Triz-moving_Duration]]]
++ [#has_/Pros :: [[Triz-moving_Duration]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.md|Triz-moving_Duration+Local_quality-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.internal.md|Triz-moving_Duration+Local_quality-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.protect.md|Triz-moving_Duration+Local_quality-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.private.md|Triz-moving_Duration+Local_quality-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.personal.md|Triz-moving_Duration+Local_quality-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.secret.md|Triz-moving_Duration+Local_quality-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.internal|Triz-moving_Duration+Local_quality-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.protect|Triz-moving_Duration+Local_quality-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.private|Triz-moving_Duration+Local_quality-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.personal|Triz-moving_Duration+Local_quality-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Measurement_Accuracy.secret|Triz-moving_Duration+Local_quality-Measurement_Accuracy.secret]] 

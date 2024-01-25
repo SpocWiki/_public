@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Vindemiatrix.md|Vindemiatrix]] 
-- [[../../../_internal/astro/Star/Vindemiatrix.internal.md|Vindemiatrix.internal]] 
-- [[../../../_protect/astro/Star/Vindemiatrix.protect.md|Vindemiatrix.protect]] 
-- [[../../../_private/astro/Star/Vindemiatrix.private.md|Vindemiatrix.private]] 
-- [[../../../_personal/astro/Star/Vindemiatrix.personal.md|Vindemiatrix.personal]] 
-- [[../../../_secret/astro/Star/Vindemiatrix.secret.md|Vindemiatrix.secret]] 
+- [[../../../_internal/astro/Star/Vindemiatrix.internal|Vindemiatrix.internal]] 
+- [[../../../_protect/astro/Star/Vindemiatrix.protect|Vindemiatrix.protect]] 
+- [[../../../_private/astro/Star/Vindemiatrix.private|Vindemiatrix.private]] 
+- [[../../../_personal/astro/Star/Vindemiatrix.personal|Vindemiatrix.personal]] 
+- [[../../../_secret/astro/Star/Vindemiatrix.secret|Vindemiatrix.secret]] 

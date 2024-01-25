@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Extraction-Stress]
 [SpocWebEntityId::24261]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.md|Triz-Temperature+Extraction-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.internal.md|Triz-Temperature+Extraction-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.protect.md|Triz-Temperature+Extraction-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.private.md|Triz-Temperature+Extraction-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.personal.md|Triz-Temperature+Extraction-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.secret.md|Triz-Temperature+Extraction-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.internal|Triz-Temperature+Extraction-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.protect|Triz-Temperature+Extraction-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.private|Triz-Temperature+Extraction-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.personal|Triz-Temperature+Extraction-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.secret|Triz-Temperature+Extraction-Stress.secret]] 

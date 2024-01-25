@@ -41,9 +41,9 @@ markerFolder: ./La_Digue_and_Inner_Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.md|La_Digue_and_Inner_Islands]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.internal.md|La_Digue_and_Inner_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.protect.md|La_Digue_and_Inner_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.private.md|La_Digue_and_Inner_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.personal.md|La_Digue_and_Inner_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.secret.md|La_Digue_and_Inner_Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.internal|La_Digue_and_Inner_Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.protect|La_Digue_and_Inner_Islands.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.private|La_Digue_and_Inner_Islands.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.personal|La_Digue_and_Inner_Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/La_Digue_and_Inner_Islands.secret|La_Digue_and_Inner_Islands.secret]] 
 

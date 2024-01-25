@@ -41,9 +41,9 @@ markerFolder: ./Taranto.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.md|Taranto.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.internal.md|Taranto.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.protect.md|Taranto.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.private.md|Taranto.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.personal.md|Taranto.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.secret.md|Taranto.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.internal|Taranto.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.protect|Taranto.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.private|Taranto.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.personal|Taranto.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Taranto.Province.secret|Taranto.Province.secret]] 
 

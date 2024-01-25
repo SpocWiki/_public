@@ -40,7 +40,7 @@ markerFolder: ./Swaziland//
 ## Confidential Links & Embeds: 
 - [[Swaziland|Swaziland]] 
 - [[../../../../../_internal/geo/Continent/Africa/Swaziland.internal|Swaziland.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Swaziland.protect.md|Swaziland.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Swaziland.private.md|Swaziland.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Swaziland.personal.md|Swaziland.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Swaziland.secret.md|Swaziland.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Swaziland.protect|Swaziland.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Swaziland.private|Swaziland.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Swaziland.personal|Swaziland.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Swaziland.secret|Swaziland.secret]] 

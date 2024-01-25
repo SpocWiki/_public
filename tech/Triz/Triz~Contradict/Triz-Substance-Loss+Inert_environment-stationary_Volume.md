@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Inert_environment-stationary_Volume]
 [SpocWebEntityId::24815]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.md|Triz-Substance-Loss+Inert_environment-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.internal.md|Triz-Substance-Loss+Inert_environment-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.protect.md|Triz-Substance-Loss+Inert_environment-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.private.md|Triz-Substance-Loss+Inert_environment-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.personal.md|Triz-Substance-Loss+Inert_environment-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.secret.md|Triz-Substance-Loss+Inert_environment-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.internal|Triz-Substance-Loss+Inert_environment-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.protect|Triz-Substance-Loss+Inert_environment-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.private|Triz-Substance-Loss+Inert_environment-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.personal|Triz-Substance-Loss+Inert_environment-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.secret|Triz-Substance-Loss+Inert_environment-stationary_Volume.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Guidimaka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Guidimaka.md|Guidimaka]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Guidimaka.internal.md|Guidimaka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Guidimaka.protect.md|Guidimaka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Guidimaka.private.md|Guidimaka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Guidimaka.personal.md|Guidimaka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Guidimaka.secret.md|Guidimaka.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Guidimaka.internal|Guidimaka.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Guidimaka.protect|Guidimaka.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Guidimaka.private|Guidimaka.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Guidimaka.personal|Guidimaka.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Guidimaka.secret|Guidimaka.secret]] 
 

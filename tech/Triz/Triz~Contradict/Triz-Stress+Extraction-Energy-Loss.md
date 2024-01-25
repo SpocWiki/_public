@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Extraction-Energy-Loss]
 [SpocWebEntityId::23662]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.md|Triz-Stress+Extraction-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.internal.md|Triz-Stress+Extraction-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.protect.md|Triz-Stress+Extraction-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.private.md|Triz-Stress+Extraction-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.personal.md|Triz-Stress+Extraction-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.secret.md|Triz-Stress+Extraction-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.internal|Triz-Stress+Extraction-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.protect|Triz-Stress+Extraction-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.private|Triz-Stress+Extraction-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.personal|Triz-Stress+Extraction-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.secret|Triz-Stress+Extraction-Energy-Loss.secret]] 

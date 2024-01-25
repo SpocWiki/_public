@@ -41,9 +41,9 @@ markerFolder: ./Bafing/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.md|Bafing]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.internal.md|Bafing.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.protect.md|Bafing.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.private.md|Bafing.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.personal.md|Bafing.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.secret.md|Bafing.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.internal|Bafing.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.protect|Bafing.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.private|Bafing.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.personal|Bafing.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.secret|Bafing.secret]] 
 

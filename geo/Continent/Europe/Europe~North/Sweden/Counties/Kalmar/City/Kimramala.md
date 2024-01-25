@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kimramala.md|Kimramala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kimramala.internal.md|Kimramala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kimramala.protect.md|Kimramala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kimramala.private.md|Kimramala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kimramala.personal.md|Kimramala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kimramala.secret.md|Kimramala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kimramala.internal|Kimramala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kimramala.protect|Kimramala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kimramala.private|Kimramala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kimramala.personal|Kimramala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kimramala.secret|Kimramala.secret]] 

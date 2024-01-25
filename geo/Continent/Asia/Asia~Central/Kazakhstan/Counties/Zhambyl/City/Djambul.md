@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Djambul.md|Djambul]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Djambul.internal.md|Djambul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Djambul.protect.md|Djambul.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Djambul.private.md|Djambul.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Djambul.personal.md|Djambul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Djambul.secret.md|Djambul.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Djambul.internal|Djambul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Djambul.protect|Djambul.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Djambul.private|Djambul.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Djambul.personal|Djambul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Djambul.secret|Djambul.secret]] 

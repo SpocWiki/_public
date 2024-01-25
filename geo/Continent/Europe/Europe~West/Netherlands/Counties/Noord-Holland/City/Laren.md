@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Laren.md|Laren]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Laren.internal.md|Laren.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Laren.protect.md|Laren.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Laren.private.md|Laren.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Laren.personal.md|Laren.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Laren.secret.md|Laren.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Laren.internal|Laren.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Laren.protect|Laren.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Laren.private|Laren.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Laren.personal|Laren.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Laren.secret|Laren.secret]] 

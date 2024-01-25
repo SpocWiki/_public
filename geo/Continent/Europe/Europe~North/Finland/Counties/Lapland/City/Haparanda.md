@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Haparanda.md|Haparanda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haparanda.internal.md|Haparanda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haparanda.protect.md|Haparanda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Haparanda.private.md|Haparanda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haparanda.personal.md|Haparanda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haparanda.secret.md|Haparanda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haparanda.internal|Haparanda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haparanda.protect|Haparanda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Haparanda.private|Haparanda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haparanda.personal|Haparanda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haparanda.secret|Haparanda.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Debar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Debar.md|Debar]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Debar.internal.md|Debar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Debar.protect.md|Debar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Debar.private.md|Debar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Debar.personal.md|Debar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Debar.secret.md|Debar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Debar.internal|Debar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Debar.protect|Debar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Debar.private|Debar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Debar.personal|Debar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Debar.secret|Debar.secret]] 
 

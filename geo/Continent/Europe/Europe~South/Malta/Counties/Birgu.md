@@ -41,9 +41,9 @@ markerFolder: ./Birgu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Birgu.md|Birgu]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Birgu.internal.md|Birgu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Birgu.protect.md|Birgu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Birgu.private.md|Birgu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Birgu.personal.md|Birgu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Birgu.secret.md|Birgu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Birgu.internal|Birgu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Birgu.protect|Birgu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Birgu.private|Birgu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Birgu.personal|Birgu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Birgu.secret|Birgu.secret]] 
 

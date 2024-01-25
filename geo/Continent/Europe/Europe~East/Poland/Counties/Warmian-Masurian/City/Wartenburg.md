@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wartenburg.md|Wartenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wartenburg.internal.md|Wartenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wartenburg.protect.md|Wartenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wartenburg.private.md|Wartenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wartenburg.personal.md|Wartenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wartenburg.secret.md|Wartenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wartenburg.internal|Wartenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wartenburg.protect|Wartenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wartenburg.private|Wartenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wartenburg.personal|Wartenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wartenburg.secret|Wartenburg.secret]] 

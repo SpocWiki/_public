@@ -41,9 +41,9 @@ markerFolder: ./Al_Mahrah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.md|Al_Mahrah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.internal.md|Al_Mahrah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.protect.md|Al_Mahrah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.private.md|Al_Mahrah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.personal.md|Al_Mahrah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.secret.md|Al_Mahrah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.internal|Al_Mahrah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.protect|Al_Mahrah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.private|Al_Mahrah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.personal|Al_Mahrah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahrah.secret|Al_Mahrah.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/North_Foreland.md|North_Foreland]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/North_Foreland.internal.md|North_Foreland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/North_Foreland.protect.md|North_Foreland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/North_Foreland.private.md|North_Foreland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/North_Foreland.personal.md|North_Foreland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/North_Foreland.secret.md|North_Foreland.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/North_Foreland.internal|North_Foreland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/North_Foreland.protect|North_Foreland.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/North_Foreland.private|North_Foreland.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/North_Foreland.personal|North_Foreland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/North_Foreland.secret|North_Foreland.secret]] 

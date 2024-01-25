@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Fléche.md|Fléche]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fléche.internal.md|Fléche.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fléche.protect.md|Fléche.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Fléche.private.md|Fléche.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fléche.personal.md|Fléche.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fléche.secret.md|Fléche.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fléche.internal|Fléche.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fléche.protect|Fléche.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Fléche.private|Fléche.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fléche.personal|Fléche.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fléche.secret|Fléche.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Breteuil.md|Breteuil]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Breteuil.internal.md|Breteuil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Breteuil.protect.md|Breteuil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Breteuil.private.md|Breteuil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Breteuil.personal.md|Breteuil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Breteuil.secret.md|Breteuil.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Breteuil.internal|Breteuil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Breteuil.protect|Breteuil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Breteuil.private|Breteuil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Breteuil.personal|Breteuil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Breteuil.secret|Breteuil.secret]] 

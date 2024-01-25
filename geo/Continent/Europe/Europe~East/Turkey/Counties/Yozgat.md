@@ -41,9 +41,9 @@ markerFolder: ./Yozgat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Yozgat.md|Yozgat]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Yozgat.internal.md|Yozgat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Yozgat.protect.md|Yozgat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Yozgat.private.md|Yozgat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Yozgat.personal.md|Yozgat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Yozgat.secret.md|Yozgat.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Yozgat.internal|Yozgat.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Yozgat.protect|Yozgat.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Yozgat.private|Yozgat.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Yozgat.personal|Yozgat.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Yozgat.secret|Yozgat.secret]] 
 

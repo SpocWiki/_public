@@ -41,9 +41,9 @@ markerFolder: ./Rakai/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Rakai.md|Rakai]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Rakai.internal.md|Rakai.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Rakai.protect.md|Rakai.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Rakai.private.md|Rakai.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Rakai.personal.md|Rakai.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Rakai.secret.md|Rakai.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Rakai.internal|Rakai.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Rakai.protect|Rakai.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Rakai.private|Rakai.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Rakai.personal|Rakai.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Rakai.secret|Rakai.secret]] 
 

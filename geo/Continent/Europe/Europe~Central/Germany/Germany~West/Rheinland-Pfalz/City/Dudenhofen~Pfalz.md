@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Dudenhofen~Pfalz|Dudenhofen~Pfalz]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.internal.md|Dudenhofen~Pfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.protect.md|Dudenhofen~Pfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.private.md|Dudenhofen~Pfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.personal.md|Dudenhofen~Pfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.secret.md|Dudenhofen~Pfalz.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.internal|Dudenhofen~Pfalz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.protect|Dudenhofen~Pfalz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.private|Dudenhofen~Pfalz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.personal|Dudenhofen~Pfalz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.secret|Dudenhofen~Pfalz.secret]] 

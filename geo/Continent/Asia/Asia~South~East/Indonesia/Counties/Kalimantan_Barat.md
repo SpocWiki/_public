@@ -41,9 +41,9 @@ markerFolder: ./Kalimantan_Barat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.md|Kalimantan_Barat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.internal.md|Kalimantan_Barat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.protect.md|Kalimantan_Barat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.private.md|Kalimantan_Barat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.personal.md|Kalimantan_Barat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.secret.md|Kalimantan_Barat.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.internal|Kalimantan_Barat.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.protect|Kalimantan_Barat.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.private|Kalimantan_Barat.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.personal|Kalimantan_Barat.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Barat.secret|Kalimantan_Barat.secret]] 
 

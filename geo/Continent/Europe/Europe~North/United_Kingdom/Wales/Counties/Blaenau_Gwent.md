@@ -41,9 +41,9 @@ markerFolder: ./Blaenau_Gwent/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.md|Blaenau_Gwent]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.internal.md|Blaenau_Gwent.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.protect.md|Blaenau_Gwent.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.private.md|Blaenau_Gwent.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.personal.md|Blaenau_Gwent.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.secret.md|Blaenau_Gwent.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.internal|Blaenau_Gwent.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.protect|Blaenau_Gwent.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.private|Blaenau_Gwent.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.personal|Blaenau_Gwent.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Blaenau_Gwent.secret|Blaenau_Gwent.secret]] 
 

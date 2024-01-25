@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sitten=Sion.md|Sitten=Sion]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sitten=Sion.internal.md|Sitten=Sion.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sitten=Sion.protect.md|Sitten=Sion.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sitten=Sion.private.md|Sitten=Sion.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sitten=Sion.personal.md|Sitten=Sion.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sitten=Sion.secret.md|Sitten=Sion.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sitten=Sion.internal|Sitten=Sion.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sitten=Sion.protect|Sitten=Sion.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sitten=Sion.private|Sitten=Sion.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sitten=Sion.personal|Sitten=Sion.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sitten=Sion.secret|Sitten=Sion.secret]] 

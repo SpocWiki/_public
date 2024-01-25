@@ -37,7 +37,7 @@ markerFolder: ./Yemen~Republic/
 ## Confidential Links & Embeds: 
 -[[Yemen~Republic|Yemen~Republic]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Yemen~Republic.internal|Yemen~Republic.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Yemen~Republic.protect.md|Yemen~Republic.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Yemen~Republic.private.md|Yemen~Republic.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Yemen~Republic.personal.md|Yemen~Republic.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Yemen~Republic.secret.md|Yemen~Republic.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Yemen~Republic.protect|Yemen~Republic.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Yemen~Republic.private|Yemen~Republic.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Yemen~Republic.personal|Yemen~Republic.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Yemen~Republic.secret|Yemen~Republic.secret]] 

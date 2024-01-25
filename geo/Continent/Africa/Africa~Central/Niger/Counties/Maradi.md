@@ -41,9 +41,9 @@ markerFolder: ./Maradi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Niger/Counties/Maradi.md|Maradi]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Maradi.internal.md|Maradi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Maradi.protect.md|Maradi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Maradi.private.md|Maradi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Maradi.personal.md|Maradi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Maradi.secret.md|Maradi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Maradi.internal|Maradi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Maradi.protect|Maradi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Maradi.private|Maradi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Maradi.personal|Maradi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Maradi.secret|Maradi.secret]] 
 

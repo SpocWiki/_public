@@ -41,9 +41,9 @@ markerFolder: ./Ljubljana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.md|Ljubljana]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.internal.md|Ljubljana.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.protect.md|Ljubljana.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.private.md|Ljubljana.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.personal.md|Ljubljana.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.secret.md|Ljubljana.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.internal|Ljubljana.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.protect|Ljubljana.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.private|Ljubljana.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.personal|Ljubljana.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Ljubljana.secret|Ljubljana.secret]] 
 

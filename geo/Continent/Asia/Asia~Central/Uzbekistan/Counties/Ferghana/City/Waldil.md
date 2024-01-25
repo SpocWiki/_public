@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Waldil.md|Waldil]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Waldil.internal.md|Waldil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Waldil.protect.md|Waldil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Waldil.private.md|Waldil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Waldil.personal.md|Waldil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Waldil.secret.md|Waldil.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Waldil.internal|Waldil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Waldil.protect|Waldil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Waldil.private|Waldil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Waldil.personal|Waldil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Waldil.secret|Waldil.secret]] 

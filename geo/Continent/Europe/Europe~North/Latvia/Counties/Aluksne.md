@@ -41,9 +41,9 @@ markerFolder: ./Aluksne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Aluksne.md|Aluksne]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aluksne.internal.md|Aluksne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aluksne.protect.md|Aluksne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aluksne.private.md|Aluksne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aluksne.personal.md|Aluksne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aluksne.secret.md|Aluksne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aluksne.internal|Aluksne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aluksne.protect|Aluksne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aluksne.private|Aluksne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aluksne.personal|Aluksne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aluksne.secret|Aluksne.secret]] 
 

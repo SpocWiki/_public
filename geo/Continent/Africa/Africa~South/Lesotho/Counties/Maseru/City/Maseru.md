@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Lesotho/City/Maseru.md|Maseru]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/City/Maseru.internal.md|Maseru.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/City/Maseru.protect.md|Maseru.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Lesotho/City/Maseru.private.md|Maseru.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/City/Maseru.personal.md|Maseru.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/City/Maseru.secret.md|Maseru.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/City/Maseru.internal|Maseru.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/City/Maseru.protect|Maseru.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Lesotho/City/Maseru.private|Maseru.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/City/Maseru.personal|Maseru.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/City/Maseru.secret|Maseru.secret]] 

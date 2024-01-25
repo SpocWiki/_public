@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Rebstöcker_Straße|T-Rebstöcker_Straße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.internal.md|T-Rebstöcker_Straße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.protect.md|T-Rebstöcker_Straße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.private.md|T-Rebstöcker_Straße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.personal.md|T-Rebstöcker_Straße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.secret.md|T-Rebstöcker_Straße.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.internal|T-Rebstöcker_Straße.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.protect|T-Rebstöcker_Straße.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.private|T-Rebstöcker_Straße.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.personal|T-Rebstöcker_Straße.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebstöcker_Straße.secret|T-Rebstöcker_Straße.secret]] 

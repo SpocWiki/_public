@@ -131,8 +131,8 @@ markerFolder: ./British_Virgin~Islands/
 
 ## Confidential Links & Embeds: 
 - [[British_Virgin~Islands|British_Virgin~Islands]] 
-- [[../../../../_internal/geo/Continent/South-America/British_Virgin~Islands.internal.md|British_Virgin~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/British_Virgin~Islands.protect.md|British_Virgin~Islands.protect]] 
-- [[../../../../_private/geo/Continent/South-America/British_Virgin~Islands.private.md|British_Virgin~Islands.private]] 
-- [[../../../../_personal/geo/Continent/South-America/British_Virgin~Islands.personal.md|British_Virgin~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/British_Virgin~Islands.secret.md|British_Virgin~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/British_Virgin~Islands.internal|British_Virgin~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/British_Virgin~Islands.protect|British_Virgin~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/British_Virgin~Islands.private|British_Virgin~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/British_Virgin~Islands.personal|British_Virgin~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/British_Virgin~Islands.secret|British_Virgin~Islands.secret]] 

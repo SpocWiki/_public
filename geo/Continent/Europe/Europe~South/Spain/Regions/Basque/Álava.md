@@ -41,9 +41,9 @@ markerFolder: ./Álava/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Basque/Álava.md|Álava]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Basque/Álava.internal.md|Álava.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Basque/Álava.protect.md|Álava.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Basque/Álava.private.md|Álava.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Basque/Álava.personal.md|Álava.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Basque/Álava.secret.md|Álava.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Basque/Álava.internal|Álava.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Basque/Álava.protect|Álava.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Basque/Álava.private|Álava.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Basque/Álava.personal|Álava.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Basque/Álava.secret|Álava.secret]] 
 

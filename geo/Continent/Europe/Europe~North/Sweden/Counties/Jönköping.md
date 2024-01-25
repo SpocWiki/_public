@@ -41,9 +41,9 @@ markerFolder: ./Jönköping/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Jönköping.md|Jönköping]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Jönköping.internal.md|Jönköping.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Jönköping.protect.md|Jönköping.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Jönköping.private.md|Jönköping.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Jönköping.personal.md|Jönköping.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Jönköping.secret.md|Jönköping.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Jönköping.internal|Jönköping.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Jönköping.protect|Jönköping.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Jönköping.private|Jönköping.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Jönköping.personal|Jönköping.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Jönköping.secret|Jönköping.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Jilin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Jilin.md|Jilin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jilin.internal.md|Jilin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jilin.protect.md|Jilin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jilin.private.md|Jilin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jilin.personal.md|Jilin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jilin.secret.md|Jilin.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jilin.internal|Jilin.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jilin.protect|Jilin.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jilin.private|Jilin.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jilin.personal|Jilin.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jilin.secret|Jilin.secret]] 
 

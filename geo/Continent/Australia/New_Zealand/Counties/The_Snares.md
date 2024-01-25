@@ -41,9 +41,9 @@ markerFolder: ./The_Snares/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/The_Snares.md|The_Snares]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.internal.md|The_Snares.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/The_Snares.protect.md|The_Snares.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/The_Snares.private.md|The_Snares.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.personal.md|The_Snares.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/The_Snares.secret.md|The_Snares.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.internal|The_Snares.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/The_Snares.protect|The_Snares.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/The_Snares.private|The_Snares.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.personal|The_Snares.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/The_Snares.secret|The_Snares.secret]] 
 

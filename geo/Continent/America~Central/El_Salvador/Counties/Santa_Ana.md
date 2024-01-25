@@ -41,9 +41,9 @@ markerFolder: ./Santa_Ana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.md|Santa_Ana]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.internal.md|Santa_Ana.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.protect.md|Santa_Ana.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.private.md|Santa_Ana.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.personal.md|Santa_Ana.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.secret.md|Santa_Ana.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.internal|Santa_Ana.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.protect|Santa_Ana.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.private|Santa_Ana.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.personal|Santa_Ana.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.secret|Santa_Ana.secret]] 
 

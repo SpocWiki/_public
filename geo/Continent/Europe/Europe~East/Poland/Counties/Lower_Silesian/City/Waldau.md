@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Waldau.md|Waldau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Waldau.internal.md|Waldau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Waldau.protect.md|Waldau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Waldau.private.md|Waldau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Waldau.personal.md|Waldau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Waldau.secret.md|Waldau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Waldau.internal|Waldau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Waldau.protect|Waldau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Waldau.private|Waldau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Waldau.personal|Waldau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Waldau.secret|Waldau.secret]] 

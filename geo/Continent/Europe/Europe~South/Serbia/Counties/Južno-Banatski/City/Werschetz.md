@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Werschetz.md|Werschetz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Werschetz.internal.md|Werschetz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Werschetz.protect.md|Werschetz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Werschetz.private.md|Werschetz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Werschetz.personal.md|Werschetz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Werschetz.secret.md|Werschetz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Werschetz.internal|Werschetz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Werschetz.protect|Werschetz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Werschetz.private|Werschetz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Werschetz.personal|Werschetz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Werschetz.secret|Werschetz.secret]] 

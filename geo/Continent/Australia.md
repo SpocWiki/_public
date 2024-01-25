@@ -24,8 +24,8 @@ zoomFeatures: true
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/Australia.md|Australia]] 
-- [[../../../_internal/geo/Continent/Australia.internal.md|Australia.internal]] 
-- [[../../../_protect/geo/Continent/Australia.protect.md|Australia.protect]] 
-- [[../../../_private/geo/Continent/Australia.private.md|Australia.private]] 
-- [[../../../_personal/geo/Continent/Australia.personal.md|Australia.personal]] 
-- [[../../../_secret/geo/Continent/Australia.secret.md|Australia.secret]] 
+- [[../../../_internal/geo/Continent/Australia.internal|Australia.internal]] 
+- [[../../../_protect/geo/Continent/Australia.protect|Australia.protect]] 
+- [[../../../_private/geo/Continent/Australia.private|Australia.private]] 
+- [[../../../_personal/geo/Continent/Australia.personal|Australia.personal]] 
+- [[../../../_secret/geo/Continent/Australia.secret|Australia.secret]] 

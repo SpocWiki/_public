@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Tulle.md|Tulle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tulle.internal.md|Tulle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tulle.protect.md|Tulle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Tulle.private.md|Tulle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tulle.personal.md|Tulle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tulle.secret.md|Tulle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tulle.internal|Tulle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tulle.protect|Tulle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Tulle.private|Tulle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tulle.personal|Tulle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tulle.secret|Tulle.secret]] 

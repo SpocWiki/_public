@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Nikoleiken.md|Nikoleiken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nikoleiken.internal.md|Nikoleiken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nikoleiken.protect.md|Nikoleiken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nikoleiken.private.md|Nikoleiken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nikoleiken.personal.md|Nikoleiken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nikoleiken.secret.md|Nikoleiken.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nikoleiken.internal|Nikoleiken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nikoleiken.protect|Nikoleiken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nikoleiken.private|Nikoleiken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nikoleiken.personal|Nikoleiken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nikoleiken.secret|Nikoleiken.secret]] 

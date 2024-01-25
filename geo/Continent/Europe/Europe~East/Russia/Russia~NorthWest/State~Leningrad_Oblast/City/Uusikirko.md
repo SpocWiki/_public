@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Uusikirko.md|Uusikirko]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Uusikirko.internal.md|Uusikirko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Uusikirko.protect.md|Uusikirko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Uusikirko.private.md|Uusikirko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Uusikirko.personal.md|Uusikirko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Uusikirko.secret.md|Uusikirko.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Uusikirko.internal|Uusikirko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Uusikirko.protect|Uusikirko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Uusikirko.private|Uusikirko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Uusikirko.personal|Uusikirko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Uusikirko.secret|Uusikirko.secret]] 

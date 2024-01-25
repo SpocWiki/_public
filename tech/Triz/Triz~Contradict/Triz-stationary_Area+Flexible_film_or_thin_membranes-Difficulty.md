@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Flexible_film_or_thin_membranes-Difficulty]
 [SpocWebEntityId::23181]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.internal.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.protect.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.private.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.personal.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.secret.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.internal|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.protect|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.private|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.personal|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.secret|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.secret]] 

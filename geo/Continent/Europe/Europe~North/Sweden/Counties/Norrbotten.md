@@ -41,9 +41,9 @@ markerFolder: ./Norrbotten/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Norrbotten.md|Norrbotten]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Norrbotten.internal.md|Norrbotten.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Norrbotten.protect.md|Norrbotten.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Norrbotten.private.md|Norrbotten.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Norrbotten.personal.md|Norrbotten.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Norrbotten.secret.md|Norrbotten.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Norrbotten.internal|Norrbotten.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Norrbotten.protect|Norrbotten.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Norrbotten.private|Norrbotten.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Norrbotten.personal|Norrbotten.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Norrbotten.secret|Norrbotten.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Mirna_Pec/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.md|Mirna_Pec]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.internal.md|Mirna_Pec.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.protect.md|Mirna_Pec.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.private.md|Mirna_Pec.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.personal.md|Mirna_Pec.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.secret.md|Mirna_Pec.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.internal|Mirna_Pec.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.protect|Mirna_Pec.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.private|Mirna_Pec.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.personal|Mirna_Pec.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Mirna_Pec.secret|Mirna_Pec.secret]] 
 

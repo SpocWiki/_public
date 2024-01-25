@@ -41,9 +41,9 @@ markerFolder: ./Košický/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovakia/Counties/Košický.md|Košický]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Košický.internal.md|Košický.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Košický.protect.md|Košický.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Košický.private.md|Košický.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Košický.personal.md|Košický.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Košický.secret.md|Košický.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Košický.internal|Košický.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Košický.protect|Košický.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Košický.private|Košický.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Košický.personal|Košický.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Košický.secret|Košický.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Ijuw/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Ijuw.md|Ijuw]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Ijuw.internal.md|Ijuw.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Ijuw.protect.md|Ijuw.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Ijuw.private.md|Ijuw.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Ijuw.personal.md|Ijuw.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Ijuw.secret.md|Ijuw.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Ijuw.internal|Ijuw.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Ijuw.protect|Ijuw.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Ijuw.private|Ijuw.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Ijuw.personal|Ijuw.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Ijuw.secret|Ijuw.secret]] 
 

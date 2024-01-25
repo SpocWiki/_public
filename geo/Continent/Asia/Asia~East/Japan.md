@@ -133,7 +133,7 @@ markerFolder: ./Japan/
 ## Confidential Links & Embeds: 
 - [[Japan|Japan]] 
 - [[../../../../../_internal/geo/Continent/Asia/Japan.internal|Japan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Japan.protect.md|Japan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Japan.private.md|Japan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Japan.personal.md|Japan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Japan.secret.md|Japan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Japan.protect|Japan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Japan.private|Japan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Japan.personal|Japan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Japan.secret|Japan.secret]] 

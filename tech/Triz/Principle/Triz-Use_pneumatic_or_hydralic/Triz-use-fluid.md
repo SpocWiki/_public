@@ -28,8 +28,8 @@ Use gas and liquid parts of an object instead of solid parts (e.g. inflatable, f
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-use-fluid.md|Triz-use-fluid]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-use-fluid.internal.md|Triz-use-fluid.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-use-fluid.protect.md|Triz-use-fluid.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-use-fluid.private.md|Triz-use-fluid.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-use-fluid.personal.md|Triz-use-fluid.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-use-fluid.secret.md|Triz-use-fluid.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-use-fluid.internal|Triz-use-fluid.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-use-fluid.protect|Triz-use-fluid.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-use-fluid.private|Triz-use-fluid.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-use-fluid.personal|Triz-use-fluid.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-use-fluid.secret|Triz-use-fluid.secret]] 

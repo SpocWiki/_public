@@ -41,9 +41,9 @@ markerFolder: ./Škocjan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.md|Škocjan]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.internal.md|Škocjan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.protect.md|Škocjan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.private.md|Škocjan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.personal.md|Škocjan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.secret.md|Škocjan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.internal|Škocjan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.protect|Škocjan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.private|Škocjan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.personal|Škocjan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Škocjan.secret|Škocjan.secret]] 
 

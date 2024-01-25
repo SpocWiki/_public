@@ -41,9 +41,9 @@ markerFolder: ./Borgou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Benin/Counties/Borgou.md|Borgou]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Borgou.internal.md|Borgou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Borgou.protect.md|Borgou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Borgou.private.md|Borgou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Borgou.personal.md|Borgou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Borgou.secret.md|Borgou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Borgou.internal|Borgou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Borgou.protect|Borgou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Borgou.private|Borgou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Borgou.personal|Borgou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Borgou.secret|Borgou.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Grad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.md|Grad]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.internal.md|Grad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.protect.md|Grad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.private.md|Grad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.personal.md|Grad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.secret.md|Grad.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.internal|Grad.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.protect|Grad.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.private|Grad.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.personal|Grad.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Grad.secret|Grad.secret]] 
 

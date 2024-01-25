@@ -41,9 +41,9 @@ markerFolder: ./Pomeroon-Supenaam/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.md|Pomeroon-Supenaam]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.internal.md|Pomeroon-Supenaam.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.protect.md|Pomeroon-Supenaam.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.private.md|Pomeroon-Supenaam.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.personal.md|Pomeroon-Supenaam.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.secret.md|Pomeroon-Supenaam.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.internal|Pomeroon-Supenaam.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.protect|Pomeroon-Supenaam.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.private|Pomeroon-Supenaam.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.personal|Pomeroon-Supenaam.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Pomeroon-Supenaam.secret|Pomeroon-Supenaam.secret]] 
 

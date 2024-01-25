@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rabka.md|Rabka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rabka.internal.md|Rabka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rabka.protect.md|Rabka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rabka.private.md|Rabka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rabka.personal.md|Rabka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rabka.secret.md|Rabka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rabka.internal|Rabka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rabka.protect|Rabka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rabka.private|Rabka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rabka.personal|Rabka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rabka.secret|Rabka.secret]] 

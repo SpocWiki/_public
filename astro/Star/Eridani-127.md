@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Eridani-127.md|Eridani-127]] 
-- [[../../../_internal/astro/Star/Eridani-127.internal.md|Eridani-127.internal]] 
-- [[../../../_protect/astro/Star/Eridani-127.protect.md|Eridani-127.protect]] 
-- [[../../../_private/astro/Star/Eridani-127.private.md|Eridani-127.private]] 
-- [[../../../_personal/astro/Star/Eridani-127.personal.md|Eridani-127.personal]] 
-- [[../../../_secret/astro/Star/Eridani-127.secret.md|Eridani-127.secret]]
+- [[../../../_internal/astro/Star/Eridani-127.internal|Eridani-127.internal]] 
+- [[../../../_protect/astro/Star/Eridani-127.protect|Eridani-127.protect]] 
+- [[../../../_private/astro/Star/Eridani-127.private|Eridani-127.private]] 
+- [[../../../_personal/astro/Star/Eridani-127.personal|Eridani-127.personal]] 
+- [[../../../_secret/astro/Star/Eridani-127.secret|Eridani-127.secret]]
 

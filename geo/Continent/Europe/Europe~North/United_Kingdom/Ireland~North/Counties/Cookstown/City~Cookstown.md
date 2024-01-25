@@ -34,7 +34,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 - [[City~Cookstown|City~Cookstown]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.internal|Cookstown.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.protect.md|Cookstown.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.private.md|Cookstown.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.personal.md|Cookstown.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.secret.md|Cookstown.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.protect|Cookstown.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.private|Cookstown.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.personal|Cookstown.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.secret|Cookstown.secret]] 

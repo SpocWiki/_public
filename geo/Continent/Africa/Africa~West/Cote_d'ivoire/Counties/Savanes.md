@@ -41,9 +41,9 @@ markerFolder: ./Savanes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.md|Savanes]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.internal.md|Savanes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.protect.md|Savanes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.private.md|Savanes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.personal.md|Savanes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.secret.md|Savanes.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.internal|Savanes.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.protect|Savanes.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.private|Savanes.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.personal|Savanes.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Savanes.secret|Savanes.secret]] 
 

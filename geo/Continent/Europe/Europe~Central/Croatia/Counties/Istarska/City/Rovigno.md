@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Rovigno.md|Rovigno]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovigno.internal.md|Rovigno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovigno.protect.md|Rovigno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rovigno.private.md|Rovigno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovigno.personal.md|Rovigno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovigno.secret.md|Rovigno.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovigno.internal|Rovigno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovigno.protect|Rovigno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rovigno.private|Rovigno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovigno.personal|Rovigno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovigno.secret|Rovigno.secret]] 

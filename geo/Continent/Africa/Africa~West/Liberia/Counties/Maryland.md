@@ -41,9 +41,9 @@ markerFolder: ./Maryland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Maryland.md|Maryland]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Maryland.internal.md|Maryland.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Maryland.protect.md|Maryland.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Maryland.private.md|Maryland.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Maryland.personal.md|Maryland.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Maryland.secret.md|Maryland.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Maryland.internal|Maryland.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Maryland.protect|Maryland.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Maryland.private|Maryland.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Maryland.personal|Maryland.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Maryland.secret|Maryland.secret]] 
 

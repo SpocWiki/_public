@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Setubel.md|Setubel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Setubel.internal.md|Setubel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Setubel.protect.md|Setubel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Setubel.private.md|Setubel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Setubel.personal.md|Setubel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Setubel.secret.md|Setubel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Setubel.internal|Setubel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Setubel.protect|Setubel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Setubel.private|Setubel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Setubel.personal|Setubel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Setubel.secret|Setubel.secret]] 

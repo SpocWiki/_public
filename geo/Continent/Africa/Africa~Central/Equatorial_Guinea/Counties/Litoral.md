@@ -41,9 +41,9 @@ markerFolder: ./Litoral/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.md|Litoral]] 
-- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.internal.md|Litoral.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.protect.md|Litoral.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.private.md|Litoral.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.personal.md|Litoral.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.secret.md|Litoral.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.internal|Litoral.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.protect|Litoral.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.private|Litoral.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.personal|Litoral.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.secret|Litoral.secret]] 
 

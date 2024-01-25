@@ -41,9 +41,9 @@ markerFolder: ./Benevento.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.md|Benevento.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.internal.md|Benevento.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.protect.md|Benevento.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.private.md|Benevento.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.personal.md|Benevento.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.secret.md|Benevento.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.internal|Benevento.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.protect|Benevento.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.private|Benevento.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.personal|Benevento.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Campania/Benevento.Province.secret|Benevento.Province.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Masindi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Masindi.md|Masindi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Masindi.internal.md|Masindi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Masindi.protect.md|Masindi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Masindi.private.md|Masindi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Masindi.personal.md|Masindi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Masindi.secret.md|Masindi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Masindi.internal|Masindi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Masindi.protect|Masindi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Masindi.private|Masindi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Masindi.personal|Masindi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Masindi.secret|Masindi.secret]] 
 

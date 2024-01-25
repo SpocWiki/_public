@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.md|Schuh=Schuls]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.internal.md|Schuh=Schuls.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.protect.md|Schuh=Schuls.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.private.md|Schuh=Schuls.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.personal.md|Schuh=Schuls.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.secret.md|Schuh=Schuls.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.internal|Schuh=Schuls.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.protect|Schuh=Schuls.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.private|Schuh=Schuls.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.personal|Schuh=Schuls.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.secret|Schuh=Schuls.secret]] 

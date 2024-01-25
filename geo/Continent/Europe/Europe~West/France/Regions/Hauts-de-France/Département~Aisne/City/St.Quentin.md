@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Quentin.md|St.Quentin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Quentin.internal.md|St.Quentin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Quentin.protect.md|St.Quentin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Quentin.private.md|St.Quentin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Quentin.personal.md|St.Quentin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Quentin.secret.md|St.Quentin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Quentin.internal|St.Quentin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Quentin.protect|St.Quentin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Quentin.private|St.Quentin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Quentin.personal|St.Quentin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Quentin.secret|St.Quentin.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Pfaffenhofen|Pfaffenhofen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.internal.md|Pfaffenhofen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.protect.md|Pfaffenhofen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.private.md|Pfaffenhofen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.personal.md|Pfaffenhofen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.secret.md|Pfaffenhofen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.internal|Pfaffenhofen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.protect|Pfaffenhofen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.private|Pfaffenhofen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.personal|Pfaffenhofen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.secret|Pfaffenhofen.secret]] 

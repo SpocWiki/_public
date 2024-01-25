@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chatra_la.md|Chatra_la]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chatra_la.internal.md|Chatra_la.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chatra_la.protect.md|Chatra_la.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chatra_la.private.md|Chatra_la.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chatra_la.personal.md|Chatra_la.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chatra_la.secret.md|Chatra_la.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chatra_la.internal|Chatra_la.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chatra_la.protect|Chatra_la.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chatra_la.private|Chatra_la.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chatra_la.personal|Chatra_la.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chatra_la.secret|Chatra_la.secret]] 

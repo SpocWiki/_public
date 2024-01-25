@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Christiania.md|Christiania]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Christiania.internal.md|Christiania.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Christiania.protect.md|Christiania.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Christiania.private.md|Christiania.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Christiania.personal.md|Christiania.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Christiania.secret.md|Christiania.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Christiania.internal|Christiania.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Christiania.protect|Christiania.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Christiania.private|Christiania.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Christiania.personal|Christiania.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Christiania.secret|Christiania.secret]] 

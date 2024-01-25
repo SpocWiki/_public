@@ -41,9 +41,9 @@ markerFolder: ./Wexford/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Wexford.md|Wexford]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Wexford.internal.md|Wexford.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Wexford.protect.md|Wexford.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Wexford.private.md|Wexford.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Wexford.personal.md|Wexford.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Wexford.secret.md|Wexford.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Wexford.internal|Wexford.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Wexford.protect|Wexford.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Wexford.private|Wexford.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Wexford.personal|Wexford.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Wexford.secret|Wexford.secret]] 
 

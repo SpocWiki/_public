@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Changing_the_color-moving_Volume]
 [SpocWebEntityId::25502]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.internal.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.protect.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.private.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.personal.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.secret.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.internal|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.protect|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.private|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.personal|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.secret|Triz-Manufacturing_Precision+Changing_the_color-moving_Volume.secret]] 

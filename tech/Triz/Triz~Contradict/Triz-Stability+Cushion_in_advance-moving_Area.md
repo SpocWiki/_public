@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Cushion_in_advance-moving_Area]
 [SpocWebEntityId::23841]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.md|Triz-Stability+Cushion_in_advance-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.internal.md|Triz-Stability+Cushion_in_advance-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.protect.md|Triz-Stability+Cushion_in_advance-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.private.md|Triz-Stability+Cushion_in_advance-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.personal.md|Triz-Stability+Cushion_in_advance-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.secret.md|Triz-Stability+Cushion_in_advance-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.internal|Triz-Stability+Cushion_in_advance-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.protect|Triz-Stability+Cushion_in_advance-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.private|Triz-Stability+Cushion_in_advance-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.personal|Triz-Stability+Cushion_in_advance-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Cushion_in_advance-moving_Area.secret|Triz-Stability+Cushion_in_advance-moving_Area.secret]] 

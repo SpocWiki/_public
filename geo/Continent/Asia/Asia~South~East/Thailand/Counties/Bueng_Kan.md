@@ -41,9 +41,9 @@ markerFolder: ./Bueng_Kan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.md|Bueng_Kan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.internal.md|Bueng_Kan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.protect.md|Bueng_Kan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.private.md|Bueng_Kan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.personal.md|Bueng_Kan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.secret.md|Bueng_Kan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.internal|Bueng_Kan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.protect|Bueng_Kan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.private|Bueng_Kan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.personal|Bueng_Kan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.secret|Bueng_Kan.secret]] 
 

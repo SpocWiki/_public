@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Strobl.md|Strobl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Strobl.internal.md|Strobl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Strobl.protect.md|Strobl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Strobl.private.md|Strobl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Strobl.personal.md|Strobl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Strobl.secret.md|Strobl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Strobl.internal|Strobl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Strobl.protect|Strobl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Strobl.private|Strobl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Strobl.personal|Strobl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Strobl.secret|Strobl.secret]] 

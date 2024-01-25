@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Feldsberg.md|Feldsberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Feldsberg.internal.md|Feldsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Feldsberg.protect.md|Feldsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Feldsberg.private.md|Feldsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Feldsberg.personal.md|Feldsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Feldsberg.secret.md|Feldsberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Feldsberg.internal|Feldsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Feldsberg.protect|Feldsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Feldsberg.private|Feldsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Feldsberg.personal|Feldsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Feldsberg.secret|Feldsberg.secret]] 

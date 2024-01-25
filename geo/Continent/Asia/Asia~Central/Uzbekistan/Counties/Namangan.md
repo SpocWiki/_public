@@ -41,9 +41,9 @@ markerFolder: ./Namangan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.md|Namangan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.internal.md|Namangan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.protect.md|Namangan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.private.md|Namangan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.personal.md|Namangan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.secret.md|Namangan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.internal|Namangan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.protect|Namangan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.private|Namangan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.personal|Namangan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Namangan.secret|Namangan.secret]] 
 

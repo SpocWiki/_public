@@ -41,9 +41,9 @@ markerFolder: ./Latina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lazio/Latina.md|Latina]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Latina.internal.md|Latina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Latina.protect.md|Latina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Latina.private.md|Latina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Latina.personal.md|Latina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Latina.secret.md|Latina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Latina.internal|Latina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Latina.protect|Latina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Latina.private|Latina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Latina.personal|Latina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Latina.secret|Latina.secret]] 
 

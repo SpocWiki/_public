@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Udinsk.md|Udinsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Udinsk.internal.md|Udinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Udinsk.protect.md|Udinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Udinsk.private.md|Udinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Udinsk.personal.md|Udinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Udinsk.secret.md|Udinsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Udinsk.internal|Udinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Udinsk.protect|Udinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Udinsk.private|Udinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Udinsk.personal|Udinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Udinsk.secret|Udinsk.secret]] 

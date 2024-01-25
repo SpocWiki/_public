@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tammela.md|Tammela]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tammela.internal.md|Tammela.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tammela.protect.md|Tammela.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tammela.private.md|Tammela.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tammela.personal.md|Tammela.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tammela.secret.md|Tammela.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tammela.internal|Tammela.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tammela.protect|Tammela.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tammela.private|Tammela.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tammela.personal|Tammela.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tammela.secret|Tammela.secret]] 

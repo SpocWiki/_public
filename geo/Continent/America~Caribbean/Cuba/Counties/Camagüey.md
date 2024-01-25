@@ -41,9 +41,9 @@ markerFolder: ./Camagüey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.md|Camagüey]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.internal.md|Camagüey.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.protect.md|Camagüey.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.private.md|Camagüey.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.personal.md|Camagüey.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.secret.md|Camagüey.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.internal|Camagüey.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.protect|Camagüey.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.private|Camagüey.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.personal|Camagüey.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Camagüey.secret|Camagüey.secret]] 
 

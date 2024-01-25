@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.md|Frankfort]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.internal.md|Frankfort.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.protect.md|Frankfort.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.private.md|Frankfort.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.personal.md|Frankfort.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.secret.md|Frankfort.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.internal|Frankfort.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.protect|Frankfort.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.private|Frankfort.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.personal|Frankfort.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.secret|Frankfort.secret]] 

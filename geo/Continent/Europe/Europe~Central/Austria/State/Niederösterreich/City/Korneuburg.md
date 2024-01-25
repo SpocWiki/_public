@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Korneuburg.md|Korneuburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Korneuburg.internal.md|Korneuburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Korneuburg.protect.md|Korneuburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Korneuburg.private.md|Korneuburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Korneuburg.personal.md|Korneuburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Korneuburg.secret.md|Korneuburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Korneuburg.internal|Korneuburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Korneuburg.protect|Korneuburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Korneuburg.private|Korneuburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Korneuburg.personal|Korneuburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Korneuburg.secret|Korneuburg.secret]] 

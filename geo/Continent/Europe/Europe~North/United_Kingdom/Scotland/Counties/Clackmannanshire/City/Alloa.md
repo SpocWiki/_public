@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Alloa.md|Alloa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Alloa.internal.md|Alloa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Alloa.protect.md|Alloa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Alloa.private.md|Alloa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Alloa.personal.md|Alloa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Alloa.secret.md|Alloa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Alloa.internal|Alloa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Alloa.protect|Alloa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Alloa.private|Alloa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Alloa.personal|Alloa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Alloa.secret|Alloa.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Rouen.md|Rouen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Rouen.internal.md|Rouen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Rouen.protect.md|Rouen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Rouen.private.md|Rouen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Rouen.personal.md|Rouen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Rouen.secret.md|Rouen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Rouen.internal|Rouen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Rouen.protect|Rouen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Rouen.private|Rouen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Rouen.personal|Rouen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Rouen.secret|Rouen.secret]] 

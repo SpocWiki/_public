@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[U-Marbachweg_Sozialzentrum|U-Marbachweg_Sozialzentrum]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.internal.md|U-Marbachweg_Sozialzentrum.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.protect.md|U-Marbachweg_Sozialzentrum.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.private.md|U-Marbachweg_Sozialzentrum.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.personal.md|U-Marbachweg_Sozialzentrum.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.secret.md|U-Marbachweg_Sozialzentrum.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.internal|U-Marbachweg_Sozialzentrum.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.protect|U-Marbachweg_Sozialzentrum.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.private|U-Marbachweg_Sozialzentrum.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.personal|U-Marbachweg_Sozialzentrum.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.secret|U-Marbachweg_Sozialzentrum.secret]] 

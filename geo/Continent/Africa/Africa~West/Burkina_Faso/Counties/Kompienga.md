@@ -41,9 +41,9 @@ markerFolder: ./Kompienga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.md|Kompienga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.internal.md|Kompienga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.protect.md|Kompienga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.private.md|Kompienga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.personal.md|Kompienga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.secret.md|Kompienga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.internal|Kompienga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.protect|Kompienga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.private|Kompienga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.personal|Kompienga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kompienga.secret|Kompienga.secret]] 
 

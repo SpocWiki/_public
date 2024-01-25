@@ -25,8 +25,8 @@ Use fields in conjunction with field-activated (e.g. ferromagnetic) particles.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-use-field.md|Triz-use-field]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-use-field.internal.md|Triz-use-field.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-use-field.protect.md|Triz-use-field.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-use-field.private.md|Triz-use-field.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-use-field.personal.md|Triz-use-field.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-use-field.secret.md|Triz-use-field.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-use-field.internal|Triz-use-field.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-use-field.protect|Triz-use-field.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-use-field.private|Triz-use-field.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-use-field.personal|Triz-use-field.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-use-field.secret|Triz-use-field.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Izmir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Izmir.md|Izmir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Izmir.internal.md|Izmir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Izmir.protect.md|Izmir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Izmir.private.md|Izmir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Izmir.personal.md|Izmir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Izmir.secret.md|Izmir.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Izmir.internal|Izmir.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Izmir.protect|Izmir.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Izmir.private|Izmir.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Izmir.personal|Izmir.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Izmir.secret|Izmir.secret]] 
 

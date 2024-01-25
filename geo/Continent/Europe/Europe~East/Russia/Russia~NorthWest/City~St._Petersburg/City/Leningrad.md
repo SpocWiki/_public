@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Leningrad.md|Leningrad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Leningrad.internal.md|Leningrad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Leningrad.protect.md|Leningrad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Leningrad.private.md|Leningrad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Leningrad.personal.md|Leningrad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Leningrad.secret.md|Leningrad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Leningrad.internal|Leningrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Leningrad.protect|Leningrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Leningrad.private|Leningrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Leningrad.personal|Leningrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Leningrad.secret|Leningrad.secret]] 

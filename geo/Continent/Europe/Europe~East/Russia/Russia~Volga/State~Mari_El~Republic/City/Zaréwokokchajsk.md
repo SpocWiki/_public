@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.md|Zaréwokokchajsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.internal.md|Zaréwokokchajsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.protect.md|Zaréwokokchajsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.private.md|Zaréwokokchajsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.personal.md|Zaréwokokchajsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.secret.md|Zaréwokokchajsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.internal|Zaréwokokchajsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.protect|Zaréwokokchajsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.private|Zaréwokokchajsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.personal|Zaréwokokchajsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaréwokokchajsk.secret|Zaréwokokchajsk.secret]] 

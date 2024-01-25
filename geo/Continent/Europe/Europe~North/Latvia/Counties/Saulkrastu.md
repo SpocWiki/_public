@@ -41,9 +41,9 @@ markerFolder: ./Saulkrastu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Saulkrastu.md|Saulkrastu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Saulkrastu.internal.md|Saulkrastu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Saulkrastu.protect.md|Saulkrastu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Saulkrastu.private.md|Saulkrastu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Saulkrastu.personal.md|Saulkrastu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Saulkrastu.secret.md|Saulkrastu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Saulkrastu.internal|Saulkrastu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Saulkrastu.protect|Saulkrastu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Saulkrastu.private|Saulkrastu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Saulkrastu.personal|Saulkrastu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Saulkrastu.secret|Saulkrastu.secret]] 
 

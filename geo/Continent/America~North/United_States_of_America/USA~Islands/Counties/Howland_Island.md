@@ -41,9 +41,9 @@ markerFolder: ./Howland_Island/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.md|Howland_Island]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.internal.md|Howland_Island.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.protect.md|Howland_Island.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.private.md|Howland_Island.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.personal.md|Howland_Island.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.secret.md|Howland_Island.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.internal|Howland_Island.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.protect|Howland_Island.protect]] 
+- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.private|Howland_Island.private]] 
+- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.personal|Howland_Island.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland_Island.secret|Howland_Island.secret]] 
 

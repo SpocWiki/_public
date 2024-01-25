@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sorrento.md|Sorrento]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sorrento.internal.md|Sorrento.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sorrento.protect.md|Sorrento.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sorrento.private.md|Sorrento.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sorrento.personal.md|Sorrento.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sorrento.secret.md|Sorrento.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sorrento.internal|Sorrento.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sorrento.protect|Sorrento.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sorrento.private|Sorrento.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sorrento.personal|Sorrento.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sorrento.secret|Sorrento.secret]] 

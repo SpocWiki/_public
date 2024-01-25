@@ -136,7 +136,7 @@ markerFolder: ./Libya//
 ## Confidential Links & Embeds: 
 - [[Libya|Libya]] 
 - [[../../../../../_internal/geo/Continent/Africa/Libya.internal|Libya.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya.protect.md|Libya.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya.private.md|Libya.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya.personal.md|Libya.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya.secret.md|Libya.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya.protect|Libya.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya.private|Libya.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya.personal|Libya.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya.secret|Libya.secret]] 

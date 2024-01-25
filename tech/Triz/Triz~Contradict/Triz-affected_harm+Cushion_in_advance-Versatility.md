@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Cushion_in_advance-Versatility]
 [SpocWebEntityId::25698]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.md|Triz-affected_harm+Cushion_in_advance-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.internal.md|Triz-affected_harm+Cushion_in_advance-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.protect.md|Triz-affected_harm+Cushion_in_advance-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.private.md|Triz-affected_harm+Cushion_in_advance-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.personal.md|Triz-affected_harm+Cushion_in_advance-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.secret.md|Triz-affected_harm+Cushion_in_advance-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.internal|Triz-affected_harm+Cushion_in_advance-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.protect|Triz-affected_harm+Cushion_in_advance-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.private|Triz-affected_harm+Cushion_in_advance-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.personal|Triz-affected_harm+Cushion_in_advance-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.secret|Triz-affected_harm+Cushion_in_advance-Versatility.secret]] 

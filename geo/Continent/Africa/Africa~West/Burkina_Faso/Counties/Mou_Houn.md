@@ -41,9 +41,9 @@ markerFolder: ./Mou_Houn/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.md|Mou_Houn]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.internal.md|Mou_Houn.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.protect.md|Mou_Houn.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.private.md|Mou_Houn.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.personal.md|Mou_Houn.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.secret.md|Mou_Houn.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.internal|Mou_Houn.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.protect|Mou_Houn.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.private|Mou_Houn.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.personal|Mou_Houn.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Mou_Houn.secret|Mou_Houn.secret]] 
 

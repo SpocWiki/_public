@@ -41,9 +41,9 @@ markerFolder: ./Planken/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Planken.md|Planken]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Planken.internal.md|Planken.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Planken.protect.md|Planken.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Planken.private.md|Planken.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Planken.personal.md|Planken.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Planken.secret.md|Planken.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Planken.internal|Planken.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Planken.protect|Planken.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Planken.private|Planken.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Planken.personal|Planken.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Planken.secret|Planken.secret]] 
 

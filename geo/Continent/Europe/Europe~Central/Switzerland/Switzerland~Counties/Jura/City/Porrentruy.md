@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Porrentruy.md|Porrentruy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Porrentruy.internal.md|Porrentruy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Porrentruy.protect.md|Porrentruy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Porrentruy.private.md|Porrentruy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Porrentruy.personal.md|Porrentruy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Porrentruy.secret.md|Porrentruy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Porrentruy.internal|Porrentruy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Porrentruy.protect|Porrentruy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Porrentruy.private|Porrentruy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Porrentruy.personal|Porrentruy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Porrentruy.secret|Porrentruy.secret]] 

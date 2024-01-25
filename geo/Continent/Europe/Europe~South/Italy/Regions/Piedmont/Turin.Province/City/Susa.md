@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Susa.md|Susa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Susa.internal.md|Susa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Susa.protect.md|Susa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Susa.private.md|Susa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Susa.personal.md|Susa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Susa.secret.md|Susa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Susa.internal|Susa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Susa.protect|Susa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Susa.private|Susa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Susa.personal|Susa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Susa.secret|Susa.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Aqaba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.md|Aqaba]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.internal.md|Aqaba.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.protect.md|Aqaba.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.private.md|Aqaba.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.personal.md|Aqaba.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.secret.md|Aqaba.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.internal|Aqaba.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.protect|Aqaba.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.private|Aqaba.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.personal|Aqaba.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.secret|Aqaba.secret]] 
 

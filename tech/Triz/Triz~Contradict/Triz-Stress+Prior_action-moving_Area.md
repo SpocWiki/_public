@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Prior_action-moving_Area]
 [SpocWebEntityId::23617]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.md|Triz-Stress+Prior_action-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.internal.md|Triz-Stress+Prior_action-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.protect.md|Triz-Stress+Prior_action-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.private.md|Triz-Stress+Prior_action-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.personal.md|Triz-Stress+Prior_action-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.secret.md|Triz-Stress+Prior_action-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.internal|Triz-Stress+Prior_action-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.protect|Triz-Stress+Prior_action-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.private|Triz-Stress+Prior_action-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.personal|Triz-Stress+Prior_action-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Area.secret|Triz-Stress+Prior_action-moving_Area.secret]] 

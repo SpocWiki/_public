@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Naumiestsis.md|Naumiestsis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naumiestsis.internal.md|Naumiestsis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naumiestsis.protect.md|Naumiestsis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naumiestsis.private.md|Naumiestsis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Naumiestsis.personal.md|Naumiestsis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Naumiestsis.secret.md|Naumiestsis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naumiestsis.internal|Naumiestsis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naumiestsis.protect|Naumiestsis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naumiestsis.private|Naumiestsis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Naumiestsis.personal|Naumiestsis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Naumiestsis.secret|Naumiestsis.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Beverinas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Beverinas.md|Beverinas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Beverinas.internal.md|Beverinas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Beverinas.protect.md|Beverinas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Beverinas.private.md|Beverinas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Beverinas.personal.md|Beverinas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Beverinas.secret.md|Beverinas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Beverinas.internal|Beverinas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Beverinas.protect|Beverinas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Beverinas.private|Beverinas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Beverinas.personal|Beverinas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Beverinas.secret|Beverinas.secret]] 
 

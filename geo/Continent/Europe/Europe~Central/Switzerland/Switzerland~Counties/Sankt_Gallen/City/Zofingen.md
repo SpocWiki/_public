@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zofingen.md|Zofingen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zofingen.internal.md|Zofingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zofingen.protect.md|Zofingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zofingen.private.md|Zofingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zofingen.personal.md|Zofingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zofingen.secret.md|Zofingen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zofingen.internal|Zofingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zofingen.protect|Zofingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zofingen.private|Zofingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zofingen.personal|Zofingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zofingen.secret|Zofingen.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kronoberg/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Kronoberg.md|Kronoberg]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Kronoberg.internal.md|Kronoberg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Kronoberg.protect.md|Kronoberg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Kronoberg.private.md|Kronoberg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Kronoberg.personal.md|Kronoberg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Kronoberg.secret.md|Kronoberg.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Kronoberg.internal|Kronoberg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Kronoberg.protect|Kronoberg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Kronoberg.private|Kronoberg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Kronoberg.personal|Kronoberg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Kronoberg.secret|Kronoberg.secret]] 
 

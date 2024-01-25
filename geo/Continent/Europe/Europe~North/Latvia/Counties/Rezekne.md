@@ -41,9 +41,9 @@ markerFolder: ./Rezekne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Rezekne.md|Rezekne]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rezekne.internal.md|Rezekne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rezekne.protect.md|Rezekne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rezekne.private.md|Rezekne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rezekne.personal.md|Rezekne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rezekne.secret.md|Rezekne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rezekne.internal|Rezekne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rezekne.protect|Rezekne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rezekne.private|Rezekne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rezekne.personal|Rezekne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rezekne.secret|Rezekne.secret]] 
 

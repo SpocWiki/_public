@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Aluksere.md|Aluksere]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aluksere.internal.md|Aluksere.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aluksere.protect.md|Aluksere.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aluksere.private.md|Aluksere.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aluksere.personal.md|Aluksere.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aluksere.secret.md|Aluksere.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aluksere.internal|Aluksere.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aluksere.protect|Aluksere.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aluksere.private|Aluksere.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aluksere.personal|Aluksere.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aluksere.secret|Aluksere.secret]] 

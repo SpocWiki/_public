@@ -41,9 +41,9 @@ markerFolder: ./Karlovarský/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.md|Karlovarský]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.internal.md|Karlovarský.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.protect.md|Karlovarský.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.private.md|Karlovarský.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.personal.md|Karlovarský.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.secret.md|Karlovarský.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.internal|Karlovarský.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.protect|Karlovarský.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.private|Karlovarský.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.personal|Karlovarský.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Karlovarský.secret|Karlovarský.secret]] 
 

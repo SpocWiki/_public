@@ -41,9 +41,9 @@ markerFolder: ./Övörhangay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.md|Övörhangay]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.internal.md|Övörhangay.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.protect.md|Övörhangay.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.private.md|Övörhangay.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.personal.md|Övörhangay.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.secret.md|Övörhangay.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.internal|Övörhangay.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.protect|Övörhangay.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.private|Övörhangay.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.personal|Övörhangay.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Övörhangay.secret|Övörhangay.secret]] 
 

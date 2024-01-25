@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Vasvar.md|Vasvar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Vasvar.internal.md|Vasvar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Vasvar.protect.md|Vasvar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Vasvar.private.md|Vasvar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Vasvar.personal.md|Vasvar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Vasvar.secret.md|Vasvar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Vasvar.internal|Vasvar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Vasvar.protect|Vasvar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Vasvar.private|Vasvar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Vasvar.personal|Vasvar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Vasvar.secret|Vasvar.secret]] 

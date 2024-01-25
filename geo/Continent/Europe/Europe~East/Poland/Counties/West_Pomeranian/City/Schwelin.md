@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schwelin.md|Schwelin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwelin.internal.md|Schwelin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwelin.protect.md|Schwelin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwelin.private.md|Schwelin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwelin.personal.md|Schwelin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwelin.secret.md|Schwelin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwelin.internal|Schwelin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwelin.protect|Schwelin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwelin.private|Schwelin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwelin.personal|Schwelin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwelin.secret|Schwelin.secret]] 

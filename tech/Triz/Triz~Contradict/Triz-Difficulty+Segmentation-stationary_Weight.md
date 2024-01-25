@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Segmentation-stationary_Weight]
 [SpocWebEntityId::26412]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.md|Triz-Difficulty+Segmentation-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.internal.md|Triz-Difficulty+Segmentation-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.protect.md|Triz-Difficulty+Segmentation-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.private.md|Triz-Difficulty+Segmentation-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.personal.md|Triz-Difficulty+Segmentation-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.secret.md|Triz-Difficulty+Segmentation-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.internal|Triz-Difficulty+Segmentation-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.protect|Triz-Difficulty+Segmentation-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.private|Triz-Difficulty+Segmentation-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.personal|Triz-Difficulty+Segmentation-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-stationary_Weight.secret|Triz-Difficulty+Segmentation-stationary_Weight.secret]] 

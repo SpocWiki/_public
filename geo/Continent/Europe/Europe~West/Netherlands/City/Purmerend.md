@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Purmerend.md|Purmerend]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Purmerend.internal.md|Purmerend.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Purmerend.protect.md|Purmerend.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Purmerend.private.md|Purmerend.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Purmerend.personal.md|Purmerend.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Purmerend.secret.md|Purmerend.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Purmerend.internal|Purmerend.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Purmerend.protect|Purmerend.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Purmerend.private|Purmerend.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Purmerend.personal|Purmerend.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Purmerend.secret|Purmerend.secret]] 

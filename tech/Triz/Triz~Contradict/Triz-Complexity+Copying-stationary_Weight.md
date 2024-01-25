@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Copying-stationary_Weight]
 [SpocWebEntityId::26295]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.md|Triz-Complexity+Copying-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.internal.md|Triz-Complexity+Copying-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.protect.md|Triz-Complexity+Copying-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.private.md|Triz-Complexity+Copying-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.personal.md|Triz-Complexity+Copying-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.secret.md|Triz-Complexity+Copying-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.internal|Triz-Complexity+Copying-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.protect|Triz-Complexity+Copying-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.private|Triz-Complexity+Copying-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.personal|Triz-Complexity+Copying-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.secret|Triz-Complexity+Copying-stationary_Weight.secret]] 

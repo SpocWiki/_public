@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Duration+Segmentation-Automation]
 [SpocWebEntityId::24220]
-+ [pro::[[Triz-stationary_Duration]]]
++ [#has_/Pros :: [[Triz-stationary_Duration]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.md|Triz-stationary_Duration+Segmentation-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.internal.md|Triz-stationary_Duration+Segmentation-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.protect.md|Triz-stationary_Duration+Segmentation-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.private.md|Triz-stationary_Duration+Segmentation-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.personal.md|Triz-stationary_Duration+Segmentation-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.secret.md|Triz-stationary_Duration+Segmentation-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.internal|Triz-stationary_Duration+Segmentation-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.protect|Triz-stationary_Duration+Segmentation-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.private|Triz-stationary_Duration+Segmentation-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.personal|Triz-stationary_Duration+Segmentation-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.secret|Triz-stationary_Duration+Segmentation-Automation.secret]] 

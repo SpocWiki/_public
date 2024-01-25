@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration]
 [SpocWebEntityId::24842]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.internal.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.protect.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.private.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.personal.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.secret.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.internal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.protect|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.private|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.personal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.secret|Triz-Substance-Loss+Replacement_of_a_mechanical_system-moving_Duration.secret]] 

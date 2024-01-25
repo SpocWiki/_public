@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::22639]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.internal.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.protect.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.private.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.personal.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.secret.md|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.internal|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.protect|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.private|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.personal|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.secret|Triz-moving_Weight+Replacement_of_a_mechanical_system-Time-Loss.secret]] 

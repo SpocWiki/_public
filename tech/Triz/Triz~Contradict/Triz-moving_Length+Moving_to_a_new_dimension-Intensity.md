@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Moving_to_a_new_dimension-Intensity]
 [SpocWebEntityId::22827]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.md|Triz-moving_Length+Moving_to_a_new_dimension-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.internal.md|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.protect.md|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.private.md|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.personal.md|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.secret.md|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.internal|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.protect|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.private|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.personal|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Intensity.secret|Triz-moving_Length+Moving_to_a_new_dimension-Intensity.secret]] 

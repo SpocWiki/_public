@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Hendaye.md|Hendaye]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Hendaye.internal.md|Hendaye.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Hendaye.protect.md|Hendaye.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Hendaye.private.md|Hendaye.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Hendaye.personal.md|Hendaye.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Hendaye.secret.md|Hendaye.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Hendaye.internal|Hendaye.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Hendaye.protect|Hendaye.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Hendaye.private|Hendaye.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Hendaye.personal|Hendaye.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Hendaye.secret|Hendaye.secret]] 

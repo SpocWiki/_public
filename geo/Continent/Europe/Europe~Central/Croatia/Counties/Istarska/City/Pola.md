@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pola.md|Pola]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pola.internal.md|Pola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pola.protect.md|Pola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pola.private.md|Pola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pola.personal.md|Pola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pola.secret.md|Pola.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pola.internal|Pola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pola.protect|Pola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pola.private|Pola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pola.personal|Pola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pola.secret|Pola.secret]] 

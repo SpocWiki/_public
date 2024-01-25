@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Tipperary.md|Tipperary]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tipperary.internal.md|Tipperary.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tipperary.protect.md|Tipperary.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Tipperary.private.md|Tipperary.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tipperary.personal.md|Tipperary.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tipperary.secret.md|Tipperary.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tipperary.internal|Tipperary.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tipperary.protect|Tipperary.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Tipperary.private|Tipperary.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tipperary.personal|Tipperary.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tipperary.secret|Tipperary.secret]] 

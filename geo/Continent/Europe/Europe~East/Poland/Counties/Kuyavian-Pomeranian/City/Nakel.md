@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Nakel.md|Nakel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nakel.internal.md|Nakel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nakel.protect.md|Nakel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nakel.private.md|Nakel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nakel.personal.md|Nakel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nakel.secret.md|Nakel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nakel.internal|Nakel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nakel.protect|Nakel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nakel.private|Nakel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nakel.personal|Nakel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nakel.secret|Nakel.secret]] 

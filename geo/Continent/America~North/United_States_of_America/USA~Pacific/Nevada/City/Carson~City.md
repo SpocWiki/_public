@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.md|Carson~City]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.internal.md|Carson~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.protect.md|Carson~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.private.md|Carson~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.personal.md|Carson~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.secret.md|Carson~City.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.internal|Carson~City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.protect|Carson~City.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.private|Carson~City.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.personal|Carson~City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.secret|Carson~City.secret]] 

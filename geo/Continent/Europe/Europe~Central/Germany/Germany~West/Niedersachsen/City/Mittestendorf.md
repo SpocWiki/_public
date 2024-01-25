@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.95,9.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -14,7 +14,7 @@ confidential: public
 
 ---
 
-#is_a/City 
+#is_a_/City 
 
 [geo-lon::9.8]
 [geo-lat::52.95]
@@ -36,8 +36,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Mittestendorf|Mittestendorf]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.internal.md|Mittestendorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.protect.md|Mittestendorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.private.md|Mittestendorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.personal.md|Mittestendorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.secret.md|Mittestendorf.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.internal|Mittestendorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.protect|Mittestendorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.private|Mittestendorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.personal|Mittestendorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.secret|Mittestendorf.secret]] 

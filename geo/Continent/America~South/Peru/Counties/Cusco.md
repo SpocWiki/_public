@@ -41,9 +41,9 @@ markerFolder: ./Cusco/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Cusco.md|Cusco]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Cusco.internal.md|Cusco.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Cusco.protect.md|Cusco.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Cusco.private.md|Cusco.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Cusco.personal.md|Cusco.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Cusco.secret.md|Cusco.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Cusco.internal|Cusco.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Cusco.protect|Cusco.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Cusco.private|Cusco.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Cusco.personal|Cusco.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Cusco.secret|Cusco.secret]] 
 

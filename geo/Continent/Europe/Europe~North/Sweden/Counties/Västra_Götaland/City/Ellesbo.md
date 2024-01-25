@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ellesbo.md|Ellesbo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ellesbo.internal.md|Ellesbo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ellesbo.protect.md|Ellesbo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ellesbo.private.md|Ellesbo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ellesbo.personal.md|Ellesbo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ellesbo.secret.md|Ellesbo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ellesbo.internal|Ellesbo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ellesbo.protect|Ellesbo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ellesbo.private|Ellesbo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ellesbo.personal|Ellesbo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ellesbo.secret|Ellesbo.secret]] 

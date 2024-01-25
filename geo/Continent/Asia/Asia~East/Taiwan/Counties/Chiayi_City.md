@@ -41,9 +41,9 @@ markerFolder: ./Chiayi_City/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.md|Chiayi_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.internal.md|Chiayi_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.protect.md|Chiayi_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.private.md|Chiayi_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.personal.md|Chiayi_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.secret.md|Chiayi_City.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.internal|Chiayi_City.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.protect|Chiayi_City.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.private|Chiayi_City.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.personal|Chiayi_City.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi_City.secret|Chiayi_City.secret]] 
 

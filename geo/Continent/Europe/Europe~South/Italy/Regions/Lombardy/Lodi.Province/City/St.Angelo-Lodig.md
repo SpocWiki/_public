@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.md|St.Angelo-Lodig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.internal.md|St.Angelo-Lodig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.protect.md|St.Angelo-Lodig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.private.md|St.Angelo-Lodig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.personal.md|St.Angelo-Lodig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.secret.md|St.Angelo-Lodig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.internal|St.Angelo-Lodig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.protect|St.Angelo-Lodig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.private|St.Angelo-Lodig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.personal|St.Angelo-Lodig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.secret|St.Angelo-Lodig.secret]] 

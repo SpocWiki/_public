@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Spheroidality-Speed]
 [SpocWebEntityId::26206]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.md|Triz-Versatility+Spheroidality-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.internal.md|Triz-Versatility+Spheroidality-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.protect.md|Triz-Versatility+Spheroidality-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.private.md|Triz-Versatility+Spheroidality-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.personal.md|Triz-Versatility+Spheroidality-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.secret.md|Triz-Versatility+Spheroidality-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.internal|Triz-Versatility+Spheroidality-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.protect|Triz-Versatility+Spheroidality-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.private|Triz-Versatility+Spheroidality-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.personal|Triz-Versatility+Spheroidality-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.secret|Triz-Versatility+Spheroidality-Speed.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Haa_Dhaalu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.md|Haa_Dhaalu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.internal.md|Haa_Dhaalu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.protect.md|Haa_Dhaalu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.private.md|Haa_Dhaalu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.personal.md|Haa_Dhaalu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.secret.md|Haa_Dhaalu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.internal|Haa_Dhaalu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.protect|Haa_Dhaalu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.private|Haa_Dhaalu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.personal|Haa_Dhaalu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.secret|Haa_Dhaalu.secret]] 
 

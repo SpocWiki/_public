@@ -41,9 +41,9 @@ markerFolder: ./Jujuy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Jujuy.md|Jujuy]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Jujuy.internal.md|Jujuy.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Jujuy.protect.md|Jujuy.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Jujuy.private.md|Jujuy.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Jujuy.personal.md|Jujuy.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Jujuy.secret.md|Jujuy.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Jujuy.internal|Jujuy.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Jujuy.protect|Jujuy.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Jujuy.private|Jujuy.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Jujuy.personal|Jujuy.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Jujuy.secret|Jujuy.secret]] 
 

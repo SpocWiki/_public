@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Tomsk_Oblast|State~Tomsk_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.internal|State~Tomsk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.protect.md|State~Tomsk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.private.md|State~Tomsk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.personal.md|State~Tomsk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.secret.md|State~Tomsk_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.protect|State~Tomsk_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.private|State~Tomsk_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.personal|State~Tomsk_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.secret|State~Tomsk_Oblast.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Asymmetry-Time-Loss]
 [SpocWebEntityId::25909]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.md|Triz-Ease_of_manufacture+Asymmetry-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.internal.md|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.protect.md|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.private.md|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.personal.md|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.secret.md|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.internal|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.protect|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.private|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.personal|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.secret|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.secret]] 

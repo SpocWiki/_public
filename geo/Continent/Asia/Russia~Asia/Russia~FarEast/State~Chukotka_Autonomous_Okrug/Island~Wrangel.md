@@ -41,11 +41,11 @@ markerFolder: ./Island~Wrangel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.md|Island~Wrangel]] 
-- [[../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.internal.md|Island~Wrangel.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.protect.md|Island~Wrangel.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.private.md|Island~Wrangel.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.personal.md|Island~Wrangel.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.secret.md|Island~Wrangel.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.internal|Island~Wrangel.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.protect|Island~Wrangel.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.private|Island~Wrangel.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.personal|Island~Wrangel.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.secret|Island~Wrangel.secret]] 
 
 
 

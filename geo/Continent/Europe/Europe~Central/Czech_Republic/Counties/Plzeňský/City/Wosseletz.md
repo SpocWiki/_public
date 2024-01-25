@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Wosseletz.md|Wosseletz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wosseletz.internal.md|Wosseletz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wosseletz.protect.md|Wosseletz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wosseletz.private.md|Wosseletz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wosseletz.personal.md|Wosseletz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wosseletz.secret.md|Wosseletz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wosseletz.internal|Wosseletz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wosseletz.protect|Wosseletz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wosseletz.private|Wosseletz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wosseletz.personal|Wosseletz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wosseletz.secret|Wosseletz.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Montegiardino/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Montegiardino.md|Montegiardino]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Montegiardino.internal.md|Montegiardino.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Montegiardino.protect.md|Montegiardino.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Montegiardino.private.md|Montegiardino.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Montegiardino.personal.md|Montegiardino.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Montegiardino.secret.md|Montegiardino.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Montegiardino.internal|Montegiardino.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Montegiardino.protect|Montegiardino.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Montegiardino.private|Montegiardino.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Montegiardino.personal|Montegiardino.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Montegiardino.secret|Montegiardino.secret]] 
 

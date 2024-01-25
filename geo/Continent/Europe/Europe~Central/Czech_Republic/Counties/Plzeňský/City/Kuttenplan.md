@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.md|Kuttenplan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.internal.md|Kuttenplan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.protect.md|Kuttenplan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.private.md|Kuttenplan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.personal.md|Kuttenplan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.secret.md|Kuttenplan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.internal|Kuttenplan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.protect|Kuttenplan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.private|Kuttenplan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.personal|Kuttenplan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.secret|Kuttenplan.secret]] 

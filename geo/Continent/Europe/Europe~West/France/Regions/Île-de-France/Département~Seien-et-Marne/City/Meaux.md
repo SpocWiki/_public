@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Meaux.md|Meaux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Meaux.internal.md|Meaux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Meaux.protect.md|Meaux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Meaux.private.md|Meaux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Meaux.personal.md|Meaux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Meaux.secret.md|Meaux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Meaux.internal|Meaux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Meaux.protect|Meaux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Meaux.private|Meaux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Meaux.personal|Meaux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Meaux.secret|Meaux.secret]] 

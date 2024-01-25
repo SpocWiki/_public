@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bozen=Bolzano.md|Bozen=Bolzano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bozen=Bolzano.internal.md|Bozen=Bolzano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bozen=Bolzano.protect.md|Bozen=Bolzano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bozen=Bolzano.private.md|Bozen=Bolzano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bozen=Bolzano.personal.md|Bozen=Bolzano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bozen=Bolzano.secret.md|Bozen=Bolzano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bozen=Bolzano.internal|Bozen=Bolzano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bozen=Bolzano.protect|Bozen=Bolzano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bozen=Bolzano.private|Bozen=Bolzano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bozen=Bolzano.personal|Bozen=Bolzano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bozen=Bolzano.secret|Bozen=Bolzano.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Oise/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.md|Département~Oise]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.internal.md|Département~Oise.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.protect.md|Département~Oise.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.private.md|Département~Oise.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.personal.md|Département~Oise.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.secret.md|Département~Oise.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.internal|Département~Oise.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.protect|Département~Oise.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.private|Département~Oise.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.personal|Département~Oise.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Oise.secret|Département~Oise.secret]] 
 

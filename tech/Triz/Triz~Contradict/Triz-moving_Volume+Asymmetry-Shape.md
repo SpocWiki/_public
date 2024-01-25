@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Asymmetry-Shape]
 [SpocWebEntityId::23215]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.md|Triz-moving_Volume+Asymmetry-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.internal.md|Triz-moving_Volume+Asymmetry-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.protect.md|Triz-moving_Volume+Asymmetry-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.private.md|Triz-moving_Volume+Asymmetry-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.personal.md|Triz-moving_Volume+Asymmetry-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.secret.md|Triz-moving_Volume+Asymmetry-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.internal|Triz-moving_Volume+Asymmetry-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.protect|Triz-moving_Volume+Asymmetry-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.private|Triz-moving_Volume+Asymmetry-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.personal|Triz-moving_Volume+Asymmetry-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Shape.secret|Triz-moving_Volume+Asymmetry-Shape.secret]] 

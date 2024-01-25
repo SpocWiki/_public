@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Albarese.md|Albarese]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Albarese.internal.md|Albarese.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Albarese.protect.md|Albarese.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Albarese.private.md|Albarese.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Albarese.personal.md|Albarese.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Albarese.secret.md|Albarese.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Albarese.internal|Albarese.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Albarese.protect|Albarese.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Albarese.private|Albarese.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Albarese.personal|Albarese.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Albarese.secret|Albarese.secret]] 

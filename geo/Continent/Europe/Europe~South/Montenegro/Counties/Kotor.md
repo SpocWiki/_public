@@ -41,9 +41,9 @@ markerFolder: ./Kotor/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Kotor.md|Kotor]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Kotor.internal.md|Kotor.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Kotor.protect.md|Kotor.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Kotor.private.md|Kotor.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Kotor.personal.md|Kotor.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Kotor.secret.md|Kotor.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Kotor.internal|Kotor.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Kotor.protect|Kotor.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Kotor.private|Kotor.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Kotor.personal|Kotor.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Kotor.secret|Kotor.secret]] 
 

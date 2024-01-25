@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vasalemma.md|Vasalemma]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vasalemma.internal.md|Vasalemma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vasalemma.protect.md|Vasalemma.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vasalemma.private.md|Vasalemma.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vasalemma.personal.md|Vasalemma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vasalemma.secret.md|Vasalemma.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vasalemma.internal|Vasalemma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vasalemma.protect|Vasalemma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vasalemma.private|Vasalemma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vasalemma.personal|Vasalemma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vasalemma.secret|Vasalemma.secret]] 

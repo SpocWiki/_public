@@ -41,9 +41,9 @@ markerFolder: ./Jerusalem/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.md|Jerusalem]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.internal.md|Jerusalem.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.protect.md|Jerusalem.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.private.md|Jerusalem.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.personal.md|Jerusalem.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.secret.md|Jerusalem.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.internal|Jerusalem.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.protect|Jerusalem.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.private|Jerusalem.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.personal|Jerusalem.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Jerusalem.secret|Jerusalem.secret]] 
 

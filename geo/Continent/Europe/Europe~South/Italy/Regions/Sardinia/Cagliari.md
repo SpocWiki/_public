@@ -41,9 +41,9 @@ markerFolder: ./Cagliari/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.md|Cagliari]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.internal.md|Cagliari.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.protect.md|Cagliari.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.private.md|Cagliari.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.personal.md|Cagliari.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.secret.md|Cagliari.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.internal|Cagliari.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.protect|Cagliari.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.private|Cagliari.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.personal|Cagliari.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Cagliari.secret|Cagliari.secret]] 
 

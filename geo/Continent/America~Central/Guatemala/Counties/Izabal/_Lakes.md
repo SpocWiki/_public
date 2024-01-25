@@ -41,9 +41,9 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.internal.md|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.protect.md|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.private.md|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.personal.md|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.secret.md|_Lakes.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.private|_Lakes.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Izabal/_Lakes.secret|_Lakes.secret]] 
 

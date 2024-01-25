@@ -41,9 +41,9 @@ markerFolder: ./Lakes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.md|Lakes]] 
-- [[../../../../_internal/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.internal.md|Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.protect.md|Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.private.md|Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.personal.md|Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.secret.md|Lakes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.internal|Lakes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.protect|Lakes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.private|Lakes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.personal|Lakes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Germany/Germany~West/Niedersachsen/Lakes.secret|Lakes.secret]] 
 

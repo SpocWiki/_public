@@ -41,9 +41,9 @@ markerFolder: ./Tivat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Tivat.md|Tivat]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Tivat.internal.md|Tivat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Tivat.protect.md|Tivat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Tivat.private.md|Tivat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Tivat.personal.md|Tivat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Tivat.secret.md|Tivat.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Tivat.internal|Tivat.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Tivat.protect|Tivat.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Tivat.private|Tivat.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Tivat.personal|Tivat.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Tivat.secret|Tivat.secret]] 
 

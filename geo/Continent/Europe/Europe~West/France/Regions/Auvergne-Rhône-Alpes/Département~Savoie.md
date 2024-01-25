@@ -41,9 +41,9 @@ markerFolder: ./Département~Savoie/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.md|Département~Savoie]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.internal.md|Département~Savoie.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.protect.md|Département~Savoie.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.private.md|Département~Savoie.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.personal.md|Département~Savoie.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.secret.md|Département~Savoie.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.internal|Département~Savoie.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.protect|Département~Savoie.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.private|Département~Savoie.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.personal|Département~Savoie.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Savoie.secret|Département~Savoie.secret]] 
 

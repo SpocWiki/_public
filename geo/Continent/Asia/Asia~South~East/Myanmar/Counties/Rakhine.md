@@ -41,9 +41,9 @@ markerFolder: ./Rakhine/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.md|Rakhine]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.internal.md|Rakhine.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.protect.md|Rakhine.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.private.md|Rakhine.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.personal.md|Rakhine.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.secret.md|Rakhine.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.internal|Rakhine.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.protect|Rakhine.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.private|Rakhine.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.personal|Rakhine.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.secret|Rakhine.secret]] 
 

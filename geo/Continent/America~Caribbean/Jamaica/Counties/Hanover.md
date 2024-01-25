@@ -41,9 +41,9 @@ markerFolder: ./Hanover/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.md|Hanover]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.internal.md|Hanover.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.protect.md|Hanover.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.private.md|Hanover.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.personal.md|Hanover.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.secret.md|Hanover.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.internal|Hanover.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.protect|Hanover.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.private|Hanover.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.personal|Hanover.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.secret|Hanover.secret]] 
 

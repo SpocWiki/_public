@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Duration+Local_quality-Stress]
 [SpocWebEntityId::24087]
-+ [pro::[[Triz-moving_Duration]]]
++ [#has_/Pros :: [[Triz-moving_Duration]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.md|Triz-moving_Duration+Local_quality-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.internal.md|Triz-moving_Duration+Local_quality-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.protect.md|Triz-moving_Duration+Local_quality-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.private.md|Triz-moving_Duration+Local_quality-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.personal.md|Triz-moving_Duration+Local_quality-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.secret.md|Triz-moving_Duration+Local_quality-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.internal|Triz-moving_Duration+Local_quality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.protect|Triz-moving_Duration+Local_quality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.private|Triz-moving_Duration+Local_quality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.personal|Triz-moving_Duration+Local_quality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Stress.secret|Triz-moving_Duration+Local_quality-Stress.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Metlika/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.md|Metlika]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.internal.md|Metlika.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.protect.md|Metlika.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.private.md|Metlika.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.personal.md|Metlika.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.secret.md|Metlika.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.internal|Metlika.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.protect|Metlika.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.private|Metlika.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.personal|Metlika.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Metlika.secret|Metlika.secret]] 
 

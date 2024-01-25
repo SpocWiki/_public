@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Mahon.md|Mahon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Mahon.internal.md|Mahon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Mahon.protect.md|Mahon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Mahon.private.md|Mahon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Mahon.personal.md|Mahon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Mahon.secret.md|Mahon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Mahon.internal|Mahon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Mahon.protect|Mahon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Mahon.private|Mahon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Mahon.personal|Mahon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Mahon.secret|Mahon.secret]] 

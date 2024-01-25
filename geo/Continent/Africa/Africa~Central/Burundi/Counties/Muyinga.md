@@ -41,9 +41,9 @@ markerFolder: ./Muyinga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Muyinga.md|Muyinga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Muyinga.internal.md|Muyinga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Muyinga.protect.md|Muyinga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Muyinga.private.md|Muyinga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Muyinga.personal.md|Muyinga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Muyinga.secret.md|Muyinga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Muyinga.internal|Muyinga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Muyinga.protect|Muyinga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Muyinga.private|Muyinga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Muyinga.personal|Muyinga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Muyinga.secret|Muyinga.secret]] 
 

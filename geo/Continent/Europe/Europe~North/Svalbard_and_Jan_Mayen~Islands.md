@@ -36,8 +36,8 @@ markerFolder: ./Svalbard_And_Jan_Mayen_Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.md|Svalbard_and_Jan_Mayen~Islands]] 
-- [[../../../../_internal/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.internal.md|Svalbard_and_Jan_Mayen~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.protect.md|Svalbard_and_Jan_Mayen~Islands.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.private.md|Svalbard_and_Jan_Mayen~Islands.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.personal.md|Svalbard_and_Jan_Mayen~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.secret.md|Svalbard_and_Jan_Mayen~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.internal|Svalbard_and_Jan_Mayen~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.protect|Svalbard_and_Jan_Mayen~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.private|Svalbard_and_Jan_Mayen~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.personal|Svalbard_and_Jan_Mayen~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.secret|Svalbard_and_Jan_Mayen~Islands.secret]] 

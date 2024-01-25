@@ -41,9 +41,9 @@ markerFolder: ./Béjaïa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Béjaïa.md|Béjaïa]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Béjaïa.internal.md|Béjaïa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Béjaïa.protect.md|Béjaïa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Béjaïa.private.md|Béjaïa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Béjaïa.personal.md|Béjaïa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Béjaïa.secret.md|Béjaïa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Béjaïa.internal|Béjaïa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Béjaïa.protect|Béjaïa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Béjaïa.private|Béjaïa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Béjaïa.personal|Béjaïa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Béjaïa.secret|Béjaïa.secret]] 
 

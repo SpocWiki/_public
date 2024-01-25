@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Leninabad.md|Leninabad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Leninabad.internal.md|Leninabad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Leninabad.protect.md|Leninabad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Leninabad.private.md|Leninabad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Leninabad.personal.md|Leninabad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Leninabad.secret.md|Leninabad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Leninabad.internal|Leninabad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Leninabad.protect|Leninabad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Leninabad.private|Leninabad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Leninabad.personal|Leninabad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Leninabad.secret|Leninabad.secret]] 

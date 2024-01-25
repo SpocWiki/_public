@@ -134,7 +134,7 @@ markerFolder: ./Maldives/
 ## Confidential Links & Embeds: 
 -[[Maldives|Maldives]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Maldives.internal|Maldives.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Maldives.protect.md|Maldives.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Maldives.private.md|Maldives.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Maldives.personal.md|Maldives.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Maldives.secret.md|Maldives.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Maldives.protect|Maldives.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Maldives.private|Maldives.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Maldives.personal|Maldives.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Maldives.secret|Maldives.secret]] 

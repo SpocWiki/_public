@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Periodic_action-Intensity]
 [SpocWebEntityId::26441]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.md|Triz-Difficulty+Periodic_action-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.internal.md|Triz-Difficulty+Periodic_action-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.protect.md|Triz-Difficulty+Periodic_action-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.private.md|Triz-Difficulty+Periodic_action-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.personal.md|Triz-Difficulty+Periodic_action-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.secret.md|Triz-Difficulty+Periodic_action-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.internal|Triz-Difficulty+Periodic_action-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.protect|Triz-Difficulty+Periodic_action-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.private|Triz-Difficulty+Periodic_action-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.personal|Triz-Difficulty+Periodic_action-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Intensity.secret|Triz-Difficulty+Periodic_action-Intensity.secret]] 

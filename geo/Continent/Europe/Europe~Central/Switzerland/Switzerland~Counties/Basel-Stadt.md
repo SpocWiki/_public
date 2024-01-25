@@ -41,9 +41,9 @@ markerFolder: ./Basel-Stadt/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.md|Basel-Stadt]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.internal.md|Basel-Stadt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.protect.md|Basel-Stadt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.private.md|Basel-Stadt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.personal.md|Basel-Stadt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.secret.md|Basel-Stadt.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.internal|Basel-Stadt.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.protect|Basel-Stadt.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.private|Basel-Stadt.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.personal|Basel-Stadt.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Basel-Stadt.secret|Basel-Stadt.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Friedeberg.md|Friedeberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedeberg.internal.md|Friedeberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedeberg.protect.md|Friedeberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Friedeberg.private.md|Friedeberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedeberg.personal.md|Friedeberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedeberg.secret.md|Friedeberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedeberg.internal|Friedeberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedeberg.protect|Friedeberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Friedeberg.private|Friedeberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedeberg.personal|Friedeberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedeberg.secret|Friedeberg.secret]] 

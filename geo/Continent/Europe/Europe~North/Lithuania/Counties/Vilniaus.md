@@ -41,9 +41,9 @@ markerFolder: ./Vilniaus/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Vilniaus.md|Vilniaus]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Vilniaus.internal.md|Vilniaus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Vilniaus.protect.md|Vilniaus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Vilniaus.private.md|Vilniaus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Vilniaus.personal.md|Vilniaus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Vilniaus.secret.md|Vilniaus.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Vilniaus.internal|Vilniaus.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Vilniaus.protect|Vilniaus.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Vilniaus.private|Vilniaus.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Vilniaus.personal|Vilniaus.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Vilniaus.secret|Vilniaus.secret]] 
 

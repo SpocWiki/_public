@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Puka.md|Puka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Puka.internal.md|Puka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Puka.protect.md|Puka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Puka.private.md|Puka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Puka.personal.md|Puka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Puka.secret.md|Puka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Puka.internal|Puka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Puka.protect|Puka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Puka.private|Puka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Puka.personal|Puka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Puka.secret|Puka.secret]] 

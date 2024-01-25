@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sarepta.md|Sarepta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sarepta.internal.md|Sarepta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sarepta.protect.md|Sarepta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sarepta.private.md|Sarepta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sarepta.personal.md|Sarepta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sarepta.secret.md|Sarepta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sarepta.internal|Sarepta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sarepta.protect|Sarepta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sarepta.private|Sarepta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sarepta.personal|Sarepta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sarepta.secret|Sarepta.secret]] 

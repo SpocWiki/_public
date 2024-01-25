@@ -41,9 +41,9 @@ markerFolder: ./Département~Haute-Marne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Grand_Est/Département~Haute-Marne.md|Département~Haute-Marne]] 
-- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Haute-Marne.internal.md|Département~Haute-Marne.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Haute-Marne.protect.md|Département~Haute-Marne.protect]] 
-- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Haute-Marne.private.md|Département~Haute-Marne.private]] 
-- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Haute-Marne.personal.md|Département~Haute-Marne.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Haute-Marne.secret.md|Département~Haute-Marne.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Haute-Marne.internal|Département~Haute-Marne.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Haute-Marne.protect|Département~Haute-Marne.protect]] 
+- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Haute-Marne.private|Département~Haute-Marne.private]] 
+- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Haute-Marne.personal|Département~Haute-Marne.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Haute-Marne.secret|Département~Haute-Marne.secret]] 
 

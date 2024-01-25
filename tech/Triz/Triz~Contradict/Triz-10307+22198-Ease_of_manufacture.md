@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22198-Ease_of_manufacture]
 [SpocWebEntityId::26743]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22198]]]
-- [con::[[Triz-Ease_of_manufacture]]]
+- [#has_/Cons :: [[Triz-Ease_of_manufacture]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.md|Triz-10307+22198-Ease_of_manufacture]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.internal.md|Triz-10307+22198-Ease_of_manufacture.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.protect.md|Triz-10307+22198-Ease_of_manufacture.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.private.md|Triz-10307+22198-Ease_of_manufacture.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.personal.md|Triz-10307+22198-Ease_of_manufacture.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.secret.md|Triz-10307+22198-Ease_of_manufacture.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.internal|Triz-10307+22198-Ease_of_manufacture.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.protect|Triz-10307+22198-Ease_of_manufacture.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.private|Triz-10307+22198-Ease_of_manufacture.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.personal|Triz-10307+22198-Ease_of_manufacture.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22198-Ease_of_manufacture.secret|Triz-10307+22198-Ease_of_manufacture.secret]] 

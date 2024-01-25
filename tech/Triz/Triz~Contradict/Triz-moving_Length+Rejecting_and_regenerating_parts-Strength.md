@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Rejecting_and_regenerating_parts-Strength]
 [SpocWebEntityId::22844]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.md|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.internal.md|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.protect.md|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.private.md|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.personal.md|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.secret.md|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.internal|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.protect|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.private|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.personal|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.secret|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.secret]] 

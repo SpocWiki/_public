@@ -41,9 +41,9 @@ markerFolder: ./Plasnica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.md|Plasnica]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.internal.md|Plasnica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.protect.md|Plasnica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.private.md|Plasnica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.personal.md|Plasnica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.secret.md|Plasnica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.internal|Plasnica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.protect|Plasnica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.private|Plasnica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.personal|Plasnica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Plasnica.secret|Plasnica.secret]] 
 

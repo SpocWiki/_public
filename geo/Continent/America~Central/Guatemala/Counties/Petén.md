@@ -41,9 +41,9 @@ markerFolder: ./Petén/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Petén.md|Petén]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Petén.internal.md|Petén.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Petén.protect.md|Petén.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Petén.private.md|Petén.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Petén.personal.md|Petén.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Petén.secret.md|Petén.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Petén.internal|Petén.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Petén.protect|Petén.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Petén.private|Petén.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Petén.personal|Petén.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Petén.secret|Petén.secret]] 
 

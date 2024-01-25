@@ -41,9 +41,9 @@ markerFolder: ./Albacete.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.md|Albacete.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.internal.md|Albacete.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.protect.md|Albacete.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.private.md|Albacete.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.personal.md|Albacete.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.secret.md|Albacete.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.internal|Albacete.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.protect|Albacete.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.private|Albacete.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.personal|Albacete.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Albacete.Province.secret|Albacete.Province.secret]] 
 

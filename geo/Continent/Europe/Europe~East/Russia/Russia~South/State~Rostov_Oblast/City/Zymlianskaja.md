@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zymlianskaja.md|Zymlianskaja]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zymlianskaja.internal.md|Zymlianskaja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zymlianskaja.protect.md|Zymlianskaja.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zymlianskaja.private.md|Zymlianskaja.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zymlianskaja.personal.md|Zymlianskaja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zymlianskaja.secret.md|Zymlianskaja.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zymlianskaja.internal|Zymlianskaja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zymlianskaja.protect|Zymlianskaja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zymlianskaja.private|Zymlianskaja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zymlianskaja.personal|Zymlianskaja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zymlianskaja.secret|Zymlianskaja.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Lozère/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.md|Département~Lozère]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.internal.md|Département~Lozère.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.protect.md|Département~Lozère.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.private.md|Département~Lozère.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.personal.md|Département~Lozère.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.secret.md|Département~Lozère.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.internal|Département~Lozère.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.protect|Département~Lozère.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.private|Département~Lozère.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.personal|Département~Lozère.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Occitanie/Département~Lozère.secret|Département~Lozère.secret]] 
 

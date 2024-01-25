@@ -41,9 +41,9 @@ markerFolder: ./Ribnica_na_Pohorju/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.md|Ribnica_na_Pohorju]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.internal.md|Ribnica_na_Pohorju.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.protect.md|Ribnica_na_Pohorju.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.private.md|Ribnica_na_Pohorju.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.personal.md|Ribnica_na_Pohorju.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.secret.md|Ribnica_na_Pohorju.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.internal|Ribnica_na_Pohorju.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.protect|Ribnica_na_Pohorju.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.private|Ribnica_na_Pohorju.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.personal|Ribnica_na_Pohorju.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ribnica_na_Pohorju.secret|Ribnica_na_Pohorju.secret]] 
 

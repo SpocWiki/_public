@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Gabrovo.md|Gabrovo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Gabrovo.internal.md|Gabrovo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Gabrovo.protect.md|Gabrovo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Gabrovo.private.md|Gabrovo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Gabrovo.personal.md|Gabrovo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Gabrovo.secret.md|Gabrovo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Gabrovo.internal|Gabrovo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Gabrovo.protect|Gabrovo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Gabrovo.private|Gabrovo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Gabrovo.personal|Gabrovo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Gabrovo.secret|Gabrovo.secret]] 

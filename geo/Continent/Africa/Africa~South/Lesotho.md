@@ -136,7 +136,7 @@ markerFolder: ./Lesotho//
 ## Confidential Links & Embeds: 
 - [[Lesotho|Lesotho]] 
 - [[../../../../../_internal/geo/Continent/Africa/Lesotho.internal|Lesotho.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho.protect.md|Lesotho.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho.private.md|Lesotho.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho.personal.md|Lesotho.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho.secret.md|Lesotho.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Lesotho.protect|Lesotho.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Lesotho.private|Lesotho.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Lesotho.personal|Lesotho.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Lesotho.secret|Lesotho.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Kopstal.md|Kopstal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Kopstal.internal.md|Kopstal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Kopstal.protect.md|Kopstal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Kopstal.private.md|Kopstal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Kopstal.personal.md|Kopstal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Kopstal.secret.md|Kopstal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Kopstal.internal|Kopstal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Kopstal.protect|Kopstal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Kopstal.private|Kopstal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Kopstal.personal|Kopstal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Kopstal.secret|Kopstal.secret]] 

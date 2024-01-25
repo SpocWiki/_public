@@ -41,9 +41,9 @@ markerFolder: ./Coquimbo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Chile/Counties/Coquimbo.md|Coquimbo]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Coquimbo.internal.md|Coquimbo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Coquimbo.protect.md|Coquimbo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Coquimbo.private.md|Coquimbo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Coquimbo.personal.md|Coquimbo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Coquimbo.secret.md|Coquimbo.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Coquimbo.internal|Coquimbo.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Coquimbo.protect|Coquimbo.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Coquimbo.private|Coquimbo.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Coquimbo.personal|Coquimbo.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Coquimbo.secret|Coquimbo.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Satu_Mare/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Satu_Mare.md|Satu_Mare]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Satu_Mare.internal.md|Satu_Mare.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Satu_Mare.protect.md|Satu_Mare.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Satu_Mare.private.md|Satu_Mare.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Satu_Mare.personal.md|Satu_Mare.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Satu_Mare.secret.md|Satu_Mare.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Satu_Mare.internal|Satu_Mare.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Satu_Mare.protect|Satu_Mare.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Satu_Mare.private|Satu_Mare.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Satu_Mare.personal|Satu_Mare.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Satu_Mare.secret|Satu_Mare.secret]] 
 

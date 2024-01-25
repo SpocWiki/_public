@@ -41,9 +41,9 @@ markerFolder: ./Guairá/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Guairá.md|Guairá]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Guairá.internal.md|Guairá.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Guairá.protect.md|Guairá.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Guairá.private.md|Guairá.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Guairá.personal.md|Guairá.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Guairá.secret.md|Guairá.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Guairá.internal|Guairá.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Guairá.protect|Guairá.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Guairá.private|Guairá.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Guairá.personal|Guairá.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Guairá.secret|Guairá.secret]] 
 

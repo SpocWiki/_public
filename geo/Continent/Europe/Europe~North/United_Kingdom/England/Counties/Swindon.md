@@ -41,9 +41,9 @@ markerFolder: ./Swindon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.md|Swindon]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.internal.md|Swindon.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.protect.md|Swindon.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.private.md|Swindon.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.personal.md|Swindon.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.secret.md|Swindon.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.internal|Swindon.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.protect|Swindon.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.private|Swindon.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.personal|Swindon.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Swindon.secret|Swindon.secret]] 
 

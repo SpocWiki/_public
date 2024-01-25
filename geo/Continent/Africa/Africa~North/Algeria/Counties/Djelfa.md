@@ -41,9 +41,9 @@ markerFolder: ./Djelfa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Djelfa.md|Djelfa]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Djelfa.internal.md|Djelfa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Djelfa.protect.md|Djelfa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Djelfa.private.md|Djelfa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Djelfa.personal.md|Djelfa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Djelfa.secret.md|Djelfa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Djelfa.internal|Djelfa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Djelfa.protect|Djelfa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Djelfa.private|Djelfa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Djelfa.personal|Djelfa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Djelfa.secret|Djelfa.secret]] 
 

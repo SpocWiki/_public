@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Alt-Boick.md|Alt-Boick]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Alt-Boick.internal.md|Alt-Boick.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Alt-Boick.protect.md|Alt-Boick.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Alt-Boick.private.md|Alt-Boick.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Alt-Boick.personal.md|Alt-Boick.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Alt-Boick.secret.md|Alt-Boick.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Alt-Boick.internal|Alt-Boick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Alt-Boick.protect|Alt-Boick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Alt-Boick.private|Alt-Boick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Alt-Boick.personal|Alt-Boick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Alt-Boick.secret|Alt-Boick.secret]] 

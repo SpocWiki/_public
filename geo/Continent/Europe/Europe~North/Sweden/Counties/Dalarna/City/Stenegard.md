@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Stenegard.md|Stenegard]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stenegard.internal.md|Stenegard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stenegard.protect.md|Stenegard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Stenegard.private.md|Stenegard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stenegard.personal.md|Stenegard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stenegard.secret.md|Stenegard.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stenegard.internal|Stenegard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stenegard.protect|Stenegard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Stenegard.private|Stenegard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stenegard.personal|Stenegard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stenegard.secret|Stenegard.secret]] 

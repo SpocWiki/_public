@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Dragebruch.md|Dragebruch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dragebruch.internal.md|Dragebruch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dragebruch.protect.md|Dragebruch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dragebruch.private.md|Dragebruch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dragebruch.personal.md|Dragebruch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dragebruch.secret.md|Dragebruch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dragebruch.internal|Dragebruch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dragebruch.protect|Dragebruch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dragebruch.private|Dragebruch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dragebruch.personal|Dragebruch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dragebruch.secret|Dragebruch.secret]] 

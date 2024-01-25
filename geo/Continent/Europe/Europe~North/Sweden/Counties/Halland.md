@@ -41,9 +41,9 @@ markerFolder: ./Halland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Halland.md|Halland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Halland.internal.md|Halland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Halland.protect.md|Halland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Halland.private.md|Halland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Halland.personal.md|Halland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Halland.secret.md|Halland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Halland.internal|Halland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Halland.protect|Halland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Halland.private|Halland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Halland.personal|Halland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Halland.secret|Halland.secret]] 
 

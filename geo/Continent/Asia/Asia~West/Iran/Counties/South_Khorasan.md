@@ -41,9 +41,9 @@ markerFolder: ./South_Khorasan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.md|South_Khorasan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.internal.md|South_Khorasan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.protect.md|South_Khorasan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.private.md|South_Khorasan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.personal.md|South_Khorasan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.secret.md|South_Khorasan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.internal|South_Khorasan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.protect|South_Khorasan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.private|South_Khorasan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.personal|South_Khorasan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.secret|South_Khorasan.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sudogda.md|Sudogda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sudogda.internal.md|Sudogda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sudogda.protect.md|Sudogda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sudogda.private.md|Sudogda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sudogda.personal.md|Sudogda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sudogda.secret.md|Sudogda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sudogda.internal|Sudogda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sudogda.protect|Sudogda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sudogda.private|Sudogda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sudogda.personal|Sudogda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sudogda.secret|Sudogda.secret]] 

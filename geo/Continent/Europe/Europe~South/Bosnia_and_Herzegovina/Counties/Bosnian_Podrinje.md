@@ -41,9 +41,9 @@ markerFolder: ./Bosnian_Podrinje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.md|Bosnian_Podrinje]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.internal.md|Bosnian_Podrinje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.protect.md|Bosnian_Podrinje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.private.md|Bosnian_Podrinje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.personal.md|Bosnian_Podrinje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.secret.md|Bosnian_Podrinje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.internal|Bosnian_Podrinje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.protect|Bosnian_Podrinje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.private|Bosnian_Podrinje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.personal|Bosnian_Podrinje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.secret|Bosnian_Podrinje.secret]] 
 

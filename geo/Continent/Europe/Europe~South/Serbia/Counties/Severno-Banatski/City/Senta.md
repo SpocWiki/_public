@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Senta.md|Senta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Senta.internal.md|Senta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Senta.protect.md|Senta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Senta.private.md|Senta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Senta.personal.md|Senta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Senta.secret.md|Senta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Senta.internal|Senta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Senta.protect|Senta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Senta.private|Senta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Senta.personal|Senta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Senta.secret|Senta.secret]] 

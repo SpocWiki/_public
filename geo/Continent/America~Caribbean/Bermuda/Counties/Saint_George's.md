@@ -41,9 +41,9 @@ markerFolder: ./Saint_George's/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.md|Saint_George's]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.internal.md|Saint_George's.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.protect.md|Saint_George's.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.private.md|Saint_George's.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.personal.md|Saint_George's.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.secret.md|Saint_George's.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.internal|Saint_George's.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.protect|Saint_George's.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.private|Saint_George's.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.personal|Saint_George's.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.secret|Saint_George's.secret]] 
 

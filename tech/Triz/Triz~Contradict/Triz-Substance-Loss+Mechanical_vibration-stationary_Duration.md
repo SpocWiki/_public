@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Mechanical_vibration-stationary_Duration]
 [SpocWebEntityId::24848]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.internal.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.protect.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.private.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.personal.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.secret.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.internal|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.protect|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.private|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.personal|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.secret|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.secret]] 

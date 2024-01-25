@@ -41,9 +41,9 @@ markerFolder: ./Debarca/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Debarca.md|Debarca]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Debarca.internal.md|Debarca.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Debarca.protect.md|Debarca.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Debarca.private.md|Debarca.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Debarca.personal.md|Debarca.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Debarca.secret.md|Debarca.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Debarca.internal|Debarca.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Debarca.protect|Debarca.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Debarca.private|Debarca.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Debarca.personal|Debarca.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Debarca.secret|Debarca.secret]] 
 

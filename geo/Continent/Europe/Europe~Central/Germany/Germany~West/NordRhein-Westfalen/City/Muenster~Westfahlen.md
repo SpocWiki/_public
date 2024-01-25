@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Muenster~Westfahlen|Muenster~Westfahlen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.internal.md|Muenster~Westfahlen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.protect.md|Muenster~Westfahlen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.private.md|Muenster~Westfahlen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.personal.md|Muenster~Westfahlen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.secret.md|Muenster~Westfahlen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.internal|Muenster~Westfahlen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.protect|Muenster~Westfahlen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.private|Muenster~Westfahlen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.personal|Muenster~Westfahlen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muenster~Westfahlen.secret|Muenster~Westfahlen.secret]] 

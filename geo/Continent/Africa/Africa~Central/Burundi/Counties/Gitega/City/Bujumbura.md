@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Burundi/City/Bujumbura.md|Bujumbura]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/City/Bujumbura.internal.md|Bujumbura.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/City/Bujumbura.protect.md|Bujumbura.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/City/Bujumbura.private.md|Bujumbura.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/City/Bujumbura.personal.md|Bujumbura.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/City/Bujumbura.secret.md|Bujumbura.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burundi/City/Bujumbura.internal|Bujumbura.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burundi/City/Bujumbura.protect|Bujumbura.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burundi/City/Bujumbura.private|Bujumbura.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burundi/City/Bujumbura.personal|Bujumbura.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burundi/City/Bujumbura.secret|Bujumbura.secret]] 

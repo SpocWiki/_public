@@ -29,8 +29,8 @@ Prepare emergency means beforehand to compensate for the relatively low reliabil
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-prepare-emergency.md|Triz-prepare-emergency]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-prepare-emergency.internal.md|Triz-prepare-emergency.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-prepare-emergency.protect.md|Triz-prepare-emergency.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-prepare-emergency.private.md|Triz-prepare-emergency.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-prepare-emergency.personal.md|Triz-prepare-emergency.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-prepare-emergency.secret.md|Triz-prepare-emergency.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-prepare-emergency.internal|Triz-prepare-emergency.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-prepare-emergency.protect|Triz-prepare-emergency.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-prepare-emergency.private|Triz-prepare-emergency.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-prepare-emergency.personal|Triz-prepare-emergency.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-prepare-emergency.secret|Triz-prepare-emergency.secret]] 

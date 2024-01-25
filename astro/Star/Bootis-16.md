@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Bootis-16.md|Bootis-16]] 
-- [[../../../_internal/astro/Star/Bootis-16.internal.md|Bootis-16.internal]] 
-- [[../../../_protect/astro/Star/Bootis-16.protect.md|Bootis-16.protect]] 
-- [[../../../_private/astro/Star/Bootis-16.private.md|Bootis-16.private]] 
-- [[../../../_personal/astro/Star/Bootis-16.personal.md|Bootis-16.personal]] 
-- [[../../../_secret/astro/Star/Bootis-16.secret.md|Bootis-16.secret]]
+- [[../../../_internal/astro/Star/Bootis-16.internal|Bootis-16.internal]] 
+- [[../../../_protect/astro/Star/Bootis-16.protect|Bootis-16.protect]] 
+- [[../../../_private/astro/Star/Bootis-16.private|Bootis-16.private]] 
+- [[../../../_personal/astro/Star/Bootis-16.personal|Bootis-16.personal]] 
+- [[../../../_secret/astro/Star/Bootis-16.secret|Bootis-16.secret]]
 

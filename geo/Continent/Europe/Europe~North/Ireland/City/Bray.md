@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Bray.md|Bray]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Bray.internal.md|Bray.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Bray.protect.md|Bray.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Bray.private.md|Bray.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Bray.personal.md|Bray.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Bray.secret.md|Bray.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Bray.internal|Bray.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Bray.protect|Bray.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Bray.private|Bray.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Bray.personal|Bray.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Bray.secret|Bray.secret]] 

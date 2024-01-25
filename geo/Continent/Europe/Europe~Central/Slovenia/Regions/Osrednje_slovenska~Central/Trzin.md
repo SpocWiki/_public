@@ -41,9 +41,9 @@ markerFolder: ./Trzin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.md|Trzin]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.internal.md|Trzin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.protect.md|Trzin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.private.md|Trzin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.personal.md|Trzin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.secret.md|Trzin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.internal|Trzin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.protect|Trzin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.private|Trzin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.personal|Trzin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Trzin.secret|Trzin.secret]] 
 

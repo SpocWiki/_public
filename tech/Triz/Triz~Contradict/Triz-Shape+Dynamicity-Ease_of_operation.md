@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Dynamicity-Ease_of_operation]
 [SpocWebEntityId::23805]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.md|Triz-Shape+Dynamicity-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.internal.md|Triz-Shape+Dynamicity-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.protect.md|Triz-Shape+Dynamicity-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.private.md|Triz-Shape+Dynamicity-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.personal.md|Triz-Shape+Dynamicity-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.secret.md|Triz-Shape+Dynamicity-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.internal|Triz-Shape+Dynamicity-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.protect|Triz-Shape+Dynamicity-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.private|Triz-Shape+Dynamicity-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.personal|Triz-Shape+Dynamicity-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-Ease_of_operation.secret|Triz-Shape+Dynamicity-Ease_of_operation.secret]] 

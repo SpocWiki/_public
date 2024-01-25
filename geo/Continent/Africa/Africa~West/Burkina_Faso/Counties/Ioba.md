@@ -41,9 +41,9 @@ markerFolder: ./Ioba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.md|Ioba]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.internal.md|Ioba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.protect.md|Ioba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.private.md|Ioba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.personal.md|Ioba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.secret.md|Ioba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.internal|Ioba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.protect|Ioba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.private|Ioba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.personal|Ioba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.secret|Ioba.secret]] 
 

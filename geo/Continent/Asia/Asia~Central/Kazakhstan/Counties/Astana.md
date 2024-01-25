@@ -41,9 +41,9 @@ markerFolder: ./Astana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.md|Astana]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.internal.md|Astana.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.protect.md|Astana.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.private.md|Astana.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.personal.md|Astana.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.secret.md|Astana.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.internal|Astana.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.protect|Astana.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.private|Astana.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.personal|Astana.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.secret|Astana.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Tabora/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Tabora.md|Tabora]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Tabora.internal.md|Tabora.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Tabora.protect.md|Tabora.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Tabora.private.md|Tabora.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Tabora.personal.md|Tabora.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Tabora.secret.md|Tabora.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Tabora.internal|Tabora.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Tabora.protect|Tabora.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Tabora.private|Tabora.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Tabora.personal|Tabora.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Tabora.secret|Tabora.secret]] 
 

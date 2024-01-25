@@ -41,9 +41,9 @@ markerFolder: ./North_West/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.md|North_West]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.internal.md|North_West.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.protect.md|North_West.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.private.md|North_West.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.personal.md|North_West.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.secret.md|North_West.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.internal|North_West.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.protect|North_West.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.private|North_West.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.personal|North_West.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.secret|North_West.secret]] 
 

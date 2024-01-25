@@ -41,9 +41,9 @@ markerFolder: ./Bangka-Belitung/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.md|Bangka-Belitung]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.internal.md|Bangka-Belitung.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.protect.md|Bangka-Belitung.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.private.md|Bangka-Belitung.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.personal.md|Bangka-Belitung.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.secret.md|Bangka-Belitung.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.internal|Bangka-Belitung.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.protect|Bangka-Belitung.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.private|Bangka-Belitung.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.personal|Bangka-Belitung.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.secret|Bangka-Belitung.secret]] 
 

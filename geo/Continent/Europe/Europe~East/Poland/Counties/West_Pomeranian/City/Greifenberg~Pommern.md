@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.md|Greifenberg~Pommern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.internal.md|Greifenberg~Pommern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.protect.md|Greifenberg~Pommern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.private.md|Greifenberg~Pommern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.personal.md|Greifenberg~Pommern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.secret.md|Greifenberg~Pommern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.internal|Greifenberg~Pommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.protect|Greifenberg~Pommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.private|Greifenberg~Pommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.personal|Greifenberg~Pommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Greifenberg~Pommern.secret|Greifenberg~Pommern.secret]] 

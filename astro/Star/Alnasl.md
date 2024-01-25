@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alnasl.md|Alnasl]] 
-- [[../../../_internal/astro/Star/Alnasl.internal.md|Alnasl.internal]] 
-- [[../../../_protect/astro/Star/Alnasl.protect.md|Alnasl.protect]] 
-- [[../../../_private/astro/Star/Alnasl.private.md|Alnasl.private]] 
-- [[../../../_personal/astro/Star/Alnasl.personal.md|Alnasl.personal]] 
-- [[../../../_secret/astro/Star/Alnasl.secret.md|Alnasl.secret]]
+- [[../../../_internal/astro/Star/Alnasl.internal|Alnasl.internal]] 
+- [[../../../_protect/astro/Star/Alnasl.protect|Alnasl.protect]] 
+- [[../../../_private/astro/Star/Alnasl.private|Alnasl.private]] 
+- [[../../../_personal/astro/Star/Alnasl.personal|Alnasl.personal]] 
+- [[../../../_secret/astro/Star/Alnasl.secret|Alnasl.secret]]
 

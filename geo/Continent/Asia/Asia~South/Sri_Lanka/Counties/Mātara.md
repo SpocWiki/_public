@@ -41,9 +41,9 @@ markerFolder: ./Mātara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.md|Mātara]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.internal.md|Mātara.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.protect.md|Mātara.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.private.md|Mātara.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.personal.md|Mātara.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.secret.md|Mātara.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.internal|Mātara.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.protect|Mātara.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.private|Mātara.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.personal|Mātara.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mātara.secret|Mātara.secret]] 
 

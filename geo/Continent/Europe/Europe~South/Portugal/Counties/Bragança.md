@@ -41,9 +41,9 @@ markerFolder: ./Bragança/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Bragança.md|Bragança]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Bragança.internal.md|Bragança.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Bragança.protect.md|Bragança.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Bragança.private.md|Bragança.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Bragança.personal.md|Bragança.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Bragança.secret.md|Bragança.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Bragança.internal|Bragança.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Bragança.protect|Bragança.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Bragança.private|Bragança.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Bragança.personal|Bragança.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Bragança.secret|Bragança.secret]] 
 

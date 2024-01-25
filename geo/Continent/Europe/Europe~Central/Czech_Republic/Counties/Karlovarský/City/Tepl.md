@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tepl.md|Tepl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tepl.internal.md|Tepl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tepl.protect.md|Tepl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tepl.private.md|Tepl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tepl.personal.md|Tepl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tepl.secret.md|Tepl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tepl.internal|Tepl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tepl.protect|Tepl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tepl.private|Tepl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tepl.personal|Tepl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tepl.secret|Tepl.secret]] 

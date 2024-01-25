@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Mediator-Substance-Loss]
 [SpocWebEntityId::25541]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.internal.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.protect.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.private.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.personal.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.secret.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.internal|Triz-Manufacturing_Precision+Mediator-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.protect|Triz-Manufacturing_Precision+Mediator-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.private|Triz-Manufacturing_Precision+Mediator-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.personal|Triz-Manufacturing_Precision+Mediator-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.secret|Triz-Manufacturing_Precision+Mediator-Substance-Loss.secret]] 

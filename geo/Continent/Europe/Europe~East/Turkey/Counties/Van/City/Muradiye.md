@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Muradiye.md|Muradiye]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Muradiye.internal.md|Muradiye.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Muradiye.protect.md|Muradiye.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Muradiye.private.md|Muradiye.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Muradiye.personal.md|Muradiye.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Muradiye.secret.md|Muradiye.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Muradiye.internal|Muradiye.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Muradiye.protect|Muradiye.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Muradiye.private|Muradiye.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Muradiye.personal|Muradiye.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Muradiye.secret|Muradiye.secret]] 

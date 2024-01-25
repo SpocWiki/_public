@@ -12,16 +12,16 @@ tags:
 ---
 [name::4230+Rejecting_and_regenerating_parts-10307]
 [SpocWebEntityId::24699]
-+ [pro::[[Triz-4230]]]
++ [#has_/Pros :: [[Triz-4230]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-10307]]]
+- [#has_/Cons :: [[Triz-10307]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.md|Triz-4230+Rejecting_and_regenerating_parts-10307]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.internal.md|Triz-4230+Rejecting_and_regenerating_parts-10307.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.protect.md|Triz-4230+Rejecting_and_regenerating_parts-10307.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.private.md|Triz-4230+Rejecting_and_regenerating_parts-10307.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.personal.md|Triz-4230+Rejecting_and_regenerating_parts-10307.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.secret.md|Triz-4230+Rejecting_and_regenerating_parts-10307.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.internal|Triz-4230+Rejecting_and_regenerating_parts-10307.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.protect|Triz-4230+Rejecting_and_regenerating_parts-10307.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.private|Triz-4230+Rejecting_and_regenerating_parts-10307.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.personal|Triz-4230+Rejecting_and_regenerating_parts-10307.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-4230+Rejecting_and_regenerating_parts-10307.secret|Triz-4230+Rejecting_and_regenerating_parts-10307.secret]] 

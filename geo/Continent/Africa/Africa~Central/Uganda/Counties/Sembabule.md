@@ -41,9 +41,9 @@ markerFolder: ./Sembabule/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Sembabule.md|Sembabule]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sembabule.internal.md|Sembabule.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sembabule.protect.md|Sembabule.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Sembabule.private.md|Sembabule.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sembabule.personal.md|Sembabule.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sembabule.secret.md|Sembabule.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sembabule.internal|Sembabule.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sembabule.protect|Sembabule.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Sembabule.private|Sembabule.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sembabule.personal|Sembabule.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sembabule.secret|Sembabule.secret]] 
 

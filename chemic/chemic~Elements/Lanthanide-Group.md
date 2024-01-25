@@ -22,8 +22,8 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Lanthanide-Group.md|Lanthanide-Group]] 
-- [[../../../_internal/chemic/Elements/Lanthanide-Group.internal.md|Lanthanide-Group.internal]] 
-- [[../../../_protect/chemic/Elements/Lanthanide-Group.protect.md|Lanthanide-Group.protect]] 
-- [[../../../_private/chemic/Elements/Lanthanide-Group.private.md|Lanthanide-Group.private]] 
-- [[../../../_personal/chemic/Elements/Lanthanide-Group.personal.md|Lanthanide-Group.personal]] 
-- [[../../../_secret/chemic/Elements/Lanthanide-Group.secret.md|Lanthanide-Group.secret]] 
+- [[../../../_internal/chemic/Elements/Lanthanide-Group.internal|Lanthanide-Group.internal]] 
+- [[../../../_protect/chemic/Elements/Lanthanide-Group.protect|Lanthanide-Group.protect]] 
+- [[../../../_private/chemic/Elements/Lanthanide-Group.private|Lanthanide-Group.private]] 
+- [[../../../_personal/chemic/Elements/Lanthanide-Group.personal|Lanthanide-Group.personal]] 
+- [[../../../_secret/chemic/Elements/Lanthanide-Group.secret|Lanthanide-Group.secret]] 

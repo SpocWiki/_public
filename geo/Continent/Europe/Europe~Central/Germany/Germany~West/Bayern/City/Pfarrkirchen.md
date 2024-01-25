@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Pfarrkirchen|Pfarrkirchen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.internal.md|Pfarrkirchen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.protect.md|Pfarrkirchen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.private.md|Pfarrkirchen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.personal.md|Pfarrkirchen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.secret.md|Pfarrkirchen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.internal|Pfarrkirchen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.protect|Pfarrkirchen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.private|Pfarrkirchen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.personal|Pfarrkirchen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.secret|Pfarrkirchen.secret]] 

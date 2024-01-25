@@ -18,8 +18,8 @@ A Water Curtain to protect Steel Mill Workers from overheating by blocking infra
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Water_Curtain.md|Triz-Water_Curtain]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Water_Curtain.internal.md|Triz-Water_Curtain.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Water_Curtain.protect.md|Triz-Water_Curtain.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Water_Curtain.private.md|Triz-Water_Curtain.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Water_Curtain.personal.md|Triz-Water_Curtain.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Water_Curtain.secret.md|Triz-Water_Curtain.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Water_Curtain.internal|Triz-Water_Curtain.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Water_Curtain.protect|Triz-Water_Curtain.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Water_Curtain.private|Triz-Water_Curtain.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Water_Curtain.personal|Triz-Water_Curtain.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Water_Curtain.secret|Triz-Water_Curtain.secret]] 

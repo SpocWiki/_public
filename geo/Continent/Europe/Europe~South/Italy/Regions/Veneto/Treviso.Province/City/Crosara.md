@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Crosara.md|Crosara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Crosara.internal.md|Crosara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Crosara.protect.md|Crosara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Crosara.private.md|Crosara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Crosara.personal.md|Crosara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Crosara.secret.md|Crosara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Crosara.internal|Crosara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Crosara.protect|Crosara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Crosara.private|Crosara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Crosara.personal|Crosara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Crosara.secret|Crosara.secret]] 

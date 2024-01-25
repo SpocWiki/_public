@@ -41,9 +41,9 @@ markerFolder: ./Kolda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Kolda.md|Kolda]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kolda.internal.md|Kolda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kolda.protect.md|Kolda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Kolda.private.md|Kolda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kolda.personal.md|Kolda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kolda.secret.md|Kolda.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kolda.internal|Kolda.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kolda.protect|Kolda.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Kolda.private|Kolda.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kolda.personal|Kolda.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kolda.secret|Kolda.secret]] 
 

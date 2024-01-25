@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Self-service-Manufacturing_Precision]
 [SpocWebEntityId::23443]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.md|Triz-Speed+Self-service-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.internal.md|Triz-Speed+Self-service-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.protect.md|Triz-Speed+Self-service-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.private.md|Triz-Speed+Self-service-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.personal.md|Triz-Speed+Self-service-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.secret.md|Triz-Speed+Self-service-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.internal|Triz-Speed+Self-service-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.protect|Triz-Speed+Self-service-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.private|Triz-Speed+Self-service-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.personal|Triz-Speed+Self-service-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Self-service-Manufacturing_Precision.secret|Triz-Speed+Self-service-Manufacturing_Precision.secret]] 

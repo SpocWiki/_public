@@ -41,9 +41,9 @@ markerFolder: ./Rubirizi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Rubirizi.md|Rubirizi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Rubirizi.internal.md|Rubirizi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Rubirizi.protect.md|Rubirizi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Rubirizi.private.md|Rubirizi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Rubirizi.personal.md|Rubirizi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Rubirizi.secret.md|Rubirizi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Rubirizi.internal|Rubirizi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Rubirizi.protect|Rubirizi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Rubirizi.private|Rubirizi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Rubirizi.personal|Rubirizi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Rubirizi.secret|Rubirizi.secret]] 
 

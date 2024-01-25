@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.md|Koeniggraetz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.internal.md|Koeniggraetz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.protect.md|Koeniggraetz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.private.md|Koeniggraetz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.personal.md|Koeniggraetz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.secret.md|Koeniggraetz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.internal|Koeniggraetz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.protect|Koeniggraetz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.private|Koeniggraetz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.personal|Koeniggraetz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.secret|Koeniggraetz.secret]] 

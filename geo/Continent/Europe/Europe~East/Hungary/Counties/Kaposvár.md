@@ -41,9 +41,9 @@ markerFolder: ./Kaposvár/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Kaposvár.md|Kaposvár]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Kaposvár.internal.md|Kaposvár.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Kaposvár.protect.md|Kaposvár.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Kaposvár.private.md|Kaposvár.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Kaposvár.personal.md|Kaposvár.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Kaposvár.secret.md|Kaposvár.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Kaposvár.internal|Kaposvár.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Kaposvár.protect|Kaposvár.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Kaposvár.private|Kaposvár.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Kaposvár.personal|Kaposvár.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Kaposvár.secret|Kaposvár.secret]] 
 

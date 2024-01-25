@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.md|Sub~Ruislip_Gardens]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.internal.md|Sub~Ruislip_Gardens.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.protect.md|Sub~Ruislip_Gardens.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.private.md|Sub~Ruislip_Gardens.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.personal.md|Sub~Ruislip_Gardens.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.secret.md|Sub~Ruislip_Gardens.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.internal|Sub~Ruislip_Gardens.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.protect|Sub~Ruislip_Gardens.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.private|Sub~Ruislip_Gardens.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.personal|Sub~Ruislip_Gardens.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.secret|Sub~Ruislip_Gardens.secret]] 

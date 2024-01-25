@@ -41,11 +41,11 @@ markerFolder: ./Bozen.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.md|Bozen.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.internal.md|Bozen.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.protect.md|Bozen.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.private.md|Bozen.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.personal.md|Bozen.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.secret.md|Bozen.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.internal|Bozen.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.protect|Bozen.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.private|Bozen.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.personal|Bozen.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Trentino/Bozen.Province.secret|Bozen.Province.secret]] 
 
 
 ```leaflet

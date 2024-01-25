@@ -41,9 +41,9 @@ markerFolder: ./Lääne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Lääne.md|Lääne]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Lääne.internal.md|Lääne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Lääne.protect.md|Lääne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Lääne.private.md|Lääne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Lääne.personal.md|Lääne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Lääne.secret.md|Lääne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Lääne.internal|Lääne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Lääne.protect|Lääne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Lääne.private|Lääne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Lääne.personal|Lääne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Lääne.secret|Lääne.secret]] 
 

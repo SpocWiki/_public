@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zadowsk.md|Zadowsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zadowsk.internal.md|Zadowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zadowsk.protect.md|Zadowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zadowsk.private.md|Zadowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zadowsk.personal.md|Zadowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zadowsk.secret.md|Zadowsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zadowsk.internal|Zadowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zadowsk.protect|Zadowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zadowsk.private|Zadowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zadowsk.personal|Zadowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zadowsk.secret|Zadowsk.secret]] 

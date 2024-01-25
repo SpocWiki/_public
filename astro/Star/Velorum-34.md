@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Velorum-34.md|Velorum-34]] 
-- [[../../../_internal/astro/Star/Velorum-34.internal.md|Velorum-34.internal]] 
-- [[../../../_protect/astro/Star/Velorum-34.protect.md|Velorum-34.protect]] 
-- [[../../../_private/astro/Star/Velorum-34.private.md|Velorum-34.private]] 
-- [[../../../_personal/astro/Star/Velorum-34.personal.md|Velorum-34.personal]] 
-- [[../../../_secret/astro/Star/Velorum-34.secret.md|Velorum-34.secret]] 
+- [[../../../_internal/astro/Star/Velorum-34.internal|Velorum-34.internal]] 
+- [[../../../_protect/astro/Star/Velorum-34.protect|Velorum-34.protect]] 
+- [[../../../_private/astro/Star/Velorum-34.private|Velorum-34.private]] 
+- [[../../../_personal/astro/Star/Velorum-34.personal|Velorum-34.personal]] 
+- [[../../../_secret/astro/Star/Velorum-34.secret|Velorum-34.secret]] 

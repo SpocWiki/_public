@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Nigeria/City/Lagos.md|Lagos]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Lagos.internal.md|Lagos.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Lagos.protect.md|Lagos.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/City/Lagos.private.md|Lagos.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Lagos.personal.md|Lagos.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Lagos.secret.md|Lagos.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Lagos.internal|Lagos.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Lagos.protect|Lagos.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/City/Lagos.private|Lagos.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Lagos.personal|Lagos.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Lagos.secret|Lagos.secret]] 

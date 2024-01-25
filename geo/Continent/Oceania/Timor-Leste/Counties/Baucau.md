@@ -41,9 +41,9 @@ markerFolder: ./Baucau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.md|Baucau]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.internal.md|Baucau.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.protect.md|Baucau.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.private.md|Baucau.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.personal.md|Baucau.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.secret.md|Baucau.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.internal|Baucau.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.protect|Baucau.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.private|Baucau.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.personal|Baucau.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.secret|Baucau.secret]] 
 

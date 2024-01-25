@@ -41,7 +41,7 @@ markerFolder: ./Georgia.Europe//
 ## Confidential Links & Embeds: 
 - [[Georgia.Europe|Georgia.Europe]] 
 - [[../../../../_internal/geo/Continent/Europe/Georgia.Europe.internal|Georgia.Europe.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia.Europe.protect.md|Georgia.Europe.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia.Europe.private.md|Georgia.Europe.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia.Europe.personal.md|Georgia.Europe.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia.Europe.secret.md|Georgia.Europe.secret]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia.Europe.protect|Georgia.Europe.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia.Europe.private|Georgia.Europe.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia.Europe.personal|Georgia.Europe.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia.Europe.secret|Georgia.Europe.secret]] 

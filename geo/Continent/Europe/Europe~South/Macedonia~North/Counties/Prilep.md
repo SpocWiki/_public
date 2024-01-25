@@ -41,9 +41,9 @@ markerFolder: ./Prilep/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Prilep.md|Prilep]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Prilep.internal.md|Prilep.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Prilep.protect.md|Prilep.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Prilep.private.md|Prilep.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Prilep.personal.md|Prilep.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Prilep.secret.md|Prilep.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Prilep.internal|Prilep.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Prilep.protect|Prilep.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Prilep.private|Prilep.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Prilep.personal|Prilep.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Prilep.secret|Prilep.secret]] 
 

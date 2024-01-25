@@ -37,8 +37,8 @@ markerFolder: ./Rheinland-Pfalz/
 
 ## Confidential Links & Embeds: 
 -[[Rheinland-Pfalz|Rheinland-Pfalz]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.internal.md|Rheinland-Pfalz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.protect.md|Rheinland-Pfalz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.private.md|Rheinland-Pfalz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.personal.md|Rheinland-Pfalz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.secret.md|Rheinland-Pfalz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.internal|Rheinland-Pfalz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.protect|Rheinland-Pfalz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.private|Rheinland-Pfalz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.personal|Rheinland-Pfalz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.secret|Rheinland-Pfalz.secret]] 

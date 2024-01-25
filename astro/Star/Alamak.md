@@ -28,9 +28,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alamak.md|Alamak]] 
-- [[../../../_internal/astro/Star/Alamak.internal.md|Alamak.internal]] 
-- [[../../../_protect/astro/Star/Alamak.protect.md|Alamak.protect]] 
-- [[../../../_private/astro/Star/Alamak.private.md|Alamak.private]] 
-- [[../../../_personal/astro/Star/Alamak.personal.md|Alamak.personal]] 
-- [[../../../_secret/astro/Star/Alamak.secret.md|Alamak.secret]]
+- [[../../../_internal/astro/Star/Alamak.internal|Alamak.internal]] 
+- [[../../../_protect/astro/Star/Alamak.protect|Alamak.protect]] 
+- [[../../../_private/astro/Star/Alamak.private|Alamak.private]] 
+- [[../../../_personal/astro/Star/Alamak.personal|Alamak.personal]] 
+- [[../../../_secret/astro/Star/Alamak.secret|Alamak.secret]]
 

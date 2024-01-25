@@ -41,9 +41,9 @@ markerFolder: ./Gaza_Strip/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.md|Gaza_Strip]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.internal.md|Gaza_Strip.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.protect.md|Gaza_Strip.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.private.md|Gaza_Strip.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.personal.md|Gaza_Strip.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.secret.md|Gaza_Strip.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.internal|Gaza_Strip.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.protect|Gaza_Strip.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.private|Gaza_Strip.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.personal|Gaza_Strip.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Gaza_Strip.secret|Gaza_Strip.secret]] 
 

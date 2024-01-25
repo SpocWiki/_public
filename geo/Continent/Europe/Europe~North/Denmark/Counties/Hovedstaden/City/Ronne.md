@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Ronne.md|Ronne]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Ronne.internal.md|Ronne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Ronne.protect.md|Ronne.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Ronne.private.md|Ronne.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Ronne.personal.md|Ronne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Ronne.secret.md|Ronne.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Ronne.internal|Ronne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Ronne.protect|Ronne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Ronne.private|Ronne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Ronne.personal|Ronne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Ronne.secret|Ronne.secret]] 

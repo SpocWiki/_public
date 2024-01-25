@@ -41,9 +41,9 @@ markerFolder: ./Nazarje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.md|Nazarje]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.internal.md|Nazarje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.protect.md|Nazarje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.private.md|Nazarje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.personal.md|Nazarje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.secret.md|Nazarje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.internal|Nazarje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.protect|Nazarje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.private|Nazarje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.personal|Nazarje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Nazarje.secret|Nazarje.secret]] 
 

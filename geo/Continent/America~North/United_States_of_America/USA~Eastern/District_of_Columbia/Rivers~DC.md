@@ -41,9 +41,9 @@ markerFolder: ./Rivers~DC/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.md|Rivers~DC]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.internal.md|Rivers~DC.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.protect.md|Rivers~DC.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.private.md|Rivers~DC.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.personal.md|Rivers~DC.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.secret.md|Rivers~DC.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.internal|Rivers~DC.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.protect|Rivers~DC.protect]] 
+- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.private|Rivers~DC.private]] 
+- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.personal|Rivers~DC.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Eastern/District_of_Columbia/Rivers~DC.secret|Rivers~DC.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Birmingham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.md|Birmingham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.internal.md|Birmingham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.protect.md|Birmingham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.private.md|Birmingham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.personal.md|Birmingham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.secret.md|Birmingham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.internal|Birmingham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.protect|Birmingham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.private|Birmingham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.personal|Birmingham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Birmingham.secret|Birmingham.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Copying-Complexity]
 [SpocWebEntityId::26059]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.md|Triz-Ease_of_operation+Copying-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.internal.md|Triz-Ease_of_operation+Copying-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.protect.md|Triz-Ease_of_operation+Copying-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.private.md|Triz-Ease_of_operation+Copying-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.personal.md|Triz-Ease_of_operation+Copying-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.secret.md|Triz-Ease_of_operation+Copying-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.internal|Triz-Ease_of_operation+Copying-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.protect|Triz-Ease_of_operation+Copying-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.private|Triz-Ease_of_operation+Copying-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.personal|Triz-Ease_of_operation+Copying-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Copying-Complexity.secret|Triz-Ease_of_operation+Copying-Complexity.secret]] 

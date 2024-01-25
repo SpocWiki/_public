@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22198-Difficulty]
 [SpocWebEntityId::26764]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22198]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22198-Difficulty.md|Triz-10307+22198-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22198-Difficulty.internal.md|Triz-10307+22198-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22198-Difficulty.protect.md|Triz-10307+22198-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22198-Difficulty.private.md|Triz-10307+22198-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22198-Difficulty.personal.md|Triz-10307+22198-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22198-Difficulty.secret.md|Triz-10307+22198-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22198-Difficulty.internal|Triz-10307+22198-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22198-Difficulty.protect|Triz-10307+22198-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22198-Difficulty.private|Triz-10307+22198-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22198-Difficulty.personal|Triz-10307+22198-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22198-Difficulty.secret|Triz-10307+22198-Difficulty.secret]] 

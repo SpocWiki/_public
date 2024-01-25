@@ -41,9 +41,9 @@ markerFolder: ./Xgħajra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Xgħajra.md|Xgħajra]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Xgħajra.internal.md|Xgħajra.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Xgħajra.protect.md|Xgħajra.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Xgħajra.private.md|Xgħajra.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Xgħajra.personal.md|Xgħajra.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Xgħajra.secret.md|Xgħajra.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Xgħajra.internal|Xgħajra.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Xgħajra.protect|Xgħajra.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Xgħajra.private|Xgħajra.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Xgħajra.personal|Xgħajra.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Xgħajra.secret|Xgħajra.secret]] 
 

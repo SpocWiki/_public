@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Plock.md|Plock]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Plock.internal.md|Plock.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Plock.protect.md|Plock.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Plock.private.md|Plock.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Plock.personal.md|Plock.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Plock.secret.md|Plock.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Plock.internal|Plock.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Plock.protect|Plock.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Plock.private|Plock.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Plock.personal|Plock.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Plock.secret|Plock.secret]] 

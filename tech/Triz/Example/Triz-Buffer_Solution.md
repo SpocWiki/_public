@@ -18,8 +18,8 @@ Buffer a Solution to prevent harm from Extremes of pH.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Buffer_Solution.md|Triz-Buffer_Solution]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Buffer_Solution.internal.md|Triz-Buffer_Solution.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Buffer_Solution.protect.md|Triz-Buffer_Solution.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Buffer_Solution.private.md|Triz-Buffer_Solution.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Buffer_Solution.personal.md|Triz-Buffer_Solution.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Buffer_Solution.secret.md|Triz-Buffer_Solution.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Buffer_Solution.internal|Triz-Buffer_Solution.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Buffer_Solution.protect|Triz-Buffer_Solution.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Buffer_Solution.private|Triz-Buffer_Solution.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Buffer_Solution.personal|Triz-Buffer_Solution.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Buffer_Solution.secret|Triz-Buffer_Solution.secret]] 

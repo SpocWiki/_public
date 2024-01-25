@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Malsch_bei_Karlsruhe|Malsch_bei_Karlsruhe]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.internal.md|Malsch_bei_Karlsruhe.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.protect.md|Malsch_bei_Karlsruhe.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.private.md|Malsch_bei_Karlsruhe.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.personal.md|Malsch_bei_Karlsruhe.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.secret.md|Malsch_bei_Karlsruhe.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.internal|Malsch_bei_Karlsruhe.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.protect|Malsch_bei_Karlsruhe.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.private|Malsch_bei_Karlsruhe.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.personal|Malsch_bei_Karlsruhe.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.secret|Malsch_bei_Karlsruhe.secret]] 

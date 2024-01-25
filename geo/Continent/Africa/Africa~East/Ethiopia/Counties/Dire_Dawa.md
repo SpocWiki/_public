@@ -41,9 +41,9 @@ markerFolder: ./Dire_Dawa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.md|Dire_Dawa]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.internal.md|Dire_Dawa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.protect.md|Dire_Dawa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.private.md|Dire_Dawa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.personal.md|Dire_Dawa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.secret.md|Dire_Dawa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.internal|Dire_Dawa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.protect|Dire_Dawa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.private|Dire_Dawa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.personal|Dire_Dawa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.secret|Dire_Dawa.secret]] 
 

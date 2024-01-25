@@ -41,9 +41,9 @@ markerFolder: ./Shida_Kartli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.md|Shida_Kartli]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.internal.md|Shida_Kartli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.protect.md|Shida_Kartli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.private.md|Shida_Kartli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.personal.md|Shida_Kartli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.secret.md|Shida_Kartli.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.internal|Shida_Kartli.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.protect|Shida_Kartli.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.private|Shida_Kartli.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.personal|Shida_Kartli.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Shida_Kartli.secret|Shida_Kartli.secret]] 
 

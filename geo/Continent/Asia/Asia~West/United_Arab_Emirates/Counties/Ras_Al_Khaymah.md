@@ -41,9 +41,9 @@ markerFolder: ./Ras_Al_Khaymah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.md|Ras_Al_Khaymah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.internal.md|Ras_Al_Khaymah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.protect.md|Ras_Al_Khaymah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.private.md|Ras_Al_Khaymah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.personal.md|Ras_Al_Khaymah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.secret.md|Ras_Al_Khaymah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.internal|Ras_Al_Khaymah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.protect|Ras_Al_Khaymah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.private|Ras_Al_Khaymah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.personal|Ras_Al_Khaymah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ras_Al_Khaymah.secret|Ras_Al_Khaymah.secret]] 
 

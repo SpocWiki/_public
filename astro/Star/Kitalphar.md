@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Kitalphar.md|Kitalphar]] 
-- [[../../../_internal/astro/Star/Kitalphar.internal.md|Kitalphar.internal]] 
-- [[../../../_protect/astro/Star/Kitalphar.protect.md|Kitalphar.protect]] 
-- [[../../../_private/astro/Star/Kitalphar.private.md|Kitalphar.private]] 
-- [[../../../_personal/astro/Star/Kitalphar.personal.md|Kitalphar.personal]] 
-- [[../../../_secret/astro/Star/Kitalphar.secret.md|Kitalphar.secret]]
+- [[../../../_internal/astro/Star/Kitalphar.internal|Kitalphar.internal]] 
+- [[../../../_protect/astro/Star/Kitalphar.protect|Kitalphar.protect]] 
+- [[../../../_private/astro/Star/Kitalphar.private|Kitalphar.private]] 
+- [[../../../_personal/astro/Star/Kitalphar.personal|Kitalphar.personal]] 
+- [[../../../_secret/astro/Star/Kitalphar.secret|Kitalphar.secret]]
 

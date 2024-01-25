@@ -41,9 +41,9 @@ markerFolder: ./Herceg_Novi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.md|Herceg_Novi]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.internal.md|Herceg_Novi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.protect.md|Herceg_Novi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.private.md|Herceg_Novi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.personal.md|Herceg_Novi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.secret.md|Herceg_Novi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.internal|Herceg_Novi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.protect|Herceg_Novi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.private|Herceg_Novi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.personal|Herceg_Novi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.secret|Herceg_Novi.secret]] 
 

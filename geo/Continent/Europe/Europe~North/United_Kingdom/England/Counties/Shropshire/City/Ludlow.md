@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ludlow.md|Ludlow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ludlow.internal.md|Ludlow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ludlow.protect.md|Ludlow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ludlow.private.md|Ludlow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ludlow.personal.md|Ludlow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ludlow.secret.md|Ludlow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ludlow.internal|Ludlow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ludlow.protect|Ludlow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ludlow.private|Ludlow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ludlow.personal|Ludlow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ludlow.secret|Ludlow.secret]] 

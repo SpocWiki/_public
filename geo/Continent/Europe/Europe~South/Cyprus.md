@@ -135,8 +135,8 @@ markerFolder: ./Cyprus//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Cyprus.md|Cyprus]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus.internal.md|Cyprus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus.protect.md|Cyprus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus.private.md|Cyprus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus.personal.md|Cyprus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus.secret.md|Cyprus.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Cyprus.internal|Cyprus.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Cyprus.protect|Cyprus.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Cyprus.private|Cyprus.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Cyprus.personal|Cyprus.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Cyprus.secret|Cyprus.secret]] 

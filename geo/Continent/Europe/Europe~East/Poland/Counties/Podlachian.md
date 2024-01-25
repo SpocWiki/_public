@@ -41,9 +41,9 @@ markerFolder: ./Podlachian/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/Podlachian.md|Podlachian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Podlachian.internal.md|Podlachian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Podlachian.protect.md|Podlachian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Podlachian.private.md|Podlachian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Podlachian.personal.md|Podlachian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Podlachian.secret.md|Podlachian.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Podlachian.internal|Podlachian.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Podlachian.protect|Podlachian.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Podlachian.private|Podlachian.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Podlachian.personal|Podlachian.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Podlachian.secret|Podlachian.secret]] 
 

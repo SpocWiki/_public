@@ -41,9 +41,9 @@ markerFolder: ./Cešinovo-Obleševo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.md|Cešinovo-Obleševo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.internal.md|Cešinovo-Obleševo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.protect.md|Cešinovo-Obleševo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.private.md|Cešinovo-Obleševo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.personal.md|Cešinovo-Obleševo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.secret.md|Cešinovo-Obleševo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.internal|Cešinovo-Obleševo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.protect|Cešinovo-Obleševo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.private|Cešinovo-Obleševo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.personal|Cešinovo-Obleševo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Cešinovo-Obleševo.secret|Cešinovo-Obleševo.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Sunderland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.md|Sunderland]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.internal.md|Sunderland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.protect.md|Sunderland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.private.md|Sunderland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.personal.md|Sunderland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.secret.md|Sunderland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.internal|Sunderland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.protect|Sunderland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.private|Sunderland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.personal|Sunderland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sunderland.secret|Sunderland.secret]] 
 

@@ -138,7 +138,7 @@ markerFolder: ./Uganda//
 ## Confidential Links & Embeds: 
 - [[Uganda|Uganda]] 
 - [[../../../../../_internal/geo/Continent/Africa/Uganda.internal|Uganda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda.protect.md|Uganda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda.private.md|Uganda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda.personal.md|Uganda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda.secret.md|Uganda.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda.protect|Uganda.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda.private|Uganda.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda.personal|Uganda.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda.secret|Uganda.secret]] 

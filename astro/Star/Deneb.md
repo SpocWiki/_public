@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Deneb.md|Deneb]] 
-- [[../../../_internal/astro/Star/Deneb.internal.md|Deneb.internal]] 
-- [[../../../_protect/astro/Star/Deneb.protect.md|Deneb.protect]] 
-- [[../../../_private/astro/Star/Deneb.private.md|Deneb.private]] 
-- [[../../../_personal/astro/Star/Deneb.personal.md|Deneb.personal]] 
-- [[../../../_secret/astro/Star/Deneb.secret.md|Deneb.secret]]
+- [[../../../_internal/astro/Star/Deneb.internal|Deneb.internal]] 
+- [[../../../_protect/astro/Star/Deneb.protect|Deneb.protect]] 
+- [[../../../_private/astro/Star/Deneb.private|Deneb.private]] 
+- [[../../../_personal/astro/Star/Deneb.personal|Deneb.personal]] 
+- [[../../../_secret/astro/Star/Deneb.secret|Deneb.secret]]
 

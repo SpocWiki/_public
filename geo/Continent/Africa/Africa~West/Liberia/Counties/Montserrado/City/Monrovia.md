@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Liberia/City/Monrovia.md|Monrovia]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/City/Monrovia.internal.md|Monrovia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/City/Monrovia.protect.md|Monrovia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/City/Monrovia.private.md|Monrovia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/City/Monrovia.personal.md|Monrovia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/City/Monrovia.secret.md|Monrovia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Liberia/City/Monrovia.internal|Monrovia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Liberia/City/Monrovia.protect|Monrovia.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Liberia/City/Monrovia.private|Monrovia.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Liberia/City/Monrovia.personal|Monrovia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Liberia/City/Monrovia.secret|Monrovia.secret]] 

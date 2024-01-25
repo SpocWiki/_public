@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Klin.md|Klin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Klin.internal.md|Klin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Klin.protect.md|Klin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Klin.private.md|Klin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Klin.personal.md|Klin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Klin.secret.md|Klin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Klin.internal|Klin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Klin.protect|Klin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Klin.private|Klin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Klin.personal|Klin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Klin.secret|Klin.secret]] 

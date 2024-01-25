@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Nurmijaervi.md|Nurmijaervi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nurmijaervi.internal.md|Nurmijaervi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nurmijaervi.protect.md|Nurmijaervi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nurmijaervi.private.md|Nurmijaervi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nurmijaervi.personal.md|Nurmijaervi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nurmijaervi.secret.md|Nurmijaervi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nurmijaervi.internal|Nurmijaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nurmijaervi.protect|Nurmijaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nurmijaervi.private|Nurmijaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nurmijaervi.personal|Nurmijaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nurmijaervi.secret|Nurmijaervi.secret]] 

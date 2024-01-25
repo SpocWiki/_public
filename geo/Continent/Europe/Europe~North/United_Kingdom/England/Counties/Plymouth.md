@@ -41,9 +41,9 @@ markerFolder: ./Plymouth/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.md|Plymouth]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.internal.md|Plymouth.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.protect.md|Plymouth.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.private.md|Plymouth.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.personal.md|Plymouth.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.secret.md|Plymouth.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.internal|Plymouth.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.protect|Plymouth.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.private|Plymouth.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.personal|Plymouth.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.secret|Plymouth.secret]] 
 

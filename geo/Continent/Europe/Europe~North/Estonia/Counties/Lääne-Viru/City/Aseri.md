@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Aseri.md|Aseri]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aseri.internal.md|Aseri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aseri.protect.md|Aseri.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aseri.private.md|Aseri.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aseri.personal.md|Aseri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aseri.secret.md|Aseri.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aseri.internal|Aseri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aseri.protect|Aseri.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aseri.private|Aseri.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aseri.personal|Aseri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aseri.secret|Aseri.secret]] 

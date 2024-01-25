@@ -41,9 +41,9 @@ markerFolder: ./Durrës/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Albania/Counties/Durrës.md|Durrës]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Durrës.internal.md|Durrës.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Durrës.protect.md|Durrës.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Durrës.private.md|Durrës.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Durrës.personal.md|Durrës.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Durrës.secret.md|Durrës.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Durrës.internal|Durrës.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Durrës.protect|Durrës.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Durrës.private|Durrës.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Durrës.personal|Durrës.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Durrës.secret|Durrës.secret]] 
 

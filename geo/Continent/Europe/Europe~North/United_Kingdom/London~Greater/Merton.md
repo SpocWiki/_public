@@ -41,9 +41,9 @@ markerFolder: ./Merton/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.md|Merton]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.internal.md|Merton.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.protect.md|Merton.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.private.md|Merton.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.personal.md|Merton.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.secret.md|Merton.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.internal|Merton.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.protect|Merton.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.private|Merton.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.personal|Merton.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Merton.secret|Merton.secret]] 
 

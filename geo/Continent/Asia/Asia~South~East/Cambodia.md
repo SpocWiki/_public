@@ -134,7 +134,7 @@ markerFolder: ./Cambodia/
 ## Confidential Links & Embeds: 
 -[[Cambodia|Cambodia]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Cambodia.internal|Cambodia.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Cambodia.protect.md|Cambodia.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Cambodia.private.md|Cambodia.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Cambodia.personal.md|Cambodia.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Cambodia.secret.md|Cambodia.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Cambodia.protect|Cambodia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Cambodia.private|Cambodia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Cambodia.personal|Cambodia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Cambodia.secret|Cambodia.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./National_Capital_District/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.md|National_Capital_District]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.internal.md|National_Capital_District.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.protect.md|National_Capital_District.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.private.md|National_Capital_District.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.personal.md|National_Capital_District.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.secret.md|National_Capital_District.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.internal|National_Capital_District.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.protect|National_Capital_District.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.private|National_Capital_District.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.personal|National_Capital_District.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.secret|National_Capital_District.secret]] 
 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Leporis-3.md|Leporis-3]] 
-- [[../../../_internal/astro/Star/Leporis-3.internal.md|Leporis-3.internal]] 
-- [[../../../_protect/astro/Star/Leporis-3.protect.md|Leporis-3.protect]] 
-- [[../../../_private/astro/Star/Leporis-3.private.md|Leporis-3.private]] 
-- [[../../../_personal/astro/Star/Leporis-3.personal.md|Leporis-3.personal]] 
-- [[../../../_secret/astro/Star/Leporis-3.secret.md|Leporis-3.secret]] 
+- [[../../../_internal/astro/Star/Leporis-3.internal|Leporis-3.internal]] 
+- [[../../../_protect/astro/Star/Leporis-3.protect|Leporis-3.protect]] 
+- [[../../../_private/astro/Star/Leporis-3.private|Leporis-3.private]] 
+- [[../../../_personal/astro/Star/Leporis-3.personal|Leporis-3.personal]] 
+- [[../../../_secret/astro/Star/Leporis-3.secret|Leporis-3.secret]] 

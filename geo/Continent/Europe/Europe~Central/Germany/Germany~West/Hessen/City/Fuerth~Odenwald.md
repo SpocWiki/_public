@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Fuerth~Odenwald|Fuerth~Odenwald]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.internal.md|Fuerth~Odenwald.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.protect.md|Fuerth~Odenwald.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.private.md|Fuerth~Odenwald.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.personal.md|Fuerth~Odenwald.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.secret.md|Fuerth~Odenwald.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.internal|Fuerth~Odenwald.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.protect|Fuerth~Odenwald.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.private|Fuerth~Odenwald.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.personal|Fuerth~Odenwald.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.secret|Fuerth~Odenwald.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Imperia.md|Imperia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Imperia.internal.md|Imperia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Imperia.protect.md|Imperia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Imperia.private.md|Imperia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Imperia.personal.md|Imperia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Imperia.secret.md|Imperia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Imperia.internal|Imperia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Imperia.protect|Imperia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Imperia.private|Imperia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Imperia.personal|Imperia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Imperia.secret|Imperia.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./La_Paz/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/La_Paz.md|La_Paz]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/La_Paz.internal.md|La_Paz.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/La_Paz.protect.md|La_Paz.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/La_Paz.private.md|La_Paz.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/La_Paz.personal.md|La_Paz.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/La_Paz.secret.md|La_Paz.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/La_Paz.internal|La_Paz.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/La_Paz.protect|La_Paz.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/La_Paz.private|La_Paz.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/La_Paz.personal|La_Paz.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/La_Paz.secret|La_Paz.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Magas.md|Magas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Magas.internal.md|Magas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Magas.protect.md|Magas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Magas.private.md|Magas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Magas.personal.md|Magas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Magas.secret.md|Magas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Magas.internal|Magas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Magas.protect|Magas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Magas.private|Magas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Magas.personal|Magas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Magas.secret|Magas.secret]] 

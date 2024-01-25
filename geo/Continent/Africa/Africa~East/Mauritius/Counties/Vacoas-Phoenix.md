@@ -41,9 +41,9 @@ markerFolder: ./Vacoas-Phoenix/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.md|Vacoas-Phoenix]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.internal.md|Vacoas-Phoenix.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.protect.md|Vacoas-Phoenix.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.private.md|Vacoas-Phoenix.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.personal.md|Vacoas-Phoenix.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.secret.md|Vacoas-Phoenix.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.internal|Vacoas-Phoenix.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.protect|Vacoas-Phoenix.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.private|Vacoas-Phoenix.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.personal|Vacoas-Phoenix.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.secret|Vacoas-Phoenix.secret]] 
 

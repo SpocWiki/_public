@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sdengowen.md|Sdengowen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sdengowen.internal.md|Sdengowen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sdengowen.protect.md|Sdengowen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sdengowen.private.md|Sdengowen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sdengowen.personal.md|Sdengowen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sdengowen.secret.md|Sdengowen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sdengowen.internal|Sdengowen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sdengowen.protect|Sdengowen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sdengowen.private|Sdengowen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sdengowen.personal|Sdengowen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sdengowen.secret|Sdengowen.secret]] 

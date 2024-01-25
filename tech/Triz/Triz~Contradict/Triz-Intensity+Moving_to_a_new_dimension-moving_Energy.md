@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Moving_to_a_new_dimension-moving_Energy]
 [SpocWebEntityId::23530]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-moving_Energy]]]
+- [#has_/Cons :: [[Triz-moving_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.md|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.internal.md|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.protect.md|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.private.md|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.personal.md|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.secret.md|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.internal|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.protect|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.private|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.personal|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.secret|Triz-Intensity+Moving_to_a_new_dimension-moving_Energy.secret]] 

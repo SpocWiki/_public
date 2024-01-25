@@ -41,9 +41,9 @@ markerFolder: ./Zelenikovo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.md|Zelenikovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.internal.md|Zelenikovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.protect.md|Zelenikovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.private.md|Zelenikovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.personal.md|Zelenikovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.secret.md|Zelenikovo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.internal|Zelenikovo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.protect|Zelenikovo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.private|Zelenikovo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.personal|Zelenikovo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Zelenikovo.secret|Zelenikovo.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Convert_harm_into_benefit-generated_harm]
 [SpocWebEntityId::24969]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.md|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.internal.md|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.protect.md|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.private.md|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.personal.md|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.secret.md|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.internal|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.protect|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.private|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.personal|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.secret|Triz-Information-Loss+Convert_harm_into_benefit-generated_harm.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Ploermel.md|Ploermel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ploermel.internal.md|Ploermel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ploermel.protect.md|Ploermel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Ploermel.private.md|Ploermel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ploermel.personal.md|Ploermel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ploermel.secret.md|Ploermel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ploermel.internal|Ploermel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ploermel.protect|Ploermel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Ploermel.private|Ploermel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ploermel.personal|Ploermel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ploermel.secret|Ploermel.secret]] 

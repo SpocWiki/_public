@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zmief.md|Zmief]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zmief.internal.md|Zmief.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zmief.protect.md|Zmief.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zmief.private.md|Zmief.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zmief.personal.md|Zmief.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zmief.secret.md|Zmief.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zmief.internal|Zmief.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zmief.protect|Zmief.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zmief.private|Zmief.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zmief.personal|Zmief.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zmief.secret|Zmief.secret]] 

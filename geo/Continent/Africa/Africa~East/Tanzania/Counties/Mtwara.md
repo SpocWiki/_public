@@ -41,9 +41,9 @@ markerFolder: ./Mtwara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mtwara.md|Mtwara]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mtwara.internal.md|Mtwara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mtwara.protect.md|Mtwara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mtwara.private.md|Mtwara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mtwara.personal.md|Mtwara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mtwara.secret.md|Mtwara.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mtwara.internal|Mtwara.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mtwara.protect|Mtwara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mtwara.private|Mtwara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mtwara.personal|Mtwara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mtwara.secret|Mtwara.secret]] 
 

@@ -41,8 +41,8 @@ SpocWebEntityId: 16528
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-08-Iron/Iron.md|Iron]] 
-- [[../../../../_internal/chemic/Elements/Group-08-Iron/Iron.internal.md|Iron.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-08-Iron/Iron.protect.md|Iron.protect]] 
-- [[../../../../_private/chemic/Elements/Group-08-Iron/Iron.private.md|Iron.private]] 
-- [[../../../../_personal/chemic/Elements/Group-08-Iron/Iron.personal.md|Iron.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-08-Iron/Iron.secret.md|Iron.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-08-Iron/Iron.internal|Iron.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-08-Iron/Iron.protect|Iron.protect]] 
+- [[../../../../_private/chemic/Elements/Group-08-Iron/Iron.private|Iron.private]] 
+- [[../../../../_personal/chemic/Elements/Group-08-Iron/Iron.personal|Iron.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-08-Iron/Iron.secret|Iron.secret]] 

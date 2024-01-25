@@ -41,9 +41,9 @@ markerFolder: ./Northumberland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.md|Northumberland]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.internal.md|Northumberland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.protect.md|Northumberland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.private.md|Northumberland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.personal.md|Northumberland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.secret.md|Northumberland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.internal|Northumberland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.protect|Northumberland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.private|Northumberland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.personal|Northumberland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Northumberland.secret|Northumberland.secret]] 
 

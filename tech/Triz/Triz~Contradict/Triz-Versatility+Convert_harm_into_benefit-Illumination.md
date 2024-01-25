@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Convert_harm_into_benefit-Illumination]
 [SpocWebEntityId::26233]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.md|Triz-Versatility+Convert_harm_into_benefit-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.internal.md|Triz-Versatility+Convert_harm_into_benefit-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.protect.md|Triz-Versatility+Convert_harm_into_benefit-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.private.md|Triz-Versatility+Convert_harm_into_benefit-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.personal.md|Triz-Versatility+Convert_harm_into_benefit-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.secret.md|Triz-Versatility+Convert_harm_into_benefit-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.internal|Triz-Versatility+Convert_harm_into_benefit-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.protect|Triz-Versatility+Convert_harm_into_benefit-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.private|Triz-Versatility+Convert_harm_into_benefit-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.personal|Triz-Versatility+Convert_harm_into_benefit-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Convert_harm_into_benefit-Illumination.secret|Triz-Versatility+Convert_harm_into_benefit-Illumination.secret]] 

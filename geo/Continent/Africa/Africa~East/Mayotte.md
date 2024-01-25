@@ -129,7 +129,7 @@ markerFolder: ./Mayotte//
 ## Confidential Links & Embeds: 
 - [[Mayotte|Mayotte]] 
 - [[../../../../../_internal/geo/Continent/Africa/Mayotte.internal|Mayotte.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mayotte.protect.md|Mayotte.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mayotte.private.md|Mayotte.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mayotte.personal.md|Mayotte.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mayotte.secret.md|Mayotte.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Mayotte.protect|Mayotte.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mayotte.private|Mayotte.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mayotte.personal|Mayotte.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mayotte.secret|Mayotte.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Murska_Sobota/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.md|Murska_Sobota]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.internal.md|Murska_Sobota.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.protect.md|Murska_Sobota.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.private.md|Murska_Sobota.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.personal.md|Murska_Sobota.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.secret.md|Murska_Sobota.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.internal|Murska_Sobota.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.protect|Murska_Sobota.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.private|Murska_Sobota.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.personal|Murska_Sobota.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Murska_Sobota.secret|Murska_Sobota.secret]] 
 

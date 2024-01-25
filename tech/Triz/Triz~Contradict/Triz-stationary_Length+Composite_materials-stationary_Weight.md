@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Composite_materials-stationary_Weight]
 [SpocWebEntityId::22919]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.md|Triz-stationary_Length+Composite_materials-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.internal.md|Triz-stationary_Length+Composite_materials-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.protect.md|Triz-stationary_Length+Composite_materials-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.private.md|Triz-stationary_Length+Composite_materials-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.personal.md|Triz-stationary_Length+Composite_materials-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.secret.md|Triz-stationary_Length+Composite_materials-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.internal|Triz-stationary_Length+Composite_materials-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.protect|Triz-stationary_Length+Composite_materials-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.private|Triz-stationary_Length+Composite_materials-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.personal|Triz-stationary_Length+Composite_materials-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Composite_materials-stationary_Weight.secret|Triz-stationary_Length+Composite_materials-stationary_Weight.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Maniaw.md|Maniaw]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Maniaw.internal.md|Maniaw.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Maniaw.protect.md|Maniaw.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Maniaw.private.md|Maniaw.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Maniaw.personal.md|Maniaw.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Maniaw.secret.md|Maniaw.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Maniaw.internal|Maniaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Maniaw.protect|Maniaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Maniaw.private|Maniaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Maniaw.personal|Maniaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Maniaw.secret|Maniaw.secret]] 

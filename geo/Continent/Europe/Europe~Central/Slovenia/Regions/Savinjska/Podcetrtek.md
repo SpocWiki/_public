@@ -41,9 +41,9 @@ markerFolder: ./Podcetrtek/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.md|Podcetrtek]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.internal.md|Podcetrtek.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.protect.md|Podcetrtek.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.private.md|Podcetrtek.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.personal.md|Podcetrtek.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.secret.md|Podcetrtek.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.internal|Podcetrtek.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.protect|Podcetrtek.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.private|Podcetrtek.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.personal|Podcetrtek.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Podcetrtek.secret|Podcetrtek.secret]] 
 

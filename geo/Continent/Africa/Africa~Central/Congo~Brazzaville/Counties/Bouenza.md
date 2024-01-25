@@ -41,9 +41,9 @@ markerFolder: ./Bouenza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.md|Bouenza]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.internal.md|Bouenza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.protect.md|Bouenza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.private.md|Bouenza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.personal.md|Bouenza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.secret.md|Bouenza.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.internal|Bouenza.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.protect|Bouenza.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.private|Bouenza.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.personal|Bouenza.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Bouenza.secret|Bouenza.secret]] 
 

@@ -352,8 +352,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/Europe/Austria/_CityDB.md|_CityDB]] 
-- [[../../../../../_internal/geo/Continent/Europe/Austria/_CityDB.internal.md|_CityDB.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Austria/_CityDB.protect.md|_CityDB.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Austria/_CityDB.private.md|_CityDB.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Austria/_CityDB.personal.md|_CityDB.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Austria/_CityDB.secret.md|_CityDB.secret]] 
+- [[../../../../../_internal/geo/Continent/Europe/Austria/_CityDB.internal|_CityDB.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Austria/_CityDB.protect|_CityDB.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Austria/_CityDB.private|_CityDB.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Austria/_CityDB.personal|_CityDB.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Austria/_CityDB.secret|_CityDB.secret]] 

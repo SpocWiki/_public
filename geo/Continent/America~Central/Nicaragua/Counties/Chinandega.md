@@ -41,9 +41,9 @@ markerFolder: ./Chinandega/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.md|Chinandega]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.internal.md|Chinandega.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.protect.md|Chinandega.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.private.md|Chinandega.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.personal.md|Chinandega.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.secret.md|Chinandega.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.internal|Chinandega.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.protect|Chinandega.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.private|Chinandega.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.personal|Chinandega.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.secret|Chinandega.secret]] 
 

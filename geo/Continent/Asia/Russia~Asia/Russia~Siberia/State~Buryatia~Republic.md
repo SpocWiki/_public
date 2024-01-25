@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Buryatia~Republic|State~Buryatia~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.internal|State~Buryatia~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.protect.md|State~Buryatia~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.private.md|State~Buryatia~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.personal.md|State~Buryatia~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.secret.md|State~Buryatia~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.protect|State~Buryatia~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.private|State~Buryatia~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.personal|State~Buryatia~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Buryatia~Republic.secret|State~Buryatia~Republic.secret]] 

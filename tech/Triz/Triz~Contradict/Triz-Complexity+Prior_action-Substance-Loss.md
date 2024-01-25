@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Prior_action-Substance-Loss]
 [SpocWebEntityId::26356]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.md|Triz-Complexity+Prior_action-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.internal.md|Triz-Complexity+Prior_action-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.protect.md|Triz-Complexity+Prior_action-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.private.md|Triz-Complexity+Prior_action-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.personal.md|Triz-Complexity+Prior_action-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.secret.md|Triz-Complexity+Prior_action-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.internal|Triz-Complexity+Prior_action-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.protect|Triz-Complexity+Prior_action-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.private|Triz-Complexity+Prior_action-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.personal|Triz-Complexity+Prior_action-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Prior_action-Substance-Loss.secret|Triz-Complexity+Prior_action-Substance-Loss.secret]] 

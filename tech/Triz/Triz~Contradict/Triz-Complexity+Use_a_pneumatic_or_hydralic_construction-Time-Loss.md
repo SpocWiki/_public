@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss]
 [SpocWebEntityId::26360]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.md|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.internal.md|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.protect.md|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.private.md|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.personal.md|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.secret.md|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.internal|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.protect|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.private|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.personal|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.secret|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss.secret]] 

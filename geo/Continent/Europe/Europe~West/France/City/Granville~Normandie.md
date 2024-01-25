@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Granville~Normandie.md|Granville~Normandie]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Granville~Normandie.internal.md|Granville~Normandie.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Granville~Normandie.protect.md|Granville~Normandie.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Granville~Normandie.private.md|Granville~Normandie.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Granville~Normandie.personal.md|Granville~Normandie.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Granville~Normandie.secret.md|Granville~Normandie.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Granville~Normandie.internal|Granville~Normandie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Granville~Normandie.protect|Granville~Normandie.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Granville~Normandie.private|Granville~Normandie.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Granville~Normandie.personal|Granville~Normandie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Granville~Normandie.secret|Granville~Normandie.secret]] 

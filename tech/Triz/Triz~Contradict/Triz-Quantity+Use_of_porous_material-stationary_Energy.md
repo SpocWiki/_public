@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Use_of_porous_material-stationary_Energy]
 [SpocWebEntityId::25170]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle:[[Triz-Use_porous_material]]]]
-- [con::[[Triz-stationary_Energy]]]
+- [#has_/Cons :: [[Triz-stationary_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.md|Triz-Quantity+Use_of_porous_material-stationary_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.internal.md|Triz-Quantity+Use_of_porous_material-stationary_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.protect.md|Triz-Quantity+Use_of_porous_material-stationary_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.private.md|Triz-Quantity+Use_of_porous_material-stationary_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.personal.md|Triz-Quantity+Use_of_porous_material-stationary_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.secret.md|Triz-Quantity+Use_of_porous_material-stationary_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.internal|Triz-Quantity+Use_of_porous_material-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.protect|Triz-Quantity+Use_of_porous_material-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.private|Triz-Quantity+Use_of_porous_material-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.personal|Triz-Quantity+Use_of_porous_material-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.secret|Triz-Quantity+Use_of_porous_material-stationary_Energy.secret]] 

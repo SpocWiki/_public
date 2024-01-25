@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.md|Oelsnitz~Vogtland]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.internal.md|Oelsnitz~Vogtland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.protect.md|Oelsnitz~Vogtland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.private.md|Oelsnitz~Vogtland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.personal.md|Oelsnitz~Vogtland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.secret.md|Oelsnitz~Vogtland.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.internal|Oelsnitz~Vogtland.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.protect|Oelsnitz~Vogtland.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.private|Oelsnitz~Vogtland.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.personal|Oelsnitz~Vogtland.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.secret|Oelsnitz~Vogtland.secret]] 

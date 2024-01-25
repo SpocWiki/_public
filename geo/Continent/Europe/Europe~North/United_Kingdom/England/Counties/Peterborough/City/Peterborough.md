@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Peterborough.md|Peterborough]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Peterborough.internal.md|Peterborough.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Peterborough.protect.md|Peterborough.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Peterborough.private.md|Peterborough.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Peterborough.personal.md|Peterborough.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Peterborough.secret.md|Peterborough.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Peterborough.internal|Peterborough.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Peterborough.protect|Peterborough.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Peterborough.private|Peterborough.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Peterborough.personal|Peterborough.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Peterborough.secret|Peterborough.secret]] 

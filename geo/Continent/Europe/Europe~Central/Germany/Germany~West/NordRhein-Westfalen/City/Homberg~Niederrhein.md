@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Homberg~Niederrhein|Homberg~Niederrhein]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.internal.md|Homberg~Niederrhein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.protect.md|Homberg~Niederrhein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.private.md|Homberg~Niederrhein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.personal.md|Homberg~Niederrhein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.secret.md|Homberg~Niederrhein.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.internal|Homberg~Niederrhein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.protect|Homberg~Niederrhein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.private|Homberg~Niederrhein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.personal|Homberg~Niederrhein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Homberg~Niederrhein.secret|Homberg~Niederrhein.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zuellichau.md|Zuellichau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zuellichau.internal.md|Zuellichau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zuellichau.protect.md|Zuellichau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zuellichau.private.md|Zuellichau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zuellichau.personal.md|Zuellichau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zuellichau.secret.md|Zuellichau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zuellichau.internal|Zuellichau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zuellichau.protect|Zuellichau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zuellichau.private|Zuellichau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zuellichau.personal|Zuellichau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zuellichau.secret|Zuellichau.secret]] 

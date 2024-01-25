@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Segmentation-Speed]
 [SpocWebEntityId::25857]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.md|Triz-Ease_of_manufacture+Segmentation-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.internal.md|Triz-Ease_of_manufacture+Segmentation-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.protect.md|Triz-Ease_of_manufacture+Segmentation-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.private.md|Triz-Ease_of_manufacture+Segmentation-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.personal.md|Triz-Ease_of_manufacture+Segmentation-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.secret.md|Triz-Ease_of_manufacture+Segmentation-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.internal|Triz-Ease_of_manufacture+Segmentation-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.protect|Triz-Ease_of_manufacture+Segmentation-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.private|Triz-Ease_of_manufacture+Segmentation-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.personal|Triz-Ease_of_manufacture+Segmentation-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.secret|Triz-Ease_of_manufacture+Segmentation-Speed.secret]] 

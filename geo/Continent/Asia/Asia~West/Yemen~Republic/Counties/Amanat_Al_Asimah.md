@@ -41,9 +41,9 @@ markerFolder: ./Amanat_Al_Asimah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.md|Amanat_Al_Asimah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.internal.md|Amanat_Al_Asimah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.protect.md|Amanat_Al_Asimah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.private.md|Amanat_Al_Asimah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.personal.md|Amanat_Al_Asimah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.secret.md|Amanat_Al_Asimah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.internal|Amanat_Al_Asimah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.protect|Amanat_Al_Asimah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.private|Amanat_Al_Asimah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.personal|Amanat_Al_Asimah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.secret|Amanat_Al_Asimah.secret]] 
 

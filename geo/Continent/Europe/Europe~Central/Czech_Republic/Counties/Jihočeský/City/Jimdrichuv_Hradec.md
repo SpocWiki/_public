@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.md|Jimdrichuv_Hradec]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.internal.md|Jimdrichuv_Hradec.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.protect.md|Jimdrichuv_Hradec.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.private.md|Jimdrichuv_Hradec.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.personal.md|Jimdrichuv_Hradec.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.secret.md|Jimdrichuv_Hradec.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.internal|Jimdrichuv_Hradec.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.protect|Jimdrichuv_Hradec.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.private|Jimdrichuv_Hradec.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.personal|Jimdrichuv_Hradec.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jimdrichuv_Hradec.secret|Jimdrichuv_Hradec.secret]] 

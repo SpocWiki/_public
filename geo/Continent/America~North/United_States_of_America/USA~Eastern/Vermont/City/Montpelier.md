@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.md|Montpelier]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.internal.md|Montpelier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.protect.md|Montpelier.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.private.md|Montpelier.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.personal.md|Montpelier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.secret.md|Montpelier.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.internal|Montpelier.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.protect|Montpelier.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.private|Montpelier.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.personal|Montpelier.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Vermont/City/Montpelier.secret|Montpelier.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./North_Tyneside/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.md|North_Tyneside]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.internal.md|North_Tyneside.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.protect.md|North_Tyneside.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.private.md|North_Tyneside.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.personal.md|North_Tyneside.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.secret.md|North_Tyneside.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.internal|North_Tyneside.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.protect|North_Tyneside.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.private|North_Tyneside.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.personal|North_Tyneside.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/North_Tyneside.secret|North_Tyneside.secret]] 
 

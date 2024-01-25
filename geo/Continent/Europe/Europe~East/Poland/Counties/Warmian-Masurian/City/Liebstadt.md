@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Liebstadt.md|Liebstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebstadt.internal.md|Liebstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebstadt.protect.md|Liebstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Liebstadt.private.md|Liebstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebstadt.personal.md|Liebstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebstadt.secret.md|Liebstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebstadt.internal|Liebstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebstadt.protect|Liebstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Liebstadt.private|Liebstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebstadt.personal|Liebstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebstadt.secret|Liebstadt.secret]] 

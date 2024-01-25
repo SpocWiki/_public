@@ -41,9 +41,9 @@ markerFolder: ./Komoé/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.md|Komoé]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.internal.md|Komoé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.protect.md|Komoé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.private.md|Komoé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.personal.md|Komoé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.secret.md|Komoé.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.internal|Komoé.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.protect|Komoé.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.private|Komoé.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.personal|Komoé.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.secret|Komoé.secret]] 
 

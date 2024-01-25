@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szigetvar.md|Szigetvar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szigetvar.internal.md|Szigetvar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szigetvar.protect.md|Szigetvar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szigetvar.private.md|Szigetvar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szigetvar.personal.md|Szigetvar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szigetvar.secret.md|Szigetvar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szigetvar.internal|Szigetvar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szigetvar.protect|Szigetvar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szigetvar.private|Szigetvar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szigetvar.personal|Szigetvar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szigetvar.secret|Szigetvar.secret]] 

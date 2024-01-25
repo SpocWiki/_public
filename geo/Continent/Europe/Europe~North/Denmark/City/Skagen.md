@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Skagen.md|Skagen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Skagen.internal.md|Skagen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Skagen.protect.md|Skagen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Skagen.private.md|Skagen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Skagen.personal.md|Skagen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Skagen.secret.md|Skagen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Skagen.internal|Skagen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Skagen.protect|Skagen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Skagen.private|Skagen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Skagen.personal|Skagen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Skagen.secret|Skagen.secret]] 

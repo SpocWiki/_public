@@ -41,9 +41,9 @@ markerFolder: ./Auces/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Auces.md|Auces]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Auces.internal.md|Auces.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Auces.protect.md|Auces.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Auces.private.md|Auces.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Auces.personal.md|Auces.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Auces.secret.md|Auces.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Auces.internal|Auces.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Auces.protect|Auces.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Auces.private|Auces.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Auces.personal|Auces.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Auces.secret|Auces.secret]] 
 

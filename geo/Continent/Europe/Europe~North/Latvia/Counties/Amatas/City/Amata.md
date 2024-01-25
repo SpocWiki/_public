@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Amata.md|Amata]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Amata.internal.md|Amata.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Amata.protect.md|Amata.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Amata.private.md|Amata.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Amata.personal.md|Amata.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Amata.secret.md|Amata.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Amata.internal|Amata.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Amata.protect|Amata.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Amata.private|Amata.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Amata.personal|Amata.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Amata.secret|Amata.secret]] 

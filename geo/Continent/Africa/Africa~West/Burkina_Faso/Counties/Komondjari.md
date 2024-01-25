@@ -41,9 +41,9 @@ markerFolder: ./Komondjari/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.md|Komondjari]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.internal.md|Komondjari.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.protect.md|Komondjari.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.private.md|Komondjari.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.personal.md|Komondjari.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.secret.md|Komondjari.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.internal|Komondjari.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.protect|Komondjari.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.private|Komondjari.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.personal|Komondjari.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.secret|Komondjari.secret]] 
 

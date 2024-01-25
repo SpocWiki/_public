@@ -41,9 +41,9 @@ markerFolder: ./Tainan_City/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.md|Tainan_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.internal.md|Tainan_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.protect.md|Tainan_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.private.md|Tainan_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.personal.md|Tainan_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.secret.md|Tainan_City.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.internal|Tainan_City.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.protect|Tainan_City.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.private|Tainan_City.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.personal|Tainan_City.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Tainan_City.secret|Tainan_City.secret]] 
 

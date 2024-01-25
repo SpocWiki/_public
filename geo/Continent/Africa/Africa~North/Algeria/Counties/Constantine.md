@@ -41,9 +41,9 @@ markerFolder: ./Constantine/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Constantine.md|Constantine]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Constantine.internal.md|Constantine.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Constantine.protect.md|Constantine.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Constantine.private.md|Constantine.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Constantine.personal.md|Constantine.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Constantine.secret.md|Constantine.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Constantine.internal|Constantine.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Constantine.protect|Constantine.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Constantine.private|Constantine.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Constantine.personal|Constantine.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Constantine.secret|Constantine.secret]] 
 

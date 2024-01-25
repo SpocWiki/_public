@@ -41,9 +41,9 @@ markerFolder: ./Tavastia_Proper/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.md|Tavastia_Proper]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.internal.md|Tavastia_Proper.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.protect.md|Tavastia_Proper.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.private.md|Tavastia_Proper.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.personal.md|Tavastia_Proper.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.secret.md|Tavastia_Proper.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.internal|Tavastia_Proper.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.protect|Tavastia_Proper.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.private|Tavastia_Proper.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.personal|Tavastia_Proper.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Tavastia_Proper.secret|Tavastia_Proper.secret]] 
 

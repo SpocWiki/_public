@@ -40,8 +40,8 @@ markerFolder: ./Saint_Kitts_and_Nevis~Islands/
 
 ## Confidential Links & Embeds: 
 - [[Saint_Kitts_and_Nevis~Islands|Saint_Kitts_and_Nevis~Islands]] 
-- [[../../../../_internal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.internal.md|Saint_Kitts_and_Nevis~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.protect.md|Saint_Kitts_and_Nevis~Islands.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.private.md|Saint_Kitts_and_Nevis~Islands.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.personal.md|Saint_Kitts_and_Nevis~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.secret.md|Saint_Kitts_and_Nevis~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.internal|Saint_Kitts_and_Nevis~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.protect|Saint_Kitts_and_Nevis~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.private|Saint_Kitts_and_Nevis~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.personal|Saint_Kitts_and_Nevis~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.secret|Saint_Kitts_and_Nevis~Islands.secret]] 

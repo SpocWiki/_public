@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Volume+Copying-Difficulty]
 [SpocWebEntityId::23361]
-+ [pro::[[Triz-stationary_Volume]]]
++ [#has_/Pros :: [[Triz-stationary_Volume]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.md|Triz-stationary_Volume+Copying-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.internal.md|Triz-stationary_Volume+Copying-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.protect.md|Triz-stationary_Volume+Copying-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.private.md|Triz-stationary_Volume+Copying-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.personal.md|Triz-stationary_Volume+Copying-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.secret.md|Triz-stationary_Volume+Copying-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.internal|Triz-stationary_Volume+Copying-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.protect|Triz-stationary_Volume+Copying-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.private|Triz-stationary_Volume+Copying-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.personal|Triz-stationary_Volume+Copying-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.secret|Triz-stationary_Volume+Copying-Difficulty.secret]] 

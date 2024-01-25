@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Mirande.md|Mirande]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mirande.internal.md|Mirande.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mirande.protect.md|Mirande.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Mirande.private.md|Mirande.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mirande.personal.md|Mirande.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mirande.secret.md|Mirande.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mirande.internal|Mirande.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mirande.protect|Mirande.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mirande.private|Mirande.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mirande.personal|Mirande.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mirande.secret|Mirande.secret]] 

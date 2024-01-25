@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kollautschen.md|Kollautschen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kollautschen.internal.md|Kollautschen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kollautschen.protect.md|Kollautschen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kollautschen.private.md|Kollautschen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kollautschen.personal.md|Kollautschen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kollautschen.secret.md|Kollautschen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kollautschen.internal|Kollautschen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kollautschen.protect|Kollautschen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kollautschen.private|Kollautschen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kollautschen.personal|Kollautschen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kollautschen.secret|Kollautschen.secret]] 

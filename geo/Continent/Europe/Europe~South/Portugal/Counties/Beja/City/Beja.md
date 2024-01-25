@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Beja.md|Beja]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Beja.internal.md|Beja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Beja.protect.md|Beja.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Beja.private.md|Beja.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Beja.personal.md|Beja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Beja.secret.md|Beja.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Beja.internal|Beja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Beja.protect|Beja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Beja.private|Beja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Beja.personal|Beja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Beja.secret|Beja.secret]] 

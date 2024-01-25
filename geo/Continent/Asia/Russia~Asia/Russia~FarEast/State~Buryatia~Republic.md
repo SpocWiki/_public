@@ -41,9 +41,9 @@ markerFolder: ./State~Buryatia~Republic/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.md|State~Buryatia~Republic]] 
-- [[../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.internal.md|State~Buryatia~Republic.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.protect.md|State~Buryatia~Republic.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.private.md|State~Buryatia~Republic.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.personal.md|State~Buryatia~Republic.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.secret.md|State~Buryatia~Republic.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.internal|State~Buryatia~Republic.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.protect|State~Buryatia~Republic.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.private|State~Buryatia~Republic.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.personal|State~Buryatia~Republic.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.secret|State~Buryatia~Republic.secret]] 
 

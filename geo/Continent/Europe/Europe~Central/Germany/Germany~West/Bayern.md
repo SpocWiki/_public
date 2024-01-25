@@ -33,8 +33,8 @@ markerFolder: ./Bayern/
 
 ## Confidential Links & Embeds: 
 - [[Bayern|Bayern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern.internal.md|Bayern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern.protect.md|Bayern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern.private.md|Bayern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern.personal.md|Bayern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern.secret.md|Bayern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern.internal|Bayern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern.protect|Bayern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern.private|Bayern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern.personal|Bayern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern.secret|Bayern.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Bari/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Apulia/Bari.md|Bari]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Bari.internal.md|Bari.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Bari.protect.md|Bari.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Bari.private.md|Bari.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Bari.personal.md|Bari.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Bari.secret.md|Bari.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Bari.internal|Bari.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Bari.protect|Bari.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Bari.private|Bari.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Bari.personal|Bari.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Bari.secret|Bari.secret]] 
 

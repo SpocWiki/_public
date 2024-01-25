@@ -41,9 +41,9 @@ markerFolder: ./Kirovohrad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.md|Kirovohrad]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.internal.md|Kirovohrad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.protect.md|Kirovohrad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.private.md|Kirovohrad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.personal.md|Kirovohrad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.secret.md|Kirovohrad.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.internal|Kirovohrad.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.protect|Kirovohrad.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.private|Kirovohrad.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.personal|Kirovohrad.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Kirovohrad.secret|Kirovohrad.secret]] 
 

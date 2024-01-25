@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Teramo.md|Teramo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Teramo.internal.md|Teramo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Teramo.protect.md|Teramo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Teramo.private.md|Teramo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Teramo.personal.md|Teramo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Teramo.secret.md|Teramo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Teramo.internal|Teramo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Teramo.protect|Teramo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Teramo.private|Teramo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Teramo.personal|Teramo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Teramo.secret|Teramo.secret]] 

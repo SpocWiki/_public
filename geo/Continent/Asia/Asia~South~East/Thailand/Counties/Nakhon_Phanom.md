@@ -41,9 +41,9 @@ markerFolder: ./Nakhon_Phanom/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.md|Nakhon_Phanom]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.internal.md|Nakhon_Phanom.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.protect.md|Nakhon_Phanom.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.private.md|Nakhon_Phanom.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.personal.md|Nakhon_Phanom.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.secret.md|Nakhon_Phanom.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.internal|Nakhon_Phanom.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.protect|Nakhon_Phanom.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.private|Nakhon_Phanom.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.personal|Nakhon_Phanom.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.secret|Nakhon_Phanom.secret]] 
 

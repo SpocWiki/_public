@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Estremoz.md|Estremoz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Estremoz.internal.md|Estremoz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Estremoz.protect.md|Estremoz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Estremoz.private.md|Estremoz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Estremoz.personal.md|Estremoz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Estremoz.secret.md|Estremoz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Estremoz.internal|Estremoz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Estremoz.protect|Estremoz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Estremoz.private|Estremoz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Estremoz.personal|Estremoz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Estremoz.secret|Estremoz.secret]] 

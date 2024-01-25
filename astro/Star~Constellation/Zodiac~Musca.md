@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Musca.md|Zodiac~Musca]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Musca.internal.md|Zodiac~Musca.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Musca.protect.md|Zodiac~Musca.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Musca.private.md|Zodiac~Musca.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Musca.personal.md|Zodiac~Musca.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Musca.secret.md|Zodiac~Musca.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Musca.internal|Zodiac~Musca.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Musca.protect|Zodiac~Musca.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Musca.private|Zodiac~Musca.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Musca.personal|Zodiac~Musca.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Musca.secret|Zodiac~Musca.secret]] 

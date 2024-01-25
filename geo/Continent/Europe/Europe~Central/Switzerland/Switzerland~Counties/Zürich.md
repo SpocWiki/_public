@@ -41,9 +41,9 @@ markerFolder: ./Zürich/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.md|Zürich]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.internal.md|Zürich.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.protect.md|Zürich.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.private.md|Zürich.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.personal.md|Zürich.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.secret.md|Zürich.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.internal|Zürich.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.protect|Zürich.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.private|Zürich.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.personal|Zürich.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Zürich.secret|Zürich.secret]] 
 

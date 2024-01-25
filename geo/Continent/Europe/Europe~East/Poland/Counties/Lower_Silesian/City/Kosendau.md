@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kosendau.md|Kosendau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosendau.internal.md|Kosendau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosendau.protect.md|Kosendau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kosendau.private.md|Kosendau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosendau.personal.md|Kosendau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosendau.secret.md|Kosendau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosendau.internal|Kosendau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosendau.protect|Kosendau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kosendau.private|Kosendau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosendau.personal|Kosendau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosendau.secret|Kosendau.secret]] 

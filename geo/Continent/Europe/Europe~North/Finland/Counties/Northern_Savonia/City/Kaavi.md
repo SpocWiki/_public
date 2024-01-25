@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kaavi.md|Kaavi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaavi.internal.md|Kaavi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaavi.protect.md|Kaavi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kaavi.private.md|Kaavi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaavi.personal.md|Kaavi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaavi.secret.md|Kaavi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaavi.internal|Kaavi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaavi.protect|Kaavi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kaavi.private|Kaavi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaavi.personal|Kaavi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaavi.secret|Kaavi.secret]] 

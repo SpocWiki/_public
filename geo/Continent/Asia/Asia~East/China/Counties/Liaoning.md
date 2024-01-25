@@ -41,9 +41,9 @@ markerFolder: ./Liaoning/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.md|Liaoning]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.internal.md|Liaoning.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.protect.md|Liaoning.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.private.md|Liaoning.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.personal.md|Liaoning.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.secret.md|Liaoning.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.internal|Liaoning.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.protect|Liaoning.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.private|Liaoning.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.personal|Liaoning.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.secret|Liaoning.secret]] 
 

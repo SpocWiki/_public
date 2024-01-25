@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Weisswampach.md|Weisswampach]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Weisswampach.internal.md|Weisswampach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Weisswampach.protect.md|Weisswampach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Weisswampach.private.md|Weisswampach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Weisswampach.personal.md|Weisswampach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Weisswampach.secret.md|Weisswampach.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Weisswampach.internal|Weisswampach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Weisswampach.protect|Weisswampach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Weisswampach.private|Weisswampach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Weisswampach.personal|Weisswampach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Weisswampach.secret|Weisswampach.secret]] 

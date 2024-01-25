@@ -41,9 +41,9 @@ markerFolder: ./Vučitrn/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Vučitrn.md|Vučitrn]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Vučitrn.internal.md|Vučitrn.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Vučitrn.protect.md|Vučitrn.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Vučitrn.private.md|Vučitrn.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Vučitrn.personal.md|Vučitrn.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Vučitrn.secret.md|Vučitrn.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Vučitrn.internal|Vučitrn.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Vučitrn.protect|Vučitrn.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Vučitrn.private|Vučitrn.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Vučitrn.personal|Vučitrn.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Vučitrn.secret|Vučitrn.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Kecskemét/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Kecskemét.md|Kecskemét]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Kecskemét.internal.md|Kecskemét.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Kecskemét.protect.md|Kecskemét.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Kecskemét.private.md|Kecskemét.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Kecskemét.personal.md|Kecskemét.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Kecskemét.secret.md|Kecskemét.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Kecskemét.internal|Kecskemét.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Kecskemét.protect|Kecskemét.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Kecskemét.private|Kecskemét.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Kecskemét.personal|Kecskemét.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Kecskemét.secret|Kecskemét.secret]] 
 

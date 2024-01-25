@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Tuvalu/City/Funafuti.md|Funafuti]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Tuvalu/City/Funafuti.internal.md|Funafuti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Tuvalu/City/Funafuti.protect.md|Funafuti.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Tuvalu/City/Funafuti.private.md|Funafuti.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Tuvalu/City/Funafuti.personal.md|Funafuti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Tuvalu/City/Funafuti.secret.md|Funafuti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Tuvalu/City/Funafuti.internal|Funafuti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Tuvalu/City/Funafuti.protect|Funafuti.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Tuvalu/City/Funafuti.private|Funafuti.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Tuvalu/City/Funafuti.personal|Funafuti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Tuvalu/City/Funafuti.secret|Funafuti.secret]] 

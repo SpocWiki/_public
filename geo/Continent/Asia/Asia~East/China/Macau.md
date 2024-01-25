@@ -41,9 +41,9 @@ markerFolder: ./Macau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Macau.md|Macau]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Macau.internal.md|Macau.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Macau.protect.md|Macau.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Macau.private.md|Macau.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Macau.personal.md|Macau.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Macau.secret.md|Macau.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Macau.internal|Macau.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Macau.protect|Macau.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Macau.private|Macau.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Macau.personal|Macau.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Macau.secret|Macau.secret]] 
 

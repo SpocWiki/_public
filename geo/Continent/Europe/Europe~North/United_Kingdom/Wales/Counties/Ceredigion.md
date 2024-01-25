@@ -41,9 +41,9 @@ markerFolder: ./Ceredigion/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.md|Ceredigion]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.internal.md|Ceredigion.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.protect.md|Ceredigion.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.private.md|Ceredigion.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.personal.md|Ceredigion.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.secret.md|Ceredigion.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.internal|Ceredigion.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.protect|Ceredigion.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.private|Ceredigion.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.personal|Ceredigion.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.secret|Ceredigion.secret]] 
 

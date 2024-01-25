@@ -41,9 +41,9 @@ markerFolder: ./Aargau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.md|Aargau]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.internal.md|Aargau.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.protect.md|Aargau.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.private.md|Aargau.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.personal.md|Aargau.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.secret.md|Aargau.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.internal|Aargau.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.protect|Aargau.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.private|Aargau.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.personal|Aargau.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Aargau.secret|Aargau.secret]] 
 

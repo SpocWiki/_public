@@ -41,9 +41,9 @@ markerFolder: ./Cesu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Cesu.md|Cesu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Cesu.internal.md|Cesu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Cesu.protect.md|Cesu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Cesu.private.md|Cesu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Cesu.personal.md|Cesu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Cesu.secret.md|Cesu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Cesu.internal|Cesu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Cesu.protect|Cesu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Cesu.private|Cesu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Cesu.personal|Cesu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Cesu.secret|Cesu.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Neustadt~Weinstrasse|Neustadt~Weinstrasse]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.internal.md|Neustadt~Weinstrasse.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.protect.md|Neustadt~Weinstrasse.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.private.md|Neustadt~Weinstrasse.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.personal.md|Neustadt~Weinstrasse.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.secret.md|Neustadt~Weinstrasse.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.internal|Neustadt~Weinstrasse.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.protect|Neustadt~Weinstrasse.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.private|Neustadt~Weinstrasse.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.personal|Neustadt~Weinstrasse.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.secret|Neustadt~Weinstrasse.secret]] 

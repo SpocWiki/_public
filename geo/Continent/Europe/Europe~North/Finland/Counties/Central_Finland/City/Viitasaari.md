@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Viitasaari.md|Viitasaari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Viitasaari.internal.md|Viitasaari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Viitasaari.protect.md|Viitasaari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Viitasaari.private.md|Viitasaari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Viitasaari.personal.md|Viitasaari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Viitasaari.secret.md|Viitasaari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Viitasaari.internal|Viitasaari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Viitasaari.protect|Viitasaari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Viitasaari.private|Viitasaari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Viitasaari.personal|Viitasaari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Viitasaari.secret|Viitasaari.secret]] 

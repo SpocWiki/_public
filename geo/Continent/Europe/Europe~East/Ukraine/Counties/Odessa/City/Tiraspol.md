@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tiraspol.md|Tiraspol]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiraspol.internal.md|Tiraspol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiraspol.protect.md|Tiraspol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tiraspol.private.md|Tiraspol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiraspol.personal.md|Tiraspol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiraspol.secret.md|Tiraspol.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiraspol.internal|Tiraspol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiraspol.protect|Tiraspol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tiraspol.private|Tiraspol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiraspol.personal|Tiraspol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiraspol.secret|Tiraspol.secret]] 

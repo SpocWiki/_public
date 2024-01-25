@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Mizar.md|Mizar]] 
-- [[../../../_internal/astro/Star/Mizar.internal.md|Mizar.internal]] 
-- [[../../../_protect/astro/Star/Mizar.protect.md|Mizar.protect]] 
-- [[../../../_private/astro/Star/Mizar.private.md|Mizar.private]] 
-- [[../../../_personal/astro/Star/Mizar.personal.md|Mizar.personal]] 
-- [[../../../_secret/astro/Star/Mizar.secret.md|Mizar.secret]] 
+- [[../../../_internal/astro/Star/Mizar.internal|Mizar.internal]] 
+- [[../../../_protect/astro/Star/Mizar.protect|Mizar.protect]] 
+- [[../../../_private/astro/Star/Mizar.private|Mizar.private]] 
+- [[../../../_personal/astro/Star/Mizar.personal|Mizar.personal]] 
+- [[../../../_secret/astro/Star/Mizar.secret|Mizar.secret]] 

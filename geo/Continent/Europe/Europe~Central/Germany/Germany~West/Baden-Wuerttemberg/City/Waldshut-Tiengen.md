@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Waldshut-Tiengen|Waldshut-Tiengen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.internal.md|Waldshut-Tiengen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.protect.md|Waldshut-Tiengen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.private.md|Waldshut-Tiengen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.personal.md|Waldshut-Tiengen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.secret.md|Waldshut-Tiengen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.internal|Waldshut-Tiengen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.protect|Waldshut-Tiengen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.private|Waldshut-Tiengen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.personal|Waldshut-Tiengen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.secret|Waldshut-Tiengen.secret]] 

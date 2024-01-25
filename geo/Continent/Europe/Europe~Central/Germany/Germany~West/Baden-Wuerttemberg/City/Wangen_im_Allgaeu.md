@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Wangen_im_Allgaeu|Wangen_im_Allgaeu]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.internal.md|Wangen_im_Allgaeu.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.protect.md|Wangen_im_Allgaeu.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.private.md|Wangen_im_Allgaeu.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.personal.md|Wangen_im_Allgaeu.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.secret.md|Wangen_im_Allgaeu.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.internal|Wangen_im_Allgaeu.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.protect|Wangen_im_Allgaeu.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.private|Wangen_im_Allgaeu.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.personal|Wangen_im_Allgaeu.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.secret|Wangen_im_Allgaeu.secret]] 

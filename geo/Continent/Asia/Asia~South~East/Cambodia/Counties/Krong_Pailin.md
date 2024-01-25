@@ -41,9 +41,9 @@ markerFolder: ./Krong_Pailin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.md|Krong_Pailin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.internal.md|Krong_Pailin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.protect.md|Krong_Pailin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.private.md|Krong_Pailin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.personal.md|Krong_Pailin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.secret.md|Krong_Pailin.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.internal|Krong_Pailin.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.protect|Krong_Pailin.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.private|Krong_Pailin.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.personal|Krong_Pailin.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Pailin.secret|Krong_Pailin.secret]] 
 

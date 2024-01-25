@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Naryn.md|Naryn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naryn.internal.md|Naryn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naryn.protect.md|Naryn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naryn.private.md|Naryn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Naryn.personal.md|Naryn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Naryn.secret.md|Naryn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naryn.internal|Naryn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naryn.protect|Naryn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naryn.private|Naryn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Naryn.personal|Naryn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Naryn.secret|Naryn.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Subcarpathian/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/Subcarpathian.md|Subcarpathian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Subcarpathian.internal.md|Subcarpathian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Subcarpathian.protect.md|Subcarpathian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Subcarpathian.private.md|Subcarpathian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Subcarpathian.personal.md|Subcarpathian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Subcarpathian.secret.md|Subcarpathian.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Subcarpathian.internal|Subcarpathian.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Subcarpathian.protect|Subcarpathian.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Subcarpathian.private|Subcarpathian.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Subcarpathian.personal|Subcarpathian.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Subcarpathian.secret|Subcarpathian.secret]] 
 

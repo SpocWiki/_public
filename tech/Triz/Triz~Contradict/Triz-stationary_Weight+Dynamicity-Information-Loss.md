@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Dynamicity-Information-Loss]
 [SpocWebEntityId::22755]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.md|Triz-stationary_Weight+Dynamicity-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.internal.md|Triz-stationary_Weight+Dynamicity-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.protect.md|Triz-stationary_Weight+Dynamicity-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.private.md|Triz-stationary_Weight+Dynamicity-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.personal.md|Triz-stationary_Weight+Dynamicity-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.secret.md|Triz-stationary_Weight+Dynamicity-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.internal|Triz-stationary_Weight+Dynamicity-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.protect|Triz-stationary_Weight+Dynamicity-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.private|Triz-stationary_Weight+Dynamicity-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.personal|Triz-stationary_Weight+Dynamicity-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.secret|Triz-stationary_Weight+Dynamicity-Information-Loss.secret]] 

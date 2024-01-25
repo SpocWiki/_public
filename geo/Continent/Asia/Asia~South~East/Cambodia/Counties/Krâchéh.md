@@ -41,9 +41,9 @@ markerFolder: ./Krâchéh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.md|Krâchéh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.internal.md|Krâchéh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.protect.md|Krâchéh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.private.md|Krâchéh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.personal.md|Krâchéh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.secret.md|Krâchéh.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.internal|Krâchéh.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.protect|Krâchéh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.private|Krâchéh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.personal|Krâchéh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.secret|Krâchéh.secret]] 
 

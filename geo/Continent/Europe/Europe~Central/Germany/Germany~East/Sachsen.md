@@ -32,8 +32,8 @@ markerFolder: ./Sachsen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen.md|Sachsen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen.internal.md|Sachsen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen.protect.md|Sachsen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen.private.md|Sachsen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen.personal.md|Sachsen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen.secret.md|Sachsen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen.internal|Sachsen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen.protect|Sachsen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen.private|Sachsen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen.personal|Sachsen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen.secret|Sachsen.secret]] 

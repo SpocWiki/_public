@@ -41,9 +41,9 @@ markerFolder: ./Malpils/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Malpils.md|Malpils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Malpils.internal.md|Malpils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Malpils.protect.md|Malpils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Malpils.private.md|Malpils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Malpils.personal.md|Malpils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Malpils.secret.md|Malpils.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Malpils.internal|Malpils.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Malpils.protect|Malpils.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Malpils.private|Malpils.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Malpils.personal|Malpils.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Malpils.secret|Malpils.secret]] 
 

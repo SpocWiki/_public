@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Martina_Franka.md|Martina_Franka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Martina_Franka.internal.md|Martina_Franka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Martina_Franka.protect.md|Martina_Franka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Martina_Franka.private.md|Martina_Franka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Martina_Franka.personal.md|Martina_Franka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Martina_Franka.secret.md|Martina_Franka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Martina_Franka.internal|Martina_Franka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Martina_Franka.protect|Martina_Franka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Martina_Franka.private|Martina_Franka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Martina_Franka.personal|Martina_Franka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Martina_Franka.secret|Martina_Franka.secret]] 

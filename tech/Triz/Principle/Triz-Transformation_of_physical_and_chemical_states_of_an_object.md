@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.md|Triz-Transformation_of_physical_and_chemical_states_of_an_object]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.internal.md|Triz-Transformation_of_physical_and_chemical_states_of_an_object.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.protect.md|Triz-Transformation_of_physical_and_chemical_states_of_an_object.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.private.md|Triz-Transformation_of_physical_and_chemical_states_of_an_object.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.personal.md|Triz-Transformation_of_physical_and_chemical_states_of_an_object.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.secret.md|Triz-Transformation_of_physical_and_chemical_states_of_an_object.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.internal|Triz-Transformation_of_physical_and_chemical_states_of_an_object.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.protect|Triz-Transformation_of_physical_and_chemical_states_of_an_object.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.private|Triz-Transformation_of_physical_and_chemical_states_of_an_object.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.personal|Triz-Transformation_of_physical_and_chemical_states_of_an_object.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.secret|Triz-Transformation_of_physical_and_chemical_states_of_an_object.secret]] 

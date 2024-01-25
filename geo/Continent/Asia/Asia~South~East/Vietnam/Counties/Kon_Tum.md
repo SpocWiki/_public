@@ -41,9 +41,9 @@ markerFolder: ./Kon_Tum/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.md|Kon_Tum]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.internal.md|Kon_Tum.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.protect.md|Kon_Tum.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.private.md|Kon_Tum.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.personal.md|Kon_Tum.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.secret.md|Kon_Tum.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.internal|Kon_Tum.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.protect|Kon_Tum.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.private|Kon_Tum.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.personal|Kon_Tum.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kon_Tum.secret|Kon_Tum.secret]] 
 

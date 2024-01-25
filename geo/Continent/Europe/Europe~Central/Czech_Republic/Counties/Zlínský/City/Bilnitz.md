@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bilnitz.md|Bilnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bilnitz.internal.md|Bilnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bilnitz.protect.md|Bilnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bilnitz.private.md|Bilnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bilnitz.personal.md|Bilnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bilnitz.secret.md|Bilnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bilnitz.internal|Bilnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bilnitz.protect|Bilnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bilnitz.private|Bilnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bilnitz.personal|Bilnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bilnitz.secret|Bilnitz.secret]] 

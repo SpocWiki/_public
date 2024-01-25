@@ -41,9 +41,9 @@ markerFolder: ./Zajecarski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Zajecarski.md|Zajecarski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Zajecarski.internal.md|Zajecarski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Zajecarski.protect.md|Zajecarski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Zajecarski.private.md|Zajecarski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Zajecarski.personal.md|Zajecarski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Zajecarski.secret.md|Zajecarski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Zajecarski.internal|Zajecarski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Zajecarski.protect|Zajecarski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Zajecarski.private|Zajecarski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Zajecarski.personal|Zajecarski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Zajecarski.secret|Zajecarski.secret]] 
 

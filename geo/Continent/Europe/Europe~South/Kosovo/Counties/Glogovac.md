@@ -41,9 +41,9 @@ markerFolder: ./Glogovac/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Glogovac.md|Glogovac]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Glogovac.internal.md|Glogovac.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Glogovac.protect.md|Glogovac.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Glogovac.private.md|Glogovac.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Glogovac.personal.md|Glogovac.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Glogovac.secret.md|Glogovac.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Glogovac.internal|Glogovac.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Glogovac.protect|Glogovac.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Glogovac.private|Glogovac.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Glogovac.personal|Glogovac.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Glogovac.secret|Glogovac.secret]] 
 

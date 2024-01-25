@@ -41,9 +41,9 @@ markerFolder: ./Logone_Oriental/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Logone_Oriental.md|Logone_Oriental]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Logone_Oriental.internal.md|Logone_Oriental.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Logone_Oriental.protect.md|Logone_Oriental.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Logone_Oriental.private.md|Logone_Oriental.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Logone_Oriental.personal.md|Logone_Oriental.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Logone_Oriental.secret.md|Logone_Oriental.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Logone_Oriental.internal|Logone_Oriental.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Logone_Oriental.protect|Logone_Oriental.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Logone_Oriental.private|Logone_Oriental.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Logone_Oriental.personal|Logone_Oriental.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Logone_Oriental.secret|Logone_Oriental.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bad_Neustadt|Bad_Neustadt]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.internal.md|Bad_Neustadt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.protect.md|Bad_Neustadt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.private.md|Bad_Neustadt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.personal.md|Bad_Neustadt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.secret.md|Bad_Neustadt.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.internal|Bad_Neustadt.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.protect|Bad_Neustadt.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.private|Bad_Neustadt.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.personal|Bad_Neustadt.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.secret|Bad_Neustadt.secret]] 

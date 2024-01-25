@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Extraction-Ease_of_repair]
 [SpocWebEntityId::23923]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.md|Triz-Stability+Extraction-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.internal.md|Triz-Stability+Extraction-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.protect.md|Triz-Stability+Extraction-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.private.md|Triz-Stability+Extraction-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.personal.md|Triz-Stability+Extraction-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.secret.md|Triz-Stability+Extraction-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.internal|Triz-Stability+Extraction-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.protect|Triz-Stability+Extraction-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.private|Triz-Stability+Extraction-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.personal|Triz-Stability+Extraction-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-Ease_of_repair.secret|Triz-Stability+Extraction-Ease_of_repair.secret]] 

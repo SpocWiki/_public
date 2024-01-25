@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Mechanical_vibration-Speed]
 [SpocWebEntityId::25973]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.md|Triz-Ease_of_operation+Mechanical_vibration-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.internal.md|Triz-Ease_of_operation+Mechanical_vibration-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.protect.md|Triz-Ease_of_operation+Mechanical_vibration-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.private.md|Triz-Ease_of_operation+Mechanical_vibration-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.personal.md|Triz-Ease_of_operation+Mechanical_vibration-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.secret.md|Triz-Ease_of_operation+Mechanical_vibration-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.internal|Triz-Ease_of_operation+Mechanical_vibration-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.protect|Triz-Ease_of_operation+Mechanical_vibration-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.private|Triz-Ease_of_operation+Mechanical_vibration-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.personal|Triz-Ease_of_operation+Mechanical_vibration-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Mechanical_vibration-Speed.secret|Triz-Ease_of_operation+Mechanical_vibration-Speed.secret]] 

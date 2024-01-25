@@ -41,9 +41,9 @@ markerFolder: ./Bulgan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.md|Bulgan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.internal.md|Bulgan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.protect.md|Bulgan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.private.md|Bulgan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.personal.md|Bulgan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.secret.md|Bulgan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.internal|Bulgan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.protect|Bulgan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.private|Bulgan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.personal|Bulgan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bulgan.secret|Bulgan.secret]] 
 

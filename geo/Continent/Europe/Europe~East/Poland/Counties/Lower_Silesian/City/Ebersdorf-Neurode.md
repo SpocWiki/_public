@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.md|Ebersdorf-Neurode]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.internal.md|Ebersdorf-Neurode.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.protect.md|Ebersdorf-Neurode.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.private.md|Ebersdorf-Neurode.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.personal.md|Ebersdorf-Neurode.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.secret.md|Ebersdorf-Neurode.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.internal|Ebersdorf-Neurode.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.protect|Ebersdorf-Neurode.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.private|Ebersdorf-Neurode.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.personal|Ebersdorf-Neurode.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ebersdorf-Neurode.secret|Ebersdorf-Neurode.secret]] 

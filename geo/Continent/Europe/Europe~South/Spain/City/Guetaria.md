@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Guetaria.md|Guetaria]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Guetaria.internal.md|Guetaria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Guetaria.protect.md|Guetaria.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Guetaria.private.md|Guetaria.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Guetaria.personal.md|Guetaria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Guetaria.secret.md|Guetaria.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Guetaria.internal|Guetaria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Guetaria.protect|Guetaria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Guetaria.private|Guetaria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Guetaria.personal|Guetaria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Guetaria.secret|Guetaria.secret]] 

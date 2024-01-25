@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Opocno.md|Opocno]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Opocno.internal.md|Opocno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Opocno.protect.md|Opocno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Opocno.private.md|Opocno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Opocno.personal.md|Opocno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Opocno.secret.md|Opocno.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Opocno.internal|Opocno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Opocno.protect|Opocno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Opocno.private|Opocno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Opocno.personal|Opocno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Opocno.secret|Opocno.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Alkmaar.md|Alkmaar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Alkmaar.internal.md|Alkmaar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Alkmaar.protect.md|Alkmaar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Alkmaar.private.md|Alkmaar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Alkmaar.personal.md|Alkmaar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Alkmaar.secret.md|Alkmaar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Alkmaar.internal|Alkmaar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Alkmaar.protect|Alkmaar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Alkmaar.private|Alkmaar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Alkmaar.personal|Alkmaar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Alkmaar.secret|Alkmaar.secret]] 

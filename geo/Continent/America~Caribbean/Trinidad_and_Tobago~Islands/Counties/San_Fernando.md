@@ -41,9 +41,9 @@ markerFolder: ./San_Fernando/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.md|San_Fernando]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.internal.md|San_Fernando.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.protect.md|San_Fernando.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.private.md|San_Fernando.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.personal.md|San_Fernando.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.secret.md|San_Fernando.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.internal|San_Fernando.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.protect|San_Fernando.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.private|San_Fernando.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.personal|San_Fernando.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Fernando.secret|San_Fernando.secret]] 
 

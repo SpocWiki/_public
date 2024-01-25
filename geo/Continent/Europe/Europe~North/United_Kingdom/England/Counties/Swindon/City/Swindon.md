@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Swindon.md|Swindon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Swindon.internal.md|Swindon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Swindon.protect.md|Swindon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Swindon.private.md|Swindon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Swindon.personal.md|Swindon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Swindon.secret.md|Swindon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Swindon.internal|Swindon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Swindon.protect|Swindon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Swindon.private|Swindon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Swindon.personal|Swindon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Swindon.secret|Swindon.secret]] 

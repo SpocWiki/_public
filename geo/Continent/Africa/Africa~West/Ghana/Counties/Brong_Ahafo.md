@@ -41,9 +41,9 @@ markerFolder: ./Brong_Ahafo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.md|Brong_Ahafo]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.internal.md|Brong_Ahafo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.protect.md|Brong_Ahafo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.private.md|Brong_Ahafo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.personal.md|Brong_Ahafo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.secret.md|Brong_Ahafo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.internal|Brong_Ahafo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.protect|Brong_Ahafo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.private|Brong_Ahafo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.personal|Brong_Ahafo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.secret|Brong_Ahafo.secret]] 
 

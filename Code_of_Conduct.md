@@ -137,9 +137,9 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## Confidential Links & Embeds: 
 - [[../_public/Code_of_Conduct.md|Code_of_Conduct]] 
-- [[../_internal/Code_of_Conduct.internal.md|Code_of_Conduct.internal]] 
-- [[../_protect/Code_of_Conduct.protect.md|Code_of_Conduct.protect]] 
-- [[../_private/Code_of_Conduct.private.md|Code_of_Conduct.private]] 
-- [[../_personal/Code_of_Conduct.personal.md|Code_of_Conduct.personal]] 
-- [[../_secret/Code_of_Conduct.secret.md|Code_of_Conduct.secret]]
+- [[../_internal/Code_of_Conduct.internal|Code_of_Conduct.internal]] 
+- [[../_protect/Code_of_Conduct.protect|Code_of_Conduct.protect]] 
+- [[../_private/Code_of_Conduct.private|Code_of_Conduct.private]] 
+- [[../_personal/Code_of_Conduct.personal|Code_of_Conduct.personal]] 
+- [[../_secret/Code_of_Conduct.secret|Code_of_Conduct.secret]]
 

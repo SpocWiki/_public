@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.md|Denbigh]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.internal.md|Denbigh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.protect.md|Denbigh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.private.md|Denbigh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.personal.md|Denbigh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.secret.md|Denbigh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.internal|Denbigh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.protect|Denbigh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.private|Denbigh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.personal|Denbigh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.secret|Denbigh.secret]] 

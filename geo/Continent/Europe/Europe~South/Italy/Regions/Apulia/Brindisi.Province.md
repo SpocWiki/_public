@@ -41,9 +41,9 @@ markerFolder: ./Brindisi.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.md|Brindisi.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.internal.md|Brindisi.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.protect.md|Brindisi.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.private.md|Brindisi.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.personal.md|Brindisi.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.secret.md|Brindisi.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.internal|Brindisi.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.protect|Brindisi.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.private|Brindisi.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.personal|Brindisi.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Brindisi.Province.secret|Brindisi.Province.secret]] 
 

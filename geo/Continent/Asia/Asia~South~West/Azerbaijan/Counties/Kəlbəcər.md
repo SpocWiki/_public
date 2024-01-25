@@ -41,9 +41,9 @@ markerFolder: ./Kəlbəcər/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.md|Kəlbəcər]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.internal.md|Kəlbəcər.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.protect.md|Kəlbəcər.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.private.md|Kəlbəcər.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.personal.md|Kəlbəcər.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.secret.md|Kəlbəcər.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.internal|Kəlbəcər.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.protect|Kəlbəcər.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.private|Kəlbəcər.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.personal|Kəlbəcər.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.secret|Kəlbəcər.secret]] 
 

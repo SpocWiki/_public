@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Extraction-Power]
 [SpocWebEntityId::23773]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Extraction-Power.md|Triz-Shape+Extraction-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Extraction-Power.internal.md|Triz-Shape+Extraction-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Extraction-Power.protect.md|Triz-Shape+Extraction-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Extraction-Power.private.md|Triz-Shape+Extraction-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Extraction-Power.personal.md|Triz-Shape+Extraction-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Extraction-Power.secret.md|Triz-Shape+Extraction-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Extraction-Power.internal|Triz-Shape+Extraction-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Extraction-Power.protect|Triz-Shape+Extraction-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Extraction-Power.private|Triz-Shape+Extraction-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Extraction-Power.personal|Triz-Shape+Extraction-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Extraction-Power.secret|Triz-Shape+Extraction-Power.secret]] 

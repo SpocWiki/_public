@@ -41,9 +41,9 @@ markerFolder: ./Taipei_City/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.md|Taipei_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.internal.md|Taipei_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.protect.md|Taipei_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.private.md|Taipei_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.personal.md|Taipei_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.secret.md|Taipei_City.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.internal|Taipei_City.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.protect|Taipei_City.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.private|Taipei_City.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.personal|Taipei_City.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taipei_City.secret|Taipei_City.secret]] 
 

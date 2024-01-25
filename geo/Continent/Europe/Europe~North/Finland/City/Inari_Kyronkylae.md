@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.md|Inari_Kyronkylae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.internal.md|Inari_Kyronkylae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.protect.md|Inari_Kyronkylae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.private.md|Inari_Kyronkylae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.personal.md|Inari_Kyronkylae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.secret.md|Inari_Kyronkylae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.internal|Inari_Kyronkylae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.protect|Inari_Kyronkylae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.private|Inari_Kyronkylae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.personal|Inari_Kyronkylae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Inari_Kyronkylae.secret|Inari_Kyronkylae.secret]] 

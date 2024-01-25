@@ -41,9 +41,9 @@ markerFolder: ./Kinmen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.md|Kinmen]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.internal.md|Kinmen.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.protect.md|Kinmen.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.private.md|Kinmen.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.personal.md|Kinmen.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.secret.md|Kinmen.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.internal|Kinmen.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.protect|Kinmen.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.private|Kinmen.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.personal|Kinmen.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kinmen.secret|Kinmen.secret]] 
 

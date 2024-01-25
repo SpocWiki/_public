@@ -41,9 +41,9 @@ markerFolder: ./Vitanje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.md|Vitanje]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.internal.md|Vitanje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.protect.md|Vitanje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.private.md|Vitanje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.personal.md|Vitanje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.secret.md|Vitanje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.internal|Vitanje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.protect|Vitanje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.private|Vitanje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.personal|Vitanje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vitanje.secret|Vitanje.secret]] 
 

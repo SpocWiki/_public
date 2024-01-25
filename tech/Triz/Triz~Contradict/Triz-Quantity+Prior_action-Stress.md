@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Prior_action-Stress]
 [SpocWebEntityId::25140]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.md|Triz-Quantity+Prior_action-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.internal.md|Triz-Quantity+Prior_action-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.protect.md|Triz-Quantity+Prior_action-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.private.md|Triz-Quantity+Prior_action-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.personal.md|Triz-Quantity+Prior_action-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.secret.md|Triz-Quantity+Prior_action-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.internal|Triz-Quantity+Prior_action-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.protect|Triz-Quantity+Prior_action-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.private|Triz-Quantity+Prior_action-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.personal|Triz-Quantity+Prior_action-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Prior_action-Stress.secret|Triz-Quantity+Prior_action-Stress.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Chiriquí/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Chiriquí.md|Chiriquí]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Chiriquí.internal.md|Chiriquí.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Chiriquí.protect.md|Chiriquí.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Chiriquí.private.md|Chiriquí.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Chiriquí.personal.md|Chiriquí.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Chiriquí.secret.md|Chiriquí.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Chiriquí.internal|Chiriquí.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Chiriquí.protect|Chiriquí.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Chiriquí.private|Chiriquí.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Chiriquí.personal|Chiriquí.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Chiriquí.secret|Chiriquí.secret]] 
 

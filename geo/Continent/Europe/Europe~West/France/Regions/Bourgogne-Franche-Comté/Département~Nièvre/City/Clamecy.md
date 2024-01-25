@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Clamecy.md|Clamecy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Clamecy.internal.md|Clamecy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Clamecy.protect.md|Clamecy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Clamecy.private.md|Clamecy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Clamecy.personal.md|Clamecy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Clamecy.secret.md|Clamecy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Clamecy.internal|Clamecy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Clamecy.protect|Clamecy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Clamecy.private|Clamecy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Clamecy.personal|Clamecy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Clamecy.secret|Clamecy.secret]] 

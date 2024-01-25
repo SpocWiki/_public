@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Spheroidality-Substance-Loss]
 [SpocWebEntityId::23137]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.md|Triz-stationary_Area+Spheroidality-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.internal.md|Triz-stationary_Area+Spheroidality-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.protect.md|Triz-stationary_Area+Spheroidality-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.private.md|Triz-stationary_Area+Spheroidality-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.personal.md|Triz-stationary_Area+Spheroidality-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.secret.md|Triz-stationary_Area+Spheroidality-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.internal|Triz-stationary_Area+Spheroidality-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.protect|Triz-stationary_Area+Spheroidality-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.private|Triz-stationary_Area+Spheroidality-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.personal|Triz-stationary_Area+Spheroidality-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.secret|Triz-stationary_Area+Spheroidality-Substance-Loss.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Inversion-Temperature]
 [SpocWebEntityId::26002]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.md|Triz-Ease_of_operation+Inversion-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.internal.md|Triz-Ease_of_operation+Inversion-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.protect.md|Triz-Ease_of_operation+Inversion-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.private.md|Triz-Ease_of_operation+Inversion-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.personal.md|Triz-Ease_of_operation+Inversion-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.secret.md|Triz-Ease_of_operation+Inversion-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.internal|Triz-Ease_of_operation+Inversion-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.protect|Triz-Ease_of_operation+Inversion-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.private|Triz-Ease_of_operation+Inversion-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.personal|Triz-Ease_of_operation+Inversion-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.secret|Triz-Ease_of_operation+Inversion-Temperature.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Magallanes_y_Antártica_Chilena/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.md|Magallanes_y_Antártica_Chilena]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.internal.md|Magallanes_y_Antártica_Chilena.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.protect.md|Magallanes_y_Antártica_Chilena.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.private.md|Magallanes_y_Antártica_Chilena.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.personal.md|Magallanes_y_Antártica_Chilena.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.secret.md|Magallanes_y_Antártica_Chilena.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.internal|Magallanes_y_Antártica_Chilena.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.protect|Magallanes_y_Antártica_Chilena.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.private|Magallanes_y_Antártica_Chilena.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.personal|Magallanes_y_Antártica_Chilena.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.secret|Magallanes_y_Antártica_Chilena.secret]] 
 

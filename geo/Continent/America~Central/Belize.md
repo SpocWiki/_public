@@ -133,8 +133,8 @@ markerFolder: ./Belize/
 
 ## Confidential Links & Embeds: 
 - [[Belize|Belize]] 
-- [[../../../../_internal/geo/Continent/South-America/Belize.internal.md|Belize.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Belize.protect.md|Belize.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Belize.private.md|Belize.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Belize.personal.md|Belize.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Belize.secret.md|Belize.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Belize.internal|Belize.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Belize.protect|Belize.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Belize.private|Belize.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Belize.personal|Belize.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Belize.secret|Belize.secret]] 

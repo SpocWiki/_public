@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kastona.md|Kastona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kastona.internal.md|Kastona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kastona.protect.md|Kastona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kastona.private.md|Kastona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kastona.personal.md|Kastona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kastona.secret.md|Kastona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kastona.internal|Kastona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kastona.protect|Kastona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kastona.private|Kastona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kastona.personal|Kastona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kastona.secret|Kastona.secret]] 

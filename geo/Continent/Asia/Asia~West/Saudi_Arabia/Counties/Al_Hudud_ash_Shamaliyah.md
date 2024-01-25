@@ -41,9 +41,9 @@ markerFolder: ./Al_Hudud_ash_Shamaliyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.md|Al_Hudud_ash_Shamaliyah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.internal.md|Al_Hudud_ash_Shamaliyah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.protect.md|Al_Hudud_ash_Shamaliyah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.private.md|Al_Hudud_ash_Shamaliyah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.personal.md|Al_Hudud_ash_Shamaliyah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.secret.md|Al_Hudud_ash_Shamaliyah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.internal|Al_Hudud_ash_Shamaliyah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.protect|Al_Hudud_ash_Shamaliyah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.private|Al_Hudud_ash_Shamaliyah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.personal|Al_Hudud_ash_Shamaliyah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.secret|Al_Hudud_ash_Shamaliyah.secret]] 
 

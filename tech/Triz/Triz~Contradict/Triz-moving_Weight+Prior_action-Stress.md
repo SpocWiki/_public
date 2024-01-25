@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Prior_action-Stress]
 [SpocWebEntityId::22590]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.md|Triz-moving_Weight+Prior_action-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.internal.md|Triz-moving_Weight+Prior_action-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.protect.md|Triz-moving_Weight+Prior_action-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.private.md|Triz-moving_Weight+Prior_action-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.personal.md|Triz-moving_Weight+Prior_action-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.secret.md|Triz-moving_Weight+Prior_action-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.internal|Triz-moving_Weight+Prior_action-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.protect|Triz-moving_Weight+Prior_action-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.private|Triz-moving_Weight+Prior_action-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.personal|Triz-moving_Weight+Prior_action-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Stress.secret|Triz-moving_Weight+Prior_action-Stress.secret]] 

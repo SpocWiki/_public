@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Mediator.md|Triz-Mediator]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Mediator.internal.md|Triz-Mediator.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Mediator.protect.md|Triz-Mediator.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Mediator.private.md|Triz-Mediator.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Mediator.personal.md|Triz-Mediator.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Mediator.secret.md|Triz-Mediator.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Mediator.internal|Triz-Mediator.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Mediator.protect|Triz-Mediator.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Mediator.private|Triz-Mediator.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Mediator.personal|Triz-Mediator.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Mediator.secret|Triz-Mediator.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Inversion-Shape]
 [SpocWebEntityId::22934]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.md|Triz-stationary_Length+Inversion-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.internal.md|Triz-stationary_Length+Inversion-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.protect.md|Triz-stationary_Length+Inversion-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.private.md|Triz-stationary_Length+Inversion-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.personal.md|Triz-stationary_Length+Inversion-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.secret.md|Triz-stationary_Length+Inversion-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.internal|Triz-stationary_Length+Inversion-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.protect|Triz-stationary_Length+Inversion-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.private|Triz-stationary_Length+Inversion-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.personal|Triz-stationary_Length+Inversion-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.secret|Triz-stationary_Length+Inversion-Shape.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Balti.md|Balti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Balti.internal.md|Balti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Balti.protect.md|Balti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Balti.private.md|Balti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Balti.personal.md|Balti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Balti.secret.md|Balti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Balti.internal|Balti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Balti.protect|Balti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Balti.private|Balti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Balti.personal|Balti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Balti.secret|Balti.secret]] 

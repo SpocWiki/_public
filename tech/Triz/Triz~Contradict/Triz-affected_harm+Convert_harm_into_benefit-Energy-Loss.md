@@ -12,15 +12,15 @@ tags:
 ---
 [name::affected_harm+Convert_harm_into_benefit-Energy-Loss]
 [SpocWebEntityId::25658]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.md|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.internal.md|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.protect.md|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.private.md|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.personal.md|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.secret.md|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.internal|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.protect|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.private|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.personal|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.secret|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.secret]] 

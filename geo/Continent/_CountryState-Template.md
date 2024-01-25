@@ -27,8 +27,8 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/_CountryState-Template.md|_CountryState-Template]] 
-- [[../../../_internal/geo/Continent/_CountryState-Template.internal.md|_CountryState-Template.internal]] 
-- [[../../../_protect/geo/Continent/_CountryState-Template.protect.md|_CountryState-Template.protect]] 
-- [[../../../_private/geo/Continent/_CountryState-Template.private.md|_CountryState-Template.private]] 
-- [[../../../_personal/geo/Continent/_CountryState-Template.personal.md|_CountryState-Template.personal]] 
-- [[../../../_secret/geo/Continent/_CountryState-Template.secret.md|_CountryState-Template.secret]] 
+- [[../../../_internal/geo/Continent/_CountryState-Template.internal|_CountryState-Template.internal]] 
+- [[../../../_protect/geo/Continent/_CountryState-Template.protect|_CountryState-Template.protect]] 
+- [[../../../_private/geo/Continent/_CountryState-Template.private|_CountryState-Template.private]] 
+- [[../../../_personal/geo/Continent/_CountryState-Template.personal|_CountryState-Template.personal]] 
+- [[../../../_secret/geo/Continent/_CountryState-Template.secret|_CountryState-Template.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Krimuldas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Krimuldas.md|Krimuldas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Krimuldas.internal.md|Krimuldas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Krimuldas.protect.md|Krimuldas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Krimuldas.private.md|Krimuldas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Krimuldas.personal.md|Krimuldas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Krimuldas.secret.md|Krimuldas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Krimuldas.internal|Krimuldas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Krimuldas.protect|Krimuldas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Krimuldas.private|Krimuldas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Krimuldas.personal|Krimuldas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Krimuldas.secret|Krimuldas.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Replacement_of_a_mechanical_system-Speed]
 [SpocWebEntityId::24820]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.internal.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.protect.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.private.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.personal.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.secret.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.internal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.protect|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.private|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.personal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.secret|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Speed.secret]] 

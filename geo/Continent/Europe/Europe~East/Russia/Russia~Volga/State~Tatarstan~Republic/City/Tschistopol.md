@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschistopol.md|Tschistopol]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschistopol.internal.md|Tschistopol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschistopol.protect.md|Tschistopol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschistopol.private.md|Tschistopol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschistopol.personal.md|Tschistopol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschistopol.secret.md|Tschistopol.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschistopol.internal|Tschistopol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschistopol.protect|Tschistopol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschistopol.private|Tschistopol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschistopol.personal|Tschistopol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschistopol.secret|Tschistopol.secret]] 

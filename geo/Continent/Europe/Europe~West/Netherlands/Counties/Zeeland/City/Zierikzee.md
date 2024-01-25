@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zierikzee.md|Zierikzee]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zierikzee.internal.md|Zierikzee.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zierikzee.protect.md|Zierikzee.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zierikzee.private.md|Zierikzee.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zierikzee.personal.md|Zierikzee.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zierikzee.secret.md|Zierikzee.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zierikzee.internal|Zierikzee.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zierikzee.protect|Zierikzee.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zierikzee.private|Zierikzee.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zierikzee.personal|Zierikzee.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zierikzee.secret|Zierikzee.secret]] 

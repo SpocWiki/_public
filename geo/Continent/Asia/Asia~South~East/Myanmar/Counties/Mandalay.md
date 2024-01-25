@@ -41,9 +41,9 @@ markerFolder: ./Mandalay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.md|Mandalay]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.internal.md|Mandalay.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.protect.md|Mandalay.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.private.md|Mandalay.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.personal.md|Mandalay.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.secret.md|Mandalay.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.internal|Mandalay.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.protect|Mandalay.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.private|Mandalay.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.personal|Mandalay.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.secret|Mandalay.secret]] 
 

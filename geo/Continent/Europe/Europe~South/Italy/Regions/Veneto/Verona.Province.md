@@ -41,9 +41,9 @@ markerFolder: ./Verona.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.md|Verona.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.internal.md|Verona.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.protect.md|Verona.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.private.md|Verona.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.personal.md|Verona.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.secret.md|Verona.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.internal|Verona.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.protect|Verona.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.private|Verona.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.personal|Verona.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Verona.Province.secret|Verona.Province.secret]] 
 

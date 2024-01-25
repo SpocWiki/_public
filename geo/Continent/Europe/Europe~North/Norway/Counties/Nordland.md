@@ -41,9 +41,9 @@ markerFolder: ./Nordland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Nordland.md|Nordland]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Nordland.internal.md|Nordland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Nordland.protect.md|Nordland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Nordland.private.md|Nordland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Nordland.personal.md|Nordland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Nordland.secret.md|Nordland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Nordland.internal|Nordland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Nordland.protect|Nordland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Nordland.private|Nordland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Nordland.personal|Nordland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Nordland.secret|Nordland.secret]] 
 

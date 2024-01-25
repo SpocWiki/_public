@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mohilef.md|Mohilef]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mohilef.internal.md|Mohilef.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mohilef.protect.md|Mohilef.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mohilef.private.md|Mohilef.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mohilef.personal.md|Mohilef.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mohilef.secret.md|Mohilef.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mohilef.internal|Mohilef.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mohilef.protect|Mohilef.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mohilef.private|Mohilef.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mohilef.personal|Mohilef.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mohilef.secret|Mohilef.secret]] 

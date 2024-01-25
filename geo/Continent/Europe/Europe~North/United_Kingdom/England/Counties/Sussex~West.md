@@ -41,9 +41,9 @@ markerFolder: ./Sussex~West/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.md|Sussex~West]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.internal.md|Sussex~West.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.protect.md|Sussex~West.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.private.md|Sussex~West.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.personal.md|Sussex~West.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.secret.md|Sussex~West.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.internal|Sussex~West.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.protect|Sussex~West.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.private|Sussex~West.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.personal|Sussex~West.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sussex~West.secret|Sussex~West.secret]] 
 

@@ -25,8 +25,8 @@ To move an object in two- or three-dimensional space.
 `$=dv.current().has_examples`
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-move-in-space.md|Triz-move-in-space]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-move-in-space.internal.md|Triz-move-in-space.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-move-in-space.protect.md|Triz-move-in-space.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-move-in-space.private.md|Triz-move-in-space.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-move-in-space.personal.md|Triz-move-in-space.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-move-in-space.secret.md|Triz-move-in-space.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-move-in-space.internal|Triz-move-in-space.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-move-in-space.protect|Triz-move-in-space.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-move-in-space.private|Triz-move-in-space.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-move-in-space.personal|Triz-move-in-space.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-move-in-space.secret|Triz-move-in-space.secret]] 

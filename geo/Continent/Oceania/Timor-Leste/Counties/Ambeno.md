@@ -41,9 +41,9 @@ markerFolder: ./Ambeno/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.md|Ambeno]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.internal.md|Ambeno.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.protect.md|Ambeno.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.private.md|Ambeno.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.personal.md|Ambeno.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.secret.md|Ambeno.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.internal|Ambeno.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.protect|Ambeno.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.private|Ambeno.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.personal|Ambeno.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Ambeno.secret|Ambeno.secret]] 
 

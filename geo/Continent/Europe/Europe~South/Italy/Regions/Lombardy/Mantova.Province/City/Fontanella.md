@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Fontanella.md|Fontanella]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Fontanella.internal.md|Fontanella.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Fontanella.protect.md|Fontanella.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Fontanella.private.md|Fontanella.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Fontanella.personal.md|Fontanella.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Fontanella.secret.md|Fontanella.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Fontanella.internal|Fontanella.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Fontanella.protect|Fontanella.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Fontanella.private|Fontanella.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Fontanella.personal|Fontanella.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Fontanella.secret|Fontanella.secret]] 

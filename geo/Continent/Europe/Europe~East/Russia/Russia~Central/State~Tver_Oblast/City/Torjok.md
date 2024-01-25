@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Torjok.md|Torjok]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Torjok.internal.md|Torjok.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Torjok.protect.md|Torjok.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Torjok.private.md|Torjok.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Torjok.personal.md|Torjok.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Torjok.secret.md|Torjok.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Torjok.internal|Torjok.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Torjok.protect|Torjok.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Torjok.private|Torjok.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Torjok.personal|Torjok.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Torjok.secret|Torjok.secret]] 

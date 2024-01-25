@@ -125,8 +125,8 @@ markerFolder: ./Jersey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Jersey.md|Jersey]] 
-- [[../../../../_internal/geo/Continent/Europe/Jersey.internal.md|Jersey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Jersey.protect.md|Jersey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Jersey.private.md|Jersey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Jersey.personal.md|Jersey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Jersey.secret.md|Jersey.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Jersey.internal|Jersey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Jersey.protect|Jersey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Jersey.private|Jersey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Jersey.personal|Jersey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Jersey.secret|Jersey.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Central_Bosnia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.md|Central_Bosnia]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.internal.md|Central_Bosnia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.protect.md|Central_Bosnia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.private.md|Central_Bosnia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.personal.md|Central_Bosnia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.secret.md|Central_Bosnia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.internal|Central_Bosnia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.protect|Central_Bosnia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.private|Central_Bosnia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.personal|Central_Bosnia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Central_Bosnia.secret|Central_Bosnia.secret]] 
 

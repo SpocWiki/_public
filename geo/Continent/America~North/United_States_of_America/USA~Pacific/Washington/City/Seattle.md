@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.md|Seattle]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.internal.md|Seattle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.protect.md|Seattle.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.private.md|Seattle.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.personal.md|Seattle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.secret.md|Seattle.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.internal|Seattle.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.protect|Seattle.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.private|Seattle.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.personal|Seattle.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington/City/Seattle.secret|Seattle.secret]] 

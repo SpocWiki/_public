@@ -41,9 +41,9 @@ markerFolder: ./Wake_Atoll/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.md|Wake_Atoll]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.internal.md|Wake_Atoll.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.protect.md|Wake_Atoll.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.private.md|Wake_Atoll.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.personal.md|Wake_Atoll.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.secret.md|Wake_Atoll.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.internal|Wake_Atoll.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.protect|Wake_Atoll.protect]] 
+- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.private|Wake_Atoll.private]] 
+- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.personal|Wake_Atoll.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.secret|Wake_Atoll.secret]] 
 

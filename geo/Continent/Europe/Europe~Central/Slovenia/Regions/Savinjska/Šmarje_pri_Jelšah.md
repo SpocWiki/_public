@@ -41,9 +41,9 @@ markerFolder: ./Šmarje_pri_Jelšah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.md|Šmarje_pri_Jelšah]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.internal.md|Šmarje_pri_Jelšah.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.protect.md|Šmarje_pri_Jelšah.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.private.md|Šmarje_pri_Jelšah.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.personal.md|Šmarje_pri_Jelšah.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.secret.md|Šmarje_pri_Jelšah.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.internal|Šmarje_pri_Jelšah.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.protect|Šmarje_pri_Jelšah.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.private|Šmarje_pri_Jelšah.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.personal|Šmarje_pri_Jelšah.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmarje_pri_Jelšah.secret|Šmarje_pri_Jelšah.secret]] 
 

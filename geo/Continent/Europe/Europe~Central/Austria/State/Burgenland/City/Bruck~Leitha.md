@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bruck~Leitha.md|Bruck~Leitha]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bruck~Leitha.internal.md|Bruck~Leitha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bruck~Leitha.protect.md|Bruck~Leitha.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bruck~Leitha.private.md|Bruck~Leitha.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bruck~Leitha.personal.md|Bruck~Leitha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bruck~Leitha.secret.md|Bruck~Leitha.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bruck~Leitha.internal|Bruck~Leitha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bruck~Leitha.protect|Bruck~Leitha.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bruck~Leitha.private|Bruck~Leitha.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bruck~Leitha.personal|Bruck~Leitha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bruck~Leitha.secret|Bruck~Leitha.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Makamba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Makamba.md|Makamba]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Makamba.internal.md|Makamba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Makamba.protect.md|Makamba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Makamba.private.md|Makamba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Makamba.personal.md|Makamba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Makamba.secret.md|Makamba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Makamba.internal|Makamba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Makamba.protect|Makamba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Makamba.private|Makamba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Makamba.personal|Makamba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Makamba.secret|Makamba.secret]] 
 

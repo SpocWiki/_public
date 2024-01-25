@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Segmentation-Manufacturing_Precision]
 [SpocWebEntityId::26039]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.md|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.internal.md|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.protect.md|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.private.md|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.personal.md|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.secret.md|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.internal|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.protect|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.private|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.personal|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.secret|Triz-Ease_of_operation+Segmentation-Manufacturing_Precision.secret]] 

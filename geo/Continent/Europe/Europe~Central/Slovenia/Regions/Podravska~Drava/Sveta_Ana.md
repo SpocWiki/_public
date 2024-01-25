@@ -41,9 +41,9 @@ markerFolder: ./Sveta_Ana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.md|Sveta_Ana]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.internal.md|Sveta_Ana.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.protect.md|Sveta_Ana.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.private.md|Sveta_Ana.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.personal.md|Sveta_Ana.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.secret.md|Sveta_Ana.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.internal|Sveta_Ana.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.protect|Sveta_Ana.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.private|Sveta_Ana.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.personal|Sveta_Ana.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Sveta_Ana.secret|Sveta_Ana.secret]] 
 

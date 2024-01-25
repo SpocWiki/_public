@@ -141,7 +141,7 @@ markerFolder: ./Ethiopia//
 ## Confidential Links & Embeds: 
 - [[Ethiopia|Ethiopia]] 
 - [[../../../../../_internal/geo/Continent/Africa/Ethiopia.internal|Ethiopia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia.protect.md|Ethiopia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia.private.md|Ethiopia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia.personal.md|Ethiopia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia.secret.md|Ethiopia.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia.protect|Ethiopia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia.private|Ethiopia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia.personal|Ethiopia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia.secret|Ethiopia.secret]] 

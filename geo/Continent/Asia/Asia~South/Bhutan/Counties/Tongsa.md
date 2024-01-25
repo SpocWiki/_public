@@ -41,9 +41,9 @@ markerFolder: ./Tongsa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.md|Tongsa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.internal.md|Tongsa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.protect.md|Tongsa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.private.md|Tongsa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.personal.md|Tongsa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.secret.md|Tongsa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.internal|Tongsa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.protect|Tongsa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.private|Tongsa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.personal|Tongsa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.secret|Tongsa.secret]] 
 

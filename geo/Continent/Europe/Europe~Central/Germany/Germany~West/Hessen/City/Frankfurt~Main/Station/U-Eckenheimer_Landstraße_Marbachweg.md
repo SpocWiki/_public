@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[U-Eckenheimer_Landstraße_Marbachweg|U-Eckenheimer_Landstraße_Marbachweg]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.internal.md|U-Eckenheimer_Landstraße_Marbachweg.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.protect.md|U-Eckenheimer_Landstraße_Marbachweg.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.private.md|U-Eckenheimer_Landstraße_Marbachweg.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.personal.md|U-Eckenheimer_Landstraße_Marbachweg.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.secret.md|U-Eckenheimer_Landstraße_Marbachweg.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.internal|U-Eckenheimer_Landstraße_Marbachweg.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.protect|U-Eckenheimer_Landstraße_Marbachweg.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.private|U-Eckenheimer_Landstraße_Marbachweg.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.personal|U-Eckenheimer_Landstraße_Marbachweg.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eckenheimer_Landstraße_Marbachweg.secret|U-Eckenheimer_Landstraße_Marbachweg.secret]] 

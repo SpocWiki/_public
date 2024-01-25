@@ -62,9 +62,9 @@ as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 
 ## Confidential Links & Embeds: 
 - [[../../_public/chemic/Elements.md|Elements]] 
-- [[../../_internal/chemic/Elements.internal.md|Elements.internal]] 
-- [[../../_protect/chemic/Elements.protect.md|Elements.protect]] 
-- [[../../_private/chemic/Elements.private.md|Elements.private]] 
-- [[../../_personal/chemic/Elements.personal.md|Elements.personal]] 
-- [[../../_secret/chemic/Elements.secret.md|Elements.secret]]
+- [[../../_internal/chemic/Elements.internal|Elements.internal]] 
+- [[../../_protect/chemic/Elements.protect|Elements.protect]] 
+- [[../../_private/chemic/Elements.private|Elements.private]] 
+- [[../../_personal/chemic/Elements.personal|Elements.personal]] 
+- [[../../_secret/chemic/Elements.secret|Elements.secret]]
 

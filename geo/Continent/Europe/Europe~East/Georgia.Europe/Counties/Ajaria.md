@@ -41,9 +41,9 @@ markerFolder: ./Ajaria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.md|Ajaria]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.internal.md|Ajaria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.protect.md|Ajaria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.private.md|Ajaria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.personal.md|Ajaria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.secret.md|Ajaria.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.internal|Ajaria.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.protect|Ajaria.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.private|Ajaria.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.personal|Ajaria.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Ajaria.secret|Ajaria.secret]] 
 

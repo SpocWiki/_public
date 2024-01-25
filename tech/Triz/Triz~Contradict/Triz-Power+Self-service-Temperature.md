@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Self-service-Temperature]
 [SpocWebEntityId::24634]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.md|Triz-Power+Self-service-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.internal.md|Triz-Power+Self-service-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.protect.md|Triz-Power+Self-service-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.private.md|Triz-Power+Self-service-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.personal.md|Triz-Power+Self-service-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.secret.md|Triz-Power+Self-service-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.internal|Triz-Power+Self-service-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.protect|Triz-Power+Self-service-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.private|Triz-Power+Self-service-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.personal|Triz-Power+Self-service-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.secret|Triz-Power+Self-service-Temperature.secret]] 

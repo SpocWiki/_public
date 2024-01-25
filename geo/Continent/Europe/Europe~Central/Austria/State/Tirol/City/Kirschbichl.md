@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kirschbichl.md|Kirschbichl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kirschbichl.internal.md|Kirschbichl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kirschbichl.protect.md|Kirschbichl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kirschbichl.private.md|Kirschbichl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kirschbichl.personal.md|Kirschbichl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kirschbichl.secret.md|Kirschbichl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kirschbichl.internal|Kirschbichl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kirschbichl.protect|Kirschbichl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kirschbichl.private|Kirschbichl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kirschbichl.personal|Kirschbichl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kirschbichl.secret|Kirschbichl.secret]] 

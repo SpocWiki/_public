@@ -41,9 +41,9 @@ markerFolder: ./Dunbartonshire~East/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.md|Dunbartonshire~East]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.internal.md|Dunbartonshire~East.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.protect.md|Dunbartonshire~East.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.private.md|Dunbartonshire~East.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.personal.md|Dunbartonshire~East.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.secret.md|Dunbartonshire~East.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.internal|Dunbartonshire~East.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.protect|Dunbartonshire~East.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.private|Dunbartonshire~East.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.personal|Dunbartonshire~East.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~East.secret|Dunbartonshire~East.secret]] 
 

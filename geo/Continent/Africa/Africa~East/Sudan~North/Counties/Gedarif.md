@@ -41,9 +41,9 @@ markerFolder: ./Gedarif/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Gedarif.md|Gedarif]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Gedarif.internal.md|Gedarif.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Gedarif.protect.md|Gedarif.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Gedarif.private.md|Gedarif.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Gedarif.personal.md|Gedarif.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Gedarif.secret.md|Gedarif.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Gedarif.internal|Gedarif.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Gedarif.protect|Gedarif.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Gedarif.private|Gedarif.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Gedarif.personal|Gedarif.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Gedarif.secret|Gedarif.secret]] 
 

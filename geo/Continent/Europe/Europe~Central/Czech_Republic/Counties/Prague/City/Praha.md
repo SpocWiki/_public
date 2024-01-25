@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Praha.md|Praha]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Praha.internal.md|Praha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Praha.protect.md|Praha.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Praha.private.md|Praha.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Praha.personal.md|Praha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Praha.secret.md|Praha.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Praha.internal|Praha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Praha.protect|Praha.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Praha.private|Praha.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Praha.personal|Praha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Praha.secret|Praha.secret]] 

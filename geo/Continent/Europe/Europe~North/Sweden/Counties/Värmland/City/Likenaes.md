@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Likenaes.md|Likenaes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Likenaes.internal.md|Likenaes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Likenaes.protect.md|Likenaes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Likenaes.private.md|Likenaes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Likenaes.personal.md|Likenaes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Likenaes.secret.md|Likenaes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Likenaes.internal|Likenaes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Likenaes.protect|Likenaes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Likenaes.private|Likenaes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Likenaes.personal|Likenaes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Likenaes.secret|Likenaes.secret]] 

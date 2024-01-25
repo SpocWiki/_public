@@ -41,9 +41,9 @@ markerFolder: ./Iasi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Iasi.md|Iasi]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Iasi.internal.md|Iasi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Iasi.protect.md|Iasi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Iasi.private.md|Iasi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Iasi.personal.md|Iasi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Iasi.secret.md|Iasi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Iasi.internal|Iasi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Iasi.protect|Iasi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Iasi.private|Iasi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Iasi.personal|Iasi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Iasi.secret|Iasi.secret]] 
 

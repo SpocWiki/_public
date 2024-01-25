@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Rejecting_and_regenerating_parts-Quantity]
 [SpocWebEntityId::24499]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.md|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.internal.md|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.protect.md|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.private.md|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.personal.md|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.secret.md|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.internal|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.protect|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.private|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.personal|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.secret|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Maritime/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Togo/Counties/Maritime.md|Maritime]] 
-- [[../../../../_internal/geo/Continent/Africa/Togo/Counties/Maritime.internal.md|Maritime.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Togo/Counties/Maritime.protect.md|Maritime.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Togo/Counties/Maritime.private.md|Maritime.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Togo/Counties/Maritime.personal.md|Maritime.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Togo/Counties/Maritime.secret.md|Maritime.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Togo/Counties/Maritime.internal|Maritime.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Togo/Counties/Maritime.protect|Maritime.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Togo/Counties/Maritime.private|Maritime.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Togo/Counties/Maritime.personal|Maritime.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Togo/Counties/Maritime.secret|Maritime.secret]] 
 

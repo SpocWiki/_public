@@ -36,8 +36,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Maine.md|Maine]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maine.internal.md|Maine.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maine.protect.md|Maine.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Maine.private.md|Maine.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maine.personal.md|Maine.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maine.secret.md|Maine.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maine.internal|Maine.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maine.protect|Maine.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Maine.private|Maine.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maine.personal|Maine.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maine.secret|Maine.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Sai_Kung/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.md|Sai_Kung]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.internal.md|Sai_Kung.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.protect.md|Sai_Kung.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.private.md|Sai_Kung.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.personal.md|Sai_Kung.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.secret.md|Sai_Kung.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.internal|Sai_Kung.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.protect|Sai_Kung.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.private|Sai_Kung.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.personal|Sai_Kung.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.secret|Sai_Kung.secret]] 
 

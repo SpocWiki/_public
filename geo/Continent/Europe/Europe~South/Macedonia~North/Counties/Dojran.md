@@ -41,9 +41,9 @@ markerFolder: ./Dojran/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Dojran.md|Dojran]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Dojran.internal.md|Dojran.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Dojran.protect.md|Dojran.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Dojran.private.md|Dojran.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Dojran.personal.md|Dojran.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Dojran.secret.md|Dojran.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Dojran.internal|Dojran.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Dojran.protect|Dojran.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Dojran.private|Dojran.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Dojran.personal|Dojran.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Dojran.secret|Dojran.secret]] 
 

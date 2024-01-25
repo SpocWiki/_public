@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::24192]
-+ [pro::[[Triz-stationary_Duration]]]
++ [#has_/Pros :: [[Triz-stationary_Duration]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.md|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.internal.md|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.protect.md|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.private.md|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.personal.md|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.secret.md|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.internal|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.protect|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.private|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.personal|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.secret|Triz-stationary_Duration+Replacement_of_a_mechanical_system-Time-Loss.secret]] 

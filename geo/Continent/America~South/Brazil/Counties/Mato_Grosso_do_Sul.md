@@ -41,9 +41,9 @@ markerFolder: ./Mato_Grosso_do_Sul/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.md|Mato_Grosso_do_Sul]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.internal.md|Mato_Grosso_do_Sul.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.protect.md|Mato_Grosso_do_Sul.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.private.md|Mato_Grosso_do_Sul.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.personal.md|Mato_Grosso_do_Sul.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.secret.md|Mato_Grosso_do_Sul.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.internal|Mato_Grosso_do_Sul.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.protect|Mato_Grosso_do_Sul.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.private|Mato_Grosso_do_Sul.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.personal|Mato_Grosso_do_Sul.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Mato_Grosso_do_Sul.secret|Mato_Grosso_do_Sul.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Madhya_Pradesh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.md|Madhya_Pradesh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.internal.md|Madhya_Pradesh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.protect.md|Madhya_Pradesh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.private.md|Madhya_Pradesh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.personal.md|Madhya_Pradesh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.secret.md|Madhya_Pradesh.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.internal|Madhya_Pradesh.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.protect|Madhya_Pradesh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.private|Madhya_Pradesh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.personal|Madhya_Pradesh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.secret|Madhya_Pradesh.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Chieti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.md|Chieti]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.internal.md|Chieti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.protect.md|Chieti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.private.md|Chieti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.personal.md|Chieti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.secret.md|Chieti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.internal|Chieti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.protect|Chieti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.private|Chieti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.personal|Chieti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Abruzzo/Chieti.secret|Chieti.secret]] 
 

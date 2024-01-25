@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Padura.md|Padura]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Padura.internal.md|Padura.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Padura.protect.md|Padura.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Padura.private.md|Padura.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Padura.personal.md|Padura.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Padura.secret.md|Padura.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Padura.internal|Padura.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Padura.protect|Padura.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Padura.private|Padura.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Padura.personal|Padura.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Padura.secret|Padura.secret]] 

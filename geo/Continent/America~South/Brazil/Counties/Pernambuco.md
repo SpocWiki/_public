@@ -41,9 +41,9 @@ markerFolder: ./Pernambuco/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Pernambuco.md|Pernambuco]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Pernambuco.internal.md|Pernambuco.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Pernambuco.protect.md|Pernambuco.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Pernambuco.private.md|Pernambuco.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Pernambuco.personal.md|Pernambuco.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Pernambuco.secret.md|Pernambuco.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Pernambuco.internal|Pernambuco.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Pernambuco.protect|Pernambuco.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Pernambuco.private|Pernambuco.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Pernambuco.personal|Pernambuco.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Pernambuco.secret|Pernambuco.secret]] 
 

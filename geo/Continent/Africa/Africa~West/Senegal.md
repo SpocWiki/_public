@@ -139,7 +139,7 @@ markerFolder: ./Senegal//
 ## Confidential Links & Embeds: 
 - [[Senegal|Senegal]] 
 - [[../../../../../_internal/geo/Continent/Africa/Senegal.internal|Senegal.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal.protect.md|Senegal.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal.private.md|Senegal.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal.personal.md|Senegal.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal.secret.md|Senegal.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal.protect|Senegal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal.private|Senegal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal.personal|Senegal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal.secret|Senegal.secret]] 

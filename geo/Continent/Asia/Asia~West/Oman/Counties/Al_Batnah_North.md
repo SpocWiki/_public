@@ -41,9 +41,9 @@ markerFolder: ./Al_Batnah_North/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.md|Al_Batnah_North]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.internal.md|Al_Batnah_North.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.protect.md|Al_Batnah_North.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.private.md|Al_Batnah_North.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.personal.md|Al_Batnah_North.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.secret.md|Al_Batnah_North.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.internal|Al_Batnah_North.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.protect|Al_Batnah_North.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.private|Al_Batnah_North.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.personal|Al_Batnah_North.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.secret|Al_Batnah_North.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Yrieix.md|St.Yrieix]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Yrieix.internal.md|St.Yrieix.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Yrieix.protect.md|St.Yrieix.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Yrieix.private.md|St.Yrieix.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Yrieix.personal.md|St.Yrieix.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Yrieix.secret.md|St.Yrieix.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Yrieix.internal|St.Yrieix.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Yrieix.protect|St.Yrieix.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Yrieix.private|St.Yrieix.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Yrieix.personal|St.Yrieix.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Yrieix.secret|St.Yrieix.secret]] 

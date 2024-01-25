@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.md|Roudnice=Raudnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.internal.md|Roudnice=Raudnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.protect.md|Roudnice=Raudnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.private.md|Roudnice=Raudnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.personal.md|Roudnice=Raudnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.secret.md|Roudnice=Raudnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.internal|Roudnice=Raudnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.protect|Roudnice=Raudnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.private|Roudnice=Raudnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.personal|Roudnice=Raudnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.secret|Roudnice=Raudnitz.secret]] 

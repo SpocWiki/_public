@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Ujpest.md|Ujpest]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Ujpest.internal.md|Ujpest.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Ujpest.protect.md|Ujpest.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Ujpest.private.md|Ujpest.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Ujpest.personal.md|Ujpest.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Ujpest.secret.md|Ujpest.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Ujpest.internal|Ujpest.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Ujpest.protect|Ujpest.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Ujpest.private|Ujpest.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Ujpest.personal|Ujpest.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Ujpest.secret|Ujpest.secret]] 

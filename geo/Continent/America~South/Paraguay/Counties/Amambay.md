@@ -41,9 +41,9 @@ markerFolder: ./Amambay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Amambay.md|Amambay]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Amambay.internal.md|Amambay.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Amambay.protect.md|Amambay.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Amambay.private.md|Amambay.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Amambay.personal.md|Amambay.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Amambay.secret.md|Amambay.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Amambay.internal|Amambay.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Amambay.protect|Amambay.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Amambay.private|Amambay.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Amambay.personal|Amambay.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Amambay.secret|Amambay.secret]] 
 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Merak.md|Merak]] 
-- [[../../../_internal/astro/Star/Merak.internal.md|Merak.internal]] 
-- [[../../../_protect/astro/Star/Merak.protect.md|Merak.protect]] 
-- [[../../../_private/astro/Star/Merak.private.md|Merak.private]] 
-- [[../../../_personal/astro/Star/Merak.personal.md|Merak.personal]] 
-- [[../../../_secret/astro/Star/Merak.secret.md|Merak.secret]] 
+- [[../../../_internal/astro/Star/Merak.internal|Merak.internal]] 
+- [[../../../_protect/astro/Star/Merak.protect|Merak.protect]] 
+- [[../../../_private/astro/Star/Merak.private|Merak.private]] 
+- [[../../../_personal/astro/Star/Merak.personal|Merak.personal]] 
+- [[../../../_secret/astro/Star/Merak.secret|Merak.secret]] 

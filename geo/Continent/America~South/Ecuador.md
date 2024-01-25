@@ -135,8 +135,8 @@ markerFolder: ./Ecuador/
 
 ## Confidential Links & Embeds: 
 - [[Ecuador|Ecuador]] 
-- [[../../../../_internal/geo/Continent/South-America/Ecuador.internal.md|Ecuador.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Ecuador.protect.md|Ecuador.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Ecuador.private.md|Ecuador.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Ecuador.personal.md|Ecuador.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Ecuador.secret.md|Ecuador.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Ecuador.internal|Ecuador.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Ecuador.protect|Ecuador.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Ecuador.private|Ecuador.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Ecuador.personal|Ecuador.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Ecuador.secret|Ecuador.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.md|Tallahassee]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.internal.md|Tallahassee.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.protect.md|Tallahassee.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.private.md|Tallahassee.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.personal.md|Tallahassee.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.secret.md|Tallahassee.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.internal|Tallahassee.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.protect|Tallahassee.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.private|Tallahassee.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.personal|Tallahassee.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.secret|Tallahassee.secret]] 

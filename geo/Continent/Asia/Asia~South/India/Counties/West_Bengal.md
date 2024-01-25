@@ -41,9 +41,9 @@ markerFolder: ./West_Bengal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.md|West_Bengal]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.internal.md|West_Bengal.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.protect.md|West_Bengal.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.private.md|West_Bengal.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.personal.md|West_Bengal.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.secret.md|West_Bengal.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.internal|West_Bengal.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.protect|West_Bengal.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.private|West_Bengal.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.personal|West_Bengal.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/West_Bengal.secret|West_Bengal.secret]] 
 

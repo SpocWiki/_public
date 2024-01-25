@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Copying-stationary_Duration]
 [SpocWebEntityId::25407]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.md|Triz-Measurement_Accuracy+Copying-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.internal.md|Triz-Measurement_Accuracy+Copying-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.protect.md|Triz-Measurement_Accuracy+Copying-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.private.md|Triz-Measurement_Accuracy+Copying-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.personal.md|Triz-Measurement_Accuracy+Copying-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.secret.md|Triz-Measurement_Accuracy+Copying-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.internal|Triz-Measurement_Accuracy+Copying-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.protect|Triz-Measurement_Accuracy+Copying-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.private|Triz-Measurement_Accuracy+Copying-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.personal|Triz-Measurement_Accuracy+Copying-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Duration.secret|Triz-Measurement_Accuracy+Copying-stationary_Duration.secret]] 

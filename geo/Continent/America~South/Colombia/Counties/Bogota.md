@@ -41,9 +41,9 @@ markerFolder: ./Bogota/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Bogota.md|Bogota]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Bogota.internal.md|Bogota.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Bogota.protect.md|Bogota.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Bogota.private.md|Bogota.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Bogota.personal.md|Bogota.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Bogota.secret.md|Bogota.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Bogota.internal|Bogota.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Bogota.protect|Bogota.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Bogota.private|Bogota.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Bogota.personal|Bogota.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Bogota.secret|Bogota.secret]] 
 

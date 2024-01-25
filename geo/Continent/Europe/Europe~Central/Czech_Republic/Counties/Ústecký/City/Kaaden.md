@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kaaden.md|Kaaden]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kaaden.internal.md|Kaaden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kaaden.protect.md|Kaaden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kaaden.private.md|Kaaden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kaaden.personal.md|Kaaden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kaaden.secret.md|Kaaden.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kaaden.internal|Kaaden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kaaden.protect|Kaaden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kaaden.private|Kaaden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kaaden.personal|Kaaden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kaaden.secret|Kaaden.secret]] 

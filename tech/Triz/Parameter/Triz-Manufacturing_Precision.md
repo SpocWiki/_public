@@ -18,8 +18,8 @@ Manufacturing precision
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Manufacturing_Precision.md|Triz-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-Manufacturing_Precision.internal.md|Triz-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-Manufacturing_Precision.protect.md|Triz-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-Manufacturing_Precision.private.md|Triz-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-Manufacturing_Precision.personal.md|Triz-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-Manufacturing_Precision.secret.md|Triz-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Manufacturing_Precision.internal|Triz-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Manufacturing_Precision.protect|Triz-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Manufacturing_Precision.private|Triz-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Manufacturing_Precision.personal|Triz-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Manufacturing_Precision.secret|Triz-Manufacturing_Precision.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Rize/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Rize.md|Rize]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Rize.internal.md|Rize.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Rize.protect.md|Rize.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Rize.private.md|Rize.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Rize.personal.md|Rize.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Rize.secret.md|Rize.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Rize.internal|Rize.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Rize.protect|Rize.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Rize.private|Rize.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Rize.personal|Rize.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Rize.secret|Rize.secret]] 
 

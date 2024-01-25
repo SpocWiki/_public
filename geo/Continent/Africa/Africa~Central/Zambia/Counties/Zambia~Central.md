@@ -41,9 +41,9 @@ markerFolder: ./Zambia~Central/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Zambia/Counties/Zambia~Central.md|Zambia~Central]] 
-- [[../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~Central.internal.md|Zambia~Central.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~Central.protect.md|Zambia~Central.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~Central.private.md|Zambia~Central.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~Central.personal.md|Zambia~Central.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~Central.secret.md|Zambia~Central.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~Central.internal|Zambia~Central.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~Central.protect|Zambia~Central.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~Central.private|Zambia~Central.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~Central.personal|Zambia~Central.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~Central.secret|Zambia~Central.secret]] 
 

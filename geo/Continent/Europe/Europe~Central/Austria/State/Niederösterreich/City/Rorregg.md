@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Rorregg.md|Rorregg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Rorregg.internal.md|Rorregg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Rorregg.protect.md|Rorregg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Rorregg.private.md|Rorregg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Rorregg.personal.md|Rorregg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Rorregg.secret.md|Rorregg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Rorregg.internal|Rorregg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Rorregg.protect|Rorregg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Rorregg.private|Rorregg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Rorregg.personal|Rorregg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Rorregg.secret|Rorregg.secret]] 

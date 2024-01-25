@@ -18,8 +18,8 @@ Masking Anything before harmful Exposure: Use a Lead Apron on Parts of the Body 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Mask-Harm.md|Triz-Mask-Harm]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Mask-Harm.internal.md|Triz-Mask-Harm.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Mask-Harm.protect.md|Triz-Mask-Harm.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Mask-Harm.private.md|Triz-Mask-Harm.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Mask-Harm.personal.md|Triz-Mask-Harm.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Mask-Harm.secret.md|Triz-Mask-Harm.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Mask-Harm.internal|Triz-Mask-Harm.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Mask-Harm.protect|Triz-Mask-Harm.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Mask-Harm.private|Triz-Mask-Harm.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Mask-Harm.personal|Triz-Mask-Harm.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Mask-Harm.secret|Triz-Mask-Harm.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kankaapaeae.md|Kankaapaeae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kankaapaeae.internal.md|Kankaapaeae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kankaapaeae.protect.md|Kankaapaeae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kankaapaeae.private.md|Kankaapaeae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kankaapaeae.personal.md|Kankaapaeae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kankaapaeae.secret.md|Kankaapaeae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kankaapaeae.internal|Kankaapaeae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kankaapaeae.protect|Kankaapaeae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kankaapaeae.private|Kankaapaeae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kankaapaeae.personal|Kankaapaeae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kankaapaeae.secret|Kankaapaeae.secret]] 

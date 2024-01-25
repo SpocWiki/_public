@@ -135,8 +135,8 @@ markerFolder: ./Colombia/
 
 ## Confidential Links & Embeds: 
 - [[Colombia|Colombia]] 
-- [[../../../../_internal/geo/Continent/South-America/Colombia.internal.md|Colombia.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Colombia.protect.md|Colombia.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Colombia.private.md|Colombia.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Colombia.personal.md|Colombia.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Colombia.secret.md|Colombia.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Colombia.internal|Colombia.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Colombia.protect|Colombia.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Colombia.private|Colombia.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Colombia.personal|Colombia.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Colombia.secret|Colombia.secret]] 

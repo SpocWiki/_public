@@ -41,9 +41,9 @@ markerFolder: ./Dobrich/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Dobrich.md|Dobrich]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Dobrich.internal.md|Dobrich.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Dobrich.protect.md|Dobrich.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Dobrich.private.md|Dobrich.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Dobrich.personal.md|Dobrich.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Dobrich.secret.md|Dobrich.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Dobrich.internal|Dobrich.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Dobrich.protect|Dobrich.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Dobrich.private|Dobrich.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Dobrich.personal|Dobrich.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Dobrich.secret|Dobrich.secret]] 
 

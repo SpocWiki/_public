@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Pakistan/City/Karachi.md|Karachi]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Pakistan/City/Karachi.internal.md|Karachi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Pakistan/City/Karachi.protect.md|Karachi.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Pakistan/City/Karachi.private.md|Karachi.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Pakistan/City/Karachi.personal.md|Karachi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Pakistan/City/Karachi.secret.md|Karachi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Pakistan/City/Karachi.internal|Karachi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Pakistan/City/Karachi.protect|Karachi.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Pakistan/City/Karachi.private|Karachi.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Pakistan/City/Karachi.personal|Karachi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Pakistan/City/Karachi.secret|Karachi.secret]] 

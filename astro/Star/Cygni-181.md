@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Cygni-181.md|Cygni-181]] 
-- [[../../../_internal/astro/Star/Cygni-181.internal.md|Cygni-181.internal]] 
-- [[../../../_protect/astro/Star/Cygni-181.protect.md|Cygni-181.protect]] 
-- [[../../../_private/astro/Star/Cygni-181.private.md|Cygni-181.private]] 
-- [[../../../_personal/astro/Star/Cygni-181.personal.md|Cygni-181.personal]] 
-- [[../../../_secret/astro/Star/Cygni-181.secret.md|Cygni-181.secret]]
+- [[../../../_internal/astro/Star/Cygni-181.internal|Cygni-181.internal]] 
+- [[../../../_protect/astro/Star/Cygni-181.protect|Cygni-181.protect]] 
+- [[../../../_private/astro/Star/Cygni-181.private|Cygni-181.private]] 
+- [[../../../_personal/astro/Star/Cygni-181.personal|Cygni-181.personal]] 
+- [[../../../_secret/astro/Star/Cygni-181.secret|Cygni-181.secret]]
 

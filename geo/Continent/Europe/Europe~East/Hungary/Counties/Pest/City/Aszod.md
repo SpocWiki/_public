@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Aszod.md|Aszod]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Aszod.internal.md|Aszod.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Aszod.protect.md|Aszod.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Aszod.private.md|Aszod.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Aszod.personal.md|Aszod.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Aszod.secret.md|Aszod.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Aszod.internal|Aszod.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Aszod.protect|Aszod.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Aszod.private|Aszod.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Aszod.personal|Aszod.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Aszod.secret|Aszod.secret]] 

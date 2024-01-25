@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Abingdon.md|Abingdon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Abingdon.internal.md|Abingdon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Abingdon.protect.md|Abingdon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Abingdon.private.md|Abingdon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Abingdon.personal.md|Abingdon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Abingdon.secret.md|Abingdon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Abingdon.internal|Abingdon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Abingdon.protect|Abingdon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Abingdon.private|Abingdon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Abingdon.personal|Abingdon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Abingdon.secret|Abingdon.secret]] 

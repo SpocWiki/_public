@@ -41,9 +41,9 @@ markerFolder: ./Ouaka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.md|Ouaka]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.internal.md|Ouaka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.protect.md|Ouaka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.private.md|Ouaka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.personal.md|Ouaka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.secret.md|Ouaka.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.internal|Ouaka.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.protect|Ouaka.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.private|Ouaka.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.personal|Ouaka.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.secret|Ouaka.secret]] 
 

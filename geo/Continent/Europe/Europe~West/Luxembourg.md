@@ -133,8 +133,8 @@ markerFolder: ./Luxembourg//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Luxembourg.md|Luxembourg]] 
-- [[../../../../_internal/geo/Continent/Europe/Luxembourg.internal.md|Luxembourg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Luxembourg.protect.md|Luxembourg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Luxembourg.private.md|Luxembourg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Luxembourg.personal.md|Luxembourg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Luxembourg.secret.md|Luxembourg.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Luxembourg.internal|Luxembourg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Luxembourg.protect|Luxembourg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Luxembourg.private|Luxembourg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Luxembourg.personal|Luxembourg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Luxembourg.secret|Luxembourg.secret]] 

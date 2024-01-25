@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Palermo.md|Palermo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Palermo.internal.md|Palermo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Palermo.protect.md|Palermo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Palermo.private.md|Palermo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Palermo.personal.md|Palermo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Palermo.secret.md|Palermo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Palermo.internal|Palermo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Palermo.protect|Palermo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Palermo.private|Palermo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Palermo.personal|Palermo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Palermo.secret|Palermo.secret]] 

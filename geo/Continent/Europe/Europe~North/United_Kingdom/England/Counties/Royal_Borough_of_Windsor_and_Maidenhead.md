@@ -41,9 +41,9 @@ markerFolder: ./Royal_Borough_of_Windsor_and_Maidenhead/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.md|Royal_Borough_of_Windsor_and_Maidenhead]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.internal.md|Royal_Borough_of_Windsor_and_Maidenhead.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.protect.md|Royal_Borough_of_Windsor_and_Maidenhead.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.private.md|Royal_Borough_of_Windsor_and_Maidenhead.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.personal.md|Royal_Borough_of_Windsor_and_Maidenhead.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.secret.md|Royal_Borough_of_Windsor_and_Maidenhead.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.internal|Royal_Borough_of_Windsor_and_Maidenhead.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.protect|Royal_Borough_of_Windsor_and_Maidenhead.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.private|Royal_Borough_of_Windsor_and_Maidenhead.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.personal|Royal_Borough_of_Windsor_and_Maidenhead.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.secret|Royal_Borough_of_Windsor_and_Maidenhead.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Mġarr/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Mġarr.md|Mġarr]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mġarr.internal.md|Mġarr.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mġarr.protect.md|Mġarr.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mġarr.private.md|Mġarr.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mġarr.personal.md|Mġarr.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mġarr.secret.md|Mġarr.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mġarr.internal|Mġarr.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mġarr.protect|Mġarr.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mġarr.private|Mġarr.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mġarr.personal|Mġarr.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mġarr.secret|Mġarr.secret]] 
 

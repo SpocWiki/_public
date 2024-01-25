@@ -41,9 +41,9 @@ markerFolder: ./Kyoto/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.md|Kyoto]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.internal.md|Kyoto.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.protect.md|Kyoto.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.private.md|Kyoto.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.personal.md|Kyoto.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.secret.md|Kyoto.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.internal|Kyoto.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.protect|Kyoto.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.private|Kyoto.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.personal|Kyoto.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.secret|Kyoto.secret]] 
 

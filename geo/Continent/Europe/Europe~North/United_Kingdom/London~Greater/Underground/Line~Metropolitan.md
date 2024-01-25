@@ -89,8 +89,8 @@ FROM outgoing([[Line~Metropolitan]])
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.md|Line~Metropolitan]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.internal.md|Line~Metropolitan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.protect.md|Line~Metropolitan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.private.md|Line~Metropolitan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.personal.md|Line~Metropolitan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.secret.md|Line~Metropolitan.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.internal|Line~Metropolitan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.protect|Line~Metropolitan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.private|Line~Metropolitan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.personal|Line~Metropolitan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Metropolitan.secret|Line~Metropolitan.secret]] 

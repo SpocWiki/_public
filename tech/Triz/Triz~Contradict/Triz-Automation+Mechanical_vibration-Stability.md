@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Mechanical_vibration-Stability]
 [SpocWebEntityId::26563]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.md|Triz-Automation+Mechanical_vibration-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.internal.md|Triz-Automation+Mechanical_vibration-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.protect.md|Triz-Automation+Mechanical_vibration-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.private.md|Triz-Automation+Mechanical_vibration-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.personal.md|Triz-Automation+Mechanical_vibration-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.secret.md|Triz-Automation+Mechanical_vibration-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.internal|Triz-Automation+Mechanical_vibration-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.protect|Triz-Automation+Mechanical_vibration-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.private|Triz-Automation+Mechanical_vibration-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.personal|Triz-Automation+Mechanical_vibration-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Stability.secret|Triz-Automation+Mechanical_vibration-Stability.secret]] 

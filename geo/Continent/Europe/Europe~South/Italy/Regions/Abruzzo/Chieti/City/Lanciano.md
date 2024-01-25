@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lanciano.md|Lanciano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lanciano.internal.md|Lanciano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lanciano.protect.md|Lanciano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lanciano.private.md|Lanciano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lanciano.personal.md|Lanciano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lanciano.secret.md|Lanciano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lanciano.internal|Lanciano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lanciano.protect|Lanciano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lanciano.private|Lanciano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lanciano.personal|Lanciano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lanciano.secret|Lanciano.secret]] 

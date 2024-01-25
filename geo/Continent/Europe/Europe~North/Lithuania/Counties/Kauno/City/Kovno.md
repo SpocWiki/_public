@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kovno.md|Kovno]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kovno.internal.md|Kovno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kovno.protect.md|Kovno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kovno.private.md|Kovno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kovno.personal.md|Kovno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kovno.secret.md|Kovno.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kovno.internal|Kovno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kovno.protect|Kovno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kovno.private|Kovno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kovno.personal|Kovno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kovno.secret|Kovno.secret]] 

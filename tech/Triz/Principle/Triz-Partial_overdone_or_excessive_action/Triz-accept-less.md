@@ -29,8 +29,8 @@ If 100 percent of an object is hard to achieve using a given solution method the
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-accept-less.md|Triz-accept-less]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-accept-less.internal.md|Triz-accept-less.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-accept-less.protect.md|Triz-accept-less.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-accept-less.private.md|Triz-accept-less.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-accept-less.personal.md|Triz-accept-less.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-accept-less.secret.md|Triz-accept-less.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-accept-less.internal|Triz-accept-less.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-accept-less.protect|Triz-accept-less.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-accept-less.private|Triz-accept-less.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-accept-less.personal|Triz-accept-less.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-accept-less.secret|Triz-accept-less.secret]] 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Miaplacidus.md|Miaplacidus]] 
-- [[../../../_internal/astro/Star/Miaplacidus.internal.md|Miaplacidus.internal]] 
-- [[../../../_protect/astro/Star/Miaplacidus.protect.md|Miaplacidus.protect]] 
-- [[../../../_private/astro/Star/Miaplacidus.private.md|Miaplacidus.private]] 
-- [[../../../_personal/astro/Star/Miaplacidus.personal.md|Miaplacidus.personal]] 
-- [[../../../_secret/astro/Star/Miaplacidus.secret.md|Miaplacidus.secret]] 
+- [[../../../_internal/astro/Star/Miaplacidus.internal|Miaplacidus.internal]] 
+- [[../../../_protect/astro/Star/Miaplacidus.protect|Miaplacidus.protect]] 
+- [[../../../_private/astro/Star/Miaplacidus.private|Miaplacidus.private]] 
+- [[../../../_personal/astro/Star/Miaplacidus.personal|Miaplacidus.personal]] 
+- [[../../../_secret/astro/Star/Miaplacidus.secret|Miaplacidus.secret]] 

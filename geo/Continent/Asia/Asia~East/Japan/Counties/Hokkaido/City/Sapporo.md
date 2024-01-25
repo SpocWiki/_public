@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Japan/City/Sapporo.md|Sapporo]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Japan/City/Sapporo.internal.md|Sapporo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Japan/City/Sapporo.protect.md|Sapporo.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Japan/City/Sapporo.private.md|Sapporo.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Japan/City/Sapporo.personal.md|Sapporo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Japan/City/Sapporo.secret.md|Sapporo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Japan/City/Sapporo.internal|Sapporo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Japan/City/Sapporo.protect|Sapporo.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Japan/City/Sapporo.private|Sapporo.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Japan/City/Sapporo.personal|Sapporo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Japan/City/Sapporo.secret|Sapporo.secret]] 

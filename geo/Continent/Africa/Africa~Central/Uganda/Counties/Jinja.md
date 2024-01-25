@@ -41,9 +41,9 @@ markerFolder: ./Jinja/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Jinja.md|Jinja]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Jinja.internal.md|Jinja.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Jinja.protect.md|Jinja.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Jinja.private.md|Jinja.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Jinja.personal.md|Jinja.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Jinja.secret.md|Jinja.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Jinja.internal|Jinja.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Jinja.protect|Jinja.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Jinja.private|Jinja.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Jinja.personal|Jinja.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Jinja.secret|Jinja.secret]] 
 

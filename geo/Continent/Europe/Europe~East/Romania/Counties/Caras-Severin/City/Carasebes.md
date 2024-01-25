@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Carasebes.md|Carasebes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Carasebes.internal.md|Carasebes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Carasebes.protect.md|Carasebes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Carasebes.private.md|Carasebes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Carasebes.personal.md|Carasebes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Carasebes.secret.md|Carasebes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Carasebes.internal|Carasebes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Carasebes.protect|Carasebes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Carasebes.private|Carasebes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Carasebes.personal|Carasebes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Carasebes.secret|Carasebes.secret]] 

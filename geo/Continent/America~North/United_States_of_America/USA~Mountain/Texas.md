@@ -38,8 +38,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas.md|Texas]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas.internal.md|Texas.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas.protect.md|Texas.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas.private.md|Texas.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas.personal.md|Texas.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas.secret.md|Texas.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas.internal|Texas.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas.protect|Texas.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas.private|Texas.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas.personal|Texas.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas.secret|Texas.secret]] 

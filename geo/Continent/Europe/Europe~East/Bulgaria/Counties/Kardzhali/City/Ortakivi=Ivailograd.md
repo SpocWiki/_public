@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.md|Ortakivi=Ivailograd]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.internal.md|Ortakivi=Ivailograd.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.protect.md|Ortakivi=Ivailograd.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.private.md|Ortakivi=Ivailograd.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.personal.md|Ortakivi=Ivailograd.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.secret.md|Ortakivi=Ivailograd.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.internal|Ortakivi=Ivailograd.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.protect|Ortakivi=Ivailograd.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.private|Ortakivi=Ivailograd.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.personal|Ortakivi=Ivailograd.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.secret|Ortakivi=Ivailograd.secret]] 

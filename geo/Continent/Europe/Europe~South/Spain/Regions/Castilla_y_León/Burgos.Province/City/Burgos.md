@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Burgos.md|Burgos]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Burgos.internal.md|Burgos.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Burgos.protect.md|Burgos.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Burgos.private.md|Burgos.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Burgos.personal.md|Burgos.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Burgos.secret.md|Burgos.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Burgos.internal|Burgos.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Burgos.protect|Burgos.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Burgos.private|Burgos.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Burgos.personal|Burgos.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Burgos.secret|Burgos.secret]] 

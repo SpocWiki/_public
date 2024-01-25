@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.md|Bruegge=Bruges]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.internal.md|Bruegge=Bruges.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.protect.md|Bruegge=Bruges.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.private.md|Bruegge=Bruges.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.personal.md|Bruegge=Bruges.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.secret.md|Bruegge=Bruges.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.internal|Bruegge=Bruges.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.protect|Bruegge=Bruges.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.private|Bruegge=Bruges.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.personal|Bruegge=Bruges.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.secret|Bruegge=Bruges.secret]] 

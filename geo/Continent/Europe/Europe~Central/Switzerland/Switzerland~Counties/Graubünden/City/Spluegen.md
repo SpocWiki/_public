@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Spluegen.md|Spluegen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Spluegen.internal.md|Spluegen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Spluegen.protect.md|Spluegen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Spluegen.private.md|Spluegen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Spluegen.personal.md|Spluegen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Spluegen.secret.md|Spluegen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Spluegen.internal|Spluegen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Spluegen.protect|Spluegen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Spluegen.private|Spluegen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Spluegen.personal|Spluegen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Spluegen.secret|Spluegen.secret]] 

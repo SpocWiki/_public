@@ -41,9 +41,9 @@ markerFolder: ./Batha/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Batha.md|Batha]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Batha.internal.md|Batha.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Batha.protect.md|Batha.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Batha.private.md|Batha.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Batha.personal.md|Batha.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Batha.secret.md|Batha.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Batha.internal|Batha.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Batha.protect|Batha.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Batha.private|Batha.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Batha.personal|Batha.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Batha.secret|Batha.secret]] 
 

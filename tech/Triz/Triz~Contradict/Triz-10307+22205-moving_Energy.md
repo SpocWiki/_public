@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22205-moving_Energy]
 [SpocWebEntityId::26701]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22205]]]
-- [con::[[Triz-moving_Energy]]]
+- [#has_/Cons :: [[Triz-moving_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.md|Triz-10307+22205-moving_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.internal.md|Triz-10307+22205-moving_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.protect.md|Triz-10307+22205-moving_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.private.md|Triz-10307+22205-moving_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.personal.md|Triz-10307+22205-moving_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.secret.md|Triz-10307+22205-moving_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.internal|Triz-10307+22205-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.protect|Triz-10307+22205-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.private|Triz-10307+22205-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.personal|Triz-10307+22205-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-moving_Energy.secret|Triz-10307+22205-moving_Energy.secret]] 

@@ -18,8 +18,8 @@ Composite Epoxy Resin/Carbon Fiber Golf Club Shafts are lighter, stronger, and m
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Carbon_Fiber_Composite.md|Triz-Carbon_Fiber_Composite]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Carbon_Fiber_Composite.internal.md|Triz-Carbon_Fiber_Composite.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Carbon_Fiber_Composite.protect.md|Triz-Carbon_Fiber_Composite.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Carbon_Fiber_Composite.private.md|Triz-Carbon_Fiber_Composite.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Carbon_Fiber_Composite.personal.md|Triz-Carbon_Fiber_Composite.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Carbon_Fiber_Composite.secret.md|Triz-Carbon_Fiber_Composite.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Carbon_Fiber_Composite.internal|Triz-Carbon_Fiber_Composite.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Carbon_Fiber_Composite.protect|Triz-Carbon_Fiber_Composite.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Carbon_Fiber_Composite.private|Triz-Carbon_Fiber_Composite.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Carbon_Fiber_Composite.personal|Triz-Carbon_Fiber_Composite.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Carbon_Fiber_Composite.secret|Triz-Carbon_Fiber_Composite.secret]] 

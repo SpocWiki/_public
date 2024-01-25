@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Pieńsk.md|Pieńsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pieńsk.internal.md|Pieńsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pieńsk.protect.md|Pieńsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pieńsk.private.md|Pieńsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pieńsk.personal.md|Pieńsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pieńsk.secret.md|Pieńsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pieńsk.internal|Pieńsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pieńsk.protect|Pieńsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pieńsk.private|Pieńsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pieńsk.personal|Pieńsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pieńsk.secret|Pieńsk.secret]] 

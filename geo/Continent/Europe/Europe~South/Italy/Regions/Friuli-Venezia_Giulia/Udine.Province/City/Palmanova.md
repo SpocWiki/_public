@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Palmanova.md|Palmanova]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Palmanova.internal.md|Palmanova.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Palmanova.protect.md|Palmanova.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Palmanova.private.md|Palmanova.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Palmanova.personal.md|Palmanova.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Palmanova.secret.md|Palmanova.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Palmanova.internal|Palmanova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Palmanova.protect|Palmanova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Palmanova.private|Palmanova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Palmanova.personal|Palmanova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Palmanova.secret|Palmanova.secret]] 

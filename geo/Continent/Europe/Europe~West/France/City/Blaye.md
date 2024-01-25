@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Blaye.md|Blaye]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Blaye.internal.md|Blaye.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Blaye.protect.md|Blaye.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Blaye.private.md|Blaye.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Blaye.personal.md|Blaye.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Blaye.secret.md|Blaye.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Blaye.internal|Blaye.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Blaye.protect|Blaye.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Blaye.private|Blaye.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Blaye.personal|Blaye.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Blaye.secret|Blaye.secret]] 

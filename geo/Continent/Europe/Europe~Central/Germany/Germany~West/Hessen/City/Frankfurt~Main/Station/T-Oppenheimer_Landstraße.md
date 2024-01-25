@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Oppenheimer_Landstraße|T-Oppenheimer_Landstraße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.internal.md|T-Oppenheimer_Landstraße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.protect.md|T-Oppenheimer_Landstraße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.private.md|T-Oppenheimer_Landstraße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.personal.md|T-Oppenheimer_Landstraße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.secret.md|T-Oppenheimer_Landstraße.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.internal|T-Oppenheimer_Landstraße.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.protect|T-Oppenheimer_Landstraße.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.private|T-Oppenheimer_Landstraße.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.personal|T-Oppenheimer_Landstraße.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Oppenheimer_Landstraße.secret|T-Oppenheimer_Landstraße.secret]] 

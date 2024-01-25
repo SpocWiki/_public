@@ -36,8 +36,8 @@ SpocWebEntityId: 21958
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Samarium.md|Samarium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Samarium.internal.md|Samarium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Samarium.protect.md|Samarium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Samarium.private.md|Samarium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Samarium.personal.md|Samarium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Samarium.secret.md|Samarium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Samarium.internal|Samarium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Samarium.protect|Samarium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Samarium.private|Samarium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Samarium.personal|Samarium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Samarium.secret|Samarium.secret]] 

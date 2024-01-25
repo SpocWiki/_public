@@ -6,9 +6,9 @@ Shared astronomical Facts
 
 ## Confidential Links & Embeds: 
 - [[../../_public/astro/README.md|README]] 
-- [[../../_internal/astro/README.internal.md|README.internal]] 
-- [[../../_protect/astro/README.protect.md|README.protect]] 
-- [[../../_private/astro/README.private.md|README.private]] 
-- [[../../_personal/astro/README.personal.md|README.personal]] 
-- [[../../_secret/astro/README.secret.md|README.secret]]
+- [[../../_internal/astro/README.internal|README.internal]] 
+- [[../../_protect/astro/README.protect|README.protect]] 
+- [[../../_private/astro/README.private|README.private]] 
+- [[../../_personal/astro/README.personal|README.personal]] 
+- [[../../_secret/astro/README.secret|README.secret]]
 

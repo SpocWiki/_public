@@ -41,9 +41,9 @@ markerFolder: ./Mŏṇarāgala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.md|Mŏṇarāgala]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.internal.md|Mŏṇarāgala.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.protect.md|Mŏṇarāgala.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.private.md|Mŏṇarāgala.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.personal.md|Mŏṇarāgala.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.secret.md|Mŏṇarāgala.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.internal|Mŏṇarāgala.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.protect|Mŏṇarāgala.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.private|Mŏṇarāgala.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.personal|Mŏṇarāgala.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mŏṇarāgala.secret|Mŏṇarāgala.secret]] 
 

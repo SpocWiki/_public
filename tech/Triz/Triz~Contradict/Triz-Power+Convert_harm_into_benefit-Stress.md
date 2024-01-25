@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Convert_harm_into_benefit-Stress]
 [SpocWebEntityId::24612]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.md|Triz-Power+Convert_harm_into_benefit-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.internal.md|Triz-Power+Convert_harm_into_benefit-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.protect.md|Triz-Power+Convert_harm_into_benefit-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.private.md|Triz-Power+Convert_harm_into_benefit-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.personal.md|Triz-Power+Convert_harm_into_benefit-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.secret.md|Triz-Power+Convert_harm_into_benefit-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.internal|Triz-Power+Convert_harm_into_benefit-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.protect|Triz-Power+Convert_harm_into_benefit-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.private|Triz-Power+Convert_harm_into_benefit-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.personal|Triz-Power+Convert_harm_into_benefit-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.secret|Triz-Power+Convert_harm_into_benefit-Stress.secret]] 

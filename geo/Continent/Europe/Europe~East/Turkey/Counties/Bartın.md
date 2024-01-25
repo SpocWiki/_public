@@ -41,9 +41,9 @@ markerFolder: ./Bartın/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bartın.md|Bartın]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bartın.internal.md|Bartın.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bartın.protect.md|Bartın.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bartın.private.md|Bartın.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bartın.personal.md|Bartın.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bartın.secret.md|Bartın.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bartın.internal|Bartın.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bartın.protect|Bartın.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bartın.private|Bartın.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bartın.personal|Bartın.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bartın.secret|Bartın.secret]] 
 

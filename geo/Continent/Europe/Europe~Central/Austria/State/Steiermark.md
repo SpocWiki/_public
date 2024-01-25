@@ -28,8 +28,8 @@ markerFolder: ./Steiermark/
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/State/Steiermark.md|Steiermark]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Steiermark.internal.md|Steiermark.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Steiermark.protect.md|Steiermark.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Steiermark.private.md|Steiermark.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Steiermark.personal.md|Steiermark.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Steiermark.secret.md|Steiermark.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Steiermark.internal|Steiermark.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Steiermark.protect|Steiermark.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Steiermark.private|Steiermark.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Steiermark.personal|Steiermark.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Steiermark.secret|Steiermark.secret]] 

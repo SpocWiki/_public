@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Brandvold.md|Brandvold]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Brandvold.internal.md|Brandvold.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Brandvold.protect.md|Brandvold.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Brandvold.private.md|Brandvold.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Brandvold.personal.md|Brandvold.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Brandvold.secret.md|Brandvold.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Brandvold.internal|Brandvold.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Brandvold.protect|Brandvold.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Brandvold.private|Brandvold.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Brandvold.personal|Brandvold.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Brandvold.secret|Brandvold.secret]] 

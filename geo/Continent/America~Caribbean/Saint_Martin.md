@@ -40,8 +40,8 @@ markerFolder: ./Saint_Martin/
 
 ## Confidential Links & Embeds: 
 - [[Saint_Martin|Saint_Martin]] 
-- [[../../../../_internal/geo/Continent/South-America/Saint_Martin.internal.md|Saint_Martin.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Saint_Martin.protect.md|Saint_Martin.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Saint_Martin.private.md|Saint_Martin.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Saint_Martin.personal.md|Saint_Martin.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Saint_Martin.secret.md|Saint_Martin.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Saint_Martin.internal|Saint_Martin.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Saint_Martin.protect|Saint_Martin.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Saint_Martin.private|Saint_Martin.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Saint_Martin.personal|Saint_Martin.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Saint_Martin.secret|Saint_Martin.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Comprovasco.md|Comprovasco]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Comprovasco.internal.md|Comprovasco.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Comprovasco.protect.md|Comprovasco.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Comprovasco.private.md|Comprovasco.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Comprovasco.personal.md|Comprovasco.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Comprovasco.secret.md|Comprovasco.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Comprovasco.internal|Comprovasco.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Comprovasco.protect|Comprovasco.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Comprovasco.private|Comprovasco.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Comprovasco.personal|Comprovasco.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Comprovasco.secret|Comprovasco.secret]] 

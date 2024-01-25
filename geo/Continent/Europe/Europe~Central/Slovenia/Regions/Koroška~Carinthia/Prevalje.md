@@ -41,9 +41,9 @@ markerFolder: ./Prevalje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.md|Prevalje]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.internal.md|Prevalje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.protect.md|Prevalje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.private.md|Prevalje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.personal.md|Prevalje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.secret.md|Prevalje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.internal|Prevalje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.protect|Prevalje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.private|Prevalje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.personal|Prevalje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Prevalje.secret|Prevalje.secret]] 
 

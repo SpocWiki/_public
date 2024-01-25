@@ -41,9 +41,9 @@ markerFolder: ./Macerata.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.md|Macerata.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.internal.md|Macerata.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.protect.md|Macerata.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.private.md|Macerata.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.personal.md|Macerata.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.secret.md|Macerata.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.internal|Macerata.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.protect|Macerata.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.private|Macerata.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.personal|Macerata.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Marche/Macerata.Province.secret|Macerata.Province.secret]] 
 

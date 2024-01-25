@@ -37,7 +37,7 @@ markerFolder: ./Rhodesia-Nyasaland//
 ## Confidential Links & Embeds: 
 - [[Rhodesia-Nyasaland|Rhodesia-Nyasaland]] 
 - [[../../../../../_internal/geo/Continent/Africa/Rhodesia-Nyasaland.internal|Rhodesia-Nyasaland.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Rhodesia-Nyasaland.protect.md|Rhodesia-Nyasaland.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Rhodesia-Nyasaland.private.md|Rhodesia-Nyasaland.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Rhodesia-Nyasaland.personal.md|Rhodesia-Nyasaland.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Rhodesia-Nyasaland.secret.md|Rhodesia-Nyasaland.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Rhodesia-Nyasaland.protect|Rhodesia-Nyasaland.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Rhodesia-Nyasaland.private|Rhodesia-Nyasaland.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Rhodesia-Nyasaland.personal|Rhodesia-Nyasaland.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Rhodesia-Nyasaland.secret|Rhodesia-Nyasaland.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Lodi.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.md|Lodi.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.internal.md|Lodi.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.protect.md|Lodi.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.private.md|Lodi.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.personal.md|Lodi.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.secret.md|Lodi.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.internal|Lodi.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.protect|Lodi.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.private|Lodi.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.personal|Lodi.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Lodi.Province.secret|Lodi.Province.secret]] 
 

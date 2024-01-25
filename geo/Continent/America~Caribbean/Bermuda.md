@@ -126,8 +126,8 @@ markerFolder: ./Bermuda/
 
 ## Confidential Links & Embeds: 
 - [[Bermuda|Bermuda]] 
-- [[../../../../_internal/geo/Continent/North-America/Bermuda.internal.md|Bermuda.internal]] 
-- [[../../../../_protect/geo/Continent/North-America/Bermuda.protect.md|Bermuda.protect]] 
-- [[../../../../_private/geo/Continent/North-America/Bermuda.private.md|Bermuda.private]] 
-- [[../../../../_personal/geo/Continent/North-America/Bermuda.personal.md|Bermuda.personal]] 
-- [[../../../../_secret/geo/Continent/North-America/Bermuda.secret.md|Bermuda.secret]] 
+- [[../../../../_internal/geo/Continent/North-America/Bermuda.internal|Bermuda.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/Bermuda.protect|Bermuda.protect]] 
+- [[../../../../_private/geo/Continent/North-America/Bermuda.private|Bermuda.private]] 
+- [[../../../../_personal/geo/Continent/North-America/Bermuda.personal|Bermuda.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/Bermuda.secret|Bermuda.secret]] 

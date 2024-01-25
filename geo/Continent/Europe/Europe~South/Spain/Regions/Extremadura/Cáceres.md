@@ -41,9 +41,9 @@ markerFolder: ./Cáceres/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.md|Cáceres]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.internal.md|Cáceres.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.protect.md|Cáceres.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.private.md|Cáceres.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.personal.md|Cáceres.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.secret.md|Cáceres.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.internal|Cáceres.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.protect|Cáceres.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.private|Cáceres.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.personal|Cáceres.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Extremadura/Cáceres.secret|Cáceres.secret]] 
 

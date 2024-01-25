@@ -41,9 +41,9 @@ markerFolder: ./Cerkno/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.md|Cerkno]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.internal.md|Cerkno.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.protect.md|Cerkno.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.private.md|Cerkno.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.personal.md|Cerkno.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.secret.md|Cerkno.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.internal|Cerkno.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.protect|Cerkno.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.private|Cerkno.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.personal|Cerkno.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Cerkno.secret|Cerkno.secret]] 
 

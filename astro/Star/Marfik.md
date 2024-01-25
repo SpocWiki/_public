@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Marfik.md|Marfik]] 
-- [[../../../_internal/astro/Star/Marfik.internal.md|Marfik.internal]] 
-- [[../../../_protect/astro/Star/Marfik.protect.md|Marfik.protect]] 
-- [[../../../_private/astro/Star/Marfik.private.md|Marfik.private]] 
-- [[../../../_personal/astro/Star/Marfik.personal.md|Marfik.personal]] 
-- [[../../../_secret/astro/Star/Marfik.secret.md|Marfik.secret]] 
+- [[../../../_internal/astro/Star/Marfik.internal|Marfik.internal]] 
+- [[../../../_protect/astro/Star/Marfik.protect|Marfik.protect]] 
+- [[../../../_private/astro/Star/Marfik.private|Marfik.private]] 
+- [[../../../_personal/astro/Star/Marfik.personal|Marfik.personal]] 
+- [[../../../_secret/astro/Star/Marfik.secret|Marfik.secret]] 

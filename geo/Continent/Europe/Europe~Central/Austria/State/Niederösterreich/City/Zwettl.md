@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Zwettl.md|Zwettl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Zwettl.internal.md|Zwettl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Zwettl.protect.md|Zwettl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Zwettl.private.md|Zwettl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Zwettl.personal.md|Zwettl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Zwettl.secret.md|Zwettl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Zwettl.internal|Zwettl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Zwettl.protect|Zwettl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Zwettl.private|Zwettl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Zwettl.personal|Zwettl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Zwettl.secret|Zwettl.secret]] 

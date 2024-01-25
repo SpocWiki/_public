@@ -41,9 +41,9 @@ markerFolder: ./Cumbria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.md|Cumbria]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.internal.md|Cumbria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.protect.md|Cumbria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.private.md|Cumbria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.personal.md|Cumbria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.secret.md|Cumbria.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.internal|Cumbria.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.protect|Cumbria.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.private|Cumbria.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.personal|Cumbria.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.secret|Cumbria.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Figueras.md|Figueras]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Figueras.internal.md|Figueras.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Figueras.protect.md|Figueras.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Figueras.private.md|Figueras.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Figueras.personal.md|Figueras.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Figueras.secret.md|Figueras.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Figueras.internal|Figueras.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Figueras.protect|Figueras.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Figueras.private|Figueras.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Figueras.personal|Figueras.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Figueras.secret|Figueras.secret]] 

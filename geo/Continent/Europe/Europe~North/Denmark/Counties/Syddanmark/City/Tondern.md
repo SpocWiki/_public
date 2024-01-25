@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Tondern.md|Tondern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Tondern.internal.md|Tondern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Tondern.protect.md|Tondern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Tondern.private.md|Tondern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Tondern.personal.md|Tondern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Tondern.secret.md|Tondern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Tondern.internal|Tondern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Tondern.protect|Tondern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Tondern.private|Tondern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Tondern.personal|Tondern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Tondern.secret|Tondern.secret]] 

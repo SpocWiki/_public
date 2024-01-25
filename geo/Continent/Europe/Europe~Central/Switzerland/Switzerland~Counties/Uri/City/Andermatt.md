@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Andermatt.md|Andermatt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Andermatt.internal.md|Andermatt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Andermatt.protect.md|Andermatt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Andermatt.private.md|Andermatt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Andermatt.personal.md|Andermatt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Andermatt.secret.md|Andermatt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Andermatt.internal|Andermatt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Andermatt.protect|Andermatt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Andermatt.private|Andermatt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Andermatt.personal|Andermatt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Andermatt.secret|Andermatt.secret]] 

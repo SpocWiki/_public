@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zawidów.md|Zawidów]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zawidów.internal.md|Zawidów.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zawidów.protect.md|Zawidów.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zawidów.private.md|Zawidów.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zawidów.personal.md|Zawidów.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zawidów.secret.md|Zawidów.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zawidów.internal|Zawidów.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zawidów.protect|Zawidów.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zawidów.private|Zawidów.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zawidów.personal|Zawidów.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zawidów.secret|Zawidów.secret]] 

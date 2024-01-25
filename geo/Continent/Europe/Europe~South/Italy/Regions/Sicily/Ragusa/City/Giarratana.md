@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Giarratana.md|Giarratana]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Giarratana.internal.md|Giarratana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Giarratana.protect.md|Giarratana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Giarratana.private.md|Giarratana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Giarratana.personal.md|Giarratana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Giarratana.secret.md|Giarratana.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Giarratana.internal|Giarratana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Giarratana.protect|Giarratana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Giarratana.private|Giarratana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Giarratana.personal|Giarratana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Giarratana.secret|Giarratana.secret]] 

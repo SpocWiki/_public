@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[U-Weißkirchen_Ost|U-Weißkirchen_Ost]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.internal.md|U-Weißkirchen_Ost.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.protect.md|U-Weißkirchen_Ost.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.private.md|U-Weißkirchen_Ost.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.personal.md|U-Weißkirchen_Ost.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.secret.md|U-Weißkirchen_Ost.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.internal|U-Weißkirchen_Ost.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.protect|U-Weißkirchen_Ost.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.private|U-Weißkirchen_Ost.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.personal|U-Weißkirchen_Ost.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.secret|U-Weißkirchen_Ost.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Dynamicity-Versatility]
 [SpocWebEntityId::25930]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.md|Triz-Ease_of_manufacture+Dynamicity-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.internal.md|Triz-Ease_of_manufacture+Dynamicity-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.protect.md|Triz-Ease_of_manufacture+Dynamicity-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.private.md|Triz-Ease_of_manufacture+Dynamicity-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.personal.md|Triz-Ease_of_manufacture+Dynamicity-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.secret.md|Triz-Ease_of_manufacture+Dynamicity-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.internal|Triz-Ease_of_manufacture+Dynamicity-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.protect|Triz-Ease_of_manufacture+Dynamicity-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.private|Triz-Ease_of_manufacture+Dynamicity-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.personal|Triz-Ease_of_manufacture+Dynamicity-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.secret|Triz-Ease_of_manufacture+Dynamicity-Versatility.secret]] 

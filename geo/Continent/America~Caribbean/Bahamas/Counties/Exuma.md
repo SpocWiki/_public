@@ -41,9 +41,9 @@ markerFolder: ./Exuma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.md|Exuma]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.internal.md|Exuma.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.protect.md|Exuma.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.private.md|Exuma.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.personal.md|Exuma.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.secret.md|Exuma.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.internal|Exuma.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.protect|Exuma.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.private|Exuma.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.personal|Exuma.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Exuma.secret|Exuma.secret]] 
 

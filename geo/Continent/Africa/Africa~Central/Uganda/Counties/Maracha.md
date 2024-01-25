@@ -41,9 +41,9 @@ markerFolder: ./Maracha/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Maracha.md|Maracha]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Maracha.internal.md|Maracha.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Maracha.protect.md|Maracha.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Maracha.private.md|Maracha.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Maracha.personal.md|Maracha.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Maracha.secret.md|Maracha.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Maracha.internal|Maracha.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Maracha.protect|Maracha.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Maracha.private|Maracha.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Maracha.personal|Maracha.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Maracha.secret|Maracha.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Composite_materials-Reliability]
 [SpocWebEntityId::26503]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.md|Triz-Difficulty+Composite_materials-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.internal.md|Triz-Difficulty+Composite_materials-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.protect.md|Triz-Difficulty+Composite_materials-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.private.md|Triz-Difficulty+Composite_materials-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.personal.md|Triz-Difficulty+Composite_materials-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.secret.md|Triz-Difficulty+Composite_materials-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.internal|Triz-Difficulty+Composite_materials-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.protect|Triz-Difficulty+Composite_materials-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.private|Triz-Difficulty+Composite_materials-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.personal|Triz-Difficulty+Composite_materials-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.secret|Triz-Difficulty+Composite_materials-Reliability.secret]] 

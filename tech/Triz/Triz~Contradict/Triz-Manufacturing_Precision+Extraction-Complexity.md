@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Extraction-Complexity]
 [SpocWebEntityId::25566]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.md|Triz-Manufacturing_Precision+Extraction-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.internal.md|Triz-Manufacturing_Precision+Extraction-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.protect.md|Triz-Manufacturing_Precision+Extraction-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.private.md|Triz-Manufacturing_Precision+Extraction-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.personal.md|Triz-Manufacturing_Precision+Extraction-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.secret.md|Triz-Manufacturing_Precision+Extraction-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.internal|Triz-Manufacturing_Precision+Extraction-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.protect|Triz-Manufacturing_Precision+Extraction-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.private|Triz-Manufacturing_Precision+Extraction-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.personal|Triz-Manufacturing_Precision+Extraction-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.secret|Triz-Manufacturing_Precision+Extraction-Complexity.secret]] 

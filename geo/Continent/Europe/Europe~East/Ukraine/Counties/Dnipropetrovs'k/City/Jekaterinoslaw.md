@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jekaterinoslaw.md|Jekaterinoslaw]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekaterinoslaw.internal.md|Jekaterinoslaw.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekaterinoslaw.protect.md|Jekaterinoslaw.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jekaterinoslaw.private.md|Jekaterinoslaw.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekaterinoslaw.personal.md|Jekaterinoslaw.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekaterinoslaw.secret.md|Jekaterinoslaw.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekaterinoslaw.internal|Jekaterinoslaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekaterinoslaw.protect|Jekaterinoslaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jekaterinoslaw.private|Jekaterinoslaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekaterinoslaw.personal|Jekaterinoslaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekaterinoslaw.secret|Jekaterinoslaw.secret]] 

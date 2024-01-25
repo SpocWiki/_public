@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chodschent.md|Chodschent]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chodschent.internal.md|Chodschent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chodschent.protect.md|Chodschent.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chodschent.private.md|Chodschent.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chodschent.personal.md|Chodschent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chodschent.secret.md|Chodschent.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chodschent.internal|Chodschent.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chodschent.protect|Chodschent.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chodschent.private|Chodschent.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chodschent.personal|Chodschent.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chodschent.secret|Chodschent.secret]] 

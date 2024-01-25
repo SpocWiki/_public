@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Crateris-4.md|Crateris-4]] 
-- [[../../../_internal/astro/Star/Crateris-4.internal.md|Crateris-4.internal]] 
-- [[../../../_protect/astro/Star/Crateris-4.protect.md|Crateris-4.protect]] 
-- [[../../../_private/astro/Star/Crateris-4.private.md|Crateris-4.private]] 
-- [[../../../_personal/astro/Star/Crateris-4.personal.md|Crateris-4.personal]] 
-- [[../../../_secret/astro/Star/Crateris-4.secret.md|Crateris-4.secret]]
+- [[../../../_internal/astro/Star/Crateris-4.internal|Crateris-4.internal]] 
+- [[../../../_protect/astro/Star/Crateris-4.protect|Crateris-4.protect]] 
+- [[../../../_private/astro/Star/Crateris-4.private|Crateris-4.private]] 
+- [[../../../_personal/astro/Star/Crateris-4.personal|Crateris-4.personal]] 
+- [[../../../_secret/astro/Star/Crateris-4.secret|Crateris-4.secret]]
 

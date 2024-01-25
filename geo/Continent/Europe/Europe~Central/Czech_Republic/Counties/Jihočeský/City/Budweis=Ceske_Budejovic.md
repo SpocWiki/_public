@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.md|Budweis=Ceske_Budejovic]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.internal.md|Budweis=Ceske_Budejovic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.protect.md|Budweis=Ceske_Budejovic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.private.md|Budweis=Ceske_Budejovic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.personal.md|Budweis=Ceske_Budejovic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.secret.md|Budweis=Ceske_Budejovic.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.internal|Budweis=Ceske_Budejovic.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.protect|Budweis=Ceske_Budejovic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.private|Budweis=Ceske_Budejovic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.personal|Budweis=Ceske_Budejovic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.secret|Budweis=Ceske_Budejovic.secret]] 

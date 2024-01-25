@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Brand_Schlesien.md|Brand_Schlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Brand_Schlesien.internal.md|Brand_Schlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Brand_Schlesien.protect.md|Brand_Schlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Brand_Schlesien.private.md|Brand_Schlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Brand_Schlesien.personal.md|Brand_Schlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Brand_Schlesien.secret.md|Brand_Schlesien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Brand_Schlesien.internal|Brand_Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Brand_Schlesien.protect|Brand_Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Brand_Schlesien.private|Brand_Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Brand_Schlesien.personal|Brand_Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Brand_Schlesien.secret|Brand_Schlesien.secret]] 

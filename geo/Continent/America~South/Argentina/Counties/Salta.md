@@ -41,9 +41,9 @@ markerFolder: ./Salta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Salta.md|Salta]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Salta.internal.md|Salta.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Salta.protect.md|Salta.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Salta.private.md|Salta.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Salta.personal.md|Salta.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Salta.secret.md|Salta.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Salta.internal|Salta.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Salta.protect|Salta.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Salta.private|Salta.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Salta.personal|Salta.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Salta.secret|Salta.secret]] 
 

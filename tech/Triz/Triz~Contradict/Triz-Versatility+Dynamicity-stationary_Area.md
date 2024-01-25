@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Dynamicity-stationary_Area]
 [SpocWebEntityId::26199]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.md|Triz-Versatility+Dynamicity-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.internal.md|Triz-Versatility+Dynamicity-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.protect.md|Triz-Versatility+Dynamicity-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.private.md|Triz-Versatility+Dynamicity-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.personal.md|Triz-Versatility+Dynamicity-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.secret.md|Triz-Versatility+Dynamicity-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.internal|Triz-Versatility+Dynamicity-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.protect|Triz-Versatility+Dynamicity-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.private|Triz-Versatility+Dynamicity-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.personal|Triz-Versatility+Dynamicity-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Dynamicity-stationary_Area.secret|Triz-Versatility+Dynamicity-stationary_Area.secret]] 

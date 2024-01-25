@@ -41,9 +41,9 @@ markerFolder: ./Fatick/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Fatick.md|Fatick]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Fatick.internal.md|Fatick.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Fatick.protect.md|Fatick.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Fatick.private.md|Fatick.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Fatick.personal.md|Fatick.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Fatick.secret.md|Fatick.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Fatick.internal|Fatick.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Fatick.protect|Fatick.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Fatick.private|Fatick.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Fatick.personal|Fatick.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Fatick.secret|Fatick.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Otschokow.md|Otschokow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Otschokow.internal.md|Otschokow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Otschokow.protect.md|Otschokow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Otschokow.private.md|Otschokow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Otschokow.personal.md|Otschokow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Otschokow.secret.md|Otschokow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Otschokow.internal|Otschokow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Otschokow.protect|Otschokow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Otschokow.private|Otschokow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Otschokow.personal|Otschokow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Otschokow.secret|Otschokow.secret]] 

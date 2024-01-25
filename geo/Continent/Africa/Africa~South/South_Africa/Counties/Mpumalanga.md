@@ -41,9 +41,9 @@ markerFolder: ./Mpumalanga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.md|Mpumalanga]] 
-- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.internal.md|Mpumalanga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.protect.md|Mpumalanga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.private.md|Mpumalanga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.personal.md|Mpumalanga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.secret.md|Mpumalanga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.internal|Mpumalanga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.protect|Mpumalanga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.private|Mpumalanga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.personal|Mpumalanga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.secret|Mpumalanga.secret]] 
 

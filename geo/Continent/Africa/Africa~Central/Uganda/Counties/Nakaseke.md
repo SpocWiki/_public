@@ -41,9 +41,9 @@ markerFolder: ./Nakaseke/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Nakaseke.md|Nakaseke]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakaseke.internal.md|Nakaseke.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakaseke.protect.md|Nakaseke.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakaseke.private.md|Nakaseke.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakaseke.personal.md|Nakaseke.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakaseke.secret.md|Nakaseke.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakaseke.internal|Nakaseke.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakaseke.protect|Nakaseke.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakaseke.private|Nakaseke.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakaseke.personal|Nakaseke.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakaseke.secret|Nakaseke.secret]] 
 

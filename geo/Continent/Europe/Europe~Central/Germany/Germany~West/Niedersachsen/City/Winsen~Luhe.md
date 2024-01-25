@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Winsen~Luhe|Winsen~Luhe]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.internal.md|Winsen~Luhe.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.protect.md|Winsen~Luhe.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.private.md|Winsen~Luhe.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.personal.md|Winsen~Luhe.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.secret.md|Winsen~Luhe.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.internal|Winsen~Luhe.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.protect|Winsen~Luhe.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.private|Winsen~Luhe.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.personal|Winsen~Luhe.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.secret|Winsen~Luhe.secret]] 

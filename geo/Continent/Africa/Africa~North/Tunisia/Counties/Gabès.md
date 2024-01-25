@@ -41,9 +41,9 @@ markerFolder: ./Gabès/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Gabès.md|Gabès]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Gabès.internal.md|Gabès.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Gabès.protect.md|Gabès.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Gabès.private.md|Gabès.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Gabès.personal.md|Gabès.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Gabès.secret.md|Gabès.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Gabès.internal|Gabès.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Gabès.protect|Gabès.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Gabès.private|Gabès.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Gabès.personal|Gabès.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Gabès.secret|Gabès.secret]] 
 

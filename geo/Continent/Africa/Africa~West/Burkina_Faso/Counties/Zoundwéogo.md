@@ -41,9 +41,9 @@ markerFolder: ./Zoundwéogo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.md|Zoundwéogo]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.internal.md|Zoundwéogo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.protect.md|Zoundwéogo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.private.md|Zoundwéogo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.personal.md|Zoundwéogo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.secret.md|Zoundwéogo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.internal|Zoundwéogo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.protect|Zoundwéogo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.private|Zoundwéogo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.personal|Zoundwéogo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.secret|Zoundwéogo.secret]] 
 

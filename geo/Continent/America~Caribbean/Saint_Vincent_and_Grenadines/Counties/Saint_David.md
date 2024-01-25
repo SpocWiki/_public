@@ -41,9 +41,9 @@ markerFolder: ./Saint_David/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.md|Saint_David]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.internal.md|Saint_David.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.protect.md|Saint_David.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.private.md|Saint_David.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.personal.md|Saint_David.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.secret.md|Saint_David.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.internal|Saint_David.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.protect|Saint_David.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.private|Saint_David.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.personal|Saint_David.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_David.secret|Saint_David.secret]] 
 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Ursae_Minoris-4.md|Ursae_Minoris-4]] 
-- [[../../../_internal/astro/Star/Ursae_Minoris-4.internal.md|Ursae_Minoris-4.internal]] 
-- [[../../../_protect/astro/Star/Ursae_Minoris-4.protect.md|Ursae_Minoris-4.protect]] 
-- [[../../../_private/astro/Star/Ursae_Minoris-4.private.md|Ursae_Minoris-4.private]] 
-- [[../../../_personal/astro/Star/Ursae_Minoris-4.personal.md|Ursae_Minoris-4.personal]] 
-- [[../../../_secret/astro/Star/Ursae_Minoris-4.secret.md|Ursae_Minoris-4.secret]] 
+- [[../../../_internal/astro/Star/Ursae_Minoris-4.internal|Ursae_Minoris-4.internal]] 
+- [[../../../_protect/astro/Star/Ursae_Minoris-4.protect|Ursae_Minoris-4.protect]] 
+- [[../../../_private/astro/Star/Ursae_Minoris-4.private|Ursae_Minoris-4.private]] 
+- [[../../../_personal/astro/Star/Ursae_Minoris-4.personal|Ursae_Minoris-4.personal]] 
+- [[../../../_secret/astro/Star/Ursae_Minoris-4.secret|Ursae_Minoris-4.secret]] 

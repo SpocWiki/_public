@@ -41,9 +41,9 @@ markerFolder: ./Kinshasa_City/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.md|Kinshasa_City]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.internal.md|Kinshasa_City.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.protect.md|Kinshasa_City.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.private.md|Kinshasa_City.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.personal.md|Kinshasa_City.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.secret.md|Kinshasa_City.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.internal|Kinshasa_City.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.protect|Kinshasa_City.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.private|Kinshasa_City.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.personal|Kinshasa_City.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Kinshasa_City.secret|Kinshasa_City.secret]] 
 

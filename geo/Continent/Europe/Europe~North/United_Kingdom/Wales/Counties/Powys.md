@@ -41,9 +41,9 @@ markerFolder: ./Powys/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.md|Powys]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.internal.md|Powys.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.protect.md|Powys.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.private.md|Powys.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.personal.md|Powys.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.secret.md|Powys.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.internal|Powys.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.protect|Powys.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.private|Powys.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.personal|Powys.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Powys.secret|Powys.secret]] 
 

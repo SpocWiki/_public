@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Premeti.md|Premeti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Premeti.internal.md|Premeti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Premeti.protect.md|Premeti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Premeti.private.md|Premeti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Premeti.personal.md|Premeti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Premeti.secret.md|Premeti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Premeti.internal|Premeti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Premeti.protect|Premeti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Premeti.private|Premeti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Premeti.personal|Premeti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Premeti.secret|Premeti.secret]] 

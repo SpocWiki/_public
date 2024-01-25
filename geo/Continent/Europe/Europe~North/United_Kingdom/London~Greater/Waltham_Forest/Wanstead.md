@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.md|Wanstead]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.internal.md|Wanstead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.protect.md|Wanstead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.private.md|Wanstead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.personal.md|Wanstead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.secret.md|Wanstead.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.internal|Wanstead.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.protect|Wanstead.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.private|Wanstead.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.personal|Wanstead.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Wanstead.secret|Wanstead.secret]] 

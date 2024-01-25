@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Grunwald.md|Grunwald]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grunwald.internal.md|Grunwald.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grunwald.protect.md|Grunwald.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grunwald.private.md|Grunwald.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grunwald.personal.md|Grunwald.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grunwald.secret.md|Grunwald.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grunwald.internal|Grunwald.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grunwald.protect|Grunwald.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grunwald.private|Grunwald.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grunwald.personal|Grunwald.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grunwald.secret|Grunwald.secret]] 

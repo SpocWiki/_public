@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pskow.md|Pskow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pskow.internal.md|Pskow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pskow.protect.md|Pskow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pskow.private.md|Pskow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pskow.personal.md|Pskow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pskow.secret.md|Pskow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pskow.internal|Pskow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pskow.protect|Pskow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pskow.private|Pskow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pskow.personal|Pskow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pskow.secret|Pskow.secret]] 

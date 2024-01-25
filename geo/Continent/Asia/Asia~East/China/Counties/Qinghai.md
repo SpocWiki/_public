@@ -41,9 +41,9 @@ markerFolder: ./Qinghai/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.md|Qinghai]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.internal.md|Qinghai.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.protect.md|Qinghai.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.private.md|Qinghai.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.personal.md|Qinghai.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.secret.md|Qinghai.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.internal|Qinghai.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.protect|Qinghai.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.private|Qinghai.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.personal|Qinghai.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Qinghai.secret|Qinghai.secret]] 
 

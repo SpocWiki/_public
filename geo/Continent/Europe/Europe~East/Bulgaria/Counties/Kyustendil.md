@@ -41,9 +41,9 @@ markerFolder: ./Kyustendil/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.md|Kyustendil]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.internal.md|Kyustendil.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.protect.md|Kyustendil.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.private.md|Kyustendil.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.personal.md|Kyustendil.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.secret.md|Kyustendil.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.internal|Kyustendil.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.protect|Kyustendil.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.private|Kyustendil.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.personal|Kyustendil.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.secret|Kyustendil.secret]] 
 

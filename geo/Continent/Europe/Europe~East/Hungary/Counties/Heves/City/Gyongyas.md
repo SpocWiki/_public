@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Gyongyas.md|Gyongyas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyongyas.internal.md|Gyongyas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyongyas.protect.md|Gyongyas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyongyas.private.md|Gyongyas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyongyas.personal.md|Gyongyas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyongyas.secret.md|Gyongyas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyongyas.internal|Gyongyas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyongyas.protect|Gyongyas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyongyas.private|Gyongyas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyongyas.personal|Gyongyas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyongyas.secret|Gyongyas.secret]] 

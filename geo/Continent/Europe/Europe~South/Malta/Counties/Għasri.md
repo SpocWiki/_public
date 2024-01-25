@@ -41,9 +41,9 @@ markerFolder: ./Għasri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Għasri.md|Għasri]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Għasri.internal.md|Għasri.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Għasri.protect.md|Għasri.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Għasri.private.md|Għasri.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Għasri.personal.md|Għasri.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Għasri.secret.md|Għasri.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Għasri.internal|Għasri.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Għasri.protect|Għasri.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Għasri.private|Għasri.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Għasri.personal|Għasri.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Għasri.secret|Għasri.secret]] 
 

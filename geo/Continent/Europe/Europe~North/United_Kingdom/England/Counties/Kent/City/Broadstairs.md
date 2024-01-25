@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Broadstairs.md|Broadstairs]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Broadstairs.internal.md|Broadstairs.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Broadstairs.protect.md|Broadstairs.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Broadstairs.private.md|Broadstairs.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Broadstairs.personal.md|Broadstairs.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Broadstairs.secret.md|Broadstairs.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Broadstairs.internal|Broadstairs.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Broadstairs.protect|Broadstairs.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Broadstairs.private|Broadstairs.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Broadstairs.personal|Broadstairs.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Broadstairs.secret|Broadstairs.secret]] 

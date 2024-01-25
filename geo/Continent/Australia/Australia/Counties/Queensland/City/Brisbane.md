@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Australia/Australia/City/Brisbane.md|Brisbane]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Brisbane.internal.md|Brisbane.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Brisbane.protect.md|Brisbane.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Brisbane.private.md|Brisbane.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Brisbane.personal.md|Brisbane.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Brisbane.secret.md|Brisbane.secret]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Brisbane.internal|Brisbane.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Brisbane.protect|Brisbane.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Brisbane.private|Brisbane.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Brisbane.personal|Brisbane.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Brisbane.secret|Brisbane.secret]] 

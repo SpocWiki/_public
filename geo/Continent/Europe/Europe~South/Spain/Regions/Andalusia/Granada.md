@@ -41,9 +41,9 @@ markerFolder: ./Granada/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.md|Granada]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.internal.md|Granada.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.protect.md|Granada.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.private.md|Granada.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.personal.md|Granada.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.secret.md|Granada.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.internal|Granada.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.protect|Granada.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.private|Granada.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.personal|Granada.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Granada.secret|Granada.secret]] 
 

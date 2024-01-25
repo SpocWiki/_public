@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bergamo.md|Bergamo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bergamo.internal.md|Bergamo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bergamo.protect.md|Bergamo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bergamo.private.md|Bergamo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bergamo.personal.md|Bergamo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bergamo.secret.md|Bergamo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bergamo.internal|Bergamo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bergamo.protect|Bergamo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bergamo.private|Bergamo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bergamo.personal|Bergamo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bergamo.secret|Bergamo.secret]] 

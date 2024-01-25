@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tomsk.md|Tomsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tomsk.internal.md|Tomsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tomsk.protect.md|Tomsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tomsk.private.md|Tomsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tomsk.personal.md|Tomsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tomsk.secret.md|Tomsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tomsk.internal|Tomsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tomsk.protect|Tomsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tomsk.private|Tomsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tomsk.personal|Tomsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tomsk.secret|Tomsk.secret]] 

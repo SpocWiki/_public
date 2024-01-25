@@ -41,9 +41,9 @@ markerFolder: ./Dragaš/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Dragaš.md|Dragaš]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Dragaš.internal.md|Dragaš.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Dragaš.protect.md|Dragaš.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Dragaš.private.md|Dragaš.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Dragaš.personal.md|Dragaš.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Dragaš.secret.md|Dragaš.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Dragaš.internal|Dragaš.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Dragaš.protect|Dragaš.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Dragaš.private|Dragaš.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Dragaš.personal|Dragaš.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Dragaš.secret|Dragaš.secret]] 
 

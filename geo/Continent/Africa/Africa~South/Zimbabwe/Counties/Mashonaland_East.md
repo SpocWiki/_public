@@ -41,9 +41,9 @@ markerFolder: ./Mashonaland_East/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.md|Mashonaland_East]] 
-- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.internal.md|Mashonaland_East.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.protect.md|Mashonaland_East.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.private.md|Mashonaland_East.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.personal.md|Mashonaland_East.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.secret.md|Mashonaland_East.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.internal|Mashonaland_East.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.protect|Mashonaland_East.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.private|Mashonaland_East.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.personal|Mashonaland_East.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.secret|Mashonaland_East.secret]] 
 

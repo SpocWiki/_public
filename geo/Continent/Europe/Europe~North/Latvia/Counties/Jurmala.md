@@ -41,9 +41,9 @@ markerFolder: ./Jurmala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Jurmala.md|Jurmala]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jurmala.internal.md|Jurmala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jurmala.protect.md|Jurmala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jurmala.private.md|Jurmala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jurmala.personal.md|Jurmala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jurmala.secret.md|Jurmala.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jurmala.internal|Jurmala.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jurmala.protect|Jurmala.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jurmala.private|Jurmala.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jurmala.personal|Jurmala.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jurmala.secret|Jurmala.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wurmbrand.md|Wurmbrand]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wurmbrand.internal.md|Wurmbrand.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wurmbrand.protect.md|Wurmbrand.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wurmbrand.private.md|Wurmbrand.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wurmbrand.personal.md|Wurmbrand.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wurmbrand.secret.md|Wurmbrand.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wurmbrand.internal|Wurmbrand.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wurmbrand.protect|Wurmbrand.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wurmbrand.private|Wurmbrand.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wurmbrand.personal|Wurmbrand.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wurmbrand.secret|Wurmbrand.secret]] 

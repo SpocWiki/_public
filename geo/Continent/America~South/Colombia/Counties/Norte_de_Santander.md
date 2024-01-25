@@ -41,9 +41,9 @@ markerFolder: ./Norte_de_Santander/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.md|Norte_de_Santander]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.internal.md|Norte_de_Santander.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.protect.md|Norte_de_Santander.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.private.md|Norte_de_Santander.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.personal.md|Norte_de_Santander.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.secret.md|Norte_de_Santander.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.internal|Norte_de_Santander.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.protect|Norte_de_Santander.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.private|Norte_de_Santander.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.personal|Norte_de_Santander.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Norte_de_Santander.secret|Norte_de_Santander.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schwyz.md|Schwyz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schwyz.internal.md|Schwyz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schwyz.protect.md|Schwyz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schwyz.private.md|Schwyz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schwyz.personal.md|Schwyz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schwyz.secret.md|Schwyz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schwyz.internal|Schwyz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schwyz.protect|Schwyz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schwyz.private|Schwyz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schwyz.personal|Schwyz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schwyz.secret|Schwyz.secret]] 

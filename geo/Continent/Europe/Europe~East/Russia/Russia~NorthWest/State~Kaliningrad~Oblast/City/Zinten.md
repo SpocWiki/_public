@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zinten.md|Zinten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zinten.internal.md|Zinten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zinten.protect.md|Zinten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zinten.private.md|Zinten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zinten.personal.md|Zinten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zinten.secret.md|Zinten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zinten.internal|Zinten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zinten.protect|Zinten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zinten.private|Zinten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zinten.personal|Zinten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zinten.secret|Zinten.secret]] 

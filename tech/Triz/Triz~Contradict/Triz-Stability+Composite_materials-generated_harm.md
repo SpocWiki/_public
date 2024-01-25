@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Composite_materials-generated_harm]
 [SpocWebEntityId::23915]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.md|Triz-Stability+Composite_materials-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.internal.md|Triz-Stability+Composite_materials-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.protect.md|Triz-Stability+Composite_materials-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.private.md|Triz-Stability+Composite_materials-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.personal.md|Triz-Stability+Composite_materials-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.secret.md|Triz-Stability+Composite_materials-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.internal|Triz-Stability+Composite_materials-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.protect|Triz-Stability+Composite_materials-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.private|Triz-Stability+Composite_materials-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.personal|Triz-Stability+Composite_materials-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Composite_materials-generated_harm.secret|Triz-Stability+Composite_materials-generated_harm.secret]] 

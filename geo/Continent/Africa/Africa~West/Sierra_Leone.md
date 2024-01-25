@@ -136,7 +136,7 @@ markerFolder: ./Sierra_Leone//
 ## Confidential Links & Embeds: 
 - [[Sierra_Leone|Sierra_Leone]] 
 - [[../../../../../_internal/geo/Continent/Africa/Sierra_Leone.internal|Sierra_Leone.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sierra_Leone.protect.md|Sierra_Leone.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sierra_Leone.private.md|Sierra_Leone.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sierra_Leone.personal.md|Sierra_Leone.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sierra_Leone.secret.md|Sierra_Leone.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Sierra_Leone.protect|Sierra_Leone.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sierra_Leone.private|Sierra_Leone.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sierra_Leone.personal|Sierra_Leone.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sierra_Leone.secret|Sierra_Leone.secret]] 

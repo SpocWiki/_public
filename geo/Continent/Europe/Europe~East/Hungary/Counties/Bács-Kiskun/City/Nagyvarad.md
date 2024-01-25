@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Nagyvarad.md|Nagyvarad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nagyvarad.internal.md|Nagyvarad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nagyvarad.protect.md|Nagyvarad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Nagyvarad.private.md|Nagyvarad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nagyvarad.personal.md|Nagyvarad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nagyvarad.secret.md|Nagyvarad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nagyvarad.internal|Nagyvarad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nagyvarad.protect|Nagyvarad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Nagyvarad.private|Nagyvarad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nagyvarad.personal|Nagyvarad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nagyvarad.secret|Nagyvarad.secret]] 

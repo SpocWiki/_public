@@ -41,9 +41,9 @@ markerFolder: ./Jegunovce/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.md|Jegunovce]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.internal.md|Jegunovce.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.protect.md|Jegunovce.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.private.md|Jegunovce.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.personal.md|Jegunovce.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.secret.md|Jegunovce.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.internal|Jegunovce.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.protect|Jegunovce.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.private|Jegunovce.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.personal|Jegunovce.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Jegunovce.secret|Jegunovce.secret]] 
 

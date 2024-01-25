@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Cushion_in_advance-Illumination]
 [SpocWebEntityId::25292]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.md|Triz-Reliability+Cushion_in_advance-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.internal.md|Triz-Reliability+Cushion_in_advance-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.protect.md|Triz-Reliability+Cushion_in_advance-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.private.md|Triz-Reliability+Cushion_in_advance-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.personal.md|Triz-Reliability+Cushion_in_advance-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.secret.md|Triz-Reliability+Cushion_in_advance-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.internal|Triz-Reliability+Cushion_in_advance-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.protect|Triz-Reliability+Cushion_in_advance-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.private|Triz-Reliability+Cushion_in_advance-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.personal|Triz-Reliability+Cushion_in_advance-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.secret|Triz-Reliability+Cushion_in_advance-Illumination.secret]] 

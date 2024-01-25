@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Lepus.md|Zodiac~Lepus]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Lepus.internal.md|Zodiac~Lepus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Lepus.protect.md|Zodiac~Lepus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Lepus.private.md|Zodiac~Lepus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Lepus.personal.md|Zodiac~Lepus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Lepus.secret.md|Zodiac~Lepus.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Lepus.internal|Zodiac~Lepus.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Lepus.protect|Zodiac~Lepus.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Lepus.private|Zodiac~Lepus.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Lepus.personal|Zodiac~Lepus.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Lepus.secret|Zodiac~Lepus.secret]] 

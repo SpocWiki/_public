@@ -41,9 +41,9 @@ markerFolder: ./Talas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.md|Talas]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.internal.md|Talas.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.protect.md|Talas.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.private.md|Talas.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.personal.md|Talas.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.secret.md|Talas.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.internal|Talas.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.protect|Talas.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.private|Talas.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.personal|Talas.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Talas.secret|Talas.secret]] 
 

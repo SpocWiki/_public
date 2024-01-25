@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Durham.md|Durham]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Durham.internal.md|Durham.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Durham.protect.md|Durham.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Durham.private.md|Durham.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Durham.personal.md|Durham.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Durham.secret.md|Durham.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Durham.internal|Durham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Durham.protect|Durham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Durham.private|Durham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Durham.personal|Durham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Durham.secret|Durham.secret]] 

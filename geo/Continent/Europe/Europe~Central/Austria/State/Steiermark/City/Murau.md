@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Murau.md|Murau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Murau.internal.md|Murau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Murau.protect.md|Murau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Murau.private.md|Murau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Murau.personal.md|Murau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Murau.secret.md|Murau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Murau.internal|Murau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Murau.protect|Murau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Murau.private|Murau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Murau.personal|Murau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Murau.secret|Murau.secret]] 

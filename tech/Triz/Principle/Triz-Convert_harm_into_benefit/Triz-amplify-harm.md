@@ -25,8 +25,8 @@ Amplify a harmful factor to such a degree that it is no longer harmful.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-amplify-harm.md|Triz-amplify-harm]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-amplify-harm.internal.md|Triz-amplify-harm.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-amplify-harm.protect.md|Triz-amplify-harm.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-amplify-harm.private.md|Triz-amplify-harm.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-amplify-harm.personal.md|Triz-amplify-harm.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-amplify-harm.secret.md|Triz-amplify-harm.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-amplify-harm.internal|Triz-amplify-harm.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-amplify-harm.protect|Triz-amplify-harm.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-amplify-harm.private|Triz-amplify-harm.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-amplify-harm.personal|Triz-amplify-harm.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-amplify-harm.secret|Triz-amplify-harm.secret]] 

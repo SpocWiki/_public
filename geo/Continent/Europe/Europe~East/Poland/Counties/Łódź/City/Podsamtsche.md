@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Podsamtsche.md|Podsamtsche]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Podsamtsche.internal.md|Podsamtsche.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Podsamtsche.protect.md|Podsamtsche.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Podsamtsche.private.md|Podsamtsche.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Podsamtsche.personal.md|Podsamtsche.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Podsamtsche.secret.md|Podsamtsche.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Podsamtsche.internal|Podsamtsche.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Podsamtsche.protect|Podsamtsche.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Podsamtsche.private|Podsamtsche.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Podsamtsche.personal|Podsamtsche.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Podsamtsche.secret|Podsamtsche.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Lac/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Lac.md|Lac]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Lac.internal.md|Lac.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Lac.protect.md|Lac.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Lac.private.md|Lac.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Lac.personal.md|Lac.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Lac.secret.md|Lac.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Lac.internal|Lac.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Lac.protect|Lac.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Lac.private|Lac.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Lac.personal|Lac.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Lac.secret|Lac.secret]] 
 

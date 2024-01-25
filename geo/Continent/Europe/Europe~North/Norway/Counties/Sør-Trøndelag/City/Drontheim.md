@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Drontheim.md|Drontheim]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Drontheim.internal.md|Drontheim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Drontheim.protect.md|Drontheim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Drontheim.private.md|Drontheim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Drontheim.personal.md|Drontheim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Drontheim.secret.md|Drontheim.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Drontheim.internal|Drontheim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Drontheim.protect|Drontheim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Drontheim.private|Drontheim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Drontheim.personal|Drontheim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Drontheim.secret|Drontheim.secret]] 

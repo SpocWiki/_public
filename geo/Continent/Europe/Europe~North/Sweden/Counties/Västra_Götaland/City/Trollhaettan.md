@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Trollhaettan.md|Trollhaettan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Trollhaettan.internal.md|Trollhaettan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Trollhaettan.protect.md|Trollhaettan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Trollhaettan.private.md|Trollhaettan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Trollhaettan.personal.md|Trollhaettan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Trollhaettan.secret.md|Trollhaettan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Trollhaettan.internal|Trollhaettan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Trollhaettan.protect|Trollhaettan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Trollhaettan.private|Trollhaettan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Trollhaettan.personal|Trollhaettan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Trollhaettan.secret|Trollhaettan.secret]] 

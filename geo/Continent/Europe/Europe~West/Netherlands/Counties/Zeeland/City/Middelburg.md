@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Middelburg.md|Middelburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Middelburg.internal.md|Middelburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Middelburg.protect.md|Middelburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Middelburg.private.md|Middelburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Middelburg.personal.md|Middelburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Middelburg.secret.md|Middelburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Middelburg.internal|Middelburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Middelburg.protect|Middelburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Middelburg.private|Middelburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Middelburg.personal|Middelburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Middelburg.secret|Middelburg.secret]] 

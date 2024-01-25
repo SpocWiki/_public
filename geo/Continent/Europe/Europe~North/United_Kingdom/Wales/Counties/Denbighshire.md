@@ -41,9 +41,9 @@ markerFolder: ./Denbighshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.md|Denbighshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.internal.md|Denbighshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.protect.md|Denbighshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.private.md|Denbighshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.personal.md|Denbighshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.secret.md|Denbighshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.internal|Denbighshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.protect|Denbighshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.private|Denbighshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.personal|Denbighshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Denbighshire.secret|Denbighshire.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Local_quality-moving_Area]
 [SpocWebEntityId::23962]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.md|Triz-Strength+Local_quality-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.internal.md|Triz-Strength+Local_quality-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.protect.md|Triz-Strength+Local_quality-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.private.md|Triz-Strength+Local_quality-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.personal.md|Triz-Strength+Local_quality-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.secret.md|Triz-Strength+Local_quality-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.internal|Triz-Strength+Local_quality-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.protect|Triz-Strength+Local_quality-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.private|Triz-Strength+Local_quality-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.personal|Triz-Strength+Local_quality-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-moving_Area.secret|Triz-Strength+Local_quality-moving_Area.secret]] 

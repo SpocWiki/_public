@@ -41,9 +41,9 @@ markerFolder: ./East_Grand_Bahama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.md|East_Grand_Bahama]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.internal.md|East_Grand_Bahama.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.protect.md|East_Grand_Bahama.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.private.md|East_Grand_Bahama.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.personal.md|East_Grand_Bahama.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.secret.md|East_Grand_Bahama.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.internal|East_Grand_Bahama.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.protect|East_Grand_Bahama.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.private|East_Grand_Bahama.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.personal|East_Grand_Bahama.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/East_Grand_Bahama.secret|East_Grand_Bahama.secret]] 
 

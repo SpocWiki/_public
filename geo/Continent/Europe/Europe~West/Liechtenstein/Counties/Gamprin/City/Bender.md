@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.22]
 [name::Bender]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../../Europe~Central/Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Bender.md|Bender]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Bender.internal.md|Bender.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Bender.protect.md|Bender.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Bender.private.md|Bender.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Bender.personal.md|Bender.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Bender.secret.md|Bender.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Bender.internal|Bender.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Bender.protect|Bender.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Bender.private|Bender.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Bender.personal|Bender.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Bender.secret|Bender.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Mandoul/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Mandoul.md|Mandoul]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Mandoul.internal.md|Mandoul.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Mandoul.protect.md|Mandoul.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Mandoul.private.md|Mandoul.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Mandoul.personal.md|Mandoul.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Mandoul.secret.md|Mandoul.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Mandoul.internal|Mandoul.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Mandoul.protect|Mandoul.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Mandoul.private|Mandoul.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Mandoul.personal|Mandoul.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Mandoul.secret|Mandoul.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Flexible_film_or_thin_membranes-Stability]
 [SpocWebEntityId::25623]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.md|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.internal.md|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.protect.md|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.private.md|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.personal.md|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.secret.md|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.internal|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.protect|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.private|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.personal|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.secret|Triz-affected_harm+Flexible_film_or_thin_membranes-Stability.secret]] 

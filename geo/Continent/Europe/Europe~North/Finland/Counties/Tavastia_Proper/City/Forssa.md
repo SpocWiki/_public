@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Forssa.md|Forssa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Forssa.internal.md|Forssa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Forssa.protect.md|Forssa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Forssa.private.md|Forssa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Forssa.personal.md|Forssa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Forssa.secret.md|Forssa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Forssa.internal|Forssa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Forssa.protect|Forssa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Forssa.private|Forssa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Forssa.personal|Forssa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Forssa.secret|Forssa.secret]] 

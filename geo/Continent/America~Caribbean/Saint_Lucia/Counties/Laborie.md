@@ -41,9 +41,9 @@ markerFolder: ./Laborie/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.md|Laborie]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.internal.md|Laborie.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.protect.md|Laborie.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.private.md|Laborie.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.personal.md|Laborie.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.secret.md|Laborie.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.internal|Laborie.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.protect|Laborie.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.private|Laborie.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.personal|Laborie.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Laborie.secret|Laborie.secret]] 
 

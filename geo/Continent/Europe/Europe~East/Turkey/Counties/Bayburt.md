@@ -41,9 +41,9 @@ markerFolder: ./Bayburt/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bayburt.md|Bayburt]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bayburt.internal.md|Bayburt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bayburt.protect.md|Bayburt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bayburt.private.md|Bayburt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bayburt.personal.md|Bayburt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bayburt.secret.md|Bayburt.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bayburt.internal|Bayburt.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bayburt.protect|Bayburt.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bayburt.private|Bayburt.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bayburt.personal|Bayburt.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bayburt.secret|Bayburt.secret]] 
 

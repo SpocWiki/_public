@@ -41,9 +41,9 @@ markerFolder: ./Herzegovina-Neretva/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.md|Herzegovina-Neretva]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.internal.md|Herzegovina-Neretva.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.protect.md|Herzegovina-Neretva.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.private.md|Herzegovina-Neretva.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.personal.md|Herzegovina-Neretva.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.secret.md|Herzegovina-Neretva.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.internal|Herzegovina-Neretva.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.protect|Herzegovina-Neretva.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.private|Herzegovina-Neretva.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.personal|Herzegovina-Neretva.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.secret|Herzegovina-Neretva.secret]] 
 

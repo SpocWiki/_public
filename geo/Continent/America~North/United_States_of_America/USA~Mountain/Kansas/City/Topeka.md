@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.md|Topeka]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.internal.md|Topeka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.protect.md|Topeka.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.private.md|Topeka.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.personal.md|Topeka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.secret.md|Topeka.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.internal|Topeka.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.protect|Topeka.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.private|Topeka.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.personal|Topeka.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.secret|Topeka.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Local_quality-Versatility]
 [SpocWebEntityId::25216]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.md|Triz-Quantity+Local_quality-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.internal.md|Triz-Quantity+Local_quality-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.protect.md|Triz-Quantity+Local_quality-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.private.md|Triz-Quantity+Local_quality-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.personal.md|Triz-Quantity+Local_quality-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.secret.md|Triz-Quantity+Local_quality-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.internal|Triz-Quantity+Local_quality-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.protect|Triz-Quantity+Local_quality-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.private|Triz-Quantity+Local_quality-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.personal|Triz-Quantity+Local_quality-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.secret|Triz-Quantity+Local_quality-Versatility.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Radovis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Radovis.md|Radovis]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Radovis.internal.md|Radovis.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Radovis.protect.md|Radovis.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Radovis.private.md|Radovis.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Radovis.personal.md|Radovis.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Radovis.secret.md|Radovis.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Radovis.internal|Radovis.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Radovis.protect|Radovis.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Radovis.private|Radovis.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Radovis.personal|Radovis.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Radovis.secret|Radovis.secret]] 
 

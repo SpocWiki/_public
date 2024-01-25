@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pyhaejaervi.md|Pyhaejaervi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pyhaejaervi.internal.md|Pyhaejaervi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pyhaejaervi.protect.md|Pyhaejaervi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pyhaejaervi.private.md|Pyhaejaervi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pyhaejaervi.personal.md|Pyhaejaervi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pyhaejaervi.secret.md|Pyhaejaervi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pyhaejaervi.internal|Pyhaejaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pyhaejaervi.protect|Pyhaejaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pyhaejaervi.private|Pyhaejaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pyhaejaervi.personal|Pyhaejaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pyhaejaervi.secret|Pyhaejaervi.secret]] 

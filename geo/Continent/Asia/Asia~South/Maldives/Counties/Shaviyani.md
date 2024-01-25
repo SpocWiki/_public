@@ -41,9 +41,9 @@ markerFolder: ./Shaviyani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.md|Shaviyani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.internal.md|Shaviyani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.protect.md|Shaviyani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.private.md|Shaviyani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.personal.md|Shaviyani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.secret.md|Shaviyani.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.internal|Shaviyani.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.protect|Shaviyani.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.private|Shaviyani.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.personal|Shaviyani.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.secret|Shaviyani.secret]] 
 

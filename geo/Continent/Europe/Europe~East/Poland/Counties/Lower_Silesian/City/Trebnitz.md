@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Trebnitz.md|Trebnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Trebnitz.internal.md|Trebnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Trebnitz.protect.md|Trebnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Trebnitz.private.md|Trebnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Trebnitz.personal.md|Trebnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Trebnitz.secret.md|Trebnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Trebnitz.internal|Trebnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Trebnitz.protect|Trebnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Trebnitz.private|Trebnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Trebnitz.personal|Trebnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Trebnitz.secret|Trebnitz.secret]] 

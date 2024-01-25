@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Mechanical_vibration-generated_harm]
 [SpocWebEntityId::24572]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.md|Triz-stationary_Energy+Mechanical_vibration-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.internal.md|Triz-stationary_Energy+Mechanical_vibration-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.protect.md|Triz-stationary_Energy+Mechanical_vibration-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.private.md|Triz-stationary_Energy+Mechanical_vibration-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.personal.md|Triz-stationary_Energy+Mechanical_vibration-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.secret.md|Triz-stationary_Energy+Mechanical_vibration-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.internal|Triz-stationary_Energy+Mechanical_vibration-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.protect|Triz-stationary_Energy+Mechanical_vibration-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.private|Triz-stationary_Energy+Mechanical_vibration-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.personal|Triz-stationary_Energy+Mechanical_vibration-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.secret|Triz-stationary_Energy+Mechanical_vibration-generated_harm.secret]] 

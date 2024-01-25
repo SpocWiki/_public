@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Dahlem|Dahlem]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.internal.md|Dahlem.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.protect.md|Dahlem.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.private.md|Dahlem.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.personal.md|Dahlem.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.secret.md|Dahlem.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.internal|Dahlem.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.protect|Dahlem.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.private|Dahlem.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.personal|Dahlem.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.secret|Dahlem.secret]] 

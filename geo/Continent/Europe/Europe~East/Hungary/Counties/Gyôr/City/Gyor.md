@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Gyor.md|Gyor]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyor.internal.md|Gyor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyor.protect.md|Gyor.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyor.private.md|Gyor.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyor.personal.md|Gyor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyor.secret.md|Gyor.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyor.internal|Gyor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyor.protect|Gyor.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyor.private|Gyor.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyor.personal|Gyor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyor.secret|Gyor.secret]] 

@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Karelia~Republic|State~Karelia~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Karelia~Republic.internal|State~Karelia~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Karelia~Republic.protect.md|State~Karelia~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Karelia~Republic.private.md|State~Karelia~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Karelia~Republic.personal.md|State~Karelia~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Karelia~Republic.secret.md|State~Karelia~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Karelia~Republic.protect|State~Karelia~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Karelia~Republic.private|State~Karelia~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Karelia~Republic.personal|State~Karelia~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Karelia~Republic.secret|State~Karelia~Republic.secret]] 

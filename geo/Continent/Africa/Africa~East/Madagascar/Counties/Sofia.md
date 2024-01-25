@@ -41,9 +41,9 @@ markerFolder: ./Sofia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Sofia.md|Sofia]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Sofia.internal.md|Sofia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Sofia.protect.md|Sofia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Sofia.private.md|Sofia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Sofia.personal.md|Sofia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Sofia.secret.md|Sofia.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Sofia.internal|Sofia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Sofia.protect|Sofia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Sofia.private|Sofia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Sofia.personal|Sofia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Sofia.secret|Sofia.secret]] 
 

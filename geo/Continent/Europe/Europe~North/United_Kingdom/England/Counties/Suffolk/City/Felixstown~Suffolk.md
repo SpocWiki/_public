@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.md|Felixstown~Suffolk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.internal.md|Felixstown~Suffolk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.protect.md|Felixstown~Suffolk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.private.md|Felixstown~Suffolk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.personal.md|Felixstown~Suffolk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.secret.md|Felixstown~Suffolk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.internal|Felixstown~Suffolk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.protect|Felixstown~Suffolk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.private|Felixstown~Suffolk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.personal|Felixstown~Suffolk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Felixstown~Suffolk.secret|Felixstown~Suffolk.secret]] 

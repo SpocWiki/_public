@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.md|Nystad=Unsikanpuski]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.internal.md|Nystad=Unsikanpuski.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.protect.md|Nystad=Unsikanpuski.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.private.md|Nystad=Unsikanpuski.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.personal.md|Nystad=Unsikanpuski.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.secret.md|Nystad=Unsikanpuski.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.internal|Nystad=Unsikanpuski.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.protect|Nystad=Unsikanpuski.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.private|Nystad=Unsikanpuski.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.personal|Nystad=Unsikanpuski.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.secret|Nystad=Unsikanpuski.secret]] 

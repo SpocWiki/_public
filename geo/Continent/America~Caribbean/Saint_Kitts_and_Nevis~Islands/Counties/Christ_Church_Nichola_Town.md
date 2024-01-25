@@ -41,9 +41,9 @@ markerFolder: ./Christ_Church_Nichola_Town/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.md|Christ_Church_Nichola_Town]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.internal.md|Christ_Church_Nichola_Town.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.protect.md|Christ_Church_Nichola_Town.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.private.md|Christ_Church_Nichola_Town.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.personal.md|Christ_Church_Nichola_Town.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.secret.md|Christ_Church_Nichola_Town.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.internal|Christ_Church_Nichola_Town.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.protect|Christ_Church_Nichola_Town.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.private|Christ_Church_Nichola_Town.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.personal|Christ_Church_Nichola_Town.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.secret|Christ_Church_Nichola_Town.secret]] 
 

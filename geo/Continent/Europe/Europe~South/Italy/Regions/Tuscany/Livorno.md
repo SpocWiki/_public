@@ -41,9 +41,9 @@ markerFolder: ./Livorno/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.md|Livorno]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.internal.md|Livorno.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.protect.md|Livorno.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.private.md|Livorno.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.personal.md|Livorno.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.secret.md|Livorno.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.internal|Livorno.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.protect|Livorno.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.private|Livorno.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.personal|Livorno.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Tuscany/Livorno.secret|Livorno.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Narwa.md|Narwa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Narwa.internal.md|Narwa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Narwa.protect.md|Narwa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Narwa.private.md|Narwa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Narwa.personal.md|Narwa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Narwa.secret.md|Narwa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Narwa.internal|Narwa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Narwa.protect|Narwa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Narwa.private|Narwa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Narwa.personal|Narwa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Narwa.secret|Narwa.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Valencia.City.md|Valencia.City]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Valencia.City.internal.md|Valencia.City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Valencia.City.protect.md|Valencia.City.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Valencia.City.private.md|Valencia.City.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Valencia.City.personal.md|Valencia.City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Valencia.City.secret.md|Valencia.City.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Valencia.City.internal|Valencia.City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Valencia.City.protect|Valencia.City.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Valencia.City.private|Valencia.City.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Valencia.City.personal|Valencia.City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Valencia.City.secret|Valencia.City.secret]] 

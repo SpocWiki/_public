@@ -18,8 +18,8 @@ Employees 'disappear' from the Customers in a Theme Park, descend into a Tunnel,
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-disappearing_Actors.md|Triz-disappearing_Actors]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-disappearing_Actors.internal.md|Triz-disappearing_Actors.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-disappearing_Actors.protect.md|Triz-disappearing_Actors.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-disappearing_Actors.private.md|Triz-disappearing_Actors.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-disappearing_Actors.personal.md|Triz-disappearing_Actors.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-disappearing_Actors.secret.md|Triz-disappearing_Actors.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-disappearing_Actors.internal|Triz-disappearing_Actors.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-disappearing_Actors.protect|Triz-disappearing_Actors.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-disappearing_Actors.private|Triz-disappearing_Actors.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-disappearing_Actors.personal|Triz-disappearing_Actors.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-disappearing_Actors.secret|Triz-disappearing_Actors.secret]] 

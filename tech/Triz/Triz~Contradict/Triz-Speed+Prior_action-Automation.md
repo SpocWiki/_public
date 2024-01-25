@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Prior_action-Automation]
 [SpocWebEntityId::23475]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.md|Triz-Speed+Prior_action-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.internal.md|Triz-Speed+Prior_action-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.protect.md|Triz-Speed+Prior_action-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.private.md|Triz-Speed+Prior_action-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.personal.md|Triz-Speed+Prior_action-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.secret.md|Triz-Speed+Prior_action-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.internal|Triz-Speed+Prior_action-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.protect|Triz-Speed+Prior_action-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.private|Triz-Speed+Prior_action-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.personal|Triz-Speed+Prior_action-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.secret|Triz-Speed+Prior_action-Automation.secret]] 

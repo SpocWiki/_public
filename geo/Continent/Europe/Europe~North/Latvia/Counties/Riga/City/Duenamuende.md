@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Duenamuende.md|Duenamuende]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Duenamuende.internal.md|Duenamuende.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Duenamuende.protect.md|Duenamuende.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Duenamuende.private.md|Duenamuende.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Duenamuende.personal.md|Duenamuende.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Duenamuende.secret.md|Duenamuende.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Duenamuende.internal|Duenamuende.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Duenamuende.protect|Duenamuende.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Duenamuende.private|Duenamuende.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Duenamuende.personal|Duenamuende.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Duenamuende.secret|Duenamuende.secret]] 

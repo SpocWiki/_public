@@ -34,8 +34,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Suurupi|Suurupi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Surop.internal.md|Surop.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Surop.protect.md|Surop.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Surop.private.md|Surop.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Surop.personal.md|Surop.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Surop.secret.md|Surop.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Surop.internal|Surop.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Surop.protect|Surop.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Surop.private|Surop.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Surop.personal|Surop.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Surop.secret|Surop.secret]] 

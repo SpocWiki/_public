@@ -41,9 +41,9 @@ markerFolder: ./Northern_Territory/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/Australia/Counties/Northern_Territory.md|Northern_Territory]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Northern_Territory.internal.md|Northern_Territory.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Northern_Territory.protect.md|Northern_Territory.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Northern_Territory.private.md|Northern_Territory.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Northern_Territory.personal.md|Northern_Territory.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Northern_Territory.secret.md|Northern_Territory.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Northern_Territory.internal|Northern_Territory.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Northern_Territory.protect|Northern_Territory.protect]] 
+- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Northern_Territory.private|Northern_Territory.private]] 
+- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Northern_Territory.personal|Northern_Territory.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Northern_Territory.secret|Northern_Territory.secret]] 
 

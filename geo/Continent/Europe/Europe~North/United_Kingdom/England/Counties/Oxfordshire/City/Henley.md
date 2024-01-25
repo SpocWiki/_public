@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Henley.md|Henley]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Henley.internal.md|Henley.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Henley.protect.md|Henley.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Henley.private.md|Henley.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Henley.personal.md|Henley.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Henley.secret.md|Henley.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Henley.internal|Henley.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Henley.protect|Henley.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Henley.private|Henley.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Henley.personal|Henley.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Henley.secret|Henley.secret]] 

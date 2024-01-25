@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Extraction-Power]
 [SpocWebEntityId::25534]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.md|Triz-Manufacturing_Precision+Extraction-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.internal.md|Triz-Manufacturing_Precision+Extraction-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.protect.md|Triz-Manufacturing_Precision+Extraction-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.private.md|Triz-Manufacturing_Precision+Extraction-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.personal.md|Triz-Manufacturing_Precision+Extraction-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.secret.md|Triz-Manufacturing_Precision+Extraction-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.internal|Triz-Manufacturing_Precision+Extraction-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.protect|Triz-Manufacturing_Precision+Extraction-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.private|Triz-Manufacturing_Precision+Extraction-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.personal|Triz-Manufacturing_Precision+Extraction-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.secret|Triz-Manufacturing_Precision+Extraction-Power.secret]] 

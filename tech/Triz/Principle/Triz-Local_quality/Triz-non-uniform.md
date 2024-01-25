@@ -25,8 +25,8 @@ Change an object's structure from uniform to non-uniform, change an external env
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-non-uniform.md|Triz-non-uniform]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-non-uniform.internal.md|Triz-non-uniform.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-non-uniform.protect.md|Triz-non-uniform.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-non-uniform.private.md|Triz-non-uniform.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-non-uniform.personal.md|Triz-non-uniform.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-non-uniform.secret.md|Triz-non-uniform.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-non-uniform.internal|Triz-non-uniform.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-non-uniform.protect|Triz-non-uniform.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-non-uniform.private|Triz-non-uniform.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-non-uniform.personal|Triz-non-uniform.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-non-uniform.secret|Triz-non-uniform.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Aiga-i-le-Tai/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.md|Aiga-i-le-Tai]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.internal.md|Aiga-i-le-Tai.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.protect.md|Aiga-i-le-Tai.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.private.md|Aiga-i-le-Tai.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.personal.md|Aiga-i-le-Tai.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.secret.md|Aiga-i-le-Tai.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.internal|Aiga-i-le-Tai.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.protect|Aiga-i-le-Tai.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.private|Aiga-i-le-Tai.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.personal|Aiga-i-le-Tai.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.secret|Aiga-i-le-Tai.secret]] 
 

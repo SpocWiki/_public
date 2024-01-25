@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Thermal_expansion-Stability]
 [SpocWebEntityId::22939]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.md|Triz-stationary_Length+Thermal_expansion-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.internal.md|Triz-stationary_Length+Thermal_expansion-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.protect.md|Triz-stationary_Length+Thermal_expansion-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.private.md|Triz-stationary_Length+Thermal_expansion-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.personal.md|Triz-stationary_Length+Thermal_expansion-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.secret.md|Triz-stationary_Length+Thermal_expansion-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.internal|Triz-stationary_Length+Thermal_expansion-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.protect|Triz-stationary_Length+Thermal_expansion-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.private|Triz-stationary_Length+Thermal_expansion-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.personal|Triz-stationary_Length+Thermal_expansion-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.secret|Triz-stationary_Length+Thermal_expansion-Stability.secret]] 

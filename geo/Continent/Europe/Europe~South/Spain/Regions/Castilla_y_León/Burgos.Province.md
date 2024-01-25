@@ -41,9 +41,9 @@ markerFolder: ./Burgos.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.md|Burgos.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.internal.md|Burgos.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.protect.md|Burgos.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.private.md|Burgos.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.personal.md|Burgos.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.secret.md|Burgos.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.internal|Burgos.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.protect|Burgos.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.private|Burgos.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.personal|Burgos.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Burgos.Province.secret|Burgos.Province.secret]] 
 

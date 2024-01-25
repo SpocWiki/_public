@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22207-Complexity]
 [SpocWebEntityId::26757]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22207]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22207-Complexity.md|Triz-10307+22207-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22207-Complexity.internal.md|Triz-10307+22207-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22207-Complexity.protect.md|Triz-10307+22207-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22207-Complexity.private.md|Triz-10307+22207-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22207-Complexity.personal.md|Triz-10307+22207-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22207-Complexity.secret.md|Triz-10307+22207-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22207-Complexity.internal|Triz-10307+22207-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22207-Complexity.protect|Triz-10307+22207-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22207-Complexity.private|Triz-10307+22207-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22207-Complexity.personal|Triz-10307+22207-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22207-Complexity.secret|Triz-10307+22207-Complexity.secret]] 

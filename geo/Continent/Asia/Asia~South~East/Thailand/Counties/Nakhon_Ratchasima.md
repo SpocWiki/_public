@@ -41,9 +41,9 @@ markerFolder: ./Nakhon_Ratchasima/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.md|Nakhon_Ratchasima]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.internal.md|Nakhon_Ratchasima.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.protect.md|Nakhon_Ratchasima.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.private.md|Nakhon_Ratchasima.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.personal.md|Nakhon_Ratchasima.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.secret.md|Nakhon_Ratchasima.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.internal|Nakhon_Ratchasima.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.protect|Nakhon_Ratchasima.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.private|Nakhon_Ratchasima.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.personal|Nakhon_Ratchasima.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.secret|Nakhon_Ratchasima.secret]] 
 

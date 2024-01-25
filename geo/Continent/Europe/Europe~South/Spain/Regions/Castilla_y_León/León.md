@@ -41,9 +41,9 @@ markerFolder: ./León/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.md|León]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.internal.md|León.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.protect.md|León.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.private.md|León.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.personal.md|León.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.secret.md|León.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.internal|León.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.protect|León.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.private|León.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.personal|León.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/León.secret|León.secret]] 
 

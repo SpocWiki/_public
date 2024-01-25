@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Local_quality-stationary_Weight]
 [SpocWebEntityId::25236]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.md|Triz-Reliability+Local_quality-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.internal.md|Triz-Reliability+Local_quality-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.protect.md|Triz-Reliability+Local_quality-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.private.md|Triz-Reliability+Local_quality-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.personal.md|Triz-Reliability+Local_quality-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.secret.md|Triz-Reliability+Local_quality-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.internal|Triz-Reliability+Local_quality-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.protect|Triz-Reliability+Local_quality-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.private|Triz-Reliability+Local_quality-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.personal|Triz-Reliability+Local_quality-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.secret|Triz-Reliability+Local_quality-stationary_Weight.secret]] 

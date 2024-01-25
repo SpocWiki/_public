@@ -41,9 +41,9 @@ markerFolder: ./Haifa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.md|Haifa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.internal.md|Haifa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.protect.md|Haifa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.private.md|Haifa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.personal.md|Haifa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.secret.md|Haifa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.internal|Haifa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.protect|Haifa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.private|Haifa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.personal|Haifa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.secret|Haifa.secret]] 
 

@@ -129,7 +129,7 @@ markerFolder: ./Western_Sahara//
 ## Confidential Links & Embeds: 
 - [[Western_Sahara|Western_Sahara]] 
 - [[../../../../../_internal/geo/Continent/Africa/Western_Sahara.internal|Western_Sahara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Western_Sahara.protect.md|Western_Sahara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Western_Sahara.private.md|Western_Sahara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Western_Sahara.personal.md|Western_Sahara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Western_Sahara.secret.md|Western_Sahara.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Western_Sahara.protect|Western_Sahara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Western_Sahara.private|Western_Sahara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Western_Sahara.personal|Western_Sahara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Western_Sahara.secret|Western_Sahara.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Talas.md|Talas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Talas.internal.md|Talas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Talas.protect.md|Talas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Talas.private.md|Talas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Talas.personal.md|Talas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Talas.secret.md|Talas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Talas.internal|Talas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Talas.protect|Talas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Talas.private|Talas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Talas.personal|Talas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Talas.secret|Talas.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kocenu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Kocenu.md|Kocenu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kocenu.internal.md|Kocenu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kocenu.protect.md|Kocenu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kocenu.private.md|Kocenu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kocenu.personal.md|Kocenu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kocenu.secret.md|Kocenu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kocenu.internal|Kocenu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kocenu.protect|Kocenu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kocenu.private|Kocenu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kocenu.personal|Kocenu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kocenu.secret|Kocenu.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Taitung/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.md|Taitung]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.internal.md|Taitung.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.protect.md|Taitung.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.private.md|Taitung.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.personal.md|Taitung.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.secret.md|Taitung.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.internal|Taitung.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.protect|Taitung.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.private|Taitung.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.personal|Taitung.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taitung.secret|Taitung.secret]] 
 

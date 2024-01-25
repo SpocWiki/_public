@@ -41,9 +41,9 @@ markerFolder: ./North_Gyeongsang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.md|North_Gyeongsang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.internal.md|North_Gyeongsang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.protect.md|North_Gyeongsang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.private.md|North_Gyeongsang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.personal.md|North_Gyeongsang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.secret.md|North_Gyeongsang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.internal|North_Gyeongsang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.protect|North_Gyeongsang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.private|North_Gyeongsang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.personal|North_Gyeongsang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Gyeongsang.secret|North_Gyeongsang.secret]] 
 

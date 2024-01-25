@@ -41,9 +41,9 @@ markerFolder: ./Miquelon-Langlade/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.md|Miquelon-Langlade]] 
-- [[../../../../_internal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.internal.md|Miquelon-Langlade.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.protect.md|Miquelon-Langlade.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.private.md|Miquelon-Langlade.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.personal.md|Miquelon-Langlade.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.secret.md|Miquelon-Langlade.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.internal|Miquelon-Langlade.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.protect|Miquelon-Langlade.protect]] 
+- [[../../../../_private/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.private|Miquelon-Langlade.private]] 
+- [[../../../../_personal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.personal|Miquelon-Langlade.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.secret|Miquelon-Langlade.secret]] 
 

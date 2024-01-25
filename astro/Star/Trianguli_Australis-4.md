@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Trianguli_Australis-4.md|Trianguli_Australis-4]] 
-- [[../../../_internal/astro/Star/Trianguli_Australis-4.internal.md|Trianguli_Australis-4.internal]] 
-- [[../../../_protect/astro/Star/Trianguli_Australis-4.protect.md|Trianguli_Australis-4.protect]] 
-- [[../../../_private/astro/Star/Trianguli_Australis-4.private.md|Trianguli_Australis-4.private]] 
-- [[../../../_personal/astro/Star/Trianguli_Australis-4.personal.md|Trianguli_Australis-4.personal]] 
-- [[../../../_secret/astro/Star/Trianguli_Australis-4.secret.md|Trianguli_Australis-4.secret]] 
+- [[../../../_internal/astro/Star/Trianguli_Australis-4.internal|Trianguli_Australis-4.internal]] 
+- [[../../../_protect/astro/Star/Trianguli_Australis-4.protect|Trianguli_Australis-4.protect]] 
+- [[../../../_private/astro/Star/Trianguli_Australis-4.private|Trianguli_Australis-4.private]] 
+- [[../../../_personal/astro/Star/Trianguli_Australis-4.personal|Trianguli_Australis-4.personal]] 
+- [[../../../_secret/astro/Star/Trianguli_Australis-4.secret|Trianguli_Australis-4.secret]] 

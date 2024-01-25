@@ -18,8 +18,8 @@ Device complexity: intricacy or sophistication of a system
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Complexity.md|Triz-Complexity]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-Complexity.internal.md|Triz-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-Complexity.protect.md|Triz-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-Complexity.private.md|Triz-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-Complexity.personal.md|Triz-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-Complexity.secret.md|Triz-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Complexity.internal|Triz-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Complexity.protect|Triz-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Complexity.private|Triz-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Complexity.personal|Triz-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Complexity.secret|Triz-Complexity.secret]] 

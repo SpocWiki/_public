@@ -41,9 +41,9 @@ markerFolder: ./Lumparland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.md|Lumparland]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.internal.md|Lumparland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.protect.md|Lumparland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.private.md|Lumparland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.personal.md|Lumparland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.secret.md|Lumparland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.internal|Lumparland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.protect|Lumparland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.private|Lumparland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.personal|Lumparland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Lumparland.secret|Lumparland.secret]] 
 

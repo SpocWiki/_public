@@ -41,9 +41,9 @@ markerFolder: ./Gombe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Gombe.md|Gombe]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Gombe.internal.md|Gombe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Gombe.protect.md|Gombe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Gombe.private.md|Gombe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Gombe.personal.md|Gombe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Gombe.secret.md|Gombe.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Gombe.internal|Gombe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Gombe.protect|Gombe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Gombe.private|Gombe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Gombe.personal|Gombe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Gombe.secret|Gombe.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Bolivia/City/Sucre.md|Sucre]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Bolivia/City/Sucre.internal.md|Sucre.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Bolivia/City/Sucre.protect.md|Sucre.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Bolivia/City/Sucre.private.md|Sucre.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Bolivia/City/Sucre.personal.md|Sucre.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Bolivia/City/Sucre.secret.md|Sucre.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Bolivia/City/Sucre.internal|Sucre.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Bolivia/City/Sucre.protect|Sucre.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Bolivia/City/Sucre.private|Sucre.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Bolivia/City/Sucre.personal|Sucre.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Bolivia/City/Sucre.secret|Sucre.secret]] 

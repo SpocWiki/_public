@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Nuoro.md|Nuoro]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Nuoro.internal.md|Nuoro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Nuoro.protect.md|Nuoro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Nuoro.private.md|Nuoro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Nuoro.personal.md|Nuoro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Nuoro.secret.md|Nuoro.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Nuoro.internal|Nuoro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Nuoro.protect|Nuoro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Nuoro.private|Nuoro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Nuoro.personal|Nuoro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Nuoro.secret|Nuoro.secret]] 

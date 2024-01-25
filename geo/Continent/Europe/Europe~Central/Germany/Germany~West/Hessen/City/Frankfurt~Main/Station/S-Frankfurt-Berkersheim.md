@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Frankfurt-Berkersheim|S-Frankfurt-Berkersheim]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.internal.md|S-Frankfurt-Berkersheim.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.protect.md|S-Frankfurt-Berkersheim.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.private.md|S-Frankfurt-Berkersheim.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.personal.md|S-Frankfurt-Berkersheim.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.secret.md|S-Frankfurt-Berkersheim.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.internal|S-Frankfurt-Berkersheim.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.protect|S-Frankfurt-Berkersheim.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.private|S-Frankfurt-Berkersheim.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.personal|S-Frankfurt-Berkersheim.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Berkersheim.secret|S-Frankfurt-Berkersheim.secret]] 

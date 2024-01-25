@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/San_Fernando.md|San_Fernando]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/San_Fernando.internal.md|San_Fernando.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/San_Fernando.protect.md|San_Fernando.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/San_Fernando.private.md|San_Fernando.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/San_Fernando.personal.md|San_Fernando.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/San_Fernando.secret.md|San_Fernando.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/San_Fernando.internal|San_Fernando.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/San_Fernando.protect|San_Fernando.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/San_Fernando.private|San_Fernando.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/San_Fernando.personal|San_Fernando.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/San_Fernando.secret|San_Fernando.secret]] 

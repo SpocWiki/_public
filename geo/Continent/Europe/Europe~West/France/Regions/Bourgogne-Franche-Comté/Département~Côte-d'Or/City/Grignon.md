@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Grignon.md|Grignon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Grignon.internal.md|Grignon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Grignon.protect.md|Grignon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Grignon.private.md|Grignon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Grignon.personal.md|Grignon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Grignon.secret.md|Grignon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Grignon.internal|Grignon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Grignon.protect|Grignon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Grignon.private|Grignon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Grignon.personal|Grignon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Grignon.secret|Grignon.secret]] 

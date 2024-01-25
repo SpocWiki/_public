@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Phase_transition-Complexity]
 [SpocWebEntityId::22682]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.md|Triz-moving_Weight+Phase_transition-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.internal.md|Triz-moving_Weight+Phase_transition-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.protect.md|Triz-moving_Weight+Phase_transition-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.private.md|Triz-moving_Weight+Phase_transition-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.personal.md|Triz-moving_Weight+Phase_transition-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.secret.md|Triz-moving_Weight+Phase_transition-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.internal|Triz-moving_Weight+Phase_transition-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.protect|Triz-moving_Weight+Phase_transition-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.private|Triz-moving_Weight+Phase_transition-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.personal|Triz-moving_Weight+Phase_transition-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.secret|Triz-moving_Weight+Phase_transition-Complexity.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.md|Kansas~City]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.internal.md|Kansas~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.protect.md|Kansas~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.private.md|Kansas~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.personal.md|Kansas~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.secret.md|Kansas~City.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.internal|Kansas~City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.protect|Kansas~City.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.private|Kansas~City.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.personal|Kansas~City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.secret|Kansas~City.secret]] 

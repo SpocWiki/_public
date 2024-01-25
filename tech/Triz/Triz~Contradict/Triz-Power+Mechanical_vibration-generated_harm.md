@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Mechanical_vibration-generated_harm]
 [SpocWebEntityId::24673]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.md|Triz-Power+Mechanical_vibration-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.internal.md|Triz-Power+Mechanical_vibration-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.protect.md|Triz-Power+Mechanical_vibration-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.private.md|Triz-Power+Mechanical_vibration-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.personal.md|Triz-Power+Mechanical_vibration-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.secret.md|Triz-Power+Mechanical_vibration-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.internal|Triz-Power+Mechanical_vibration-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.protect|Triz-Power+Mechanical_vibration-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.private|Triz-Power+Mechanical_vibration-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.personal|Triz-Power+Mechanical_vibration-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.secret|Triz-Power+Mechanical_vibration-generated_harm.secret]] 

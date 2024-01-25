@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Puppis.md|Zodiac~Puppis]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Puppis.internal.md|Zodiac~Puppis.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Puppis.protect.md|Zodiac~Puppis.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Puppis.private.md|Zodiac~Puppis.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Puppis.personal.md|Zodiac~Puppis.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Puppis.secret.md|Zodiac~Puppis.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Puppis.internal|Zodiac~Puppis.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Puppis.protect|Zodiac~Puppis.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Puppis.private|Zodiac~Puppis.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Puppis.personal|Zodiac~Puppis.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Puppis.secret|Zodiac~Puppis.secret]] 

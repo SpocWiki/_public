@@ -137,8 +137,8 @@ markerFolder: ./France//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France.md|France]] 
-- [[../../../../_internal/geo/Continent/Europe/France.internal.md|France.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France.protect.md|France.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France.private.md|France.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France.personal.md|France.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France.secret.md|France.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France.internal|France.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France.protect|France.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France.private|France.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France.personal|France.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France.secret|France.secret]] 

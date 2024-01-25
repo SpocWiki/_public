@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Lourdes.md|Lourdes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lourdes.internal.md|Lourdes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lourdes.protect.md|Lourdes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Lourdes.private.md|Lourdes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lourdes.personal.md|Lourdes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lourdes.secret.md|Lourdes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lourdes.internal|Lourdes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lourdes.protect|Lourdes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lourdes.private|Lourdes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lourdes.personal|Lourdes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lourdes.secret|Lourdes.secret]] 

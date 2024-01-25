@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kamyschin.md|Kamyschin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kamyschin.internal.md|Kamyschin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kamyschin.protect.md|Kamyschin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kamyschin.private.md|Kamyschin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kamyschin.personal.md|Kamyschin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kamyschin.secret.md|Kamyschin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kamyschin.internal|Kamyschin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kamyschin.protect|Kamyschin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kamyschin.private|Kamyschin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kamyschin.personal|Kamyschin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kamyschin.secret|Kamyschin.secret]] 

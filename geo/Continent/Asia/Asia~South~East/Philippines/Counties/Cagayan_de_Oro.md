@@ -41,9 +41,9 @@ markerFolder: ./Cagayan_de_Oro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.md|Cagayan_de_Oro]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.internal.md|Cagayan_de_Oro.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.protect.md|Cagayan_de_Oro.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.private.md|Cagayan_de_Oro.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.personal.md|Cagayan_de_Oro.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.secret.md|Cagayan_de_Oro.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.internal|Cagayan_de_Oro.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.protect|Cagayan_de_Oro.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.private|Cagayan_de_Oro.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.personal|Cagayan_de_Oro.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cagayan_de_Oro.secret|Cagayan_de_Oro.secret]] 
 

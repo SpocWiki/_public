@@ -41,9 +41,9 @@ markerFolder: ./Los_Rios/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Los_Rios.md|Los_Rios]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Los_Rios.internal.md|Los_Rios.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Los_Rios.protect.md|Los_Rios.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Los_Rios.private.md|Los_Rios.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Los_Rios.personal.md|Los_Rios.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Los_Rios.secret.md|Los_Rios.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Los_Rios.internal|Los_Rios.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Los_Rios.protect|Los_Rios.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Los_Rios.private|Los_Rios.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Los_Rios.personal|Los_Rios.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Los_Rios.secret|Los_Rios.secret]] 
 

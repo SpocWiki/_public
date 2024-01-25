@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Laholm.md|Laholm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Laholm.internal.md|Laholm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Laholm.protect.md|Laholm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Laholm.private.md|Laholm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Laholm.personal.md|Laholm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Laholm.secret.md|Laholm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Laholm.internal|Laholm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Laholm.protect|Laholm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Laholm.private|Laholm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Laholm.personal|Laholm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Laholm.secret|Laholm.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mariupol.md|Mariupol]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariupol.internal.md|Mariupol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariupol.protect.md|Mariupol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mariupol.private.md|Mariupol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariupol.personal.md|Mariupol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariupol.secret.md|Mariupol.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariupol.internal|Mariupol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariupol.protect|Mariupol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mariupol.private|Mariupol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariupol.personal|Mariupol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariupol.secret|Mariupol.secret]] 

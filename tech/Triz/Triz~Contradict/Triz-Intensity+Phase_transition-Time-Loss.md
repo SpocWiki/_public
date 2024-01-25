@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Phase_transition-Time-Loss]
 [SpocWebEntityId::23548]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.md|Triz-Intensity+Phase_transition-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.internal.md|Triz-Intensity+Phase_transition-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.protect.md|Triz-Intensity+Phase_transition-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.private.md|Triz-Intensity+Phase_transition-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.personal.md|Triz-Intensity+Phase_transition-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.secret.md|Triz-Intensity+Phase_transition-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.internal|Triz-Intensity+Phase_transition-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.protect|Triz-Intensity+Phase_transition-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.private|Triz-Intensity+Phase_transition-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.personal|Triz-Intensity+Phase_transition-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.secret|Triz-Intensity+Phase_transition-Time-Loss.secret]] 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Herculis-15.md|Herculis-15]] 
-- [[../../../_internal/astro/Star/Herculis-15.internal.md|Herculis-15.internal]] 
-- [[../../../_protect/astro/Star/Herculis-15.protect.md|Herculis-15.protect]] 
-- [[../../../_private/astro/Star/Herculis-15.private.md|Herculis-15.private]] 
-- [[../../../_personal/astro/Star/Herculis-15.personal.md|Herculis-15.personal]] 
-- [[../../../_secret/astro/Star/Herculis-15.secret.md|Herculis-15.secret]]
+- [[../../../_internal/astro/Star/Herculis-15.internal|Herculis-15.internal]] 
+- [[../../../_protect/astro/Star/Herculis-15.protect|Herculis-15.protect]] 
+- [[../../../_private/astro/Star/Herculis-15.private|Herculis-15.private]] 
+- [[../../../_personal/astro/Star/Herculis-15.personal|Herculis-15.personal]] 
+- [[../../../_secret/astro/Star/Herculis-15.secret|Herculis-15.secret]]
 

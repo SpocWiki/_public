@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty]
 [SpocWebEntityId::22905]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.personal.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.secret.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.personal|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.secret|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.secret]] 

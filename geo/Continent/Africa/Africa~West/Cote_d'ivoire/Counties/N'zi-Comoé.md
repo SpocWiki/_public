@@ -41,9 +41,9 @@ markerFolder: ./N'zi-Comoé/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.md|N'zi-Comoé]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.internal.md|N'zi-Comoé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.protect.md|N'zi-Comoé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.private.md|N'zi-Comoé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.personal.md|N'zi-Comoé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.secret.md|N'zi-Comoé.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.internal|N'zi-Comoé.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.protect|N'zi-Comoé.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.private|N'zi-Comoé.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.personal|N'zi-Comoé.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/N'zi-Comoé.secret|N'zi-Comoé.secret]] 
 

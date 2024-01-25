@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Osh.md|Osh]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Osh.internal.md|Osh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Osh.protect.md|Osh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Osh.private.md|Osh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Osh.personal.md|Osh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Osh.secret.md|Osh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Osh.internal|Osh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Osh.protect|Osh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Osh.private|Osh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Osh.personal|Osh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Osh.secret|Osh.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tapa.md|Tapa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tapa.internal.md|Tapa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tapa.protect.md|Tapa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tapa.private.md|Tapa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tapa.personal.md|Tapa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tapa.secret.md|Tapa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tapa.internal|Tapa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tapa.protect|Tapa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tapa.private|Tapa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tapa.personal|Tapa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tapa.secret|Tapa.secret]] 

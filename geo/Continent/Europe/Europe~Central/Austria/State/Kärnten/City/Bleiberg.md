@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bleiberg.md|Bleiberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bleiberg.internal.md|Bleiberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bleiberg.protect.md|Bleiberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bleiberg.private.md|Bleiberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bleiberg.personal.md|Bleiberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bleiberg.secret.md|Bleiberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bleiberg.internal|Bleiberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bleiberg.protect|Bleiberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bleiberg.private|Bleiberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bleiberg.personal|Bleiberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bleiberg.secret|Bleiberg.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Boulaide.md|Boulaide]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Boulaide.internal.md|Boulaide.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Boulaide.protect.md|Boulaide.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Boulaide.private.md|Boulaide.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Boulaide.personal.md|Boulaide.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Boulaide.secret.md|Boulaide.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Boulaide.internal|Boulaide.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Boulaide.protect|Boulaide.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Boulaide.private|Boulaide.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Boulaide.personal|Boulaide.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Boulaide.secret|Boulaide.secret]] 

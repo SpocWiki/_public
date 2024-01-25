@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tikhvin.md|Tikhvin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tikhvin.internal.md|Tikhvin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tikhvin.protect.md|Tikhvin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tikhvin.private.md|Tikhvin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tikhvin.personal.md|Tikhvin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tikhvin.secret.md|Tikhvin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tikhvin.internal|Tikhvin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tikhvin.protect|Tikhvin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tikhvin.private|Tikhvin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tikhvin.personal|Tikhvin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tikhvin.secret|Tikhvin.secret]] 

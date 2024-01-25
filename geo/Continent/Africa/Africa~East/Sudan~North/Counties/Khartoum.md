@@ -41,9 +41,9 @@ markerFolder: ./Khartoum/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Khartoum.md|Khartoum]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Khartoum.internal.md|Khartoum.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Khartoum.protect.md|Khartoum.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Khartoum.private.md|Khartoum.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Khartoum.personal.md|Khartoum.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Khartoum.secret.md|Khartoum.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Khartoum.internal|Khartoum.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Khartoum.protect|Khartoum.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Khartoum.private|Khartoum.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Khartoum.personal|Khartoum.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Khartoum.secret|Khartoum.secret]] 
 

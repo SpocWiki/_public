@@ -57,8 +57,8 @@ markerFolder: ./Station/
 
 ## Confidential Links & Embeds: 
 - [[FFM~S7|FFM~S7]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.internal.md|FFM~S7.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.protect.md|FFM~S7.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.private.md|FFM~S7.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.personal.md|FFM~S7.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.secret.md|FFM~S7.secret]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.internal|FFM~S7.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.protect|FFM~S7.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.private|FFM~S7.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.personal|FFM~S7.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S7.secret|FFM~S7.secret]] 

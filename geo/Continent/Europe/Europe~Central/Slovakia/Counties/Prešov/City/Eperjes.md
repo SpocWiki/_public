@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Eperjes.md|Eperjes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Eperjes.internal.md|Eperjes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Eperjes.protect.md|Eperjes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Eperjes.private.md|Eperjes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Eperjes.personal.md|Eperjes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Eperjes.secret.md|Eperjes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Eperjes.internal|Eperjes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Eperjes.protect|Eperjes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Eperjes.private|Eperjes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Eperjes.personal|Eperjes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Eperjes.secret|Eperjes.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Berwick.md|Berwick]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Berwick.internal.md|Berwick.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Berwick.protect.md|Berwick.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Berwick.private.md|Berwick.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Berwick.personal.md|Berwick.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Berwick.secret.md|Berwick.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Berwick.internal|Berwick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Berwick.protect|Berwick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Berwick.private|Berwick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Berwick.personal|Berwick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Berwick.secret|Berwick.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Goldingen.md|Goldingen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Goldingen.internal.md|Goldingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Goldingen.protect.md|Goldingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Goldingen.private.md|Goldingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Goldingen.personal.md|Goldingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Goldingen.secret.md|Goldingen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Goldingen.internal|Goldingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Goldingen.protect|Goldingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Goldingen.private|Goldingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Goldingen.personal|Goldingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Goldingen.secret|Goldingen.secret]] 

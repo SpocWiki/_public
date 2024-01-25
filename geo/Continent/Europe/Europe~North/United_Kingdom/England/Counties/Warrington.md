@@ -41,9 +41,9 @@ markerFolder: ./Warrington/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.md|Warrington]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.internal.md|Warrington.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.protect.md|Warrington.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.private.md|Warrington.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.personal.md|Warrington.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.secret.md|Warrington.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.internal|Warrington.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.protect|Warrington.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.private|Warrington.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.personal|Warrington.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Warrington.secret|Warrington.secret]] 
 

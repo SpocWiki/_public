@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Koepenick|Koepenick]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.internal.md|Koepenick.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.protect.md|Koepenick.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.private.md|Koepenick.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.personal.md|Koepenick.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.secret.md|Koepenick.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.internal|Koepenick.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.protect|Koepenick.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.private|Koepenick.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.personal|Koepenick.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.secret|Koepenick.secret]] 

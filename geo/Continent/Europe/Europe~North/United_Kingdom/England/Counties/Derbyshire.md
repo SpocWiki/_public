@@ -41,9 +41,9 @@ markerFolder: ./Derbyshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.md|Derbyshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.internal.md|Derbyshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.protect.md|Derbyshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.private.md|Derbyshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.personal.md|Derbyshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.secret.md|Derbyshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.internal|Derbyshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.protect|Derbyshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.private|Derbyshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.personal|Derbyshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Derbyshire.secret|Derbyshire.secret]] 
 

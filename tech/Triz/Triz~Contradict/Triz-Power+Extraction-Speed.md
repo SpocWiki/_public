@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Extraction-Speed]
 [SpocWebEntityId::24607]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Speed.md|Triz-Power+Extraction-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Speed.internal.md|Triz-Power+Extraction-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Speed.protect.md|Triz-Power+Extraction-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Speed.private.md|Triz-Power+Extraction-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Speed.personal.md|Triz-Power+Extraction-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Speed.secret.md|Triz-Power+Extraction-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Speed.internal|Triz-Power+Extraction-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Speed.protect|Triz-Power+Extraction-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Speed.private|Triz-Power+Extraction-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Speed.personal|Triz-Power+Extraction-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Speed.secret|Triz-Power+Extraction-Speed.secret]] 

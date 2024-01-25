@@ -41,9 +41,9 @@ markerFolder: ./Balvu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Balvu.md|Balvu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Balvu.internal.md|Balvu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Balvu.protect.md|Balvu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Balvu.private.md|Balvu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Balvu.personal.md|Balvu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Balvu.secret.md|Balvu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Balvu.internal|Balvu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Balvu.protect|Balvu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Balvu.private|Balvu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Balvu.personal|Balvu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Balvu.secret|Balvu.secret]] 
 

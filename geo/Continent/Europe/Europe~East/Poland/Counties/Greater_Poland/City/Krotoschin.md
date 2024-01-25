@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Krotoschin.md|Krotoschin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krotoschin.internal.md|Krotoschin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krotoschin.protect.md|Krotoschin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krotoschin.private.md|Krotoschin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krotoschin.personal.md|Krotoschin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krotoschin.secret.md|Krotoschin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krotoschin.internal|Krotoschin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krotoschin.protect|Krotoschin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krotoschin.private|Krotoschin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krotoschin.personal|Krotoschin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krotoschin.secret|Krotoschin.secret]] 

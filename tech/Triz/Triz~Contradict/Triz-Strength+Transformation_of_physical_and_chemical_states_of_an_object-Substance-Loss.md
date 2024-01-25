@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]
 [SpocWebEntityId::24013]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.md|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal.md|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect.md|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private.md|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal.md|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret.md|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Reinerz.md|Reinerz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Reinerz.internal.md|Reinerz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Reinerz.protect.md|Reinerz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Reinerz.private.md|Reinerz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Reinerz.personal.md|Reinerz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Reinerz.secret.md|Reinerz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Reinerz.internal|Reinerz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Reinerz.protect|Reinerz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Reinerz.private|Reinerz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Reinerz.personal|Reinerz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Reinerz.secret|Reinerz.secret]] 

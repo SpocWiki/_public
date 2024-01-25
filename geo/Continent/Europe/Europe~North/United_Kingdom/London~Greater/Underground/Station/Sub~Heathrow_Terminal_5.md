@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.md|Sub~Heathrow_Terminal_5]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.internal.md|Sub~Heathrow_Terminal_5.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.protect.md|Sub~Heathrow_Terminal_5.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.private.md|Sub~Heathrow_Terminal_5.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.personal.md|Sub~Heathrow_Terminal_5.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.secret.md|Sub~Heathrow_Terminal_5.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.internal|Sub~Heathrow_Terminal_5.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.protect|Sub~Heathrow_Terminal_5.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.private|Sub~Heathrow_Terminal_5.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.personal|Sub~Heathrow_Terminal_5.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminal_5.secret|Sub~Heathrow_Terminal_5.secret]] 

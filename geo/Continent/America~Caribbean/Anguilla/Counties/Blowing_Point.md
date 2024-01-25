@@ -41,9 +41,9 @@ markerFolder: ./Blowing_Point/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.md|Blowing_Point]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.internal.md|Blowing_Point.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.protect.md|Blowing_Point.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.private.md|Blowing_Point.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.personal.md|Blowing_Point.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.secret.md|Blowing_Point.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.internal|Blowing_Point.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.protect|Blowing_Point.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.private|Blowing_Point.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.personal|Blowing_Point.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.secret|Blowing_Point.secret]] 
 

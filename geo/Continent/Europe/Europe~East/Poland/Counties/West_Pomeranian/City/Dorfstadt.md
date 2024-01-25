@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Dorfstadt.md|Dorfstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dorfstadt.internal.md|Dorfstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dorfstadt.protect.md|Dorfstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dorfstadt.private.md|Dorfstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dorfstadt.personal.md|Dorfstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dorfstadt.secret.md|Dorfstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dorfstadt.internal|Dorfstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dorfstadt.protect|Dorfstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dorfstadt.private|Dorfstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dorfstadt.personal|Dorfstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dorfstadt.secret|Dorfstadt.secret]] 

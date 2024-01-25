@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Moving_to_a_new_dimension-Versatility]
 [SpocWebEntityId::23585]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.md|Triz-Intensity+Moving_to_a_new_dimension-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.internal.md|Triz-Intensity+Moving_to_a_new_dimension-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.protect.md|Triz-Intensity+Moving_to_a_new_dimension-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.private.md|Triz-Intensity+Moving_to_a_new_dimension-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.personal.md|Triz-Intensity+Moving_to_a_new_dimension-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.secret.md|Triz-Intensity+Moving_to_a_new_dimension-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.internal|Triz-Intensity+Moving_to_a_new_dimension-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.protect|Triz-Intensity+Moving_to_a_new_dimension-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.private|Triz-Intensity+Moving_to_a_new_dimension-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.personal|Triz-Intensity+Moving_to_a_new_dimension-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Moving_to_a_new_dimension-Versatility.secret|Triz-Intensity+Moving_to_a_new_dimension-Versatility.secret]] 

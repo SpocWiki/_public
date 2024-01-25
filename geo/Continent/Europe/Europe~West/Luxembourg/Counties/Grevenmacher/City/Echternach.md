@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Echternach.md|Echternach]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Echternach.internal.md|Echternach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Echternach.protect.md|Echternach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Echternach.private.md|Echternach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Echternach.personal.md|Echternach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Echternach.secret.md|Echternach.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Echternach.internal|Echternach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Echternach.protect|Echternach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Echternach.private|Echternach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Echternach.personal|Echternach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Echternach.secret|Echternach.secret]] 

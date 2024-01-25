@@ -41,9 +41,9 @@ markerFolder: ./Quintana_Roo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.md|Quintana_Roo]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.internal.md|Quintana_Roo.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.protect.md|Quintana_Roo.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.private.md|Quintana_Roo.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.personal.md|Quintana_Roo.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.secret.md|Quintana_Roo.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.internal|Quintana_Roo.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.protect|Quintana_Roo.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.private|Quintana_Roo.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.personal|Quintana_Roo.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Quintana_Roo.secret|Quintana_Roo.secret]] 
 

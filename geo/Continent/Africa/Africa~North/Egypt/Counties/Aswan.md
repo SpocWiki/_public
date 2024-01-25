@@ -41,9 +41,9 @@ markerFolder: ./Aswan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Aswan.md|Aswan]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Aswan.internal.md|Aswan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Aswan.protect.md|Aswan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Aswan.private.md|Aswan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Aswan.personal.md|Aswan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Aswan.secret.md|Aswan.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Aswan.internal|Aswan.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Aswan.protect|Aswan.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Aswan.private|Aswan.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Aswan.personal|Aswan.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Aswan.secret|Aswan.secret]] 
 

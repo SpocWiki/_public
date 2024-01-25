@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Gray.md|Gray]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gray.internal.md|Gray.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gray.protect.md|Gray.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Gray.private.md|Gray.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gray.personal.md|Gray.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gray.secret.md|Gray.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gray.internal|Gray.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gray.protect|Gray.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Gray.private|Gray.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gray.personal|Gray.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gray.secret|Gray.secret]] 

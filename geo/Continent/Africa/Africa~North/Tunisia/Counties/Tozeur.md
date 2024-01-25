@@ -41,9 +41,9 @@ markerFolder: ./Tozeur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Tozeur.md|Tozeur]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tozeur.internal.md|Tozeur.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tozeur.protect.md|Tozeur.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tozeur.private.md|Tozeur.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tozeur.personal.md|Tozeur.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tozeur.secret.md|Tozeur.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tozeur.internal|Tozeur.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tozeur.protect|Tozeur.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tozeur.private|Tozeur.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tozeur.personal|Tozeur.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tozeur.secret|Tozeur.secret]] 
 

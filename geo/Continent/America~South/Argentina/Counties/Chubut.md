@@ -41,9 +41,9 @@ markerFolder: ./Chubut/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Chubut.md|Chubut]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Chubut.internal.md|Chubut.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Chubut.protect.md|Chubut.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Chubut.private.md|Chubut.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Chubut.personal.md|Chubut.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Chubut.secret.md|Chubut.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Chubut.internal|Chubut.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Chubut.protect|Chubut.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Chubut.private|Chubut.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Chubut.personal|Chubut.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Chubut.secret|Chubut.secret]] 
 

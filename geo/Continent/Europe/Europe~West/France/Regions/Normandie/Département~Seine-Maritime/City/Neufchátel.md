@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Neufchátel.md|Neufchátel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Neufchátel.internal.md|Neufchátel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Neufchátel.protect.md|Neufchátel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Neufchátel.private.md|Neufchátel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Neufchátel.personal.md|Neufchátel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Neufchátel.secret.md|Neufchátel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Neufchátel.internal|Neufchátel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Neufchátel.protect|Neufchátel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Neufchátel.private|Neufchátel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Neufchátel.personal|Neufchátel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Neufchátel.secret|Neufchátel.secret]] 

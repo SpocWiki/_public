@@ -41,9 +41,9 @@ markerFolder: ./Riebinu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Riebinu.md|Riebinu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Riebinu.internal.md|Riebinu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Riebinu.protect.md|Riebinu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Riebinu.private.md|Riebinu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Riebinu.personal.md|Riebinu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Riebinu.secret.md|Riebinu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Riebinu.internal|Riebinu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Riebinu.protect|Riebinu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Riebinu.private|Riebinu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Riebinu.personal|Riebinu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Riebinu.secret|Riebinu.secret]] 
 

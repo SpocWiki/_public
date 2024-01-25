@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Counterweight-moving_Weight]
 [SpocWebEntityId::23477]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Counterweight]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.md|Triz-Intensity+Counterweight-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.internal.md|Triz-Intensity+Counterweight-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.protect.md|Triz-Intensity+Counterweight-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.private.md|Triz-Intensity+Counterweight-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.personal.md|Triz-Intensity+Counterweight-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.secret.md|Triz-Intensity+Counterweight-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.internal|Triz-Intensity+Counterweight-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.protect|Triz-Intensity+Counterweight-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.private|Triz-Intensity+Counterweight-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.personal|Triz-Intensity+Counterweight-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Counterweight-moving_Weight.secret|Triz-Intensity+Counterweight-moving_Weight.secret]] 

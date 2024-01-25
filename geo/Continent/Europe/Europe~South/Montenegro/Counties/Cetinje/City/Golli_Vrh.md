@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.md|Golli_Vrh]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.internal.md|Golli_Vrh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.protect.md|Golli_Vrh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.private.md|Golli_Vrh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.personal.md|Golli_Vrh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.secret.md|Golli_Vrh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.internal|Golli_Vrh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.protect|Golli_Vrh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.private|Golli_Vrh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.personal|Golli_Vrh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.secret|Golli_Vrh.secret]] 

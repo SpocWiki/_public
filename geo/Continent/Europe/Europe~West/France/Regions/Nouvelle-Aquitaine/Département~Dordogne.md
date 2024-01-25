@@ -41,9 +41,9 @@ markerFolder: ./Département~Dordogne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.md|Département~Dordogne]] 
-- [[../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.internal.md|Département~Dordogne.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.protect.md|Département~Dordogne.protect]] 
-- [[../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.private.md|Département~Dordogne.private]] 
-- [[../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.personal.md|Département~Dordogne.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.secret.md|Département~Dordogne.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.internal|Département~Dordogne.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.protect|Département~Dordogne.protect]] 
+- [[../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.private|Département~Dordogne.private]] 
+- [[../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.personal|Département~Dordogne.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Dordogne.secret|Département~Dordogne.secret]] 
 

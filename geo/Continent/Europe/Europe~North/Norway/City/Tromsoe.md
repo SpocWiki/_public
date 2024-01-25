@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Tromsoe.md|Tromsoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Tromsoe.internal.md|Tromsoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Tromsoe.protect.md|Tromsoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Tromsoe.private.md|Tromsoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Tromsoe.personal.md|Tromsoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Tromsoe.secret.md|Tromsoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Tromsoe.internal|Tromsoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Tromsoe.protect|Tromsoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Tromsoe.private|Tromsoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Tromsoe.personal|Tromsoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Tromsoe.secret|Tromsoe.secret]] 

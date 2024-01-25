@@ -140,7 +140,7 @@ markerFolder: ./Niger//
 ## Confidential Links & Embeds: 
 - [[Niger|Niger]] 
 - [[../../../../../_internal/geo/Continent/Africa/Niger.internal|Niger.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger.protect.md|Niger.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger.private.md|Niger.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger.personal.md|Niger.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger.secret.md|Niger.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Niger.protect|Niger.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Niger.private|Niger.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Niger.personal|Niger.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Niger.secret|Niger.secret]] 

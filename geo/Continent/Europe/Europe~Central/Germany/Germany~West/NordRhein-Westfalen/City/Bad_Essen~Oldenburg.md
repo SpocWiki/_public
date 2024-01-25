@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bad_Essen~Oldenburg|Bad_Essen~Oldenburg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.internal.md|Bad_Essen~Oldenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.protect.md|Bad_Essen~Oldenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.private.md|Bad_Essen~Oldenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.personal.md|Bad_Essen~Oldenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.secret.md|Bad_Essen~Oldenburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.internal|Bad_Essen~Oldenburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.protect|Bad_Essen~Oldenburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.private|Bad_Essen~Oldenburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.personal|Bad_Essen~Oldenburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Essen~Oldenburg.secret|Bad_Essen~Oldenburg.secret]] 

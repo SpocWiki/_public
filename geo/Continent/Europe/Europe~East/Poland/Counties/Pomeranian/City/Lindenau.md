@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lindenau.md|Lindenau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lindenau.internal.md|Lindenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lindenau.protect.md|Lindenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lindenau.private.md|Lindenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lindenau.personal.md|Lindenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lindenau.secret.md|Lindenau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lindenau.internal|Lindenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lindenau.protect|Lindenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lindenau.private|Lindenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lindenau.personal|Lindenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lindenau.secret|Lindenau.secret]] 

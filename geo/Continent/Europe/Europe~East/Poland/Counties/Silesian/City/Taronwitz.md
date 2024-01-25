@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Taronwitz.md|Taronwitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Taronwitz.internal.md|Taronwitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Taronwitz.protect.md|Taronwitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Taronwitz.private.md|Taronwitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Taronwitz.personal.md|Taronwitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Taronwitz.secret.md|Taronwitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Taronwitz.internal|Taronwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Taronwitz.protect|Taronwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Taronwitz.private|Taronwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Taronwitz.personal|Taronwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Taronwitz.secret|Taronwitz.secret]] 

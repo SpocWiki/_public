@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Sprendlingen~Rheinhessen|Sprendlingen~Rheinhessen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.internal.md|Sprendlingen~Rheinhessen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.protect.md|Sprendlingen~Rheinhessen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.private.md|Sprendlingen~Rheinhessen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.personal.md|Sprendlingen~Rheinhessen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.secret.md|Sprendlingen~Rheinhessen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.internal|Sprendlingen~Rheinhessen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.protect|Sprendlingen~Rheinhessen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.private|Sprendlingen~Rheinhessen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.personal|Sprendlingen~Rheinhessen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.secret|Sprendlingen~Rheinhessen.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neidenburg.md|Neidenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neidenburg.internal.md|Neidenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neidenburg.protect.md|Neidenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neidenburg.private.md|Neidenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neidenburg.personal.md|Neidenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neidenburg.secret.md|Neidenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neidenburg.internal|Neidenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neidenburg.protect|Neidenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neidenburg.private|Neidenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neidenburg.personal|Neidenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neidenburg.secret|Neidenburg.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Šumadijski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Šumadijski.md|Šumadijski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Šumadijski.internal.md|Šumadijski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Šumadijski.protect.md|Šumadijski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Šumadijski.private.md|Šumadijski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Šumadijski.personal.md|Šumadijski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Šumadijski.secret.md|Šumadijski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Šumadijski.internal|Šumadijski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Šumadijski.protect|Šumadijski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Šumadijski.private|Šumadijski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Šumadijski.personal|Šumadijski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Šumadijski.secret|Šumadijski.secret]] 
 

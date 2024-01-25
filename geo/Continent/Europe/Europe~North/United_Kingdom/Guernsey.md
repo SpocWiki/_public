@@ -41,9 +41,9 @@ markerFolder: ./Guernsey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Guernsey.md|Guernsey]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Guernsey.internal.md|Guernsey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Guernsey.protect.md|Guernsey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Guernsey.private.md|Guernsey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Guernsey.personal.md|Guernsey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Guernsey.secret.md|Guernsey.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Guernsey.internal|Guernsey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Guernsey.protect|Guernsey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Guernsey.private|Guernsey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Guernsey.personal|Guernsey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Guernsey.secret|Guernsey.secret]] 
 

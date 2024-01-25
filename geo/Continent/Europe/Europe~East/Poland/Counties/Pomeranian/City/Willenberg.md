@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Willenberg.md|Willenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Willenberg.internal.md|Willenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Willenberg.protect.md|Willenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Willenberg.private.md|Willenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Willenberg.personal.md|Willenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Willenberg.secret.md|Willenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Willenberg.internal|Willenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Willenberg.protect|Willenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Willenberg.private|Willenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Willenberg.personal|Willenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Willenberg.secret|Willenberg.secret]] 

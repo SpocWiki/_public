@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.md|Albany]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.internal.md|Albany.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.protect.md|Albany.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.private.md|Albany.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.personal.md|Albany.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.secret.md|Albany.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.internal|Albany.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.protect|Albany.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.private|Albany.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.personal|Albany.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.secret|Albany.secret]] 

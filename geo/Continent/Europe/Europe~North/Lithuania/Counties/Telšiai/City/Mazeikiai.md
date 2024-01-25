@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mazeikiai.md|Mazeikiai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mazeikiai.internal.md|Mazeikiai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mazeikiai.protect.md|Mazeikiai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mazeikiai.private.md|Mazeikiai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mazeikiai.personal.md|Mazeikiai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mazeikiai.secret.md|Mazeikiai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mazeikiai.internal|Mazeikiai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mazeikiai.protect|Mazeikiai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mazeikiai.private|Mazeikiai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mazeikiai.personal|Mazeikiai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mazeikiai.secret|Mazeikiai.secret]] 

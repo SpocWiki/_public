@@ -18,8 +18,8 @@ Thousands of microprocessors in a parallel processor computer
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-parallel_processor.md|Triz-parallel_processor]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-parallel_processor.internal.md|Triz-parallel_processor.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-parallel_processor.protect.md|Triz-parallel_processor.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-parallel_processor.private.md|Triz-parallel_processor.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-parallel_processor.personal.md|Triz-parallel_processor.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-parallel_processor.secret.md|Triz-parallel_processor.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-parallel_processor.internal|Triz-parallel_processor.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-parallel_processor.protect|Triz-parallel_processor.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-parallel_processor.private|Triz-parallel_processor.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-parallel_processor.personal|Triz-parallel_processor.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-parallel_processor.secret|Triz-parallel_processor.secret]] 

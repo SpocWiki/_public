@@ -41,9 +41,9 @@ markerFolder: ./Gomba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Gomba.md|Gomba]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Gomba.internal.md|Gomba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Gomba.protect.md|Gomba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Gomba.private.md|Gomba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Gomba.personal.md|Gomba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Gomba.secret.md|Gomba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Gomba.internal|Gomba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Gomba.protect|Gomba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Gomba.private|Gomba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Gomba.personal|Gomba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Gomba.secret|Gomba.secret]] 
 

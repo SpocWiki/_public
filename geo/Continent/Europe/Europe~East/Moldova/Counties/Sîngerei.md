@@ -41,9 +41,9 @@ markerFolder: ./Sîngerei/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Sîngerei.md|Sîngerei]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Sîngerei.internal.md|Sîngerei.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Sîngerei.protect.md|Sîngerei.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Sîngerei.private.md|Sîngerei.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Sîngerei.personal.md|Sîngerei.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Sîngerei.secret.md|Sîngerei.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Sîngerei.internal|Sîngerei.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Sîngerei.protect|Sîngerei.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Sîngerei.private|Sîngerei.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Sîngerei.personal|Sîngerei.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Sîngerei.secret|Sîngerei.secret]] 
 

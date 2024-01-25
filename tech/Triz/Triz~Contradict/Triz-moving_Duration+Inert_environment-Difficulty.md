@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Duration+Inert_environment-Difficulty]
 [SpocWebEntityId::24160]
-+ [pro::[[Triz-moving_Duration]]]
++ [#has_/Pros :: [[Triz-moving_Duration]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.md|Triz-moving_Duration+Inert_environment-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.internal.md|Triz-moving_Duration+Inert_environment-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.protect.md|Triz-moving_Duration+Inert_environment-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.private.md|Triz-moving_Duration+Inert_environment-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.personal.md|Triz-moving_Duration+Inert_environment-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.secret.md|Triz-moving_Duration+Inert_environment-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.internal|Triz-moving_Duration+Inert_environment-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.protect|Triz-moving_Duration+Inert_environment-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.private|Triz-moving_Duration+Inert_environment-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.personal|Triz-moving_Duration+Inert_environment-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.secret|Triz-moving_Duration+Inert_environment-Difficulty.secret]] 

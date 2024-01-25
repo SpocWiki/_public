@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Valsjoebyn.md|Valsjoebyn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valsjoebyn.internal.md|Valsjoebyn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valsjoebyn.protect.md|Valsjoebyn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Valsjoebyn.private.md|Valsjoebyn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valsjoebyn.personal.md|Valsjoebyn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valsjoebyn.secret.md|Valsjoebyn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valsjoebyn.internal|Valsjoebyn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valsjoebyn.protect|Valsjoebyn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Valsjoebyn.private|Valsjoebyn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valsjoebyn.personal|Valsjoebyn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valsjoebyn.secret|Valsjoebyn.secret]] 

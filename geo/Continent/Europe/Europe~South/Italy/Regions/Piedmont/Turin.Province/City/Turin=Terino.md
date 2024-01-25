@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Turin=Terino.md|Turin=Terino]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Turin=Terino.internal.md|Turin=Terino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Turin=Terino.protect.md|Turin=Terino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Turin=Terino.private.md|Turin=Terino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Turin=Terino.personal.md|Turin=Terino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Turin=Terino.secret.md|Turin=Terino.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Turin=Terino.internal|Turin=Terino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Turin=Terino.protect|Turin=Terino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Turin=Terino.private|Turin=Terino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Turin=Terino.personal|Turin=Terino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Turin=Terino.secret|Turin=Terino.secret]] 

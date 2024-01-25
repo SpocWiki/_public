@@ -41,9 +41,9 @@ markerFolder: ./Pärnu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Pärnu.md|Pärnu]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Pärnu.internal.md|Pärnu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Pärnu.protect.md|Pärnu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Pärnu.private.md|Pärnu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Pärnu.personal.md|Pärnu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Pärnu.secret.md|Pärnu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Pärnu.internal|Pärnu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Pärnu.protect|Pärnu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Pärnu.private|Pärnu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Pärnu.personal|Pärnu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Pärnu.secret|Pärnu.secret]] 
 

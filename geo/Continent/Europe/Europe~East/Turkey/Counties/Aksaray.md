@@ -41,9 +41,9 @@ markerFolder: ./Aksaray/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Aksaray.md|Aksaray]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Aksaray.internal.md|Aksaray.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Aksaray.protect.md|Aksaray.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Aksaray.private.md|Aksaray.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Aksaray.personal.md|Aksaray.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Aksaray.secret.md|Aksaray.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Aksaray.internal|Aksaray.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Aksaray.protect|Aksaray.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Aksaray.private|Aksaray.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Aksaray.personal|Aksaray.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Aksaray.secret|Aksaray.secret]] 
 

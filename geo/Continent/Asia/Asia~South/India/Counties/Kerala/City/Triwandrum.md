@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/India/City/Triwandrum.md|Triwandrum]] 
-- [[../../../../../../_internal/geo/Continent/Asia/India/City/Triwandrum.internal.md|Triwandrum.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/India/City/Triwandrum.protect.md|Triwandrum.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/India/City/Triwandrum.private.md|Triwandrum.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/India/City/Triwandrum.personal.md|Triwandrum.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/India/City/Triwandrum.secret.md|Triwandrum.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Triwandrum.internal|Triwandrum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Triwandrum.protect|Triwandrum.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Triwandrum.private|Triwandrum.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Triwandrum.personal|Triwandrum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Triwandrum.secret|Triwandrum.secret]] 

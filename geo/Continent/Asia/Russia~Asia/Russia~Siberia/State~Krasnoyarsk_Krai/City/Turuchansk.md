@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Turuchansk.md|Turuchansk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Turuchansk.internal.md|Turuchansk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Turuchansk.protect.md|Turuchansk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Turuchansk.private.md|Turuchansk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Turuchansk.personal.md|Turuchansk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Turuchansk.secret.md|Turuchansk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Turuchansk.internal|Turuchansk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Turuchansk.protect|Turuchansk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Turuchansk.private|Turuchansk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Turuchansk.personal|Turuchansk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Turuchansk.secret|Turuchansk.secret]] 

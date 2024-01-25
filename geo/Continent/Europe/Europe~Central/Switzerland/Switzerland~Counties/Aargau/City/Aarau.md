@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Aarau.md|Aarau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Aarau.internal.md|Aarau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Aarau.protect.md|Aarau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Aarau.private.md|Aarau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Aarau.personal.md|Aarau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Aarau.secret.md|Aarau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Aarau.internal|Aarau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Aarau.protect|Aarau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Aarau.private|Aarau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Aarau.personal|Aarau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Aarau.secret|Aarau.secret]] 

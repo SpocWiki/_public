@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Ourense.md|Ourense]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Ourense.internal.md|Ourense.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Ourense.protect.md|Ourense.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Ourense.private.md|Ourense.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Ourense.personal.md|Ourense.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Ourense.secret.md|Ourense.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Ourense.internal|Ourense.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Ourense.protect|Ourense.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Ourense.private|Ourense.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Ourense.personal|Ourense.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Ourense.secret|Ourense.secret]] 

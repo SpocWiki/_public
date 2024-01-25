@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.md|Muehlhausen=Mulhouse]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.internal.md|Muehlhausen=Mulhouse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.protect.md|Muehlhausen=Mulhouse.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.private.md|Muehlhausen=Mulhouse.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.personal.md|Muehlhausen=Mulhouse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.secret.md|Muehlhausen=Mulhouse.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.internal|Muehlhausen=Mulhouse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.protect|Muehlhausen=Mulhouse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.private|Muehlhausen=Mulhouse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.personal|Muehlhausen=Mulhouse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.secret|Muehlhausen=Mulhouse.secret]] 

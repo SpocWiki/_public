@@ -41,9 +41,9 @@ markerFolder: ./Bacau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Bacau.md|Bacau]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bacau.internal.md|Bacau.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bacau.protect.md|Bacau.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bacau.private.md|Bacau.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bacau.personal.md|Bacau.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bacau.secret.md|Bacau.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bacau.internal|Bacau.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bacau.protect|Bacau.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bacau.private|Bacau.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bacau.personal|Bacau.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bacau.secret|Bacau.secret]] 
 

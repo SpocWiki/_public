@@ -445,8 +445,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/_CountryDb.md|_CountryDb]] 
-- [[../../../_internal/geo/Continent/_CountryDb.internal.md|_CountryDb.internal]] 
-- [[../../../_protect/geo/Continent/_CountryDb.protect.md|_CountryDb.protect]] 
-- [[../../../_private/geo/Continent/_CountryDb.private.md|_CountryDb.private]] 
-- [[../../../_personal/geo/Continent/_CountryDb.personal.md|_CountryDb.personal]] 
-- [[../../../_secret/geo/Continent/_CountryDb.secret.md|_CountryDb.secret]] 
+- [[../../../_internal/geo/Continent/_CountryDb.internal|_CountryDb.internal]] 
+- [[../../../_protect/geo/Continent/_CountryDb.protect|_CountryDb.protect]] 
+- [[../../../_private/geo/Continent/_CountryDb.private|_CountryDb.private]] 
+- [[../../../_personal/geo/Continent/_CountryDb.personal|_CountryDb.personal]] 
+- [[../../../_secret/geo/Continent/_CountryDb.secret|_CountryDb.secret]] 

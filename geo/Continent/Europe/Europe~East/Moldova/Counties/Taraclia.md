@@ -41,9 +41,9 @@ markerFolder: ./Taraclia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Taraclia.md|Taraclia]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Taraclia.internal.md|Taraclia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Taraclia.protect.md|Taraclia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Taraclia.private.md|Taraclia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Taraclia.personal.md|Taraclia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Taraclia.secret.md|Taraclia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Taraclia.internal|Taraclia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Taraclia.protect|Taraclia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Taraclia.private|Taraclia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Taraclia.personal|Taraclia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Taraclia.secret|Taraclia.secret]] 
 

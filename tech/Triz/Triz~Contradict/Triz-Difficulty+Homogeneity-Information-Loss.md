@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Homogeneity-Information-Loss]
 [SpocWebEntityId::26491]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Homogeneity]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.md|Triz-Difficulty+Homogeneity-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.internal.md|Triz-Difficulty+Homogeneity-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.protect.md|Triz-Difficulty+Homogeneity-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.private.md|Triz-Difficulty+Homogeneity-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.personal.md|Triz-Difficulty+Homogeneity-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.secret.md|Triz-Difficulty+Homogeneity-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.internal|Triz-Difficulty+Homogeneity-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.protect|Triz-Difficulty+Homogeneity-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.private|Triz-Difficulty+Homogeneity-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.personal|Triz-Difficulty+Homogeneity-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.secret|Triz-Difficulty+Homogeneity-Information-Loss.secret]] 

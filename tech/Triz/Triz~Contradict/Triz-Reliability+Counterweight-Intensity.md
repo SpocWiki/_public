@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Counterweight-Intensity]
 [SpocWebEntityId::25267]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Counterweight]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.md|Triz-Reliability+Counterweight-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.internal.md|Triz-Reliability+Counterweight-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.protect.md|Triz-Reliability+Counterweight-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.private.md|Triz-Reliability+Counterweight-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.personal.md|Triz-Reliability+Counterweight-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.secret.md|Triz-Reliability+Counterweight-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.internal|Triz-Reliability+Counterweight-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.protect|Triz-Reliability+Counterweight-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.private|Triz-Reliability+Counterweight-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.personal|Triz-Reliability+Counterweight-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.secret|Triz-Reliability+Counterweight-Intensity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Shiga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.md|Shiga]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.internal.md|Shiga.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.protect.md|Shiga.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.private.md|Shiga.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.personal.md|Shiga.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.secret.md|Shiga.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.internal|Shiga.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.protect|Shiga.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.private|Shiga.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.personal|Shiga.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.secret|Shiga.secret]] 
 

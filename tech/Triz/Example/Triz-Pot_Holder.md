@@ -18,8 +18,8 @@ Pot Holder to carry hot Dishes to the Table.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Pot_Holder.md|Triz-Pot_Holder]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Pot_Holder.internal.md|Triz-Pot_Holder.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Pot_Holder.protect.md|Triz-Pot_Holder.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Pot_Holder.private.md|Triz-Pot_Holder.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Pot_Holder.personal.md|Triz-Pot_Holder.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Pot_Holder.secret.md|Triz-Pot_Holder.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Pot_Holder.internal|Triz-Pot_Holder.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Pot_Holder.protect|Triz-Pot_Holder.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Pot_Holder.private|Triz-Pot_Holder.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Pot_Holder.personal|Triz-Pot_Holder.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Pot_Holder.secret|Triz-Pot_Holder.secret]] 

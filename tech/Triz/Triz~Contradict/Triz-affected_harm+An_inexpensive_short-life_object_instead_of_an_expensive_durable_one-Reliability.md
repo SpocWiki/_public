@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability]
 [SpocWebEntityId::25675]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.md|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.internal.md|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.protect.md|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.private.md|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.personal.md|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.secret.md|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.internal|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.protect|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.private|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.personal|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.secret|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.secret]] 

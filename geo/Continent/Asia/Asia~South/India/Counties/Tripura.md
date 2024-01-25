@@ -41,9 +41,9 @@ markerFolder: ./Tripura/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Tripura.md|Tripura]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Tripura.internal.md|Tripura.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Tripura.protect.md|Tripura.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Tripura.private.md|Tripura.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Tripura.personal.md|Tripura.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Tripura.secret.md|Tripura.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Tripura.internal|Tripura.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Tripura.protect|Tripura.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Tripura.private|Tripura.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Tripura.personal|Tripura.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Tripura.secret|Tripura.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Đồng_Bằng_Sông_Hồng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.md|Đồng_Bằng_Sông_Hồng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.internal.md|Đồng_Bằng_Sông_Hồng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.protect.md|Đồng_Bằng_Sông_Hồng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.private.md|Đồng_Bằng_Sông_Hồng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.personal.md|Đồng_Bằng_Sông_Hồng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.secret.md|Đồng_Bằng_Sông_Hồng.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.internal|Đồng_Bằng_Sông_Hồng.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.protect|Đồng_Bằng_Sông_Hồng.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.private|Đồng_Bằng_Sông_Hồng.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.personal|Đồng_Bằng_Sông_Hồng.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đồng_Bằng_Sông_Hồng.secret|Đồng_Bằng_Sông_Hồng.secret]] 
 

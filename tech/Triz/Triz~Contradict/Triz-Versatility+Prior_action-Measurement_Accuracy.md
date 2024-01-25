@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Prior_action-Measurement_Accuracy]
 [SpocWebEntityId::26262]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.md|Triz-Versatility+Prior_action-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.internal.md|Triz-Versatility+Prior_action-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.protect.md|Triz-Versatility+Prior_action-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.private.md|Triz-Versatility+Prior_action-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.personal.md|Triz-Versatility+Prior_action-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.secret.md|Triz-Versatility+Prior_action-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.internal|Triz-Versatility+Prior_action-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.protect|Triz-Versatility+Prior_action-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.private|Triz-Versatility+Prior_action-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.personal|Triz-Versatility+Prior_action-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Prior_action-Measurement_Accuracy.secret|Triz-Versatility+Prior_action-Measurement_Accuracy.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kranjska_Gora/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.md|Kranjska_Gora]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.internal.md|Kranjska_Gora.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.protect.md|Kranjska_Gora.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.private.md|Kranjska_Gora.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.personal.md|Kranjska_Gora.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.secret.md|Kranjska_Gora.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.internal|Kranjska_Gora.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.protect|Kranjska_Gora.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.private|Kranjska_Gora.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.personal|Kranjska_Gora.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Kranjska_Gora.secret|Kranjska_Gora.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Sveti_Jurij/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.md|Sveti_Jurij]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.internal.md|Sveti_Jurij.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.protect.md|Sveti_Jurij.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.private.md|Sveti_Jurij.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.personal.md|Sveti_Jurij.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.secret.md|Sveti_Jurij.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.internal|Sveti_Jurij.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.protect|Sveti_Jurij.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.private|Sveti_Jurij.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.personal|Sveti_Jurij.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Sveti_Jurij.secret|Sveti_Jurij.secret]] 
 

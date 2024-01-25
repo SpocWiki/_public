@@ -41,9 +41,9 @@ markerFolder: ./Département~Calvados/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.md|Département~Calvados]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.internal.md|Département~Calvados.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.protect.md|Département~Calvados.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.private.md|Département~Calvados.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.personal.md|Département~Calvados.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.secret.md|Département~Calvados.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.internal|Département~Calvados.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.protect|Département~Calvados.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.private|Département~Calvados.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.personal|Département~Calvados.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Normandie/Département~Calvados.secret|Département~Calvados.secret]] 
 

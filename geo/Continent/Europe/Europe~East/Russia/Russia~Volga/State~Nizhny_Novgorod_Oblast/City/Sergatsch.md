@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sergatsch.md|Sergatsch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sergatsch.internal.md|Sergatsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sergatsch.protect.md|Sergatsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sergatsch.private.md|Sergatsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sergatsch.personal.md|Sergatsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sergatsch.secret.md|Sergatsch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sergatsch.internal|Sergatsch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sergatsch.protect|Sergatsch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sergatsch.private|Sergatsch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sergatsch.personal|Sergatsch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sergatsch.secret|Sergatsch.secret]] 

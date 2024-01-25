@@ -41,9 +41,9 @@ markerFolder: ./Ville_de_N'Djamena/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.md|Ville_de_N'Djamena]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.internal.md|Ville_de_N'Djamena.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.protect.md|Ville_de_N'Djamena.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.private.md|Ville_de_N'Djamena.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.personal.md|Ville_de_N'Djamena.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.secret.md|Ville_de_N'Djamena.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.internal|Ville_de_N'Djamena.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.protect|Ville_de_N'Djamena.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.private|Ville_de_N'Djamena.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.personal|Ville_de_N'Djamena.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Ville_de_N'Djamena.secret|Ville_de_N'Djamena.secret]] 
 

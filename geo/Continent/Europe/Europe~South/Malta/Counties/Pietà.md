@@ -41,9 +41,9 @@ markerFolder: ./Pietà/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Pietà.md|Pietà]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Pietà.internal.md|Pietà.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Pietà.protect.md|Pietà.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Pietà.private.md|Pietà.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Pietà.personal.md|Pietà.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Pietà.secret.md|Pietà.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Pietà.internal|Pietà.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Pietà.protect|Pietà.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Pietà.private|Pietà.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Pietà.personal|Pietà.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Pietà.secret|Pietà.secret]] 
 

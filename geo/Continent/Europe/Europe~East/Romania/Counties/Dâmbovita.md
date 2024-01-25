@@ -41,9 +41,9 @@ markerFolder: ./Dâmbovita/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Dâmbovita.md|Dâmbovita]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Dâmbovita.internal.md|Dâmbovita.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Dâmbovita.protect.md|Dâmbovita.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Dâmbovita.private.md|Dâmbovita.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Dâmbovita.personal.md|Dâmbovita.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Dâmbovita.secret.md|Dâmbovita.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Dâmbovita.internal|Dâmbovita.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Dâmbovita.protect|Dâmbovita.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Dâmbovita.private|Dâmbovita.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Dâmbovita.personal|Dâmbovita.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Dâmbovita.secret|Dâmbovita.secret]] 
 

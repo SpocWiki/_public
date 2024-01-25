@@ -41,9 +41,9 @@ markerFolder: ./Atsimo-Andrefana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.md|Atsimo-Andrefana]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.internal.md|Atsimo-Andrefana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.protect.md|Atsimo-Andrefana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.private.md|Atsimo-Andrefana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.personal.md|Atsimo-Andrefana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.secret.md|Atsimo-Andrefana.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.internal|Atsimo-Andrefana.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.protect|Atsimo-Andrefana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.private|Atsimo-Andrefana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.personal|Atsimo-Andrefana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.secret|Atsimo-Andrefana.secret]] 
 

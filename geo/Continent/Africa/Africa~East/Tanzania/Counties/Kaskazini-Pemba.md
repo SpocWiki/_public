@@ -41,9 +41,9 @@ markerFolder: ./Kaskazini-Pemba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.md|Kaskazini-Pemba]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.internal.md|Kaskazini-Pemba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.protect.md|Kaskazini-Pemba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.private.md|Kaskazini-Pemba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.personal.md|Kaskazini-Pemba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.secret.md|Kaskazini-Pemba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.internal|Kaskazini-Pemba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.protect|Kaskazini-Pemba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.private|Kaskazini-Pemba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.personal|Kaskazini-Pemba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.secret|Kaskazini-Pemba.secret]] 
 

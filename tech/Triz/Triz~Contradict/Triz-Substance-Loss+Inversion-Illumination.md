@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Inversion-Illumination]
 [SpocWebEntityId::24856]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.md|Triz-Substance-Loss+Inversion-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.internal.md|Triz-Substance-Loss+Inversion-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.protect.md|Triz-Substance-Loss+Inversion-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.private.md|Triz-Substance-Loss+Inversion-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.personal.md|Triz-Substance-Loss+Inversion-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.secret.md|Triz-Substance-Loss+Inversion-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.internal|Triz-Substance-Loss+Inversion-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.protect|Triz-Substance-Loss+Inversion-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.private|Triz-Substance-Loss+Inversion-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.personal|Triz-Substance-Loss+Inversion-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.secret|Triz-Substance-Loss+Inversion-Illumination.secret]] 

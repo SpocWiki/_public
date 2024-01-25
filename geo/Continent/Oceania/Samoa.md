@@ -132,8 +132,8 @@ markerFolder: ./Samoa//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Samoa.md|Samoa]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa.internal.md|Samoa.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa.protect.md|Samoa.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa.private.md|Samoa.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa.personal.md|Samoa.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa.secret.md|Samoa.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Samoa.internal|Samoa.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Samoa.protect|Samoa.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Samoa.private|Samoa.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Samoa.personal|Samoa.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Samoa.secret|Samoa.secret]] 

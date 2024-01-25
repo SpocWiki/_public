@@ -41,9 +41,9 @@ markerFolder: ./Istok/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Istok.md|Istok]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Istok.internal.md|Istok.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Istok.protect.md|Istok.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Istok.private.md|Istok.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Istok.personal.md|Istok.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Istok.secret.md|Istok.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Istok.internal|Istok.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Istok.protect|Istok.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Istok.private|Istok.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Istok.personal|Istok.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Istok.secret|Istok.secret]] 
 

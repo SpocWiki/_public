@@ -41,9 +41,9 @@ markerFolder: ./Radovljica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.md|Radovljica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.internal.md|Radovljica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.protect.md|Radovljica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.private.md|Radovljica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.personal.md|Radovljica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.secret.md|Radovljica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.internal|Radovljica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.protect|Radovljica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.private|Radovljica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.personal|Radovljica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Radovljica.secret|Radovljica.secret]] 
 

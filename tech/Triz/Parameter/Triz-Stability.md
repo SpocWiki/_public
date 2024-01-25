@@ -19,8 +19,8 @@ Stability of the object's composition: ability of a system to maintain balance o
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Stability.md|Triz-Stability]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-Stability.internal.md|Triz-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-Stability.protect.md|Triz-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-Stability.private.md|Triz-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-Stability.personal.md|Triz-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-Stability.secret.md|Triz-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Stability.internal|Triz-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Stability.protect|Triz-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Stability.private|Triz-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Stability.personal|Triz-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Stability.secret|Triz-Stability.secret]] 

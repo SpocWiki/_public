@@ -42,8 +42,8 @@ SpocWebEntityId: 21918
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-17-Halogene/Chlorine.md|Chlorine]] 
-- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Chlorine.internal.md|Chlorine.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Chlorine.protect.md|Chlorine.protect]] 
-- [[../../../../_private/chemic/Elements/Group-17-Halogene/Chlorine.private.md|Chlorine.private]] 
-- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Chlorine.personal.md|Chlorine.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Chlorine.secret.md|Chlorine.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Chlorine.internal|Chlorine.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Chlorine.protect|Chlorine.protect]] 
+- [[../../../../_private/chemic/Elements/Group-17-Halogene/Chlorine.private|Chlorine.private]] 
+- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Chlorine.personal|Chlorine.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Chlorine.secret|Chlorine.secret]] 

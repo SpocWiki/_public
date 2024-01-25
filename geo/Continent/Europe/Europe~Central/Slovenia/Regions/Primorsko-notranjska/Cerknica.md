@@ -41,9 +41,9 @@ markerFolder: ./Cerknica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.md|Cerknica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.internal.md|Cerknica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.protect.md|Cerknica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.private.md|Cerknica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.personal.md|Cerknica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.secret.md|Cerknica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.internal|Cerknica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.protect|Cerknica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.private|Cerknica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.personal|Cerknica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Cerknica.secret|Cerknica.secret]] 
 

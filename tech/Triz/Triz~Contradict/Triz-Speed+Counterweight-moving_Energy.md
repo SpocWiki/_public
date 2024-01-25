@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Counterweight-moving_Energy]
 [SpocWebEntityId::23410]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Counterweight]]]
-- [con::[[Triz-moving_Energy]]]
+- [#has_/Cons :: [[Triz-moving_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.md|Triz-Speed+Counterweight-moving_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.internal.md|Triz-Speed+Counterweight-moving_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.protect.md|Triz-Speed+Counterweight-moving_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.private.md|Triz-Speed+Counterweight-moving_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.personal.md|Triz-Speed+Counterweight-moving_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.secret.md|Triz-Speed+Counterweight-moving_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.internal|Triz-Speed+Counterweight-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.protect|Triz-Speed+Counterweight-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.private|Triz-Speed+Counterweight-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.personal|Triz-Speed+Counterweight-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Counterweight-moving_Energy.secret|Triz-Speed+Counterweight-moving_Energy.secret]] 

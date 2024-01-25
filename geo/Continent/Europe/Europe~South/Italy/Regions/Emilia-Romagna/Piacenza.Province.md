@@ -41,9 +41,9 @@ markerFolder: ./Piacenza.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.md|Piacenza.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.internal.md|Piacenza.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.protect.md|Piacenza.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.private.md|Piacenza.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.personal.md|Piacenza.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.secret.md|Piacenza.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.internal|Piacenza.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.protect|Piacenza.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.private|Piacenza.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.personal|Piacenza.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Piacenza.Province.secret|Piacenza.Province.secret]] 
 

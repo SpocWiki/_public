@@ -34,7 +34,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 - [[City~Lisburn|City~Lisburn]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.internal|Lisburn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.protect.md|Lisburn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.private.md|Lisburn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.personal.md|Lisburn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.secret.md|Lisburn.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.protect|Lisburn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.private|Lisburn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.personal|Lisburn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.secret|Lisburn.secret]] 

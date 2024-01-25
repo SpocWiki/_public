@@ -41,9 +41,9 @@ markerFolder: ./Radece/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.md|Radece]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.internal.md|Radece.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.protect.md|Radece.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.private.md|Radece.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.personal.md|Radece.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.secret.md|Radece.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.internal|Radece.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.protect|Radece.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.private|Radece.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.personal|Radece.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Radece.secret|Radece.secret]] 
 

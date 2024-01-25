@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Changing_the_color-Illumination]
 [SpocWebEntityId::24555]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.md|Triz-stationary_Energy+Changing_the_color-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.internal.md|Triz-stationary_Energy+Changing_the_color-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.protect.md|Triz-stationary_Energy+Changing_the_color-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.private.md|Triz-stationary_Energy+Changing_the_color-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.personal.md|Triz-stationary_Energy+Changing_the_color-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.secret.md|Triz-stationary_Energy+Changing_the_color-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.internal|Triz-stationary_Energy+Changing_the_color-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.protect|Triz-stationary_Energy+Changing_the_color-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.private|Triz-stationary_Energy+Changing_the_color-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.personal|Triz-stationary_Energy+Changing_the_color-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Changing_the_color-Illumination.secret|Triz-stationary_Energy+Changing_the_color-Illumination.secret]] 

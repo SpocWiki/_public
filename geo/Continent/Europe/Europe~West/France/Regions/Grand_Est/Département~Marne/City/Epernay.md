@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Epernay.md|Epernay]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Epernay.internal.md|Epernay.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Epernay.protect.md|Epernay.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Epernay.private.md|Epernay.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Epernay.personal.md|Epernay.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Epernay.secret.md|Epernay.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Epernay.internal|Epernay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Epernay.protect|Epernay.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Epernay.private|Epernay.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Epernay.personal|Epernay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Epernay.secret|Epernay.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Altdamm.md|Altdamm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altdamm.internal.md|Altdamm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altdamm.protect.md|Altdamm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altdamm.private.md|Altdamm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altdamm.personal.md|Altdamm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altdamm.secret.md|Altdamm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altdamm.internal|Altdamm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altdamm.protect|Altdamm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altdamm.private|Altdamm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altdamm.personal|Altdamm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altdamm.secret|Altdamm.secret]] 

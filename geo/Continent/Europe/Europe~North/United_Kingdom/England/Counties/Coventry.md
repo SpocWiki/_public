@@ -41,9 +41,9 @@ markerFolder: ./Coventry/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.md|Coventry]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.internal.md|Coventry.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.protect.md|Coventry.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.private.md|Coventry.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.personal.md|Coventry.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.secret.md|Coventry.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.internal|Coventry.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.protect|Coventry.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.private|Coventry.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.personal|Coventry.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.secret|Coventry.secret]] 
 

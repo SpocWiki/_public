@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rudoltowitz.md|Rudoltowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rudoltowitz.internal.md|Rudoltowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rudoltowitz.protect.md|Rudoltowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rudoltowitz.private.md|Rudoltowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rudoltowitz.personal.md|Rudoltowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rudoltowitz.secret.md|Rudoltowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rudoltowitz.internal|Rudoltowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rudoltowitz.protect|Rudoltowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rudoltowitz.private|Rudoltowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rudoltowitz.personal|Rudoltowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rudoltowitz.secret|Rudoltowitz.secret]] 

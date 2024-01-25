@@ -41,9 +41,9 @@ markerFolder: ./West_Bosnia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.md|West_Bosnia]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.internal.md|West_Bosnia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.protect.md|West_Bosnia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.private.md|West_Bosnia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.personal.md|West_Bosnia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.secret.md|West_Bosnia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.internal|West_Bosnia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.protect|West_Bosnia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.private|West_Bosnia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.personal|West_Bosnia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/West_Bosnia.secret|West_Bosnia.secret]] 
 

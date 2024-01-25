@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Seraing.md|Seraing]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Seraing.internal.md|Seraing.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Seraing.protect.md|Seraing.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Seraing.private.md|Seraing.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Seraing.personal.md|Seraing.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Seraing.secret.md|Seraing.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Seraing.internal|Seraing.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Seraing.protect|Seraing.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Seraing.private|Seraing.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Seraing.personal|Seraing.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Seraing.secret|Seraing.secret]] 

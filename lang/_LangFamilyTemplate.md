@@ -20,9 +20,9 @@ SpocWebEntityId: {{Id}}
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/_LangFamilyTemplate.md|_LangFamilyTemplate]] 
-- [[../../_internal/lang/_LangFamilyTemplate.internal.md|_LangFamilyTemplate.internal]] 
-- [[../../_protect/lang/_LangFamilyTemplate.protect.md|_LangFamilyTemplate.protect]] 
-- [[../../_private/lang/_LangFamilyTemplate.private.md|_LangFamilyTemplate.private]] 
-- [[../../_personal/lang/_LangFamilyTemplate.personal.md|_LangFamilyTemplate.personal]] 
-- [[../../_secret/lang/_LangFamilyTemplate.secret.md|_LangFamilyTemplate.secret]]
+- [[../../_internal/lang/_LangFamilyTemplate.internal|_LangFamilyTemplate.internal]] 
+- [[../../_protect/lang/_LangFamilyTemplate.protect|_LangFamilyTemplate.protect]] 
+- [[../../_private/lang/_LangFamilyTemplate.private|_LangFamilyTemplate.private]] 
+- [[../../_personal/lang/_LangFamilyTemplate.personal|_LangFamilyTemplate.personal]] 
+- [[../../_secret/lang/_LangFamilyTemplate.secret|_LangFamilyTemplate.secret]]
 

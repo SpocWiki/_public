@@ -41,9 +41,9 @@ markerFolder: ./Krong_Preah_Sihanouk/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.md|Krong_Preah_Sihanouk]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.internal.md|Krong_Preah_Sihanouk.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.protect.md|Krong_Preah_Sihanouk.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.private.md|Krong_Preah_Sihanouk.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.personal.md|Krong_Preah_Sihanouk.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.secret.md|Krong_Preah_Sihanouk.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.internal|Krong_Preah_Sihanouk.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.protect|Krong_Preah_Sihanouk.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.private|Krong_Preah_Sihanouk.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.personal|Krong_Preah_Sihanouk.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.secret|Krong_Preah_Sihanouk.secret]] 
 

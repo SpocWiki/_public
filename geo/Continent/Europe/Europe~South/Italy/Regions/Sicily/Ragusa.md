@@ -41,9 +41,9 @@ markerFolder: ./Ragusa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.md|Ragusa]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.internal.md|Ragusa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.protect.md|Ragusa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.private.md|Ragusa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.personal.md|Ragusa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.secret.md|Ragusa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.internal|Ragusa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.protect|Ragusa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.private|Ragusa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.personal|Ragusa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Ragusa.secret|Ragusa.secret]] 
 

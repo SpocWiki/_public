@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Abbéville.md|Abbéville]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Abbéville.internal.md|Abbéville.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Abbéville.protect.md|Abbéville.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Abbéville.private.md|Abbéville.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Abbéville.personal.md|Abbéville.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Abbéville.secret.md|Abbéville.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Abbéville.internal|Abbéville.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Abbéville.protect|Abbéville.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Abbéville.private|Abbéville.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Abbéville.personal|Abbéville.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Abbéville.secret|Abbéville.secret]] 

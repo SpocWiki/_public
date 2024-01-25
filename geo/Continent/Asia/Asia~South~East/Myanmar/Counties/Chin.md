@@ -41,9 +41,9 @@ markerFolder: ./Chin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.md|Chin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.internal.md|Chin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.protect.md|Chin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.private.md|Chin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.personal.md|Chin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.secret.md|Chin.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.internal|Chin.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.protect|Chin.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.private|Chin.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.personal|Chin.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.secret|Chin.secret]] 
 

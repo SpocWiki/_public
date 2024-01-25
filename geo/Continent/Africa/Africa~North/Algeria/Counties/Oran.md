@@ -41,9 +41,9 @@ markerFolder: ./Oran/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Oran.md|Oran]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Oran.internal.md|Oran.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Oran.protect.md|Oran.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Oran.private.md|Oran.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Oran.personal.md|Oran.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Oran.secret.md|Oran.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Oran.internal|Oran.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Oran.protect|Oran.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Oran.private|Oran.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Oran.personal|Oran.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Oran.secret|Oran.secret]] 
 

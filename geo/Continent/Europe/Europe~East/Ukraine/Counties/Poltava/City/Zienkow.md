@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zienkow.md|Zienkow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zienkow.internal.md|Zienkow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zienkow.protect.md|Zienkow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zienkow.private.md|Zienkow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zienkow.personal.md|Zienkow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zienkow.secret.md|Zienkow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zienkow.internal|Zienkow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zienkow.protect|Zienkow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zienkow.private|Zienkow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zienkow.personal|Zienkow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zienkow.secret|Zienkow.secret]] 

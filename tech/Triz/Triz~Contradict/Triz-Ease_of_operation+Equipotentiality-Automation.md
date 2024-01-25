@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Equipotentiality-Automation]
 [SpocWebEntityId::26064]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Equipotentiality]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.md|Triz-Ease_of_operation+Equipotentiality-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.internal.md|Triz-Ease_of_operation+Equipotentiality-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.protect.md|Triz-Ease_of_operation+Equipotentiality-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.private.md|Triz-Ease_of_operation+Equipotentiality-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.personal.md|Triz-Ease_of_operation+Equipotentiality-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.secret.md|Triz-Ease_of_operation+Equipotentiality-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.internal|Triz-Ease_of_operation+Equipotentiality-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.protect|Triz-Ease_of_operation+Equipotentiality-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.private|Triz-Ease_of_operation+Equipotentiality-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.personal|Triz-Ease_of_operation+Equipotentiality-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.secret|Triz-Ease_of_operation+Equipotentiality-Automation.secret]] 

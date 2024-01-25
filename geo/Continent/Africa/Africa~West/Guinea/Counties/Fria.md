@@ -41,9 +41,9 @@ markerFolder: ./Fria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Fria.md|Fria]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Fria.internal.md|Fria.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Fria.protect.md|Fria.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Fria.private.md|Fria.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Fria.personal.md|Fria.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Fria.secret.md|Fria.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Fria.internal|Fria.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Fria.protect|Fria.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Fria.private|Fria.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Fria.personal|Fria.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Fria.secret|Fria.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Noiermoutier.md|Noiermoutier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Noiermoutier.internal.md|Noiermoutier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Noiermoutier.protect.md|Noiermoutier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Noiermoutier.private.md|Noiermoutier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Noiermoutier.personal.md|Noiermoutier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Noiermoutier.secret.md|Noiermoutier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Noiermoutier.internal|Noiermoutier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Noiermoutier.protect|Noiermoutier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Noiermoutier.private|Noiermoutier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Noiermoutier.personal|Noiermoutier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Noiermoutier.secret|Noiermoutier.secret]] 

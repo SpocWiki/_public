@@ -31,8 +31,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Nibelungenplatz_FH|T-Nibelungenplatz_FH]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.internal.md|T-Nibelungenplatz_FH.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.protect.md|T-Nibelungenplatz_FH.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.private.md|T-Nibelungenplatz_FH.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.personal.md|T-Nibelungenplatz_FH.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.secret.md|T-Nibelungenplatz_FH.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.internal|T-Nibelungenplatz_FH.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.protect|T-Nibelungenplatz_FH.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.private|T-Nibelungenplatz_FH.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.personal|T-Nibelungenplatz_FH.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Nibelungenplatz_FH.secret|T-Nibelungenplatz_FH.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Oulu.md|Oulu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Oulu.internal.md|Oulu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Oulu.protect.md|Oulu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Oulu.private.md|Oulu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Oulu.personal.md|Oulu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Oulu.secret.md|Oulu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Oulu.internal|Oulu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Oulu.protect|Oulu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Oulu.private|Oulu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Oulu.personal|Oulu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Oulu.secret|Oulu.secret]] 

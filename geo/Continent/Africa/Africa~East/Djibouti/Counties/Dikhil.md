@@ -41,9 +41,9 @@ markerFolder: ./Dikhil/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Djibouti/Counties/Dikhil.md|Dikhil]] 
-- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Dikhil.internal.md|Dikhil.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Dikhil.protect.md|Dikhil.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Dikhil.private.md|Dikhil.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Dikhil.personal.md|Dikhil.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Dikhil.secret.md|Dikhil.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Dikhil.internal|Dikhil.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Dikhil.protect|Dikhil.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Dikhil.private|Dikhil.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Dikhil.personal|Dikhil.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Dikhil.secret|Dikhil.secret]] 
 

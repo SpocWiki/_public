@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Asymmetry-Substance-Loss]
 [SpocWebEntityId::22859]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.md|Triz-moving_Length+Asymmetry-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.internal.md|Triz-moving_Length+Asymmetry-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.protect.md|Triz-moving_Length+Asymmetry-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.private.md|Triz-moving_Length+Asymmetry-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.personal.md|Triz-moving_Length+Asymmetry-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.secret.md|Triz-moving_Length+Asymmetry-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.internal|Triz-moving_Length+Asymmetry-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.protect|Triz-moving_Length+Asymmetry-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.private|Triz-moving_Length+Asymmetry-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.personal|Triz-moving_Length+Asymmetry-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Substance-Loss.secret|Triz-moving_Length+Asymmetry-Substance-Loss.secret]] 

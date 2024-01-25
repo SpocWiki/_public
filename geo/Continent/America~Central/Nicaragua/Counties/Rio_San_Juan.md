@@ -41,9 +41,9 @@ markerFolder: ./Rio_San_Juan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.md|Rio_San_Juan]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.internal.md|Rio_San_Juan.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.protect.md|Rio_San_Juan.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.private.md|Rio_San_Juan.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.personal.md|Rio_San_Juan.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.secret.md|Rio_San_Juan.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.internal|Rio_San_Juan.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.protect|Rio_San_Juan.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.private|Rio_San_Juan.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.personal|Rio_San_Juan.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Rio_San_Juan.secret|Rio_San_Juan.secret]] 
 

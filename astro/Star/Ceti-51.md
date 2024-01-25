@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Ceti-51.md|Ceti-51]] 
-- [[../../../_internal/astro/Star/Ceti-51.internal.md|Ceti-51.internal]] 
-- [[../../../_protect/astro/Star/Ceti-51.protect.md|Ceti-51.protect]] 
-- [[../../../_private/astro/Star/Ceti-51.private.md|Ceti-51.private]] 
-- [[../../../_personal/astro/Star/Ceti-51.personal.md|Ceti-51.personal]] 
-- [[../../../_secret/astro/Star/Ceti-51.secret.md|Ceti-51.secret]]
+- [[../../../_internal/astro/Star/Ceti-51.internal|Ceti-51.internal]] 
+- [[../../../_protect/astro/Star/Ceti-51.protect|Ceti-51.protect]] 
+- [[../../../_private/astro/Star/Ceti-51.private|Ceti-51.private]] 
+- [[../../../_personal/astro/Star/Ceti-51.personal|Ceti-51.personal]] 
+- [[../../../_secret/astro/Star/Ceti-51.secret|Ceti-51.secret]]
 

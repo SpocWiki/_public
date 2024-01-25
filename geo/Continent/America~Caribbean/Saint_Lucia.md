@@ -43,8 +43,8 @@ markerFolder: ./Saint_Lucia/
 
 ## Confidential Links & Embeds: 
 - [[Saint_Lucia|Saint_Lucia]] 
-- [[../../../../_internal/geo/Continent/South-America/Saint_Lucia.internal.md|Saint_Lucia.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Saint_Lucia.protect.md|Saint_Lucia.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Saint_Lucia.private.md|Saint_Lucia.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Saint_Lucia.personal.md|Saint_Lucia.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Saint_Lucia.secret.md|Saint_Lucia.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Saint_Lucia.internal|Saint_Lucia.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Saint_Lucia.protect|Saint_Lucia.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Saint_Lucia.private|Saint_Lucia.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Saint_Lucia.personal|Saint_Lucia.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Saint_Lucia.secret|Saint_Lucia.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Syzzan.md|Syzzan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Syzzan.internal.md|Syzzan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Syzzan.protect.md|Syzzan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Syzzan.private.md|Syzzan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Syzzan.personal.md|Syzzan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Syzzan.secret.md|Syzzan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Syzzan.internal|Syzzan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Syzzan.protect|Syzzan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Syzzan.private|Syzzan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Syzzan.personal|Syzzan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Syzzan.secret|Syzzan.secret]] 

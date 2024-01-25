@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ange.md|Ange]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ange.internal.md|Ange.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ange.protect.md|Ange.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ange.private.md|Ange.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ange.personal.md|Ange.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ange.secret.md|Ange.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ange.internal|Ange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ange.protect|Ange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ange.private|Ange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ange.personal|Ange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ange.secret|Ange.secret]] 

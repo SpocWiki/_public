@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Buzau.md|Buzau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Buzau.internal.md|Buzau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Buzau.protect.md|Buzau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Buzau.private.md|Buzau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Buzau.personal.md|Buzau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Buzau.secret.md|Buzau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Buzau.internal|Buzau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Buzau.protect|Buzau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Buzau.private|Buzau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Buzau.personal|Buzau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Buzau.secret|Buzau.secret]] 

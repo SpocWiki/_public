@@ -18,8 +18,8 @@ Extending Radio Telescope Antenna
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Extending_Antenna.md|Triz-Extending_Antenna]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Extending_Antenna.internal.md|Triz-Extending_Antenna.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Extending_Antenna.protect.md|Triz-Extending_Antenna.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Extending_Antenna.private.md|Triz-Extending_Antenna.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Extending_Antenna.personal.md|Triz-Extending_Antenna.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Extending_Antenna.secret.md|Triz-Extending_Antenna.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Extending_Antenna.internal|Triz-Extending_Antenna.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Extending_Antenna.protect|Triz-Extending_Antenna.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Extending_Antenna.private|Triz-Extending_Antenna.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Extending_Antenna.personal|Triz-Extending_Antenna.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Extending_Antenna.secret|Triz-Extending_Antenna.secret]] 

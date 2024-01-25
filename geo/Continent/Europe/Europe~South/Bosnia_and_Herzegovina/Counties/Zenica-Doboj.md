@@ -41,9 +41,9 @@ markerFolder: ./Zenica-Doboj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.md|Zenica-Doboj]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.internal.md|Zenica-Doboj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.protect.md|Zenica-Doboj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.private.md|Zenica-Doboj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.personal.md|Zenica-Doboj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.secret.md|Zenica-Doboj.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.internal|Zenica-Doboj.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.protect|Zenica-Doboj.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.private|Zenica-Doboj.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.personal|Zenica-Doboj.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Zenica-Doboj.secret|Zenica-Doboj.secret]] 
 

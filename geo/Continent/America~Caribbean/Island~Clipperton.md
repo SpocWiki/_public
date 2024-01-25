@@ -41,9 +41,9 @@ markerFolder: ./Island~Clipperton/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Island~Clipperton.md|Island~Clipperton]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Island~Clipperton.internal.md|Island~Clipperton.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Island~Clipperton.protect.md|Island~Clipperton.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Island~Clipperton.private.md|Island~Clipperton.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Island~Clipperton.personal.md|Island~Clipperton.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Island~Clipperton.secret.md|Island~Clipperton.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Island~Clipperton.internal|Island~Clipperton.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Island~Clipperton.protect|Island~Clipperton.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Island~Clipperton.private|Island~Clipperton.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Island~Clipperton.personal|Island~Clipperton.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Island~Clipperton.secret|Island~Clipperton.secret]] 
 

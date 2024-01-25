@@ -41,9 +41,9 @@ markerFolder: ./Almería/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.md|Almería]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.internal.md|Almería.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.protect.md|Almería.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.private.md|Almería.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.personal.md|Almería.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.secret.md|Almería.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.internal|Almería.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.protect|Almería.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.private|Almería.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.personal|Almería.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Almería.secret|Almería.secret]] 
 

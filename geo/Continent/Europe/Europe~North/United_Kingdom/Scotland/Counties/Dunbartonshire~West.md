@@ -41,9 +41,9 @@ markerFolder: ./Dunbartonshire~West/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.md|Dunbartonshire~West]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.internal.md|Dunbartonshire~West.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.protect.md|Dunbartonshire~West.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.private.md|Dunbartonshire~West.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.personal.md|Dunbartonshire~West.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.secret.md|Dunbartonshire~West.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.internal|Dunbartonshire~West.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.protect|Dunbartonshire~West.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.private|Dunbartonshire~West.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.personal|Dunbartonshire~West.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.secret|Dunbartonshire~West.secret]] 
 

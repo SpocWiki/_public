@@ -41,9 +41,9 @@ markerFolder: ./Flacq/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Flacq.md|Flacq]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Flacq.internal.md|Flacq.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Flacq.protect.md|Flacq.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Flacq.private.md|Flacq.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Flacq.personal.md|Flacq.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Flacq.secret.md|Flacq.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Flacq.internal|Flacq.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Flacq.protect|Flacq.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Flacq.private|Flacq.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Flacq.personal|Flacq.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Flacq.secret|Flacq.secret]] 
 

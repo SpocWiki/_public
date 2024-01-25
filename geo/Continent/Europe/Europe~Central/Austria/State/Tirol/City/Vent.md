@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Vent.md|Vent]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Vent.internal.md|Vent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Vent.protect.md|Vent.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Vent.private.md|Vent.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Vent.personal.md|Vent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Vent.secret.md|Vent.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Vent.internal|Vent.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Vent.protect|Vent.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Vent.private|Vent.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Vent.personal|Vent.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Vent.secret|Vent.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Kenya/City/Nairobi.City.md|Nairobi.City]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Kenya/City/Nairobi.City.internal.md|Nairobi.City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Kenya/City/Nairobi.City.protect.md|Nairobi.City.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Kenya/City/Nairobi.City.private.md|Nairobi.City.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Kenya/City/Nairobi.City.personal.md|Nairobi.City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Kenya/City/Nairobi.City.secret.md|Nairobi.City.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Kenya/City/Nairobi.City.internal|Nairobi.City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Kenya/City/Nairobi.City.protect|Nairobi.City.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Kenya/City/Nairobi.City.private|Nairobi.City.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Kenya/City/Nairobi.City.personal|Nairobi.City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Kenya/City/Nairobi.City.secret|Nairobi.City.secret]] 

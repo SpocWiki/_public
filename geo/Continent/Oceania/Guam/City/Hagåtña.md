@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Guam/City/Hagåtña.md|Hagåtña]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Guam/City/Hagåtña.internal.md|Hagåtña.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Guam/City/Hagåtña.protect.md|Hagåtña.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Guam/City/Hagåtña.private.md|Hagåtña.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Guam/City/Hagåtña.personal.md|Hagåtña.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Guam/City/Hagåtña.secret.md|Hagåtña.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Guam/City/Hagåtña.internal|Hagåtña.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Guam/City/Hagåtña.protect|Hagåtña.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Guam/City/Hagåtña.private|Hagåtña.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Guam/City/Hagåtña.personal|Hagåtña.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Guam/City/Hagåtña.secret|Hagåtña.secret]] 

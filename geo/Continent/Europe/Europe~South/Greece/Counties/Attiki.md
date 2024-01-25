@@ -41,9 +41,9 @@ markerFolder: ./Attiki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Attiki.md|Attiki]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Attiki.internal.md|Attiki.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Attiki.protect.md|Attiki.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Attiki.private.md|Attiki.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Attiki.personal.md|Attiki.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Attiki.secret.md|Attiki.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Attiki.internal|Attiki.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Attiki.protect|Attiki.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Attiki.private|Attiki.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Attiki.personal|Attiki.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Attiki.secret|Attiki.secret]] 
 

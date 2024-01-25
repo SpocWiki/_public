@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Montserrat/City/Brades.md|Brades]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Montserrat/City/Brades.internal.md|Brades.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Montserrat/City/Brades.protect.md|Brades.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Montserrat/City/Brades.private.md|Brades.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Montserrat/City/Brades.personal.md|Brades.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Montserrat/City/Brades.secret.md|Brades.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Montserrat/City/Brades.internal|Brades.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Montserrat/City/Brades.protect|Brades.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Montserrat/City/Brades.private|Brades.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Montserrat/City/Brades.personal|Brades.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Montserrat/City/Brades.secret|Brades.secret]] 

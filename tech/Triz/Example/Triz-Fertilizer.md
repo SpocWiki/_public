@@ -18,8 +18,8 @@ Use Animal Waste as Fertilizer.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Fertilizer.md|Triz-Fertilizer]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Fertilizer.internal.md|Triz-Fertilizer.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Fertilizer.protect.md|Triz-Fertilizer.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Fertilizer.private.md|Triz-Fertilizer.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Fertilizer.personal.md|Triz-Fertilizer.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Fertilizer.secret.md|Triz-Fertilizer.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Fertilizer.internal|Triz-Fertilizer.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Fertilizer.protect|Triz-Fertilizer.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Fertilizer.private|Triz-Fertilizer.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Fertilizer.personal|Triz-Fertilizer.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Fertilizer.secret|Triz-Fertilizer.secret]] 

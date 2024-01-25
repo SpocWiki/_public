@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Cushion_in_advance-Strength]
 [SpocWebEntityId::25279]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.md|Triz-Reliability+Cushion_in_advance-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.internal.md|Triz-Reliability+Cushion_in_advance-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.protect.md|Triz-Reliability+Cushion_in_advance-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.private.md|Triz-Reliability+Cushion_in_advance-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.personal.md|Triz-Reliability+Cushion_in_advance-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.secret.md|Triz-Reliability+Cushion_in_advance-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.internal|Triz-Reliability+Cushion_in_advance-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.protect|Triz-Reliability+Cushion_in_advance-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.private|Triz-Reliability+Cushion_in_advance-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.personal|Triz-Reliability+Cushion_in_advance-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Strength.secret|Triz-Reliability+Cushion_in_advance-Strength.secret]] 

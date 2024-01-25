@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Neustadt_im_Schwarzwald|Neustadt_im_Schwarzwald]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.internal.md|Neustadt_im_Schwarzwald.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.protect.md|Neustadt_im_Schwarzwald.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.private.md|Neustadt_im_Schwarzwald.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.personal.md|Neustadt_im_Schwarzwald.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.secret.md|Neustadt_im_Schwarzwald.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.internal|Neustadt_im_Schwarzwald.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.protect|Neustadt_im_Schwarzwald.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.private|Neustadt_im_Schwarzwald.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.personal|Neustadt_im_Schwarzwald.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.secret|Neustadt_im_Schwarzwald.secret]] 

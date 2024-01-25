@@ -41,9 +41,9 @@ markerFolder: ./Novo_Brdo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.md|Novo_Brdo]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.internal.md|Novo_Brdo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.protect.md|Novo_Brdo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.private.md|Novo_Brdo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.personal.md|Novo_Brdo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.secret.md|Novo_Brdo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.internal|Novo_Brdo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.protect|Novo_Brdo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.private|Novo_Brdo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.personal|Novo_Brdo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.secret|Novo_Brdo.secret]] 
 

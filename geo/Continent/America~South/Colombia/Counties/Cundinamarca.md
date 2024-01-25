@@ -41,9 +41,9 @@ markerFolder: ./Cundinamarca/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Cundinamarca.md|Cundinamarca]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Cundinamarca.internal.md|Cundinamarca.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Cundinamarca.protect.md|Cundinamarca.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Cundinamarca.private.md|Cundinamarca.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Cundinamarca.personal.md|Cundinamarca.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Cundinamarca.secret.md|Cundinamarca.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Cundinamarca.internal|Cundinamarca.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Cundinamarca.protect|Cundinamarca.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Cundinamarca.private|Cundinamarca.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Cundinamarca.personal|Cundinamarca.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Cundinamarca.secret|Cundinamarca.secret]] 
 

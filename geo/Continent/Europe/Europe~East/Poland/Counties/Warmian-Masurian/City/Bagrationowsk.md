@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Bagrationowsk.md|Bagrationowsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bagrationowsk.internal.md|Bagrationowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bagrationowsk.protect.md|Bagrationowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bagrationowsk.private.md|Bagrationowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bagrationowsk.personal.md|Bagrationowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bagrationowsk.secret.md|Bagrationowsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bagrationowsk.internal|Bagrationowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bagrationowsk.protect|Bagrationowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bagrationowsk.private|Bagrationowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bagrationowsk.personal|Bagrationowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bagrationowsk.secret|Bagrationowsk.secret]] 

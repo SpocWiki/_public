@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Quimperlé.md|Quimperlé]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Quimperlé.internal.md|Quimperlé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Quimperlé.protect.md|Quimperlé.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Quimperlé.private.md|Quimperlé.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Quimperlé.personal.md|Quimperlé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Quimperlé.secret.md|Quimperlé.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Quimperlé.internal|Quimperlé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Quimperlé.protect|Quimperlé.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Quimperlé.private|Quimperlé.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Quimperlé.personal|Quimperlé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Quimperlé.secret|Quimperlé.secret]] 

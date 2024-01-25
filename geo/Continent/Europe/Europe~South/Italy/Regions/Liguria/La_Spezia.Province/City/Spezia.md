@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Spezia.md|Spezia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Spezia.internal.md|Spezia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Spezia.protect.md|Spezia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Spezia.private.md|Spezia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Spezia.personal.md|Spezia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Spezia.secret.md|Spezia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Spezia.internal|Spezia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Spezia.protect|Spezia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Spezia.private|Spezia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Spezia.personal|Spezia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Spezia.secret|Spezia.secret]] 

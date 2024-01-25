@@ -41,9 +41,9 @@ markerFolder: ./Mulanje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Mulanje.md|Mulanje]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mulanje.internal.md|Mulanje.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mulanje.protect.md|Mulanje.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mulanje.private.md|Mulanje.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mulanje.personal.md|Mulanje.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mulanje.secret.md|Mulanje.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mulanje.internal|Mulanje.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mulanje.protect|Mulanje.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mulanje.private|Mulanje.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mulanje.personal|Mulanje.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mulanje.secret|Mulanje.secret]] 
 

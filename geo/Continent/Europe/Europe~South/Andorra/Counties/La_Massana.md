@@ -41,9 +41,9 @@ markerFolder: ./La_Massana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Andorra/Counties/La_Massana.md|La_Massana]] 
-- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/La_Massana.internal.md|La_Massana.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/La_Massana.protect.md|La_Massana.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/La_Massana.private.md|La_Massana.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/La_Massana.personal.md|La_Massana.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/La_Massana.secret.md|La_Massana.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/La_Massana.internal|La_Massana.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/La_Massana.protect|La_Massana.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/La_Massana.private|La_Massana.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/La_Massana.personal|La_Massana.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/La_Massana.secret|La_Massana.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Orivesi.md|Orivesi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Orivesi.internal.md|Orivesi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Orivesi.protect.md|Orivesi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Orivesi.private.md|Orivesi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Orivesi.personal.md|Orivesi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Orivesi.secret.md|Orivesi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Orivesi.internal|Orivesi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Orivesi.protect|Orivesi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Orivesi.private|Orivesi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Orivesi.personal|Orivesi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Orivesi.secret|Orivesi.secret]] 

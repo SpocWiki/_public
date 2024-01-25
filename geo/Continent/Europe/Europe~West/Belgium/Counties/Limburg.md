@@ -41,9 +41,9 @@ markerFolder: ./Limburg/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Limburg.md|Limburg]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Limburg.internal.md|Limburg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Limburg.protect.md|Limburg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Limburg.private.md|Limburg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Limburg.personal.md|Limburg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Limburg.secret.md|Limburg.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Limburg.internal|Limburg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Limburg.protect|Limburg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Limburg.private|Limburg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Limburg.personal|Limburg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Limburg.secret|Limburg.secret]] 
 

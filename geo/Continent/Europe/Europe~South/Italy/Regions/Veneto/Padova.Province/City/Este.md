@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Este.md|Este]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Este.internal.md|Este.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Este.protect.md|Este.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Este.private.md|Este.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Este.personal.md|Este.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Este.secret.md|Este.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Este.internal|Este.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Este.protect|Este.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Este.private|Este.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Este.personal|Este.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Este.secret|Este.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Karakalpakstan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.md|Karakalpakstan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.internal.md|Karakalpakstan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.protect.md|Karakalpakstan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.private.md|Karakalpakstan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.personal.md|Karakalpakstan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.secret.md|Karakalpakstan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.internal|Karakalpakstan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.protect|Karakalpakstan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.private|Karakalpakstan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.personal|Karakalpakstan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.secret|Karakalpakstan.secret]] 
 

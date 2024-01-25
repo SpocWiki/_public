@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Copying-Automation]
 [SpocWebEntityId::25568]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.md|Triz-Manufacturing_Precision+Copying-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.internal.md|Triz-Manufacturing_Precision+Copying-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.protect.md|Triz-Manufacturing_Precision+Copying-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.private.md|Triz-Manufacturing_Precision+Copying-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.personal.md|Triz-Manufacturing_Precision+Copying-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.secret.md|Triz-Manufacturing_Precision+Copying-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.internal|Triz-Manufacturing_Precision+Copying-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.protect|Triz-Manufacturing_Precision+Copying-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.private|Triz-Manufacturing_Precision+Copying-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.personal|Triz-Manufacturing_Precision+Copying-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Automation.secret|Triz-Manufacturing_Precision+Copying-Automation.secret]] 

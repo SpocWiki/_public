@@ -41,9 +41,9 @@ markerFolder: ./Département~Loire-Atlantique/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.md|Département~Loire-Atlantique]] 
-- [[../../../../_internal/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.internal.md|Département~Loire-Atlantique.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.protect.md|Département~Loire-Atlantique.protect]] 
-- [[../../../../_private/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.private.md|Département~Loire-Atlantique.private]] 
-- [[../../../../_personal/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.personal.md|Département~Loire-Atlantique.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.secret.md|Département~Loire-Atlantique.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.internal|Département~Loire-Atlantique.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.protect|Département~Loire-Atlantique.protect]] 
+- [[../../../../_private/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.private|Département~Loire-Atlantique.private]] 
+- [[../../../../_personal/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.personal|Département~Loire-Atlantique.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.secret|Département~Loire-Atlantique.secret]] 
 

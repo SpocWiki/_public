@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Leeuwarden.md|Leeuwarden]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Leeuwarden.internal.md|Leeuwarden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Leeuwarden.protect.md|Leeuwarden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Leeuwarden.private.md|Leeuwarden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Leeuwarden.personal.md|Leeuwarden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Leeuwarden.secret.md|Leeuwarden.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Leeuwarden.internal|Leeuwarden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Leeuwarden.protect|Leeuwarden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Leeuwarden.private|Leeuwarden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Leeuwarden.personal|Leeuwarden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Leeuwarden.secret|Leeuwarden.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.md|Washington~City]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.internal.md|Washington~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.protect.md|Washington~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.private.md|Washington~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.personal.md|Washington~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.secret.md|Washington~City.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.internal|Washington~City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.protect|Washington~City.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.private|Washington~City.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.personal|Washington~City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.secret|Washington~City.secret]] 

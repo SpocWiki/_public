@@ -37,8 +37,8 @@ SpocWebEntityId: 22000
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-05-Vanadium/Dubnium.md|Dubnium]] 
-- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Dubnium.internal.md|Dubnium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Dubnium.protect.md|Dubnium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Dubnium.private.md|Dubnium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Dubnium.personal.md|Dubnium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Dubnium.secret.md|Dubnium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Dubnium.protect|Dubnium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Dubnium.private|Dubnium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]] 

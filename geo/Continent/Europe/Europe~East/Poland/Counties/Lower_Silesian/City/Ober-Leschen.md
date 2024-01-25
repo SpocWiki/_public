@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ober-Leschen.md|Ober-Leschen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ober-Leschen.internal.md|Ober-Leschen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ober-Leschen.protect.md|Ober-Leschen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ober-Leschen.private.md|Ober-Leschen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ober-Leschen.personal.md|Ober-Leschen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ober-Leschen.secret.md|Ober-Leschen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ober-Leschen.internal|Ober-Leschen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ober-Leschen.protect|Ober-Leschen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ober-Leschen.private|Ober-Leschen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ober-Leschen.personal|Ober-Leschen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ober-Leschen.secret|Ober-Leschen.secret]] 

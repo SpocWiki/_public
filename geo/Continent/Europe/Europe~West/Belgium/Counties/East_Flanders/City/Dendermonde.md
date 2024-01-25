@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Dendermonde.md|Dendermonde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Dendermonde.internal.md|Dendermonde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Dendermonde.protect.md|Dendermonde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Dendermonde.private.md|Dendermonde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Dendermonde.personal.md|Dendermonde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Dendermonde.secret.md|Dendermonde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Dendermonde.internal|Dendermonde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Dendermonde.protect|Dendermonde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Dendermonde.private|Dendermonde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Dendermonde.personal|Dendermonde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Dendermonde.secret|Dendermonde.secret]] 

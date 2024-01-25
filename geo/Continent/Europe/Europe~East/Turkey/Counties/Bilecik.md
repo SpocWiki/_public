@@ -41,9 +41,9 @@ markerFolder: ./Bilecik/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bilecik.md|Bilecik]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bilecik.internal.md|Bilecik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bilecik.protect.md|Bilecik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bilecik.private.md|Bilecik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bilecik.personal.md|Bilecik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bilecik.secret.md|Bilecik.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bilecik.internal|Bilecik.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bilecik.protect|Bilecik.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bilecik.private|Bilecik.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bilecik.personal|Bilecik.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bilecik.secret|Bilecik.secret]] 
 

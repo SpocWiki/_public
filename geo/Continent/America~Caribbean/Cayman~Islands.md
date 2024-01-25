@@ -128,8 +128,8 @@ markerFolder: ./Cayman~Islands/
 
 ## Confidential Links & Embeds: 
 - [[Cayman~Islands|Cayman~Islands]] 
-- [[../../../../_internal/geo/Continent/South-America/Cayman~Islands.internal.md|Cayman~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Cayman~Islands.protect.md|Cayman~Islands.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Cayman~Islands.private.md|Cayman~Islands.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Cayman~Islands.personal.md|Cayman~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Cayman~Islands.secret.md|Cayman~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Cayman~Islands.internal|Cayman~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Cayman~Islands.protect|Cayman~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Cayman~Islands.private|Cayman~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Cayman~Islands.personal|Cayman~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Cayman~Islands.secret|Cayman~Islands.secret]] 

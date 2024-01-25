@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Beckerich.md|Beckerich]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Beckerich.internal.md|Beckerich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Beckerich.protect.md|Beckerich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Beckerich.private.md|Beckerich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Beckerich.personal.md|Beckerich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Beckerich.secret.md|Beckerich.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Beckerich.internal|Beckerich.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Beckerich.protect|Beckerich.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Beckerich.private|Beckerich.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Beckerich.personal|Beckerich.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Beckerich.secret|Beckerich.secret]] 

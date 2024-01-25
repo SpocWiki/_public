@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Oldham.md|Oldham]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Oldham.internal.md|Oldham.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Oldham.protect.md|Oldham.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Oldham.private.md|Oldham.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Oldham.personal.md|Oldham.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Oldham.secret.md|Oldham.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Oldham.internal|Oldham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Oldham.protect|Oldham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Oldham.private|Oldham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Oldham.personal|Oldham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Oldham.secret|Oldham.secret]] 

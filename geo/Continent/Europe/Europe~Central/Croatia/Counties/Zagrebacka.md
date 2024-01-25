@@ -41,9 +41,9 @@ markerFolder: ./Zagrebacka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Zagrebacka.md|Zagrebacka]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Zagrebacka.internal.md|Zagrebacka.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Zagrebacka.protect.md|Zagrebacka.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Zagrebacka.private.md|Zagrebacka.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Zagrebacka.personal.md|Zagrebacka.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Zagrebacka.secret.md|Zagrebacka.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Zagrebacka.internal|Zagrebacka.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Zagrebacka.protect|Zagrebacka.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Zagrebacka.private|Zagrebacka.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Zagrebacka.personal|Zagrebacka.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Zagrebacka.secret|Zagrebacka.secret]] 
 

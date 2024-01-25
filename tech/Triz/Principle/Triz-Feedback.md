@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Feedback.md|Triz-Feedback]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Feedback.internal.md|Triz-Feedback.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Feedback.protect.md|Triz-Feedback.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Feedback.private.md|Triz-Feedback.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Feedback.personal.md|Triz-Feedback.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Feedback.secret.md|Triz-Feedback.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Feedback.internal|Triz-Feedback.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Feedback.protect|Triz-Feedback.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Feedback.private|Triz-Feedback.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Feedback.personal|Triz-Feedback.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Feedback.secret|Triz-Feedback.secret]] 

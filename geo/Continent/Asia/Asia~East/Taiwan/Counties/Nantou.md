@@ -41,9 +41,9 @@ markerFolder: ./Nantou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.md|Nantou]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.internal.md|Nantou.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.protect.md|Nantou.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.private.md|Nantou.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.personal.md|Nantou.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.secret.md|Nantou.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.internal|Nantou.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.protect|Nantou.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.private|Nantou.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.personal|Nantou.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Nantou.secret|Nantou.secret]] 
 

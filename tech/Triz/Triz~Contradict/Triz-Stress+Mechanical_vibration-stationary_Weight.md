@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Mechanical_vibration-stationary_Weight]
 [SpocWebEntityId::23609]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.md|Triz-Stress+Mechanical_vibration-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.internal.md|Triz-Stress+Mechanical_vibration-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.protect.md|Triz-Stress+Mechanical_vibration-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.private.md|Triz-Stress+Mechanical_vibration-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.personal.md|Triz-Stress+Mechanical_vibration-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.secret.md|Triz-Stress+Mechanical_vibration-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.internal|Triz-Stress+Mechanical_vibration-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.protect|Triz-Stress+Mechanical_vibration-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.private|Triz-Stress+Mechanical_vibration-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.personal|Triz-Stress+Mechanical_vibration-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-stationary_Weight.secret|Triz-Stress+Mechanical_vibration-stationary_Weight.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Papenhagen.md|Papenhagen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Papenhagen.internal.md|Papenhagen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Papenhagen.protect.md|Papenhagen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Papenhagen.private.md|Papenhagen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Papenhagen.personal.md|Papenhagen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Papenhagen.secret.md|Papenhagen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Papenhagen.internal|Papenhagen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Papenhagen.protect|Papenhagen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Papenhagen.private|Papenhagen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Papenhagen.personal|Papenhagen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Papenhagen.secret|Papenhagen.secret]] 

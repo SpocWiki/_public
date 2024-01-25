@@ -41,9 +41,9 @@ markerFolder: ./Slough/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.md|Slough]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.internal.md|Slough.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.protect.md|Slough.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.private.md|Slough.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.personal.md|Slough.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.secret.md|Slough.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.internal|Slough.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.protect|Slough.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.private|Slough.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.personal|Slough.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.secret|Slough.secret]] 
 

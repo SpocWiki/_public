@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bergen~Hanau|Bergen~Hanau]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.internal.md|Bergen~Hanau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.protect.md|Bergen~Hanau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.private.md|Bergen~Hanau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.personal.md|Bergen~Hanau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.secret.md|Bergen~Hanau.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.internal|Bergen~Hanau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.protect|Bergen~Hanau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.private|Bergen~Hanau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.personal|Bergen~Hanau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.secret|Bergen~Hanau.secret]] 

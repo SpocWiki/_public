@@ -76,8 +76,8 @@ FROM outgoing([[Line~Victoria]])
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.md|Line~Victoria]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.internal.md|Line~Victoria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.protect.md|Line~Victoria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.private.md|Line~Victoria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.personal.md|Line~Victoria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.secret.md|Line~Victoria.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.internal|Line~Victoria.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.protect|Line~Victoria.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.private|Line~Victoria.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.personal|Line~Victoria.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.secret|Line~Victoria.secret]] 

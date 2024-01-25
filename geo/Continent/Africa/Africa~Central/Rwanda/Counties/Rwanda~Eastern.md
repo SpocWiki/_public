@@ -41,9 +41,9 @@ markerFolder: ./Rwanda~Eastern/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.md|Rwanda~Eastern]] 
-- [[../../../../_internal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.internal.md|Rwanda~Eastern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.protect.md|Rwanda~Eastern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.private.md|Rwanda~Eastern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.personal.md|Rwanda~Eastern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.secret.md|Rwanda~Eastern.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.internal|Rwanda~Eastern.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.protect|Rwanda~Eastern.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.private|Rwanda~Eastern.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.personal|Rwanda~Eastern.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Rwanda/Counties/Rwanda~Eastern.secret|Rwanda~Eastern.secret]] 
 

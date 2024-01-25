@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Roscommon.md|Roscommon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Roscommon.internal.md|Roscommon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Roscommon.protect.md|Roscommon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Roscommon.private.md|Roscommon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Roscommon.personal.md|Roscommon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Roscommon.secret.md|Roscommon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Roscommon.internal|Roscommon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Roscommon.protect|Roscommon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Roscommon.private|Roscommon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Roscommon.personal|Roscommon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Roscommon.secret|Roscommon.secret]] 

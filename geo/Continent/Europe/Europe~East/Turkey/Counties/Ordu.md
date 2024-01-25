@@ -41,9 +41,9 @@ markerFolder: ./Ordu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Ordu.md|Ordu]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Ordu.internal.md|Ordu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Ordu.protect.md|Ordu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Ordu.private.md|Ordu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Ordu.personal.md|Ordu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Ordu.secret.md|Ordu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Ordu.internal|Ordu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Ordu.protect|Ordu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Ordu.private|Ordu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Ordu.personal|Ordu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Ordu.secret|Ordu.secret]] 
 

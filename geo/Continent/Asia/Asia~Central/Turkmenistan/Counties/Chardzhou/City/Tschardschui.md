@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschardschui.md|Tschardschui]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschardschui.internal.md|Tschardschui.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschardschui.protect.md|Tschardschui.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschardschui.private.md|Tschardschui.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschardschui.personal.md|Tschardschui.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschardschui.secret.md|Tschardschui.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschardschui.internal|Tschardschui.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschardschui.protect|Tschardschui.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschardschui.private|Tschardschui.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschardschui.personal|Tschardschui.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschardschui.secret|Tschardschui.secret]] 

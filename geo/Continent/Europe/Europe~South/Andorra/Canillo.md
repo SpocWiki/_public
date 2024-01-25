@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/Europe/Andorra/Canillo.md|Canillo]] 
-- [[../../../../../_internal/geo/Continent/Europe/Andorra/Canillo.internal.md|Canillo.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Andorra/Canillo.protect.md|Canillo.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Andorra/Canillo.private.md|Canillo.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Andorra/Canillo.personal.md|Canillo.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Andorra/Canillo.secret.md|Canillo.secret]] 
+- [[../../../../../_internal/geo/Continent/Europe/Andorra/Canillo.internal|Canillo.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Andorra/Canillo.protect|Canillo.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Andorra/Canillo.private|Canillo.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Andorra/Canillo.personal|Canillo.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Andorra/Canillo.secret|Canillo.secret]] 

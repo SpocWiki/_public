@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Self-service-affected_harm]
 [SpocWebEntityId::26044]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.md|Triz-Ease_of_operation+Self-service-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.internal.md|Triz-Ease_of_operation+Self-service-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.protect.md|Triz-Ease_of_operation+Self-service-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.private.md|Triz-Ease_of_operation+Self-service-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.personal.md|Triz-Ease_of_operation+Self-service-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.secret.md|Triz-Ease_of_operation+Self-service-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.internal|Triz-Ease_of_operation+Self-service-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.protect|Triz-Ease_of_operation+Self-service-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.private|Triz-Ease_of_operation+Self-service-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.personal|Triz-Ease_of_operation+Self-service-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Self-service-affected_harm.secret|Triz-Ease_of_operation+Self-service-affected_harm.secret]] 

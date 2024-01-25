@@ -41,9 +41,9 @@ markerFolder: ./Wrexham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.md|Wrexham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.internal.md|Wrexham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.protect.md|Wrexham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.private.md|Wrexham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.personal.md|Wrexham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.secret.md|Wrexham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.internal|Wrexham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.protect|Wrexham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.private|Wrexham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.personal|Wrexham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Wrexham.secret|Wrexham.secret]] 
 

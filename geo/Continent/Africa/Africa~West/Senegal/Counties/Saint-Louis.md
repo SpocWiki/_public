@@ -41,9 +41,9 @@ markerFolder: ./Saint-Louis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Saint-Louis.md|Saint-Louis]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.internal.md|Saint-Louis.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Saint-Louis.protect.md|Saint-Louis.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Saint-Louis.private.md|Saint-Louis.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.personal.md|Saint-Louis.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Saint-Louis.secret.md|Saint-Louis.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.internal|Saint-Louis.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Saint-Louis.protect|Saint-Louis.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Saint-Louis.private|Saint-Louis.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.personal|Saint-Louis.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Saint-Louis.secret|Saint-Louis.secret]] 
 

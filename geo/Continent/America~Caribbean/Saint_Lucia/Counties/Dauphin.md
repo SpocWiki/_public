@@ -41,9 +41,9 @@ markerFolder: ./Dauphin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.md|Dauphin]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.internal.md|Dauphin.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.protect.md|Dauphin.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.private.md|Dauphin.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.personal.md|Dauphin.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.secret.md|Dauphin.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.internal|Dauphin.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.protect|Dauphin.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.private|Dauphin.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.personal|Dauphin.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.secret|Dauphin.secret]] 
 

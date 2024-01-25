@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.md|Bergen_op_Zoom]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.internal.md|Bergen_op_Zoom.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.protect.md|Bergen_op_Zoom.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.private.md|Bergen_op_Zoom.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.personal.md|Bergen_op_Zoom.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.secret.md|Bergen_op_Zoom.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.internal|Bergen_op_Zoom.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.protect|Bergen_op_Zoom.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.private|Bergen_op_Zoom.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.personal|Bergen_op_Zoom.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.secret|Bergen_op_Zoom.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Independencia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.md|Independencia]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.internal.md|Independencia.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.protect.md|Independencia.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.private.md|Independencia.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.personal.md|Independencia.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.secret.md|Independencia.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.internal|Independencia.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.protect|Independencia.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.private|Independencia.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.personal|Independencia.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Independencia.secret|Independencia.secret]] 
 

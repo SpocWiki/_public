@@ -41,9 +41,9 @@ markerFolder: ./Lipkovo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.md|Lipkovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.internal.md|Lipkovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.protect.md|Lipkovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.private.md|Lipkovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.personal.md|Lipkovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.secret.md|Lipkovo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.internal|Lipkovo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.protect|Lipkovo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.private|Lipkovo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.personal|Lipkovo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Lipkovo.secret|Lipkovo.secret]] 
 

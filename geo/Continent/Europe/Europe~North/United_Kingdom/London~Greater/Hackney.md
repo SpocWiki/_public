@@ -41,9 +41,9 @@ markerFolder: ./Hackney/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.md|Hackney]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.internal.md|Hackney.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.protect.md|Hackney.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.private.md|Hackney.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.personal.md|Hackney.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.secret.md|Hackney.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.internal|Hackney.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.protect|Hackney.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.private|Hackney.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.personal|Hackney.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.secret|Hackney.secret]] 
 

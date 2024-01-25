@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Fuerth~Nuernberg|Fuerth~Nuernberg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.internal.md|Fuerth~Nuernberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.protect.md|Fuerth~Nuernberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.private.md|Fuerth~Nuernberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.personal.md|Fuerth~Nuernberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.secret.md|Fuerth~Nuernberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.internal|Fuerth~Nuernberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.protect|Fuerth~Nuernberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.private|Fuerth~Nuernberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.personal|Fuerth~Nuernberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.secret|Fuerth~Nuernberg.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Madagascar/City/Antananarivo.md|Antananarivo]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/City/Antananarivo.internal.md|Antananarivo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/City/Antananarivo.protect.md|Antananarivo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/City/Antananarivo.private.md|Antananarivo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/City/Antananarivo.personal.md|Antananarivo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/City/Antananarivo.secret.md|Antananarivo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/City/Antananarivo.internal|Antananarivo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/City/Antananarivo.protect|Antananarivo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/City/Antananarivo.private|Antananarivo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/City/Antananarivo.personal|Antananarivo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/City/Antananarivo.secret|Antananarivo.secret]] 

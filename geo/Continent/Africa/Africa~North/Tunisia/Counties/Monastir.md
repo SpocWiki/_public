@@ -41,9 +41,9 @@ markerFolder: ./Monastir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Monastir.md|Monastir]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Monastir.internal.md|Monastir.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Monastir.protect.md|Monastir.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Monastir.private.md|Monastir.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Monastir.personal.md|Monastir.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Monastir.secret.md|Monastir.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Monastir.internal|Monastir.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Monastir.protect|Monastir.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Monastir.private|Monastir.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Monastir.personal|Monastir.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Monastir.secret|Monastir.secret]] 
 

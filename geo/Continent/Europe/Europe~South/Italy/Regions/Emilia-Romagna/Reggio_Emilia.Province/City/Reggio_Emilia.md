@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Reggio_Emilia.md|Reggio_Emilia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Reggio_Emilia.internal.md|Reggio_Emilia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Reggio_Emilia.protect.md|Reggio_Emilia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Reggio_Emilia.private.md|Reggio_Emilia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Reggio_Emilia.personal.md|Reggio_Emilia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Reggio_Emilia.secret.md|Reggio_Emilia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Reggio_Emilia.internal|Reggio_Emilia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Reggio_Emilia.protect|Reggio_Emilia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Reggio_Emilia.private|Reggio_Emilia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Reggio_Emilia.personal|Reggio_Emilia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Reggio_Emilia.secret|Reggio_Emilia.secret]] 

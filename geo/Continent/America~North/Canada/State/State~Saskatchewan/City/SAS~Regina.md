@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/North-America/Canada/City/SAS~Regina.md|SAS~Regina]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/SAS~Regina.internal.md|SAS~Regina.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/SAS~Regina.protect.md|SAS~Regina.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/City/SAS~Regina.private.md|SAS~Regina.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/SAS~Regina.personal.md|SAS~Regina.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/SAS~Regina.secret.md|SAS~Regina.secret]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/SAS~Regina.internal|SAS~Regina.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/SAS~Regina.protect|SAS~Regina.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/SAS~Regina.private|SAS~Regina.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/SAS~Regina.personal|SAS~Regina.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/SAS~Regina.secret|SAS~Regina.secret]] 

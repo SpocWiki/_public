@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Hauptbahnhof_Südseite|S-Hauptbahnhof_Südseite]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.internal.md|S-Hauptbahnhof_Südseite.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.protect.md|S-Hauptbahnhof_Südseite.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.private.md|S-Hauptbahnhof_Südseite.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.personal.md|S-Hauptbahnhof_Südseite.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.secret.md|S-Hauptbahnhof_Südseite.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.internal|S-Hauptbahnhof_Südseite.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.protect|S-Hauptbahnhof_Südseite.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.private|S-Hauptbahnhof_Südseite.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.personal|S-Hauptbahnhof_Südseite.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_Südseite.secret|S-Hauptbahnhof_Südseite.secret]] 

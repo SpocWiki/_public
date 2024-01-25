@@ -41,9 +41,9 @@ markerFolder: ./Uíge/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Uíge.md|Uíge]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Uíge.internal.md|Uíge.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Uíge.protect.md|Uíge.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Uíge.private.md|Uíge.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Uíge.personal.md|Uíge.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Uíge.secret.md|Uíge.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Uíge.internal|Uíge.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Uíge.protect|Uíge.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Uíge.private|Uíge.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Uíge.personal|Uíge.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Uíge.secret|Uíge.secret]] 
 

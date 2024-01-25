@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pribor.md|Pribor]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pribor.internal.md|Pribor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pribor.protect.md|Pribor.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pribor.private.md|Pribor.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pribor.personal.md|Pribor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pribor.secret.md|Pribor.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pribor.internal|Pribor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pribor.protect|Pribor.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pribor.private|Pribor.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pribor.personal|Pribor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pribor.secret|Pribor.secret]] 

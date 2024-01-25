@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barnsley.md|Barnsley]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barnsley.internal.md|Barnsley.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barnsley.protect.md|Barnsley.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barnsley.private.md|Barnsley.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barnsley.personal.md|Barnsley.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barnsley.secret.md|Barnsley.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barnsley.internal|Barnsley.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barnsley.protect|Barnsley.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barnsley.private|Barnsley.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barnsley.personal|Barnsley.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barnsley.secret|Barnsley.secret]] 

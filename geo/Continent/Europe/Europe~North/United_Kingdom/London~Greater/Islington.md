@@ -48,9 +48,9 @@ markerFolder: ./Islington/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.md|Islington]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.internal.md|Islington.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.protect.md|Islington.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.private.md|Islington.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.personal.md|Islington.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.secret.md|Islington.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.internal|Islington.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.protect|Islington.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.private|Islington.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.personal|Islington.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.secret|Islington.secret]] 
 

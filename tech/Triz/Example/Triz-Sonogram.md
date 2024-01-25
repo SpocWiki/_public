@@ -18,8 +18,8 @@ Make Sonograms to evaluate the Health of a Fetus, instead of risking Damage by d
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Sonogram.md|Triz-Sonogram]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Sonogram.internal.md|Triz-Sonogram.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Sonogram.protect.md|Triz-Sonogram.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Sonogram.private.md|Triz-Sonogram.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Sonogram.personal.md|Triz-Sonogram.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Sonogram.secret.md|Triz-Sonogram.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Sonogram.internal|Triz-Sonogram.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Sonogram.protect|Triz-Sonogram.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Sonogram.private|Triz-Sonogram.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Sonogram.personal|Triz-Sonogram.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Sonogram.secret|Triz-Sonogram.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Storsaetern.md|Storsaetern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storsaetern.internal.md|Storsaetern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storsaetern.protect.md|Storsaetern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Storsaetern.private.md|Storsaetern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storsaetern.personal.md|Storsaetern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storsaetern.secret.md|Storsaetern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storsaetern.internal|Storsaetern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storsaetern.protect|Storsaetern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Storsaetern.private|Storsaetern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storsaetern.personal|Storsaetern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storsaetern.secret|Storsaetern.secret]] 

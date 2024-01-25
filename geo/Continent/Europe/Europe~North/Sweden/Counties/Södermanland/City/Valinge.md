@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Valinge.md|Valinge]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valinge.internal.md|Valinge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valinge.protect.md|Valinge.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Valinge.private.md|Valinge.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valinge.personal.md|Valinge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valinge.secret.md|Valinge.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valinge.internal|Valinge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valinge.protect|Valinge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Valinge.private|Valinge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valinge.personal|Valinge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valinge.secret|Valinge.secret]] 

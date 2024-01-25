@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mariampolé.md|Mariampolé]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariampolé.internal.md|Mariampolé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariampolé.protect.md|Mariampolé.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mariampolé.private.md|Mariampolé.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariampolé.personal.md|Mariampolé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariampolé.secret.md|Mariampolé.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariampolé.internal|Mariampolé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariampolé.protect|Mariampolé.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mariampolé.private|Mariampolé.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariampolé.personal|Mariampolé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariampolé.secret|Mariampolé.secret]] 

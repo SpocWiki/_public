@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Bantry.md|Bantry]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Bantry.internal.md|Bantry.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Bantry.protect.md|Bantry.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Bantry.private.md|Bantry.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Bantry.personal.md|Bantry.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Bantry.secret.md|Bantry.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Bantry.internal|Bantry.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Bantry.protect|Bantry.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Bantry.private|Bantry.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Bantry.personal|Bantry.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Bantry.secret|Bantry.secret]] 

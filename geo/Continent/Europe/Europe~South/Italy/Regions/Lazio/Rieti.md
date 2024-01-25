@@ -41,9 +41,9 @@ markerFolder: ./Rieti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.md|Rieti]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.internal.md|Rieti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.protect.md|Rieti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.private.md|Rieti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.personal.md|Rieti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.secret.md|Rieti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.internal|Rieti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.protect|Rieti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.private|Rieti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.personal|Rieti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Rieti.secret|Rieti.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Atsimo-Atsinanana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.md|Atsimo-Atsinanana]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.internal.md|Atsimo-Atsinanana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.protect.md|Atsimo-Atsinanana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.private.md|Atsimo-Atsinanana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.personal.md|Atsimo-Atsinanana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.secret.md|Atsimo-Atsinanana.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.internal|Atsimo-Atsinanana.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.protect|Atsimo-Atsinanana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.private|Atsimo-Atsinanana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.personal|Atsimo-Atsinanana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.secret|Atsimo-Atsinanana.secret]] 
 

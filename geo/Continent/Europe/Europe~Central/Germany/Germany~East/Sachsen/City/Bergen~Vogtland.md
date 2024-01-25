@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.md|Bergen~Vogtland]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.internal.md|Bergen~Vogtland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.protect.md|Bergen~Vogtland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.private.md|Bergen~Vogtland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.personal.md|Bergen~Vogtland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.secret.md|Bergen~Vogtland.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.internal|Bergen~Vogtland.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.protect|Bergen~Vogtland.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.private|Bergen~Vogtland.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.personal|Bergen~Vogtland.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bergen~Vogtland.secret|Bergen~Vogtland.secret]] 

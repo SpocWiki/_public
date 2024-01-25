@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Valk.md|Valk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Valk.internal.md|Valk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Valk.protect.md|Valk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Valk.private.md|Valk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Valk.personal.md|Valk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Valk.secret.md|Valk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Valk.internal|Valk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Valk.protect|Valk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Valk.private|Valk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Valk.personal|Valk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Valk.secret|Valk.secret]] 

@@ -18,8 +18,8 @@ Quantity of substance
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Quantity.md|Triz-Quantity]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-Quantity.internal.md|Triz-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-Quantity.protect.md|Triz-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-Quantity.private.md|Triz-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-Quantity.personal.md|Triz-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-Quantity.secret.md|Triz-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Quantity.internal|Triz-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Quantity.protect|Triz-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Quantity.private|Triz-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Quantity.personal|Triz-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Quantity.secret|Triz-Quantity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Sud-Ouest/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.md|Sud-Ouest]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.internal.md|Sud-Ouest.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.protect.md|Sud-Ouest.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.private.md|Sud-Ouest.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.personal.md|Sud-Ouest.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.secret.md|Sud-Ouest.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.internal|Sud-Ouest.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.protect|Sud-Ouest.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.private|Sud-Ouest.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.personal|Sud-Ouest.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Sud-Ouest.secret|Sud-Ouest.secret]] 
 

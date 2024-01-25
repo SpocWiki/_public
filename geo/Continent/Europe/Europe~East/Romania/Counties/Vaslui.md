@@ -41,9 +41,9 @@ markerFolder: ./Vaslui/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Vaslui.md|Vaslui]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Vaslui.internal.md|Vaslui.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Vaslui.protect.md|Vaslui.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Vaslui.private.md|Vaslui.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Vaslui.personal.md|Vaslui.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Vaslui.secret.md|Vaslui.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Vaslui.internal|Vaslui.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Vaslui.protect|Vaslui.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Vaslui.private|Vaslui.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Vaslui.personal|Vaslui.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Vaslui.secret|Vaslui.secret]] 
 

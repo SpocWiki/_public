@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Tula_Oblast|State~Tula_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tula_Oblast.internal|State~Tula_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tula_Oblast.protect.md|State~Tula_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tula_Oblast.private.md|State~Tula_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tula_Oblast.personal.md|State~Tula_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tula_Oblast.secret.md|State~Tula_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tula_Oblast.protect|State~Tula_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tula_Oblast.private|State~Tula_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tula_Oblast.personal|State~Tula_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tula_Oblast.secret|State~Tula_Oblast.secret]] 

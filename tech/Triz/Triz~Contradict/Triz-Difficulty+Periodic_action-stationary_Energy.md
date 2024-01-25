@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Periodic_action-stationary_Energy]
 [SpocWebEntityId::26475]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-stationary_Energy]]]
+- [#has_/Cons :: [[Triz-stationary_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.md|Triz-Difficulty+Periodic_action-stationary_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.internal.md|Triz-Difficulty+Periodic_action-stationary_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.protect.md|Triz-Difficulty+Periodic_action-stationary_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.private.md|Triz-Difficulty+Periodic_action-stationary_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.personal.md|Triz-Difficulty+Periodic_action-stationary_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.secret.md|Triz-Difficulty+Periodic_action-stationary_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.internal|Triz-Difficulty+Periodic_action-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.protect|Triz-Difficulty+Periodic_action-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.private|Triz-Difficulty+Periodic_action-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.personal|Triz-Difficulty+Periodic_action-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-stationary_Energy.secret|Triz-Difficulty+Periodic_action-stationary_Energy.secret]] 

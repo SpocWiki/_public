@@ -41,9 +41,9 @@ markerFolder: ./Ħamrun/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Ħamrun.md|Ħamrun]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Ħamrun.internal.md|Ħamrun.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Ħamrun.protect.md|Ħamrun.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Ħamrun.private.md|Ħamrun.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Ħamrun.personal.md|Ħamrun.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Ħamrun.secret.md|Ħamrun.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Ħamrun.internal|Ħamrun.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Ħamrun.protect|Ħamrun.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Ħamrun.private|Ħamrun.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Ħamrun.personal|Ħamrun.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Ħamrun.secret|Ħamrun.secret]] 
 

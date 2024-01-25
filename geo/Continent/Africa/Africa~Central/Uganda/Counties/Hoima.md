@@ -41,9 +41,9 @@ markerFolder: ./Hoima/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Hoima.md|Hoima]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Hoima.internal.md|Hoima.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Hoima.protect.md|Hoima.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Hoima.private.md|Hoima.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Hoima.personal.md|Hoima.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Hoima.secret.md|Hoima.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Hoima.internal|Hoima.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Hoima.protect|Hoima.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Hoima.private|Hoima.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Hoima.personal|Hoima.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Hoima.secret|Hoima.secret]] 
 

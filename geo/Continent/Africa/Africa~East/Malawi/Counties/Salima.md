@@ -41,9 +41,9 @@ markerFolder: ./Salima/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Salima.md|Salima]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Salima.internal.md|Salima.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Salima.protect.md|Salima.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Salima.private.md|Salima.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Salima.personal.md|Salima.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Salima.secret.md|Salima.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Salima.internal|Salima.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Salima.protect|Salima.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Salima.private|Salima.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Salima.personal|Salima.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Salima.secret|Salima.secret]] 
 

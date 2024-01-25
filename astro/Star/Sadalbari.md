@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Sadalbari.md|Sadalbari]] 
-- [[../../../_internal/astro/Star/Sadalbari.internal.md|Sadalbari.internal]] 
-- [[../../../_protect/astro/Star/Sadalbari.protect.md|Sadalbari.protect]] 
-- [[../../../_private/astro/Star/Sadalbari.private.md|Sadalbari.private]] 
-- [[../../../_personal/astro/Star/Sadalbari.personal.md|Sadalbari.personal]] 
-- [[../../../_secret/astro/Star/Sadalbari.secret.md|Sadalbari.secret]] 
+- [[../../../_internal/astro/Star/Sadalbari.internal|Sadalbari.internal]] 
+- [[../../../_protect/astro/Star/Sadalbari.protect|Sadalbari.protect]] 
+- [[../../../_private/astro/Star/Sadalbari.private|Sadalbari.private]] 
+- [[../../../_personal/astro/Star/Sadalbari.personal|Sadalbari.personal]] 
+- [[../../../_secret/astro/Star/Sadalbari.secret|Sadalbari.secret]] 

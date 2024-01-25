@@ -41,9 +41,9 @@ markerFolder: ./North/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.md|North]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.internal.md|North.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.protect.md|North.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.private.md|North.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.personal.md|North.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.secret.md|North.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.internal|North.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.protect|North.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.private|North.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.personal|North.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.secret|North.secret]] 
 

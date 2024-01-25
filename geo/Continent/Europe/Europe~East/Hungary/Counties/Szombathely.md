@@ -41,9 +41,9 @@ markerFolder: ./Szombathely/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Szombathely.md|Szombathely]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szombathely.internal.md|Szombathely.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szombathely.protect.md|Szombathely.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szombathely.private.md|Szombathely.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szombathely.personal.md|Szombathely.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szombathely.secret.md|Szombathely.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szombathely.internal|Szombathely.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szombathely.protect|Szombathely.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szombathely.private|Szombathely.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szombathely.personal|Szombathely.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szombathely.secret|Szombathely.secret]] 
 

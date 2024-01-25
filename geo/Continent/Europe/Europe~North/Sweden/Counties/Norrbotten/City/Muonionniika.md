@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Muonionniika.md|Muonionniika]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Muonionniika.internal.md|Muonionniika.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Muonionniika.protect.md|Muonionniika.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Muonionniika.private.md|Muonionniika.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Muonionniika.personal.md|Muonionniika.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Muonionniika.secret.md|Muonionniika.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Muonionniika.internal|Muonionniika.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Muonionniika.protect|Muonionniika.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Muonionniika.private|Muonionniika.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Muonionniika.personal|Muonionniika.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Muonionniika.secret|Muonionniika.secret]] 

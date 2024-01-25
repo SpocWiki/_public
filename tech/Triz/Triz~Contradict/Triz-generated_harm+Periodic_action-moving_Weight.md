@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Periodic_action-moving_Weight]
 [SpocWebEntityId::25716]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.md|Triz-generated_harm+Periodic_action-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.internal.md|Triz-generated_harm+Periodic_action-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.protect.md|Triz-generated_harm+Periodic_action-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.private.md|Triz-generated_harm+Periodic_action-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.personal.md|Triz-generated_harm+Periodic_action-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.secret.md|Triz-generated_harm+Periodic_action-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.internal|Triz-generated_harm+Periodic_action-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.protect|Triz-generated_harm+Periodic_action-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.private|Triz-generated_harm+Periodic_action-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.personal|Triz-generated_harm+Periodic_action-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Periodic_action-moving_Weight.secret|Triz-generated_harm+Periodic_action-moving_Weight.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Çorum/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Çorum.md|Çorum]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Çorum.internal.md|Çorum.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Çorum.protect.md|Çorum.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Çorum.private.md|Çorum.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Çorum.personal.md|Çorum.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Çorum.secret.md|Çorum.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Çorum.internal|Çorum.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Çorum.protect|Çorum.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Çorum.private|Çorum.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Çorum.personal|Çorum.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Çorum.secret|Çorum.secret]] 
 

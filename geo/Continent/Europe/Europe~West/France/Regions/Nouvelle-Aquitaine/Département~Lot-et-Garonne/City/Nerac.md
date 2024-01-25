@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Nerac.md|Nerac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nerac.internal.md|Nerac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nerac.protect.md|Nerac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Nerac.private.md|Nerac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nerac.personal.md|Nerac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nerac.secret.md|Nerac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nerac.internal|Nerac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nerac.protect|Nerac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nerac.private|Nerac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nerac.personal|Nerac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nerac.secret|Nerac.secret]] 

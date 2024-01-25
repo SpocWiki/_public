@@ -18,8 +18,8 @@ Add a buffering Material to a corrosive Solution.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-buffering_Material.md|Triz-buffering_Material]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-buffering_Material.internal.md|Triz-buffering_Material.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-buffering_Material.protect.md|Triz-buffering_Material.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-buffering_Material.private.md|Triz-buffering_Material.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-buffering_Material.personal.md|Triz-buffering_Material.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-buffering_Material.secret.md|Triz-buffering_Material.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-buffering_Material.internal|Triz-buffering_Material.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-buffering_Material.protect|Triz-buffering_Material.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-buffering_Material.private|Triz-buffering_Material.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-buffering_Material.personal|Triz-buffering_Material.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-buffering_Material.secret|Triz-buffering_Material.secret]] 

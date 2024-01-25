@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Carlow.md|Carlow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Carlow.internal.md|Carlow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Carlow.protect.md|Carlow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Carlow.private.md|Carlow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Carlow.personal.md|Carlow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Carlow.secret.md|Carlow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Carlow.internal|Carlow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Carlow.protect|Carlow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Carlow.private|Carlow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Carlow.personal|Carlow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Carlow.secret|Carlow.secret]] 

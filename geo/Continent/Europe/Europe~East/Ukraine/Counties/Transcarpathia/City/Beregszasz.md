@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Beregszasz.md|Beregszasz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Beregszasz.internal.md|Beregszasz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Beregszasz.protect.md|Beregszasz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Beregszasz.private.md|Beregszasz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Beregszasz.personal.md|Beregszasz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Beregszasz.secret.md|Beregszasz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Beregszasz.internal|Beregszasz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Beregszasz.protect|Beregszasz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Beregszasz.private|Beregszasz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Beregszasz.personal|Beregszasz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Beregszasz.secret|Beregszasz.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.md|Mogilew-Podolskiy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.internal.md|Mogilew-Podolskiy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.protect.md|Mogilew-Podolskiy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.private.md|Mogilew-Podolskiy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.personal.md|Mogilew-Podolskiy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.secret.md|Mogilew-Podolskiy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.internal|Mogilew-Podolskiy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.protect|Mogilew-Podolskiy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.private|Mogilew-Podolskiy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.personal|Mogilew-Podolskiy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.secret|Mogilew-Podolskiy.secret]] 

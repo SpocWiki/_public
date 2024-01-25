@@ -41,9 +41,9 @@ markerFolder: ./Szeged/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Szeged.md|Szeged]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szeged.internal.md|Szeged.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szeged.protect.md|Szeged.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szeged.private.md|Szeged.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szeged.personal.md|Szeged.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szeged.secret.md|Szeged.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szeged.internal|Szeged.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szeged.protect|Szeged.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szeged.private|Szeged.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szeged.personal|Szeged.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szeged.secret|Szeged.secret]] 
 

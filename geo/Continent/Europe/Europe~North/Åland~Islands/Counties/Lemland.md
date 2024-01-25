@@ -41,9 +41,9 @@ markerFolder: ./Lemland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Lemland.md|Lemland]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Lemland.internal.md|Lemland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Lemland.protect.md|Lemland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Lemland.private.md|Lemland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Lemland.personal.md|Lemland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Lemland.secret.md|Lemland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Lemland.internal|Lemland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Lemland.protect|Lemland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Lemland.private|Lemland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Lemland.personal|Lemland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Lemland.secret|Lemland.secret]] 
 

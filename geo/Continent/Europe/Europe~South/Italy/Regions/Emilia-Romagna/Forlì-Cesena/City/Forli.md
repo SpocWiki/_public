@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Forli.md|Forli]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Forli.internal.md|Forli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Forli.protect.md|Forli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Forli.private.md|Forli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Forli.personal.md|Forli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Forli.secret.md|Forli.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Forli.internal|Forli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Forli.protect|Forli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Forli.private|Forli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Forli.personal|Forli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Forli.secret|Forli.secret]] 

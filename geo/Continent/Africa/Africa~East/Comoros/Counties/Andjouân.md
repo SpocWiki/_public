@@ -41,9 +41,9 @@ markerFolder: ./Andjouân/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Comoros/Counties/Andjouân.md|Andjouân]] 
-- [[../../../../_internal/geo/Continent/Africa/Comoros/Counties/Andjouân.internal.md|Andjouân.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Comoros/Counties/Andjouân.protect.md|Andjouân.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Comoros/Counties/Andjouân.private.md|Andjouân.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Comoros/Counties/Andjouân.personal.md|Andjouân.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Comoros/Counties/Andjouân.secret.md|Andjouân.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Comoros/Counties/Andjouân.internal|Andjouân.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Comoros/Counties/Andjouân.protect|Andjouân.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Comoros/Counties/Andjouân.private|Andjouân.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Comoros/Counties/Andjouân.personal|Andjouân.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Comoros/Counties/Andjouân.secret|Andjouân.secret]] 
 

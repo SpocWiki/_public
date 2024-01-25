@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Toksmak.md|Toksmak]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Toksmak.internal.md|Toksmak.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Toksmak.protect.md|Toksmak.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Toksmak.private.md|Toksmak.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Toksmak.personal.md|Toksmak.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Toksmak.secret.md|Toksmak.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Toksmak.internal|Toksmak.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Toksmak.protect|Toksmak.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Toksmak.private|Toksmak.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Toksmak.personal|Toksmak.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Toksmak.secret|Toksmak.secret]] 

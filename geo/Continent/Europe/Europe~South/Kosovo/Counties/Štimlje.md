@@ -41,9 +41,9 @@ markerFolder: ./Štimlje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Štimlje.md|Štimlje]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Štimlje.internal.md|Štimlje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Štimlje.protect.md|Štimlje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Štimlje.private.md|Štimlje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Štimlje.personal.md|Štimlje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Štimlje.secret.md|Štimlje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Štimlje.internal|Štimlje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Štimlje.protect|Štimlje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Štimlje.private|Štimlje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Štimlje.personal|Štimlje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Štimlje.secret|Štimlje.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Local_quality-Ease_of_operation]
 [SpocWebEntityId::26615]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.md|Triz-Automation+Local_quality-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.internal.md|Triz-Automation+Local_quality-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.protect.md|Triz-Automation+Local_quality-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.private.md|Triz-Automation+Local_quality-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.personal.md|Triz-Automation+Local_quality-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.secret.md|Triz-Automation+Local_quality-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.internal|Triz-Automation+Local_quality-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.protect|Triz-Automation+Local_quality-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.private|Triz-Automation+Local_quality-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.personal|Triz-Automation+Local_quality-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Local_quality-Ease_of_operation.secret|Triz-Automation+Local_quality-Ease_of_operation.secret]] 

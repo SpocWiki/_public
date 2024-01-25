@@ -41,9 +41,9 @@ markerFolder: ./Brvenica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.md|Brvenica]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.internal.md|Brvenica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.protect.md|Brvenica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.private.md|Brvenica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.personal.md|Brvenica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.secret.md|Brvenica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.internal|Brvenica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.protect|Brvenica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.private|Brvenica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.personal|Brvenica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.secret|Brvenica.secret]] 
 

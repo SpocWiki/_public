@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Ankaa.md|Ankaa]] 
-- [[../../../_internal/astro/Star/Ankaa.internal.md|Ankaa.internal]] 
-- [[../../../_protect/astro/Star/Ankaa.protect.md|Ankaa.protect]] 
-- [[../../../_private/astro/Star/Ankaa.private.md|Ankaa.private]] 
-- [[../../../_personal/astro/Star/Ankaa.personal.md|Ankaa.personal]] 
-- [[../../../_secret/astro/Star/Ankaa.secret.md|Ankaa.secret]]
+- [[../../../_internal/astro/Star/Ankaa.internal|Ankaa.internal]] 
+- [[../../../_protect/astro/Star/Ankaa.protect|Ankaa.protect]] 
+- [[../../../_private/astro/Star/Ankaa.private|Ankaa.private]] 
+- [[../../../_personal/astro/Star/Ankaa.personal|Ankaa.personal]] 
+- [[../../../_secret/astro/Star/Ankaa.secret|Ankaa.secret]]
 

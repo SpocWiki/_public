@@ -41,9 +41,9 @@ markerFolder: ./Leitrim/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Leitrim.md|Leitrim]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Leitrim.internal.md|Leitrim.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Leitrim.protect.md|Leitrim.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Leitrim.private.md|Leitrim.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Leitrim.personal.md|Leitrim.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Leitrim.secret.md|Leitrim.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Leitrim.internal|Leitrim.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Leitrim.protect|Leitrim.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Leitrim.private|Leitrim.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Leitrim.personal|Leitrim.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Leitrim.secret|Leitrim.secret]] 
 

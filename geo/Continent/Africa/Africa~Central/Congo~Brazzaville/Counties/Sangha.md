@@ -41,9 +41,9 @@ markerFolder: ./Sangha/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.md|Sangha]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.internal.md|Sangha.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.protect.md|Sangha.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.private.md|Sangha.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.personal.md|Sangha.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.secret.md|Sangha.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.internal|Sangha.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.protect|Sangha.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.private|Sangha.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.personal|Sangha.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Sangha.secret|Sangha.secret]] 
 

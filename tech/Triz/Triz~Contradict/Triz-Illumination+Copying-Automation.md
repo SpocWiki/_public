@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Copying-Automation]
 [SpocWebEntityId::24435]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.md|Triz-Illumination+Copying-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.internal.md|Triz-Illumination+Copying-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.protect.md|Triz-Illumination+Copying-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.private.md|Triz-Illumination+Copying-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.personal.md|Triz-Illumination+Copying-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.secret.md|Triz-Illumination+Copying-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.internal|Triz-Illumination+Copying-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.protect|Triz-Illumination+Copying-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.private|Triz-Illumination+Copying-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.personal|Triz-Illumination+Copying-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Copying-Automation.secret|Triz-Illumination+Copying-Automation.secret]] 

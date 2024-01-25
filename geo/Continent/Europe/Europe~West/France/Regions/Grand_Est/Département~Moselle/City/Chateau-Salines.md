@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chateau-Salines.md|Chateau-Salines]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateau-Salines.internal.md|Chateau-Salines.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateau-Salines.protect.md|Chateau-Salines.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateau-Salines.private.md|Chateau-Salines.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateau-Salines.personal.md|Chateau-Salines.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateau-Salines.secret.md|Chateau-Salines.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateau-Salines.internal|Chateau-Salines.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateau-Salines.protect|Chateau-Salines.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateau-Salines.private|Chateau-Salines.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateau-Salines.personal|Chateau-Salines.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateau-Salines.secret|Chateau-Salines.secret]] 

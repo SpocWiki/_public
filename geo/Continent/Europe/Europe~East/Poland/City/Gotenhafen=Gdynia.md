@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.md|Gotenhafen=Gdynia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.internal.md|Gotenhafen=Gdynia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.protect.md|Gotenhafen=Gdynia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.private.md|Gotenhafen=Gdynia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.personal.md|Gotenhafen=Gdynia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.secret.md|Gotenhafen=Gdynia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.internal|Gotenhafen=Gdynia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.protect|Gotenhafen=Gdynia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.private|Gotenhafen=Gdynia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.personal|Gotenhafen=Gdynia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.secret|Gotenhafen=Gdynia.secret]] 

@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Ingushetia~Republic|State~Ingushetia~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.internal|State~Ingushetia~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.protect.md|State~Ingushetia~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.private.md|State~Ingushetia~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.personal.md|State~Ingushetia~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.secret.md|State~Ingushetia~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.protect|State~Ingushetia~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.private|State~Ingushetia~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.personal|State~Ingushetia~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Ingushetia~Republic.secret|State~Ingushetia~Republic.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Zasavska/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.md|Zasavska]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.internal.md|Zasavska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.protect.md|Zasavska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.private.md|Zasavska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.personal.md|Zasavska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.secret.md|Zasavska.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.internal|Zasavska.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.protect|Zasavska.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.private|Zasavska.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.personal|Zasavska.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Zasavska.secret|Zasavska.secret]] 
 

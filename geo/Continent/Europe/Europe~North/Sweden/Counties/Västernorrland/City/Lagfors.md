@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Lagfors.md|Lagfors]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lagfors.internal.md|Lagfors.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lagfors.protect.md|Lagfors.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lagfors.private.md|Lagfors.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lagfors.personal.md|Lagfors.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lagfors.secret.md|Lagfors.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lagfors.internal|Lagfors.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lagfors.protect|Lagfors.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lagfors.private|Lagfors.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lagfors.personal|Lagfors.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lagfors.secret|Lagfors.secret]] 

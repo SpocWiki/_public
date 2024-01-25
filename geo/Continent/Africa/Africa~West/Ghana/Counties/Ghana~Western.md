@@ -41,9 +41,9 @@ markerFolder: ./Ghana~Western/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Western.md|Ghana~Western]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Western.internal.md|Ghana~Western.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Western.protect.md|Ghana~Western.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Western.private.md|Ghana~Western.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Western.personal.md|Ghana~Western.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Western.secret.md|Ghana~Western.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Western.internal|Ghana~Western.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Western.protect|Ghana~Western.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Western.private|Ghana~Western.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Western.personal|Ghana~Western.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Western.secret|Ghana~Western.secret]] 
 

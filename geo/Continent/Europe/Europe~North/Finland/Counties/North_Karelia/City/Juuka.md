@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Juuka.md|Juuka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Juuka.internal.md|Juuka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Juuka.protect.md|Juuka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Juuka.private.md|Juuka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Juuka.personal.md|Juuka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Juuka.secret.md|Juuka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Juuka.internal|Juuka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Juuka.protect|Juuka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Juuka.private|Juuka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Juuka.personal|Juuka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Juuka.secret|Juuka.secret]] 

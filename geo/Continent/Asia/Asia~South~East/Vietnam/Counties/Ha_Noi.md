@@ -41,9 +41,9 @@ markerFolder: ./Ha_Noi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.md|Ha_Noi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.internal.md|Ha_Noi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.protect.md|Ha_Noi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.private.md|Ha_Noi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.personal.md|Ha_Noi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.secret.md|Ha_Noi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.internal|Ha_Noi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.protect|Ha_Noi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.private|Ha_Noi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.personal|Ha_Noi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Noi.secret|Ha_Noi.secret]] 
 

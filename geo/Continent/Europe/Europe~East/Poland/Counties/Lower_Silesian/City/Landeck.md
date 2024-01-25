@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Landeck.md|Landeck]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Landeck.internal.md|Landeck.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Landeck.protect.md|Landeck.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Landeck.private.md|Landeck.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Landeck.personal.md|Landeck.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Landeck.secret.md|Landeck.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Landeck.internal|Landeck.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Landeck.protect|Landeck.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Landeck.private|Landeck.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Landeck.personal|Landeck.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Landeck.secret|Landeck.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zaraisk.md|Zaraisk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaraisk.internal.md|Zaraisk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaraisk.protect.md|Zaraisk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zaraisk.private.md|Zaraisk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaraisk.personal.md|Zaraisk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaraisk.secret.md|Zaraisk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaraisk.internal|Zaraisk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaraisk.protect|Zaraisk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zaraisk.private|Zaraisk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaraisk.personal|Zaraisk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaraisk.secret|Zaraisk.secret]] 

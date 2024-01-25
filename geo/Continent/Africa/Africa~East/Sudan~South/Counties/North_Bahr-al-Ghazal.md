@@ -41,9 +41,9 @@ markerFolder: ./North_Bahr-al-Ghazal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.md|North_Bahr-al-Ghazal]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.internal.md|North_Bahr-al-Ghazal.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.protect.md|North_Bahr-al-Ghazal.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.private.md|North_Bahr-al-Ghazal.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.personal.md|North_Bahr-al-Ghazal.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.secret.md|North_Bahr-al-Ghazal.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.internal|North_Bahr-al-Ghazal.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.protect|North_Bahr-al-Ghazal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.private|North_Bahr-al-Ghazal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.personal|North_Bahr-al-Ghazal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/North_Bahr-al-Ghazal.secret|North_Bahr-al-Ghazal.secret]] 
 

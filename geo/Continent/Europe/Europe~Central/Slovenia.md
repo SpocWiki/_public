@@ -133,8 +133,8 @@ markerFolder: ./Slovenia//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia.md|Slovenia]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia.internal.md|Slovenia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia.protect.md|Slovenia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia.private.md|Slovenia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia.personal.md|Slovenia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia.secret.md|Slovenia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia.internal|Slovenia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia.protect|Slovenia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia.private|Slovenia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia.personal|Slovenia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia.secret|Slovenia.secret]] 

@@ -129,9 +129,10 @@ markerFolder: ./Liechtenstein//
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein.md|Liechtenstein]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein.internal.md|Liechtenstein.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein.protect.md|Liechtenstein.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein.private.md|Liechtenstein.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein.personal.md|Liechtenstein.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein.secret.md|Liechtenstein.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Liechtenstein|Liechtenstein]]
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Liechtenstein.public|Liechtenstein.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Liechtenstein.internal|Liechtenstein.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Liechtenstein.protect|Liechtenstein.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Liechtenstein.private|Liechtenstein.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Liechtenstein.personal|Liechtenstein.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Liechtenstein.secret|Liechtenstein.secret]] 

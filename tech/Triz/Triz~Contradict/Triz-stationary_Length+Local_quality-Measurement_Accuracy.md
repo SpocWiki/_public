@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Local_quality-Measurement_Accuracy]
 [SpocWebEntityId::22972]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.md|Triz-stationary_Length+Local_quality-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.internal.md|Triz-stationary_Length+Local_quality-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.protect.md|Triz-stationary_Length+Local_quality-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.private.md|Triz-stationary_Length+Local_quality-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.personal.md|Triz-stationary_Length+Local_quality-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.secret.md|Triz-stationary_Length+Local_quality-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.internal|Triz-stationary_Length+Local_quality-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.protect|Triz-stationary_Length+Local_quality-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.private|Triz-stationary_Length+Local_quality-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.personal|Triz-stationary_Length+Local_quality-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Measurement_Accuracy.secret|Triz-stationary_Length+Local_quality-Measurement_Accuracy.secret]] 

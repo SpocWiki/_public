@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Oneglia.md|Oneglia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oneglia.internal.md|Oneglia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oneglia.protect.md|Oneglia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oneglia.private.md|Oneglia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oneglia.personal.md|Oneglia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oneglia.secret.md|Oneglia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oneglia.internal|Oneglia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oneglia.protect|Oneglia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oneglia.private|Oneglia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oneglia.personal|Oneglia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oneglia.secret|Oneglia.secret]] 

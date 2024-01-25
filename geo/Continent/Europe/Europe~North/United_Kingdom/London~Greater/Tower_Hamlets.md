@@ -41,9 +41,9 @@ markerFolder: ./Tower_Hamlets/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.md|Tower_Hamlets]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.internal.md|Tower_Hamlets.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.protect.md|Tower_Hamlets.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.private.md|Tower_Hamlets.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.personal.md|Tower_Hamlets.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.secret.md|Tower_Hamlets.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.internal|Tower_Hamlets.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.protect|Tower_Hamlets.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.private|Tower_Hamlets.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.personal|Tower_Hamlets.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Tower_Hamlets.secret|Tower_Hamlets.secret]] 
 

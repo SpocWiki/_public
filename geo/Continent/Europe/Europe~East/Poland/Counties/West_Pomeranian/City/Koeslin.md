@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Koeslin.md|Koeslin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koeslin.internal.md|Koeslin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koeslin.protect.md|Koeslin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koeslin.private.md|Koeslin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koeslin.personal.md|Koeslin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koeslin.secret.md|Koeslin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koeslin.internal|Koeslin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koeslin.protect|Koeslin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koeslin.private|Koeslin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koeslin.personal|Koeslin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koeslin.secret|Koeslin.secret]] 

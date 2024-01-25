@@ -41,9 +41,9 @@ markerFolder: ./Kocaeli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kocaeli.md|Kocaeli]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kocaeli.internal.md|Kocaeli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kocaeli.protect.md|Kocaeli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kocaeli.private.md|Kocaeli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kocaeli.personal.md|Kocaeli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kocaeli.secret.md|Kocaeli.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kocaeli.internal|Kocaeli.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kocaeli.protect|Kocaeli.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kocaeli.private|Kocaeli.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kocaeli.personal|Kocaeli.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kocaeli.secret|Kocaeli.secret]] 
 

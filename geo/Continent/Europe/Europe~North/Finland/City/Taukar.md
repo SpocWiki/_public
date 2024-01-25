@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Taukar.md|Taukar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Taukar.internal.md|Taukar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Taukar.protect.md|Taukar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Taukar.private.md|Taukar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Taukar.personal.md|Taukar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Taukar.secret.md|Taukar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Taukar.internal|Taukar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Taukar.protect|Taukar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Taukar.private|Taukar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Taukar.personal|Taukar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Taukar.secret|Taukar.secret]] 

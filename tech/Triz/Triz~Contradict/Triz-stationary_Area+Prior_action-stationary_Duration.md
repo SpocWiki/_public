@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Prior_action-stationary_Duration]
 [SpocWebEntityId::23125]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.md|Triz-stationary_Area+Prior_action-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.internal.md|Triz-stationary_Area+Prior_action-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.protect.md|Triz-stationary_Area+Prior_action-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.private.md|Triz-stationary_Area+Prior_action-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.personal.md|Triz-stationary_Area+Prior_action-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.secret.md|Triz-stationary_Area+Prior_action-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.internal|Triz-stationary_Area+Prior_action-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.protect|Triz-stationary_Area+Prior_action-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.private|Triz-stationary_Area+Prior_action-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.personal|Triz-stationary_Area+Prior_action-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-stationary_Duration.secret|Triz-stationary_Area+Prior_action-stationary_Duration.secret]] 

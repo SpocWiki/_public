@@ -41,9 +41,9 @@ markerFolder: ./Teleorman/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Teleorman.md|Teleorman]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Teleorman.internal.md|Teleorman.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Teleorman.protect.md|Teleorman.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Teleorman.private.md|Teleorman.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Teleorman.personal.md|Teleorman.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Teleorman.secret.md|Teleorman.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Teleorman.internal|Teleorman.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Teleorman.protect|Teleorman.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Teleorman.private|Teleorman.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Teleorman.personal|Teleorman.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Teleorman.secret|Teleorman.secret]] 
 

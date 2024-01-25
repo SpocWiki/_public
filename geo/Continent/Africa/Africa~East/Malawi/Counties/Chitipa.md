@@ -41,9 +41,9 @@ markerFolder: ./Chitipa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Chitipa.md|Chitipa]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Chitipa.internal.md|Chitipa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Chitipa.protect.md|Chitipa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Chitipa.private.md|Chitipa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Chitipa.personal.md|Chitipa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Chitipa.secret.md|Chitipa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Chitipa.internal|Chitipa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Chitipa.protect|Chitipa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Chitipa.private|Chitipa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Chitipa.personal|Chitipa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Chitipa.secret|Chitipa.secret]] 
 

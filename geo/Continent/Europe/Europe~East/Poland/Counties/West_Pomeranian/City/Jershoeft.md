@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jershoeft.md|Jershoeft]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jershoeft.internal.md|Jershoeft.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jershoeft.protect.md|Jershoeft.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jershoeft.private.md|Jershoeft.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jershoeft.personal.md|Jershoeft.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jershoeft.secret.md|Jershoeft.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jershoeft.internal|Jershoeft.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jershoeft.protect|Jershoeft.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jershoeft.private|Jershoeft.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jershoeft.personal|Jershoeft.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jershoeft.secret|Jershoeft.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Luqa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Luqa.md|Luqa]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Luqa.internal.md|Luqa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Luqa.protect.md|Luqa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Luqa.private.md|Luqa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Luqa.personal.md|Luqa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Luqa.secret.md|Luqa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Luqa.internal|Luqa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Luqa.protect|Luqa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Luqa.private|Luqa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Luqa.personal|Luqa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Luqa.secret|Luqa.secret]] 
 

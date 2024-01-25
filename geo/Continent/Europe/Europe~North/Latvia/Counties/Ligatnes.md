@@ -41,9 +41,9 @@ markerFolder: ./Ligatnes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ligatnes.md|Ligatnes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ligatnes.internal.md|Ligatnes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ligatnes.protect.md|Ligatnes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ligatnes.private.md|Ligatnes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ligatnes.personal.md|Ligatnes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ligatnes.secret.md|Ligatnes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ligatnes.internal|Ligatnes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ligatnes.protect|Ligatnes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ligatnes.private|Ligatnes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ligatnes.personal|Ligatnes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ligatnes.secret|Ligatnes.secret]] 
 

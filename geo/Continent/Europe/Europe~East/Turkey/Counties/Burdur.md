@@ -41,9 +41,9 @@ markerFolder: ./Burdur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Burdur.md|Burdur]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Burdur.internal.md|Burdur.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Burdur.protect.md|Burdur.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Burdur.private.md|Burdur.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Burdur.personal.md|Burdur.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Burdur.secret.md|Burdur.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Burdur.internal|Burdur.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Burdur.protect|Burdur.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Burdur.private|Burdur.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Burdur.personal|Burdur.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Burdur.secret|Burdur.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Stoke-on-Trent/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.md|Stoke-on-Trent]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.internal.md|Stoke-on-Trent.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.protect.md|Stoke-on-Trent.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.private.md|Stoke-on-Trent.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.personal.md|Stoke-on-Trent.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.secret.md|Stoke-on-Trent.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.internal|Stoke-on-Trent.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.protect|Stoke-on-Trent.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.private|Stoke-on-Trent.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.personal|Stoke-on-Trent.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Stoke-on-Trent.secret|Stoke-on-Trent.secret]] 
 

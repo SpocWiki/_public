@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Myslowitz.md|Myslowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Myslowitz.internal.md|Myslowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Myslowitz.protect.md|Myslowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Myslowitz.private.md|Myslowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Myslowitz.personal.md|Myslowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Myslowitz.secret.md|Myslowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Myslowitz.internal|Myslowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Myslowitz.protect|Myslowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Myslowitz.private|Myslowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Myslowitz.personal|Myslowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Myslowitz.secret|Myslowitz.secret]] 

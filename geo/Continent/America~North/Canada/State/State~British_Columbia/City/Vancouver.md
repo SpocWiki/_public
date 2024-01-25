@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/North-America/Canada/City/Vancouver.md|Vancouver]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Vancouver.internal.md|Vancouver.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Vancouver.protect.md|Vancouver.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Vancouver.private.md|Vancouver.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Vancouver.personal.md|Vancouver.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Vancouver.secret.md|Vancouver.secret]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Vancouver.internal|Vancouver.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Vancouver.protect|Vancouver.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Vancouver.private|Vancouver.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Vancouver.personal|Vancouver.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Vancouver.secret|Vancouver.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hatobohei/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Hatobohei.md|Hatobohei]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Hatobohei.internal.md|Hatobohei.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Hatobohei.protect.md|Hatobohei.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Hatobohei.private.md|Hatobohei.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Hatobohei.personal.md|Hatobohei.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Hatobohei.secret.md|Hatobohei.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Hatobohei.internal|Hatobohei.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Hatobohei.protect|Hatobohei.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Hatobohei.private|Hatobohei.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Hatobohei.personal|Hatobohei.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Hatobohei.secret|Hatobohei.secret]] 
 

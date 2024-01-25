@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Perm=Molotow.md|Perm=Molotow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Perm=Molotow.internal.md|Perm=Molotow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Perm=Molotow.protect.md|Perm=Molotow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Perm=Molotow.private.md|Perm=Molotow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Perm=Molotow.personal.md|Perm=Molotow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Perm=Molotow.secret.md|Perm=Molotow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Perm=Molotow.internal|Perm=Molotow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Perm=Molotow.protect|Perm=Molotow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Perm=Molotow.private|Perm=Molotow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Perm=Molotow.personal|Perm=Molotow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Perm=Molotow.secret|Perm=Molotow.secret]] 

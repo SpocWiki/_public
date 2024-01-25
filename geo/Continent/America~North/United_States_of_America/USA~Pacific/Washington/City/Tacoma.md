@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.md|Tacoma]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.internal.md|Tacoma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.protect.md|Tacoma.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.private.md|Tacoma.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.personal.md|Tacoma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.secret.md|Tacoma.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.internal|Tacoma.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.protect|Tacoma.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.private|Tacoma.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.personal|Tacoma.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.secret|Tacoma.secret]] 

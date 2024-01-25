@@ -41,9 +41,9 @@ markerFolder: ./Nišavski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Nišavski.md|Nišavski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Nišavski.internal.md|Nišavski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Nišavski.protect.md|Nišavski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Nišavski.private.md|Nišavski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Nišavski.personal.md|Nišavski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Nišavski.secret.md|Nišavski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Nišavski.internal|Nišavski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Nišavski.protect|Nišavski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Nišavski.private|Nišavski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Nišavski.personal|Nišavski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Nišavski.secret|Nišavski.secret]] 
 

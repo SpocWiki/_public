@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Murmansk.md|Murmansk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Murmansk.internal.md|Murmansk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Murmansk.protect.md|Murmansk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Murmansk.private.md|Murmansk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Murmansk.personal.md|Murmansk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Murmansk.secret.md|Murmansk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Murmansk.internal|Murmansk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Murmansk.protect|Murmansk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Murmansk.private|Murmansk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Murmansk.personal|Murmansk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Murmansk.secret|Murmansk.secret]] 

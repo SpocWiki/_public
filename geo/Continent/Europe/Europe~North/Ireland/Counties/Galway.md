@@ -41,9 +41,9 @@ markerFolder: ./Galway/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Galway.md|Galway]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Galway.internal.md|Galway.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Galway.protect.md|Galway.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Galway.private.md|Galway.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Galway.personal.md|Galway.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Galway.secret.md|Galway.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Galway.internal|Galway.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Galway.protect|Galway.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Galway.private|Galway.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Galway.personal|Galway.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Galway.secret|Galway.secret]] 
 

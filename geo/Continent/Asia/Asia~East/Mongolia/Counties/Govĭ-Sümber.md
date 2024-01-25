@@ -41,9 +41,9 @@ markerFolder: ./Govĭ-Sümber/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.md|Govĭ-Sümber]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.internal.md|Govĭ-Sümber.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.protect.md|Govĭ-Sümber.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.private.md|Govĭ-Sümber.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.personal.md|Govĭ-Sümber.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.secret.md|Govĭ-Sümber.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.internal|Govĭ-Sümber.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.protect|Govĭ-Sümber.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.private|Govĭ-Sümber.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.personal|Govĭ-Sümber.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.secret|Govĭ-Sümber.secret]] 
 

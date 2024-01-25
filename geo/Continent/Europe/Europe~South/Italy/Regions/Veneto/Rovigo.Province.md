@@ -41,9 +41,9 @@ markerFolder: ./Rovigo.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.md|Rovigo.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.internal.md|Rovigo.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.protect.md|Rovigo.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.private.md|Rovigo.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.personal.md|Rovigo.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.secret.md|Rovigo.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.internal|Rovigo.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.protect|Rovigo.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.private|Rovigo.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.personal|Rovigo.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Rovigo.Province.secret|Rovigo.Province.secret]] 
 

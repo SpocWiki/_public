@@ -41,9 +41,9 @@ markerFolder: ./Črna_na_Koroškem/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.md|Črna_na_Koroškem]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.internal.md|Črna_na_Koroškem.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.protect.md|Črna_na_Koroškem.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.private.md|Črna_na_Koroškem.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.personal.md|Črna_na_Koroškem.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.secret.md|Črna_na_Koroškem.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.internal|Črna_na_Koroškem.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.protect|Črna_na_Koroškem.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.private|Črna_na_Koroškem.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.personal|Črna_na_Koroškem.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Črna_na_Koroškem.secret|Črna_na_Koroškem.secret]] 
 

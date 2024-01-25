@@ -41,9 +41,9 @@ markerFolder: ./Ngarchelong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngarchelong.md|Ngarchelong]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngarchelong.internal.md|Ngarchelong.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngarchelong.protect.md|Ngarchelong.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngarchelong.private.md|Ngarchelong.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngarchelong.personal.md|Ngarchelong.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngarchelong.secret.md|Ngarchelong.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngarchelong.internal|Ngarchelong.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngarchelong.protect|Ngarchelong.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngarchelong.private|Ngarchelong.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngarchelong.personal|Ngarchelong.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngarchelong.secret|Ngarchelong.secret]] 
 

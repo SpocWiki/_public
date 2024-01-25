@@ -41,9 +41,9 @@ markerFolder: ./Département~Seine-Maritime/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.md|Département~Seine-Maritime]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.internal.md|Département~Seine-Maritime.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.protect.md|Département~Seine-Maritime.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.private.md|Département~Seine-Maritime.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.personal.md|Département~Seine-Maritime.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.secret.md|Département~Seine-Maritime.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.internal|Département~Seine-Maritime.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.protect|Département~Seine-Maritime.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.private|Département~Seine-Maritime.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.personal|Département~Seine-Maritime.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Normandie/Département~Seine-Maritime.secret|Département~Seine-Maritime.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Prior_counteracion-stationary_Weight]
 [SpocWebEntityId::24542]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle::[[Triz-Prior_counteracion]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.md|Triz-stationary_Energy+Prior_counteracion-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.internal.md|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.protect.md|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.private.md|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.personal.md|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.secret.md|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.internal|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.protect|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.private|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.personal|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Prior_counteracion-stationary_Weight.secret|Triz-stationary_Energy+Prior_counteracion-stationary_Weight.secret]] 

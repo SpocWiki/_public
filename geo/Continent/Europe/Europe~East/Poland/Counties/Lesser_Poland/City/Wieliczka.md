@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wieliczka.md|Wieliczka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wieliczka.internal.md|Wieliczka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wieliczka.protect.md|Wieliczka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wieliczka.private.md|Wieliczka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wieliczka.personal.md|Wieliczka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wieliczka.secret.md|Wieliczka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wieliczka.internal|Wieliczka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wieliczka.protect|Wieliczka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wieliczka.private|Wieliczka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wieliczka.personal|Wieliczka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wieliczka.secret|Wieliczka.secret]] 

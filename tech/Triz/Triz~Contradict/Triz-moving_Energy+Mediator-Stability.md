@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Mediator-Stability]
 [SpocWebEntityId::24467]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.md|Triz-moving_Energy+Mediator-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.internal.md|Triz-moving_Energy+Mediator-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.protect.md|Triz-moving_Energy+Mediator-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.private.md|Triz-moving_Energy+Mediator-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.personal.md|Triz-moving_Energy+Mediator-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.secret.md|Triz-moving_Energy+Mediator-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.internal|Triz-moving_Energy+Mediator-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.protect|Triz-moving_Energy+Mediator-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.private|Triz-moving_Energy+Mediator-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.personal|Triz-moving_Energy+Mediator-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.secret|Triz-moving_Energy+Mediator-Stability.secret]] 

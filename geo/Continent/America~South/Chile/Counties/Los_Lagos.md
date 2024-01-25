@@ -41,9 +41,9 @@ markerFolder: ./Los_Lagos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Chile/Counties/Los_Lagos.md|Los_Lagos]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Los_Lagos.internal.md|Los_Lagos.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Los_Lagos.protect.md|Los_Lagos.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Los_Lagos.private.md|Los_Lagos.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Los_Lagos.personal.md|Los_Lagos.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Los_Lagos.secret.md|Los_Lagos.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Los_Lagos.internal|Los_Lagos.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Los_Lagos.protect|Los_Lagos.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Los_Lagos.private|Los_Lagos.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Los_Lagos.personal|Los_Lagos.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Los_Lagos.secret|Los_Lagos.secret]] 
 

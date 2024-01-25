@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vladikavkaz.md|Vladikavkaz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vladikavkaz.internal.md|Vladikavkaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vladikavkaz.protect.md|Vladikavkaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vladikavkaz.private.md|Vladikavkaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vladikavkaz.personal.md|Vladikavkaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vladikavkaz.secret.md|Vladikavkaz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vladikavkaz.internal|Vladikavkaz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vladikavkaz.protect|Vladikavkaz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vladikavkaz.private|Vladikavkaz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vladikavkaz.personal|Vladikavkaz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vladikavkaz.secret|Vladikavkaz.secret]] 

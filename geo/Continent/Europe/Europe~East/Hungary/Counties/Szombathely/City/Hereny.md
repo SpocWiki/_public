@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Hereny.md|Hereny]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hereny.internal.md|Hereny.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hereny.protect.md|Hereny.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Hereny.private.md|Hereny.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hereny.personal.md|Hereny.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hereny.secret.md|Hereny.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hereny.internal|Hereny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hereny.protect|Hereny.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Hereny.private|Hereny.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hereny.personal|Hereny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hereny.secret|Hereny.secret]] 

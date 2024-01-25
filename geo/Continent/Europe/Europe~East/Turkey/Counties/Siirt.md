@@ -41,9 +41,9 @@ markerFolder: ./Siirt/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Siirt.md|Siirt]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Siirt.internal.md|Siirt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Siirt.protect.md|Siirt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Siirt.private.md|Siirt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Siirt.personal.md|Siirt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Siirt.secret.md|Siirt.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Siirt.internal|Siirt.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Siirt.protect|Siirt.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Siirt.private|Siirt.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Siirt.personal|Siirt.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Siirt.secret|Siirt.secret]] 
 

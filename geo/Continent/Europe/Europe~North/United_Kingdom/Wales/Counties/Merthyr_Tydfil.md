@@ -41,9 +41,9 @@ markerFolder: ./Merthyr_Tydfil/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.md|Merthyr_Tydfil]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.internal.md|Merthyr_Tydfil.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.protect.md|Merthyr_Tydfil.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.private.md|Merthyr_Tydfil.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.personal.md|Merthyr_Tydfil.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.secret.md|Merthyr_Tydfil.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.internal|Merthyr_Tydfil.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.protect|Merthyr_Tydfil.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.private|Merthyr_Tydfil.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.personal|Merthyr_Tydfil.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Merthyr_Tydfil.secret|Merthyr_Tydfil.secret]] 
 

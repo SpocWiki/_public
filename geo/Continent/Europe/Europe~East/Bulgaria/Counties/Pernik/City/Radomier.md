@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Radomier.md|Radomier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Radomier.internal.md|Radomier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Radomier.protect.md|Radomier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Radomier.private.md|Radomier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Radomier.personal.md|Radomier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Radomier.secret.md|Radomier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Radomier.internal|Radomier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Radomier.protect|Radomier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Radomier.private|Radomier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Radomier.personal|Radomier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Radomier.secret|Radomier.secret]] 

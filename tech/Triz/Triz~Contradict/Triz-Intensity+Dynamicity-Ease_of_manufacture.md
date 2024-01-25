@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Dynamicity-Ease_of_manufacture]
 [SpocWebEntityId::23573]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Ease_of_manufacture]]]
+- [#has_/Cons :: [[Triz-Ease_of_manufacture]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.md|Triz-Intensity+Dynamicity-Ease_of_manufacture]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.internal.md|Triz-Intensity+Dynamicity-Ease_of_manufacture.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.protect.md|Triz-Intensity+Dynamicity-Ease_of_manufacture.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.private.md|Triz-Intensity+Dynamicity-Ease_of_manufacture.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.personal.md|Triz-Intensity+Dynamicity-Ease_of_manufacture.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.secret.md|Triz-Intensity+Dynamicity-Ease_of_manufacture.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.internal|Triz-Intensity+Dynamicity-Ease_of_manufacture.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.protect|Triz-Intensity+Dynamicity-Ease_of_manufacture.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.private|Triz-Intensity+Dynamicity-Ease_of_manufacture.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.personal|Triz-Intensity+Dynamicity-Ease_of_manufacture.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Ease_of_manufacture.secret|Triz-Intensity+Dynamicity-Ease_of_manufacture.secret]] 

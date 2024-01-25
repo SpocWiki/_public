@@ -37,8 +37,8 @@ markerFolder: ./Schleswig-Holstein/
 
 ## Confidential Links & Embeds: 
 -[[Schleswig-Holstein|Schleswig-Holstein]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.internal.md|Schleswig-Holstein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein.protect.md|Schleswig-Holstein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein.private.md|Schleswig-Holstein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.personal.md|Schleswig-Holstein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein.secret.md|Schleswig-Holstein.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.internal|Schleswig-Holstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein.protect|Schleswig-Holstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein.private|Schleswig-Holstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.personal|Schleswig-Holstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein.secret|Schleswig-Holstein.secret]] 

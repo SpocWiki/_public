@@ -28,9 +28,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Adhara.md|Adhara]] 
-- [[../../../_internal/astro/Star/Adhara.internal.md|Adhara.internal]] 
-- [[../../../_protect/astro/Star/Adhara.protect.md|Adhara.protect]] 
-- [[../../../_private/astro/Star/Adhara.private.md|Adhara.private]] 
-- [[../../../_personal/astro/Star/Adhara.personal.md|Adhara.personal]] 
-- [[../../../_secret/astro/Star/Adhara.secret.md|Adhara.secret]]
+- [[../../../_internal/astro/Star/Adhara.internal|Adhara.internal]] 
+- [[../../../_protect/astro/Star/Adhara.protect|Adhara.protect]] 
+- [[../../../_private/astro/Star/Adhara.private|Adhara.private]] 
+- [[../../../_personal/astro/Star/Adhara.personal|Adhara.personal]] 
+- [[../../../_secret/astro/Star/Adhara.secret|Adhara.secret]]
 

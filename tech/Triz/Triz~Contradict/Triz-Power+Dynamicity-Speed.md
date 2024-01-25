@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Dynamicity-Speed]
 [SpocWebEntityId::24605]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.md|Triz-Power+Dynamicity-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.internal.md|Triz-Power+Dynamicity-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.protect.md|Triz-Power+Dynamicity-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.private.md|Triz-Power+Dynamicity-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.personal.md|Triz-Power+Dynamicity-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.secret.md|Triz-Power+Dynamicity-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.internal|Triz-Power+Dynamicity-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.protect|Triz-Power+Dynamicity-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.private|Triz-Power+Dynamicity-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.personal|Triz-Power+Dynamicity-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Dynamicity-Speed.secret|Triz-Power+Dynamicity-Speed.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./A'ana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/A'ana.md|A'ana]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/A'ana.internal.md|A'ana.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/A'ana.protect.md|A'ana.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/A'ana.private.md|A'ana.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/A'ana.personal.md|A'ana.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/A'ana.secret.md|A'ana.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/A'ana.internal|A'ana.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/A'ana.protect|A'ana.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/A'ana.private|A'ana.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/A'ana.personal|A'ana.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/A'ana.secret|A'ana.secret]] 
 

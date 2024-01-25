@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Stockholm.md|Stockholm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stockholm.internal.md|Stockholm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stockholm.protect.md|Stockholm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Stockholm.private.md|Stockholm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stockholm.personal.md|Stockholm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stockholm.secret.md|Stockholm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stockholm.internal|Stockholm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stockholm.protect|Stockholm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Stockholm.private|Stockholm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stockholm.personal|Stockholm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stockholm.secret|Stockholm.secret]] 

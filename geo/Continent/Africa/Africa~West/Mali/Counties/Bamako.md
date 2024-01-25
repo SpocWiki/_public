@@ -41,9 +41,9 @@ markerFolder: ./Bamako/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mali/Counties/Bamako.md|Bamako]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Bamako.internal.md|Bamako.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Bamako.protect.md|Bamako.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Bamako.private.md|Bamako.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Bamako.personal.md|Bamako.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Bamako.secret.md|Bamako.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Bamako.internal|Bamako.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Bamako.protect|Bamako.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Bamako.private|Bamako.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Bamako.personal|Bamako.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Bamako.secret|Bamako.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Valmiera/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Valmiera.md|Valmiera]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Valmiera.internal.md|Valmiera.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Valmiera.protect.md|Valmiera.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Valmiera.private.md|Valmiera.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Valmiera.personal.md|Valmiera.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Valmiera.secret.md|Valmiera.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Valmiera.internal|Valmiera.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Valmiera.protect|Valmiera.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Valmiera.private|Valmiera.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Valmiera.personal|Valmiera.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Valmiera.secret|Valmiera.secret]] 
 

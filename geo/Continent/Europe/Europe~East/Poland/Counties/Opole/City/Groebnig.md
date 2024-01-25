@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Groebnig.md|Groebnig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Groebnig.internal.md|Groebnig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Groebnig.protect.md|Groebnig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Groebnig.private.md|Groebnig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Groebnig.personal.md|Groebnig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Groebnig.secret.md|Groebnig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Groebnig.internal|Groebnig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Groebnig.protect|Groebnig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Groebnig.private|Groebnig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Groebnig.personal|Groebnig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Groebnig.secret|Groebnig.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Extraction-Shape]
 [SpocWebEntityId::26102]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.md|Triz-Ease_of_repair+Extraction-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.internal.md|Triz-Ease_of_repair+Extraction-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.protect.md|Triz-Ease_of_repair+Extraction-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.private.md|Triz-Ease_of_repair+Extraction-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.personal.md|Triz-Ease_of_repair+Extraction-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.secret.md|Triz-Ease_of_repair+Extraction-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.internal|Triz-Ease_of_repair+Extraction-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.protect|Triz-Ease_of_repair+Extraction-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.private|Triz-Ease_of_repair+Extraction-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.personal|Triz-Ease_of_repair+Extraction-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.secret|Triz-Ease_of_repair+Extraction-Shape.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Birr_Castle.md|Birr_Castle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Birr_Castle.internal.md|Birr_Castle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Birr_Castle.protect.md|Birr_Castle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Birr_Castle.private.md|Birr_Castle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Birr_Castle.personal.md|Birr_Castle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Birr_Castle.secret.md|Birr_Castle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Birr_Castle.internal|Birr_Castle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Birr_Castle.protect|Birr_Castle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Birr_Castle.private|Birr_Castle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Birr_Castle.personal|Birr_Castle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Birr_Castle.secret|Birr_Castle.secret]] 

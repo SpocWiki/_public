@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Langeberg.md|Langeberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Langeberg.internal.md|Langeberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Langeberg.protect.md|Langeberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Langeberg.private.md|Langeberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Langeberg.personal.md|Langeberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Langeberg.secret.md|Langeberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Langeberg.internal|Langeberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Langeberg.protect|Langeberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Langeberg.private|Langeberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Langeberg.personal|Langeberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Langeberg.secret|Langeberg.secret]] 

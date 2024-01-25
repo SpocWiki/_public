@@ -41,9 +41,9 @@ markerFolder: ./Ajlun/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.md|Ajlun]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.internal.md|Ajlun.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.protect.md|Ajlun.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.private.md|Ajlun.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.personal.md|Ajlun.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.secret.md|Ajlun.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.internal|Ajlun.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.protect|Ajlun.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.private|Ajlun.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.personal|Ajlun.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.secret|Ajlun.secret]] 
 

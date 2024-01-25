@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ramiseto.md|Ramiseto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ramiseto.internal.md|Ramiseto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ramiseto.protect.md|Ramiseto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ramiseto.private.md|Ramiseto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ramiseto.personal.md|Ramiseto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ramiseto.secret.md|Ramiseto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ramiseto.internal|Ramiseto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ramiseto.protect|Ramiseto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ramiseto.private|Ramiseto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ramiseto.personal|Ramiseto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ramiseto.secret|Ramiseto.secret]] 

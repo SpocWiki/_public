@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Asymmetry-stationary_Volume]
 [SpocWebEntityId::24249]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.md|Triz-Temperature+Asymmetry-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.internal.md|Triz-Temperature+Asymmetry-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.protect.md|Triz-Temperature+Asymmetry-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.private.md|Triz-Temperature+Asymmetry-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.personal.md|Triz-Temperature+Asymmetry-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.secret.md|Triz-Temperature+Asymmetry-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.internal|Triz-Temperature+Asymmetry-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.protect|Triz-Temperature+Asymmetry-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.private|Triz-Temperature+Asymmetry-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.personal|Triz-Temperature+Asymmetry-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Asymmetry-stationary_Volume.secret|Triz-Temperature+Asymmetry-stationary_Volume.secret]] 

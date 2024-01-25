@@ -41,11 +41,11 @@ markerFolder: ./East_Flanders/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/East_Flanders.md|East_Flanders]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/East_Flanders.internal.md|East_Flanders.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/East_Flanders.protect.md|East_Flanders.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/East_Flanders.private.md|East_Flanders.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/East_Flanders.personal.md|East_Flanders.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/East_Flanders.secret.md|East_Flanders.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/East_Flanders.internal|East_Flanders.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/East_Flanders.protect|East_Flanders.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/East_Flanders.private|East_Flanders.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/East_Flanders.personal|East_Flanders.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/East_Flanders.secret|East_Flanders.secret]] 
 
 
 ```leaflet

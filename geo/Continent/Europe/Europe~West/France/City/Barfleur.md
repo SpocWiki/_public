@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Barfleur.md|Barfleur]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Barfleur.internal.md|Barfleur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Barfleur.protect.md|Barfleur.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Barfleur.private.md|Barfleur.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Barfleur.personal.md|Barfleur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Barfleur.secret.md|Barfleur.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Barfleur.internal|Barfleur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Barfleur.protect|Barfleur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Barfleur.private|Barfleur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Barfleur.personal|Barfleur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Barfleur.secret|Barfleur.secret]] 

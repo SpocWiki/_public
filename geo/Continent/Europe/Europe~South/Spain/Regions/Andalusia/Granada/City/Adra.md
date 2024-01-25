@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Adra.md|Adra]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Adra.internal.md|Adra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Adra.protect.md|Adra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Adra.private.md|Adra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Adra.personal.md|Adra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Adra.secret.md|Adra.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Adra.internal|Adra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Adra.protect|Adra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Adra.private|Adra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Adra.personal|Adra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Adra.secret|Adra.secret]] 

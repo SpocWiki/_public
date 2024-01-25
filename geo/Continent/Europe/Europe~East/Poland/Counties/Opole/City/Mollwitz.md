@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Mollwitz.md|Mollwitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mollwitz.internal.md|Mollwitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mollwitz.protect.md|Mollwitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mollwitz.private.md|Mollwitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mollwitz.personal.md|Mollwitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mollwitz.secret.md|Mollwitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mollwitz.internal|Mollwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mollwitz.protect|Mollwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mollwitz.private|Mollwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mollwitz.personal|Mollwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mollwitz.secret|Mollwitz.secret]] 

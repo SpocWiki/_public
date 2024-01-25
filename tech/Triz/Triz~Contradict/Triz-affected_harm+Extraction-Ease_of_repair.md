@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Extraction-Ease_of_repair]
 [SpocWebEntityId::25696]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.md|Triz-affected_harm+Extraction-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.internal.md|Triz-affected_harm+Extraction-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.protect.md|Triz-affected_harm+Extraction-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.private.md|Triz-affected_harm+Extraction-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.personal.md|Triz-affected_harm+Extraction-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.secret.md|Triz-affected_harm+Extraction-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.internal|Triz-affected_harm+Extraction-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.protect|Triz-affected_harm+Extraction-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.private|Triz-affected_harm+Extraction-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.personal|Triz-affected_harm+Extraction-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.secret|Triz-affected_harm+Extraction-Ease_of_repair.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Montauban.md|Montauban]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montauban.internal.md|Montauban.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montauban.protect.md|Montauban.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Montauban.private.md|Montauban.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montauban.personal.md|Montauban.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montauban.secret.md|Montauban.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montauban.internal|Montauban.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montauban.protect|Montauban.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montauban.private|Montauban.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montauban.personal|Montauban.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montauban.secret|Montauban.secret]] 

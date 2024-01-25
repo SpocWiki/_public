@@ -133,7 +133,7 @@ markerFolder: ./Qatar/
 ## Confidential Links & Embeds: 
 -[[Qatar|Qatar]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Qatar.internal|Qatar.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Qatar.protect.md|Qatar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Qatar.private.md|Qatar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Qatar.personal.md|Qatar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Qatar.secret.md|Qatar.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Qatar.protect|Qatar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Qatar.private|Qatar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Qatar.personal|Qatar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Qatar.secret|Qatar.secret]] 

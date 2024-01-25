@@ -41,9 +41,9 @@ markerFolder: ./Trafford/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.md|Trafford]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.internal.md|Trafford.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.protect.md|Trafford.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.private.md|Trafford.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.personal.md|Trafford.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.secret.md|Trafford.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.internal|Trafford.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.protect|Trafford.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.private|Trafford.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.personal|Trafford.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Trafford.secret|Trafford.secret]] 
 

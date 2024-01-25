@@ -41,9 +41,9 @@ markerFolder: ./Medio_Campidano/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.md|Medio_Campidano]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.internal.md|Medio_Campidano.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.protect.md|Medio_Campidano.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.private.md|Medio_Campidano.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.personal.md|Medio_Campidano.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.secret.md|Medio_Campidano.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.internal|Medio_Campidano.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.protect|Medio_Campidano.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.private|Medio_Campidano.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.personal|Medio_Campidano.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Medio_Campidano.secret|Medio_Campidano.secret]] 
 

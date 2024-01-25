@@ -41,9 +41,9 @@ markerFolder: ./Maekel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Eritrea/Counties/Maekel.md|Maekel]] 
-- [[../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Maekel.internal.md|Maekel.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Maekel.protect.md|Maekel.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Eritrea/Counties/Maekel.private.md|Maekel.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Maekel.personal.md|Maekel.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Maekel.secret.md|Maekel.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Maekel.internal|Maekel.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Maekel.protect|Maekel.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Eritrea/Counties/Maekel.private|Maekel.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Maekel.personal|Maekel.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Maekel.secret|Maekel.secret]] 
 

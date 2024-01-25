@@ -41,9 +41,9 @@ markerFolder: ./Vĩnh_Long/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.md|Vĩnh_Long]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.internal.md|Vĩnh_Long.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.protect.md|Vĩnh_Long.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.private.md|Vĩnh_Long.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.personal.md|Vĩnh_Long.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.secret.md|Vĩnh_Long.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.internal|Vĩnh_Long.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.protect|Vĩnh_Long.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.private|Vĩnh_Long.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.personal|Vĩnh_Long.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.secret|Vĩnh_Long.secret]] 
 

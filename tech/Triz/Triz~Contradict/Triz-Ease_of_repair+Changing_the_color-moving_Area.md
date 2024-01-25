@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Changing_the_color-moving_Area]
 [SpocWebEntityId::26086]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.md|Triz-Ease_of_repair+Changing_the_color-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.internal.md|Triz-Ease_of_repair+Changing_the_color-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.protect.md|Triz-Ease_of_repair+Changing_the_color-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.private.md|Triz-Ease_of_repair+Changing_the_color-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.personal.md|Triz-Ease_of_repair+Changing_the_color-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.secret.md|Triz-Ease_of_repair+Changing_the_color-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.internal|Triz-Ease_of_repair+Changing_the_color-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.protect|Triz-Ease_of_repair+Changing_the_color-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.private|Triz-Ease_of_repair+Changing_the_color-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.personal|Triz-Ease_of_repair+Changing_the_color-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.secret|Triz-Ease_of_repair+Changing_the_color-moving_Area.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Prebold/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.md|Prebold]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.internal.md|Prebold.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.protect.md|Prebold.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.private.md|Prebold.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.personal.md|Prebold.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.secret.md|Prebold.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.internal|Prebold.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.protect|Prebold.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.private|Prebold.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.personal|Prebold.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Prebold.secret|Prebold.secret]] 
 

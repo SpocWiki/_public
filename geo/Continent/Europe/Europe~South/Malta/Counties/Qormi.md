@@ -41,9 +41,9 @@ markerFolder: ./Qormi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Qormi.md|Qormi]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Qormi.internal.md|Qormi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Qormi.protect.md|Qormi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Qormi.private.md|Qormi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Qormi.personal.md|Qormi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Qormi.secret.md|Qormi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Qormi.internal|Qormi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Qormi.protect|Qormi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Qormi.private|Qormi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Qormi.personal|Qormi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Qormi.secret|Qormi.secret]] 
 

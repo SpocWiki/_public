@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Markus-Krankenhaus|T-Markus-Krankenhaus]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.internal.md|T-Markus-Krankenhaus.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.protect.md|T-Markus-Krankenhaus.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.private.md|T-Markus-Krankenhaus.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.personal.md|T-Markus-Krankenhaus.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.secret.md|T-Markus-Krankenhaus.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.internal|T-Markus-Krankenhaus.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.protect|T-Markus-Krankenhaus.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.private|T-Markus-Krankenhaus.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.personal|T-Markus-Krankenhaus.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.secret|T-Markus-Krankenhaus.secret]] 

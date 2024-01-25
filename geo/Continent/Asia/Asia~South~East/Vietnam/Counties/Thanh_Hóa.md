@@ -41,9 +41,9 @@ markerFolder: ./Thanh_Hóa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.md|Thanh_Hóa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.internal.md|Thanh_Hóa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.protect.md|Thanh_Hóa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.private.md|Thanh_Hóa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.personal.md|Thanh_Hóa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.secret.md|Thanh_Hóa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.internal|Thanh_Hóa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.protect|Thanh_Hóa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.private|Thanh_Hóa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.personal|Thanh_Hóa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thanh_Hóa.secret|Thanh_Hóa.secret]] 
 

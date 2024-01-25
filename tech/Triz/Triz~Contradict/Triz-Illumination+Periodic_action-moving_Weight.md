@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Periodic_action-moving_Weight]
 [SpocWebEntityId::24348]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.md|Triz-Illumination+Periodic_action-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.internal.md|Triz-Illumination+Periodic_action-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.protect.md|Triz-Illumination+Periodic_action-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.private.md|Triz-Illumination+Periodic_action-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.personal.md|Triz-Illumination+Periodic_action-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.secret.md|Triz-Illumination+Periodic_action-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.internal|Triz-Illumination+Periodic_action-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.protect|Triz-Illumination+Periodic_action-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.private|Triz-Illumination+Periodic_action-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.personal|Triz-Illumination+Periodic_action-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Weight.secret|Triz-Illumination+Periodic_action-moving_Weight.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Composite_materials-Intensity]
 [SpocWebEntityId::25749]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.md|Triz-generated_harm+Composite_materials-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.internal.md|Triz-generated_harm+Composite_materials-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.protect.md|Triz-generated_harm+Composite_materials-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.private.md|Triz-generated_harm+Composite_materials-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.personal.md|Triz-generated_harm+Composite_materials-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.secret.md|Triz-generated_harm+Composite_materials-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.internal|Triz-generated_harm+Composite_materials-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.protect|Triz-generated_harm+Composite_materials-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.private|Triz-generated_harm+Composite_materials-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.personal|Triz-generated_harm+Composite_materials-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Intensity.secret|Triz-generated_harm+Composite_materials-Intensity.secret]] 

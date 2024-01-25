@@ -41,9 +41,9 @@ markerFolder: ./Kepulauan_Riau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.md|Kepulauan_Riau]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.internal.md|Kepulauan_Riau.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.protect.md|Kepulauan_Riau.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.private.md|Kepulauan_Riau.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.personal.md|Kepulauan_Riau.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.secret.md|Kepulauan_Riau.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.internal|Kepulauan_Riau.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.protect|Kepulauan_Riau.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.private|Kepulauan_Riau.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.personal|Kepulauan_Riau.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kepulauan_Riau.secret|Kepulauan_Riau.secret]] 
 

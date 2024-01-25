@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Piotrkow.md|Piotrkow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Piotrkow.internal.md|Piotrkow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Piotrkow.protect.md|Piotrkow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Piotrkow.private.md|Piotrkow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Piotrkow.personal.md|Piotrkow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Piotrkow.secret.md|Piotrkow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Piotrkow.internal|Piotrkow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Piotrkow.protect|Piotrkow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Piotrkow.private|Piotrkow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Piotrkow.personal|Piotrkow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Piotrkow.secret|Piotrkow.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ziro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.md|Ziro]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.internal.md|Ziro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.protect.md|Ziro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.private.md|Ziro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.personal.md|Ziro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.secret.md|Ziro.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.internal|Ziro.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.protect|Ziro.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.private|Ziro.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.personal|Ziro.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.secret|Ziro.secret]] 
 

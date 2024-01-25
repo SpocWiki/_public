@@ -41,9 +41,9 @@ markerFolder: ./Xewkija/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Xewkija.md|Xewkija]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Xewkija.internal.md|Xewkija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Xewkija.protect.md|Xewkija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Xewkija.private.md|Xewkija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Xewkija.personal.md|Xewkija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Xewkija.secret.md|Xewkija.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Xewkija.internal|Xewkija.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Xewkija.protect|Xewkija.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Xewkija.private|Xewkija.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Xewkija.personal|Xewkija.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Xewkija.secret|Xewkija.secret]] 
 

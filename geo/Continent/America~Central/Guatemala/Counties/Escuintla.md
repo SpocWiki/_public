@@ -41,9 +41,9 @@ markerFolder: ./Escuintla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Escuintla.md|Escuintla]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Escuintla.internal.md|Escuintla.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Escuintla.protect.md|Escuintla.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Escuintla.private.md|Escuintla.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Escuintla.personal.md|Escuintla.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Escuintla.secret.md|Escuintla.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Escuintla.internal|Escuintla.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Escuintla.protect|Escuintla.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Escuintla.private|Escuintla.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Escuintla.personal|Escuintla.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Escuintla.secret|Escuintla.secret]] 
 

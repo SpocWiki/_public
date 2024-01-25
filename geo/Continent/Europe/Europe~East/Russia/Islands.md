@@ -41,9 +41,9 @@ markerFolder: ./Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Russia/Islands.md|Islands]] 
-- [[../../../../_internal/geo/Continent/Europe/Russia/Islands.internal.md|Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Russia/Islands.protect.md|Islands.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Russia/Islands.private.md|Islands.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Russia/Islands.personal.md|Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Russia/Islands.secret.md|Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Russia/Islands.internal|Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Russia/Islands.protect|Islands.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Russia/Islands.private|Islands.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Russia/Islands.personal|Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Russia/Islands.secret|Islands.secret]] 
 

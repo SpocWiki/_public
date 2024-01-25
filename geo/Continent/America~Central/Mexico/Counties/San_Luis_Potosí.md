@@ -41,9 +41,9 @@ markerFolder: ./San_Luis_Potosí/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.md|San_Luis_Potosí]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.internal.md|San_Luis_Potosí.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.protect.md|San_Luis_Potosí.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.private.md|San_Luis_Potosí.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.personal.md|San_Luis_Potosí.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.secret.md|San_Luis_Potosí.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.internal|San_Luis_Potosí.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.protect|San_Luis_Potosí.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.private|San_Luis_Potosí.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.personal|San_Luis_Potosí.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/San_Luis_Potosí.secret|San_Luis_Potosí.secret]] 
 

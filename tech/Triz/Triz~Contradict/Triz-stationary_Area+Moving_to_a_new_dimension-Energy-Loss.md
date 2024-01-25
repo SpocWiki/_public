@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Moving_to_a_new_dimension-Energy-Loss]
 [SpocWebEntityId::23133]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.md|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.internal.md|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.protect.md|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.private.md|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.personal.md|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.secret.md|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.internal|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.protect|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.private|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.personal|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.secret|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.secret]] 

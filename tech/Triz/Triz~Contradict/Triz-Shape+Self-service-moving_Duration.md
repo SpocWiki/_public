@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Self-service-moving_Duration]
 [SpocWebEntityId::23759]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.md|Triz-Shape+Self-service-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.internal.md|Triz-Shape+Self-service-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.protect.md|Triz-Shape+Self-service-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.private.md|Triz-Shape+Self-service-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.personal.md|Triz-Shape+Self-service-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.secret.md|Triz-Shape+Self-service-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.internal|Triz-Shape+Self-service-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.protect|Triz-Shape+Self-service-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.private|Triz-Shape+Self-service-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.personal|Triz-Shape+Self-service-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Self-service-moving_Duration.secret|Triz-Shape+Self-service-moving_Duration.secret]] 

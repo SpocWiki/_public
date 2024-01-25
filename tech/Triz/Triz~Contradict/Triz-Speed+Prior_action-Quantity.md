@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Prior_action-Quantity]
 [SpocWebEntityId::23428]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.md|Triz-Speed+Prior_action-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.internal.md|Triz-Speed+Prior_action-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.protect.md|Triz-Speed+Prior_action-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.private.md|Triz-Speed+Prior_action-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.personal.md|Triz-Speed+Prior_action-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.secret.md|Triz-Speed+Prior_action-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.internal|Triz-Speed+Prior_action-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.protect|Triz-Speed+Prior_action-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.private|Triz-Speed+Prior_action-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.personal|Triz-Speed+Prior_action-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Quantity.secret|Triz-Speed+Prior_action-Quantity.secret]] 

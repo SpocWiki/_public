@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Inert_environment-Reliability]
 [SpocWebEntityId::25808]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.md|Triz-generated_harm+Inert_environment-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.internal.md|Triz-generated_harm+Inert_environment-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.protect.md|Triz-generated_harm+Inert_environment-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.private.md|Triz-generated_harm+Inert_environment-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.personal.md|Triz-generated_harm+Inert_environment-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.secret.md|Triz-generated_harm+Inert_environment-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.internal|Triz-generated_harm+Inert_environment-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.protect|Triz-generated_harm+Inert_environment-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.private|Triz-generated_harm+Inert_environment-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.personal|Triz-generated_harm+Inert_environment-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Reliability.secret|Triz-generated_harm+Inert_environment-Reliability.secret]] 

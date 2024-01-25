@@ -132,8 +132,8 @@ markerFolder: ./Christmas_Island/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Christmas_Island.md|Christmas_Island]] 
-- [[../../../../_internal/geo/Continent/Oceania/Christmas_Island.internal.md|Christmas_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Christmas_Island.protect.md|Christmas_Island.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Christmas_Island.private.md|Christmas_Island.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Christmas_Island.personal.md|Christmas_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Christmas_Island.secret.md|Christmas_Island.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Christmas_Island.internal|Christmas_Island.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Christmas_Island.protect|Christmas_Island.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Christmas_Island.private|Christmas_Island.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Christmas_Island.personal|Christmas_Island.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Christmas_Island.secret|Christmas_Island.secret]] 

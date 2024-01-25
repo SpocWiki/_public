@@ -37,8 +37,8 @@ SpocWebEntityId: 21982
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-01-Alkali/Francium.md|Francium]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Francium.internal.md|Francium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Francium.protect.md|Francium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Francium.private.md|Francium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Francium.personal.md|Francium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Francium.secret.md|Francium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Francium.internal|Francium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Francium.protect|Francium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Francium.private|Francium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Francium.personal|Francium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Francium.secret|Francium.secret]] 

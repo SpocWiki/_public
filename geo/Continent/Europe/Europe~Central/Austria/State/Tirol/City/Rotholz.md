@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Rotholz.md|Rotholz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Rotholz.internal.md|Rotholz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Rotholz.protect.md|Rotholz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Rotholz.private.md|Rotholz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Rotholz.personal.md|Rotholz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Rotholz.secret.md|Rotholz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Rotholz.internal|Rotholz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Rotholz.protect|Rotholz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Rotholz.private|Rotholz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Rotholz.personal|Rotholz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Rotholz.secret|Rotholz.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Walter-Kolb-Siedlung|T-Walter-Kolb-Siedlung]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.internal.md|T-Walter-Kolb-Siedlung.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.protect.md|T-Walter-Kolb-Siedlung.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.private.md|T-Walter-Kolb-Siedlung.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.personal.md|T-Walter-Kolb-Siedlung.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.secret.md|T-Walter-Kolb-Siedlung.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.internal|T-Walter-Kolb-Siedlung.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.protect|T-Walter-Kolb-Siedlung.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.private|T-Walter-Kolb-Siedlung.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.personal|T-Walter-Kolb-Siedlung.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Walter-Kolb-Siedlung.secret|T-Walter-Kolb-Siedlung.secret]] 

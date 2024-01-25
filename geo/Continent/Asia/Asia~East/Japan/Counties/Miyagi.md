@@ -41,9 +41,9 @@ markerFolder: ./Miyagi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.md|Miyagi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.internal.md|Miyagi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.protect.md|Miyagi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.private.md|Miyagi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.personal.md|Miyagi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.secret.md|Miyagi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.internal|Miyagi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.protect|Miyagi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.private|Miyagi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.personal|Miyagi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.secret|Miyagi.secret]] 
 

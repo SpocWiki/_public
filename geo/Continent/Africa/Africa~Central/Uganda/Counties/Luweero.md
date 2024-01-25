@@ -41,9 +41,9 @@ markerFolder: ./Luweero/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Luweero.md|Luweero]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Luweero.internal.md|Luweero.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Luweero.protect.md|Luweero.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Luweero.private.md|Luweero.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Luweero.personal.md|Luweero.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Luweero.secret.md|Luweero.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Luweero.internal|Luweero.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Luweero.protect|Luweero.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Luweero.private|Luweero.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Luweero.personal|Luweero.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Luweero.secret|Luweero.secret]] 
 

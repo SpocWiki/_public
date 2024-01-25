@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alchiba.md|Alchiba]] 
-- [[../../../_internal/astro/Star/Alchiba.internal.md|Alchiba.internal]] 
-- [[../../../_protect/astro/Star/Alchiba.protect.md|Alchiba.protect]] 
-- [[../../../_private/astro/Star/Alchiba.private.md|Alchiba.private]] 
-- [[../../../_personal/astro/Star/Alchiba.personal.md|Alchiba.personal]] 
-- [[../../../_secret/astro/Star/Alchiba.secret.md|Alchiba.secret]]
+- [[../../../_internal/astro/Star/Alchiba.internal|Alchiba.internal]] 
+- [[../../../_protect/astro/Star/Alchiba.protect|Alchiba.protect]] 
+- [[../../../_private/astro/Star/Alchiba.private|Alchiba.private]] 
+- [[../../../_personal/astro/Star/Alchiba.personal|Alchiba.personal]] 
+- [[../../../_secret/astro/Star/Alchiba.secret|Alchiba.secret]]
 

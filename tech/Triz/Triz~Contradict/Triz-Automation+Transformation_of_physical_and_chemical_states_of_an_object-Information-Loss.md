@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss]
 [SpocWebEntityId::26587]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.internal.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.protect.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.private.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.personal.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.secret.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.internal|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.protect|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.private|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.personal|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.secret|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.secret]] 

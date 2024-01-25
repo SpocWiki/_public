@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Rejecting_and_regenerating_parts-Automation]
 [SpocWebEntityId::23290]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.internal.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.protect.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.private.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.personal.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.secret.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.internal|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.protect|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.private|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.personal|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.secret|Triz-moving_Volume+Rejecting_and_regenerating_parts-Automation.secret]] 

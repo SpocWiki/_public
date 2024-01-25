@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chester.md|Chester]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chester.internal.md|Chester.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chester.protect.md|Chester.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chester.private.md|Chester.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chester.personal.md|Chester.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chester.secret.md|Chester.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chester.internal|Chester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chester.protect|Chester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chester.private|Chester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chester.personal|Chester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chester.secret|Chester.secret]] 

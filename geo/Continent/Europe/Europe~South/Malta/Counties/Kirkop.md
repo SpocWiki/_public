@@ -41,9 +41,9 @@ markerFolder: ./Kirkop/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Kirkop.md|Kirkop]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Kirkop.internal.md|Kirkop.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Kirkop.protect.md|Kirkop.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Kirkop.private.md|Kirkop.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Kirkop.personal.md|Kirkop.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Kirkop.secret.md|Kirkop.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Kirkop.internal|Kirkop.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Kirkop.protect|Kirkop.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Kirkop.private|Kirkop.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Kirkop.personal|Kirkop.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Kirkop.secret|Kirkop.secret]] 
 

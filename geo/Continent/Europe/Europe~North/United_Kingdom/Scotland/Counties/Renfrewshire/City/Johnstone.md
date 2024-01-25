@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Johnstone.md|Johnstone]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Johnstone.internal.md|Johnstone.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Johnstone.protect.md|Johnstone.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Johnstone.private.md|Johnstone.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Johnstone.personal.md|Johnstone.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Johnstone.secret.md|Johnstone.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Johnstone.internal|Johnstone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Johnstone.protect|Johnstone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Johnstone.private|Johnstone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Johnstone.personal|Johnstone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Johnstone.secret|Johnstone.secret]] 

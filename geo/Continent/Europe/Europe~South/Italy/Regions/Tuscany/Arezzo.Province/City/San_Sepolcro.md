@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/San_Sepolcro.md|San_Sepolcro]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Sepolcro.internal.md|San_Sepolcro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Sepolcro.protect.md|San_Sepolcro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Sepolcro.private.md|San_Sepolcro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Sepolcro.personal.md|San_Sepolcro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Sepolcro.secret.md|San_Sepolcro.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Sepolcro.internal|San_Sepolcro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Sepolcro.protect|San_Sepolcro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Sepolcro.private|San_Sepolcro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Sepolcro.personal|San_Sepolcro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Sepolcro.secret|San_Sepolcro.secret]] 

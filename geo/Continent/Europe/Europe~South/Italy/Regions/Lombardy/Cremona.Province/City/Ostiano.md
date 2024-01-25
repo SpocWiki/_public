@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ostiano.md|Ostiano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ostiano.internal.md|Ostiano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ostiano.protect.md|Ostiano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ostiano.private.md|Ostiano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ostiano.personal.md|Ostiano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ostiano.secret.md|Ostiano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ostiano.internal|Ostiano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ostiano.protect|Ostiano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ostiano.private|Ostiano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ostiano.personal|Ostiano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ostiano.secret|Ostiano.secret]] 

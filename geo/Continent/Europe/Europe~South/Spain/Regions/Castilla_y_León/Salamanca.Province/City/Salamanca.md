@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Salamanca.md|Salamanca]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Salamanca.internal.md|Salamanca.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Salamanca.protect.md|Salamanca.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Salamanca.private.md|Salamanca.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Salamanca.personal.md|Salamanca.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Salamanca.secret.md|Salamanca.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Salamanca.internal|Salamanca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Salamanca.protect|Salamanca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Salamanca.private|Salamanca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Salamanca.personal|Salamanca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Salamanca.secret|Salamanca.secret]] 

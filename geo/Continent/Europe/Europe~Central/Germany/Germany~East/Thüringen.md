@@ -36,8 +36,8 @@ markerFolder: ./Thüringen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen.md|Thüringen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen.internal.md|Thüringen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen.protect.md|Thüringen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen.private.md|Thüringen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen.personal.md|Thüringen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen.secret.md|Thüringen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen.internal|Thüringen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen.protect|Thüringen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen.private|Thüringen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen.personal|Thüringen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen.secret|Thüringen.secret]] 

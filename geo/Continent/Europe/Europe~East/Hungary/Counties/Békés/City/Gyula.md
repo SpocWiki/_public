@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Gyula.md|Gyula]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyula.internal.md|Gyula.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyula.protect.md|Gyula.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyula.private.md|Gyula.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyula.personal.md|Gyula.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyula.secret.md|Gyula.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyula.internal|Gyula.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyula.protect|Gyula.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyula.private|Gyula.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyula.personal|Gyula.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyula.secret|Gyula.secret]] 

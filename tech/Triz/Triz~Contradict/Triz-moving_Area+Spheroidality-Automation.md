@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Spheroidality-Automation]
 [SpocWebEntityId::23097]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.md|Triz-moving_Area+Spheroidality-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.internal.md|Triz-moving_Area+Spheroidality-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.protect.md|Triz-moving_Area+Spheroidality-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.private.md|Triz-moving_Area+Spheroidality-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.personal.md|Triz-moving_Area+Spheroidality-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.secret.md|Triz-moving_Area+Spheroidality-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.internal|Triz-moving_Area+Spheroidality-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.protect|Triz-moving_Area+Spheroidality-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.private|Triz-moving_Area+Spheroidality-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.personal|Triz-moving_Area+Spheroidality-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.secret|Triz-moving_Area+Spheroidality-Automation.secret]] 

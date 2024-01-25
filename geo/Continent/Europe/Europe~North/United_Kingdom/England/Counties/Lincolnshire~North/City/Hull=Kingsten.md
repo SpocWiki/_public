@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.md|Hull=Kingsten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.internal.md|Hull=Kingsten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.protect.md|Hull=Kingsten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.private.md|Hull=Kingsten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.personal.md|Hull=Kingsten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.secret.md|Hull=Kingsten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.internal|Hull=Kingsten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.protect|Hull=Kingsten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.private|Hull=Kingsten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.personal|Hull=Kingsten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.secret|Hull=Kingsten.secret]] 

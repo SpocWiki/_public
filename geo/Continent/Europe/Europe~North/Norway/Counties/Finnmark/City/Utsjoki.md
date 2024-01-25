@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Utsjoki.md|Utsjoki]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Utsjoki.internal.md|Utsjoki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Utsjoki.protect.md|Utsjoki.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Utsjoki.private.md|Utsjoki.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Utsjoki.personal.md|Utsjoki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Utsjoki.secret.md|Utsjoki.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Utsjoki.internal|Utsjoki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Utsjoki.protect|Utsjoki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Utsjoki.private|Utsjoki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Utsjoki.personal|Utsjoki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Utsjoki.secret|Utsjoki.secret]] 

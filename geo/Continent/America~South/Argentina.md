@@ -141,8 +141,8 @@ markerFolder: ./Argentina/
 
 ## Confidential Links & Embeds: 
 - [[Argentina|Argentina]] 
-- [[../../../../_internal/geo/Continent/South-America/Argentina.internal.md|Argentina.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Argentina.protect.md|Argentina.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Argentina.private.md|Argentina.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Argentina.personal.md|Argentina.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Argentina.secret.md|Argentina.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Argentina.internal|Argentina.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Argentina.protect|Argentina.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Argentina.private|Argentina.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Argentina.personal|Argentina.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Argentina.secret|Argentina.secret]] 

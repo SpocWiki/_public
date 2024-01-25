@@ -37,8 +37,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Arkansas.md|Arkansas]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Arkansas.internal.md|Arkansas.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Arkansas.protect.md|Arkansas.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Arkansas.private.md|Arkansas.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Arkansas.personal.md|Arkansas.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Arkansas.secret.md|Arkansas.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Arkansas.internal|Arkansas.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Arkansas.protect|Arkansas.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Arkansas.private|Arkansas.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Arkansas.personal|Arkansas.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Arkansas.secret|Arkansas.secret]] 

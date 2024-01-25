@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Melegnano.md|Melegnano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Melegnano.internal.md|Melegnano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Melegnano.protect.md|Melegnano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Melegnano.private.md|Melegnano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Melegnano.personal.md|Melegnano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Melegnano.secret.md|Melegnano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Melegnano.internal|Melegnano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Melegnano.protect|Melegnano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Melegnano.private|Melegnano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Melegnano.personal|Melegnano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Melegnano.secret|Melegnano.secret]] 

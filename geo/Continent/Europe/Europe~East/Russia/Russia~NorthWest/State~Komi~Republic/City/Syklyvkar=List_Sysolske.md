@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.md|Syklyvkar=List_Sysolske]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.internal.md|Syklyvkar=List_Sysolske.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.protect.md|Syklyvkar=List_Sysolske.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.private.md|Syklyvkar=List_Sysolske.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.personal.md|Syklyvkar=List_Sysolske.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.secret.md|Syklyvkar=List_Sysolske.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.internal|Syklyvkar=List_Sysolske.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.protect|Syklyvkar=List_Sysolske.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.private|Syklyvkar=List_Sysolske.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.personal|Syklyvkar=List_Sysolske.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.secret|Syklyvkar=List_Sysolske.secret]] 

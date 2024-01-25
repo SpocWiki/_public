@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Melnik.md|Melnik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Melnik.internal.md|Melnik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Melnik.protect.md|Melnik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Melnik.private.md|Melnik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Melnik.personal.md|Melnik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Melnik.secret.md|Melnik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Melnik.internal|Melnik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Melnik.protect|Melnik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Melnik.private|Melnik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Melnik.personal|Melnik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Melnik.secret|Melnik.secret]] 

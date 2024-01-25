@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Universality-Complexity]
 [SpocWebEntityId::25101]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.md|Triz-Time-Loss+Universality-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.internal.md|Triz-Time-Loss+Universality-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.protect.md|Triz-Time-Loss+Universality-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.private.md|Triz-Time-Loss+Universality-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.personal.md|Triz-Time-Loss+Universality-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.secret.md|Triz-Time-Loss+Universality-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.internal|Triz-Time-Loss+Universality-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.protect|Triz-Time-Loss+Universality-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.private|Triz-Time-Loss+Universality-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.personal|Triz-Time-Loss+Universality-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.secret|Triz-Time-Loss+Universality-Complexity.secret]] 

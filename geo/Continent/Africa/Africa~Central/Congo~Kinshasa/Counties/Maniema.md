@@ -41,9 +41,9 @@ markerFolder: ./Maniema/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.md|Maniema]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.internal.md|Maniema.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.protect.md|Maniema.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.private.md|Maniema.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.personal.md|Maniema.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.secret.md|Maniema.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.internal|Maniema.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.protect|Maniema.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.private|Maniema.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.personal|Maniema.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Maniema.secret|Maniema.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Marsaskala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Marsaskala.md|Marsaskala]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Marsaskala.internal.md|Marsaskala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Marsaskala.protect.md|Marsaskala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Marsaskala.private.md|Marsaskala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Marsaskala.personal.md|Marsaskala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Marsaskala.secret.md|Marsaskala.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Marsaskala.internal|Marsaskala.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Marsaskala.protect|Marsaskala.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Marsaskala.private|Marsaskala.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Marsaskala.personal|Marsaskala.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Marsaskala.secret|Marsaskala.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Extraction-Manufacturing_Precision]
 [SpocWebEntityId::24666]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.md|Triz-Power+Extraction-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.internal.md|Triz-Power+Extraction-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.protect.md|Triz-Power+Extraction-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.private.md|Triz-Power+Extraction-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.personal.md|Triz-Power+Extraction-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.secret.md|Triz-Power+Extraction-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.internal|Triz-Power+Extraction-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.protect|Triz-Power+Extraction-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.private|Triz-Power+Extraction-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.personal|Triz-Power+Extraction-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.secret|Triz-Power+Extraction-Manufacturing_Precision.secret]] 

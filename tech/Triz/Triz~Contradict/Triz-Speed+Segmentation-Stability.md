@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Segmentation-Stability]
 [SpocWebEntityId::23393]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.md|Triz-Speed+Segmentation-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.internal.md|Triz-Speed+Segmentation-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.protect.md|Triz-Speed+Segmentation-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.private.md|Triz-Speed+Segmentation-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.personal.md|Triz-Speed+Segmentation-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.secret.md|Triz-Speed+Segmentation-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.internal|Triz-Speed+Segmentation-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.protect|Triz-Speed+Segmentation-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.private|Triz-Speed+Segmentation-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.personal|Triz-Speed+Segmentation-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.secret|Triz-Speed+Segmentation-Stability.secret]] 

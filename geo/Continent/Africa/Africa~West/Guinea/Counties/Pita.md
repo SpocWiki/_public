@@ -41,9 +41,9 @@ markerFolder: ./Pita/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Pita.md|Pita]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Pita.internal.md|Pita.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Pita.protect.md|Pita.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Pita.private.md|Pita.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Pita.personal.md|Pita.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Pita.secret.md|Pita.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Pita.internal|Pita.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Pita.protect|Pita.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Pita.private|Pita.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Pita.personal|Pita.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Pita.secret|Pita.secret]] 
 

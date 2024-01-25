@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/St.Nicolas.md|St.Nicolas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/St.Nicolas.internal.md|St.Nicolas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/St.Nicolas.protect.md|St.Nicolas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/St.Nicolas.private.md|St.Nicolas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/St.Nicolas.personal.md|St.Nicolas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/St.Nicolas.secret.md|St.Nicolas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/St.Nicolas.internal|St.Nicolas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/St.Nicolas.protect|St.Nicolas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/St.Nicolas.private|St.Nicolas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/St.Nicolas.personal|St.Nicolas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/St.Nicolas.secret|St.Nicolas.secret]] 

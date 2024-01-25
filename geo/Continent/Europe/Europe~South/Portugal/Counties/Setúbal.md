@@ -41,9 +41,9 @@ markerFolder: ./Setúbal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Setúbal.md|Setúbal]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Setúbal.internal.md|Setúbal.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Setúbal.protect.md|Setúbal.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Setúbal.private.md|Setúbal.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Setúbal.personal.md|Setúbal.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Setúbal.secret.md|Setúbal.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Setúbal.internal|Setúbal.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Setúbal.protect|Setúbal.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Setúbal.private|Setúbal.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Setúbal.personal|Setúbal.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Setúbal.secret|Setúbal.secret]] 
 

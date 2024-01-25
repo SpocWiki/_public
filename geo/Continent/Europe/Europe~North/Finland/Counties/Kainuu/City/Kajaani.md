@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kajaani.md|Kajaani]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kajaani.internal.md|Kajaani.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kajaani.protect.md|Kajaani.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kajaani.private.md|Kajaani.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kajaani.personal.md|Kajaani.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kajaani.secret.md|Kajaani.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kajaani.internal|Kajaani.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kajaani.protect|Kajaani.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kajaani.private|Kajaani.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kajaani.personal|Kajaani.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kajaani.secret|Kajaani.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Periodic_action-Temperature]
 [SpocWebEntityId::25527]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.md|Triz-Manufacturing_Precision+Periodic_action-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.internal.md|Triz-Manufacturing_Precision+Periodic_action-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.protect.md|Triz-Manufacturing_Precision+Periodic_action-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.private.md|Triz-Manufacturing_Precision+Periodic_action-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.personal.md|Triz-Manufacturing_Precision+Periodic_action-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.secret.md|Triz-Manufacturing_Precision+Periodic_action-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.internal|Triz-Manufacturing_Precision+Periodic_action-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.protect|Triz-Manufacturing_Precision+Periodic_action-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.private|Triz-Manufacturing_Precision+Periodic_action-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.personal|Triz-Manufacturing_Precision+Periodic_action-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Temperature.secret|Triz-Manufacturing_Precision+Periodic_action-Temperature.secret]] 

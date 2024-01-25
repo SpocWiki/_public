@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Local_quality-Ease_of_repair]
 [SpocWebEntityId::24049]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.md|Triz-Strength+Local_quality-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.internal.md|Triz-Strength+Local_quality-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.protect.md|Triz-Strength+Local_quality-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.private.md|Triz-Strength+Local_quality-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.personal.md|Triz-Strength+Local_quality-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.secret.md|Triz-Strength+Local_quality-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.internal|Triz-Strength+Local_quality-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.protect|Triz-Strength+Local_quality-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.private|Triz-Strength+Local_quality-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.personal|Triz-Strength+Local_quality-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Ease_of_repair.secret|Triz-Strength+Local_quality-Ease_of_repair.secret]] 

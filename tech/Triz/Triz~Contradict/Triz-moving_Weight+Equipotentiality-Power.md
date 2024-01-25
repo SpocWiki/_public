@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Equipotentiality-Power]
 [SpocWebEntityId::22621]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Equipotentiality]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.md|Triz-moving_Weight+Equipotentiality-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.internal.md|Triz-moving_Weight+Equipotentiality-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.protect.md|Triz-moving_Weight+Equipotentiality-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.private.md|Triz-moving_Weight+Equipotentiality-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.personal.md|Triz-moving_Weight+Equipotentiality-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.secret.md|Triz-moving_Weight+Equipotentiality-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.internal|Triz-moving_Weight+Equipotentiality-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.protect|Triz-moving_Weight+Equipotentiality-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.private|Triz-moving_Weight+Equipotentiality-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.personal|Triz-moving_Weight+Equipotentiality-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.secret|Triz-moving_Weight+Equipotentiality-Power.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Mitiaro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.md|Mitiaro]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.internal.md|Mitiaro.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.protect.md|Mitiaro.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.private.md|Mitiaro.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.personal.md|Mitiaro.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.secret.md|Mitiaro.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.internal|Mitiaro.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.protect|Mitiaro.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.private|Mitiaro.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.personal|Mitiaro.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Mitiaro.secret|Mitiaro.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Flexible_film_or_thin_membranes-Speed]
 [SpocWebEntityId::24253]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.md|Triz-Temperature+Flexible_film_or_thin_membranes-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.internal.md|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.protect.md|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.private.md|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.personal.md|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.secret.md|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.internal|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.protect|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.private|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.personal|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Speed.secret|Triz-Temperature+Flexible_film_or_thin_membranes-Speed.secret]] 

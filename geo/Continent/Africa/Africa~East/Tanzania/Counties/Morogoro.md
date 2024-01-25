@@ -41,9 +41,9 @@ markerFolder: ./Morogoro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Morogoro.md|Morogoro]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Morogoro.internal.md|Morogoro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Morogoro.protect.md|Morogoro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Morogoro.private.md|Morogoro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Morogoro.personal.md|Morogoro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Morogoro.secret.md|Morogoro.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Morogoro.internal|Morogoro.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Morogoro.protect|Morogoro.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Morogoro.private|Morogoro.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Morogoro.personal|Morogoro.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Morogoro.secret|Morogoro.secret]] 
 

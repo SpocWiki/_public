@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Schaaken.md|Schaaken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Schaaken.internal.md|Schaaken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Schaaken.protect.md|Schaaken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Schaaken.private.md|Schaaken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Schaaken.personal.md|Schaaken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Schaaken.secret.md|Schaaken.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Schaaken.internal|Schaaken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Schaaken.protect|Schaaken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Schaaken.private|Schaaken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Schaaken.personal|Schaaken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Schaaken.secret|Schaaken.secret]] 

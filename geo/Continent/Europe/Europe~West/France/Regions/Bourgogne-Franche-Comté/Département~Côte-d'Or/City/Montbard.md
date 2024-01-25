@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Montbard.md|Montbard]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montbard.internal.md|Montbard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montbard.protect.md|Montbard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Montbard.private.md|Montbard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montbard.personal.md|Montbard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montbard.secret.md|Montbard.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montbard.internal|Montbard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montbard.protect|Montbard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montbard.private|Montbard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montbard.personal|Montbard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montbard.secret|Montbard.secret]] 

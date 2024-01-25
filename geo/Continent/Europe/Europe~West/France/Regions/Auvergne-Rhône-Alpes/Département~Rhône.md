@@ -41,9 +41,9 @@ markerFolder: ./Département~Rhône/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.md|Département~Rhône]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.internal.md|Département~Rhône.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.protect.md|Département~Rhône.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.private.md|Département~Rhône.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.personal.md|Département~Rhône.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.secret.md|Département~Rhône.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.internal|Département~Rhône.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.protect|Département~Rhône.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.private|Département~Rhône.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.personal|Département~Rhône.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Rhône.secret|Département~Rhône.secret]] 
 

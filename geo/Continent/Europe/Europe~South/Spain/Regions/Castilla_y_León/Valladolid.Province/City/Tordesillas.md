@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Tordesillas.md|Tordesillas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Tordesillas.internal.md|Tordesillas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Tordesillas.protect.md|Tordesillas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Tordesillas.private.md|Tordesillas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Tordesillas.personal.md|Tordesillas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Tordesillas.secret.md|Tordesillas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Tordesillas.internal|Tordesillas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Tordesillas.protect|Tordesillas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Tordesillas.private|Tordesillas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Tordesillas.personal|Tordesillas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Tordesillas.secret|Tordesillas.secret]] 

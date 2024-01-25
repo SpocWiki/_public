@@ -41,9 +41,9 @@ markerFolder: ./Upper_River/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Gambia/Counties/Upper_River.md|Upper_River]] 
-- [[../../../../_internal/geo/Continent/Africa/Gambia/Counties/Upper_River.internal.md|Upper_River.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gambia/Counties/Upper_River.protect.md|Upper_River.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gambia/Counties/Upper_River.private.md|Upper_River.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gambia/Counties/Upper_River.personal.md|Upper_River.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gambia/Counties/Upper_River.secret.md|Upper_River.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Gambia/Counties/Upper_River.internal|Upper_River.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Gambia/Counties/Upper_River.protect|Upper_River.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gambia/Counties/Upper_River.private|Upper_River.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gambia/Counties/Upper_River.personal|Upper_River.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gambia/Counties/Upper_River.secret|Upper_River.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Doui.md|Doui]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Doui.internal.md|Doui.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Doui.protect.md|Doui.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Doui.private.md|Doui.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Doui.personal.md|Doui.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Doui.secret.md|Doui.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Doui.internal|Doui.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Doui.protect|Doui.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Doui.private|Doui.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Doui.personal|Doui.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Doui.secret|Doui.secret]] 

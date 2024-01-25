@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Mildenhall.md|Mildenhall]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Mildenhall.internal.md|Mildenhall.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Mildenhall.protect.md|Mildenhall.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Mildenhall.private.md|Mildenhall.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Mildenhall.personal.md|Mildenhall.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Mildenhall.secret.md|Mildenhall.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Mildenhall.internal|Mildenhall.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Mildenhall.protect|Mildenhall.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Mildenhall.private|Mildenhall.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Mildenhall.personal|Mildenhall.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Mildenhall.secret|Mildenhall.secret]] 

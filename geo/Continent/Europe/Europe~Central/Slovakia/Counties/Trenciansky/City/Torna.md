@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Torna.md|Torna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Torna.internal.md|Torna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Torna.protect.md|Torna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Torna.private.md|Torna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Torna.personal.md|Torna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Torna.secret.md|Torna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Torna.internal|Torna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Torna.protect|Torna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Torna.private|Torna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Torna.personal|Torna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Torna.secret|Torna.secret]] 

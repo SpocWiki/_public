@@ -41,9 +41,9 @@ markerFolder: ./Ouémé/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Benin/Counties/Ouémé.md|Ouémé]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Ouémé.internal.md|Ouémé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Ouémé.protect.md|Ouémé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Ouémé.private.md|Ouémé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Ouémé.personal.md|Ouémé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Ouémé.secret.md|Ouémé.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Ouémé.internal|Ouémé.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Ouémé.protect|Ouémé.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Ouémé.private|Ouémé.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Ouémé.personal|Ouémé.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Ouémé.secret|Ouémé.secret]] 
 

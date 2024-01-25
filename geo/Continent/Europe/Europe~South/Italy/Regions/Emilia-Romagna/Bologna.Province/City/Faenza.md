@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Faenza.md|Faenza]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Faenza.internal.md|Faenza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Faenza.protect.md|Faenza.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Faenza.private.md|Faenza.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Faenza.personal.md|Faenza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Faenza.secret.md|Faenza.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Faenza.internal|Faenza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Faenza.protect|Faenza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Faenza.private|Faenza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Faenza.personal|Faenza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Faenza.secret|Faenza.secret]] 

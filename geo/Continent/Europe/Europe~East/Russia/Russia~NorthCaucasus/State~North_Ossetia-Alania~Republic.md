@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~North_Ossetia-Alania~Republic|State~North_Ossetia-Alania~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.internal|State~North_Ossetia-Alania~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.protect.md|State~North_Ossetia-Alania~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.private.md|State~North_Ossetia-Alania~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.personal.md|State~North_Ossetia-Alania~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.secret.md|State~North_Ossetia-Alania~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.protect|State~North_Ossetia-Alania~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.private|State~North_Ossetia-Alania~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.personal|State~North_Ossetia-Alania~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.secret|State~North_Ossetia-Alania~Republic.secret]] 

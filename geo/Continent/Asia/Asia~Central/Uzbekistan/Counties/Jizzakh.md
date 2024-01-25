@@ -41,9 +41,9 @@ markerFolder: ./Jizzakh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.md|Jizzakh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.internal.md|Jizzakh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.protect.md|Jizzakh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.private.md|Jizzakh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.personal.md|Jizzakh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.secret.md|Jizzakh.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.internal|Jizzakh.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.protect|Jizzakh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.private|Jizzakh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.personal|Jizzakh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.secret|Jizzakh.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ohlau.md|Ohlau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ohlau.internal.md|Ohlau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ohlau.protect.md|Ohlau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ohlau.private.md|Ohlau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ohlau.personal.md|Ohlau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ohlau.secret.md|Ohlau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ohlau.internal|Ohlau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ohlau.protect|Ohlau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ohlau.private|Ohlau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ohlau.personal|Ohlau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ohlau.secret|Ohlau.secret]] 

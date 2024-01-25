@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Barletta.md|Barletta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Barletta.internal.md|Barletta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Barletta.protect.md|Barletta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Barletta.private.md|Barletta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Barletta.personal.md|Barletta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Barletta.secret.md|Barletta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Barletta.internal|Barletta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Barletta.protect|Barletta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Barletta.private|Barletta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Barletta.personal|Barletta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Barletta.secret|Barletta.secret]] 

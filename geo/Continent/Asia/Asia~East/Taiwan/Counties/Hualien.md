@@ -41,9 +41,9 @@ markerFolder: ./Hualien/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.md|Hualien]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.internal.md|Hualien.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.protect.md|Hualien.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.private.md|Hualien.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.personal.md|Hualien.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.secret.md|Hualien.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.internal|Hualien.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.protect|Hualien.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.private|Hualien.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.personal|Hualien.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hualien.secret|Hualien.secret]] 
 

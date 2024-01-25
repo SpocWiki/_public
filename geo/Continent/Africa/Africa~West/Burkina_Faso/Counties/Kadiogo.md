@@ -41,9 +41,9 @@ markerFolder: ./Kadiogo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.md|Kadiogo]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.internal.md|Kadiogo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.protect.md|Kadiogo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.private.md|Kadiogo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.personal.md|Kadiogo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.secret.md|Kadiogo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.internal|Kadiogo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.protect|Kadiogo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.private|Kadiogo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.personal|Kadiogo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.secret|Kadiogo.secret]] 
 

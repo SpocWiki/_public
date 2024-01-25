@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.md|Ragusa=Dubrovnik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.internal.md|Ragusa=Dubrovnik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.protect.md|Ragusa=Dubrovnik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.private.md|Ragusa=Dubrovnik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.personal.md|Ragusa=Dubrovnik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.secret.md|Ragusa=Dubrovnik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.internal|Ragusa=Dubrovnik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.protect|Ragusa=Dubrovnik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.private|Ragusa=Dubrovnik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.personal|Ragusa=Dubrovnik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.secret|Ragusa=Dubrovnik.secret]] 

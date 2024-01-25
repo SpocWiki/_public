@@ -41,9 +41,9 @@ markerFolder: ./Aragatsotn/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.md|Aragatsotn]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.internal.md|Aragatsotn.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.protect.md|Aragatsotn.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.private.md|Aragatsotn.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.personal.md|Aragatsotn.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.secret.md|Aragatsotn.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.internal|Aragatsotn.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.protect|Aragatsotn.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.private|Aragatsotn.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.personal|Aragatsotn.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Aragatsotn.secret|Aragatsotn.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty]
 [SpocWebEntityId::25348]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.md|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.internal.md|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.protect.md|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.private.md|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.personal.md|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.secret.md|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.internal|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.protect|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.private|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.personal|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.secret|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.secret]] 

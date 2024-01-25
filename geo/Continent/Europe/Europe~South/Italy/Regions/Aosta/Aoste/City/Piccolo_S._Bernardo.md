@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.md|Piccolo_S._Bernardo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.internal.md|Piccolo_S._Bernardo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.protect.md|Piccolo_S._Bernardo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.private.md|Piccolo_S._Bernardo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.personal.md|Piccolo_S._Bernardo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.secret.md|Piccolo_S._Bernardo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.internal|Piccolo_S._Bernardo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.protect|Piccolo_S._Bernardo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.private|Piccolo_S._Bernardo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.personal|Piccolo_S._Bernardo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piccolo_S._Bernardo.secret|Piccolo_S._Bernardo.secret]] 

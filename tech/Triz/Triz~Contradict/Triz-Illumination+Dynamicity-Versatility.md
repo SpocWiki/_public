@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Dynamicity-Versatility]
 [SpocWebEntityId::24426]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.md|Triz-Illumination+Dynamicity-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.internal.md|Triz-Illumination+Dynamicity-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.protect.md|Triz-Illumination+Dynamicity-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.private.md|Triz-Illumination+Dynamicity-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.personal.md|Triz-Illumination+Dynamicity-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.secret.md|Triz-Illumination+Dynamicity-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.internal|Triz-Illumination+Dynamicity-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.protect|Triz-Illumination+Dynamicity-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.private|Triz-Illumination+Dynamicity-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.personal|Triz-Illumination+Dynamicity-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Versatility.secret|Triz-Illumination+Dynamicity-Versatility.secret]] 

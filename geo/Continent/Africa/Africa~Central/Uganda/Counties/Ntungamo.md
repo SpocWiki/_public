@@ -41,9 +41,9 @@ markerFolder: ./Ntungamo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Ntungamo.md|Ntungamo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ntungamo.internal.md|Ntungamo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ntungamo.protect.md|Ntungamo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Ntungamo.private.md|Ntungamo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ntungamo.personal.md|Ntungamo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ntungamo.secret.md|Ntungamo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ntungamo.internal|Ntungamo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ntungamo.protect|Ntungamo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Ntungamo.private|Ntungamo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ntungamo.personal|Ntungamo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ntungamo.secret|Ntungamo.secret]] 
 

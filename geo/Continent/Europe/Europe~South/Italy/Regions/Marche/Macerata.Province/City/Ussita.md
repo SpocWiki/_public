@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ussita.md|Ussita]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ussita.internal.md|Ussita.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ussita.protect.md|Ussita.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ussita.private.md|Ussita.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ussita.personal.md|Ussita.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ussita.secret.md|Ussita.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ussita.internal|Ussita.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ussita.protect|Ussita.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ussita.private|Ussita.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ussita.personal|Ussita.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ussita.secret|Ussita.secret]] 

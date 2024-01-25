@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Mikkeli.md|Mikkeli]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Mikkeli.internal.md|Mikkeli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Mikkeli.protect.md|Mikkeli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Mikkeli.private.md|Mikkeli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Mikkeli.personal.md|Mikkeli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Mikkeli.secret.md|Mikkeli.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Mikkeli.internal|Mikkeli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Mikkeli.protect|Mikkeli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Mikkeli.private|Mikkeli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Mikkeli.personal|Mikkeli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Mikkeli.secret|Mikkeli.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Zlínský/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.md|Zlínský]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.internal.md|Zlínský.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.protect.md|Zlínský.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.private.md|Zlínský.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.personal.md|Zlínský.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.secret.md|Zlínský.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.internal|Zlínský.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.protect|Zlínský.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.private|Zlínský.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.personal|Zlínský.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Zlínský.secret|Zlínský.secret]] 
 

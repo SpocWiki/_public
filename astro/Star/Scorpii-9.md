@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Scorpii-9.md|Scorpii-9]] 
-- [[../../../_internal/astro/Star/Scorpii-9.internal.md|Scorpii-9.internal]] 
-- [[../../../_protect/astro/Star/Scorpii-9.protect.md|Scorpii-9.protect]] 
-- [[../../../_private/astro/Star/Scorpii-9.private.md|Scorpii-9.private]] 
-- [[../../../_personal/astro/Star/Scorpii-9.personal.md|Scorpii-9.personal]] 
-- [[../../../_secret/astro/Star/Scorpii-9.secret.md|Scorpii-9.secret]] 
+- [[../../../_internal/astro/Star/Scorpii-9.internal|Scorpii-9.internal]] 
+- [[../../../_protect/astro/Star/Scorpii-9.protect|Scorpii-9.protect]] 
+- [[../../../_private/astro/Star/Scorpii-9.private|Scorpii-9.private]] 
+- [[../../../_personal/astro/Star/Scorpii-9.personal|Scorpii-9.personal]] 
+- [[../../../_secret/astro/Star/Scorpii-9.secret|Scorpii-9.secret]] 

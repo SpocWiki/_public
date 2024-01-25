@@ -41,9 +41,9 @@ markerFolder: ./İsmayıllı/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.md|İsmayıllı]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.internal.md|İsmayıllı.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.protect.md|İsmayıllı.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.private.md|İsmayıllı.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.personal.md|İsmayıllı.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.secret.md|İsmayıllı.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.internal|İsmayıllı.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.protect|İsmayıllı.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.private|İsmayıllı.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.personal|İsmayıllı.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.secret|İsmayıllı.secret]] 
 

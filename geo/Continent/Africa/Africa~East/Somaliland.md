@@ -46,9 +46,9 @@ markerFolder: ./Somaliland//
 
 ## Confidential Links & Embeds: 
 - [[Somaliland|Somaliland]] 
-- [[../../../../_internal/geo/Continent/Africa/Somaliland.internal.md|Somaliland.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somaliland.protect.md|Somaliland.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somaliland.private.md|Somaliland.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somaliland.personal.md|Somaliland.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somaliland.secret.md|Somaliland.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Somaliland.internal|Somaliland.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somaliland.protect|Somaliland.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somaliland.private|Somaliland.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somaliland.personal|Somaliland.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somaliland.secret|Somaliland.secret]] 
 

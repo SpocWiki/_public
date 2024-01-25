@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.md|Reichenberg=Liderec]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.internal.md|Reichenberg=Liderec.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.protect.md|Reichenberg=Liderec.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.private.md|Reichenberg=Liderec.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.personal.md|Reichenberg=Liderec.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.secret.md|Reichenberg=Liderec.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.internal|Reichenberg=Liderec.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.protect|Reichenberg=Liderec.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.private|Reichenberg=Liderec.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.personal|Reichenberg=Liderec.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.secret|Reichenberg=Liderec.secret]] 

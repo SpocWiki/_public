@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Peronne.md|Peronne]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Peronne.internal.md|Peronne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Peronne.protect.md|Peronne.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Peronne.private.md|Peronne.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Peronne.personal.md|Peronne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Peronne.secret.md|Peronne.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Peronne.internal|Peronne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Peronne.protect|Peronne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Peronne.private|Peronne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Peronne.personal|Peronne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Peronne.secret|Peronne.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Haessleby.md|Haessleby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haessleby.internal.md|Haessleby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haessleby.protect.md|Haessleby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Haessleby.private.md|Haessleby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haessleby.personal.md|Haessleby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haessleby.secret.md|Haessleby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haessleby.internal|Haessleby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haessleby.protect|Haessleby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Haessleby.private|Haessleby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haessleby.personal|Haessleby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haessleby.secret|Haessleby.secret]] 

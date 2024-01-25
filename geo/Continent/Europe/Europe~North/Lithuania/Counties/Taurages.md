@@ -41,9 +41,9 @@ markerFolder: ./Taurages/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Taurages.md|Taurages]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Taurages.internal.md|Taurages.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Taurages.protect.md|Taurages.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Taurages.private.md|Taurages.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Taurages.personal.md|Taurages.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Taurages.secret.md|Taurages.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Taurages.internal|Taurages.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Taurages.protect|Taurages.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Taurages.private|Taurages.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Taurages.personal|Taurages.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Taurages.secret|Taurages.secret]] 
 

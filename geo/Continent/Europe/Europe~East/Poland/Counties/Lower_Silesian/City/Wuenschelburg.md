@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wuenschelburg.md|Wuenschelburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wuenschelburg.internal.md|Wuenschelburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wuenschelburg.protect.md|Wuenschelburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wuenschelburg.private.md|Wuenschelburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wuenschelburg.personal.md|Wuenschelburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wuenschelburg.secret.md|Wuenschelburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wuenschelburg.internal|Wuenschelburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wuenschelburg.protect|Wuenschelburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wuenschelburg.private|Wuenschelburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wuenschelburg.personal|Wuenschelburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wuenschelburg.secret|Wuenschelburg.secret]] 

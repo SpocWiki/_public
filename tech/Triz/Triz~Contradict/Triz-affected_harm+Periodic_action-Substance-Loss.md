@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Periodic_action-Substance-Loss]
 [SpocWebEntityId::25663]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.md|Triz-affected_harm+Periodic_action-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.internal.md|Triz-affected_harm+Periodic_action-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.protect.md|Triz-affected_harm+Periodic_action-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.private.md|Triz-affected_harm+Periodic_action-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.personal.md|Triz-affected_harm+Periodic_action-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.secret.md|Triz-affected_harm+Periodic_action-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.internal|Triz-affected_harm+Periodic_action-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.protect|Triz-affected_harm+Periodic_action-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.private|Triz-affected_harm+Periodic_action-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.personal|Triz-affected_harm+Periodic_action-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Substance-Loss.secret|Triz-affected_harm+Periodic_action-Substance-Loss.secret]] 

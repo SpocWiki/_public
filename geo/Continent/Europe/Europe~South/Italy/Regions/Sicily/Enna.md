@@ -41,9 +41,9 @@ markerFolder: ./Enna/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sicily/Enna.md|Enna]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Enna.internal.md|Enna.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Enna.protect.md|Enna.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Enna.private.md|Enna.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Enna.personal.md|Enna.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Enna.secret.md|Enna.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Enna.internal|Enna.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Enna.protect|Enna.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Enna.private|Enna.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Enna.personal|Enna.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Enna.secret|Enna.secret]] 
 

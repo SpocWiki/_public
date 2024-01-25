@@ -41,9 +41,9 @@ markerFolder: ./Jablanicki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Jablanicki.md|Jablanicki]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Jablanicki.internal.md|Jablanicki.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Jablanicki.protect.md|Jablanicki.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Jablanicki.private.md|Jablanicki.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Jablanicki.personal.md|Jablanicki.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Jablanicki.secret.md|Jablanicki.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Jablanicki.internal|Jablanicki.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Jablanicki.protect|Jablanicki.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Jablanicki.private|Jablanicki.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Jablanicki.personal|Jablanicki.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Jablanicki.secret|Jablanicki.secret]] 
 

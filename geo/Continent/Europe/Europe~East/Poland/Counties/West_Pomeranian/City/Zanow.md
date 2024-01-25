@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zanow.md|Zanow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zanow.internal.md|Zanow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zanow.protect.md|Zanow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zanow.private.md|Zanow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zanow.personal.md|Zanow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zanow.secret.md|Zanow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zanow.internal|Zanow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zanow.protect|Zanow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zanow.private|Zanow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zanow.personal|Zanow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zanow.secret|Zanow.secret]] 

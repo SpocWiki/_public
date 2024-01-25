@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Salcava.md|Salcava]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Salcava.internal.md|Salcava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Salcava.protect.md|Salcava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Salcava.private.md|Salcava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Salcava.personal.md|Salcava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Salcava.secret.md|Salcava.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Salcava.internal|Salcava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Salcava.protect|Salcava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Salcava.private|Salcava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Salcava.personal|Salcava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Salcava.secret|Salcava.secret]] 

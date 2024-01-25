@@ -41,9 +41,9 @@ markerFolder: ./Veles/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Veles.md|Veles]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Veles.internal.md|Veles.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Veles.protect.md|Veles.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Veles.private.md|Veles.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Veles.personal.md|Veles.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Veles.secret.md|Veles.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Veles.internal|Veles.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Veles.protect|Veles.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Veles.private|Veles.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Veles.personal|Veles.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Veles.secret|Veles.secret]] 
 

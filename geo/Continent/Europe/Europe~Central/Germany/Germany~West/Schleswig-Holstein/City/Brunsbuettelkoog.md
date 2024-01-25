@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Brunsbuettelkoog|Brunsbuettelkoog]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.internal.md|Brunsbuettelkoog.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.protect.md|Brunsbuettelkoog.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.private.md|Brunsbuettelkoog.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.personal.md|Brunsbuettelkoog.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.secret.md|Brunsbuettelkoog.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.internal|Brunsbuettelkoog.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.protect|Brunsbuettelkoog.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.private|Brunsbuettelkoog.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.personal|Brunsbuettelkoog.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.secret|Brunsbuettelkoog.secret]] 

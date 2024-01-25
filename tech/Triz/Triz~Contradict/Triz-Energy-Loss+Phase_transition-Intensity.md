@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Phase_transition-Intensity]
 [SpocWebEntityId::24730]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.md|Triz-Energy-Loss+Phase_transition-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.internal.md|Triz-Energy-Loss+Phase_transition-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.protect.md|Triz-Energy-Loss+Phase_transition-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.private.md|Triz-Energy-Loss+Phase_transition-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.personal.md|Triz-Energy-Loss+Phase_transition-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.secret.md|Triz-Energy-Loss+Phase_transition-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.internal|Triz-Energy-Loss+Phase_transition-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.protect|Triz-Energy-Loss+Phase_transition-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.private|Triz-Energy-Loss+Phase_transition-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.personal|Triz-Energy-Loss+Phase_transition-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.secret|Triz-Energy-Loss+Phase_transition-Intensity.secret]] 

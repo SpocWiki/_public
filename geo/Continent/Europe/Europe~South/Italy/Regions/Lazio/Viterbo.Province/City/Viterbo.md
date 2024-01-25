@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Viterbo.md|Viterbo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viterbo.internal.md|Viterbo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viterbo.protect.md|Viterbo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viterbo.private.md|Viterbo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viterbo.personal.md|Viterbo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viterbo.secret.md|Viterbo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viterbo.internal|Viterbo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viterbo.protect|Viterbo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viterbo.private|Viterbo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viterbo.personal|Viterbo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viterbo.secret|Viterbo.secret]] 

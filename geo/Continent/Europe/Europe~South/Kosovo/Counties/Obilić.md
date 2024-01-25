@@ -41,9 +41,9 @@ markerFolder: ./Obilić/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Obilić.md|Obilić]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Obilić.internal.md|Obilić.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Obilić.protect.md|Obilić.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Obilić.private.md|Obilić.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Obilić.personal.md|Obilić.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Obilić.secret.md|Obilić.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Obilić.internal|Obilić.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Obilić.protect|Obilić.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Obilić.private|Obilić.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Obilić.personal|Obilić.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Obilić.secret|Obilić.secret]] 
 

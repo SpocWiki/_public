@@ -41,9 +41,9 @@ markerFolder: ./Prahova/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Prahova.md|Prahova]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Prahova.internal.md|Prahova.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Prahova.protect.md|Prahova.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Prahova.private.md|Prahova.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Prahova.personal.md|Prahova.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Prahova.secret.md|Prahova.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Prahova.internal|Prahova.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Prahova.protect|Prahova.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Prahova.private|Prahova.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Prahova.personal|Prahova.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Prahova.secret|Prahova.secret]] 
 

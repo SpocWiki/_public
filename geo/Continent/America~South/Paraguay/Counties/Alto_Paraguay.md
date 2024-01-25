@@ -41,9 +41,9 @@ markerFolder: ./Alto_Paraguay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.md|Alto_Paraguay]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.internal.md|Alto_Paraguay.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.protect.md|Alto_Paraguay.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.private.md|Alto_Paraguay.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.personal.md|Alto_Paraguay.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.secret.md|Alto_Paraguay.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.internal|Alto_Paraguay.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.protect|Alto_Paraguay.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.private|Alto_Paraguay.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.personal|Alto_Paraguay.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Alto_Paraguay.secret|Alto_Paraguay.secret]] 
 

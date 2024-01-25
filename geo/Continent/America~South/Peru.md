@@ -134,8 +134,8 @@ markerFolder: ./Peru/
 
 ## Confidential Links & Embeds: 
 - [[Peru|Peru]] 
-- [[../../../../_internal/geo/Continent/South-America/Peru.internal.md|Peru.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Peru.protect.md|Peru.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Peru.private.md|Peru.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Peru.personal.md|Peru.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Peru.secret.md|Peru.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Peru.internal|Peru.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Peru.protect|Peru.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Peru.private|Peru.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Peru.personal|Peru.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Peru.secret|Peru.secret]] 

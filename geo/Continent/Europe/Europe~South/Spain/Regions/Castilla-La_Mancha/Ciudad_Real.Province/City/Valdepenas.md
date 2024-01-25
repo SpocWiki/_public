@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Valdepenas.md|Valdepenas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Valdepenas.internal.md|Valdepenas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Valdepenas.protect.md|Valdepenas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Valdepenas.private.md|Valdepenas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Valdepenas.personal.md|Valdepenas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Valdepenas.secret.md|Valdepenas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Valdepenas.internal|Valdepenas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Valdepenas.protect|Valdepenas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Valdepenas.private|Valdepenas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Valdepenas.personal|Valdepenas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Valdepenas.secret|Valdepenas.secret]] 

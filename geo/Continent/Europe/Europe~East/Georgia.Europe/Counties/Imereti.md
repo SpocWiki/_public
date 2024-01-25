@@ -41,9 +41,9 @@ markerFolder: ./Imereti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.md|Imereti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.internal.md|Imereti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.protect.md|Imereti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.private.md|Imereti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.personal.md|Imereti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.secret.md|Imereti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.internal|Imereti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.protect|Imereti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.private|Imereti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.personal|Imereti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.secret|Imereti.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Rennes.md|Rennes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Rennes.internal.md|Rennes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Rennes.protect.md|Rennes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Rennes.private.md|Rennes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Rennes.personal.md|Rennes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Rennes.secret.md|Rennes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Rennes.internal|Rennes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Rennes.protect|Rennes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Rennes.private|Rennes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Rennes.personal|Rennes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Rennes.secret|Rennes.secret]] 

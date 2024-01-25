@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Forres.md|Forres]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Forres.internal.md|Forres.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Forres.protect.md|Forres.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Forres.private.md|Forres.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Forres.personal.md|Forres.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Forres.secret.md|Forres.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Forres.internal|Forres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Forres.protect|Forres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Forres.private|Forres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Forres.personal|Forres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Forres.secret|Forres.secret]] 

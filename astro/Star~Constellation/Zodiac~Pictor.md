@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Pictor.md|Zodiac~Pictor]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Pictor.internal.md|Zodiac~Pictor.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Pictor.protect.md|Zodiac~Pictor.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Pictor.private.md|Zodiac~Pictor.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Pictor.personal.md|Zodiac~Pictor.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Pictor.secret.md|Zodiac~Pictor.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Pictor.internal|Zodiac~Pictor.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Pictor.protect|Zodiac~Pictor.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Pictor.private|Zodiac~Pictor.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Pictor.personal|Zodiac~Pictor.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Pictor.secret|Zodiac~Pictor.secret]] 

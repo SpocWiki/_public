@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Chiavari.md|Chiavari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Chiavari.internal.md|Chiavari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Chiavari.protect.md|Chiavari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Chiavari.private.md|Chiavari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Chiavari.personal.md|Chiavari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Chiavari.secret.md|Chiavari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Chiavari.internal|Chiavari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Chiavari.protect|Chiavari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Chiavari.private|Chiavari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Chiavari.personal|Chiavari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Chiavari.secret|Chiavari.secret]] 

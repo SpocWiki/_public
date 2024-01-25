@@ -41,9 +41,9 @@ markerFolder: ./Al_Farwaniyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.md|Al_Farwaniyah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.internal.md|Al_Farwaniyah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.protect.md|Al_Farwaniyah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.private.md|Al_Farwaniyah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.personal.md|Al_Farwaniyah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.secret.md|Al_Farwaniyah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.internal|Al_Farwaniyah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.protect|Al_Farwaniyah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.private|Al_Farwaniyah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.personal|Al_Farwaniyah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.secret|Al_Farwaniyah.secret]] 
 

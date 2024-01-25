@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Capracotta.md|Capracotta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Capracotta.internal.md|Capracotta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Capracotta.protect.md|Capracotta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Capracotta.private.md|Capracotta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Capracotta.personal.md|Capracotta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Capracotta.secret.md|Capracotta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Capracotta.internal|Capracotta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Capracotta.protect|Capracotta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Capracotta.private|Capracotta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Capracotta.personal|Capracotta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Capracotta.secret|Capracotta.secret]] 

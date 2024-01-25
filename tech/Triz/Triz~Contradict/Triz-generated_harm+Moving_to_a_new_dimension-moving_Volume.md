@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Moving_to_a_new_dimension-moving_Volume]
 [SpocWebEntityId::25735]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.md|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.internal.md|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.protect.md|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.private.md|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.personal.md|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.secret.md|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.internal|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.protect|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.private|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.personal|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.secret|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.secret]] 

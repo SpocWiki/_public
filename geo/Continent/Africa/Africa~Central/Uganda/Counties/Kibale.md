@@ -41,9 +41,9 @@ markerFolder: ./Kibale/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kibale.md|Kibale]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kibale.internal.md|Kibale.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kibale.protect.md|Kibale.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kibale.private.md|Kibale.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kibale.personal.md|Kibale.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kibale.secret.md|Kibale.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kibale.internal|Kibale.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kibale.protect|Kibale.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kibale.private|Kibale.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kibale.personal|Kibale.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kibale.secret|Kibale.secret]] 
 

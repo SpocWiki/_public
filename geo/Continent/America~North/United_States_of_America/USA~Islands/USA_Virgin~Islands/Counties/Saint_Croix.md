@@ -41,9 +41,9 @@ markerFolder: ./Saint_Croix/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.md|Saint_Croix]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.internal.md|Saint_Croix.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.protect.md|Saint_Croix.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.private.md|Saint_Croix.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.personal.md|Saint_Croix.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.secret.md|Saint_Croix.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.internal|Saint_Croix.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.protect|Saint_Croix.protect]] 
+- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.private|Saint_Croix.private]] 
+- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.personal|Saint_Croix.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.secret|Saint_Croix.secret]] 
 

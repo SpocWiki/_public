@@ -41,9 +41,9 @@ markerFolder: ./Viterbo.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.md|Viterbo.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.internal.md|Viterbo.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.protect.md|Viterbo.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.private.md|Viterbo.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.personal.md|Viterbo.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.secret.md|Viterbo.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.internal|Viterbo.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.protect|Viterbo.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.private|Viterbo.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.personal|Viterbo.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Viterbo.Province.secret|Viterbo.Province.secret]] 
 

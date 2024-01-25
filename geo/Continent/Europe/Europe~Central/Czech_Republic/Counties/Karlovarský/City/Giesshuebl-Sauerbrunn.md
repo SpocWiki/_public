@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.md|Giesshuebl-Sauerbrunn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.internal.md|Giesshuebl-Sauerbrunn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.protect.md|Giesshuebl-Sauerbrunn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.private.md|Giesshuebl-Sauerbrunn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.personal.md|Giesshuebl-Sauerbrunn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.secret.md|Giesshuebl-Sauerbrunn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.internal|Giesshuebl-Sauerbrunn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.protect|Giesshuebl-Sauerbrunn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.private|Giesshuebl-Sauerbrunn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.personal|Giesshuebl-Sauerbrunn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.secret|Giesshuebl-Sauerbrunn.secret]] 

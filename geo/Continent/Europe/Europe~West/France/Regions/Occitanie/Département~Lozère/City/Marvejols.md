@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Marvejols.md|Marvejols]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Marvejols.internal.md|Marvejols.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Marvejols.protect.md|Marvejols.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Marvejols.private.md|Marvejols.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Marvejols.personal.md|Marvejols.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Marvejols.secret.md|Marvejols.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Marvejols.internal|Marvejols.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Marvejols.protect|Marvejols.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Marvejols.private|Marvejols.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Marvejols.personal|Marvejols.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Marvejols.secret|Marvejols.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Banff.md|Banff]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Banff.internal.md|Banff.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Banff.protect.md|Banff.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Banff.private.md|Banff.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Banff.personal.md|Banff.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Banff.secret.md|Banff.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Banff.internal|Banff.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Banff.protect|Banff.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Banff.private|Banff.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Banff.personal|Banff.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Banff.secret|Banff.secret]] 

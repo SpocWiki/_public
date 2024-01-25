@@ -41,9 +41,9 @@ markerFolder: ./Ubon_Ratchathani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.md|Ubon_Ratchathani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.internal.md|Ubon_Ratchathani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.protect.md|Ubon_Ratchathani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.private.md|Ubon_Ratchathani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.personal.md|Ubon_Ratchathani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.secret.md|Ubon_Ratchathani.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.internal|Ubon_Ratchathani.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.protect|Ubon_Ratchathani.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.private|Ubon_Ratchathani.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.personal|Ubon_Ratchathani.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.secret|Ubon_Ratchathani.secret]] 
 

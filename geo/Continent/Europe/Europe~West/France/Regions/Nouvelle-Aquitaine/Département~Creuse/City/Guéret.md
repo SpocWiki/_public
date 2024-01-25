@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Guéret.md|Guéret]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Guéret.internal.md|Guéret.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Guéret.protect.md|Guéret.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Guéret.private.md|Guéret.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Guéret.personal.md|Guéret.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Guéret.secret.md|Guéret.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Guéret.internal|Guéret.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Guéret.protect|Guéret.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Guéret.private|Guéret.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Guéret.personal|Guéret.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Guéret.secret|Guéret.secret]] 

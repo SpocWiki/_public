@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.md|Campobello_Ravanusa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.internal.md|Campobello_Ravanusa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.protect.md|Campobello_Ravanusa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.private.md|Campobello_Ravanusa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.personal.md|Campobello_Ravanusa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.secret.md|Campobello_Ravanusa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.internal|Campobello_Ravanusa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.protect|Campobello_Ravanusa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.private|Campobello_Ravanusa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.personal|Campobello_Ravanusa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.secret|Campobello_Ravanusa.secret]] 

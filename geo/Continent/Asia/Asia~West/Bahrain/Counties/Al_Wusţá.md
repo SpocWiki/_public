@@ -41,9 +41,9 @@ markerFolder: ./Al_Wusţá/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.md|Al_Wusţá]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.internal.md|Al_Wusţá.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.protect.md|Al_Wusţá.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.private.md|Al_Wusţá.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.personal.md|Al_Wusţá.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.secret.md|Al_Wusţá.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.internal|Al_Wusţá.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.protect|Al_Wusţá.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.private|Al_Wusţá.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.personal|Al_Wusţá.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.secret|Al_Wusţá.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Extraction-Quantity]
 [SpocWebEntityId::26140]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.md|Triz-Ease_of_repair+Extraction-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.internal.md|Triz-Ease_of_repair+Extraction-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.protect.md|Triz-Ease_of_repair+Extraction-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.private.md|Triz-Ease_of_repair+Extraction-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.personal.md|Triz-Ease_of_repair+Extraction-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.secret.md|Triz-Ease_of_repair+Extraction-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.internal|Triz-Ease_of_repair+Extraction-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.protect|Triz-Ease_of_repair+Extraction-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.private|Triz-Ease_of_repair+Extraction-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.personal|Triz-Ease_of_repair+Extraction-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.secret|Triz-Ease_of_repair+Extraction-Quantity.secret]] 

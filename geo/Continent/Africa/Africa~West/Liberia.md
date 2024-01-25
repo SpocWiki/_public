@@ -135,7 +135,7 @@ markerFolder: ./Liberia//
 ## Confidential Links & Embeds: 
 - [[Liberia|Liberia]] 
 - [[../../../../../_internal/geo/Continent/Africa/Liberia.internal|Liberia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia.protect.md|Liberia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia.private.md|Liberia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia.personal.md|Liberia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia.secret.md|Liberia.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia.protect|Liberia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia.private|Liberia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia.personal|Liberia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia.secret|Liberia.secret]] 

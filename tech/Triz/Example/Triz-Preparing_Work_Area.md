@@ -18,8 +18,8 @@ Preparing and cleaning Work Area
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Preparing_Work_Area.md|Triz-Preparing_Work_Area]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Preparing_Work_Area.internal.md|Triz-Preparing_Work_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Preparing_Work_Area.protect.md|Triz-Preparing_Work_Area.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Preparing_Work_Area.private.md|Triz-Preparing_Work_Area.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Preparing_Work_Area.personal.md|Triz-Preparing_Work_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Preparing_Work_Area.secret.md|Triz-Preparing_Work_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Preparing_Work_Area.internal|Triz-Preparing_Work_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Preparing_Work_Area.protect|Triz-Preparing_Work_Area.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Preparing_Work_Area.private|Triz-Preparing_Work_Area.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Preparing_Work_Area.personal|Triz-Preparing_Work_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Preparing_Work_Area.secret|Triz-Preparing_Work_Area.secret]] 

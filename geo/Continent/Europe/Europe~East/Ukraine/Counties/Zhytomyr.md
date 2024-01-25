@@ -41,9 +41,9 @@ markerFolder: ./Zhytomyr/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.md|Zhytomyr]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.internal.md|Zhytomyr.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.protect.md|Zhytomyr.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.private.md|Zhytomyr.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.personal.md|Zhytomyr.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.secret.md|Zhytomyr.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.internal|Zhytomyr.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.protect|Zhytomyr.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.private|Zhytomyr.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.personal|Zhytomyr.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Zhytomyr.secret|Zhytomyr.secret]] 
 

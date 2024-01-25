@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Poligny.md|Poligny]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Poligny.internal.md|Poligny.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Poligny.protect.md|Poligny.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Poligny.private.md|Poligny.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Poligny.personal.md|Poligny.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Poligny.secret.md|Poligny.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Poligny.internal|Poligny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Poligny.protect|Poligny.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Poligny.private|Poligny.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Poligny.personal|Poligny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Poligny.secret|Poligny.secret]] 

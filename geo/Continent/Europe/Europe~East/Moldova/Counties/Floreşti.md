@@ -41,9 +41,9 @@ markerFolder: ./Floreşti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Floreşti.md|Floreşti]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Floreşti.internal.md|Floreşti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Floreşti.protect.md|Floreşti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Floreşti.private.md|Floreşti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Floreşti.personal.md|Floreşti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Floreşti.secret.md|Floreşti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Floreşti.internal|Floreşti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Floreşti.protect|Floreşti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Floreşti.private|Floreşti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Floreşti.personal|Floreşti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Floreşti.secret|Floreşti.secret]] 
 

@@ -36,8 +36,8 @@ markerFolder: ./Sabah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Sabah.md|Sabah]] 
-- [[../../../../_internal/geo/Continent/Asia/Sabah.internal.md|Sabah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Sabah.protect.md|Sabah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Sabah.private.md|Sabah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Sabah.personal.md|Sabah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Sabah.secret.md|Sabah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Sabah.internal|Sabah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Sabah.protect|Sabah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Sabah.private|Sabah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Sabah.personal|Sabah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Sabah.secret|Sabah.secret]] 

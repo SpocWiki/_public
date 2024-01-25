@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ystad.md|Ystad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ystad.internal.md|Ystad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ystad.protect.md|Ystad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ystad.private.md|Ystad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ystad.personal.md|Ystad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ystad.secret.md|Ystad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ystad.internal|Ystad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ystad.protect|Ystad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ystad.private|Ystad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ystad.personal|Ystad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ystad.secret|Ystad.secret]] 

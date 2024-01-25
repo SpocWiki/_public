@@ -41,9 +41,9 @@ markerFolder: ./Ribeira_Brava/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.md|Ribeira_Brava]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.internal.md|Ribeira_Brava.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.protect.md|Ribeira_Brava.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.private.md|Ribeira_Brava.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.personal.md|Ribeira_Brava.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.secret.md|Ribeira_Brava.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.internal|Ribeira_Brava.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.protect|Ribeira_Brava.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.private|Ribeira_Brava.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.personal|Ribeira_Brava.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Brava.secret|Ribeira_Brava.secret]] 
 

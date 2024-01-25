@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kickelhof.md|Kickelhof]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kickelhof.internal.md|Kickelhof.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kickelhof.protect.md|Kickelhof.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kickelhof.private.md|Kickelhof.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kickelhof.personal.md|Kickelhof.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kickelhof.secret.md|Kickelhof.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kickelhof.internal|Kickelhof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kickelhof.protect|Kickelhof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kickelhof.private|Kickelhof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kickelhof.personal|Kickelhof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kickelhof.secret|Kickelhof.secret]] 

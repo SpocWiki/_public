@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Seegutten.md|Seegutten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Seegutten.internal.md|Seegutten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Seegutten.protect.md|Seegutten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Seegutten.private.md|Seegutten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Seegutten.personal.md|Seegutten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Seegutten.secret.md|Seegutten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Seegutten.internal|Seegutten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Seegutten.protect|Seegutten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Seegutten.private|Seegutten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Seegutten.personal|Seegutten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Seegutten.secret|Seegutten.secret]] 

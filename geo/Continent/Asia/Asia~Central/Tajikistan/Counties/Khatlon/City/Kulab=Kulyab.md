@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kulab=Kulyab.md|Kulab=Kulyab]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kulab=Kulyab.internal.md|Kulab=Kulyab.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kulab=Kulyab.protect.md|Kulab=Kulyab.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kulab=Kulyab.private.md|Kulab=Kulyab.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kulab=Kulyab.personal.md|Kulab=Kulyab.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kulab=Kulyab.secret.md|Kulab=Kulyab.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kulab=Kulyab.internal|Kulab=Kulyab.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kulab=Kulyab.protect|Kulab=Kulyab.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kulab=Kulyab.private|Kulab=Kulyab.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kulab=Kulyab.personal|Kulab=Kulyab.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kulab=Kulyab.secret|Kulab=Kulyab.secret]] 

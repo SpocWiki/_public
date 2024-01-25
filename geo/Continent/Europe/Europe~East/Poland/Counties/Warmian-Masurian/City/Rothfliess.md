@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rothfliess.md|Rothfliess]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rothfliess.internal.md|Rothfliess.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rothfliess.protect.md|Rothfliess.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rothfliess.private.md|Rothfliess.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rothfliess.personal.md|Rothfliess.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rothfliess.secret.md|Rothfliess.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rothfliess.internal|Rothfliess.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rothfliess.protect|Rothfliess.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rothfliess.private|Rothfliess.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rothfliess.personal|Rothfliess.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rothfliess.secret|Rothfliess.secret]] 

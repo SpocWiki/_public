@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Punduri.md|Punduri]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Punduri.internal.md|Punduri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Punduri.protect.md|Punduri.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Punduri.private.md|Punduri.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Punduri.personal.md|Punduri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Punduri.secret.md|Punduri.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Punduri.internal|Punduri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Punduri.protect|Punduri.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Punduri.private|Punduri.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Punduri.personal|Punduri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Punduri.secret|Punduri.secret]] 

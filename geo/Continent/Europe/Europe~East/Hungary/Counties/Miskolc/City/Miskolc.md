@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Miskolc.md|Miskolc]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Miskolc.internal.md|Miskolc.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Miskolc.protect.md|Miskolc.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Miskolc.private.md|Miskolc.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Miskolc.personal.md|Miskolc.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Miskolc.secret.md|Miskolc.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Miskolc.internal|Miskolc.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Miskolc.protect|Miskolc.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Miskolc.private|Miskolc.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Miskolc.personal|Miskolc.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Miskolc.secret|Miskolc.secret]] 

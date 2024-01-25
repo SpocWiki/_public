@@ -41,9 +41,9 @@ markerFolder: ./Imtarfa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Imtarfa.md|Imtarfa]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Imtarfa.internal.md|Imtarfa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Imtarfa.protect.md|Imtarfa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Imtarfa.private.md|Imtarfa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Imtarfa.personal.md|Imtarfa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Imtarfa.secret.md|Imtarfa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Imtarfa.internal|Imtarfa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Imtarfa.protect|Imtarfa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Imtarfa.private|Imtarfa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Imtarfa.personal|Imtarfa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Imtarfa.secret|Imtarfa.secret]] 
 

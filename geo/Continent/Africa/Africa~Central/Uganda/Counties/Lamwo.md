@@ -41,9 +41,9 @@ markerFolder: ./Lamwo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Lamwo.md|Lamwo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lamwo.internal.md|Lamwo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lamwo.protect.md|Lamwo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Lamwo.private.md|Lamwo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lamwo.personal.md|Lamwo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lamwo.secret.md|Lamwo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lamwo.internal|Lamwo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lamwo.protect|Lamwo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Lamwo.private|Lamwo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lamwo.personal|Lamwo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lamwo.secret|Lamwo.secret]] 
 

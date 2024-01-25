@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Alghero.md|Alghero]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Alghero.internal.md|Alghero.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Alghero.protect.md|Alghero.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Alghero.private.md|Alghero.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Alghero.personal.md|Alghero.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Alghero.secret.md|Alghero.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Alghero.internal|Alghero.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Alghero.protect|Alghero.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Alghero.private|Alghero.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Alghero.personal|Alghero.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Alghero.secret|Alghero.secret]] 

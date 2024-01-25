@@ -10,8 +10,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/lang/Family/LangFamily-Algonquian.md|LangFamily-Algonquian]] 
-- [[../../../_internal/lang/Family/LangFamily-Algonquian.internal.md|LangFamily-Algonquian.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Algonquian.protect.md|LangFamily-Algonquian.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Algonquian.private.md|LangFamily-Algonquian.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Algonquian.personal.md|LangFamily-Algonquian.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Algonquian.secret.md|LangFamily-Algonquian.secret]] 
+- [[../../../_internal/lang/Family/LangFamily-Algonquian.internal|LangFamily-Algonquian.internal]] 
+- [[../../../_protect/lang/Family/LangFamily-Algonquian.protect|LangFamily-Algonquian.protect]] 
+- [[../../../_private/lang/Family/LangFamily-Algonquian.private|LangFamily-Algonquian.private]] 
+- [[../../../_personal/lang/Family/LangFamily-Algonquian.personal|LangFamily-Algonquian.personal]] 
+- [[../../../_secret/lang/Family/LangFamily-Algonquian.secret|LangFamily-Algonquian.secret]] 

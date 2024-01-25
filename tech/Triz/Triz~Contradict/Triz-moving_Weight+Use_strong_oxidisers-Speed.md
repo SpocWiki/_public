@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Use_strong_oxidisers-Speed]
 [SpocWebEntityId::22585]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.md|Triz-moving_Weight+Use_strong_oxidisers-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.internal.md|Triz-moving_Weight+Use_strong_oxidisers-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.protect.md|Triz-moving_Weight+Use_strong_oxidisers-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.private.md|Triz-moving_Weight+Use_strong_oxidisers-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.personal.md|Triz-moving_Weight+Use_strong_oxidisers-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.secret.md|Triz-moving_Weight+Use_strong_oxidisers-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.internal|Triz-moving_Weight+Use_strong_oxidisers-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.protect|Triz-moving_Weight+Use_strong_oxidisers-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.private|Triz-moving_Weight+Use_strong_oxidisers-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.personal|Triz-moving_Weight+Use_strong_oxidisers-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.secret|Triz-moving_Weight+Use_strong_oxidisers-Speed.secret]] 

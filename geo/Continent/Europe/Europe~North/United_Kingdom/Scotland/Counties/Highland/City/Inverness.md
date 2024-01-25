@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Inverness.md|Inverness]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Inverness.internal.md|Inverness.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Inverness.protect.md|Inverness.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Inverness.private.md|Inverness.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Inverness.personal.md|Inverness.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Inverness.secret.md|Inverness.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Inverness.internal|Inverness.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Inverness.protect|Inverness.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Inverness.private|Inverness.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Inverness.personal|Inverness.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Inverness.secret|Inverness.secret]] 

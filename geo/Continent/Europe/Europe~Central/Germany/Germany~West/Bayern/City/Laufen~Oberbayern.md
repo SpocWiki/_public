@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Laufen~Oberbayern|Laufen~Oberbayern]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.internal.md|Laufen~Oberbayern.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.protect.md|Laufen~Oberbayern.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.private.md|Laufen~Oberbayern.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.personal.md|Laufen~Oberbayern.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.secret.md|Laufen~Oberbayern.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.internal|Laufen~Oberbayern.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.protect|Laufen~Oberbayern.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.private|Laufen~Oberbayern.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.personal|Laufen~Oberbayern.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.secret|Laufen~Oberbayern.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Local_quality-Intensity]
 [SpocWebEntityId::25270]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.md|Triz-Reliability+Local_quality-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.internal.md|Triz-Reliability+Local_quality-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.protect.md|Triz-Reliability+Local_quality-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.private.md|Triz-Reliability+Local_quality-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.personal.md|Triz-Reliability+Local_quality-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.secret.md|Triz-Reliability+Local_quality-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.internal|Triz-Reliability+Local_quality-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.protect|Triz-Reliability+Local_quality-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.private|Triz-Reliability+Local_quality-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.personal|Triz-Reliability+Local_quality-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.secret|Triz-Reliability+Local_quality-Intensity.secret]] 

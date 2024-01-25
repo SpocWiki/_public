@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dumbarton.md|Dumbarton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dumbarton.internal.md|Dumbarton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dumbarton.protect.md|Dumbarton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dumbarton.private.md|Dumbarton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dumbarton.personal.md|Dumbarton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dumbarton.secret.md|Dumbarton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dumbarton.internal|Dumbarton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dumbarton.protect|Dumbarton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dumbarton.private|Dumbarton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dumbarton.personal|Dumbarton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dumbarton.secret|Dumbarton.secret]] 

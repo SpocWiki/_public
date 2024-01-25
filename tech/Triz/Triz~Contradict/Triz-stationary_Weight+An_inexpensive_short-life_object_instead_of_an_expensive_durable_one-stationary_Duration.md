@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration]
 [SpocWebEntityId::22729]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.md|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.internal.md|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.protect.md|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.private.md|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.personal.md|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.secret.md|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.internal|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.protect|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.private|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.personal|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.secret|Triz-stationary_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration.secret]] 

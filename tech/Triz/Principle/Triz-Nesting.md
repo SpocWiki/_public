@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Nesting.md|Triz-Nesting]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Nesting.internal.md|Triz-Nesting.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Nesting.protect.md|Triz-Nesting.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Nesting.private.md|Triz-Nesting.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Nesting.personal.md|Triz-Nesting.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Nesting.secret.md|Triz-Nesting.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Nesting.internal|Triz-Nesting.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Nesting.protect|Triz-Nesting.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Nesting.private|Triz-Nesting.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Nesting.personal|Triz-Nesting.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Nesting.secret|Triz-Nesting.secret]] 

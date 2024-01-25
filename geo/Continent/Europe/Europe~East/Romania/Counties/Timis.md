@@ -41,9 +41,9 @@ markerFolder: ./Timis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Timis.md|Timis]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Timis.internal.md|Timis.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Timis.protect.md|Timis.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Timis.private.md|Timis.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Timis.personal.md|Timis.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Timis.secret.md|Timis.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Timis.internal|Timis.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Timis.protect|Timis.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Timis.private|Timis.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Timis.personal|Timis.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Timis.secret|Timis.secret]] 
 

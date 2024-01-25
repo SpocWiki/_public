@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Changing_the_color-Power]
 [SpocWebEntityId::25533]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.md|Triz-Manufacturing_Precision+Changing_the_color-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.internal.md|Triz-Manufacturing_Precision+Changing_the_color-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.protect.md|Triz-Manufacturing_Precision+Changing_the_color-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.private.md|Triz-Manufacturing_Precision+Changing_the_color-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.personal.md|Triz-Manufacturing_Precision+Changing_the_color-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.secret.md|Triz-Manufacturing_Precision+Changing_the_color-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.internal|Triz-Manufacturing_Precision+Changing_the_color-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.protect|Triz-Manufacturing_Precision+Changing_the_color-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.private|Triz-Manufacturing_Precision+Changing_the_color-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.personal|Triz-Manufacturing_Precision+Changing_the_color-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Power.secret|Triz-Manufacturing_Precision+Changing_the_color-Power.secret]] 

@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.md|Triz-Replacement_of_a_mechanical_system]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.internal.md|Triz-Replacement_of_a_mechanical_system.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.protect.md|Triz-Replacement_of_a_mechanical_system.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.private.md|Triz-Replacement_of_a_mechanical_system.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.personal.md|Triz-Replacement_of_a_mechanical_system.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.secret.md|Triz-Replacement_of_a_mechanical_system.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.internal|Triz-Replacement_of_a_mechanical_system.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.protect|Triz-Replacement_of_a_mechanical_system.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.private|Triz-Replacement_of_a_mechanical_system.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.personal|Triz-Replacement_of_a_mechanical_system.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.secret|Triz-Replacement_of_a_mechanical_system.secret]] 

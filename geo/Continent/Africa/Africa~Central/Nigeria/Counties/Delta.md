@@ -41,9 +41,9 @@ markerFolder: ./Delta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Delta.md|Delta]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Delta.internal.md|Delta.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Delta.protect.md|Delta.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Delta.private.md|Delta.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Delta.personal.md|Delta.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Delta.secret.md|Delta.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Delta.internal|Delta.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Delta.protect|Delta.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Delta.private|Delta.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Delta.personal|Delta.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Delta.secret|Delta.secret]] 
 

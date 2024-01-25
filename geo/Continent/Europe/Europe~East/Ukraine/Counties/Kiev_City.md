@@ -41,9 +41,9 @@ markerFolder: ./Kiev_City/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Kiev_City.md|Kiev_City]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Kiev_City.internal.md|Kiev_City.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Kiev_City.protect.md|Kiev_City.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Kiev_City.private.md|Kiev_City.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Kiev_City.personal.md|Kiev_City.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Kiev_City.secret.md|Kiev_City.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Kiev_City.internal|Kiev_City.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Kiev_City.protect|Kiev_City.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Kiev_City.private|Kiev_City.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Kiev_City.personal|Kiev_City.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Kiev_City.secret|Kiev_City.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Salzbrunn.md|Salzbrunn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Salzbrunn.internal.md|Salzbrunn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Salzbrunn.protect.md|Salzbrunn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Salzbrunn.private.md|Salzbrunn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Salzbrunn.personal.md|Salzbrunn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Salzbrunn.secret.md|Salzbrunn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Salzbrunn.internal|Salzbrunn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Salzbrunn.protect|Salzbrunn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Salzbrunn.private|Salzbrunn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Salzbrunn.personal|Salzbrunn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Salzbrunn.secret|Salzbrunn.secret]] 

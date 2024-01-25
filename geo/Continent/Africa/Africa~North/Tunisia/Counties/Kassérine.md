@@ -41,9 +41,9 @@ markerFolder: ./Kassérine/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Kassérine.md|Kassérine]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kassérine.internal.md|Kassérine.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kassérine.protect.md|Kassérine.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kassérine.private.md|Kassérine.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kassérine.personal.md|Kassérine.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kassérine.secret.md|Kassérine.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kassérine.internal|Kassérine.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kassérine.protect|Kassérine.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kassérine.private|Kassérine.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kassérine.personal|Kassérine.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kassérine.secret|Kassérine.secret]] 
 

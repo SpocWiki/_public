@@ -41,9 +41,9 @@ markerFolder: ./Grenadines/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.md|Grenadines]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal.md|Grenadines.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect.md|Grenadines.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.private.md|Grenadines.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal.md|Grenadines.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret.md|Grenadines.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal|Grenadines.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect|Grenadines.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.private|Grenadines.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal|Grenadines.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret|Grenadines.secret]] 
 

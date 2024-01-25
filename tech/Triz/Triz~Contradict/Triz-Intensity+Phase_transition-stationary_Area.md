@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Phase_transition-stationary_Area]
 [SpocWebEntityId::23496]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.md|Triz-Intensity+Phase_transition-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.internal.md|Triz-Intensity+Phase_transition-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.protect.md|Triz-Intensity+Phase_transition-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.private.md|Triz-Intensity+Phase_transition-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.personal.md|Triz-Intensity+Phase_transition-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.secret.md|Triz-Intensity+Phase_transition-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.internal|Triz-Intensity+Phase_transition-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.protect|Triz-Intensity+Phase_transition-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.private|Triz-Intensity+Phase_transition-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.personal|Triz-Intensity+Phase_transition-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-stationary_Area.secret|Triz-Intensity+Phase_transition-stationary_Area.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Copying-Measurement_Accuracy]
 [SpocWebEntityId::26506]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.md|Triz-Difficulty+Copying-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.internal.md|Triz-Difficulty+Copying-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.protect.md|Triz-Difficulty+Copying-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.private.md|Triz-Difficulty+Copying-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.personal.md|Triz-Difficulty+Copying-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.secret.md|Triz-Difficulty+Copying-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.internal|Triz-Difficulty+Copying-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.protect|Triz-Difficulty+Copying-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.private|Triz-Difficulty+Copying-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.personal|Triz-Difficulty+Copying-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Copying-Measurement_Accuracy.secret|Triz-Difficulty+Copying-Measurement_Accuracy.secret]] 

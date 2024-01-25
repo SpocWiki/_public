@@ -38,8 +38,8 @@ SpocWebEntityId: 21965
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Thulium.md|Thulium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Thulium.internal.md|Thulium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Thulium.protect.md|Thulium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Thulium.private.md|Thulium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Thulium.personal.md|Thulium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Thulium.secret.md|Thulium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Thulium.internal|Thulium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Thulium.protect|Thulium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Thulium.private|Thulium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Thulium.personal|Thulium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Thulium.secret|Thulium.secret]] 

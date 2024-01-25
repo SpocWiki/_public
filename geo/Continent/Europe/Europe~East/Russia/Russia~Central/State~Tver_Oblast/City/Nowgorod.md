@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nowgorod.md|Nowgorod]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowgorod.internal.md|Nowgorod.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowgorod.protect.md|Nowgorod.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nowgorod.private.md|Nowgorod.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowgorod.personal.md|Nowgorod.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowgorod.secret.md|Nowgorod.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowgorod.internal|Nowgorod.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowgorod.protect|Nowgorod.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nowgorod.private|Nowgorod.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowgorod.personal|Nowgorod.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowgorod.secret|Nowgorod.secret]] 

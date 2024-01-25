@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Dudweiler|Dudweiler]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.internal.md|Dudweiler.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.protect.md|Dudweiler.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.private.md|Dudweiler.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.personal.md|Dudweiler.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.secret.md|Dudweiler.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.internal|Dudweiler.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.protect|Dudweiler.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.private|Dudweiler.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.personal|Dudweiler.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Dudweiler.secret|Dudweiler.secret]] 

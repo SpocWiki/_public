@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Almaty_City
+- Alma Ata
 
 Languages:
 - de
@@ -41,9 +41,9 @@ markerFolder: ./Almaty_City/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.md|Almaty_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.internal.md|Almaty_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.protect.md|Almaty_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.private.md|Almaty_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.personal.md|Almaty_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.secret.md|Almaty_City.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.internal|Almaty_City.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.protect|Almaty_City.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.private|Almaty_City.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.personal|Almaty_City.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.secret|Almaty_City.secret]] 
 

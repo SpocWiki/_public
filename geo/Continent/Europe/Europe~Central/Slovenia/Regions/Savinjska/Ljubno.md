@@ -41,9 +41,9 @@ markerFolder: ./Ljubno/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.md|Ljubno]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.internal.md|Ljubno.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.protect.md|Ljubno.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.private.md|Ljubno.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.personal.md|Ljubno.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.secret.md|Ljubno.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.internal|Ljubno.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.protect|Ljubno.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.private|Ljubno.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.personal|Ljubno.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Ljubno.secret|Ljubno.secret]] 
 

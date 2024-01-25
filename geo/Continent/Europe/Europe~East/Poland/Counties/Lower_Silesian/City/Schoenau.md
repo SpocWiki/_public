@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schoenau.md|Schoenau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenau.internal.md|Schoenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenau.protect.md|Schoenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenau.private.md|Schoenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenau.personal.md|Schoenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenau.secret.md|Schoenau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenau.internal|Schoenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenau.protect|Schoenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenau.private|Schoenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenau.personal|Schoenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenau.secret|Schoenau.secret]] 

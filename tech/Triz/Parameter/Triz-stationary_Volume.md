@@ -18,8 +18,8 @@ Volume of stationary object
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Volume.md|Triz-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Volume.internal.md|Triz-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-stationary_Volume.protect.md|Triz-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-stationary_Volume.private.md|Triz-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-stationary_Volume.personal.md|Triz-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-stationary_Volume.secret.md|Triz-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Volume.internal|Triz-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-stationary_Volume.protect|Triz-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-stationary_Volume.private|Triz-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-stationary_Volume.personal|Triz-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-stationary_Volume.secret|Triz-stationary_Volume.secret]] 

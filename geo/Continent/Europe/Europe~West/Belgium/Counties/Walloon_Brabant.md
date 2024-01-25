@@ -41,9 +41,9 @@ markerFolder: ./Walloon_Brabant/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.md|Walloon_Brabant]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.internal.md|Walloon_Brabant.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.protect.md|Walloon_Brabant.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.private.md|Walloon_Brabant.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.personal.md|Walloon_Brabant.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.secret.md|Walloon_Brabant.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.internal|Walloon_Brabant.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.protect|Walloon_Brabant.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.private|Walloon_Brabant.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.personal|Walloon_Brabant.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Walloon_Brabant.secret|Walloon_Brabant.secret]] 
 

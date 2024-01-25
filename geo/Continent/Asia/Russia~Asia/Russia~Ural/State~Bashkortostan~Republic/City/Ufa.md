@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ufa.md|Ufa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ufa.internal.md|Ufa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ufa.protect.md|Ufa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ufa.private.md|Ufa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ufa.personal.md|Ufa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ufa.secret.md|Ufa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ufa.internal|Ufa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ufa.protect|Ufa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ufa.private|Ufa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ufa.personal|Ufa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ufa.secret|Ufa.secret]] 

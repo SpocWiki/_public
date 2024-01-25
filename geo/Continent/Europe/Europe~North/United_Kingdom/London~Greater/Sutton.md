@@ -34,8 +34,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.md|Sutton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.internal.md|Sutton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.protect.md|Sutton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.private.md|Sutton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.personal.md|Sutton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.secret.md|Sutton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.internal|Sutton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.protect|Sutton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.private|Sutton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.personal|Sutton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.secret|Sutton.secret]] 

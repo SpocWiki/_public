@@ -137,7 +137,7 @@ markerFolder: ./Bahrain/
 ## Confidential Links & Embeds: 
 -[[Bahrain|Bahrain]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Bahrain.internal|Bahrain.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Bahrain.protect.md|Bahrain.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Bahrain.private.md|Bahrain.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Bahrain.personal.md|Bahrain.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Bahrain.secret.md|Bahrain.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Bahrain.protect|Bahrain.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Bahrain.private|Bahrain.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Bahrain.personal|Bahrain.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Bahrain.secret|Bahrain.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ningxia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.md|Ningxia]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.internal.md|Ningxia.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.protect.md|Ningxia.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.private.md|Ningxia.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.personal.md|Ningxia.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.secret.md|Ningxia.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.internal|Ningxia.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.protect|Ningxia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.private|Ningxia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.personal|Ningxia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.secret|Ningxia.secret]] 
 

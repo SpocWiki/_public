@@ -41,9 +41,9 @@ markerFolder: ./Guéckédou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Guéckédou.md|Guéckédou]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Guéckédou.internal.md|Guéckédou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Guéckédou.protect.md|Guéckédou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Guéckédou.private.md|Guéckédou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Guéckédou.personal.md|Guéckédou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Guéckédou.secret.md|Guéckédou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Guéckédou.internal|Guéckédou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Guéckédou.protect|Guéckédou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Guéckédou.private|Guéckédou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Guéckédou.personal|Guéckédou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Guéckédou.secret|Guéckédou.secret]] 
 

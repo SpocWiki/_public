@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Casamari.md|Casamari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Casamari.internal.md|Casamari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Casamari.protect.md|Casamari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Casamari.private.md|Casamari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Casamari.personal.md|Casamari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Casamari.secret.md|Casamari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Casamari.internal|Casamari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Casamari.protect|Casamari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Casamari.private|Casamari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Casamari.personal|Casamari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Casamari.secret|Casamari.secret]] 

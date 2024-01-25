@@ -41,9 +41,9 @@ markerFolder: ./Lubusz/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/Lubusz.md|Lubusz]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Lubusz.internal.md|Lubusz.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Lubusz.protect.md|Lubusz.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Lubusz.private.md|Lubusz.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Lubusz.personal.md|Lubusz.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Lubusz.secret.md|Lubusz.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Lubusz.internal|Lubusz.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Lubusz.protect|Lubusz.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Lubusz.private|Lubusz.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Lubusz.personal|Lubusz.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Lubusz.secret|Lubusz.secret]] 
 

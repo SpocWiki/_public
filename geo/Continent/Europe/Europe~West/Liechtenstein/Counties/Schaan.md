@@ -41,9 +41,9 @@ markerFolder: ./Schaan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Schaan.md|Schaan]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Schaan.internal.md|Schaan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Schaan.protect.md|Schaan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Schaan.private.md|Schaan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Schaan.personal.md|Schaan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Schaan.secret.md|Schaan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Schaan.internal|Schaan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Schaan.protect|Schaan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Schaan.private|Schaan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Schaan.personal|Schaan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Schaan.secret|Schaan.secret]] 
 

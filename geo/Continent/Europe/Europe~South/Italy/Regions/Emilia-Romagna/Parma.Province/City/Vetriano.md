@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Vetriano.md|Vetriano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vetriano.internal.md|Vetriano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vetriano.protect.md|Vetriano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vetriano.private.md|Vetriano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vetriano.personal.md|Vetriano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vetriano.secret.md|Vetriano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vetriano.internal|Vetriano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vetriano.protect|Vetriano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vetriano.private|Vetriano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vetriano.personal|Vetriano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vetriano.secret|Vetriano.secret]] 

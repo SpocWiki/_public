@@ -41,9 +41,9 @@ markerFolder: ./Bulambuli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bulambuli.md|Bulambuli]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bulambuli.internal.md|Bulambuli.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bulambuli.protect.md|Bulambuli.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bulambuli.private.md|Bulambuli.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bulambuli.personal.md|Bulambuli.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bulambuli.secret.md|Bulambuli.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bulambuli.internal|Bulambuli.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bulambuli.protect|Bulambuli.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bulambuli.private|Bulambuli.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bulambuli.personal|Bulambuli.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bulambuli.secret|Bulambuli.secret]] 
 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Markab.md|Markab]] 
-- [[../../../_internal/astro/Star/Markab.internal.md|Markab.internal]] 
-- [[../../../_protect/astro/Star/Markab.protect.md|Markab.protect]] 
-- [[../../../_private/astro/Star/Markab.private.md|Markab.private]] 
-- [[../../../_personal/astro/Star/Markab.personal.md|Markab.personal]] 
-- [[../../../_secret/astro/Star/Markab.secret.md|Markab.secret]] 
+- [[../../../_internal/astro/Star/Markab.internal|Markab.internal]] 
+- [[../../../_protect/astro/Star/Markab.protect|Markab.protect]] 
+- [[../../../_private/astro/Star/Markab.private|Markab.private]] 
+- [[../../../_personal/astro/Star/Markab.personal|Markab.personal]] 
+- [[../../../_secret/astro/Star/Markab.secret|Markab.secret]] 

@@ -18,8 +18,8 @@ The basic Leaf Spring Thermostat: BiMetal(2 Metals with different Coefficients o
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-BiMetal_Spring.md|Triz-BiMetal_Spring]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-BiMetal_Spring.internal.md|Triz-BiMetal_Spring.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-BiMetal_Spring.protect.md|Triz-BiMetal_Spring.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-BiMetal_Spring.private.md|Triz-BiMetal_Spring.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-BiMetal_Spring.personal.md|Triz-BiMetal_Spring.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-BiMetal_Spring.secret.md|Triz-BiMetal_Spring.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-BiMetal_Spring.internal|Triz-BiMetal_Spring.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-BiMetal_Spring.protect|Triz-BiMetal_Spring.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-BiMetal_Spring.private|Triz-BiMetal_Spring.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-BiMetal_Spring.personal|Triz-BiMetal_Spring.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-BiMetal_Spring.secret|Triz-BiMetal_Spring.secret]] 

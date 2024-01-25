@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Frankfurt-Rödelheim|S-Frankfurt-Rödelheim]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.internal.md|S-Frankfurt-Rödelheim.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.protect.md|S-Frankfurt-Rödelheim.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.private.md|S-Frankfurt-Rödelheim.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.personal.md|S-Frankfurt-Rödelheim.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.secret.md|S-Frankfurt-Rödelheim.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.internal|S-Frankfurt-Rödelheim.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.protect|S-Frankfurt-Rödelheim.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.private|S-Frankfurt-Rödelheim.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.personal|S-Frankfurt-Rödelheim.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Rödelheim.secret|S-Frankfurt-Rödelheim.secret]] 

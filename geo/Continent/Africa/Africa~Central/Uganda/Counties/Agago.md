@@ -41,9 +41,9 @@ markerFolder: ./Agago/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Agago.md|Agago]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Agago.internal.md|Agago.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Agago.protect.md|Agago.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Agago.private.md|Agago.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Agago.personal.md|Agago.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Agago.secret.md|Agago.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Agago.internal|Agago.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Agago.protect|Agago.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Agago.private|Agago.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Agago.personal|Agago.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Agago.secret|Agago.secret]] 
 

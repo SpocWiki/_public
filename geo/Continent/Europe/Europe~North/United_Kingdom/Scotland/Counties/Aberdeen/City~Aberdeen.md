@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Aberdeen|City~Aberdeen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.internal.md|Aberdeen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.protect.md|Aberdeen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.private.md|Aberdeen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.personal.md|Aberdeen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.secret.md|Aberdeen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.internal|Aberdeen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.protect|Aberdeen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.private|Aberdeen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.personal|Aberdeen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.secret|Aberdeen.secret]] 

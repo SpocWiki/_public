@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Prior_action-Substance-Loss]
 [SpocWebEntityId::25308]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.md|Triz-Reliability+Prior_action-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.internal.md|Triz-Reliability+Prior_action-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.protect.md|Triz-Reliability+Prior_action-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.private.md|Triz-Reliability+Prior_action-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.personal.md|Triz-Reliability+Prior_action-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.secret.md|Triz-Reliability+Prior_action-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.internal|Triz-Reliability+Prior_action-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.protect|Triz-Reliability+Prior_action-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.private|Triz-Reliability+Prior_action-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.personal|Triz-Reliability+Prior_action-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Prior_action-Substance-Loss.secret|Triz-Reliability+Prior_action-Substance-Loss.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Nairobi.County/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Nairobi.County.md|Nairobi.County]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Nairobi.County.internal.md|Nairobi.County.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Nairobi.County.protect.md|Nairobi.County.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Nairobi.County.private.md|Nairobi.County.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Nairobi.County.personal.md|Nairobi.County.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Nairobi.County.secret.md|Nairobi.County.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Nairobi.County.internal|Nairobi.County.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Nairobi.County.protect|Nairobi.County.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Nairobi.County.private|Nairobi.County.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Nairobi.County.personal|Nairobi.County.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Nairobi.County.secret|Nairobi.County.secret]] 
 

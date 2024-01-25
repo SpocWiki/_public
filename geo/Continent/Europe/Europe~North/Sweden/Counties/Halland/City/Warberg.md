@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Warberg.md|Warberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Warberg.internal.md|Warberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Warberg.protect.md|Warberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Warberg.private.md|Warberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Warberg.personal.md|Warberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Warberg.secret.md|Warberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Warberg.internal|Warberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Warberg.protect|Warberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Warberg.private|Warberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Warberg.personal|Warberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Warberg.secret|Warberg.secret]] 

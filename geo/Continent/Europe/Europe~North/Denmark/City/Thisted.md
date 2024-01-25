@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Thisted.md|Thisted]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Thisted.internal.md|Thisted.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Thisted.protect.md|Thisted.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Thisted.private.md|Thisted.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Thisted.personal.md|Thisted.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Thisted.secret.md|Thisted.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Thisted.internal|Thisted.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Thisted.protect|Thisted.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Thisted.private|Thisted.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Thisted.personal|Thisted.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Thisted.secret|Thisted.secret]] 

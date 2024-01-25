@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Asymmetry-Speed]
 [SpocWebEntityId::26435]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.md|Triz-Difficulty+Asymmetry-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.internal.md|Triz-Difficulty+Asymmetry-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.protect.md|Triz-Difficulty+Asymmetry-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.private.md|Triz-Difficulty+Asymmetry-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.personal.md|Triz-Difficulty+Asymmetry-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.secret.md|Triz-Difficulty+Asymmetry-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.internal|Triz-Difficulty+Asymmetry-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.protect|Triz-Difficulty+Asymmetry-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.private|Triz-Difficulty+Asymmetry-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.personal|Triz-Difficulty+Asymmetry-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.secret|Triz-Difficulty+Asymmetry-Speed.secret]] 

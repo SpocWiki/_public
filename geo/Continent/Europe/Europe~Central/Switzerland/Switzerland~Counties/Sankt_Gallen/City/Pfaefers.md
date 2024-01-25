@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Pfaefers.md|Pfaefers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Pfaefers.internal.md|Pfaefers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Pfaefers.protect.md|Pfaefers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Pfaefers.private.md|Pfaefers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Pfaefers.personal.md|Pfaefers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Pfaefers.secret.md|Pfaefers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Pfaefers.internal|Pfaefers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Pfaefers.protect|Pfaefers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Pfaefers.private|Pfaefers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Pfaefers.personal|Pfaefers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Pfaefers.secret|Pfaefers.secret]] 

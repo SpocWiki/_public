@@ -41,9 +41,9 @@ markerFolder: ./Takamaka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Takamaka.md|Takamaka]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Takamaka.internal.md|Takamaka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Takamaka.protect.md|Takamaka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Takamaka.private.md|Takamaka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Takamaka.personal.md|Takamaka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Takamaka.secret.md|Takamaka.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Takamaka.internal|Takamaka.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Takamaka.protect|Takamaka.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Takamaka.private|Takamaka.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Takamaka.personal|Takamaka.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Takamaka.secret|Takamaka.secret]] 
 

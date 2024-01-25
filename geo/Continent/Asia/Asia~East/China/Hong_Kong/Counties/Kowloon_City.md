@@ -41,9 +41,9 @@ markerFolder: ./Kowloon_City/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.md|Kowloon_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.internal.md|Kowloon_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.protect.md|Kowloon_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.private.md|Kowloon_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.personal.md|Kowloon_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.secret.md|Kowloon_City.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.internal|Kowloon_City.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.protect|Kowloon_City.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.private|Kowloon_City.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.personal|Kowloon_City.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kowloon_City.secret|Kowloon_City.secret]] 
 

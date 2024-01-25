@@ -41,9 +41,9 @@ markerFolder: ./Jaén/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.md|Jaén]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.internal.md|Jaén.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.protect.md|Jaén.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.private.md|Jaén.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.personal.md|Jaén.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.secret.md|Jaén.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.internal|Jaén.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.protect|Jaén.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.private|Jaén.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.personal|Jaén.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Jaén.secret|Jaén.secret]] 
 

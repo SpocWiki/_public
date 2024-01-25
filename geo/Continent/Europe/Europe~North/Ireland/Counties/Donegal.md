@@ -41,9 +41,9 @@ markerFolder: ./Donegal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Donegal.md|Donegal]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Donegal.internal.md|Donegal.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Donegal.protect.md|Donegal.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Donegal.private.md|Donegal.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Donegal.personal.md|Donegal.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Donegal.secret.md|Donegal.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Donegal.internal|Donegal.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Donegal.protect|Donegal.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Donegal.private|Donegal.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Donegal.personal|Donegal.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Donegal.secret|Donegal.secret]] 
 

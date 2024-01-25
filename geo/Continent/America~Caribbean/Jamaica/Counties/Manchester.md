@@ -41,9 +41,9 @@ markerFolder: ./Manchester/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.md|Manchester]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.internal.md|Manchester.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.protect.md|Manchester.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.private.md|Manchester.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.personal.md|Manchester.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.secret.md|Manchester.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.internal|Manchester.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.protect|Manchester.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.private|Manchester.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.personal|Manchester.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.secret|Manchester.secret]] 
 

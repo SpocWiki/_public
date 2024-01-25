@@ -41,9 +41,9 @@ markerFolder: ./Kouroussa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Kouroussa.md|Kouroussa]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kouroussa.internal.md|Kouroussa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kouroussa.protect.md|Kouroussa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Kouroussa.private.md|Kouroussa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kouroussa.personal.md|Kouroussa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kouroussa.secret.md|Kouroussa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kouroussa.internal|Kouroussa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kouroussa.protect|Kouroussa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Kouroussa.private|Kouroussa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kouroussa.personal|Kouroussa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kouroussa.secret|Kouroussa.secret]] 
 

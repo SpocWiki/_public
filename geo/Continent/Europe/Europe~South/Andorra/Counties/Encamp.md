@@ -41,9 +41,9 @@ markerFolder: ./Encamp/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Andorra/Counties/Encamp.md|Encamp]] 
-- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Encamp.internal.md|Encamp.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Encamp.protect.md|Encamp.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Encamp.private.md|Encamp.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Encamp.personal.md|Encamp.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Encamp.secret.md|Encamp.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Encamp.internal|Encamp.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Encamp.protect|Encamp.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Encamp.private|Encamp.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Encamp.personal|Encamp.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Encamp.secret|Encamp.secret]] 
 

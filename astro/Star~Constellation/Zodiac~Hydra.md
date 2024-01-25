@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Hydra.md|Zodiac~Hydra]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Hydra.internal.md|Zodiac~Hydra.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Hydra.protect.md|Zodiac~Hydra.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Hydra.private.md|Zodiac~Hydra.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Hydra.personal.md|Zodiac~Hydra.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Hydra.secret.md|Zodiac~Hydra.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Hydra.internal|Zodiac~Hydra.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Hydra.protect|Zodiac~Hydra.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Hydra.private|Zodiac~Hydra.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Hydra.personal|Zodiac~Hydra.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Hydra.secret|Zodiac~Hydra.secret]] 

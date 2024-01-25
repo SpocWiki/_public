@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Frederiksstad.md|Frederiksstad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Frederiksstad.internal.md|Frederiksstad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Frederiksstad.protect.md|Frederiksstad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Frederiksstad.private.md|Frederiksstad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Frederiksstad.personal.md|Frederiksstad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Frederiksstad.secret.md|Frederiksstad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Frederiksstad.internal|Frederiksstad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Frederiksstad.protect|Frederiksstad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Frederiksstad.private|Frederiksstad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Frederiksstad.personal|Frederiksstad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Frederiksstad.secret|Frederiksstad.secret]] 

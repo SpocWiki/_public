@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Copying-Temperature]
 [SpocWebEntityId::25528]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.md|Triz-Manufacturing_Precision+Copying-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.internal.md|Triz-Manufacturing_Precision+Copying-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.protect.md|Triz-Manufacturing_Precision+Copying-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.private.md|Triz-Manufacturing_Precision+Copying-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.personal.md|Triz-Manufacturing_Precision+Copying-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.secret.md|Triz-Manufacturing_Precision+Copying-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.internal|Triz-Manufacturing_Precision+Copying-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.protect|Triz-Manufacturing_Precision+Copying-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.private|Triz-Manufacturing_Precision+Copying-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.personal|Triz-Manufacturing_Precision+Copying-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.secret|Triz-Manufacturing_Precision+Copying-Temperature.secret]] 

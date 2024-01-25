@@ -41,9 +41,9 @@ markerFolder: ./Saramacca/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Saramacca.md|Saramacca]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Saramacca.internal.md|Saramacca.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Saramacca.protect.md|Saramacca.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Saramacca.private.md|Saramacca.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Saramacca.personal.md|Saramacca.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Saramacca.secret.md|Saramacca.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Saramacca.internal|Saramacca.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Saramacca.protect|Saramacca.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Saramacca.private|Saramacca.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Saramacca.personal|Saramacca.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Saramacca.secret|Saramacca.secret]] 
 

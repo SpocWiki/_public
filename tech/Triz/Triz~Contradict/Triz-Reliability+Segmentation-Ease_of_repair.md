@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Segmentation-Ease_of_repair]
 [SpocWebEntityId::25339]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.md|Triz-Reliability+Segmentation-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.internal.md|Triz-Reliability+Segmentation-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.protect.md|Triz-Reliability+Segmentation-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.private.md|Triz-Reliability+Segmentation-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.personal.md|Triz-Reliability+Segmentation-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.secret.md|Triz-Reliability+Segmentation-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.internal|Triz-Reliability+Segmentation-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.protect|Triz-Reliability+Segmentation-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.private|Triz-Reliability+Segmentation-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.personal|Triz-Reliability+Segmentation-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Segmentation-Ease_of_repair.secret|Triz-Reliability+Segmentation-Ease_of_repair.secret]] 

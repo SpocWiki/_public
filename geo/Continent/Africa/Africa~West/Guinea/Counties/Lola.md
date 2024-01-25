@@ -41,9 +41,9 @@ markerFolder: ./Lola/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Lola.md|Lola]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Lola.internal.md|Lola.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Lola.protect.md|Lola.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Lola.private.md|Lola.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Lola.personal.md|Lola.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Lola.secret.md|Lola.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Lola.internal|Lola.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Lola.protect|Lola.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Lola.private|Lola.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Lola.personal|Lola.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Lola.secret|Lola.secret]] 
 

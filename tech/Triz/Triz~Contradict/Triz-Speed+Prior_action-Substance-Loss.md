@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Prior_action-Substance-Loss]
 [SpocWebEntityId::23422]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.md|Triz-Speed+Prior_action-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.internal.md|Triz-Speed+Prior_action-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.protect.md|Triz-Speed+Prior_action-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.private.md|Triz-Speed+Prior_action-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.personal.md|Triz-Speed+Prior_action-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.secret.md|Triz-Speed+Prior_action-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.internal|Triz-Speed+Prior_action-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.protect|Triz-Speed+Prior_action-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.private|Triz-Speed+Prior_action-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.personal|Triz-Speed+Prior_action-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Substance-Loss.secret|Triz-Speed+Prior_action-Substance-Loss.secret]] 

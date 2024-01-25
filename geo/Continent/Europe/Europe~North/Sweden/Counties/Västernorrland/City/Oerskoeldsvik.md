@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.md|Oerskoeldsvik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.internal.md|Oerskoeldsvik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.protect.md|Oerskoeldsvik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.private.md|Oerskoeldsvik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.personal.md|Oerskoeldsvik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.secret.md|Oerskoeldsvik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.internal|Oerskoeldsvik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.protect|Oerskoeldsvik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.private|Oerskoeldsvik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.personal|Oerskoeldsvik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.secret|Oerskoeldsvik.secret]] 

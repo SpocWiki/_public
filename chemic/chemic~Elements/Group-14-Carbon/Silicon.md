@@ -42,8 +42,8 @@ SpocWebEntityId: 21915
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-14-Carbon/Silicon.md|Silicon]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Silicon.internal.md|Silicon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Silicon.protect.md|Silicon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Silicon.private.md|Silicon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Silicon.personal.md|Silicon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Silicon.secret.md|Silicon.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Silicon.internal|Silicon.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Silicon.protect|Silicon.protect]] 
+- [[../../../../_private/chemic/Elements/Group-14-Carbon/Silicon.private|Silicon.private]] 
+- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Silicon.personal|Silicon.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Silicon.secret|Silicon.secret]] 

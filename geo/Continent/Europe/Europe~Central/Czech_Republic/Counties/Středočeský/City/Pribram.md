@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pribram.md|Pribram]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pribram.internal.md|Pribram.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pribram.protect.md|Pribram.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pribram.private.md|Pribram.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pribram.personal.md|Pribram.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pribram.secret.md|Pribram.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pribram.internal|Pribram.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pribram.protect|Pribram.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pribram.private|Pribram.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pribram.personal|Pribram.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pribram.secret|Pribram.secret]] 

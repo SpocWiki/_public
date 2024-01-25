@@ -41,9 +41,9 @@ markerFolder: ./Golestan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.md|Golestan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.internal.md|Golestan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.protect.md|Golestan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.private.md|Golestan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.personal.md|Golestan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.secret.md|Golestan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.internal|Golestan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.protect|Golestan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.private|Golestan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.personal|Golestan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Golestan.secret|Golestan.secret]] 
 

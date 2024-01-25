@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Croatia/City/Zagreb.md|Zagreb]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Croatia/City/Zagreb.internal.md|Zagreb.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Croatia/City/Zagreb.protect.md|Zagreb.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Croatia/City/Zagreb.private.md|Zagreb.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Croatia/City/Zagreb.personal.md|Zagreb.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Croatia/City/Zagreb.secret.md|Zagreb.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Croatia/City/Zagreb.internal|Zagreb.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Croatia/City/Zagreb.protect|Zagreb.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Croatia/City/Zagreb.private|Zagreb.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Croatia/City/Zagreb.personal|Zagreb.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Croatia/City/Zagreb.secret|Zagreb.secret]] 

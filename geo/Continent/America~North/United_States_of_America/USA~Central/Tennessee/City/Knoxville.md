@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.md|Knoxville]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.internal.md|Knoxville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.protect.md|Knoxville.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.private.md|Knoxville.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.personal.md|Knoxville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.secret.md|Knoxville.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.internal|Knoxville.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.protect|Knoxville.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.private|Knoxville.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.personal|Knoxville.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.secret|Knoxville.secret]] 

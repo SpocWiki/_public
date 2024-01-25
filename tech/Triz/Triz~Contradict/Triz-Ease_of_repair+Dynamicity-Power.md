@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Dynamicity-Power]
 [SpocWebEntityId::26124]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.md|Triz-Ease_of_repair+Dynamicity-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.internal.md|Triz-Ease_of_repair+Dynamicity-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.protect.md|Triz-Ease_of_repair+Dynamicity-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.private.md|Triz-Ease_of_repair+Dynamicity-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.personal.md|Triz-Ease_of_repair+Dynamicity-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.secret.md|Triz-Ease_of_repair+Dynamicity-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.internal|Triz-Ease_of_repair+Dynamicity-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.protect|Triz-Ease_of_repair+Dynamicity-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.private|Triz-Ease_of_repair+Dynamicity-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.personal|Triz-Ease_of_repair+Dynamicity-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.secret|Triz-Ease_of_repair+Dynamicity-Power.secret]] 

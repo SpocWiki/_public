@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Iraq/City/Baghdad.md|Baghdad]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Iraq/City/Baghdad.internal.md|Baghdad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Iraq/City/Baghdad.protect.md|Baghdad.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Iraq/City/Baghdad.private.md|Baghdad.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Iraq/City/Baghdad.personal.md|Baghdad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Iraq/City/Baghdad.secret.md|Baghdad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Iraq/City/Baghdad.internal|Baghdad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Iraq/City/Baghdad.protect|Baghdad.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Iraq/City/Baghdad.private|Baghdad.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Iraq/City/Baghdad.personal|Baghdad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Iraq/City/Baghdad.secret|Baghdad.secret]] 

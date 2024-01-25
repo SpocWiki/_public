@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Periodic_action-Complexity]
 [SpocWebEntityId::25702]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.md|Triz-affected_harm+Periodic_action-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.internal.md|Triz-affected_harm+Periodic_action-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.protect.md|Triz-affected_harm+Periodic_action-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.private.md|Triz-affected_harm+Periodic_action-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.personal.md|Triz-affected_harm+Periodic_action-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.secret.md|Triz-affected_harm+Periodic_action-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.internal|Triz-affected_harm+Periodic_action-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.protect|Triz-affected_harm+Periodic_action-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.private|Triz-affected_harm+Periodic_action-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.personal|Triz-affected_harm+Periodic_action-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.secret|Triz-affected_harm+Periodic_action-Complexity.secret]] 

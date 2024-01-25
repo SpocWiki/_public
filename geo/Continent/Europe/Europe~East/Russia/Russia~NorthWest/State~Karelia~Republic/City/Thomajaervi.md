@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Thomajaervi.md|Thomajaervi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Thomajaervi.internal.md|Thomajaervi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Thomajaervi.protect.md|Thomajaervi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Thomajaervi.private.md|Thomajaervi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Thomajaervi.personal.md|Thomajaervi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Thomajaervi.secret.md|Thomajaervi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Thomajaervi.internal|Thomajaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Thomajaervi.protect|Thomajaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Thomajaervi.private|Thomajaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Thomajaervi.personal|Thomajaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Thomajaervi.secret|Thomajaervi.secret]] 

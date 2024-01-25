@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy]
 [SpocWebEntityId::24861]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-stationary_Energy]]]
+- [#has_/Cons :: [[Triz-stationary_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.internal.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.protect.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.private.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.personal.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.secret.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.internal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.protect|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.private|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.personal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.secret|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Energy.secret]] 

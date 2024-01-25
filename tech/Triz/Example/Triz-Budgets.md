@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Budgets.md|Triz-Budgets]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Budgets.internal.md|Triz-Budgets.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Budgets.protect.md|Triz-Budgets.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Budgets.private.md|Triz-Budgets.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Budgets.personal.md|Triz-Budgets.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Budgets.secret.md|Triz-Budgets.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Budgets.internal|Triz-Budgets.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Budgets.protect|Triz-Budgets.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Budgets.private|Triz-Budgets.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Budgets.personal|Triz-Budgets.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Budgets.secret|Triz-Budgets.secret]] 

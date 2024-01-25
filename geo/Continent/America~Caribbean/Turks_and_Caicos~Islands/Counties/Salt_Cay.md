@@ -41,9 +41,9 @@ markerFolder: ./Salt_Cay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.md|Salt_Cay]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.internal.md|Salt_Cay.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.protect.md|Salt_Cay.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.private.md|Salt_Cay.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.personal.md|Salt_Cay.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.secret.md|Salt_Cay.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.internal|Salt_Cay.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.protect|Salt_Cay.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.private|Salt_Cay.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.personal|Salt_Cay.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Salt_Cay.secret|Salt_Cay.secret]] 
 

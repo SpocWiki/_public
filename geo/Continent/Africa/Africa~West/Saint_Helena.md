@@ -45,7 +45,7 @@ markerFolder: ./Saint_Helena/
 ## Confidential Links & Embeds: 
 - [[Saint_Helena|Saint_Helena]] 
 - [[../../../../../_internal/geo/Continent/Africa/Saint_Helena.internal|Saint_Helena.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Saint_Helena.protect.md|Saint_Helena.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Saint_Helena.private.md|Saint_Helena.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Saint_Helena.personal.md|Saint_Helena.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Saint_Helena.secret.md|Saint_Helena.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Saint_Helena.protect|Saint_Helena.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Saint_Helena.private|Saint_Helena.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Saint_Helena.personal|Saint_Helena.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Saint_Helena.secret|Saint_Helena.secret]] 

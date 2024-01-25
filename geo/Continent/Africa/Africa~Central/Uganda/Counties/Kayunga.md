@@ -41,9 +41,9 @@ markerFolder: ./Kayunga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kayunga.md|Kayunga]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kayunga.internal.md|Kayunga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kayunga.protect.md|Kayunga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kayunga.private.md|Kayunga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kayunga.personal.md|Kayunga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kayunga.secret.md|Kayunga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kayunga.internal|Kayunga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kayunga.protect|Kayunga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kayunga.private|Kayunga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kayunga.personal|Kayunga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kayunga.secret|Kayunga.secret]] 
 

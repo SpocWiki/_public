@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Nesting-Shape]
 [SpocWebEntityId::22937]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Nesting]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.md|Triz-stationary_Length+Nesting-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.internal.md|Triz-stationary_Length+Nesting-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.protect.md|Triz-stationary_Length+Nesting-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.private.md|Triz-stationary_Length+Nesting-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.personal.md|Triz-stationary_Length+Nesting-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.secret.md|Triz-stationary_Length+Nesting-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.internal|Triz-stationary_Length+Nesting-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.protect|Triz-stationary_Length+Nesting-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.private|Triz-stationary_Length+Nesting-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.personal|Triz-stationary_Length+Nesting-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.secret|Triz-stationary_Length+Nesting-Shape.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Kiskunhalas.md|Kiskunhalas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kiskunhalas.internal.md|Kiskunhalas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kiskunhalas.protect.md|Kiskunhalas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kiskunhalas.private.md|Kiskunhalas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kiskunhalas.personal.md|Kiskunhalas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kiskunhalas.secret.md|Kiskunhalas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kiskunhalas.internal|Kiskunhalas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kiskunhalas.protect|Kiskunhalas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kiskunhalas.private|Kiskunhalas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kiskunhalas.personal|Kiskunhalas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kiskunhalas.secret|Kiskunhalas.secret]] 

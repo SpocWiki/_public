@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wang.md|Wang]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wang.internal.md|Wang.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wang.protect.md|Wang.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wang.private.md|Wang.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wang.personal.md|Wang.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wang.secret.md|Wang.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wang.internal|Wang.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wang.protect|Wang.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wang.private|Wang.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wang.personal|Wang.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wang.secret|Wang.secret]] 

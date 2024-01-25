@@ -41,9 +41,9 @@ markerFolder: ./Bur_Sa`id/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.md|Bur_Sa`id]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.internal.md|Bur_Sa`id.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.protect.md|Bur_Sa`id.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.private.md|Bur_Sa`id.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.personal.md|Bur_Sa`id.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.secret.md|Bur_Sa`id.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.internal|Bur_Sa`id.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.protect|Bur_Sa`id.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.private|Bur_Sa`id.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.personal|Bur_Sa`id.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.secret|Bur_Sa`id.secret]] 
 

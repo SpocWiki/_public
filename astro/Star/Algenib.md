@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Algenib.md|Algenib]] 
-- [[../../../_internal/astro/Star/Algenib.internal.md|Algenib.internal]] 
-- [[../../../_protect/astro/Star/Algenib.protect.md|Algenib.protect]] 
-- [[../../../_private/astro/Star/Algenib.private.md|Algenib.private]] 
-- [[../../../_personal/astro/Star/Algenib.personal.md|Algenib.personal]] 
-- [[../../../_secret/astro/Star/Algenib.secret.md|Algenib.secret]]
+- [[../../../_internal/astro/Star/Algenib.internal|Algenib.internal]] 
+- [[../../../_protect/astro/Star/Algenib.protect|Algenib.protect]] 
+- [[../../../_private/astro/Star/Algenib.private|Algenib.private]] 
+- [[../../../_personal/astro/Star/Algenib.personal|Algenib.personal]] 
+- [[../../../_secret/astro/Star/Algenib.secret|Algenib.secret]]
 

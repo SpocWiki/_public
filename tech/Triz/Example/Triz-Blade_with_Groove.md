@@ -18,8 +18,8 @@ Utility Knife Blade made with a Groove allowing the dull Part of the Blade to be
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Blade_with_Groove.md|Triz-Blade_with_Groove]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Blade_with_Groove.internal.md|Triz-Blade_with_Groove.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Blade_with_Groove.protect.md|Triz-Blade_with_Groove.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Blade_with_Groove.private.md|Triz-Blade_with_Groove.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Blade_with_Groove.personal.md|Triz-Blade_with_Groove.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Blade_with_Groove.secret.md|Triz-Blade_with_Groove.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Blade_with_Groove.internal|Triz-Blade_with_Groove.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Blade_with_Groove.protect|Triz-Blade_with_Groove.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Blade_with_Groove.private|Triz-Blade_with_Groove.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Blade_with_Groove.personal|Triz-Blade_with_Groove.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Blade_with_Groove.secret|Triz-Blade_with_Groove.secret]] 

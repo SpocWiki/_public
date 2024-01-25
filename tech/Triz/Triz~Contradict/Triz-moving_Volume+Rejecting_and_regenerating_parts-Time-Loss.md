@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Rejecting_and_regenerating_parts-Time-Loss]
 [SpocWebEntityId::23251]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.internal.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.protect.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.private.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.personal.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.secret.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.internal|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.protect|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.private|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.personal|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.secret|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.secret]] 

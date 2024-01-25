@@ -41,9 +41,9 @@ markerFolder: ./Rajasthan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.md|Rajasthan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.internal.md|Rajasthan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.protect.md|Rajasthan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.private.md|Rajasthan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.personal.md|Rajasthan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.secret.md|Rajasthan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.internal|Rajasthan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.protect|Rajasthan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.private|Rajasthan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.personal|Rajasthan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.secret|Rajasthan.secret]] 
 

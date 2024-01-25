@@ -41,9 +41,9 @@ markerFolder: ./Bandundu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.md|Bandundu]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.internal.md|Bandundu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.protect.md|Bandundu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.private.md|Bandundu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.personal.md|Bandundu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.secret.md|Bandundu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.internal|Bandundu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.protect|Bandundu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.private|Bandundu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.personal|Bandundu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.secret|Bandundu.secret]] 
 

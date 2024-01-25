@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.md|Basseterre]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.internal.md|Basseterre.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.protect.md|Basseterre.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.private.md|Basseterre.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.personal.md|Basseterre.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.secret.md|Basseterre.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.internal|Basseterre.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.protect|Basseterre.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.private|Basseterre.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.personal|Basseterre.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.secret|Basseterre.secret]] 

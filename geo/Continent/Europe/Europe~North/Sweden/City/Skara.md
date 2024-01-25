@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Skara.md|Skara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Skara.internal.md|Skara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Skara.protect.md|Skara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Skara.private.md|Skara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Skara.personal.md|Skara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Skara.secret.md|Skara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Skara.internal|Skara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Skara.protect|Skara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Skara.private|Skara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Skara.personal|Skara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Skara.secret|Skara.secret]] 

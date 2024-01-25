@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.md|Kew]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.internal.md|Kew.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.protect.md|Kew.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.private.md|Kew.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.personal.md|Kew.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.secret.md|Kew.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.internal|Kew.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.protect|Kew.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.private|Kew.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.personal|Kew.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.secret|Kew.secret]] 

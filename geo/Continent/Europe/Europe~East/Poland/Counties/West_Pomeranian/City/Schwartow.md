@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schwartow.md|Schwartow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwartow.internal.md|Schwartow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwartow.protect.md|Schwartow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwartow.private.md|Schwartow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwartow.personal.md|Schwartow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwartow.secret.md|Schwartow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwartow.internal|Schwartow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwartow.protect|Schwartow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwartow.private|Schwartow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwartow.personal|Schwartow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwartow.secret|Schwartow.secret]] 

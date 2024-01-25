@@ -41,9 +41,9 @@ markerFolder: ./Toledo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Belize/Counties/Toledo.md|Toledo]] 
-- [[../../../../_internal/geo/Continent/America~Central/Belize/Counties/Toledo.internal.md|Toledo.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Belize/Counties/Toledo.protect.md|Toledo.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Belize/Counties/Toledo.private.md|Toledo.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Belize/Counties/Toledo.personal.md|Toledo.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Belize/Counties/Toledo.secret.md|Toledo.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Belize/Counties/Toledo.internal|Toledo.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Belize/Counties/Toledo.protect|Toledo.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Belize/Counties/Toledo.private|Toledo.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Belize/Counties/Toledo.personal|Toledo.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Belize/Counties/Toledo.secret|Toledo.secret]] 
 

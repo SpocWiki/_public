@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Homberg~Oberrhein|Homberg~Oberrhein]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.internal.md|Homberg~Oberrhein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.protect.md|Homberg~Oberrhein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.private.md|Homberg~Oberrhein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.personal.md|Homberg~Oberrhein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.secret.md|Homberg~Oberrhein.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.internal|Homberg~Oberrhein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.protect|Homberg~Oberrhein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.private|Homberg~Oberrhein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.personal|Homberg~Oberrhein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.secret|Homberg~Oberrhein.secret]] 

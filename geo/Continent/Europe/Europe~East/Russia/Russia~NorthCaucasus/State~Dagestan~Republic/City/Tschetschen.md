@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschetschen.md|Tschetschen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschetschen.internal.md|Tschetschen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschetschen.protect.md|Tschetschen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschetschen.private.md|Tschetschen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschetschen.personal.md|Tschetschen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschetschen.secret.md|Tschetschen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschetschen.internal|Tschetschen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschetschen.protect|Tschetschen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschetschen.private|Tschetschen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschetschen.personal|Tschetschen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschetschen.secret|Tschetschen.secret]] 

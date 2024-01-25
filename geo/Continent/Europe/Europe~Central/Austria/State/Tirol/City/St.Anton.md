@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Anton.md|St.Anton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Anton.internal.md|St.Anton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Anton.protect.md|St.Anton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Anton.private.md|St.Anton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Anton.personal.md|St.Anton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Anton.secret.md|St.Anton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Anton.internal|St.Anton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Anton.protect|St.Anton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Anton.private|St.Anton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Anton.personal|St.Anton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Anton.secret|St.Anton.secret]] 

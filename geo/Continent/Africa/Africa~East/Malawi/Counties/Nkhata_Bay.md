@@ -41,9 +41,9 @@ markerFolder: ./Nkhata_Bay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.md|Nkhata_Bay]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.internal.md|Nkhata_Bay.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.protect.md|Nkhata_Bay.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.private.md|Nkhata_Bay.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.personal.md|Nkhata_Bay.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.secret.md|Nkhata_Bay.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.internal|Nkhata_Bay.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.protect|Nkhata_Bay.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.private|Nkhata_Bay.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.personal|Nkhata_Bay.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.secret|Nkhata_Bay.secret]] 
 

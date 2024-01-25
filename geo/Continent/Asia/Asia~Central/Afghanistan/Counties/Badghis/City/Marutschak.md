@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Marutschak.md|Marutschak]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Marutschak.internal.md|Marutschak.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Marutschak.protect.md|Marutschak.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Marutschak.private.md|Marutschak.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Marutschak.personal.md|Marutschak.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Marutschak.secret.md|Marutschak.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Marutschak.internal|Marutschak.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Marutschak.protect|Marutschak.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Marutschak.private|Marutschak.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Marutschak.personal|Marutschak.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Marutschak.secret|Marutschak.secret]] 

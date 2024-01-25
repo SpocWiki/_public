@@ -35,8 +35,8 @@ SpocWebEntityId: 21972
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-08-Iron/Osmium.md|Osmium]] 
-- [[../../../../_internal/chemic/Elements/Group-08-Iron/Osmium.internal.md|Osmium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-08-Iron/Osmium.protect.md|Osmium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-08-Iron/Osmium.private.md|Osmium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-08-Iron/Osmium.personal.md|Osmium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-08-Iron/Osmium.secret.md|Osmium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-08-Iron/Osmium.internal|Osmium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-08-Iron/Osmium.protect|Osmium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-08-Iron/Osmium.private|Osmium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-08-Iron/Osmium.personal|Osmium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-08-Iron/Osmium.secret|Osmium.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Extraction-Measurement_Accuracy]
 [SpocWebEntityId::25191]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.md|Triz-Quantity+Extraction-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.internal.md|Triz-Quantity+Extraction-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.protect.md|Triz-Quantity+Extraction-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.private.md|Triz-Quantity+Extraction-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.personal.md|Triz-Quantity+Extraction-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.secret.md|Triz-Quantity+Extraction-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.internal|Triz-Quantity+Extraction-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.protect|Triz-Quantity+Extraction-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.private|Triz-Quantity+Extraction-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.personal|Triz-Quantity+Extraction-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.secret|Triz-Quantity+Extraction-Measurement_Accuracy.secret]] 

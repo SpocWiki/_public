@@ -41,9 +41,9 @@ markerFolder: ./Maldonado/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Maldonado.md|Maldonado]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Maldonado.internal.md|Maldonado.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Maldonado.protect.md|Maldonado.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Maldonado.private.md|Maldonado.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Maldonado.personal.md|Maldonado.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Maldonado.secret.md|Maldonado.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Maldonado.internal|Maldonado.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Maldonado.protect|Maldonado.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Maldonado.private|Maldonado.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Maldonado.personal|Maldonado.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Maldonado.secret|Maldonado.secret]] 
 

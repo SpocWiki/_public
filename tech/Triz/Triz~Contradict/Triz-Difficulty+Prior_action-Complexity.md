@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Prior_action-Complexity]
 [SpocWebEntityId::26527]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.md|Triz-Difficulty+Prior_action-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.internal.md|Triz-Difficulty+Prior_action-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.protect.md|Triz-Difficulty+Prior_action-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.private.md|Triz-Difficulty+Prior_action-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.personal.md|Triz-Difficulty+Prior_action-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.secret.md|Triz-Difficulty+Prior_action-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.internal|Triz-Difficulty+Prior_action-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.protect|Triz-Difficulty+Prior_action-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.private|Triz-Difficulty+Prior_action-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.personal|Triz-Difficulty+Prior_action-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Complexity.secret|Triz-Difficulty+Prior_action-Complexity.secret]] 

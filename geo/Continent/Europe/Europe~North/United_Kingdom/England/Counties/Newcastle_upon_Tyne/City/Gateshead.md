@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gateshead.md|Gateshead]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gateshead.internal.md|Gateshead.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gateshead.protect.md|Gateshead.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gateshead.private.md|Gateshead.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gateshead.personal.md|Gateshead.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gateshead.secret.md|Gateshead.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gateshead.internal|Gateshead.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gateshead.protect|Gateshead.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gateshead.private|Gateshead.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gateshead.personal|Gateshead.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gateshead.secret|Gateshead.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Khabarovka.md|Khabarovka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khabarovka.internal.md|Khabarovka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khabarovka.protect.md|Khabarovka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khabarovka.private.md|Khabarovka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khabarovka.personal.md|Khabarovka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khabarovka.secret.md|Khabarovka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khabarovka.internal|Khabarovka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khabarovka.protect|Khabarovka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khabarovka.private|Khabarovka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khabarovka.personal|Khabarovka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khabarovka.secret|Khabarovka.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Casteinuova_Monti.md|Casteinuova_Monti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Casteinuova_Monti.internal.md|Casteinuova_Monti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Casteinuova_Monti.protect.md|Casteinuova_Monti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Casteinuova_Monti.private.md|Casteinuova_Monti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Casteinuova_Monti.personal.md|Casteinuova_Monti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Casteinuova_Monti.secret.md|Casteinuova_Monti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Casteinuova_Monti.internal|Casteinuova_Monti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Casteinuova_Monti.protect|Casteinuova_Monti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Casteinuova_Monti.private|Casteinuova_Monti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Casteinuova_Monti.personal|Casteinuova_Monti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Casteinuova_Monti.secret|Casteinuova_Monti.secret]] 

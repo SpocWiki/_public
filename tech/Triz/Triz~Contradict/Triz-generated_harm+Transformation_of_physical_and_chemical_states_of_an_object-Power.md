@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power]
 [SpocWebEntityId::25787]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.private.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.private|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret]] 

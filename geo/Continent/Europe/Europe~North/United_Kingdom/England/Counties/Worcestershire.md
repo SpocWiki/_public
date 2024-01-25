@@ -41,9 +41,9 @@ markerFolder: ./Worcestershire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.md|Worcestershire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.internal.md|Worcestershire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.protect.md|Worcestershire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.private.md|Worcestershire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.personal.md|Worcestershire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.secret.md|Worcestershire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.internal|Worcestershire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.protect|Worcestershire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.private|Worcestershire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.personal|Worcestershire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.secret|Worcestershire.secret]] 
 

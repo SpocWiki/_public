@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Coatbridge.md|Coatbridge]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Coatbridge.internal.md|Coatbridge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Coatbridge.protect.md|Coatbridge.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Coatbridge.private.md|Coatbridge.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Coatbridge.personal.md|Coatbridge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Coatbridge.secret.md|Coatbridge.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Coatbridge.internal|Coatbridge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Coatbridge.protect|Coatbridge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Coatbridge.private|Coatbridge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Coatbridge.personal|Coatbridge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Coatbridge.secret|Coatbridge.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Ruffec.md|Ruffec]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ruffec.internal.md|Ruffec.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ruffec.protect.md|Ruffec.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Ruffec.private.md|Ruffec.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ruffec.personal.md|Ruffec.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ruffec.secret.md|Ruffec.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ruffec.internal|Ruffec.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ruffec.protect|Ruffec.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Ruffec.private|Ruffec.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ruffec.personal|Ruffec.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ruffec.secret|Ruffec.secret]] 

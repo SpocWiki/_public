@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Omsk_Oblast|State~Omsk_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.internal|State~Omsk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.protect.md|State~Omsk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.private.md|State~Omsk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.personal.md|State~Omsk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.secret.md|State~Omsk_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.protect|State~Omsk_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.private|State~Omsk_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.personal|State~Omsk_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Omsk_Oblast.secret|State~Omsk_Oblast.secret]] 

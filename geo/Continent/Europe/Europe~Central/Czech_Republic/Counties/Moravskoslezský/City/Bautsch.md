@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bautsch.md|Bautsch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bautsch.internal.md|Bautsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bautsch.protect.md|Bautsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bautsch.private.md|Bautsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bautsch.personal.md|Bautsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bautsch.secret.md|Bautsch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bautsch.internal|Bautsch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bautsch.protect|Bautsch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bautsch.private|Bautsch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bautsch.personal|Bautsch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bautsch.secret|Bautsch.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Pontevedra.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.md|Pontevedra.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.internal.md|Pontevedra.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.protect.md|Pontevedra.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.private.md|Pontevedra.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.personal.md|Pontevedra.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.secret.md|Pontevedra.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.internal|Pontevedra.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.protect|Pontevedra.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.private|Pontevedra.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.personal|Pontevedra.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Galicia/Pontevedra.Province.secret|Pontevedra.Province.secret]] 
 

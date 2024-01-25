@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Mechanical_vibration-Manufacturing_Precision]
 [SpocWebEntityId::26604]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.md|Triz-Automation+Mechanical_vibration-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.internal.md|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.protect.md|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.private.md|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.personal.md|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.secret.md|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.internal|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.protect|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.private|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.personal|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Mechanical_vibration-Manufacturing_Precision.secret|Triz-Automation+Mechanical_vibration-Manufacturing_Precision.secret]] 

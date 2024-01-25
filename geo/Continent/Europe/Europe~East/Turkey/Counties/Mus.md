@@ -41,9 +41,9 @@ markerFolder: ./Mus/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Mus.md|Mus]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mus.internal.md|Mus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mus.protect.md|Mus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mus.private.md|Mus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mus.personal.md|Mus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mus.secret.md|Mus.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mus.internal|Mus.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mus.protect|Mus.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mus.private|Mus.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mus.personal|Mus.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mus.secret|Mus.secret]] 
 

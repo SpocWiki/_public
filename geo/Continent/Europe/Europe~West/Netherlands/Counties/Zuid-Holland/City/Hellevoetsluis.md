@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.md|Hellevoetsluis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.internal.md|Hellevoetsluis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.protect.md|Hellevoetsluis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.private.md|Hellevoetsluis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.personal.md|Hellevoetsluis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.secret.md|Hellevoetsluis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.internal|Hellevoetsluis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.protect|Hellevoetsluis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.private|Hellevoetsluis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.personal|Hellevoetsluis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.secret|Hellevoetsluis.secret]] 

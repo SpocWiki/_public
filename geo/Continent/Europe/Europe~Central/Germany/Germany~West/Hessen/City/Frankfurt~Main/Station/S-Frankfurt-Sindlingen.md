@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Frankfurt-Sindlingen|S-Frankfurt-Sindlingen]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.internal.md|S-Frankfurt-Sindlingen.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.protect.md|S-Frankfurt-Sindlingen.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.private.md|S-Frankfurt-Sindlingen.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.personal.md|S-Frankfurt-Sindlingen.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.secret.md|S-Frankfurt-Sindlingen.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.internal|S-Frankfurt-Sindlingen.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.protect|S-Frankfurt-Sindlingen.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.private|S-Frankfurt-Sindlingen.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.personal|S-Frankfurt-Sindlingen.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Sindlingen.secret|S-Frankfurt-Sindlingen.secret]] 

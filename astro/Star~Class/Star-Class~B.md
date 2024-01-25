@@ -18,9 +18,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Class/Star-Class~B.md|Star-Class~B]] 
-- [[../../../_internal/astro/Class/Star-Class~B.internal.md|Star-Class~B.internal]] 
-- [[../../../_protect/astro/Class/Star-Class~B.protect.md|Star-Class~B.protect]] 
-- [[../../../_private/astro/Class/Star-Class~B.private.md|Star-Class~B.private]] 
-- [[../../../_personal/astro/Class/Star-Class~B.personal.md|Star-Class~B.personal]] 
-- [[../../../_secret/astro/Class/Star-Class~B.secret.md|Star-Class~B.secret]]
+- [[../../../_internal/astro/Class/Star-Class~B.internal|Star-Class~B.internal]] 
+- [[../../../_protect/astro/Class/Star-Class~B.protect|Star-Class~B.protect]] 
+- [[../../../_private/astro/Class/Star-Class~B.private|Star-Class~B.private]] 
+- [[../../../_personal/astro/Class/Star-Class~B.personal|Star-Class~B.personal]] 
+- [[../../../_secret/astro/Class/Star-Class~B.secret|Star-Class~B.secret]]
 

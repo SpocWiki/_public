@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Homogeneity-affected_harm]
 [SpocWebEntityId::24317]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Homogeneity]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.md|Triz-Temperature+Homogeneity-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.internal.md|Triz-Temperature+Homogeneity-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.protect.md|Triz-Temperature+Homogeneity-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.private.md|Triz-Temperature+Homogeneity-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.personal.md|Triz-Temperature+Homogeneity-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.secret.md|Triz-Temperature+Homogeneity-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.internal|Triz-Temperature+Homogeneity-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.protect|Triz-Temperature+Homogeneity-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.private|Triz-Temperature+Homogeneity-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.personal|Triz-Temperature+Homogeneity-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Homogeneity-affected_harm.secret|Triz-Temperature+Homogeneity-affected_harm.secret]] 

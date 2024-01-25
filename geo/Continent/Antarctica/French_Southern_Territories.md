@@ -124,8 +124,8 @@ markerFolder: ./French_Southern_Territories/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Antarctica/French_Southern_Territories.md|French_Southern_Territories]] 
-- [[../../../../_internal/geo/Continent/Antarctica/French_Southern_Territories.internal.md|French_Southern_Territories.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/French_Southern_Territories.protect.md|French_Southern_Territories.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/French_Southern_Territories.private.md|French_Southern_Territories.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/French_Southern_Territories.personal.md|French_Southern_Territories.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/French_Southern_Territories.secret.md|French_Southern_Territories.secret]] 
+- [[../../../../_internal/geo/Continent/Antarctica/French_Southern_Territories.internal|French_Southern_Territories.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/French_Southern_Territories.protect|French_Southern_Territories.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/French_Southern_Territories.private|French_Southern_Territories.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/French_Southern_Territories.personal|French_Southern_Territories.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/French_Southern_Territories.secret|French_Southern_Territories.secret]] 

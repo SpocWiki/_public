@@ -41,9 +41,9 @@ markerFolder: ./Vårdö/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.md|Vårdö]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.internal.md|Vårdö.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.protect.md|Vårdö.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.private.md|Vårdö.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.personal.md|Vårdö.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.secret.md|Vårdö.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.internal|Vårdö.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.protect|Vårdö.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.private|Vårdö.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.personal|Vårdö.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Vårdö.secret|Vårdö.secret]] 
 

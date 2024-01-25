@@ -41,9 +41,9 @@ markerFolder: ./Flintshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.md|Flintshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.internal.md|Flintshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.protect.md|Flintshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.private.md|Flintshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.personal.md|Flintshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.secret.md|Flintshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.internal|Flintshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.protect|Flintshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.private|Flintshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.personal|Flintshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Flintshire.secret|Flintshire.secret]] 
 

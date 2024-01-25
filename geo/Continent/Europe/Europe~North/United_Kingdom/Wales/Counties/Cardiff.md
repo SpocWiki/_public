@@ -41,9 +41,9 @@ markerFolder: ./Cardiff/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.md|Cardiff]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.internal.md|Cardiff.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.protect.md|Cardiff.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.private.md|Cardiff.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.personal.md|Cardiff.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.secret.md|Cardiff.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.internal|Cardiff.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.protect|Cardiff.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.private|Cardiff.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.personal|Cardiff.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Cardiff.secret|Cardiff.secret]] 
 

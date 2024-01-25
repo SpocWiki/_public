@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Frankfurt~Main_Galluswarte|S-Frankfurt~Main_Galluswarte]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.internal.md|S-Frankfurt~Main_Galluswarte.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.protect.md|S-Frankfurt~Main_Galluswarte.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.private.md|S-Frankfurt~Main_Galluswarte.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.personal.md|S-Frankfurt~Main_Galluswarte.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.secret.md|S-Frankfurt~Main_Galluswarte.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.internal|S-Frankfurt~Main_Galluswarte.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.protect|S-Frankfurt~Main_Galluswarte.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.private|S-Frankfurt~Main_Galluswarte.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.personal|S-Frankfurt~Main_Galluswarte.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Galluswarte.secret|S-Frankfurt~Main_Galluswarte.secret]] 

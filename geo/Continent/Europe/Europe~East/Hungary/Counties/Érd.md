@@ -41,9 +41,9 @@ markerFolder: ./Érd/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Érd.md|Érd]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Érd.internal.md|Érd.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Érd.protect.md|Érd.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Érd.private.md|Érd.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Érd.personal.md|Érd.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Érd.secret.md|Érd.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Érd.internal|Érd.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Érd.protect|Érd.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Érd.private|Érd.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Érd.personal|Érd.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Érd.secret|Érd.secret]] 
 

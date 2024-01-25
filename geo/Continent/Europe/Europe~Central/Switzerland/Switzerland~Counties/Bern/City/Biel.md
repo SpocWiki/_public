@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Biel.md|Biel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Biel.internal.md|Biel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Biel.protect.md|Biel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Biel.private.md|Biel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Biel.personal.md|Biel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Biel.secret.md|Biel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Biel.internal|Biel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Biel.protect|Biel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Biel.private|Biel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Biel.personal|Biel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Biel.secret|Biel.secret]] 

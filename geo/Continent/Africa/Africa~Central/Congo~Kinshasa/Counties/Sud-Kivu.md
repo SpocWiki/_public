@@ -41,9 +41,9 @@ markerFolder: ./Sud-Kivu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.md|Sud-Kivu]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.internal.md|Sud-Kivu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.protect.md|Sud-Kivu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.private.md|Sud-Kivu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.personal.md|Sud-Kivu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.secret.md|Sud-Kivu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.internal|Sud-Kivu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.protect|Sud-Kivu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.private|Sud-Kivu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.personal|Sud-Kivu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.secret|Sud-Kivu.secret]] 
 

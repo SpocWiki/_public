@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Aizpute.md|Aizpute]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aizpute.internal.md|Aizpute.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aizpute.protect.md|Aizpute.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aizpute.private.md|Aizpute.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aizpute.personal.md|Aizpute.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aizpute.secret.md|Aizpute.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aizpute.internal|Aizpute.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aizpute.protect|Aizpute.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aizpute.private|Aizpute.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aizpute.personal|Aizpute.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aizpute.secret|Aizpute.secret]] 

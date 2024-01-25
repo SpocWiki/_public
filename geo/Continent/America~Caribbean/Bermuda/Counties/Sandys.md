@@ -41,9 +41,9 @@ markerFolder: ./Sandys/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.md|Sandys]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.internal.md|Sandys.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.protect.md|Sandys.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.private.md|Sandys.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.personal.md|Sandys.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.secret.md|Sandys.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.internal|Sandys.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.protect|Sandys.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.private|Sandys.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.personal|Sandys.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Sandys.secret|Sandys.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Siculina.md|Siculina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Siculina.internal.md|Siculina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Siculina.protect.md|Siculina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Siculina.private.md|Siculina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Siculina.personal.md|Siculina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Siculina.secret.md|Siculina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Siculina.internal|Siculina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Siculina.protect|Siculina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Siculina.private|Siculina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Siculina.personal|Siculina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Siculina.secret|Siculina.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Ailly.md|Ailly]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ailly.internal.md|Ailly.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ailly.protect.md|Ailly.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Ailly.private.md|Ailly.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ailly.personal.md|Ailly.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ailly.secret.md|Ailly.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ailly.internal|Ailly.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ailly.protect|Ailly.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Ailly.private|Ailly.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ailly.personal|Ailly.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ailly.secret|Ailly.secret]] 

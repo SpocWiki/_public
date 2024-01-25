@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision]
 [SpocWebEntityId::24030]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.internal.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.protect.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.private.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.personal.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.secret.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.internal|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.protect|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.private|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.personal|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.secret|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision.secret]] 

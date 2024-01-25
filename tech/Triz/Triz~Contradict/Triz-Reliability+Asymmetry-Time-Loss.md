@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Asymmetry-Time-Loss]
 [SpocWebEntityId::25316]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.md|Triz-Reliability+Asymmetry-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.internal.md|Triz-Reliability+Asymmetry-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.protect.md|Triz-Reliability+Asymmetry-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.private.md|Triz-Reliability+Asymmetry-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.personal.md|Triz-Reliability+Asymmetry-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.secret.md|Triz-Reliability+Asymmetry-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.internal|Triz-Reliability+Asymmetry-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.protect|Triz-Reliability+Asymmetry-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.private|Triz-Reliability+Asymmetry-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.personal|Triz-Reliability+Asymmetry-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Asymmetry-Time-Loss.secret|Triz-Reliability+Asymmetry-Time-Loss.secret]] 

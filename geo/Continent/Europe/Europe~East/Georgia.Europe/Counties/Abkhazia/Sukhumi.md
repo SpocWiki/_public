@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Sukhumi|Sukhumi]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Suchumkale.internal.md|Suchumkale.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Suchumkale.protect.md|Suchumkale.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Suchumkale.private.md|Suchumkale.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Suchumkale.personal.md|Suchumkale.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Suchumkale.secret.md|Suchumkale.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Suchumkale.internal|Suchumkale.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Suchumkale.protect|Suchumkale.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Suchumkale.private|Suchumkale.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Suchumkale.personal|Suchumkale.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Suchumkale.secret|Suchumkale.secret]] 

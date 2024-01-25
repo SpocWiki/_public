@@ -41,9 +41,9 @@ markerFolder: ./Kié-Ntem/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.md|Kié-Ntem]] 
-- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.internal.md|Kié-Ntem.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.protect.md|Kié-Ntem.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.private.md|Kié-Ntem.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.personal.md|Kié-Ntem.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.secret.md|Kié-Ntem.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.internal|Kié-Ntem.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.protect|Kié-Ntem.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.private|Kié-Ntem.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.personal|Kié-Ntem.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.secret|Kié-Ntem.secret]] 
 

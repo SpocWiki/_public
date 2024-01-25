@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Gebweiler.md|Gebweiler]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gebweiler.internal.md|Gebweiler.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gebweiler.protect.md|Gebweiler.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Gebweiler.private.md|Gebweiler.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gebweiler.personal.md|Gebweiler.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gebweiler.secret.md|Gebweiler.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gebweiler.internal|Gebweiler.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gebweiler.protect|Gebweiler.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Gebweiler.private|Gebweiler.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gebweiler.personal|Gebweiler.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gebweiler.secret|Gebweiler.secret]] 

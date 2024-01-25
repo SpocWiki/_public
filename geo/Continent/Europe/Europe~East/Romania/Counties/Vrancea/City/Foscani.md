@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Foscani.md|Foscani]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Foscani.internal.md|Foscani.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Foscani.protect.md|Foscani.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Foscani.private.md|Foscani.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Foscani.personal.md|Foscani.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Foscani.secret.md|Foscani.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Foscani.internal|Foscani.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Foscani.protect|Foscani.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Foscani.private|Foscani.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Foscani.personal|Foscani.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Foscani.secret|Foscani.secret]] 

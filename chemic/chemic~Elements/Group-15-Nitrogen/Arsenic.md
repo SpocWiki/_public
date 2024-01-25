@@ -38,8 +38,8 @@ SpocWebEntityId: 21931
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Arsenic.md|Arsenic]] 
-- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Arsenic.internal.md|Arsenic.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Arsenic.protect.md|Arsenic.protect]] 
-- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Arsenic.private.md|Arsenic.private]] 
-- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Arsenic.personal.md|Arsenic.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Arsenic.secret.md|Arsenic.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Arsenic.internal|Arsenic.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Arsenic.protect|Arsenic.protect]] 
+- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Arsenic.private|Arsenic.private]] 
+- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Arsenic.personal|Arsenic.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Arsenic.secret|Arsenic.secret]] 

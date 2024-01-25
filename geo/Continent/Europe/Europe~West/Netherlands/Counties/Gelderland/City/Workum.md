@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Workum.md|Workum]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Workum.internal.md|Workum.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Workum.protect.md|Workum.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Workum.private.md|Workum.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Workum.personal.md|Workum.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Workum.secret.md|Workum.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Workum.internal|Workum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Workum.protect|Workum.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Workum.private|Workum.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Workum.personal|Workum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Workum.secret|Workum.secret]] 

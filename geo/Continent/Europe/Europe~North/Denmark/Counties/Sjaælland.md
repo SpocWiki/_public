@@ -41,9 +41,9 @@ markerFolder: ./Sjaælland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Denmark/Counties/Sjaælland.md|Sjaælland]] 
-- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Sjaælland.internal.md|Sjaælland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Sjaælland.protect.md|Sjaælland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Sjaælland.private.md|Sjaælland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Sjaælland.personal.md|Sjaælland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Sjaælland.secret.md|Sjaælland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Sjaælland.internal|Sjaælland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Sjaælland.protect|Sjaælland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Sjaælland.private|Sjaælland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Sjaælland.personal|Sjaælland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Sjaælland.secret|Sjaælland.secret]] 
 

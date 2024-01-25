@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Nivelles.md|Nivelles]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Nivelles.internal.md|Nivelles.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Nivelles.protect.md|Nivelles.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Nivelles.private.md|Nivelles.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Nivelles.personal.md|Nivelles.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Nivelles.secret.md|Nivelles.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Nivelles.internal|Nivelles.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Nivelles.protect|Nivelles.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Nivelles.private|Nivelles.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Nivelles.personal|Nivelles.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Nivelles.secret|Nivelles.secret]] 

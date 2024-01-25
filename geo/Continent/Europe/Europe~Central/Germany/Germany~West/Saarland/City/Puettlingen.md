@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Puettlingen|Puettlingen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.internal.md|Puettlingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.protect.md|Puettlingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.private.md|Puettlingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.personal.md|Puettlingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.secret.md|Puettlingen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.internal|Puettlingen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.protect|Puettlingen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.private|Puettlingen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.personal|Puettlingen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.secret|Puettlingen.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Tel_Aviv/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.md|Tel_Aviv]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.internal.md|Tel_Aviv.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.protect.md|Tel_Aviv.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.private.md|Tel_Aviv.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.personal.md|Tel_Aviv.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.secret.md|Tel_Aviv.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.internal|Tel_Aviv.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.protect|Tel_Aviv.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.private|Tel_Aviv.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.personal|Tel_Aviv.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Tel_Aviv.secret|Tel_Aviv.secret]] 
 

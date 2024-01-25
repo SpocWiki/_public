@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Spheroidality-Shape]
 [SpocWebEntityId::22719]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.md|Triz-stationary_Weight+Spheroidality-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.internal.md|Triz-stationary_Weight+Spheroidality-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.protect.md|Triz-stationary_Weight+Spheroidality-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.private.md|Triz-stationary_Weight+Spheroidality-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.personal.md|Triz-stationary_Weight+Spheroidality-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.secret.md|Triz-stationary_Weight+Spheroidality-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.internal|Triz-stationary_Weight+Spheroidality-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.protect|Triz-stationary_Weight+Spheroidality-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.private|Triz-stationary_Weight+Spheroidality-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.personal|Triz-stationary_Weight+Spheroidality-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.secret|Triz-stationary_Weight+Spheroidality-Shape.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schoenborn.md|Schoenborn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenborn.internal.md|Schoenborn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenborn.protect.md|Schoenborn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenborn.private.md|Schoenborn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenborn.personal.md|Schoenborn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenborn.secret.md|Schoenborn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenborn.internal|Schoenborn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenborn.protect|Schoenborn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenborn.private|Schoenborn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenborn.personal|Schoenborn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenborn.secret|Schoenborn.secret]] 

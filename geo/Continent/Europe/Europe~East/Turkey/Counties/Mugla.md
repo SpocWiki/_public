@@ -41,9 +41,9 @@ markerFolder: ./Mugla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Mugla.md|Mugla]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mugla.internal.md|Mugla.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mugla.protect.md|Mugla.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mugla.private.md|Mugla.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mugla.personal.md|Mugla.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mugla.secret.md|Mugla.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mugla.internal|Mugla.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mugla.protect|Mugla.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mugla.private|Mugla.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mugla.personal|Mugla.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mugla.secret|Mugla.secret]] 
 

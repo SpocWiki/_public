@@ -41,9 +41,9 @@ markerFolder: ./Hertfordshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.md|Hertfordshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.internal.md|Hertfordshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.protect.md|Hertfordshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.private.md|Hertfordshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.personal.md|Hertfordshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.secret.md|Hertfordshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.internal|Hertfordshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.protect|Hertfordshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.private|Hertfordshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.personal|Hertfordshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Hertfordshire.secret|Hertfordshire.secret]] 
 

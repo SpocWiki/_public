@@ -41,9 +41,9 @@ markerFolder: ./Rocha/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Rocha.md|Rocha]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Rocha.internal.md|Rocha.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Rocha.protect.md|Rocha.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Rocha.private.md|Rocha.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Rocha.personal.md|Rocha.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Rocha.secret.md|Rocha.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Rocha.internal|Rocha.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Rocha.protect|Rocha.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Rocha.private|Rocha.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Rocha.personal|Rocha.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Rocha.secret|Rocha.secret]] 
 

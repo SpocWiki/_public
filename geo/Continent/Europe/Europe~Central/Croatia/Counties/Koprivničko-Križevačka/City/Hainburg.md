@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hainburg.md|Hainburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hainburg.internal.md|Hainburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hainburg.protect.md|Hainburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hainburg.private.md|Hainburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hainburg.personal.md|Hainburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hainburg.secret.md|Hainburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hainburg.internal|Hainburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hainburg.protect|Hainburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hainburg.private|Hainburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hainburg.personal|Hainburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hainburg.secret|Hainburg.secret]] 

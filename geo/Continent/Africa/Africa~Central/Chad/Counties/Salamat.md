@@ -41,9 +41,9 @@ markerFolder: ./Salamat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Salamat.md|Salamat]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Salamat.internal.md|Salamat.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Salamat.protect.md|Salamat.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Salamat.private.md|Salamat.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Salamat.personal.md|Salamat.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Salamat.secret.md|Salamat.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Salamat.internal|Salamat.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Salamat.protect|Salamat.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Salamat.private|Salamat.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Salamat.personal|Salamat.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Salamat.secret|Salamat.secret]] 
 

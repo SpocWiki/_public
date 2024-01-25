@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Duncon.md|Duncon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Duncon.internal.md|Duncon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Duncon.protect.md|Duncon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Duncon.private.md|Duncon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Duncon.personal.md|Duncon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Duncon.secret.md|Duncon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Duncon.internal|Duncon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Duncon.protect|Duncon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Duncon.private|Duncon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Duncon.personal|Duncon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Duncon.secret|Duncon.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Vichada/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Vichada.md|Vichada]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vichada.internal.md|Vichada.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vichada.protect.md|Vichada.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Vichada.private.md|Vichada.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vichada.personal.md|Vichada.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vichada.secret.md|Vichada.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vichada.internal|Vichada.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vichada.protect|Vichada.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Vichada.private|Vichada.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vichada.personal|Vichada.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vichada.secret|Vichada.secret]] 
 

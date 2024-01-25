@@ -41,9 +41,9 @@ markerFolder: ./Torbay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.md|Torbay]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.internal.md|Torbay.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.protect.md|Torbay.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.private.md|Torbay.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.personal.md|Torbay.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.secret.md|Torbay.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.internal|Torbay.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.protect|Torbay.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.private|Torbay.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.personal|Torbay.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Torbay.secret|Torbay.secret]] 
 

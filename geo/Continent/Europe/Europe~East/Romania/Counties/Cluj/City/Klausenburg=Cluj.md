@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.md|Klausenburg=Cluj]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.internal.md|Klausenburg=Cluj.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.protect.md|Klausenburg=Cluj.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.private.md|Klausenburg=Cluj.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.personal.md|Klausenburg=Cluj.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.secret.md|Klausenburg=Cluj.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.internal|Klausenburg=Cluj.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.protect|Klausenburg=Cluj.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.private|Klausenburg=Cluj.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.personal|Klausenburg=Cluj.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Klausenburg=Cluj.secret|Klausenburg=Cluj.secret]] 

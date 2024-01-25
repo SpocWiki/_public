@@ -41,9 +41,9 @@ markerFolder: ./Mogilev/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belarus/Counties/Mogilev.md|Mogilev]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Mogilev.internal.md|Mogilev.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Mogilev.protect.md|Mogilev.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Mogilev.private.md|Mogilev.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Mogilev.personal.md|Mogilev.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Mogilev.secret.md|Mogilev.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Mogilev.internal|Mogilev.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Mogilev.protect|Mogilev.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Mogilev.private|Mogilev.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Mogilev.personal|Mogilev.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Mogilev.secret|Mogilev.secret]] 
 

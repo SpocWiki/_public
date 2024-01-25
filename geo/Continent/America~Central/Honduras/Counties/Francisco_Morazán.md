@@ -41,9 +41,9 @@ markerFolder: ./Francisco_Morazán/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.md|Francisco_Morazán]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.internal.md|Francisco_Morazán.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.protect.md|Francisco_Morazán.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.private.md|Francisco_Morazán.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.personal.md|Francisco_Morazán.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.secret.md|Francisco_Morazán.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.internal|Francisco_Morazán.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.protect|Francisco_Morazán.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.private|Francisco_Morazán.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.personal|Francisco_Morazán.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Francisco_Morazán.secret|Francisco_Morazán.secret]] 
 

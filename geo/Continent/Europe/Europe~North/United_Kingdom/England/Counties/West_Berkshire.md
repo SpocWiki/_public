@@ -41,9 +41,9 @@ markerFolder: ./West_Berkshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.md|West_Berkshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.internal.md|West_Berkshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.protect.md|West_Berkshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.private.md|West_Berkshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.personal.md|West_Berkshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.secret.md|West_Berkshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.internal|West_Berkshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.protect|West_Berkshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.private|West_Berkshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.personal|West_Berkshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/West_Berkshire.secret|West_Berkshire.secret]] 
 

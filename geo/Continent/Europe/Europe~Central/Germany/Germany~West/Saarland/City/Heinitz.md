@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Heinitz|Heinitz]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.internal.md|Heinitz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.protect.md|Heinitz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.private.md|Heinitz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.personal.md|Heinitz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.secret.md|Heinitz.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.internal|Heinitz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.protect|Heinitz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.private|Heinitz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.personal|Heinitz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.secret|Heinitz.secret]] 

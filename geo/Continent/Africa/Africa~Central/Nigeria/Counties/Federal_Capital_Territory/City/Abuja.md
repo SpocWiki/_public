@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Nigeria/City/Abuja.md|Abuja]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Abuja.internal.md|Abuja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Abuja.protect.md|Abuja.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/City/Abuja.private.md|Abuja.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Abuja.personal.md|Abuja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Abuja.secret.md|Abuja.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Abuja.internal|Abuja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Abuja.protect|Abuja.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/City/Abuja.private|Abuja.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Abuja.personal|Abuja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Abuja.secret|Abuja.secret]] 

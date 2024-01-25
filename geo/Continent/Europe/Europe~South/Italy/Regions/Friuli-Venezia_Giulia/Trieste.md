@@ -41,9 +41,9 @@ markerFolder: ./Trieste.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.md|Trieste.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.internal.md|Trieste.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.protect.md|Trieste.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.private.md|Trieste.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.personal.md|Trieste.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.secret.md|Trieste.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.internal|Trieste.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.protect|Trieste.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.private|Trieste.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.personal|Trieste.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.secret|Trieste.Province.secret]] 
 

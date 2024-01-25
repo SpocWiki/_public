@@ -29,8 +29,8 @@ markerFolder: ./Oberösterreich/
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/State/Oberösterreich.md|Oberösterreich]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Oberösterreich.internal.md|Oberösterreich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Oberösterreich.protect.md|Oberösterreich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Oberösterreich.private.md|Oberösterreich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Oberösterreich.personal.md|Oberösterreich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Oberösterreich.secret.md|Oberösterreich.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Oberösterreich.internal|Oberösterreich.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Oberösterreich.protect|Oberösterreich.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Oberösterreich.private|Oberösterreich.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Oberösterreich.personal|Oberösterreich.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Oberösterreich.secret|Oberösterreich.secret]] 

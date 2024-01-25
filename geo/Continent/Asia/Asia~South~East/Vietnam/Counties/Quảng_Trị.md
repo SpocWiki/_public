@@ -41,9 +41,9 @@ markerFolder: ./Quảng_Trị/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.md|Quảng_Trị]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.internal.md|Quảng_Trị.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.protect.md|Quảng_Trị.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.private.md|Quảng_Trị.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.personal.md|Quảng_Trị.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.secret.md|Quảng_Trị.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.internal|Quảng_Trị.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.protect|Quảng_Trị.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.private|Quảng_Trị.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.personal|Quảng_Trị.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Trị.secret|Quảng_Trị.secret]] 
 

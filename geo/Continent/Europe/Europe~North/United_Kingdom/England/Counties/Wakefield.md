@@ -41,9 +41,9 @@ markerFolder: ./Wakefield/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.md|Wakefield]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.internal.md|Wakefield.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.protect.md|Wakefield.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.private.md|Wakefield.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.personal.md|Wakefield.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.secret.md|Wakefield.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.internal|Wakefield.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.protect|Wakefield.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.private|Wakefield.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.personal|Wakefield.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wakefield.secret|Wakefield.secret]] 
 

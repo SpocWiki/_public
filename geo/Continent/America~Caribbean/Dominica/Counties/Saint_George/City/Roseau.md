@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Dominica/City/Roseau.md|Roseau]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Dominica/City/Roseau.internal.md|Roseau.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Dominica/City/Roseau.protect.md|Roseau.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Dominica/City/Roseau.private.md|Roseau.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Dominica/City/Roseau.personal.md|Roseau.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Dominica/City/Roseau.secret.md|Roseau.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Dominica/City/Roseau.internal|Roseau.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Dominica/City/Roseau.protect|Roseau.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Dominica/City/Roseau.private|Roseau.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Dominica/City/Roseau.personal|Roseau.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Dominica/City/Roseau.secret|Roseau.secret]] 

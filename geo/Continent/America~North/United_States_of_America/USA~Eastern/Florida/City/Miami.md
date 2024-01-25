@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.md|Miami]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.internal.md|Miami.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.protect.md|Miami.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.private.md|Miami.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.personal.md|Miami.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.secret.md|Miami.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.internal|Miami.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.protect|Miami.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.private|Miami.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.personal|Miami.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.secret|Miami.secret]] 

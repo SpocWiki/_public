@@ -41,9 +41,9 @@ markerFolder: ./Andaman_and_Nicobar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.md|Andaman_and_Nicobar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.internal.md|Andaman_and_Nicobar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.protect.md|Andaman_and_Nicobar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.private.md|Andaman_and_Nicobar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.personal.md|Andaman_and_Nicobar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.secret.md|Andaman_and_Nicobar.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.internal|Andaman_and_Nicobar.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.protect|Andaman_and_Nicobar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.private|Andaman_and_Nicobar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.personal|Andaman_and_Nicobar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.secret|Andaman_and_Nicobar.secret]] 
 

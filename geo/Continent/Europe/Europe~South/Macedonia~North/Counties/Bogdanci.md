@@ -41,9 +41,9 @@ markerFolder: ./Bogdanci/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.md|Bogdanci]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.internal.md|Bogdanci.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.protect.md|Bogdanci.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.private.md|Bogdanci.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.personal.md|Bogdanci.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.secret.md|Bogdanci.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.internal|Bogdanci.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.protect|Bogdanci.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.private|Bogdanci.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.personal|Bogdanci.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Bogdanci.secret|Bogdanci.secret]] 
 

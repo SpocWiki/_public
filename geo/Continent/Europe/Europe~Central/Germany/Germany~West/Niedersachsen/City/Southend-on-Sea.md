@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.md|Southend-on-Sea]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.internal.md|Southend-on-Sea.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.protect.md|Southend-on-Sea.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.private.md|Southend-on-Sea.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.personal.md|Southend-on-Sea.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.secret.md|Southend-on-Sea.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.internal|Southend-on-Sea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.protect|Southend-on-Sea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.private|Southend-on-Sea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.personal|Southend-on-Sea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.secret|Southend-on-Sea.secret]] 

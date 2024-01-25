@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sievsk.md|Sievsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sievsk.internal.md|Sievsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sievsk.protect.md|Sievsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sievsk.private.md|Sievsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sievsk.personal.md|Sievsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sievsk.secret.md|Sievsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sievsk.internal|Sievsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sievsk.protect|Sievsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sievsk.private|Sievsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sievsk.personal|Sievsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sievsk.secret|Sievsk.secret]] 

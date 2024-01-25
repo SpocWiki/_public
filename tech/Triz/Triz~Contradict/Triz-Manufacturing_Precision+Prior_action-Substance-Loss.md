@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Prior_action-Substance-Loss]
 [SpocWebEntityId::25540]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.md|Triz-Manufacturing_Precision+Prior_action-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.internal.md|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.protect.md|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.private.md|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.personal.md|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.secret.md|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.internal|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.protect|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.private|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.personal|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.secret|Triz-Manufacturing_Precision+Prior_action-Substance-Loss.secret]] 

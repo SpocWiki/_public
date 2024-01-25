@@ -41,9 +41,9 @@ markerFolder: ./Maysan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.md|Maysan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.internal.md|Maysan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.protect.md|Maysan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.private.md|Maysan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.personal.md|Maysan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.secret.md|Maysan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.internal|Maysan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.protect|Maysan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.private|Maysan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.personal|Maysan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.secret|Maysan.secret]] 
 

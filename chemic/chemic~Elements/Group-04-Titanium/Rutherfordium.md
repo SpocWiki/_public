@@ -37,8 +37,8 @@ SpocWebEntityId: 21999
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-04-Titanium/Rutherfordium.md|Rutherfordium]] 
-- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Rutherfordium.internal.md|Rutherfordium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Rutherfordium.protect.md|Rutherfordium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-04-Titanium/Rutherfordium.private.md|Rutherfordium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Rutherfordium.personal.md|Rutherfordium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Rutherfordium.secret.md|Rutherfordium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Rutherfordium.internal|Rutherfordium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Rutherfordium.protect|Rutherfordium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-04-Titanium/Rutherfordium.private|Rutherfordium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Rutherfordium.personal|Rutherfordium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Rutherfordium.secret|Rutherfordium.secret]] 

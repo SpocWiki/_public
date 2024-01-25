@@ -41,9 +41,9 @@ markerFolder: ./Szekszárd/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Szekszárd.md|Szekszárd]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szekszárd.internal.md|Szekszárd.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szekszárd.protect.md|Szekszárd.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szekszárd.private.md|Szekszárd.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szekszárd.personal.md|Szekszárd.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szekszárd.secret.md|Szekszárd.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szekszárd.internal|Szekszárd.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szekszárd.protect|Szekszárd.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szekszárd.private|Szekszárd.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szekszárd.personal|Szekszárd.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szekszárd.secret|Szekszárd.secret]] 
 

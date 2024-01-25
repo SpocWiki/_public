@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Brioude.md|Brioude]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Brioude.internal.md|Brioude.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Brioude.protect.md|Brioude.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Brioude.private.md|Brioude.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Brioude.personal.md|Brioude.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Brioude.secret.md|Brioude.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Brioude.internal|Brioude.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Brioude.protect|Brioude.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Brioude.private|Brioude.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Brioude.personal|Brioude.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Brioude.secret|Brioude.secret]] 

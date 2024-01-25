@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Draconis-22.md|Draconis-22]] 
-- [[../../../_internal/astro/Star/Draconis-22.internal.md|Draconis-22.internal]] 
-- [[../../../_protect/astro/Star/Draconis-22.protect.md|Draconis-22.protect]] 
-- [[../../../_private/astro/Star/Draconis-22.private.md|Draconis-22.private]] 
-- [[../../../_personal/astro/Star/Draconis-22.personal.md|Draconis-22.personal]] 
-- [[../../../_secret/astro/Star/Draconis-22.secret.md|Draconis-22.secret]]
+- [[../../../_internal/astro/Star/Draconis-22.internal|Draconis-22.internal]] 
+- [[../../../_protect/astro/Star/Draconis-22.protect|Draconis-22.protect]] 
+- [[../../../_private/astro/Star/Draconis-22.private|Draconis-22.private]] 
+- [[../../../_personal/astro/Star/Draconis-22.personal|Draconis-22.personal]] 
+- [[../../../_secret/astro/Star/Draconis-22.secret|Draconis-22.secret]]
 

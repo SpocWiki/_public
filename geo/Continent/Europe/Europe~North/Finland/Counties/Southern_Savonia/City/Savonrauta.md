@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Savonrauta.md|Savonrauta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Savonrauta.internal.md|Savonrauta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Savonrauta.protect.md|Savonrauta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Savonrauta.private.md|Savonrauta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Savonrauta.personal.md|Savonrauta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Savonrauta.secret.md|Savonrauta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Savonrauta.internal|Savonrauta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Savonrauta.protect|Savonrauta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Savonrauta.private|Savonrauta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Savonrauta.personal|Savonrauta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Savonrauta.secret|Savonrauta.secret]] 

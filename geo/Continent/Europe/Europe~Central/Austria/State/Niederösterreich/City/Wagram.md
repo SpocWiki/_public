@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wagram.md|Wagram]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wagram.internal.md|Wagram.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wagram.protect.md|Wagram.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wagram.private.md|Wagram.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wagram.personal.md|Wagram.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wagram.secret.md|Wagram.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wagram.internal|Wagram.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wagram.protect|Wagram.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wagram.private|Wagram.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wagram.personal|Wagram.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wagram.secret|Wagram.secret]] 

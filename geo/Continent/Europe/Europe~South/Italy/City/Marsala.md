@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Marsala.md|Marsala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Marsala.internal.md|Marsala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Marsala.protect.md|Marsala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Marsala.private.md|Marsala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Marsala.personal.md|Marsala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Marsala.secret.md|Marsala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Marsala.internal|Marsala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Marsala.protect|Marsala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Marsala.private|Marsala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Marsala.personal|Marsala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Marsala.secret|Marsala.secret]] 

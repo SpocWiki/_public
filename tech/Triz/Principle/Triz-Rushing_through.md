@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Rushing_through.md|Triz-Rushing_through]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Rushing_through.internal.md|Triz-Rushing_through.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Rushing_through.protect.md|Triz-Rushing_through.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Rushing_through.private.md|Triz-Rushing_through.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Rushing_through.personal.md|Triz-Rushing_through.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Rushing_through.secret.md|Triz-Rushing_through.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Rushing_through.internal|Triz-Rushing_through.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Rushing_through.protect|Triz-Rushing_through.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Rushing_through.private|Triz-Rushing_through.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Rushing_through.personal|Triz-Rushing_through.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Rushing_through.secret|Triz-Rushing_through.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Flexible_film_or_thin_membranes-stationary_Area]
 [SpocWebEntityId::24941]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.md|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.internal.md|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.protect.md|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.private.md|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.personal.md|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.secret.md|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.internal|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.protect|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.private|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.personal|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.secret|Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.secret]] 

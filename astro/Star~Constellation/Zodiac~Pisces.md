@@ -19,8 +19,8 @@ ZodiacPos: 12
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Pisces.md|Zodiac~Pisces]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Pisces.internal.md|Zodiac~Pisces.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Pisces.protect.md|Zodiac~Pisces.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Pisces.private.md|Zodiac~Pisces.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Pisces.personal.md|Zodiac~Pisces.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Pisces.secret.md|Zodiac~Pisces.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Pisces.internal|Zodiac~Pisces.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Pisces.protect|Zodiac~Pisces.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Pisces.private|Zodiac~Pisces.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Pisces.personal|Zodiac~Pisces.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Pisces.secret|Zodiac~Pisces.secret]] 

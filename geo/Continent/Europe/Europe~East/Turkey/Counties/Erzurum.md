@@ -41,9 +41,9 @@ markerFolder: ./Erzurum/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Erzurum.md|Erzurum]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Erzurum.internal.md|Erzurum.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Erzurum.protect.md|Erzurum.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Erzurum.private.md|Erzurum.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Erzurum.personal.md|Erzurum.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Erzurum.secret.md|Erzurum.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Erzurum.internal|Erzurum.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Erzurum.protect|Erzurum.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Erzurum.private|Erzurum.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Erzurum.personal|Erzurum.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Erzurum.secret|Erzurum.secret]] 
 

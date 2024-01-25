@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kasan.md|Kasan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kasan.internal.md|Kasan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kasan.protect.md|Kasan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kasan.private.md|Kasan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kasan.personal.md|Kasan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kasan.secret.md|Kasan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kasan.internal|Kasan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kasan.protect|Kasan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kasan.private|Kasan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kasan.personal|Kasan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kasan.secret|Kasan.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Al_Butnan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Butnan.md|Al_Butnan]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Butnan.internal.md|Al_Butnan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Butnan.protect.md|Al_Butnan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Butnan.private.md|Al_Butnan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Butnan.personal.md|Al_Butnan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Butnan.secret.md|Al_Butnan.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Butnan.internal|Al_Butnan.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Butnan.protect|Al_Butnan.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Butnan.private|Al_Butnan.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Butnan.personal|Al_Butnan.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Butnan.secret|Al_Butnan.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tavastehns.md|Tavastehns]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tavastehns.internal.md|Tavastehns.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tavastehns.protect.md|Tavastehns.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tavastehns.private.md|Tavastehns.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tavastehns.personal.md|Tavastehns.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tavastehns.secret.md|Tavastehns.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tavastehns.internal|Tavastehns.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tavastehns.protect|Tavastehns.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tavastehns.private|Tavastehns.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tavastehns.personal|Tavastehns.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tavastehns.secret|Tavastehns.secret]] 

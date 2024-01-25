@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Mechanical_vibration-Stability]
 [SpocWebEntityId::25521]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.md|Triz-Manufacturing_Precision+Mechanical_vibration-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.internal.md|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.protect.md|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.private.md|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.personal.md|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.secret.md|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.internal|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.protect|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.private|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.personal|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.secret|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Aubusson.md|Aubusson]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Aubusson.internal.md|Aubusson.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Aubusson.protect.md|Aubusson.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Aubusson.private.md|Aubusson.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Aubusson.personal.md|Aubusson.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Aubusson.secret.md|Aubusson.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Aubusson.internal|Aubusson.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Aubusson.protect|Aubusson.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Aubusson.private|Aubusson.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Aubusson.personal|Aubusson.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Aubusson.secret|Aubusson.secret]] 

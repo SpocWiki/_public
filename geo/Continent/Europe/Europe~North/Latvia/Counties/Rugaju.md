@@ -41,9 +41,9 @@ markerFolder: ./Rugaju/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Rugaju.md|Rugaju]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rugaju.internal.md|Rugaju.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rugaju.protect.md|Rugaju.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rugaju.private.md|Rugaju.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rugaju.personal.md|Rugaju.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rugaju.secret.md|Rugaju.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rugaju.internal|Rugaju.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rugaju.protect|Rugaju.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rugaju.private|Rugaju.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rugaju.personal|Rugaju.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rugaju.secret|Rugaju.secret]] 
 

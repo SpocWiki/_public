@@ -41,9 +41,9 @@ markerFolder: ./Pointe_Noire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.md|Pointe_Noire]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.internal.md|Pointe_Noire.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.protect.md|Pointe_Noire.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.private.md|Pointe_Noire.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.personal.md|Pointe_Noire.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.secret.md|Pointe_Noire.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.internal|Pointe_Noire.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.protect|Pointe_Noire.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.private|Pointe_Noire.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.personal|Pointe_Noire.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Pointe_Noire.secret|Pointe_Noire.secret]] 
 

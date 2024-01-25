@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Changing_the_color-Speed]
 [SpocWebEntityId::24946]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.md|Triz-Information-Loss+Changing_the_color-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.internal.md|Triz-Information-Loss+Changing_the_color-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.protect.md|Triz-Information-Loss+Changing_the_color-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.private.md|Triz-Information-Loss+Changing_the_color-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.personal.md|Triz-Information-Loss+Changing_the_color-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.secret.md|Triz-Information-Loss+Changing_the_color-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.internal|Triz-Information-Loss+Changing_the_color-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.protect|Triz-Information-Loss+Changing_the_color-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.private|Triz-Information-Loss+Changing_the_color-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.personal|Triz-Information-Loss+Changing_the_color-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.secret|Triz-Information-Loss+Changing_the_color-Speed.secret]] 

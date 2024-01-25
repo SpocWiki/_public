@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Bhutan/City/Thimphu.md|Thimphu]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Bhutan/City/Thimphu.internal.md|Thimphu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Bhutan/City/Thimphu.protect.md|Thimphu.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Bhutan/City/Thimphu.private.md|Thimphu.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Bhutan/City/Thimphu.personal.md|Thimphu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Bhutan/City/Thimphu.secret.md|Thimphu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Bhutan/City/Thimphu.internal|Thimphu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Bhutan/City/Thimphu.protect|Thimphu.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Bhutan/City/Thimphu.private|Thimphu.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Bhutan/City/Thimphu.personal|Thimphu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Bhutan/City/Thimphu.secret|Thimphu.secret]] 

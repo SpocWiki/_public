@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Vigan.md|Vigan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vigan.internal.md|Vigan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vigan.protect.md|Vigan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Vigan.private.md|Vigan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vigan.personal.md|Vigan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vigan.secret.md|Vigan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vigan.internal|Vigan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vigan.protect|Vigan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Vigan.private|Vigan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vigan.personal|Vigan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vigan.secret|Vigan.secret]] 

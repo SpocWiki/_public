@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bastad.md|Bastad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bastad.internal.md|Bastad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bastad.protect.md|Bastad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bastad.private.md|Bastad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bastad.personal.md|Bastad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bastad.secret.md|Bastad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bastad.internal|Bastad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bastad.protect|Bastad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bastad.private|Bastad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bastad.personal|Bastad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bastad.secret|Bastad.secret]] 

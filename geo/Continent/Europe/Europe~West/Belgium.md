@@ -135,8 +135,8 @@ markerFolder: ./Belgium//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium.md|Belgium]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium.internal.md|Belgium.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium.protect.md|Belgium.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium.private.md|Belgium.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium.personal.md|Belgium.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium.secret.md|Belgium.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium.internal|Belgium.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium.protect|Belgium.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium.private|Belgium.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium.personal|Belgium.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium.secret|Belgium.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Periodic_action-Temperature]
 [SpocWebEntityId::24381]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.md|Triz-Illumination+Periodic_action-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.internal.md|Triz-Illumination+Periodic_action-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.protect.md|Triz-Illumination+Periodic_action-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.private.md|Triz-Illumination+Periodic_action-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.personal.md|Triz-Illumination+Periodic_action-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.secret.md|Triz-Illumination+Periodic_action-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.internal|Triz-Illumination+Periodic_action-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.protect|Triz-Illumination+Periodic_action-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.private|Triz-Illumination+Periodic_action-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.personal|Triz-Illumination+Periodic_action-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.secret|Triz-Illumination+Periodic_action-Temperature.secret]] 

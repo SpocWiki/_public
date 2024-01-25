@@ -41,9 +41,9 @@ markerFolder: ./Ilfov/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Ilfov.md|Ilfov]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Ilfov.internal.md|Ilfov.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Ilfov.protect.md|Ilfov.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Ilfov.private.md|Ilfov.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Ilfov.personal.md|Ilfov.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Ilfov.secret.md|Ilfov.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Ilfov.internal|Ilfov.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Ilfov.protect|Ilfov.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Ilfov.private|Ilfov.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Ilfov.personal|Ilfov.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Ilfov.secret|Ilfov.secret]] 
 

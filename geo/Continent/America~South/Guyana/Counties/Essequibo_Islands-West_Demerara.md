@@ -41,9 +41,9 @@ markerFolder: ./Essequibo_Islands-West_Demerara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.md|Essequibo_Islands-West_Demerara]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.internal.md|Essequibo_Islands-West_Demerara.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.protect.md|Essequibo_Islands-West_Demerara.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.private.md|Essequibo_Islands-West_Demerara.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.personal.md|Essequibo_Islands-West_Demerara.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.secret.md|Essequibo_Islands-West_Demerara.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.internal|Essequibo_Islands-West_Demerara.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.protect|Essequibo_Islands-West_Demerara.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.private|Essequibo_Islands-West_Demerara.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.personal|Essequibo_Islands-West_Demerara.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Essequibo_Islands-West_Demerara.secret|Essequibo_Islands-West_Demerara.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.md|Teddington]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.internal.md|Teddington.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.protect.md|Teddington.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.private.md|Teddington.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.personal.md|Teddington.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.secret.md|Teddington.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.internal|Teddington.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.protect|Teddington.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.private|Teddington.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.personal|Teddington.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.secret|Teddington.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Autun.md|Autun]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Autun.internal.md|Autun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Autun.protect.md|Autun.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Autun.private.md|Autun.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Autun.personal.md|Autun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Autun.secret.md|Autun.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Autun.internal|Autun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Autun.protect|Autun.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Autun.private|Autun.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Autun.personal|Autun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Autun.secret|Autun.secret]] 

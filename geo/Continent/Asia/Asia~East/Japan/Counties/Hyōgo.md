@@ -41,9 +41,9 @@ markerFolder: ./Hyōgo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.md|Hyōgo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.internal.md|Hyōgo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.protect.md|Hyōgo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.private.md|Hyōgo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.personal.md|Hyōgo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.secret.md|Hyōgo.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.internal|Hyōgo.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.protect|Hyōgo.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.private|Hyōgo.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.personal|Hyōgo.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.secret|Hyōgo.secret]] 
 

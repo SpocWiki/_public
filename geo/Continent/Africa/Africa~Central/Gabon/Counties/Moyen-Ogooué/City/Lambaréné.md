@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Gabon/City/Lambaréné.md|Lambaréné]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gabon/City/Lambaréné.internal.md|Lambaréné.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gabon/City/Lambaréné.protect.md|Lambaréné.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gabon/City/Lambaréné.private.md|Lambaréné.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gabon/City/Lambaréné.personal.md|Lambaréné.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gabon/City/Lambaréné.secret.md|Lambaréné.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Gabon/City/Lambaréné.internal|Lambaréné.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Gabon/City/Lambaréné.protect|Lambaréné.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Gabon/City/Lambaréné.private|Lambaréné.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Gabon/City/Lambaréné.personal|Lambaréné.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Gabon/City/Lambaréné.secret|Lambaréné.secret]] 

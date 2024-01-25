@@ -41,9 +41,9 @@ markerFolder: ./Arad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Arad.md|Arad]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Arad.internal.md|Arad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Arad.protect.md|Arad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Arad.private.md|Arad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Arad.personal.md|Arad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Arad.secret.md|Arad.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Arad.internal|Arad.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Arad.protect|Arad.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Arad.private|Arad.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Arad.personal|Arad.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Arad.secret|Arad.secret]] 
 

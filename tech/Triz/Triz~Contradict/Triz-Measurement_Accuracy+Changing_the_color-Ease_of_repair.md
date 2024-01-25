@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Changing_the_color-Ease_of_repair]
 [SpocWebEntityId::25457]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.md|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.internal.md|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.protect.md|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.private.md|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.personal.md|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.secret.md|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.internal|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.protect|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.private|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.personal|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.secret|Triz-Measurement_Accuracy+Changing_the_color-Ease_of_repair.secret]] 

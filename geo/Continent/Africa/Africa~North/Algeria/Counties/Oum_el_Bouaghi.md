@@ -41,9 +41,9 @@ markerFolder: ./Oum_el_Bouaghi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.md|Oum_el_Bouaghi]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.internal.md|Oum_el_Bouaghi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.protect.md|Oum_el_Bouaghi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.private.md|Oum_el_Bouaghi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.personal.md|Oum_el_Bouaghi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.secret.md|Oum_el_Bouaghi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.internal|Oum_el_Bouaghi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.protect|Oum_el_Bouaghi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.private|Oum_el_Bouaghi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.personal|Oum_el_Bouaghi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.secret|Oum_el_Bouaghi.secret]] 
 

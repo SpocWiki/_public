@@ -41,9 +41,9 @@ markerFolder: ./Wiltshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.md|Wiltshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.internal.md|Wiltshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.protect.md|Wiltshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.private.md|Wiltshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.personal.md|Wiltshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.secret.md|Wiltshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.internal|Wiltshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.protect|Wiltshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.private|Wiltshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.personal|Wiltshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wiltshire.secret|Wiltshire.secret]] 
 

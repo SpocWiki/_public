@@ -41,9 +41,9 @@ markerFolder: ./Buzau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Buzau.md|Buzau]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Buzau.internal.md|Buzau.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Buzau.protect.md|Buzau.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Buzau.private.md|Buzau.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Buzau.personal.md|Buzau.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Buzau.secret.md|Buzau.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Buzau.internal|Buzau.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Buzau.protect|Buzau.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Buzau.private|Buzau.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Buzau.personal|Buzau.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Buzau.secret|Buzau.secret]] 
 

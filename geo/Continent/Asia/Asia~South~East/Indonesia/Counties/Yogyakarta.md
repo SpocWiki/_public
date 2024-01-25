@@ -41,9 +41,9 @@ markerFolder: ./Yogyakarta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.md|Yogyakarta]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.internal.md|Yogyakarta.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.protect.md|Yogyakarta.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.private.md|Yogyakarta.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.personal.md|Yogyakarta.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.secret.md|Yogyakarta.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.internal|Yogyakarta.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.protect|Yogyakarta.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.private|Yogyakarta.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.personal|Yogyakarta.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.secret|Yogyakarta.secret]] 
 

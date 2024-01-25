@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Skole.md|Skole]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Skole.internal.md|Skole.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Skole.protect.md|Skole.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Skole.private.md|Skole.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Skole.personal.md|Skole.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Skole.secret.md|Skole.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Skole.internal|Skole.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Skole.protect|Skole.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Skole.private|Skole.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Skole.personal|Skole.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Skole.secret|Skole.secret]] 

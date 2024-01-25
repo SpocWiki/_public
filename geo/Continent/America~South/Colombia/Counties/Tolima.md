@@ -41,9 +41,9 @@ markerFolder: ./Tolima/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Tolima.md|Tolima]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Tolima.internal.md|Tolima.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Tolima.protect.md|Tolima.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Tolima.private.md|Tolima.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Tolima.personal.md|Tolima.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Tolima.secret.md|Tolima.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Tolima.internal|Tolima.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Tolima.protect|Tolima.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Tolima.private|Tolima.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Tolima.personal|Tolima.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Tolima.secret|Tolima.secret]] 
 

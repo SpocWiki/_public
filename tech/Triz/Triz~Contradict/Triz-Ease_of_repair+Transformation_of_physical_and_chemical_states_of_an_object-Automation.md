@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation]
 [SpocWebEntityId::26174]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret.md|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret|Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret]] 

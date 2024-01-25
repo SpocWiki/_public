@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Malawi/City/Lilongwe.md|Lilongwe]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/City/Lilongwe.internal.md|Lilongwe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/City/Lilongwe.protect.md|Lilongwe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/City/Lilongwe.private.md|Lilongwe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/City/Lilongwe.personal.md|Lilongwe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/City/Lilongwe.secret.md|Lilongwe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/City/Lilongwe.internal|Lilongwe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/City/Lilongwe.protect|Lilongwe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/City/Lilongwe.private|Lilongwe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/City/Lilongwe.personal|Lilongwe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/City/Lilongwe.secret|Lilongwe.secret]] 

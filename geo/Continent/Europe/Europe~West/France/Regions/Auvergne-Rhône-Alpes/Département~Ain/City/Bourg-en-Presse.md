@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Bourg-en-Presse.md|Bourg-en-Presse]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bourg-en-Presse.internal.md|Bourg-en-Presse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bourg-en-Presse.protect.md|Bourg-en-Presse.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Bourg-en-Presse.private.md|Bourg-en-Presse.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bourg-en-Presse.personal.md|Bourg-en-Presse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bourg-en-Presse.secret.md|Bourg-en-Presse.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bourg-en-Presse.internal|Bourg-en-Presse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bourg-en-Presse.protect|Bourg-en-Presse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bourg-en-Presse.private|Bourg-en-Presse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bourg-en-Presse.personal|Bourg-en-Presse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bourg-en-Presse.secret|Bourg-en-Presse.secret]] 

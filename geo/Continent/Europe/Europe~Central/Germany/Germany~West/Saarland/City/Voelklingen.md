@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Voelklingen|Voelklingen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.internal.md|Voelklingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.protect.md|Voelklingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.private.md|Voelklingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.personal.md|Voelklingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.secret.md|Voelklingen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.internal|Voelklingen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.protect|Voelklingen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.private|Voelklingen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.personal|Voelklingen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.secret|Voelklingen.secret]] 

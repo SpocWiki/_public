@@ -41,9 +41,9 @@ markerFolder: ./Gnagna/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.md|Gnagna]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.internal.md|Gnagna.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.protect.md|Gnagna.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.private.md|Gnagna.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.personal.md|Gnagna.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.secret.md|Gnagna.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.internal|Gnagna.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.protect|Gnagna.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.private|Gnagna.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.personal|Gnagna.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.secret|Gnagna.secret]] 
 

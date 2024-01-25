@@ -40,8 +40,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Rhode_Island.md|Rhode_Island]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Rhode_Island.internal.md|Rhode_Island.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Rhode_Island.protect.md|Rhode_Island.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Rhode_Island.private.md|Rhode_Island.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Rhode_Island.personal.md|Rhode_Island.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Rhode_Island.secret.md|Rhode_Island.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Rhode_Island.internal|Rhode_Island.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Rhode_Island.protect|Rhode_Island.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Rhode_Island.private|Rhode_Island.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Rhode_Island.personal|Rhode_Island.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Rhode_Island.secret|Rhode_Island.secret]] 

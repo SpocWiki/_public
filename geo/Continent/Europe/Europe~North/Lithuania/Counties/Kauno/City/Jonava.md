@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jonava.md|Jonava]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jonava.internal.md|Jonava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jonava.protect.md|Jonava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jonava.private.md|Jonava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jonava.personal.md|Jonava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jonava.secret.md|Jonava.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jonava.internal|Jonava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jonava.protect|Jonava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jonava.private|Jonava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jonava.personal|Jonava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jonava.secret|Jonava.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Aknistes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Aknistes.md|Aknistes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aknistes.internal.md|Aknistes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aknistes.protect.md|Aknistes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aknistes.private.md|Aknistes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aknistes.personal.md|Aknistes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aknistes.secret.md|Aknistes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aknistes.internal|Aknistes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aknistes.protect|Aknistes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aknistes.private|Aknistes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aknistes.personal|Aknistes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aknistes.secret|Aknistes.secret]] 
 

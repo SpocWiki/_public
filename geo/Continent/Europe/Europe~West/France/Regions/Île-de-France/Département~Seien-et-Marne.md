@@ -41,9 +41,9 @@ markerFolder: ./Département~Seien-et-Marne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.md|Département~Seien-et-Marne]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.internal.md|Département~Seien-et-Marne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.protect.md|Département~Seien-et-Marne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.private.md|Département~Seien-et-Marne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.personal.md|Département~Seien-et-Marne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.secret.md|Département~Seien-et-Marne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.internal|Département~Seien-et-Marne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.protect|Département~Seien-et-Marne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.private|Département~Seien-et-Marne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.personal|Département~Seien-et-Marne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seien-et-Marne.secret|Département~Seien-et-Marne.secret]] 
 

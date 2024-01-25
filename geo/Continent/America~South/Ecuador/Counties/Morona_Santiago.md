@@ -41,9 +41,9 @@ markerFolder: ./Morona_Santiago/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.md|Morona_Santiago]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.internal.md|Morona_Santiago.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.protect.md|Morona_Santiago.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.private.md|Morona_Santiago.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.personal.md|Morona_Santiago.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.secret.md|Morona_Santiago.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.internal|Morona_Santiago.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.protect|Morona_Santiago.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.private|Morona_Santiago.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.personal|Morona_Santiago.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.secret|Morona_Santiago.secret]] 
 

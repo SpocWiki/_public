@@ -41,9 +41,9 @@ markerFolder: ./Yamaguchi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.md|Yamaguchi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.internal.md|Yamaguchi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.protect.md|Yamaguchi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.private.md|Yamaguchi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.personal.md|Yamaguchi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.secret.md|Yamaguchi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.internal|Yamaguchi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.protect|Yamaguchi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.private|Yamaguchi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.personal|Yamaguchi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.secret|Yamaguchi.secret]] 
 

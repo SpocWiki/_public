@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cerreto.md|Cerreto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cerreto.internal.md|Cerreto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cerreto.protect.md|Cerreto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cerreto.private.md|Cerreto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cerreto.personal.md|Cerreto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cerreto.secret.md|Cerreto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cerreto.internal|Cerreto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cerreto.protect|Cerreto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cerreto.private|Cerreto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cerreto.personal|Cerreto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cerreto.secret|Cerreto.secret]] 

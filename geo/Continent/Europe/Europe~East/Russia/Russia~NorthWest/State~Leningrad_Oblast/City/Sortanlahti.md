@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sortanlahti.md|Sortanlahti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sortanlahti.internal.md|Sortanlahti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sortanlahti.protect.md|Sortanlahti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sortanlahti.private.md|Sortanlahti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sortanlahti.personal.md|Sortanlahti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sortanlahti.secret.md|Sortanlahti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sortanlahti.internal|Sortanlahti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sortanlahti.protect|Sortanlahti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sortanlahti.private|Sortanlahti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sortanlahti.personal|Sortanlahti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sortanlahti.secret|Sortanlahti.secret]] 

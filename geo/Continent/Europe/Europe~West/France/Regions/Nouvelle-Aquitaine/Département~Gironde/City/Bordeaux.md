@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Bordeaux.md|Bordeaux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bordeaux.internal.md|Bordeaux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bordeaux.protect.md|Bordeaux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Bordeaux.private.md|Bordeaux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bordeaux.personal.md|Bordeaux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bordeaux.secret.md|Bordeaux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bordeaux.internal|Bordeaux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bordeaux.protect|Bordeaux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bordeaux.private|Bordeaux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bordeaux.personal|Bordeaux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bordeaux.secret|Bordeaux.secret]] 

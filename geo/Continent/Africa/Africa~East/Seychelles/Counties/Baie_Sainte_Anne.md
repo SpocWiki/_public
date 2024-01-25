@@ -41,9 +41,9 @@ markerFolder: ./Baie_Sainte_Anne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.md|Baie_Sainte_Anne]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.internal.md|Baie_Sainte_Anne.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.protect.md|Baie_Sainte_Anne.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.private.md|Baie_Sainte_Anne.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.personal.md|Baie_Sainte_Anne.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.secret.md|Baie_Sainte_Anne.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.internal|Baie_Sainte_Anne.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.protect|Baie_Sainte_Anne.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.private|Baie_Sainte_Anne.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.personal|Baie_Sainte_Anne.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.secret|Baie_Sainte_Anne.secret]] 
 

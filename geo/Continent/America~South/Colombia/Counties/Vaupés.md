@@ -41,9 +41,9 @@ markerFolder: ./Vaupés/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Vaupés.md|Vaupés]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vaupés.internal.md|Vaupés.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vaupés.protect.md|Vaupés.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Vaupés.private.md|Vaupés.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vaupés.personal.md|Vaupés.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vaupés.secret.md|Vaupés.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vaupés.internal|Vaupés.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vaupés.protect|Vaupés.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Vaupés.private|Vaupés.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vaupés.personal|Vaupés.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vaupés.secret|Vaupés.secret]] 
 

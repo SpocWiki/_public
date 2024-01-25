@@ -41,9 +41,9 @@ markerFolder: ./Laghouat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Laghouat.md|Laghouat]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Laghouat.internal.md|Laghouat.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Laghouat.protect.md|Laghouat.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Laghouat.private.md|Laghouat.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Laghouat.personal.md|Laghouat.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Laghouat.secret.md|Laghouat.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Laghouat.internal|Laghouat.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Laghouat.protect|Laghouat.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Laghouat.private|Laghouat.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Laghouat.personal|Laghouat.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Laghouat.secret|Laghouat.secret]] 
 

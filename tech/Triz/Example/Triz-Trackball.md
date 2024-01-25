@@ -18,8 +18,8 @@ Produce linear Motion of the Cursor on the Computer Screen using a Mouse or a Tr
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Trackball.md|Triz-Trackball]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Trackball.internal.md|Triz-Trackball.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Trackball.protect.md|Triz-Trackball.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Trackball.private.md|Triz-Trackball.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Trackball.personal.md|Triz-Trackball.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Trackball.secret.md|Triz-Trackball.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Trackball.internal|Triz-Trackball.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Trackball.protect|Triz-Trackball.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Trackball.private|Triz-Trackball.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Trackball.personal|Triz-Trackball.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Trackball.secret|Triz-Trackball.secret]] 

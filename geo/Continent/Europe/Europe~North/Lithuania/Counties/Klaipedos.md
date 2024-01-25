@@ -41,9 +41,9 @@ markerFolder: ./Klaipedos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Klaipedos.md|Klaipedos]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Klaipedos.internal.md|Klaipedos.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Klaipedos.protect.md|Klaipedos.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Klaipedos.private.md|Klaipedos.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Klaipedos.personal.md|Klaipedos.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Klaipedos.secret.md|Klaipedos.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Klaipedos.internal|Klaipedos.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Klaipedos.protect|Klaipedos.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Klaipedos.private|Klaipedos.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Klaipedos.personal|Klaipedos.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Klaipedos.secret|Klaipedos.secret]] 
 

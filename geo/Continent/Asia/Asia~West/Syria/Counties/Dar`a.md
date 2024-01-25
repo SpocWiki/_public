@@ -41,9 +41,9 @@ markerFolder: ./Dar`a/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.md|Dar`a]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.internal.md|Dar`a.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.protect.md|Dar`a.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.private.md|Dar`a.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.personal.md|Dar`a.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.secret.md|Dar`a.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.internal|Dar`a.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.protect|Dar`a.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.private|Dar`a.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.personal|Dar`a.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.secret|Dar`a.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Cosenza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.md|Cosenza]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.internal.md|Cosenza.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.protect.md|Cosenza.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.private.md|Cosenza.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.personal.md|Cosenza.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.secret.md|Cosenza.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.internal|Cosenza.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.protect|Cosenza.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.private|Cosenza.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.personal|Cosenza.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Calabria/Cosenza.secret|Cosenza.secret]] 
 

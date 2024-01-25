@@ -41,9 +41,9 @@ markerFolder: ./Namentenga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.md|Namentenga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.internal.md|Namentenga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.protect.md|Namentenga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.private.md|Namentenga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.personal.md|Namentenga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.secret.md|Namentenga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.internal|Namentenga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.protect|Namentenga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.private|Namentenga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.personal|Namentenga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.secret|Namentenga.secret]] 
 

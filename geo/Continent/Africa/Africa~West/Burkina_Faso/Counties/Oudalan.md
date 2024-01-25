@@ -41,9 +41,9 @@ markerFolder: ./Oudalan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.md|Oudalan]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.internal.md|Oudalan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.protect.md|Oudalan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.private.md|Oudalan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.personal.md|Oudalan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.secret.md|Oudalan.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.internal|Oudalan.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.protect|Oudalan.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.private|Oudalan.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.personal|Oudalan.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.secret|Oudalan.secret]] 
 

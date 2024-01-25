@@ -41,9 +41,9 @@ markerFolder: ./Ajman/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.md|Ajman]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.internal.md|Ajman.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.protect.md|Ajman.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.private.md|Ajman.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.personal.md|Ajman.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.secret.md|Ajman.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.internal|Ajman.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.protect|Ajman.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.private|Ajman.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.personal|Ajman.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Ajman.secret|Ajman.secret]] 
 

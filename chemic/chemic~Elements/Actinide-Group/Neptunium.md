@@ -35,8 +35,8 @@ SpocWebEntityId: 21988
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Actinide-Group/Neptunium.md|Neptunium]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Neptunium.internal.md|Neptunium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Neptunium.protect.md|Neptunium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Neptunium.private.md|Neptunium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Neptunium.personal.md|Neptunium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Neptunium.secret.md|Neptunium.secret]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Neptunium.internal|Neptunium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Neptunium.protect|Neptunium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Neptunium.private|Neptunium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Neptunium.personal|Neptunium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Neptunium.secret|Neptunium.secret]] 

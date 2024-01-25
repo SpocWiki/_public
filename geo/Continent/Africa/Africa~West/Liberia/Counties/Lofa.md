@@ -41,9 +41,9 @@ markerFolder: ./Lofa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Lofa.md|Lofa]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Lofa.internal.md|Lofa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Lofa.protect.md|Lofa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Lofa.private.md|Lofa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Lofa.personal.md|Lofa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Lofa.secret.md|Lofa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Lofa.internal|Lofa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Lofa.protect|Lofa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Lofa.private|Lofa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Lofa.personal|Lofa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Lofa.secret|Lofa.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Tingstaede.md|Tingstaede]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tingstaede.internal.md|Tingstaede.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tingstaede.protect.md|Tingstaede.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Tingstaede.private.md|Tingstaede.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tingstaede.personal.md|Tingstaede.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tingstaede.secret.md|Tingstaede.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tingstaede.internal|Tingstaede.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tingstaede.protect|Tingstaede.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Tingstaede.private|Tingstaede.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tingstaede.personal|Tingstaede.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tingstaede.secret|Tingstaede.secret]] 

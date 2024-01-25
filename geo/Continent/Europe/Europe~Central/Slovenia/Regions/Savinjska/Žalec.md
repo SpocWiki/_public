@@ -41,9 +41,9 @@ markerFolder: ./Žalec/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.md|Žalec]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.internal.md|Žalec.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.protect.md|Žalec.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.private.md|Žalec.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.personal.md|Žalec.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.secret.md|Žalec.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.internal|Žalec.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.protect|Žalec.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.private|Žalec.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.personal|Žalec.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Žalec.secret|Žalec.secret]] 
 

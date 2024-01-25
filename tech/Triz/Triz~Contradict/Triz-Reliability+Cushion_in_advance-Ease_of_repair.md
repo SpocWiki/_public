@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Cushion_in_advance-Ease_of_repair]
 [SpocWebEntityId::25340]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.md|Triz-Reliability+Cushion_in_advance-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.internal.md|Triz-Reliability+Cushion_in_advance-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.protect.md|Triz-Reliability+Cushion_in_advance-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.private.md|Triz-Reliability+Cushion_in_advance-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.personal.md|Triz-Reliability+Cushion_in_advance-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.secret.md|Triz-Reliability+Cushion_in_advance-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.internal|Triz-Reliability+Cushion_in_advance-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.protect|Triz-Reliability+Cushion_in_advance-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.private|Triz-Reliability+Cushion_in_advance-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.personal|Triz-Reliability+Cushion_in_advance-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.secret|Triz-Reliability+Cushion_in_advance-Ease_of_repair.secret]] 

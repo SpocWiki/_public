@@ -41,9 +41,9 @@ markerFolder: ./Cahul/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Cahul.md|Cahul]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Cahul.internal.md|Cahul.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Cahul.protect.md|Cahul.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Cahul.private.md|Cahul.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Cahul.personal.md|Cahul.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Cahul.secret.md|Cahul.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Cahul.internal|Cahul.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Cahul.protect|Cahul.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Cahul.private|Cahul.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Cahul.personal|Cahul.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Cahul.secret|Cahul.secret]] 
 

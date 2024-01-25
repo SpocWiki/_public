@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.08]
 [name::Mels]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../../Europe~Central/Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Mels.md|Mels]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Mels.internal.md|Mels.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Mels.protect.md|Mels.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Mels.private.md|Mels.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Mels.personal.md|Mels.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Mels.secret.md|Mels.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Mels.internal|Mels.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Mels.protect|Mels.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Mels.private|Mels.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Mels.personal|Mels.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Mels.secret|Mels.secret]] 

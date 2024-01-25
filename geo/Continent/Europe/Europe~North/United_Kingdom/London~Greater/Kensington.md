@@ -34,8 +34,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.md|Kensington]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.internal.md|Kensington.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.protect.md|Kensington.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.private.md|Kensington.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.personal.md|Kensington.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.secret.md|Kensington.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.internal|Kensington.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.protect|Kensington.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.private|Kensington.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.personal|Kensington.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.secret|Kensington.secret]] 

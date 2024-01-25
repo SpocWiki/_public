@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Periodic_action-Temperature]
 [SpocWebEntityId::23762]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.md|Triz-Shape+Periodic_action-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.internal.md|Triz-Shape+Periodic_action-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.protect.md|Triz-Shape+Periodic_action-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.private.md|Triz-Shape+Periodic_action-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.personal.md|Triz-Shape+Periodic_action-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.secret.md|Triz-Shape+Periodic_action-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.internal|Triz-Shape+Periodic_action-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.protect|Triz-Shape+Periodic_action-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.private|Triz-Shape+Periodic_action-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.personal|Triz-Shape+Periodic_action-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Periodic_action-Temperature.secret|Triz-Shape+Periodic_action-Temperature.secret]] 

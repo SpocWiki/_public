@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.md|Svenska_Hoergarns]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.internal.md|Svenska_Hoergarns.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.protect.md|Svenska_Hoergarns.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.private.md|Svenska_Hoergarns.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.personal.md|Svenska_Hoergarns.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.secret.md|Svenska_Hoergarns.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.internal|Svenska_Hoergarns.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.protect|Svenska_Hoergarns.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.private|Svenska_Hoergarns.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.personal|Svenska_Hoergarns.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Svenska_Hoergarns.secret|Svenska_Hoergarns.secret]] 

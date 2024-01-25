@@ -41,9 +41,9 @@ markerFolder: ./Département~Aube/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Grand_Est/Département~Aube.md|Département~Aube]] 
-- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Aube.internal.md|Département~Aube.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Aube.protect.md|Département~Aube.protect]] 
-- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Aube.private.md|Département~Aube.private]] 
-- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Aube.personal.md|Département~Aube.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Aube.secret.md|Département~Aube.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Aube.internal|Département~Aube.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Aube.protect|Département~Aube.protect]] 
+- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Aube.private|Département~Aube.private]] 
+- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Aube.personal|Département~Aube.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Aube.secret|Département~Aube.secret]] 
 

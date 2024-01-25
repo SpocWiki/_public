@@ -41,9 +41,9 @@ markerFolder: ./Barh_El_Gazel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.md|Barh_El_Gazel]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.internal.md|Barh_El_Gazel.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.protect.md|Barh_El_Gazel.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.private.md|Barh_El_Gazel.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.personal.md|Barh_El_Gazel.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.secret.md|Barh_El_Gazel.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.internal|Barh_El_Gazel.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.protect|Barh_El_Gazel.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.private|Barh_El_Gazel.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.personal|Barh_El_Gazel.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Barh_El_Gazel.secret|Barh_El_Gazel.secret]] 
 

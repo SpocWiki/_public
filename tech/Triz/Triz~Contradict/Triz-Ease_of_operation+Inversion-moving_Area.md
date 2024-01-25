@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Inversion-moving_Area]
 [SpocWebEntityId::25959]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.md|Triz-Ease_of_operation+Inversion-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.internal.md|Triz-Ease_of_operation+Inversion-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.protect.md|Triz-Ease_of_operation+Inversion-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.private.md|Triz-Ease_of_operation+Inversion-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.personal.md|Triz-Ease_of_operation+Inversion-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.secret.md|Triz-Ease_of_operation+Inversion-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.internal|Triz-Ease_of_operation+Inversion-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.protect|Triz-Ease_of_operation+Inversion-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.private|Triz-Ease_of_operation+Inversion-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.personal|Triz-Ease_of_operation+Inversion-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-moving_Area.secret|Triz-Ease_of_operation+Inversion-moving_Area.secret]] 

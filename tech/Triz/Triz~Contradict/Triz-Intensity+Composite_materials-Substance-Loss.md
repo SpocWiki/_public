@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Composite_materials-Substance-Loss]
 [SpocWebEntityId::23544]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.md|Triz-Intensity+Composite_materials-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.internal.md|Triz-Intensity+Composite_materials-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.protect.md|Triz-Intensity+Composite_materials-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.private.md|Triz-Intensity+Composite_materials-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.personal.md|Triz-Intensity+Composite_materials-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.secret.md|Triz-Intensity+Composite_materials-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.internal|Triz-Intensity+Composite_materials-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.protect|Triz-Intensity+Composite_materials-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.private|Triz-Intensity+Composite_materials-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.personal|Triz-Intensity+Composite_materials-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Composite_materials-Substance-Loss.secret|Triz-Intensity+Composite_materials-Substance-Loss.secret]] 

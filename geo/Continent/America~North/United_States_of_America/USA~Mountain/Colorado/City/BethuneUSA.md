@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.md|BethuneUSA]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.internal.md|BethuneUSA.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.protect.md|BethuneUSA.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.private.md|BethuneUSA.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.personal.md|BethuneUSA.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.secret.md|BethuneUSA.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.internal|BethuneUSA.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.protect|BethuneUSA.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.private|BethuneUSA.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.personal|BethuneUSA.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.secret|BethuneUSA.secret]] 

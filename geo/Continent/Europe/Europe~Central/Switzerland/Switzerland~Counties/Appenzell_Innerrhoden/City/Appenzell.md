@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Appenzell.md|Appenzell]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Appenzell.internal.md|Appenzell.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Appenzell.protect.md|Appenzell.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Appenzell.private.md|Appenzell.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Appenzell.personal.md|Appenzell.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Appenzell.secret.md|Appenzell.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Appenzell.internal|Appenzell.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Appenzell.protect|Appenzell.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Appenzell.private|Appenzell.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Appenzell.personal|Appenzell.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Appenzell.secret|Appenzell.secret]] 

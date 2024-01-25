@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Ophiuchi-22.md|Ophiuchi-22]] 
-- [[../../../_internal/astro/Star/Ophiuchi-22.internal.md|Ophiuchi-22.internal]] 
-- [[../../../_protect/astro/Star/Ophiuchi-22.protect.md|Ophiuchi-22.protect]] 
-- [[../../../_private/astro/Star/Ophiuchi-22.private.md|Ophiuchi-22.private]] 
-- [[../../../_personal/astro/Star/Ophiuchi-22.personal.md|Ophiuchi-22.personal]] 
-- [[../../../_secret/astro/Star/Ophiuchi-22.secret.md|Ophiuchi-22.secret]] 
+- [[../../../_internal/astro/Star/Ophiuchi-22.internal|Ophiuchi-22.internal]] 
+- [[../../../_protect/astro/Star/Ophiuchi-22.protect|Ophiuchi-22.protect]] 
+- [[../../../_private/astro/Star/Ophiuchi-22.private|Ophiuchi-22.private]] 
+- [[../../../_personal/astro/Star/Ophiuchi-22.personal|Ophiuchi-22.personal]] 
+- [[../../../_secret/astro/Star/Ophiuchi-22.secret|Ophiuchi-22.secret]] 

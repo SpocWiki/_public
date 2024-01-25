@@ -41,9 +41,9 @@ markerFolder: ./Borkou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Borkou.md|Borkou]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Borkou.internal.md|Borkou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Borkou.protect.md|Borkou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Borkou.private.md|Borkou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Borkou.personal.md|Borkou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Borkou.secret.md|Borkou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Borkou.internal|Borkou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Borkou.protect|Borkou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Borkou.private|Borkou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Borkou.personal|Borkou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Borkou.secret|Borkou.secret]] 
 

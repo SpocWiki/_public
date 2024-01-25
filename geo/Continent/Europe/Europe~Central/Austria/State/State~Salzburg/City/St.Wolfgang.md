@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Wolfgang.md|St.Wolfgang]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Wolfgang.internal.md|St.Wolfgang.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Wolfgang.protect.md|St.Wolfgang.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Wolfgang.private.md|St.Wolfgang.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Wolfgang.personal.md|St.Wolfgang.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Wolfgang.secret.md|St.Wolfgang.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Wolfgang.internal|St.Wolfgang.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Wolfgang.protect|St.Wolfgang.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Wolfgang.private|St.Wolfgang.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Wolfgang.personal|St.Wolfgang.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Wolfgang.secret|St.Wolfgang.secret]] 

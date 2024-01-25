@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bonhill.md|Bonhill]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bonhill.internal.md|Bonhill.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bonhill.protect.md|Bonhill.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bonhill.private.md|Bonhill.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bonhill.personal.md|Bonhill.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bonhill.secret.md|Bonhill.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bonhill.internal|Bonhill.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bonhill.protect|Bonhill.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bonhill.private|Bonhill.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bonhill.personal|Bonhill.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bonhill.secret|Bonhill.secret]] 

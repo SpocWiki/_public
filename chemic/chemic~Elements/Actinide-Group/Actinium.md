@@ -35,8 +35,8 @@ SpocWebEntityId: 21984
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Actinide-Group/Actinium.md|Actinium]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Actinium.internal.md|Actinium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Actinium.protect.md|Actinium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Actinium.private.md|Actinium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Actinium.personal.md|Actinium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Actinium.secret.md|Actinium.secret]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Actinium.internal|Actinium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Actinium.protect|Actinium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Actinium.private|Actinium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Actinium.personal|Actinium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Actinium.secret|Actinium.secret]] 

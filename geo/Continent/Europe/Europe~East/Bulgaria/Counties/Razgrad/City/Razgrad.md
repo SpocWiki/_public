@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Razgrad.md|Razgrad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Razgrad.internal.md|Razgrad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Razgrad.protect.md|Razgrad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Razgrad.private.md|Razgrad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Razgrad.personal.md|Razgrad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Razgrad.secret.md|Razgrad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Razgrad.internal|Razgrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Razgrad.protect|Razgrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Razgrad.private|Razgrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Razgrad.personal|Razgrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Razgrad.secret|Razgrad.secret]] 

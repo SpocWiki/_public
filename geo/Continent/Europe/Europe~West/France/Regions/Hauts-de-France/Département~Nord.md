@@ -41,9 +41,9 @@ markerFolder: ./Département~Nord/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.md|Département~Nord]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.internal.md|Département~Nord.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.protect.md|Département~Nord.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.private.md|Département~Nord.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.personal.md|Département~Nord.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.secret.md|Département~Nord.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.internal|Département~Nord.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.protect|Département~Nord.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.private|Département~Nord.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.personal|Département~Nord.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Nord.secret|Département~Nord.secret]] 
 

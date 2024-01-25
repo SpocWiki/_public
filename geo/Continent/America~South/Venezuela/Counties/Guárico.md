@@ -41,9 +41,9 @@ markerFolder: ./Guárico/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Guárico.md|Guárico]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Guárico.internal.md|Guárico.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Guárico.protect.md|Guárico.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Guárico.private.md|Guárico.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Guárico.personal.md|Guárico.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Guárico.secret.md|Guárico.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Guárico.internal|Guárico.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Guárico.protect|Guárico.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Guárico.private|Guárico.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Guárico.personal|Guárico.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Guárico.secret|Guárico.secret]] 
 

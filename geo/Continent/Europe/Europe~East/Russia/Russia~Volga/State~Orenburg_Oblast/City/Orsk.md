@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Orsk.md|Orsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Orsk.internal.md|Orsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Orsk.protect.md|Orsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Orsk.private.md|Orsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Orsk.personal.md|Orsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Orsk.secret.md|Orsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Orsk.internal|Orsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Orsk.protect|Orsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Orsk.private|Orsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Orsk.personal|Orsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Orsk.secret|Orsk.secret]] 

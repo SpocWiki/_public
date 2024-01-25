@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Baikonur.md|Baikonur]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Baikonur.internal.md|Baikonur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Baikonur.protect.md|Baikonur.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Baikonur.private.md|Baikonur.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Baikonur.personal.md|Baikonur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Baikonur.secret.md|Baikonur.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Baikonur.internal|Baikonur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Baikonur.protect|Baikonur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Baikonur.private|Baikonur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Baikonur.personal|Baikonur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Baikonur.secret|Baikonur.secret]] 

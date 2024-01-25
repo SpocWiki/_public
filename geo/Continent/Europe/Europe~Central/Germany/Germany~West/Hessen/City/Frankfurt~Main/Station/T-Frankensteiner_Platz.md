@@ -31,8 +31,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Frankensteiner_Platz|T-Frankensteiner_Platz]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.internal.md|T-Frankensteiner_Platz.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.protect.md|T-Frankensteiner_Platz.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.private.md|T-Frankensteiner_Platz.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.personal.md|T-Frankensteiner_Platz.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.secret.md|T-Frankensteiner_Platz.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.internal|T-Frankensteiner_Platz.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.protect|T-Frankensteiner_Platz.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.private|T-Frankensteiner_Platz.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.personal|T-Frankensteiner_Platz.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.secret|T-Frankensteiner_Platz.secret]] 

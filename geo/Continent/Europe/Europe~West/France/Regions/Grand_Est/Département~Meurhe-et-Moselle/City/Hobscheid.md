@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Hobscheid.md|Hobscheid]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Hobscheid.internal.md|Hobscheid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Hobscheid.protect.md|Hobscheid.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Hobscheid.private.md|Hobscheid.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Hobscheid.personal.md|Hobscheid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Hobscheid.secret.md|Hobscheid.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Hobscheid.internal|Hobscheid.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Hobscheid.protect|Hobscheid.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Hobscheid.private|Hobscheid.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Hobscheid.personal|Hobscheid.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Hobscheid.secret|Hobscheid.secret]] 

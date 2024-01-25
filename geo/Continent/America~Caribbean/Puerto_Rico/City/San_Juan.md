@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[San_Juan|San_Juan]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Puerto_Rico/City/San_Juan.internal.md|San_Juan.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Puerto_Rico/City/San_Juan.protect.md|San_Juan.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Puerto_Rico/City/San_Juan.private.md|San_Juan.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Puerto_Rico/City/San_Juan.personal.md|San_Juan.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Puerto_Rico/City/San_Juan.secret.md|San_Juan.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Puerto_Rico/City/San_Juan.internal|San_Juan.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Puerto_Rico/City/San_Juan.protect|San_Juan.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Puerto_Rico/City/San_Juan.private|San_Juan.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Puerto_Rico/City/San_Juan.personal|San_Juan.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Puerto_Rico/City/San_Juan.secret|San_Juan.secret]] 

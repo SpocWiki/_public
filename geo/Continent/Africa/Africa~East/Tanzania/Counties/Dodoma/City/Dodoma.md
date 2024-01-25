@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Tanzania/City/Dodoma.md|Dodoma]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/City/Dodoma.internal.md|Dodoma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/City/Dodoma.protect.md|Dodoma.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/City/Dodoma.private.md|Dodoma.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/City/Dodoma.personal.md|Dodoma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/City/Dodoma.secret.md|Dodoma.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/City/Dodoma.internal|Dodoma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/City/Dodoma.protect|Dodoma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/City/Dodoma.private|Dodoma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/City/Dodoma.personal|Dodoma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/City/Dodoma.secret|Dodoma.secret]] 

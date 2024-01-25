@@ -41,9 +41,9 @@ markerFolder: ./Département~Saône-et-Loire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.md|Département~Saône-et-Loire]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.internal.md|Département~Saône-et-Loire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.protect.md|Département~Saône-et-Loire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.private.md|Département~Saône-et-Loire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.personal.md|Département~Saône-et-Loire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.secret.md|Département~Saône-et-Loire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.internal|Département~Saône-et-Loire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.protect|Département~Saône-et-Loire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.private|Département~Saône-et-Loire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.personal|Département~Saône-et-Loire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Saône-et-Loire.secret|Département~Saône-et-Loire.secret]] 
 

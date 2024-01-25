@@ -25,8 +25,8 @@ If thermal expansion is being used, use multiple materials with different coeffi
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-different-materials.md|Triz-different-materials]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-different-materials.internal.md|Triz-different-materials.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-different-materials.protect.md|Triz-different-materials.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-different-materials.private.md|Triz-different-materials.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-different-materials.personal.md|Triz-different-materials.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-different-materials.secret.md|Triz-different-materials.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-different-materials.internal|Triz-different-materials.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-different-materials.protect|Triz-different-materials.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-different-materials.private|Triz-different-materials.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-different-materials.personal|Triz-different-materials.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-different-materials.secret|Triz-different-materials.secret]] 

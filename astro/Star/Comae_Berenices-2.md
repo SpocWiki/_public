@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Comae_Berenices-2.md|Comae_Berenices-2]] 
-- [[../../../_internal/astro/Star/Comae_Berenices-2.internal.md|Comae_Berenices-2.internal]] 
-- [[../../../_protect/astro/Star/Comae_Berenices-2.protect.md|Comae_Berenices-2.protect]] 
-- [[../../../_private/astro/Star/Comae_Berenices-2.private.md|Comae_Berenices-2.private]] 
-- [[../../../_personal/astro/Star/Comae_Berenices-2.personal.md|Comae_Berenices-2.personal]] 
-- [[../../../_secret/astro/Star/Comae_Berenices-2.secret.md|Comae_Berenices-2.secret]]
+- [[../../../_internal/astro/Star/Comae_Berenices-2.internal|Comae_Berenices-2.internal]] 
+- [[../../../_protect/astro/Star/Comae_Berenices-2.protect|Comae_Berenices-2.protect]] 
+- [[../../../_private/astro/Star/Comae_Berenices-2.private|Comae_Berenices-2.private]] 
+- [[../../../_personal/astro/Star/Comae_Berenices-2.personal|Comae_Berenices-2.personal]] 
+- [[../../../_secret/astro/Star/Comae_Berenices-2.secret|Comae_Berenices-2.secret]]
 

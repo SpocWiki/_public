@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Janikow.md|Janikow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Janikow.internal.md|Janikow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Janikow.protect.md|Janikow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Janikow.private.md|Janikow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Janikow.personal.md|Janikow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Janikow.secret.md|Janikow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Janikow.internal|Janikow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Janikow.protect|Janikow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Janikow.private|Janikow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Janikow.personal|Janikow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Janikow.secret|Janikow.secret]] 

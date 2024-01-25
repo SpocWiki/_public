@@ -41,9 +41,9 @@ markerFolder: ./Al_Ahmadi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.md|Al_Ahmadi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.internal.md|Al_Ahmadi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.protect.md|Al_Ahmadi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.private.md|Al_Ahmadi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.personal.md|Al_Ahmadi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.secret.md|Al_Ahmadi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.internal|Al_Ahmadi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.protect|Al_Ahmadi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.private|Al_Ahmadi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.personal|Al_Ahmadi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.secret|Al_Ahmadi.secret]] 
 

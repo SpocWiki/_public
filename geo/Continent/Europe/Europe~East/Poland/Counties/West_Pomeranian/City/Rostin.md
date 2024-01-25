@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rostin.md|Rostin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rostin.internal.md|Rostin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rostin.protect.md|Rostin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rostin.private.md|Rostin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rostin.personal.md|Rostin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rostin.secret.md|Rostin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rostin.internal|Rostin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rostin.protect|Rostin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rostin.private|Rostin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rostin.personal|Rostin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rostin.secret|Rostin.secret]] 

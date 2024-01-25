@@ -61,8 +61,8 @@ FROM outgoing([[Line~Waterloo]])
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.md|Line~Waterloo]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.internal.md|Line~Waterloo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.protect.md|Line~Waterloo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.private.md|Line~Waterloo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.personal.md|Line~Waterloo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.secret.md|Line~Waterloo.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.internal|Line~Waterloo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.protect|Line~Waterloo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.private|Line~Waterloo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.personal|Line~Waterloo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Waterloo.secret|Line~Waterloo.secret]] 

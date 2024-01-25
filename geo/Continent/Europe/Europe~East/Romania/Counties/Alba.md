@@ -41,9 +41,9 @@ markerFolder: ./Alba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Alba.md|Alba]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Alba.internal.md|Alba.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Alba.protect.md|Alba.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Alba.private.md|Alba.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Alba.personal.md|Alba.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Alba.secret.md|Alba.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Alba.internal|Alba.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Alba.protect|Alba.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Alba.private|Alba.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Alba.personal|Alba.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Alba.secret|Alba.secret]] 
 

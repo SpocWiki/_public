@@ -41,9 +41,9 @@ markerFolder: ./Adrar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Adrar.md|Adrar]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Adrar.internal.md|Adrar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Adrar.protect.md|Adrar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Adrar.private.md|Adrar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Adrar.personal.md|Adrar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Adrar.secret.md|Adrar.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Adrar.internal|Adrar.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Adrar.protect|Adrar.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Adrar.private|Adrar.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Adrar.personal|Adrar.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Adrar.secret|Adrar.secret]] 
 

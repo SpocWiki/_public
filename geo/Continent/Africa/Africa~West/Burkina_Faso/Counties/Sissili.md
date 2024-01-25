@@ -41,9 +41,9 @@ markerFolder: ./Sissili/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.md|Sissili]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.internal.md|Sissili.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.protect.md|Sissili.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.private.md|Sissili.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.personal.md|Sissili.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.secret.md|Sissili.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.internal|Sissili.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.protect|Sissili.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.private|Sissili.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.personal|Sissili.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sissili.secret|Sissili.secret]] 
 

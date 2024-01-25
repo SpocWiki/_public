@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Copying-Measurement_Accuracy]
 [SpocWebEntityId::25811]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.md|Triz-generated_harm+Copying-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.internal.md|Triz-generated_harm+Copying-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.protect.md|Triz-generated_harm+Copying-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.private.md|Triz-generated_harm+Copying-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.personal.md|Triz-generated_harm+Copying-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.secret.md|Triz-generated_harm+Copying-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.internal|Triz-generated_harm+Copying-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.protect|Triz-generated_harm+Copying-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.private|Triz-generated_harm+Copying-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.personal|Triz-generated_harm+Copying-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.secret|Triz-generated_harm+Copying-Measurement_Accuracy.secret]] 

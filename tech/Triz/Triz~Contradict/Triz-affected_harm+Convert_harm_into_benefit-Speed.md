@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Convert_harm_into_benefit-Speed]
 [SpocWebEntityId::25607]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.md|Triz-affected_harm+Convert_harm_into_benefit-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.internal.md|Triz-affected_harm+Convert_harm_into_benefit-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.protect.md|Triz-affected_harm+Convert_harm_into_benefit-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.private.md|Triz-affected_harm+Convert_harm_into_benefit-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.personal.md|Triz-affected_harm+Convert_harm_into_benefit-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.secret.md|Triz-affected_harm+Convert_harm_into_benefit-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.internal|Triz-affected_harm+Convert_harm_into_benefit-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.protect|Triz-affected_harm+Convert_harm_into_benefit-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.private|Triz-affected_harm+Convert_harm_into_benefit-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.personal|Triz-affected_harm+Convert_harm_into_benefit-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Speed.secret|Triz-affected_harm+Convert_harm_into_benefit-Speed.secret]] 

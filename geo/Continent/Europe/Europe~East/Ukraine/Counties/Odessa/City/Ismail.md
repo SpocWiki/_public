@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Ismail.md|Ismail]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Ismail.internal.md|Ismail.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Ismail.protect.md|Ismail.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Ismail.private.md|Ismail.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Ismail.personal.md|Ismail.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Ismail.secret.md|Ismail.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Ismail.internal|Ismail.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Ismail.protect|Ismail.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Ismail.private|Ismail.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Ismail.personal|Ismail.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Ismail.secret|Ismail.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Mechanical_vibration-Stability]
 [SpocWebEntityId::23750]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.md|Triz-Shape+Mechanical_vibration-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.internal.md|Triz-Shape+Mechanical_vibration-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.protect.md|Triz-Shape+Mechanical_vibration-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.private.md|Triz-Shape+Mechanical_vibration-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.personal.md|Triz-Shape+Mechanical_vibration-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.secret.md|Triz-Shape+Mechanical_vibration-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.internal|Triz-Shape+Mechanical_vibration-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.protect|Triz-Shape+Mechanical_vibration-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.private|Triz-Shape+Mechanical_vibration-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.personal|Triz-Shape+Mechanical_vibration-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.secret|Triz-Shape+Mechanical_vibration-Stability.secret]] 

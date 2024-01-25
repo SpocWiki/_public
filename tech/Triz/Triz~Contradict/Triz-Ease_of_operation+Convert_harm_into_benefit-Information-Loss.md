@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Convert_harm_into_benefit-Information-Loss]
 [SpocWebEntityId::26024]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.md|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.internal.md|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.protect.md|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.private.md|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.personal.md|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.secret.md|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.internal|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.protect|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.private|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.personal|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.secret|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.secret]] 

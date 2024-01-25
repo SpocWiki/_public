@@ -41,9 +41,9 @@ markerFolder: ./Buckinghamshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.md|Buckinghamshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.internal.md|Buckinghamshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.protect.md|Buckinghamshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.private.md|Buckinghamshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.personal.md|Buckinghamshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.secret.md|Buckinghamshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.internal|Buckinghamshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.protect|Buckinghamshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.private|Buckinghamshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.personal|Buckinghamshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Buckinghamshire.secret|Buckinghamshire.secret]] 
 

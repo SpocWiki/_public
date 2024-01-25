@@ -41,9 +41,9 @@ markerFolder: ./Sédhiou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Sédhiou.md|Sédhiou]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Sédhiou.internal.md|Sédhiou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Sédhiou.protect.md|Sédhiou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Sédhiou.private.md|Sédhiou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Sédhiou.personal.md|Sédhiou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Sédhiou.secret.md|Sédhiou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Sédhiou.internal|Sédhiou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Sédhiou.protect|Sédhiou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Sédhiou.private|Sédhiou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Sédhiou.personal|Sédhiou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Sédhiou.secret|Sédhiou.secret]] 
 

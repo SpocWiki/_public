@@ -42,8 +42,8 @@ SpocWebEntityId: 21956
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Neodymium.md|Neodymium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Neodymium.internal.md|Neodymium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Neodymium.protect.md|Neodymium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Neodymium.private.md|Neodymium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Neodymium.personal.md|Neodymium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Neodymium.secret.md|Neodymium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Neodymium.internal|Neodymium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Neodymium.protect|Neodymium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Neodymium.private|Neodymium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Neodymium.personal|Neodymium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Neodymium.secret|Neodymium.secret]] 

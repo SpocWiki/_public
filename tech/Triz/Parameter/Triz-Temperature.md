@@ -18,8 +18,8 @@ Temperature
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Temperature.md|Triz-Temperature]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-Temperature.internal.md|Triz-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-Temperature.protect.md|Triz-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-Temperature.private.md|Triz-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-Temperature.personal.md|Triz-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-Temperature.secret.md|Triz-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Temperature.internal|Triz-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Temperature.protect|Triz-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Temperature.private|Triz-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Temperature.personal|Triz-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Temperature.secret|Triz-Temperature.secret]] 

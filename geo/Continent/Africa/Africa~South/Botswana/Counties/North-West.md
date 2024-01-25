@@ -41,9 +41,9 @@ markerFolder: ./North-West/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/North-West.md|North-West]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/North-West.internal.md|North-West.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/North-West.protect.md|North-West.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/North-West.private.md|North-West.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/North-West.personal.md|North-West.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/North-West.secret.md|North-West.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/North-West.internal|North-West.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/North-West.protect|North-West.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/North-West.private|North-West.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/North-West.personal|North-West.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/North-West.secret|North-West.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Östergötland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Östergötland.md|Östergötland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Östergötland.internal.md|Östergötland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Östergötland.protect.md|Östergötland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Östergötland.private.md|Östergötland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Östergötland.personal.md|Östergötland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Östergötland.secret.md|Östergötland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Östergötland.internal|Östergötland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Östergötland.protect|Östergötland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Östergötland.private|Östergötland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Östergötland.personal|Östergötland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Östergötland.secret|Östergötland.secret]] 
 

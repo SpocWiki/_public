@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.md|Palikir]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.internal.md|Palikir.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.protect.md|Palikir.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.private.md|Palikir.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.personal.md|Palikir.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.secret.md|Palikir.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.internal|Palikir.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.protect|Palikir.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.private|Palikir.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.personal|Palikir.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.secret|Palikir.secret]] 

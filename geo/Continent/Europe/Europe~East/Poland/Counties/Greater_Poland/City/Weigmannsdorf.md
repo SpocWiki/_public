@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Weigmannsdorf.md|Weigmannsdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Weigmannsdorf.internal.md|Weigmannsdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Weigmannsdorf.protect.md|Weigmannsdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Weigmannsdorf.private.md|Weigmannsdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Weigmannsdorf.personal.md|Weigmannsdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Weigmannsdorf.secret.md|Weigmannsdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Weigmannsdorf.internal|Weigmannsdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Weigmannsdorf.protect|Weigmannsdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Weigmannsdorf.private|Weigmannsdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Weigmannsdorf.personal|Weigmannsdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Weigmannsdorf.secret|Weigmannsdorf.secret]] 

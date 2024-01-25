@@ -41,9 +41,9 @@ markerFolder: ./Ouham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.md|Ouham]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.internal.md|Ouham.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.protect.md|Ouham.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.private.md|Ouham.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.personal.md|Ouham.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.secret.md|Ouham.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.internal|Ouham.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.protect|Ouham.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.private|Ouham.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.personal|Ouham.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Ouham.secret|Ouham.secret]] 
 

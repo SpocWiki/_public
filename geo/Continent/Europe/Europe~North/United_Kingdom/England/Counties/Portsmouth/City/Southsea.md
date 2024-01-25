@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southsea.md|Southsea]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southsea.internal.md|Southsea.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southsea.protect.md|Southsea.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southsea.private.md|Southsea.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southsea.personal.md|Southsea.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southsea.secret.md|Southsea.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southsea.internal|Southsea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southsea.protect|Southsea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southsea.private|Southsea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southsea.personal|Southsea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southsea.secret|Southsea.secret]] 

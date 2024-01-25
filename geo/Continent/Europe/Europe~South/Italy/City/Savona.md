@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Savona.md|Savona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Savona.internal.md|Savona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Savona.protect.md|Savona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Savona.private.md|Savona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Savona.personal.md|Savona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Savona.secret.md|Savona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Savona.internal|Savona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Savona.protect|Savona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Savona.private|Savona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Savona.personal|Savona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Savona.secret|Savona.secret]] 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Normae-26.md|Normae-26]] 
-- [[../../../_internal/astro/Star/Normae-26.internal.md|Normae-26.internal]] 
-- [[../../../_protect/astro/Star/Normae-26.protect.md|Normae-26.protect]] 
-- [[../../../_private/astro/Star/Normae-26.private.md|Normae-26.private]] 
-- [[../../../_personal/astro/Star/Normae-26.personal.md|Normae-26.personal]] 
-- [[../../../_secret/astro/Star/Normae-26.secret.md|Normae-26.secret]] 
+- [[../../../_internal/astro/Star/Normae-26.internal|Normae-26.internal]] 
+- [[../../../_protect/astro/Star/Normae-26.protect|Normae-26.protect]] 
+- [[../../../_private/astro/Star/Normae-26.private|Normae-26.private]] 
+- [[../../../_personal/astro/Star/Normae-26.personal|Normae-26.personal]] 
+- [[../../../_secret/astro/Star/Normae-26.secret|Normae-26.secret]] 

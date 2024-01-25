@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.md|Detroit]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.internal.md|Detroit.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.protect.md|Detroit.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.private.md|Detroit.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.personal.md|Detroit.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.secret.md|Detroit.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.internal|Detroit.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.protect|Detroit.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.private|Detroit.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.personal|Detroit.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Michigan/City/Detroit.secret|Detroit.secret]] 

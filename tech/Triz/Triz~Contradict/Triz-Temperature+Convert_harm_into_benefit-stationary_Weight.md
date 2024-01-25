@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Convert_harm_into_benefit-stationary_Weight]
 [SpocWebEntityId::24228]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.md|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.internal.md|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.protect.md|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.private.md|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.personal.md|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.secret.md|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.internal|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.protect|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.private|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.personal|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.secret|Triz-Temperature+Convert_harm_into_benefit-stationary_Weight.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength]
 [SpocWebEntityId::25151]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal.md|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect.md|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private.md|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal.md|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret.md|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret]] 

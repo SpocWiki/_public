@@ -41,9 +41,9 @@ markerFolder: ./Siguldas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Siguldas.md|Siguldas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Siguldas.internal.md|Siguldas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Siguldas.protect.md|Siguldas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Siguldas.private.md|Siguldas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Siguldas.personal.md|Siguldas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Siguldas.secret.md|Siguldas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Siguldas.internal|Siguldas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Siguldas.protect|Siguldas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Siguldas.private|Siguldas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Siguldas.personal|Siguldas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Siguldas.secret|Siguldas.secret]] 
 

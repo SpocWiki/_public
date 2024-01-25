@@ -132,8 +132,8 @@ markerFolder: ./Montserrat/
 
 ## Confidential Links & Embeds: 
 - [[Montserrat|Montserrat]] 
-- [[../../../../_internal/geo/Continent/South-America/Montserrat.internal.md|Montserrat.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Montserrat.protect.md|Montserrat.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Montserrat.private.md|Montserrat.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Montserrat.personal.md|Montserrat.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Montserrat.secret.md|Montserrat.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Montserrat.internal|Montserrat.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Montserrat.protect|Montserrat.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Montserrat.private|Montserrat.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Montserrat.personal|Montserrat.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Montserrat.secret|Montserrat.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Itapúa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Itapúa.md|Itapúa]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Itapúa.internal.md|Itapúa.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Itapúa.protect.md|Itapúa.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Itapúa.private.md|Itapúa.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Itapúa.personal.md|Itapúa.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Itapúa.secret.md|Itapúa.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Itapúa.internal|Itapúa.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Itapúa.protect|Itapúa.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Itapúa.private|Itapúa.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Itapúa.personal|Itapúa.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Itapúa.secret|Itapúa.secret]] 
 

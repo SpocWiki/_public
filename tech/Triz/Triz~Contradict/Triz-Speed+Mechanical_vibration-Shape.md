@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Mechanical_vibration-Shape]
 [SpocWebEntityId::23389]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.md|Triz-Speed+Mechanical_vibration-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.internal.md|Triz-Speed+Mechanical_vibration-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.protect.md|Triz-Speed+Mechanical_vibration-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.private.md|Triz-Speed+Mechanical_vibration-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.personal.md|Triz-Speed+Mechanical_vibration-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.secret.md|Triz-Speed+Mechanical_vibration-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.internal|Triz-Speed+Mechanical_vibration-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.protect|Triz-Speed+Mechanical_vibration-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.private|Triz-Speed+Mechanical_vibration-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.personal|Triz-Speed+Mechanical_vibration-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.secret|Triz-Speed+Mechanical_vibration-Shape.secret]] 

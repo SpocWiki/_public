@@ -41,9 +41,9 @@ markerFolder: ./Lop_Buri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.md|Lop_Buri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.internal.md|Lop_Buri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.protect.md|Lop_Buri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.private.md|Lop_Buri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.personal.md|Lop_Buri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.secret.md|Lop_Buri.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.internal|Lop_Buri.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.protect|Lop_Buri.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.private|Lop_Buri.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.personal|Lop_Buri.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.secret|Lop_Buri.secret]] 
 

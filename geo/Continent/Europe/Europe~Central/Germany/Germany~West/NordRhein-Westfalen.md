@@ -34,8 +34,8 @@ markerFolder: ./NordRhein-Westfalen/City/
 
 ## Confidential Links & Embeds: 
 -[[NordRhein-Westfalen|NordRhein-Westfalen]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.internal.md|NordRhein-Westfalen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.protect.md|NordRhein-Westfalen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.private.md|NordRhein-Westfalen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.personal.md|NordRhein-Westfalen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.secret.md|NordRhein-Westfalen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.internal|NordRhein-Westfalen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.protect|NordRhein-Westfalen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.private|NordRhein-Westfalen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.personal|NordRhein-Westfalen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.secret|NordRhein-Westfalen.secret]] 

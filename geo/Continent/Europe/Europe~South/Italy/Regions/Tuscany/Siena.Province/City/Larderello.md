@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Larderello.md|Larderello]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Larderello.internal.md|Larderello.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Larderello.protect.md|Larderello.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Larderello.private.md|Larderello.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Larderello.personal.md|Larderello.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Larderello.secret.md|Larderello.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Larderello.internal|Larderello.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Larderello.protect|Larderello.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Larderello.private|Larderello.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Larderello.personal|Larderello.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Larderello.secret|Larderello.secret]] 

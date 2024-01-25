@@ -88,9 +88,9 @@ There is a separate [Article about the Wiki-Growth-Process ](Wiki-Growth-Process
 
 ## Confidential Links & Embeds: 
 - [[../_public/ReadMe.md|ReadMe]] 
-- [[../_internal/ReadMe.internal.md|ReadMe.internal]] 
-- [[../_protect/ReadMe.protect.md|ReadMe.protect]] 
-- [[../_private/ReadMe.private.md|ReadMe.private]] 
-- [[../_personal/ReadMe.personal.md|ReadMe.personal]] 
-- [[../_secret/ReadMe.secret.md|ReadMe.secret]]
+- [[../_internal/ReadMe.internal|ReadMe.internal]] 
+- [[../_protect/ReadMe.protect|ReadMe.protect]] 
+- [[../_private/ReadMe.private|ReadMe.private]] 
+- [[../_personal/ReadMe.personal|ReadMe.personal]] 
+- [[../_secret/ReadMe.secret|ReadMe.secret]]
 

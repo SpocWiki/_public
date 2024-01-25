@@ -41,9 +41,9 @@ markerFolder: ./Gaziantep/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Gaziantep.md|Gaziantep]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Gaziantep.internal.md|Gaziantep.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Gaziantep.protect.md|Gaziantep.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Gaziantep.private.md|Gaziantep.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Gaziantep.personal.md|Gaziantep.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Gaziantep.secret.md|Gaziantep.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Gaziantep.internal|Gaziantep.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Gaziantep.protect|Gaziantep.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Gaziantep.private|Gaziantep.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Gaziantep.personal|Gaziantep.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Gaziantep.secret|Gaziantep.secret]] 
 

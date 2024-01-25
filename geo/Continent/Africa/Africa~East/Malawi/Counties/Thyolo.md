@@ -41,9 +41,9 @@ markerFolder: ./Thyolo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Thyolo.md|Thyolo]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Thyolo.internal.md|Thyolo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Thyolo.protect.md|Thyolo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Thyolo.private.md|Thyolo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Thyolo.personal.md|Thyolo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Thyolo.secret.md|Thyolo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Thyolo.internal|Thyolo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Thyolo.protect|Thyolo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Thyolo.private|Thyolo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Thyolo.personal|Thyolo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Thyolo.secret|Thyolo.secret]] 
 

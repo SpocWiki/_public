@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility]
 [SpocWebEntityId::22985]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.md|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal.md|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect.md|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private.md|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal.md|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret.md|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret|Triz-stationary_Length+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret]] 

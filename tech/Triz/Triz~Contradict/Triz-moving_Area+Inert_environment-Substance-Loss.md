@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Inert_environment-Substance-Loss]
 [SpocWebEntityId::23051]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.md|Triz-moving_Area+Inert_environment-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.internal.md|Triz-moving_Area+Inert_environment-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.protect.md|Triz-moving_Area+Inert_environment-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.private.md|Triz-moving_Area+Inert_environment-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.personal.md|Triz-moving_Area+Inert_environment-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.secret.md|Triz-moving_Area+Inert_environment-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.internal|Triz-moving_Area+Inert_environment-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.protect|Triz-moving_Area+Inert_environment-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.private|Triz-moving_Area+Inert_environment-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.personal|Triz-moving_Area+Inert_environment-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Inert_environment-Substance-Loss.secret|Triz-moving_Area+Inert_environment-Substance-Loss.secret]] 

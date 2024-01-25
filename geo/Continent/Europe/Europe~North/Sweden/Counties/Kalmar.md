@@ -41,9 +41,9 @@ markerFolder: ./Kalmar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Kalmar.md|Kalmar]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Kalmar.internal.md|Kalmar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Kalmar.protect.md|Kalmar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Kalmar.private.md|Kalmar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Kalmar.personal.md|Kalmar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Kalmar.secret.md|Kalmar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Kalmar.internal|Kalmar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Kalmar.protect|Kalmar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Kalmar.private|Kalmar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Kalmar.personal|Kalmar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Kalmar.secret|Kalmar.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss]
 [SpocWebEntityId::24495]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.internal.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.protect.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.private.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.personal.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.secret.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.internal|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.protect|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.private|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.personal|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.secret|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss.secret]] 

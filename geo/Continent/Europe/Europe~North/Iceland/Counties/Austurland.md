@@ -41,9 +41,9 @@ markerFolder: ./Austurland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Austurland.md|Austurland]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Austurland.internal.md|Austurland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Austurland.protect.md|Austurland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Austurland.private.md|Austurland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Austurland.personal.md|Austurland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Austurland.secret.md|Austurland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Austurland.internal|Austurland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Austurland.protect|Austurland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Austurland.private|Austurland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Austurland.personal|Austurland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Austurland.secret|Austurland.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.md|Hornsey]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.internal.md|Hornsey.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.protect.md|Hornsey.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.private.md|Hornsey.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.personal.md|Hornsey.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.secret.md|Hornsey.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.internal|Hornsey.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.protect|Hornsey.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.private|Hornsey.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.personal|Hornsey.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.secret|Hornsey.secret]] 

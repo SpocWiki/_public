@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Thonon.md|Thonon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Thonon.internal.md|Thonon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Thonon.protect.md|Thonon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Thonon.private.md|Thonon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Thonon.personal.md|Thonon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Thonon.secret.md|Thonon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Thonon.internal|Thonon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Thonon.protect|Thonon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Thonon.private|Thonon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Thonon.personal|Thonon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Thonon.secret|Thonon.secret]] 

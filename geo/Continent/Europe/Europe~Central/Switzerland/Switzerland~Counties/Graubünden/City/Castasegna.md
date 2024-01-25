@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Castasegna.md|Castasegna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Castasegna.internal.md|Castasegna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Castasegna.protect.md|Castasegna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Castasegna.private.md|Castasegna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Castasegna.personal.md|Castasegna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Castasegna.secret.md|Castasegna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Castasegna.internal|Castasegna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Castasegna.protect|Castasegna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Castasegna.private|Castasegna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Castasegna.personal|Castasegna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Castasegna.secret|Castasegna.secret]] 

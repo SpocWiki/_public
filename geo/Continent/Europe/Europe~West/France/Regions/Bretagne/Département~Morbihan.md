@@ -41,9 +41,9 @@ markerFolder: ./Département~Morbihan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.md|Département~Morbihan]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.internal.md|Département~Morbihan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.protect.md|Département~Morbihan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.private.md|Département~Morbihan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.personal.md|Département~Morbihan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.secret.md|Département~Morbihan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.internal|Département~Morbihan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.protect|Département~Morbihan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.private|Département~Morbihan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.personal|Département~Morbihan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bretagne/Département~Morbihan.secret|Département~Morbihan.secret]] 
 

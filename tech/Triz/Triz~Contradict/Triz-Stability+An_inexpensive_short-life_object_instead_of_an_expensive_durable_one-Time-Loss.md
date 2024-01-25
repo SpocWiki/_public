@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss]
 [SpocWebEntityId::23904]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.md|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.internal.md|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.protect.md|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.private.md|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.personal.md|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.secret.md|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.internal|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.protect|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.private|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.personal|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.secret|Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Time-Loss.secret]] 

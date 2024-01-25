@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Valona.md|Valona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Valona.internal.md|Valona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Valona.protect.md|Valona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Valona.private.md|Valona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Valona.personal.md|Valona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Valona.secret.md|Valona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Valona.internal|Valona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Valona.protect|Valona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Valona.private|Valona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Valona.personal|Valona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Valona.secret|Valona.secret]] 

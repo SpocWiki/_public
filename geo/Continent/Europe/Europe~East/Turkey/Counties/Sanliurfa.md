@@ -41,9 +41,9 @@ markerFolder: ./Sanliurfa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sanliurfa.md|Sanliurfa]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sanliurfa.internal.md|Sanliurfa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sanliurfa.protect.md|Sanliurfa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sanliurfa.private.md|Sanliurfa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sanliurfa.personal.md|Sanliurfa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sanliurfa.secret.md|Sanliurfa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sanliurfa.internal|Sanliurfa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sanliurfa.protect|Sanliurfa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sanliurfa.private|Sanliurfa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sanliurfa.personal|Sanliurfa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sanliurfa.secret|Sanliurfa.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Fréhel.md|Fréhel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fréhel.internal.md|Fréhel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fréhel.protect.md|Fréhel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Fréhel.private.md|Fréhel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fréhel.personal.md|Fréhel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fréhel.secret.md|Fréhel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fréhel.internal|Fréhel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fréhel.protect|Fréhel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Fréhel.private|Fréhel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fréhel.personal|Fréhel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fréhel.secret|Fréhel.secret]] 

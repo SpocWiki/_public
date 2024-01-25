@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Copying-Energy-Loss]
 [SpocWebEntityId::25422]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.md|Triz-Measurement_Accuracy+Copying-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.internal.md|Triz-Measurement_Accuracy+Copying-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.protect.md|Triz-Measurement_Accuracy+Copying-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.private.md|Triz-Measurement_Accuracy+Copying-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.personal.md|Triz-Measurement_Accuracy+Copying-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.secret.md|Triz-Measurement_Accuracy+Copying-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.internal|Triz-Measurement_Accuracy+Copying-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.protect|Triz-Measurement_Accuracy+Copying-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.private|Triz-Measurement_Accuracy+Copying-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.personal|Triz-Measurement_Accuracy+Copying-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.secret|Triz-Measurement_Accuracy+Copying-Energy-Loss.secret]] 

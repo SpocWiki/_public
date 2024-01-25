@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume]
 [SpocWebEntityId::26426]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.internal.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.protect.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.private.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.personal.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.secret.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.internal|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.protect|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.private|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.personal|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.secret|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Sühbaatar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.md|Sühbaatar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.internal.md|Sühbaatar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.protect.md|Sühbaatar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.private.md|Sühbaatar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.personal.md|Sühbaatar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.secret.md|Sühbaatar.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.internal|Sühbaatar.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.protect|Sühbaatar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.private|Sühbaatar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.personal|Sühbaatar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Sühbaatar.secret|Sühbaatar.secret]] 
 

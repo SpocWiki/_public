@@ -41,9 +41,9 @@ markerFolder: ./Al-Muthannia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.md|Al-Muthannia]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.internal.md|Al-Muthannia.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.protect.md|Al-Muthannia.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.private.md|Al-Muthannia.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.personal.md|Al-Muthannia.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.secret.md|Al-Muthannia.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.internal|Al-Muthannia.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.protect|Al-Muthannia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.private|Al-Muthannia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.personal|Al-Muthannia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.secret|Al-Muthannia.secret]] 
 

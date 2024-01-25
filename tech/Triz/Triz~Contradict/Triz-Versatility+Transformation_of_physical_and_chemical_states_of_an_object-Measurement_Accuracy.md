@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy]
 [SpocWebEntityId::26259]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.personal.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.secret.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.personal|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.secret|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.secret]] 

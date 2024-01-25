@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lucca.md|Lucca]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lucca.internal.md|Lucca.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lucca.protect.md|Lucca.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lucca.private.md|Lucca.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lucca.personal.md|Lucca.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lucca.secret.md|Lucca.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lucca.internal|Lucca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lucca.protect|Lucca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lucca.private|Lucca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lucca.personal|Lucca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lucca.secret|Lucca.secret]] 

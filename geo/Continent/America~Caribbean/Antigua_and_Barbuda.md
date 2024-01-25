@@ -37,8 +37,8 @@ markerFolder: ./Antigua_and_Barbuda/
 
 ## Confidential Links & Embeds: 
 - [[Antigua_and_Barbuda|Antigua_and_Barbuda]] 
-- [[../../../../_internal/geo/Continent/South-America/Antigua_And_Barbuda.internal.md|Antigua_And_Barbuda.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Antigua_And_Barbuda.protect.md|Antigua_And_Barbuda.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Antigua_And_Barbuda.private.md|Antigua_And_Barbuda.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Antigua_And_Barbuda.personal.md|Antigua_And_Barbuda.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Antigua_And_Barbuda.secret.md|Antigua_And_Barbuda.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Antigua_And_Barbuda.internal|Antigua_And_Barbuda.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Antigua_And_Barbuda.protect|Antigua_And_Barbuda.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Antigua_And_Barbuda.private|Antigua_And_Barbuda.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Antigua_And_Barbuda.personal|Antigua_And_Barbuda.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Antigua_And_Barbuda.secret|Antigua_And_Barbuda.secret]] 

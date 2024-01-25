@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Fort-de-France|Fort-de-France]]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Martinique/City/Fort-de-France.internal.md|Fort-de-France.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Martinique/City/Fort-de-France.protect.md|Fort-de-France.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Martinique/City/Fort-de-France.private.md|Fort-de-France.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Martinique/City/Fort-de-France.personal.md|Fort-de-France.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Martinique/City/Fort-de-France.secret.md|Fort-de-France.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Martinique/City/Fort-de-France.internal|Fort-de-France.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Martinique/City/Fort-de-France.protect|Fort-de-France.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Martinique/City/Fort-de-France.private|Fort-de-France.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Martinique/City/Fort-de-France.personal|Fort-de-France.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Martinique/City/Fort-de-France.secret|Fort-de-France.secret]] 

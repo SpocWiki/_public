@@ -41,9 +41,9 @@ markerFolder: ./Aqtöbe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.md|Aqtöbe]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.internal.md|Aqtöbe.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.protect.md|Aqtöbe.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.private.md|Aqtöbe.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.personal.md|Aqtöbe.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.secret.md|Aqtöbe.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.internal|Aqtöbe.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.protect|Aqtöbe.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.private|Aqtöbe.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.personal|Aqtöbe.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.secret|Aqtöbe.secret]] 
 

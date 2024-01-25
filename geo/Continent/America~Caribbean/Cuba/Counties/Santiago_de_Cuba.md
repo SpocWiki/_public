@@ -41,9 +41,9 @@ markerFolder: ./Santiago_de_Cuba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.md|Santiago_de_Cuba]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.internal.md|Santiago_de_Cuba.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.protect.md|Santiago_de_Cuba.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.private.md|Santiago_de_Cuba.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.personal.md|Santiago_de_Cuba.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.secret.md|Santiago_de_Cuba.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.internal|Santiago_de_Cuba.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.protect|Santiago_de_Cuba.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.private|Santiago_de_Cuba.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.personal|Santiago_de_Cuba.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba.secret|Santiago_de_Cuba.secret]] 
 

@@ -20,9 +20,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/Lang-ja.md|Lang-ja]] 
-- [[../../_internal/lang/Lang-ja.internal.md|Lang-ja.internal]] 
-- [[../../_protect/lang/Lang-ja.protect.md|Lang-ja.protect]] 
-- [[../../_private/lang/Lang-ja.private.md|Lang-ja.private]] 
-- [[../../_personal/lang/Lang-ja.personal.md|Lang-ja.personal]] 
-- [[../../_secret/lang/Lang-ja.secret.md|Lang-ja.secret]]
+- [[../../_internal/lang/Lang-ja.internal|Lang-ja.internal]] 
+- [[../../_protect/lang/Lang-ja.protect|Lang-ja.protect]] 
+- [[../../_private/lang/Lang-ja.private|Lang-ja.private]] 
+- [[../../_personal/lang/Lang-ja.personal|Lang-ja.personal]] 
+- [[../../_secret/lang/Lang-ja.secret|Lang-ja.secret]]
 

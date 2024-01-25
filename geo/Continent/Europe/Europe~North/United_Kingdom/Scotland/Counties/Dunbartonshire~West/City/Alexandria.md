@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Alexandria.md|Alexandria]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Alexandria.internal.md|Alexandria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Alexandria.protect.md|Alexandria.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Alexandria.private.md|Alexandria.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Alexandria.personal.md|Alexandria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Alexandria.secret.md|Alexandria.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Alexandria.internal|Alexandria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Alexandria.protect|Alexandria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Alexandria.private|Alexandria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Alexandria.personal|Alexandria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Alexandria.secret|Alexandria.secret]] 

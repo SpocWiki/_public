@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Pammin.md|Pammin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pammin.internal.md|Pammin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pammin.protect.md|Pammin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pammin.private.md|Pammin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pammin.personal.md|Pammin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pammin.secret.md|Pammin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pammin.internal|Pammin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pammin.protect|Pammin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pammin.private|Pammin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pammin.personal|Pammin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pammin.secret|Pammin.secret]] 

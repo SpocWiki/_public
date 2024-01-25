@@ -41,9 +41,9 @@ markerFolder: ./Marrakech_-_Tensift_-_Al_Haouz/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.md|Marrakech_-_Tensift_-_Al_Haouz]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.internal.md|Marrakech_-_Tensift_-_Al_Haouz.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.protect.md|Marrakech_-_Tensift_-_Al_Haouz.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.private.md|Marrakech_-_Tensift_-_Al_Haouz.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.personal.md|Marrakech_-_Tensift_-_Al_Haouz.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.secret.md|Marrakech_-_Tensift_-_Al_Haouz.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.internal|Marrakech_-_Tensift_-_Al_Haouz.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.protect|Marrakech_-_Tensift_-_Al_Haouz.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.private|Marrakech_-_Tensift_-_Al_Haouz.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.personal|Marrakech_-_Tensift_-_Al_Haouz.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.secret|Marrakech_-_Tensift_-_Al_Haouz.secret]] 
 

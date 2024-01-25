@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sausenberg.md|Sausenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sausenberg.internal.md|Sausenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sausenberg.protect.md|Sausenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sausenberg.private.md|Sausenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sausenberg.personal.md|Sausenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sausenberg.secret.md|Sausenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sausenberg.internal|Sausenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sausenberg.protect|Sausenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sausenberg.private|Sausenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sausenberg.personal|Sausenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sausenberg.secret|Sausenberg.secret]] 

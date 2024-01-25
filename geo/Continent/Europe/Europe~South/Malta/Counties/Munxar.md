@@ -41,9 +41,9 @@ markerFolder: ./Munxar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Munxar.md|Munxar]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Munxar.internal.md|Munxar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Munxar.protect.md|Munxar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Munxar.private.md|Munxar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Munxar.personal.md|Munxar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Munxar.secret.md|Munxar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Munxar.internal|Munxar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Munxar.protect|Munxar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Munxar.private|Munxar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Munxar.personal|Munxar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Munxar.secret|Munxar.secret]] 
 

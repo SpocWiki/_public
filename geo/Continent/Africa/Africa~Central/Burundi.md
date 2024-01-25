@@ -133,7 +133,7 @@ markerFolder: ./Burundi//
 ## Confidential Links & Embeds: 
 - [[Burundi|Burundi]] 
 - [[../../../../../_internal/geo/Continent/Africa/Burundi.internal|Burundi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi.protect.md|Burundi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi.private.md|Burundi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi.personal.md|Burundi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi.secret.md|Burundi.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi.protect|Burundi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi.private|Burundi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi.personal|Burundi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi.secret|Burundi.secret]] 

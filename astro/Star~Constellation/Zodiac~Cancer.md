@@ -18,8 +18,8 @@ ZodiacPos: 4
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Cancer.md|Zodiac~Cancer]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Cancer.internal.md|Zodiac~Cancer.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Cancer.protect.md|Zodiac~Cancer.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Cancer.private.md|Zodiac~Cancer.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Cancer.personal.md|Zodiac~Cancer.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Cancer.secret.md|Zodiac~Cancer.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Cancer.internal|Zodiac~Cancer.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Cancer.protect|Zodiac~Cancer.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Cancer.private|Zodiac~Cancer.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Cancer.personal|Zodiac~Cancer.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Cancer.secret|Zodiac~Cancer.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hedmark/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Hedmark.md|Hedmark]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Hedmark.internal.md|Hedmark.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Hedmark.protect.md|Hedmark.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Hedmark.private.md|Hedmark.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Hedmark.personal.md|Hedmark.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Hedmark.secret.md|Hedmark.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Hedmark.internal|Hedmark.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Hedmark.protect|Hedmark.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Hedmark.private|Hedmark.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Hedmark.personal|Hedmark.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Hedmark.secret|Hedmark.secret]] 
 

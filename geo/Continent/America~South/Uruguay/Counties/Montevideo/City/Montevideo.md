@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Uruguay/City/Montevideo.md|Montevideo]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Uruguay/City/Montevideo.internal.md|Montevideo.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Uruguay/City/Montevideo.protect.md|Montevideo.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Uruguay/City/Montevideo.private.md|Montevideo.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Uruguay/City/Montevideo.personal.md|Montevideo.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Uruguay/City/Montevideo.secret.md|Montevideo.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Uruguay/City/Montevideo.internal|Montevideo.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Uruguay/City/Montevideo.protect|Montevideo.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Uruguay/City/Montevideo.private|Montevideo.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Uruguay/City/Montevideo.personal|Montevideo.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Uruguay/City/Montevideo.secret|Montevideo.secret]] 

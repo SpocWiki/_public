@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Poitiers.md|Poitiers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Poitiers.internal.md|Poitiers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Poitiers.protect.md|Poitiers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Poitiers.private.md|Poitiers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Poitiers.personal.md|Poitiers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Poitiers.secret.md|Poitiers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Poitiers.internal|Poitiers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Poitiers.protect|Poitiers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Poitiers.private|Poitiers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Poitiers.personal|Poitiers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Poitiers.secret|Poitiers.secret]] 

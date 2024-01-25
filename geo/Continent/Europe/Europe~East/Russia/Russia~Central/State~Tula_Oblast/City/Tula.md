@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tula.md|Tula]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tula.internal.md|Tula.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tula.protect.md|Tula.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tula.private.md|Tula.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tula.personal.md|Tula.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tula.secret.md|Tula.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tula.internal|Tula.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tula.protect|Tula.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tula.private|Tula.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tula.personal|Tula.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tula.secret|Tula.secret]] 

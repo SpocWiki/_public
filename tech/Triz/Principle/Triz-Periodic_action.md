@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Periodic_action.md|Triz-Periodic_action]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Periodic_action.internal.md|Triz-Periodic_action.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Periodic_action.protect.md|Triz-Periodic_action.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Periodic_action.private.md|Triz-Periodic_action.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Periodic_action.personal.md|Triz-Periodic_action.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Periodic_action.secret.md|Triz-Periodic_action.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Periodic_action.internal|Triz-Periodic_action.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Periodic_action.protect|Triz-Periodic_action.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Periodic_action.private|Triz-Periodic_action.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Periodic_action.personal|Triz-Periodic_action.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Periodic_action.secret|Triz-Periodic_action.secret]] 

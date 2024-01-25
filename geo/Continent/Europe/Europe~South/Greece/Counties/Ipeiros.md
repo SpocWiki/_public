@@ -41,9 +41,9 @@ markerFolder: ./Ipeiros/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Ipeiros.md|Ipeiros]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Ipeiros.internal.md|Ipeiros.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Ipeiros.protect.md|Ipeiros.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Ipeiros.private.md|Ipeiros.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Ipeiros.personal.md|Ipeiros.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Ipeiros.secret.md|Ipeiros.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Ipeiros.internal|Ipeiros.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Ipeiros.protect|Ipeiros.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Ipeiros.private|Ipeiros.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Ipeiros.personal|Ipeiros.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Ipeiros.secret|Ipeiros.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Boumerdès/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Boumerdès.md|Boumerdès]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Boumerdès.internal.md|Boumerdès.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Boumerdès.protect.md|Boumerdès.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Boumerdès.private.md|Boumerdès.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Boumerdès.personal.md|Boumerdès.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Boumerdès.secret.md|Boumerdès.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Boumerdès.internal|Boumerdès.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Boumerdès.protect|Boumerdès.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Boumerdès.private|Boumerdès.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Boumerdès.personal|Boumerdès.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Boumerdès.secret|Boumerdès.secret]] 
 

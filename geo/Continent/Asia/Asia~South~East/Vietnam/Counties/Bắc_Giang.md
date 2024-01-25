@@ -41,9 +41,9 @@ markerFolder: ./Bắc_Giang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.md|Bắc_Giang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.internal.md|Bắc_Giang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.protect.md|Bắc_Giang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.private.md|Bắc_Giang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.personal.md|Bắc_Giang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.secret.md|Bắc_Giang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.internal|Bắc_Giang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.protect|Bắc_Giang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.private|Bắc_Giang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.personal|Bắc_Giang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.secret|Bắc_Giang.secret]] 
 

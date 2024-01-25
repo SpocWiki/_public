@@ -41,9 +41,9 @@ markerFolder: ./Vinitsa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.md|Vinitsa]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.internal.md|Vinitsa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.protect.md|Vinitsa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.private.md|Vinitsa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.personal.md|Vinitsa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.secret.md|Vinitsa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.internal|Vinitsa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.protect|Vinitsa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.private|Vinitsa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.personal|Vinitsa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vinitsa.secret|Vinitsa.secret]] 
 

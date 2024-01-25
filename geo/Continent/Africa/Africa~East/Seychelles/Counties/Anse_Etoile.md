@@ -41,9 +41,9 @@ markerFolder: ./Anse_Etoile/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.md|Anse_Etoile]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.internal.md|Anse_Etoile.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.protect.md|Anse_Etoile.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.private.md|Anse_Etoile.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.personal.md|Anse_Etoile.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.secret.md|Anse_Etoile.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.internal|Anse_Etoile.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.protect|Anse_Etoile.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.private|Anse_Etoile.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.personal|Anse_Etoile.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_Etoile.secret|Anse_Etoile.secret]] 
 

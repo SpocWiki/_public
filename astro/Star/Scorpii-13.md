@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Scorpii-13.md|Scorpii-13]] 
-- [[../../../_internal/astro/Star/Scorpii-13.internal.md|Scorpii-13.internal]] 
-- [[../../../_protect/astro/Star/Scorpii-13.protect.md|Scorpii-13.protect]] 
-- [[../../../_private/astro/Star/Scorpii-13.private.md|Scorpii-13.private]] 
-- [[../../../_personal/astro/Star/Scorpii-13.personal.md|Scorpii-13.personal]] 
-- [[../../../_secret/astro/Star/Scorpii-13.secret.md|Scorpii-13.secret]] 
+- [[../../../_internal/astro/Star/Scorpii-13.internal|Scorpii-13.internal]] 
+- [[../../../_protect/astro/Star/Scorpii-13.protect|Scorpii-13.protect]] 
+- [[../../../_private/astro/Star/Scorpii-13.private|Scorpii-13.private]] 
+- [[../../../_personal/astro/Star/Scorpii-13.personal|Scorpii-13.personal]] 
+- [[../../../_secret/astro/Star/Scorpii-13.secret|Scorpii-13.secret]] 

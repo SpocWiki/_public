@@ -41,9 +41,9 @@ markerFolder: ./Al_Jufrah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Jufrah.md|Al_Jufrah]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Jufrah.internal.md|Al_Jufrah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Jufrah.protect.md|Al_Jufrah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Jufrah.private.md|Al_Jufrah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Jufrah.personal.md|Al_Jufrah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Jufrah.secret.md|Al_Jufrah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Jufrah.internal|Al_Jufrah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Jufrah.protect|Al_Jufrah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Jufrah.private|Al_Jufrah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Jufrah.personal|Al_Jufrah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Jufrah.secret|Al_Jufrah.secret]] 
 

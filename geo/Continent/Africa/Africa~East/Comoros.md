@@ -138,7 +138,7 @@ markerFolder: ./Comoros//
 ## Confidential Links & Embeds: 
 -[[Comoros|Comoros]]] 
 -[[../../../../../_internal/geo/Continent/Africa/Comoros.internal|Comoros.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Comoros.protect.md|Comoros.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Comoros.private.md|Comoros.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Comoros.personal.md|Comoros.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Comoros.secret.md|Comoros.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Comoros.protect|Comoros.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Comoros.private|Comoros.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Comoros.personal|Comoros.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Comoros.secret|Comoros.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pulkowa.md|Pulkowa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pulkowa.internal.md|Pulkowa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pulkowa.protect.md|Pulkowa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pulkowa.private.md|Pulkowa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pulkowa.personal.md|Pulkowa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pulkowa.secret.md|Pulkowa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pulkowa.internal|Pulkowa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pulkowa.protect|Pulkowa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pulkowa.private|Pulkowa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pulkowa.personal|Pulkowa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pulkowa.secret|Pulkowa.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cambuslang.md|Cambuslang]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cambuslang.internal.md|Cambuslang.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cambuslang.protect.md|Cambuslang.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cambuslang.private.md|Cambuslang.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cambuslang.personal.md|Cambuslang.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cambuslang.secret.md|Cambuslang.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cambuslang.internal|Cambuslang.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cambuslang.protect|Cambuslang.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cambuslang.private|Cambuslang.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cambuslang.personal|Cambuslang.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cambuslang.secret|Cambuslang.secret]] 

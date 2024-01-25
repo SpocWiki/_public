@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jakutsk.md|Jakutsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jakutsk.internal.md|Jakutsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jakutsk.protect.md|Jakutsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jakutsk.private.md|Jakutsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jakutsk.personal.md|Jakutsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jakutsk.secret.md|Jakutsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jakutsk.internal|Jakutsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jakutsk.protect|Jakutsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jakutsk.private|Jakutsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jakutsk.personal|Jakutsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jakutsk.secret|Jakutsk.secret]] 

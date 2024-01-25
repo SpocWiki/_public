@@ -41,9 +41,9 @@ markerFolder: ./Vâlcea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Vâlcea.md|Vâlcea]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Vâlcea.internal.md|Vâlcea.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Vâlcea.protect.md|Vâlcea.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Vâlcea.private.md|Vâlcea.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Vâlcea.personal.md|Vâlcea.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Vâlcea.secret.md|Vâlcea.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Vâlcea.internal|Vâlcea.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Vâlcea.protect|Vâlcea.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Vâlcea.private|Vâlcea.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Vâlcea.personal|Vâlcea.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Vâlcea.secret|Vâlcea.secret]] 
 

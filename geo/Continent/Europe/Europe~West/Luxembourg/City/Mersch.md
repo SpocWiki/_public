@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Mersch.md|Mersch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Mersch.internal.md|Mersch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Mersch.protect.md|Mersch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Mersch.private.md|Mersch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Mersch.personal.md|Mersch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Mersch.secret.md|Mersch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Mersch.internal|Mersch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Mersch.protect|Mersch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Mersch.private|Mersch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Mersch.personal|Mersch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Mersch.secret|Mersch.secret]] 

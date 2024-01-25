@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Alais.md|Alais]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Alais.internal.md|Alais.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Alais.protect.md|Alais.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Alais.private.md|Alais.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Alais.personal.md|Alais.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Alais.secret.md|Alais.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Alais.internal|Alais.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Alais.protect|Alais.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Alais.private|Alais.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Alais.personal|Alais.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Alais.secret|Alais.secret]] 

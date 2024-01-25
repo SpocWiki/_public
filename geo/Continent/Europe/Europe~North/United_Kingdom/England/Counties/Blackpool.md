@@ -41,9 +41,9 @@ markerFolder: ./Blackpool/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.md|Blackpool]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.internal.md|Blackpool.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.protect.md|Blackpool.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.private.md|Blackpool.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.personal.md|Blackpool.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.secret.md|Blackpool.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.internal|Blackpool.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.protect|Blackpool.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.private|Blackpool.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.personal|Blackpool.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Blackpool.secret|Blackpool.secret]] 
 

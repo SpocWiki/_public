@@ -41,9 +41,9 @@ markerFolder: ./Ebonyi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ebonyi.md|Ebonyi]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ebonyi.internal.md|Ebonyi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ebonyi.protect.md|Ebonyi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ebonyi.private.md|Ebonyi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ebonyi.personal.md|Ebonyi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ebonyi.secret.md|Ebonyi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ebonyi.internal|Ebonyi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ebonyi.protect|Ebonyi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ebonyi.private|Ebonyi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ebonyi.personal|Ebonyi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ebonyi.secret|Ebonyi.secret]] 
 

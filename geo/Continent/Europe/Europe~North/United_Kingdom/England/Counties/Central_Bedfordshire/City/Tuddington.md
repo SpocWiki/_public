@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tuddington.md|Tuddington]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tuddington.internal.md|Tuddington.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tuddington.protect.md|Tuddington.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tuddington.private.md|Tuddington.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tuddington.personal.md|Tuddington.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tuddington.secret.md|Tuddington.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tuddington.internal|Tuddington.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tuddington.protect|Tuddington.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tuddington.private|Tuddington.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tuddington.personal|Tuddington.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tuddington.secret|Tuddington.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Azad_Kashmir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.md|Azad_Kashmir]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.internal.md|Azad_Kashmir.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.protect.md|Azad_Kashmir.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.private.md|Azad_Kashmir.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.personal.md|Azad_Kashmir.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.secret.md|Azad_Kashmir.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.internal|Azad_Kashmir.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.protect|Azad_Kashmir.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.private|Azad_Kashmir.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.personal|Azad_Kashmir.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Azad_Kashmir.secret|Azad_Kashmir.secret]] 
 

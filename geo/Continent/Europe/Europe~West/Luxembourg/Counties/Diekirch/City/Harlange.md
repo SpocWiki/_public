@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Harlange.md|Harlange]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Harlange.internal.md|Harlange.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Harlange.protect.md|Harlange.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Harlange.private.md|Harlange.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Harlange.personal.md|Harlange.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Harlange.secret.md|Harlange.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Harlange.internal|Harlange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Harlange.protect|Harlange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Harlange.private|Harlange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Harlange.personal|Harlange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Harlange.secret|Harlange.secret]] 

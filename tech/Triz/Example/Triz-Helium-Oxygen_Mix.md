@@ -18,8 +18,8 @@ Use a Helium-Oxygen Mix for Diving, to eliminate both Nitrogen Narcosis and Oxyg
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Helium-Oxygen_Mix.md|Triz-Helium-Oxygen_Mix]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Helium-Oxygen_Mix.internal.md|Triz-Helium-Oxygen_Mix.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Helium-Oxygen_Mix.protect.md|Triz-Helium-Oxygen_Mix.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Helium-Oxygen_Mix.private.md|Triz-Helium-Oxygen_Mix.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Helium-Oxygen_Mix.personal.md|Triz-Helium-Oxygen_Mix.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Helium-Oxygen_Mix.secret.md|Triz-Helium-Oxygen_Mix.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Helium-Oxygen_Mix.internal|Triz-Helium-Oxygen_Mix.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Helium-Oxygen_Mix.protect|Triz-Helium-Oxygen_Mix.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Helium-Oxygen_Mix.private|Triz-Helium-Oxygen_Mix.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Helium-Oxygen_Mix.personal|Triz-Helium-Oxygen_Mix.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Helium-Oxygen_Mix.secret|Triz-Helium-Oxygen_Mix.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.md|Pavullo_nel_Frignano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.internal.md|Pavullo_nel_Frignano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.protect.md|Pavullo_nel_Frignano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.private.md|Pavullo_nel_Frignano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.personal.md|Pavullo_nel_Frignano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.secret.md|Pavullo_nel_Frignano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.internal|Pavullo_nel_Frignano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.protect|Pavullo_nel_Frignano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.private|Pavullo_nel_Frignano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.personal|Pavullo_nel_Frignano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.secret|Pavullo_nel_Frignano.secret]] 

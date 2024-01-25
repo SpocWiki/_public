@@ -134,7 +134,7 @@ markerFolder: ./Nepal/
 ## Confidential Links & Embeds: 
 -[[Nepal|Nepal]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Nepal.internal|Nepal.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Nepal.protect.md|Nepal.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Nepal.private.md|Nepal.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Nepal.personal.md|Nepal.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Nepal.secret.md|Nepal.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Nepal.protect|Nepal.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Nepal.private|Nepal.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Nepal.personal|Nepal.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Nepal.secret|Nepal.secret]] 

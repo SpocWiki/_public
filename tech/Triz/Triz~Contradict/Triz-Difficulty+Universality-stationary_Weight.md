@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Universality-stationary_Weight]
 [SpocWebEntityId::26409]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.md|Triz-Difficulty+Universality-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.internal.md|Triz-Difficulty+Universality-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.protect.md|Triz-Difficulty+Universality-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.private.md|Triz-Difficulty+Universality-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.personal.md|Triz-Difficulty+Universality-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.secret.md|Triz-Difficulty+Universality-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.internal|Triz-Difficulty+Universality-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.protect|Triz-Difficulty+Universality-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.private|Triz-Difficulty+Universality-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.personal|Triz-Difficulty+Universality-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Weight.secret|Triz-Difficulty+Universality-stationary_Weight.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Cair/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Cair.md|Cair]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Cair.internal.md|Cair.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Cair.protect.md|Cair.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Cair.private.md|Cair.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Cair.personal.md|Cair.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Cair.secret.md|Cair.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Cair.internal|Cair.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Cair.protect|Cair.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Cair.private|Cair.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Cair.personal|Cair.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Cair.secret|Cair.secret]] 
 

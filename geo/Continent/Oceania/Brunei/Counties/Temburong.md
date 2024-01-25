@@ -41,9 +41,9 @@ markerFolder: ./Temburong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Brunei/Counties/Temburong.md|Temburong]] 
-- [[../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Temburong.internal.md|Temburong.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Temburong.protect.md|Temburong.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Brunei/Counties/Temburong.private.md|Temburong.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Temburong.personal.md|Temburong.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Temburong.secret.md|Temburong.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Temburong.internal|Temburong.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Temburong.protect|Temburong.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Brunei/Counties/Temburong.private|Temburong.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Temburong.personal|Temburong.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Temburong.secret|Temburong.secret]] 
 

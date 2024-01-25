@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Weissenstein.md|Weissenstein]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Weissenstein.internal.md|Weissenstein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Weissenstein.protect.md|Weissenstein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Weissenstein.private.md|Weissenstein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Weissenstein.personal.md|Weissenstein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Weissenstein.secret.md|Weissenstein.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Weissenstein.internal|Weissenstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Weissenstein.protect|Weissenstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Weissenstein.private|Weissenstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Weissenstein.personal|Weissenstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Weissenstein.secret|Weissenstein.secret]] 

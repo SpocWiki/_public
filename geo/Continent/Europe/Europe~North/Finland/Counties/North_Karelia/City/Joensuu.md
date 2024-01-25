@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Joensuu.md|Joensuu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Joensuu.internal.md|Joensuu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Joensuu.protect.md|Joensuu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Joensuu.private.md|Joensuu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Joensuu.personal.md|Joensuu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Joensuu.secret.md|Joensuu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Joensuu.internal|Joensuu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Joensuu.protect|Joensuu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Joensuu.private|Joensuu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Joensuu.personal|Joensuu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Joensuu.secret|Joensuu.secret]] 

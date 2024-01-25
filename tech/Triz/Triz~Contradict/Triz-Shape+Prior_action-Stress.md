@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Prior_action-Stress]
 [SpocWebEntityId::23746]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.md|Triz-Shape+Prior_action-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.internal.md|Triz-Shape+Prior_action-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.protect.md|Triz-Shape+Prior_action-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.private.md|Triz-Shape+Prior_action-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.personal.md|Triz-Shape+Prior_action-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.secret.md|Triz-Shape+Prior_action-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.internal|Triz-Shape+Prior_action-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.protect|Triz-Shape+Prior_action-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.private|Triz-Shape+Prior_action-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.personal|Triz-Shape+Prior_action-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Prior_action-Stress.secret|Triz-Shape+Prior_action-Stress.secret]] 

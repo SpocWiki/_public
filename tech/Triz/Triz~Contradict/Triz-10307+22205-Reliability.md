@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22205-Reliability]
 [SpocWebEntityId::26723]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22205]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-Reliability.md|Triz-10307+22205-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Reliability.internal.md|Triz-10307+22205-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Reliability.protect.md|Triz-10307+22205-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Reliability.private.md|Triz-10307+22205-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-Reliability.personal.md|Triz-10307+22205-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-Reliability.secret.md|Triz-10307+22205-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Reliability.internal|Triz-10307+22205-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Reliability.protect|Triz-10307+22205-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Reliability.private|Triz-10307+22205-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-Reliability.personal|Triz-10307+22205-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-Reliability.secret|Triz-10307+22205-Reliability.secret]] 

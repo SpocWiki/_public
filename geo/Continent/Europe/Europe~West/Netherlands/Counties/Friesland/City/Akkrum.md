@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Akkrum.md|Akkrum]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Akkrum.internal.md|Akkrum.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Akkrum.protect.md|Akkrum.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Akkrum.private.md|Akkrum.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Akkrum.personal.md|Akkrum.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Akkrum.secret.md|Akkrum.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Akkrum.internal|Akkrum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Akkrum.protect|Akkrum.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Akkrum.private|Akkrum.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Akkrum.personal|Akkrum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Akkrum.secret|Akkrum.secret]] 

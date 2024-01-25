@@ -41,9 +41,9 @@ markerFolder: ./Sakarya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sakarya.md|Sakarya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sakarya.internal.md|Sakarya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sakarya.protect.md|Sakarya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sakarya.private.md|Sakarya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sakarya.personal.md|Sakarya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sakarya.secret.md|Sakarya.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sakarya.internal|Sakarya.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sakarya.protect|Sakarya.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sakarya.private|Sakarya.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sakarya.personal|Sakarya.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sakarya.secret|Sakarya.secret]] 
 

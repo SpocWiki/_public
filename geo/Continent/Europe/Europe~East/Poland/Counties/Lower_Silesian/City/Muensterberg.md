@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Muensterberg.md|Muensterberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Muensterberg.internal.md|Muensterberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Muensterberg.protect.md|Muensterberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Muensterberg.private.md|Muensterberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Muensterberg.personal.md|Muensterberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Muensterberg.secret.md|Muensterberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Muensterberg.internal|Muensterberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Muensterberg.protect|Muensterberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Muensterberg.private|Muensterberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Muensterberg.personal|Muensterberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Muensterberg.secret|Muensterberg.secret]] 

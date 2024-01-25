@@ -41,9 +41,9 @@ markerFolder: ./Kisela_Voda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.md|Kisela_Voda]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.internal.md|Kisela_Voda.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.protect.md|Kisela_Voda.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.private.md|Kisela_Voda.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.personal.md|Kisela_Voda.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.secret.md|Kisela_Voda.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.internal|Kisela_Voda.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.protect|Kisela_Voda.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.private|Kisela_Voda.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.personal|Kisela_Voda.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kisela_Voda.secret|Kisela_Voda.secret]] 
 

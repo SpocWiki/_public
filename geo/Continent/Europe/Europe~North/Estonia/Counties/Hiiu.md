@@ -41,9 +41,9 @@ markerFolder: ./Hiiu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Hiiu.md|Hiiu]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Hiiu.internal.md|Hiiu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Hiiu.protect.md|Hiiu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Hiiu.private.md|Hiiu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Hiiu.personal.md|Hiiu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Hiiu.secret.md|Hiiu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Hiiu.internal|Hiiu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Hiiu.protect|Hiiu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Hiiu.private|Hiiu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Hiiu.personal|Hiiu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Hiiu.secret|Hiiu.secret]] 
 

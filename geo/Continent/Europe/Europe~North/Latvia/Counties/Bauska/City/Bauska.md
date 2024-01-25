@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Bauska.md|Bauska]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bauska.internal.md|Bauska.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bauska.protect.md|Bauska.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bauska.private.md|Bauska.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bauska.personal.md|Bauska.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bauska.secret.md|Bauska.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bauska.internal|Bauska.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bauska.protect|Bauska.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bauska.private|Bauska.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bauska.personal|Bauska.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bauska.secret|Bauska.secret]] 

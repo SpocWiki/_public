@@ -41,9 +41,9 @@ markerFolder: ./Houet/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Houet.md|Houet]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Houet.internal.md|Houet.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Houet.protect.md|Houet.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Houet.private.md|Houet.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Houet.personal.md|Houet.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Houet.secret.md|Houet.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Houet.internal|Houet.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Houet.protect|Houet.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Houet.private|Houet.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Houet.personal|Houet.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Houet.secret|Houet.secret]] 
 

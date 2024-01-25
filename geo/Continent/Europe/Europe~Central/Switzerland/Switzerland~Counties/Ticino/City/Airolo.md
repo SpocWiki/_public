@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Airolo.md|Airolo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Airolo.internal.md|Airolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Airolo.protect.md|Airolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Airolo.private.md|Airolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Airolo.personal.md|Airolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Airolo.secret.md|Airolo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Airolo.internal|Airolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Airolo.protect|Airolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Airolo.private|Airolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Airolo.personal|Airolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Airolo.secret|Airolo.secret]] 

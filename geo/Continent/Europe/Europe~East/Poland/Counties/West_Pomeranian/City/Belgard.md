@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Belgard.md|Belgard]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Belgard.internal.md|Belgard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Belgard.protect.md|Belgard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Belgard.private.md|Belgard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Belgard.personal.md|Belgard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Belgard.secret.md|Belgard.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Belgard.internal|Belgard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Belgard.protect|Belgard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Belgard.private|Belgard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Belgard.personal|Belgard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Belgard.secret|Belgard.secret]] 

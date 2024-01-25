@@ -41,9 +41,9 @@ markerFolder: ./Nueva_Vizcaya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.md|Nueva_Vizcaya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.internal.md|Nueva_Vizcaya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.protect.md|Nueva_Vizcaya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.private.md|Nueva_Vizcaya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.personal.md|Nueva_Vizcaya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.secret.md|Nueva_Vizcaya.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.internal|Nueva_Vizcaya.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.protect|Nueva_Vizcaya.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.private|Nueva_Vizcaya.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.personal|Nueva_Vizcaya.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.secret|Nueva_Vizcaya.secret]] 
 

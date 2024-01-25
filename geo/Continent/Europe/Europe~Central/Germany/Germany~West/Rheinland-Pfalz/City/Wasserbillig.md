@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Wasserbillig.md|Wasserbillig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wasserbillig.internal.md|Wasserbillig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wasserbillig.protect.md|Wasserbillig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wasserbillig.private.md|Wasserbillig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wasserbillig.personal.md|Wasserbillig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wasserbillig.secret.md|Wasserbillig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wasserbillig.internal|Wasserbillig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wasserbillig.protect|Wasserbillig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wasserbillig.private|Wasserbillig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wasserbillig.personal|Wasserbillig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wasserbillig.secret|Wasserbillig.secret]] 

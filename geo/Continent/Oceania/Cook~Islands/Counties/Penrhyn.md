@@ -41,9 +41,9 @@ markerFolder: ./Penrhyn/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.md|Penrhyn]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.internal.md|Penrhyn.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.protect.md|Penrhyn.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.private.md|Penrhyn.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.personal.md|Penrhyn.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.secret.md|Penrhyn.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.internal|Penrhyn.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.protect|Penrhyn.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.private|Penrhyn.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.personal|Penrhyn.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.secret|Penrhyn.secret]] 
 

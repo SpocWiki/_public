@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Hannover~Oldenburg|Hannover~Oldenburg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.internal.md|Hannover~Oldenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.protect.md|Hannover~Oldenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.private.md|Hannover~Oldenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.personal.md|Hannover~Oldenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.secret.md|Hannover~Oldenburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.internal|Hannover~Oldenburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.protect|Hannover~Oldenburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.private|Hannover~Oldenburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.personal|Hannover~Oldenburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.secret|Hannover~Oldenburg.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Hradisch.md|Hradisch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hradisch.internal.md|Hradisch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hradisch.protect.md|Hradisch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Hradisch.private.md|Hradisch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hradisch.personal.md|Hradisch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hradisch.secret.md|Hradisch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hradisch.internal|Hradisch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hradisch.protect|Hradisch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Hradisch.private|Hradisch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hradisch.personal|Hradisch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hradisch.secret|Hradisch.secret]] 

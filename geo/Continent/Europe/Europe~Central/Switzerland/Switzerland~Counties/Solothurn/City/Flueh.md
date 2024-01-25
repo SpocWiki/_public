@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Flueh.md|Flueh]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Flueh.internal.md|Flueh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Flueh.protect.md|Flueh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Flueh.private.md|Flueh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Flueh.personal.md|Flueh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Flueh.secret.md|Flueh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Flueh.internal|Flueh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Flueh.protect|Flueh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Flueh.private|Flueh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Flueh.personal|Flueh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Flueh.secret|Flueh.secret]] 

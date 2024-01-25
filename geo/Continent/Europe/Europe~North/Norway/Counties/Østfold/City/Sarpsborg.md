@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Sarpsborg.md|Sarpsborg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Sarpsborg.internal.md|Sarpsborg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Sarpsborg.protect.md|Sarpsborg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Sarpsborg.private.md|Sarpsborg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Sarpsborg.personal.md|Sarpsborg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Sarpsborg.secret.md|Sarpsborg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Sarpsborg.internal|Sarpsborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Sarpsborg.protect|Sarpsborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Sarpsborg.private|Sarpsborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Sarpsborg.personal|Sarpsborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Sarpsborg.secret|Sarpsborg.secret]] 

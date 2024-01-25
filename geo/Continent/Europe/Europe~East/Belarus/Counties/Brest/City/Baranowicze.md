@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Baranowicze.md|Baranowicze]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Baranowicze.internal.md|Baranowicze.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Baranowicze.protect.md|Baranowicze.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Baranowicze.private.md|Baranowicze.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Baranowicze.personal.md|Baranowicze.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Baranowicze.secret.md|Baranowicze.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Baranowicze.internal|Baranowicze.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Baranowicze.protect|Baranowicze.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Baranowicze.private|Baranowicze.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Baranowicze.personal|Baranowicze.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Baranowicze.secret|Baranowicze.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Alagoas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Alagoas.md|Alagoas]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Alagoas.internal.md|Alagoas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Alagoas.protect.md|Alagoas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Alagoas.private.md|Alagoas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Alagoas.personal.md|Alagoas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Alagoas.secret.md|Alagoas.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Alagoas.internal|Alagoas.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Alagoas.protect|Alagoas.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Alagoas.private|Alagoas.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Alagoas.personal|Alagoas.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Alagoas.secret|Alagoas.secret]] 
 

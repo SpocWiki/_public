@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Presine.md|Presine]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Presine.internal.md|Presine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Presine.protect.md|Presine.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Presine.private.md|Presine.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Presine.personal.md|Presine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Presine.secret.md|Presine.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Presine.internal|Presine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Presine.protect|Presine.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Presine.private|Presine.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Presine.personal|Presine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Presine.secret|Presine.secret]] 

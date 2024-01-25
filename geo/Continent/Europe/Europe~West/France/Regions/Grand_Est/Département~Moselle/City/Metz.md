@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Metz.md|Metz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Metz.internal.md|Metz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Metz.protect.md|Metz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Metz.private.md|Metz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Metz.personal.md|Metz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Metz.secret.md|Metz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Metz.internal|Metz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Metz.protect|Metz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Metz.private|Metz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Metz.personal|Metz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Metz.secret|Metz.secret]] 

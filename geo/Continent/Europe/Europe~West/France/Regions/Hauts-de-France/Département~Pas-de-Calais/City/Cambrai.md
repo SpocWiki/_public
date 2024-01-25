@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Cambrai.md|Cambrai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Cambrai.internal.md|Cambrai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Cambrai.protect.md|Cambrai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Cambrai.private.md|Cambrai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Cambrai.personal.md|Cambrai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Cambrai.secret.md|Cambrai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Cambrai.internal|Cambrai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Cambrai.protect|Cambrai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Cambrai.private|Cambrai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Cambrai.personal|Cambrai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Cambrai.secret|Cambrai.secret]] 

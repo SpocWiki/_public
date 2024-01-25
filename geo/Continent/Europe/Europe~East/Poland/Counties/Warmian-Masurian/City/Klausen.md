@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Klausen.md|Klausen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Klausen.internal.md|Klausen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Klausen.protect.md|Klausen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Klausen.private.md|Klausen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Klausen.personal.md|Klausen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Klausen.secret.md|Klausen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Klausen.internal|Klausen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Klausen.protect|Klausen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Klausen.private|Klausen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Klausen.personal|Klausen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Klausen.secret|Klausen.secret]] 

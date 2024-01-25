@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Rushing_through-Intensity]
 [SpocWebEntityId::24456]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Rushing_through]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.md|Triz-moving_Energy+Rushing_through-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.internal.md|Triz-moving_Energy+Rushing_through-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.protect.md|Triz-moving_Energy+Rushing_through-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.private.md|Triz-moving_Energy+Rushing_through-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.personal.md|Triz-moving_Energy+Rushing_through-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.secret.md|Triz-moving_Energy+Rushing_through-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.internal|Triz-moving_Energy+Rushing_through-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.protect|Triz-moving_Energy+Rushing_through-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.private|Triz-moving_Energy+Rushing_through-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.personal|Triz-moving_Energy+Rushing_through-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.secret|Triz-moving_Energy+Rushing_through-Intensity.secret]] 

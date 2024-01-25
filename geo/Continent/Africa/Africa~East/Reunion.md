@@ -37,7 +37,7 @@ markerFolder: ./Reunion/
 ## Confidential Links & Embeds: 
 -[[Reunion|Reunion]]] 
 -[[../../../../../_internal/geo/Continent/Africa/Reunion.internal|Reunion.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Reunion.protect.md|Reunion.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Reunion.private.md|Reunion.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Reunion.personal.md|Reunion.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Reunion.secret.md|Reunion.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Reunion.protect|Reunion.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Reunion.private|Reunion.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Reunion.personal|Reunion.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Reunion.secret|Reunion.secret]] 

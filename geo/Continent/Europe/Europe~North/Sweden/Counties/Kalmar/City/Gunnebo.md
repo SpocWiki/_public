@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Gunnebo.md|Gunnebo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Gunnebo.internal.md|Gunnebo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Gunnebo.protect.md|Gunnebo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Gunnebo.private.md|Gunnebo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Gunnebo.personal.md|Gunnebo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Gunnebo.secret.md|Gunnebo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Gunnebo.internal|Gunnebo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Gunnebo.protect|Gunnebo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Gunnebo.private|Gunnebo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Gunnebo.personal|Gunnebo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Gunnebo.secret|Gunnebo.secret]] 

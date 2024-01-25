@@ -41,9 +41,9 @@ markerFolder: ./Département~Isère/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.md|Département~Isère]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.internal.md|Département~Isère.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.protect.md|Département~Isère.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.private.md|Département~Isère.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.personal.md|Département~Isère.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.secret.md|Département~Isère.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.internal|Département~Isère.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.protect|Département~Isère.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.private|Département~Isère.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.personal|Département~Isère.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Isère.secret|Département~Isère.secret]] 
 

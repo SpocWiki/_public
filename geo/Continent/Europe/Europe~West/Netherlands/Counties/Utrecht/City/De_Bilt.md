@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/De_Bilt.md|De_Bilt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/De_Bilt.internal.md|De_Bilt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/De_Bilt.protect.md|De_Bilt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/De_Bilt.private.md|De_Bilt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/De_Bilt.personal.md|De_Bilt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/De_Bilt.secret.md|De_Bilt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/De_Bilt.internal|De_Bilt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/De_Bilt.protect|De_Bilt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/De_Bilt.private|De_Bilt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/De_Bilt.personal|De_Bilt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/De_Bilt.secret|De_Bilt.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Andesnes.md|Andesnes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Andesnes.internal.md|Andesnes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Andesnes.protect.md|Andesnes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Andesnes.private.md|Andesnes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Andesnes.personal.md|Andesnes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Andesnes.secret.md|Andesnes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Andesnes.internal|Andesnes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Andesnes.protect|Andesnes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Andesnes.private|Andesnes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Andesnes.personal|Andesnes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Andesnes.secret|Andesnes.secret]] 

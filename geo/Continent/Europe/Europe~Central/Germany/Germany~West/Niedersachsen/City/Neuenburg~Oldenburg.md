@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Neuenburg~Oldenburg|Neuenburg~Oldenburg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.internal.md|Neuenburg~Oldenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.protect.md|Neuenburg~Oldenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.private.md|Neuenburg~Oldenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.personal.md|Neuenburg~Oldenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.secret.md|Neuenburg~Oldenburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.internal|Neuenburg~Oldenburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.protect|Neuenburg~Oldenburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.private|Neuenburg~Oldenburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.personal|Neuenburg~Oldenburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.secret|Neuenburg~Oldenburg.secret]] 

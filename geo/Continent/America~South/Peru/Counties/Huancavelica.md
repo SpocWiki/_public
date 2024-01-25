@@ -41,9 +41,9 @@ markerFolder: ./Huancavelica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Huancavelica.md|Huancavelica]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Huancavelica.internal.md|Huancavelica.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Huancavelica.protect.md|Huancavelica.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Huancavelica.private.md|Huancavelica.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Huancavelica.personal.md|Huancavelica.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Huancavelica.secret.md|Huancavelica.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Huancavelica.internal|Huancavelica.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Huancavelica.protect|Huancavelica.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Huancavelica.private|Huancavelica.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Huancavelica.personal|Huancavelica.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Huancavelica.secret|Huancavelica.secret]] 
 

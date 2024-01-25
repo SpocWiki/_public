@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Vervins.md|Vervins]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vervins.internal.md|Vervins.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vervins.protect.md|Vervins.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Vervins.private.md|Vervins.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vervins.personal.md|Vervins.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vervins.secret.md|Vervins.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vervins.internal|Vervins.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vervins.protect|Vervins.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Vervins.private|Vervins.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vervins.personal|Vervins.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vervins.secret|Vervins.secret]] 

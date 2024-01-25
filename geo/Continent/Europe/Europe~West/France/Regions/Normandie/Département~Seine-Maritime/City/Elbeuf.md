@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Elbeuf.md|Elbeuf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Elbeuf.internal.md|Elbeuf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Elbeuf.protect.md|Elbeuf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Elbeuf.private.md|Elbeuf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Elbeuf.personal.md|Elbeuf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Elbeuf.secret.md|Elbeuf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Elbeuf.internal|Elbeuf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Elbeuf.protect|Elbeuf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Elbeuf.private|Elbeuf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Elbeuf.personal|Elbeuf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Elbeuf.secret|Elbeuf.secret]] 

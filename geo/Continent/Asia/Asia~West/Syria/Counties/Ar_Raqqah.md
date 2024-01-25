@@ -41,9 +41,9 @@ markerFolder: ./Ar_Raqqah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.md|Ar_Raqqah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.internal.md|Ar_Raqqah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.protect.md|Ar_Raqqah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.private.md|Ar_Raqqah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.personal.md|Ar_Raqqah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.secret.md|Ar_Raqqah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.internal|Ar_Raqqah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.protect|Ar_Raqqah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.private|Ar_Raqqah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.personal|Ar_Raqqah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.secret|Ar_Raqqah.secret]] 
 

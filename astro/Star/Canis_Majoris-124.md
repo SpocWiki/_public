@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Canis_Majoris-124.md|Canis_Majoris-124]] 
-- [[../../../_internal/astro/Star/Canis_Majoris-124.internal.md|Canis_Majoris-124.internal]] 
-- [[../../../_protect/astro/Star/Canis_Majoris-124.protect.md|Canis_Majoris-124.protect]] 
-- [[../../../_private/astro/Star/Canis_Majoris-124.private.md|Canis_Majoris-124.private]] 
-- [[../../../_personal/astro/Star/Canis_Majoris-124.personal.md|Canis_Majoris-124.personal]] 
-- [[../../../_secret/astro/Star/Canis_Majoris-124.secret.md|Canis_Majoris-124.secret]]
+- [[../../../_internal/astro/Star/Canis_Majoris-124.internal|Canis_Majoris-124.internal]] 
+- [[../../../_protect/astro/Star/Canis_Majoris-124.protect|Canis_Majoris-124.protect]] 
+- [[../../../_private/astro/Star/Canis_Majoris-124.private|Canis_Majoris-124.private]] 
+- [[../../../_personal/astro/Star/Canis_Majoris-124.personal|Canis_Majoris-124.personal]] 
+- [[../../../_secret/astro/Star/Canis_Majoris-124.secret|Canis_Majoris-124.secret]]
 

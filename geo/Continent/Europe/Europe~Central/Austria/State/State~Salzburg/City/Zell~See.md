@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Zell~See.md|Zell~See]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Zell~See.internal.md|Zell~See.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Zell~See.protect.md|Zell~See.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Zell~See.private.md|Zell~See.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Zell~See.personal.md|Zell~See.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Zell~See.secret.md|Zell~See.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Zell~See.internal|Zell~See.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Zell~See.protect|Zell~See.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Zell~See.private|Zell~See.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Zell~See.personal|Zell~See.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Zell~See.secret|Zell~See.secret]] 

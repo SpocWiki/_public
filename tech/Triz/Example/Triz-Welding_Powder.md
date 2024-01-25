@@ -18,8 +18,8 @@ Use powdered Welding Metal instead of Foil or Rod to get better Penetration of t
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Welding_Powder.md|Triz-Welding_Powder]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Welding_Powder.internal.md|Triz-Welding_Powder.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Welding_Powder.protect.md|Triz-Welding_Powder.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Welding_Powder.private.md|Triz-Welding_Powder.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Welding_Powder.personal.md|Triz-Welding_Powder.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Welding_Powder.secret.md|Triz-Welding_Powder.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Welding_Powder.internal|Triz-Welding_Powder.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Welding_Powder.protect|Triz-Welding_Powder.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Welding_Powder.private|Triz-Welding_Powder.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Welding_Powder.personal|Triz-Welding_Powder.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Welding_Powder.secret|Triz-Welding_Powder.secret]] 

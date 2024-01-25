@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kradrub.md|Kradrub]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kradrub.internal.md|Kradrub.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kradrub.protect.md|Kradrub.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kradrub.private.md|Kradrub.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kradrub.personal.md|Kradrub.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kradrub.secret.md|Kradrub.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kradrub.internal|Kradrub.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kradrub.protect|Kradrub.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kradrub.private|Kradrub.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kradrub.personal|Kradrub.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kradrub.secret|Kradrub.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kreuzenort.md|Kreuzenort]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kreuzenort.internal.md|Kreuzenort.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kreuzenort.protect.md|Kreuzenort.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kreuzenort.private.md|Kreuzenort.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kreuzenort.personal.md|Kreuzenort.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kreuzenort.secret.md|Kreuzenort.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kreuzenort.internal|Kreuzenort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kreuzenort.protect|Kreuzenort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kreuzenort.private|Kreuzenort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kreuzenort.personal|Kreuzenort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kreuzenort.secret|Kreuzenort.secret]] 

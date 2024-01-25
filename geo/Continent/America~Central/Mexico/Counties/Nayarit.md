@@ -41,9 +41,9 @@ markerFolder: ./Nayarit/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Nayarit.md|Nayarit]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Nayarit.internal.md|Nayarit.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Nayarit.protect.md|Nayarit.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Nayarit.private.md|Nayarit.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Nayarit.personal.md|Nayarit.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Nayarit.secret.md|Nayarit.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Nayarit.internal|Nayarit.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Nayarit.protect|Nayarit.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Nayarit.private|Nayarit.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Nayarit.personal|Nayarit.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Nayarit.secret|Nayarit.secret]] 
 

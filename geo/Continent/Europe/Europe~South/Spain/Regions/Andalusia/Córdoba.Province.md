@@ -41,9 +41,9 @@ markerFolder: ./Córdoba.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.md|Córdoba.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.internal.md|Córdoba.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.protect.md|Córdoba.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.private.md|Córdoba.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.personal.md|Córdoba.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.secret.md|Córdoba.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.internal|Córdoba.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.protect|Córdoba.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.private|Córdoba.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.personal|Córdoba.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Córdoba.Province.secret|Córdoba.Province.secret]] 
 

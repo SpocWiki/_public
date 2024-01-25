@@ -41,9 +41,9 @@ markerFolder: ./Stockholm/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Stockholm.md|Stockholm]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Stockholm.internal.md|Stockholm.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Stockholm.protect.md|Stockholm.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Stockholm.private.md|Stockholm.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Stockholm.personal.md|Stockholm.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Stockholm.secret.md|Stockholm.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Stockholm.internal|Stockholm.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Stockholm.protect|Stockholm.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Stockholm.private|Stockholm.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Stockholm.personal|Stockholm.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Stockholm.secret|Stockholm.secret]] 
 

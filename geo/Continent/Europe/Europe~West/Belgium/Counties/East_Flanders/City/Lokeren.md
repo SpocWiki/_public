@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Lokeren.md|Lokeren]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Lokeren.internal.md|Lokeren.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Lokeren.protect.md|Lokeren.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Lokeren.private.md|Lokeren.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Lokeren.personal.md|Lokeren.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Lokeren.secret.md|Lokeren.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Lokeren.internal|Lokeren.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Lokeren.protect|Lokeren.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Lokeren.private|Lokeren.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Lokeren.personal|Lokeren.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Lokeren.secret|Lokeren.secret]] 

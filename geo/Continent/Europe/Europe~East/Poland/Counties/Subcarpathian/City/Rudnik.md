@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rudnik.md|Rudnik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rudnik.internal.md|Rudnik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rudnik.protect.md|Rudnik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rudnik.private.md|Rudnik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rudnik.personal.md|Rudnik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rudnik.secret.md|Rudnik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rudnik.internal|Rudnik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rudnik.protect|Rudnik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rudnik.private|Rudnik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rudnik.personal|Rudnik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rudnik.secret|Rudnik.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Cova_Lima/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.md|Cova_Lima]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.internal.md|Cova_Lima.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.protect.md|Cova_Lima.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.private.md|Cova_Lima.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.personal.md|Cova_Lima.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.secret.md|Cova_Lima.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.internal|Cova_Lima.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.protect|Cova_Lima.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.private|Cova_Lima.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.personal|Cova_Lima.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Cova_Lima.secret|Cova_Lima.secret]] 
 

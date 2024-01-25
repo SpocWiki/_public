@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Agadir.md|Agadir]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Agadir.internal.md|Agadir.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Agadir.protect.md|Agadir.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Agadir.private.md|Agadir.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Agadir.personal.md|Agadir.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Agadir.secret.md|Agadir.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Agadir.internal|Agadir.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Agadir.protect|Agadir.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Agadir.private|Agadir.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Agadir.personal|Agadir.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Agadir.secret|Agadir.secret]] 

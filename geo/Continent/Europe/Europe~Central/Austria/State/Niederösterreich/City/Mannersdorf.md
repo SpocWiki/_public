@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Mannersdorf.md|Mannersdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mannersdorf.internal.md|Mannersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mannersdorf.protect.md|Mannersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mannersdorf.private.md|Mannersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mannersdorf.personal.md|Mannersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mannersdorf.secret.md|Mannersdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mannersdorf.internal|Mannersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mannersdorf.protect|Mannersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mannersdorf.private|Mannersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mannersdorf.personal|Mannersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mannersdorf.secret|Mannersdorf.secret]] 

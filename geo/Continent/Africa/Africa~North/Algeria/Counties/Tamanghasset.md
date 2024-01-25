@@ -41,9 +41,9 @@ markerFolder: ./Tamanghasset/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tamanghasset.md|Tamanghasset]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tamanghasset.internal.md|Tamanghasset.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tamanghasset.protect.md|Tamanghasset.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tamanghasset.private.md|Tamanghasset.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tamanghasset.personal.md|Tamanghasset.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tamanghasset.secret.md|Tamanghasset.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tamanghasset.internal|Tamanghasset.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tamanghasset.protect|Tamanghasset.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tamanghasset.private|Tamanghasset.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tamanghasset.personal|Tamanghasset.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tamanghasset.secret|Tamanghasset.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hindenburg.md|Hindenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hindenburg.internal.md|Hindenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hindenburg.protect.md|Hindenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hindenburg.private.md|Hindenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hindenburg.personal.md|Hindenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hindenburg.secret.md|Hindenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hindenburg.internal|Hindenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hindenburg.protect|Hindenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hindenburg.private|Hindenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hindenburg.personal|Hindenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hindenburg.secret|Hindenburg.secret]] 

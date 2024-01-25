@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Noli.md|Noli]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Noli.internal.md|Noli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Noli.protect.md|Noli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Noli.private.md|Noli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Noli.personal.md|Noli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Noli.secret.md|Noli.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Noli.internal|Noli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Noli.protect|Noli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Noli.private|Noli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Noli.personal|Noli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Noli.secret|Noli.secret]] 

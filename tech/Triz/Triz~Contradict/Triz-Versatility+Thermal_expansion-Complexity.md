@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Thermal_expansion-Complexity]
 [SpocWebEntityId::26280]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.md|Triz-Versatility+Thermal_expansion-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.internal.md|Triz-Versatility+Thermal_expansion-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.protect.md|Triz-Versatility+Thermal_expansion-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.private.md|Triz-Versatility+Thermal_expansion-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.personal.md|Triz-Versatility+Thermal_expansion-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.secret.md|Triz-Versatility+Thermal_expansion-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.internal|Triz-Versatility+Thermal_expansion-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.protect|Triz-Versatility+Thermal_expansion-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.private|Triz-Versatility+Thermal_expansion-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.personal|Triz-Versatility+Thermal_expansion-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.secret|Triz-Versatility+Thermal_expansion-Complexity.secret]] 

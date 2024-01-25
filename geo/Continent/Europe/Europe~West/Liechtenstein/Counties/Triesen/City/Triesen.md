@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.12]
 [name::Triesen]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../../Europe~Central/Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Triesen.md|Triesen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Triesen.internal.md|Triesen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Triesen.protect.md|Triesen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Triesen.private.md|Triesen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Triesen.personal.md|Triesen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Triesen.secret.md|Triesen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Triesen.internal|Triesen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Triesen.protect|Triesen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Triesen.private|Triesen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Triesen.personal|Triesen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Triesen.secret|Triesen.secret]] 

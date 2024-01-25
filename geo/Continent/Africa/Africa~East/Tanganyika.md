@@ -37,7 +37,7 @@ markerFolder: ./Tanganyika//
 ## Confidential Links & Embeds: 
 - [[Tanganyika|Tanganyika]] 
 - [[../../../../../_internal/geo/Continent/Africa/Tanganyika.internal|Tanganyika.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanganyika.protect.md|Tanganyika.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanganyika.private.md|Tanganyika.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanganyika.personal.md|Tanganyika.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanganyika.secret.md|Tanganyika.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanganyika.protect|Tanganyika.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanganyika.private|Tanganyika.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanganyika.personal|Tanganyika.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanganyika.secret|Tanganyika.secret]] 

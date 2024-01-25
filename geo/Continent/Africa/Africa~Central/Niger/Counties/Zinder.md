@@ -41,9 +41,9 @@ markerFolder: ./Zinder/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Niger/Counties/Zinder.md|Zinder]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Zinder.internal.md|Zinder.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Zinder.protect.md|Zinder.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Zinder.private.md|Zinder.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Zinder.personal.md|Zinder.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Zinder.secret.md|Zinder.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Zinder.internal|Zinder.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Zinder.protect|Zinder.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Zinder.private|Zinder.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Zinder.personal|Zinder.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Zinder.secret|Zinder.secret]] 
 

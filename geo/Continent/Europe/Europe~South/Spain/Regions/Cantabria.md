@@ -41,9 +41,9 @@ markerFolder: ./Cantabria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Cantabria.md|Cantabria]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Cantabria.internal.md|Cantabria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Cantabria.protect.md|Cantabria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Cantabria.private.md|Cantabria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Cantabria.personal.md|Cantabria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Cantabria.secret.md|Cantabria.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Cantabria.internal|Cantabria.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Cantabria.protect|Cantabria.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Cantabria.private|Cantabria.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Cantabria.personal|Cantabria.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Cantabria.secret|Cantabria.secret]] 
 

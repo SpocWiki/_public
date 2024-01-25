@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kandalakscha.md|Kandalakscha]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kandalakscha.internal.md|Kandalakscha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kandalakscha.protect.md|Kandalakscha.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kandalakscha.private.md|Kandalakscha.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kandalakscha.personal.md|Kandalakscha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kandalakscha.secret.md|Kandalakscha.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kandalakscha.internal|Kandalakscha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kandalakscha.protect|Kandalakscha.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kandalakscha.private|Kandalakscha.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kandalakscha.personal|Kandalakscha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kandalakscha.secret|Kandalakscha.secret]] 

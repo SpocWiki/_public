@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Tavira.md|Tavira]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Tavira.internal.md|Tavira.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Tavira.protect.md|Tavira.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Tavira.private.md|Tavira.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Tavira.personal.md|Tavira.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Tavira.secret.md|Tavira.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Tavira.internal|Tavira.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Tavira.protect|Tavira.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Tavira.private|Tavira.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Tavira.personal|Tavira.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Tavira.secret|Tavira.secret]] 

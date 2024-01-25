@@ -136,8 +136,8 @@ markerFolder: ./Moldova//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova.md|Moldova]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova.internal.md|Moldova.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova.protect.md|Moldova.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova.private.md|Moldova.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova.personal.md|Moldova.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova.secret.md|Moldova.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova.internal|Moldova.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova.protect|Moldova.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova.private|Moldova.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova.personal|Moldova.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova.secret|Moldova.secret]] 

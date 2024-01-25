@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Ekenaes.md|Ekenaes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Ekenaes.internal.md|Ekenaes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Ekenaes.protect.md|Ekenaes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Ekenaes.private.md|Ekenaes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Ekenaes.personal.md|Ekenaes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Ekenaes.secret.md|Ekenaes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Ekenaes.internal|Ekenaes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Ekenaes.protect|Ekenaes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Ekenaes.private|Ekenaes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Ekenaes.personal|Ekenaes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Ekenaes.secret|Ekenaes.secret]] 

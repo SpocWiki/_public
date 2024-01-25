@@ -26,8 +26,8 @@ Make each part of an object fulfill a different and useful function.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-different.md|Triz-different]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-different.internal.md|Triz-different.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-different.protect.md|Triz-different.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-different.private.md|Triz-different.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-different.personal.md|Triz-different.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-different.secret.md|Triz-different.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-different.internal|Triz-different.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-different.protect|Triz-different.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-different.private|Triz-different.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-different.personal|Triz-different.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-different.secret|Triz-different.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hamgyŏng-bukto/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.md|Hamgyŏng-bukto]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.internal.md|Hamgyŏng-bukto.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.protect.md|Hamgyŏng-bukto.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.private.md|Hamgyŏng-bukto.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.personal.md|Hamgyŏng-bukto.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.secret.md|Hamgyŏng-bukto.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.internal|Hamgyŏng-bukto.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.protect|Hamgyŏng-bukto.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.private|Hamgyŏng-bukto.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.personal|Hamgyŏng-bukto.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hamgyŏng-bukto.secret|Hamgyŏng-bukto.secret]] 
 

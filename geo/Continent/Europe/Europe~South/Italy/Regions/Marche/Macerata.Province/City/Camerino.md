@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Camerino.md|Camerino]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Camerino.internal.md|Camerino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Camerino.protect.md|Camerino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Camerino.private.md|Camerino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Camerino.personal.md|Camerino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Camerino.secret.md|Camerino.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Camerino.internal|Camerino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Camerino.protect|Camerino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Camerino.private|Camerino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Camerino.personal|Camerino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Camerino.secret|Camerino.secret]] 

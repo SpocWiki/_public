@@ -41,9 +41,9 @@ markerFolder: ./Sowa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Sowa.md|Sowa]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Sowa.internal.md|Sowa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Sowa.protect.md|Sowa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Sowa.private.md|Sowa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Sowa.personal.md|Sowa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Sowa.secret.md|Sowa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Sowa.internal|Sowa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Sowa.protect|Sowa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Sowa.private|Sowa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Sowa.personal|Sowa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Sowa.secret|Sowa.secret]] 
 

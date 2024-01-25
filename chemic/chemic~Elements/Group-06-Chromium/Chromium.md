@@ -38,8 +38,8 @@ SpocWebEntityId: 21924
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-06-Chromium/Chromium.md|Chromium]] 
-- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Chromium.internal.md|Chromium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Chromium.protect.md|Chromium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-06-Chromium/Chromium.private.md|Chromium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Chromium.personal.md|Chromium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Chromium.secret.md|Chromium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Chromium.internal|Chromium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Chromium.protect|Chromium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-06-Chromium/Chromium.private|Chromium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Chromium.personal|Chromium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Chromium.secret|Chromium.secret]] 

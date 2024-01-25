@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Tunisia/City/Tunis.md|Tunis]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/City/Tunis.internal.md|Tunis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/City/Tunis.protect.md|Tunis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/City/Tunis.private.md|Tunis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/City/Tunis.personal.md|Tunis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/City/Tunis.secret.md|Tunis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/City/Tunis.internal|Tunis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/City/Tunis.protect|Tunis.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/City/Tunis.private|Tunis.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/City/Tunis.personal|Tunis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/City/Tunis.secret|Tunis.secret]] 

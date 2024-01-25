@@ -41,9 +41,9 @@ markerFolder: ./Cornwall/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.md|Cornwall]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.internal.md|Cornwall.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.protect.md|Cornwall.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.private.md|Cornwall.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.personal.md|Cornwall.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.secret.md|Cornwall.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.internal|Cornwall.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.protect|Cornwall.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.private|Cornwall.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.personal|Cornwall.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cornwall.secret|Cornwall.secret]] 
 

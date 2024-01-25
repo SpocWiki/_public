@@ -12,16 +12,16 @@ tags:
 ---
 [name::22190+Mechanical_vibration-10307]
 [SpocWebEntityId::26533]
-+ [pro::[[Triz-22190]]]
++ [#has_/Pros :: [[Triz-22190]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-10307]]]
+- [#has_/Cons :: [[Triz-10307]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.md|Triz-22190+Mechanical_vibration-10307]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.internal.md|Triz-22190+Mechanical_vibration-10307.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.protect.md|Triz-22190+Mechanical_vibration-10307.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.private.md|Triz-22190+Mechanical_vibration-10307.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.personal.md|Triz-22190+Mechanical_vibration-10307.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.secret.md|Triz-22190+Mechanical_vibration-10307.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.internal|Triz-22190+Mechanical_vibration-10307.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.protect|Triz-22190+Mechanical_vibration-10307.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.private|Triz-22190+Mechanical_vibration-10307.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.personal|Triz-22190+Mechanical_vibration-10307.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-22190+Mechanical_vibration-10307.secret|Triz-22190+Mechanical_vibration-10307.secret]] 

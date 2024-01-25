@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kursenau.md|Kursenau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kursenau.internal.md|Kursenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kursenau.protect.md|Kursenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kursenau.private.md|Kursenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kursenau.personal.md|Kursenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kursenau.secret.md|Kursenau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kursenau.internal|Kursenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kursenau.protect|Kursenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kursenau.private|Kursenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kursenau.personal|Kursenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kursenau.secret|Kursenau.secret]] 

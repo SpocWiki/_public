@@ -41,9 +41,9 @@ markerFolder: ./Kriti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Kriti.md|Kriti]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Kriti.internal.md|Kriti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Kriti.protect.md|Kriti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Kriti.private.md|Kriti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Kriti.personal.md|Kriti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Kriti.secret.md|Kriti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Kriti.internal|Kriti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Kriti.protect|Kriti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Kriti.private|Kriti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Kriti.personal|Kriti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Kriti.secret|Kriti.secret]] 
 

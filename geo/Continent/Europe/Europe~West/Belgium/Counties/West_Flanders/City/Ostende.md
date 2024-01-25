@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Ostende.md|Ostende]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Ostende.internal.md|Ostende.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Ostende.protect.md|Ostende.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Ostende.private.md|Ostende.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Ostende.personal.md|Ostende.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Ostende.secret.md|Ostende.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Ostende.internal|Ostende.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Ostende.protect|Ostende.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Ostende.private|Ostende.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Ostende.personal|Ostende.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Ostende.secret|Ostende.secret]] 

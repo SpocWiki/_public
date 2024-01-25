@@ -41,9 +41,9 @@ markerFolder: ./Sharjah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.md|Sharjah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.internal.md|Sharjah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.protect.md|Sharjah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.private.md|Sharjah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.personal.md|Sharjah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.secret.md|Sharjah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.internal|Sharjah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.protect|Sharjah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.private|Sharjah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.personal|Sharjah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.secret|Sharjah.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.md|Addis_Abeba]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.internal.md|Addis_Abeba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.protect.md|Addis_Abeba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.private.md|Addis_Abeba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.personal.md|Addis_Abeba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.secret.md|Addis_Abeba.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.internal|Addis_Abeba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.protect|Addis_Abeba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.private|Addis_Abeba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.personal|Addis_Abeba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.secret|Addis_Abeba.secret]] 

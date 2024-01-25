@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Frederiksborg.md|Frederiksborg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Frederiksborg.internal.md|Frederiksborg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Frederiksborg.protect.md|Frederiksborg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Frederiksborg.private.md|Frederiksborg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Frederiksborg.personal.md|Frederiksborg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Frederiksborg.secret.md|Frederiksborg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Frederiksborg.internal|Frederiksborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Frederiksborg.protect|Frederiksborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Frederiksborg.private|Frederiksborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Frederiksborg.personal|Frederiksborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Frederiksborg.secret|Frederiksborg.secret]] 

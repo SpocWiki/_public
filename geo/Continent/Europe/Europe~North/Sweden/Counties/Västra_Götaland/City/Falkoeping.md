@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Falkoeping.md|Falkoeping]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Falkoeping.internal.md|Falkoeping.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Falkoeping.protect.md|Falkoeping.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Falkoeping.private.md|Falkoeping.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Falkoeping.personal.md|Falkoeping.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Falkoeping.secret.md|Falkoeping.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Falkoeping.internal|Falkoeping.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Falkoeping.protect|Falkoeping.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Falkoeping.private|Falkoeping.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Falkoeping.personal|Falkoeping.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Falkoeping.secret|Falkoeping.secret]] 

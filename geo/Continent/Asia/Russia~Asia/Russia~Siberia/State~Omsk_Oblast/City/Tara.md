@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tara.md|Tara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tara.internal.md|Tara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tara.protect.md|Tara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tara.private.md|Tara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tara.personal.md|Tara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tara.secret.md|Tara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tara.internal|Tara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tara.protect|Tara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tara.private|Tara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tara.personal|Tara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tara.secret|Tara.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Nyborg.md|Nyborg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nyborg.internal.md|Nyborg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nyborg.protect.md|Nyborg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Nyborg.private.md|Nyborg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nyborg.personal.md|Nyborg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nyborg.secret.md|Nyborg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nyborg.internal|Nyborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nyborg.protect|Nyborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Nyborg.private|Nyborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nyborg.personal|Nyborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nyborg.secret|Nyborg.secret]] 

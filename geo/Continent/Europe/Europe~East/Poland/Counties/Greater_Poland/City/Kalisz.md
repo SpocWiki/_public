@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kalisz.md|Kalisz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kalisz.internal.md|Kalisz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kalisz.protect.md|Kalisz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kalisz.private.md|Kalisz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kalisz.personal.md|Kalisz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kalisz.secret.md|Kalisz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kalisz.internal|Kalisz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kalisz.protect|Kalisz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kalisz.private|Kalisz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kalisz.personal|Kalisz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kalisz.secret|Kalisz.secret]] 

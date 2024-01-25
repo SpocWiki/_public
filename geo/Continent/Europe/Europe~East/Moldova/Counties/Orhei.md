@@ -41,9 +41,9 @@ markerFolder: ./Orhei/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Orhei.md|Orhei]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Orhei.internal.md|Orhei.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Orhei.protect.md|Orhei.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Orhei.private.md|Orhei.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Orhei.personal.md|Orhei.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Orhei.secret.md|Orhei.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Orhei.internal|Orhei.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Orhei.protect|Orhei.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Orhei.private|Orhei.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Orhei.personal|Orhei.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Orhei.secret|Orhei.secret]] 
 

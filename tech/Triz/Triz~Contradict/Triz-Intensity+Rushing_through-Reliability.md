@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Rushing_through-Reliability]
 [SpocWebEntityId::23556]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Rushing_through]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.md|Triz-Intensity+Rushing_through-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.internal.md|Triz-Intensity+Rushing_through-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.protect.md|Triz-Intensity+Rushing_through-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.private.md|Triz-Intensity+Rushing_through-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.personal.md|Triz-Intensity+Rushing_through-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.secret.md|Triz-Intensity+Rushing_through-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.internal|Triz-Intensity+Rushing_through-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.protect|Triz-Intensity+Rushing_through-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.private|Triz-Intensity+Rushing_through-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.personal|Triz-Intensity+Rushing_through-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Reliability.secret|Triz-Intensity+Rushing_through-Reliability.secret]] 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Kochab.md|Kochab]] 
-- [[../../../_internal/astro/Star/Kochab.internal.md|Kochab.internal]] 
-- [[../../../_protect/astro/Star/Kochab.protect.md|Kochab.protect]] 
-- [[../../../_private/astro/Star/Kochab.private.md|Kochab.private]] 
-- [[../../../_personal/astro/Star/Kochab.personal.md|Kochab.personal]] 
-- [[../../../_secret/astro/Star/Kochab.secret.md|Kochab.secret]]
+- [[../../../_internal/astro/Star/Kochab.internal|Kochab.internal]] 
+- [[../../../_protect/astro/Star/Kochab.protect|Kochab.protect]] 
+- [[../../../_private/astro/Star/Kochab.private|Kochab.private]] 
+- [[../../../_personal/astro/Star/Kochab.personal|Kochab.personal]] 
+- [[../../../_secret/astro/Star/Kochab.secret|Kochab.secret]]
 

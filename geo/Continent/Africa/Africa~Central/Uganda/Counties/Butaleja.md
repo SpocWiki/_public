@@ -41,9 +41,9 @@ markerFolder: ./Butaleja/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Butaleja.md|Butaleja]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Butaleja.internal.md|Butaleja.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Butaleja.protect.md|Butaleja.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Butaleja.private.md|Butaleja.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Butaleja.personal.md|Butaleja.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Butaleja.secret.md|Butaleja.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Butaleja.internal|Butaleja.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Butaleja.protect|Butaleja.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Butaleja.private|Butaleja.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Butaleja.personal|Butaleja.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Butaleja.secret|Butaleja.secret]] 
 

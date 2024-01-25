@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.md|Greenville]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.internal.md|Greenville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.protect.md|Greenville.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.private.md|Greenville.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.personal.md|Greenville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.secret.md|Greenville.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.internal|Greenville.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.protect|Greenville.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.private|Greenville.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.personal|Greenville.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.secret|Greenville.secret]] 

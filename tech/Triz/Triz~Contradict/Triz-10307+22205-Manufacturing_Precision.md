@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22205-Manufacturing_Precision]
 [SpocWebEntityId::26730]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22205]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.md|Triz-10307+22205-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.internal.md|Triz-10307+22205-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.protect.md|Triz-10307+22205-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.private.md|Triz-10307+22205-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.personal.md|Triz-10307+22205-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.secret.md|Triz-10307+22205-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.internal|Triz-10307+22205-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.protect|Triz-10307+22205-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.private|Triz-10307+22205-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.personal|Triz-10307+22205-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.secret|Triz-10307+22205-Manufacturing_Precision.secret]] 

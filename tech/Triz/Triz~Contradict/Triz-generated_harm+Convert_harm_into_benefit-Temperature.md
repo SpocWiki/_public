@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Convert_harm_into_benefit-Temperature]
 [SpocWebEntityId::25772]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.md|Triz-generated_harm+Convert_harm_into_benefit-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.internal.md|Triz-generated_harm+Convert_harm_into_benefit-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.protect.md|Triz-generated_harm+Convert_harm_into_benefit-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.private.md|Triz-generated_harm+Convert_harm_into_benefit-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.personal.md|Triz-generated_harm+Convert_harm_into_benefit-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.secret.md|Triz-generated_harm+Convert_harm_into_benefit-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.internal|Triz-generated_harm+Convert_harm_into_benefit-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.protect|Triz-generated_harm+Convert_harm_into_benefit-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.private|Triz-generated_harm+Convert_harm_into_benefit-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.personal|Triz-generated_harm+Convert_harm_into_benefit-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Temperature.secret|Triz-generated_harm+Convert_harm_into_benefit-Temperature.secret]] 

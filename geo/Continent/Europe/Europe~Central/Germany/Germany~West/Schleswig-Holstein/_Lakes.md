@@ -41,9 +41,9 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.internal.md|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.protect.md|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.private.md|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.personal.md|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.secret.md|_Lakes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.private|_Lakes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Germany/Germany~West/Schleswig-Holstein/_Lakes.secret|_Lakes.secret]] 
 

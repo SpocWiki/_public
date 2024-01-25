@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Waldfriedhof_Goldstein|T-Waldfriedhof_Goldstein]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.internal.md|T-Waldfriedhof_Goldstein.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.protect.md|T-Waldfriedhof_Goldstein.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.private.md|T-Waldfriedhof_Goldstein.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.personal.md|T-Waldfriedhof_Goldstein.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.secret.md|T-Waldfriedhof_Goldstein.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.internal|T-Waldfriedhof_Goldstein.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.protect|T-Waldfriedhof_Goldstein.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.private|T-Waldfriedhof_Goldstein.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.personal|T-Waldfriedhof_Goldstein.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.secret|T-Waldfriedhof_Goldstein.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Tortoli.md|Tortoli]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Tortoli.internal.md|Tortoli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Tortoli.protect.md|Tortoli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Tortoli.private.md|Tortoli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Tortoli.personal.md|Tortoli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Tortoli.secret.md|Tortoli.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Tortoli.internal|Tortoli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Tortoli.protect|Tortoli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Tortoli.private|Tortoli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Tortoli.personal|Tortoli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Tortoli.secret|Tortoli.secret]] 

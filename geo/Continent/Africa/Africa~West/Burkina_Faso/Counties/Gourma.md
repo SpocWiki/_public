@@ -41,9 +41,9 @@ markerFolder: ./Gourma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.md|Gourma]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.internal.md|Gourma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.protect.md|Gourma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.private.md|Gourma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.personal.md|Gourma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.secret.md|Gourma.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.internal|Gourma.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.protect|Gourma.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.private|Gourma.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.personal|Gourma.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.secret|Gourma.secret]] 
 

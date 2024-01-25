@@ -41,9 +41,9 @@ markerFolder: ./Yazd/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.md|Yazd]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.internal.md|Yazd.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.protect.md|Yazd.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.private.md|Yazd.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.personal.md|Yazd.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.secret.md|Yazd.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.internal|Yazd.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.protect|Yazd.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.private|Yazd.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.personal|Yazd.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.secret|Yazd.secret]] 
 

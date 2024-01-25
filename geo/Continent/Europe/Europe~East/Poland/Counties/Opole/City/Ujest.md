@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ujest.md|Ujest]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ujest.internal.md|Ujest.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ujest.protect.md|Ujest.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ujest.private.md|Ujest.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ujest.personal.md|Ujest.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ujest.secret.md|Ujest.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ujest.internal|Ujest.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ujest.protect|Ujest.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ujest.private|Ujest.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ujest.personal|Ujest.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ujest.secret|Ujest.secret]] 

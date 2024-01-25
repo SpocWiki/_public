@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::24830]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.md|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.internal.md|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.protect.md|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.private.md|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.personal.md|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.secret.md|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.internal|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.protect|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.private|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.personal|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.secret|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape.secret]] 

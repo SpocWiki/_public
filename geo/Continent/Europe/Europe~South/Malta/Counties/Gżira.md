@@ -41,9 +41,9 @@ markerFolder: ./Gżira/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Gżira.md|Gżira]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Gżira.internal.md|Gżira.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Gżira.protect.md|Gżira.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Gżira.private.md|Gżira.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Gżira.personal.md|Gżira.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Gżira.secret.md|Gżira.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Gżira.internal|Gżira.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Gżira.protect|Gżira.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Gżira.private|Gżira.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Gżira.personal|Gżira.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Gżira.secret|Gżira.secret]] 
 

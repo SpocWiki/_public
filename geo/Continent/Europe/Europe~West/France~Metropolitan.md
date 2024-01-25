@@ -36,8 +36,8 @@ markerFolder: ./France~Metropolitan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France~Metropolitan.md|France~Metropolitan]] 
-- [[../../../../_internal/geo/Continent/Europe/France~Metropolitan.internal.md|France~Metropolitan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France~Metropolitan.protect.md|France~Metropolitan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France~Metropolitan.private.md|France~Metropolitan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France~Metropolitan.personal.md|France~Metropolitan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France~Metropolitan.secret.md|France~Metropolitan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France~Metropolitan.internal|France~Metropolitan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France~Metropolitan.protect|France~Metropolitan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France~Metropolitan.private|France~Metropolitan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France~Metropolitan.personal|France~Metropolitan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France~Metropolitan.secret|France~Metropolitan.secret]] 

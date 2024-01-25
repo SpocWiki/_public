@@ -41,9 +41,9 @@ markerFolder: ./Pcinjski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Pcinjski.md|Pcinjski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Pcinjski.internal.md|Pcinjski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Pcinjski.protect.md|Pcinjski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Pcinjski.private.md|Pcinjski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Pcinjski.personal.md|Pcinjski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Pcinjski.secret.md|Pcinjski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Pcinjski.internal|Pcinjski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Pcinjski.protect|Pcinjski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Pcinjski.private|Pcinjski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Pcinjski.personal|Pcinjski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Pcinjski.secret|Pcinjski.secret]] 
 

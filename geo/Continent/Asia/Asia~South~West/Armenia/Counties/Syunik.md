@@ -41,9 +41,9 @@ markerFolder: ./Syunik/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.md|Syunik]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.internal.md|Syunik.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.protect.md|Syunik.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.private.md|Syunik.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.personal.md|Syunik.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.secret.md|Syunik.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.internal|Syunik.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.protect|Syunik.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.private|Syunik.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.personal|Syunik.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Syunik.secret|Syunik.secret]] 
 

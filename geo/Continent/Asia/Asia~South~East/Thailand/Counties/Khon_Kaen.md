@@ -41,9 +41,9 @@ markerFolder: ./Khon_Kaen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.md|Khon_Kaen]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.internal.md|Khon_Kaen.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.protect.md|Khon_Kaen.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.private.md|Khon_Kaen.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.personal.md|Khon_Kaen.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.secret.md|Khon_Kaen.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.internal|Khon_Kaen.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.protect|Khon_Kaen.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.private|Khon_Kaen.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.personal|Khon_Kaen.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Khon_Kaen.secret|Khon_Kaen.secret]] 
 

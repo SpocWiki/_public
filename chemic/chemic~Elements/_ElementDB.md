@@ -555,8 +555,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/_ElementDB.md|_ElementDB]] 
-- [[../../../_internal/chemic/Elements/_ElementDB.internal.md|_ElementDB.internal]] 
-- [[../../../_protect/chemic/Elements/_ElementDB.protect.md|_ElementDB.protect]] 
-- [[../../../_private/chemic/Elements/_ElementDB.private.md|_ElementDB.private]] 
-- [[../../../_personal/chemic/Elements/_ElementDB.personal.md|_ElementDB.personal]] 
-- [[../../../_secret/chemic/Elements/_ElementDB.secret.md|_ElementDB.secret]] 
+- [[../../../_internal/chemic/Elements/_ElementDB.internal|_ElementDB.internal]] 
+- [[../../../_protect/chemic/Elements/_ElementDB.protect|_ElementDB.protect]] 
+- [[../../../_private/chemic/Elements/_ElementDB.private|_ElementDB.private]] 
+- [[../../../_personal/chemic/Elements/_ElementDB.personal|_ElementDB.personal]] 
+- [[../../../_secret/chemic/Elements/_ElementDB.secret|_ElementDB.secret]] 

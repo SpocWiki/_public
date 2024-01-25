@@ -41,9 +41,9 @@ markerFolder: ./Vitebsk/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belarus/Counties/Vitebsk.md|Vitebsk]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Vitebsk.internal.md|Vitebsk.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Vitebsk.protect.md|Vitebsk.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Vitebsk.private.md|Vitebsk.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Vitebsk.personal.md|Vitebsk.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Vitebsk.secret.md|Vitebsk.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Vitebsk.internal|Vitebsk.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Vitebsk.protect|Vitebsk.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Vitebsk.private|Vitebsk.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Vitebsk.personal|Vitebsk.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Vitebsk.secret|Vitebsk.secret]] 
 

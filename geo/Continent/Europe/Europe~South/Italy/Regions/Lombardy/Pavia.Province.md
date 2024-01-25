@@ -41,9 +41,9 @@ markerFolder: ./Pavia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.md|Pavia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.internal.md|Pavia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.protect.md|Pavia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.private.md|Pavia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.personal.md|Pavia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.secret.md|Pavia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.internal|Pavia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.protect|Pavia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.private|Pavia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.personal|Pavia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Pavia.Province.secret|Pavia.Province.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bedford.md|Bedford]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bedford.internal.md|Bedford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bedford.protect.md|Bedford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bedford.private.md|Bedford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bedford.personal.md|Bedford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bedford.secret.md|Bedford.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bedford.internal|Bedford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bedford.protect|Bedford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bedford.private|Bedford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bedford.personal|Bedford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bedford.secret|Bedford.secret]] 

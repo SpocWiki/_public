@@ -41,9 +41,9 @@ markerFolder: ./Mehedinti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Mehedinti.md|Mehedinti]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Mehedinti.internal.md|Mehedinti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Mehedinti.protect.md|Mehedinti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Mehedinti.private.md|Mehedinti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Mehedinti.personal.md|Mehedinti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Mehedinti.secret.md|Mehedinti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Mehedinti.internal|Mehedinti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Mehedinti.protect|Mehedinti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Mehedinti.private|Mehedinti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Mehedinti.personal|Mehedinti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Mehedinti.secret|Mehedinti.secret]] 
 

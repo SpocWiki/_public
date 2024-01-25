@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Coulommiers.md|Coulommiers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Coulommiers.internal.md|Coulommiers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Coulommiers.protect.md|Coulommiers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Coulommiers.private.md|Coulommiers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Coulommiers.personal.md|Coulommiers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Coulommiers.secret.md|Coulommiers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Coulommiers.internal|Coulommiers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Coulommiers.protect|Coulommiers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Coulommiers.private|Coulommiers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Coulommiers.personal|Coulommiers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Coulommiers.secret|Coulommiers.secret]] 

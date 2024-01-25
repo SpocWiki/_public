@@ -41,9 +41,9 @@ markerFolder: ./Casanare/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Casanare.md|Casanare]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Casanare.internal.md|Casanare.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Casanare.protect.md|Casanare.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Casanare.private.md|Casanare.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Casanare.personal.md|Casanare.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Casanare.secret.md|Casanare.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Casanare.internal|Casanare.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Casanare.protect|Casanare.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Casanare.private|Casanare.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Casanare.personal|Casanare.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Casanare.secret|Casanare.secret]] 
 

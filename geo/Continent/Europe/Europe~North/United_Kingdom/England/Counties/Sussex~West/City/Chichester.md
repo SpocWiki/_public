@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chichester.md|Chichester]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chichester.internal.md|Chichester.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chichester.protect.md|Chichester.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chichester.private.md|Chichester.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chichester.personal.md|Chichester.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chichester.secret.md|Chichester.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chichester.internal|Chichester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chichester.protect|Chichester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chichester.private|Chichester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chichester.personal|Chichester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chichester.secret|Chichester.secret]] 

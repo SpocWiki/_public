@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Mechanical_vibration-Temperature]
 [SpocWebEntityId::22951]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.md|Triz-stationary_Length+Mechanical_vibration-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.internal.md|Triz-stationary_Length+Mechanical_vibration-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.protect.md|Triz-stationary_Length+Mechanical_vibration-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.private.md|Triz-stationary_Length+Mechanical_vibration-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.personal.md|Triz-stationary_Length+Mechanical_vibration-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.secret.md|Triz-stationary_Length+Mechanical_vibration-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.internal|Triz-stationary_Length+Mechanical_vibration-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.protect|Triz-stationary_Length+Mechanical_vibration-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.private|Triz-stationary_Length+Mechanical_vibration-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.personal|Triz-stationary_Length+Mechanical_vibration-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-Temperature.secret|Triz-stationary_Length+Mechanical_vibration-Temperature.secret]] 

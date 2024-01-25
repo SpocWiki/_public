@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wriezen.md|Wriezen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wriezen.internal.md|Wriezen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wriezen.protect.md|Wriezen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wriezen.private.md|Wriezen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wriezen.personal.md|Wriezen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wriezen.secret.md|Wriezen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wriezen.internal|Wriezen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wriezen.protect|Wriezen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wriezen.private|Wriezen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wriezen.personal|Wriezen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wriezen.secret|Wriezen.secret]] 

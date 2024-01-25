@@ -41,9 +41,9 @@ markerFolder: ./Azores/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Azores.md|Azores]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Azores.internal.md|Azores.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Azores.protect.md|Azores.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Azores.private.md|Azores.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Azores.personal.md|Azores.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Azores.secret.md|Azores.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Azores.internal|Azores.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Azores.protect|Azores.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Azores.private|Azores.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Azores.personal|Azores.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Azores.secret|Azores.secret]] 
 

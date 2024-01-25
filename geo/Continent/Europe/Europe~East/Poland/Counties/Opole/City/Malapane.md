@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Malapane.md|Malapane]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Malapane.internal.md|Malapane.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Malapane.protect.md|Malapane.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Malapane.private.md|Malapane.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Malapane.personal.md|Malapane.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Malapane.secret.md|Malapane.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Malapane.internal|Malapane.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Malapane.protect|Malapane.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Malapane.private|Malapane.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Malapane.personal|Malapane.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Malapane.secret|Malapane.secret]] 

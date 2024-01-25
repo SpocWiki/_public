@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Berdichef.md|Berdichef]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Berdichef.internal.md|Berdichef.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Berdichef.protect.md|Berdichef.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Berdichef.private.md|Berdichef.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Berdichef.personal.md|Berdichef.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Berdichef.secret.md|Berdichef.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Berdichef.internal|Berdichef.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Berdichef.protect|Berdichef.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Berdichef.private|Berdichef.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Berdichef.personal|Berdichef.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Berdichef.secret|Berdichef.secret]] 

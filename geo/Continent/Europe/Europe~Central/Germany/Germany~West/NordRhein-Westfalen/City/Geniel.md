@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Geniel.md|Geniel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Geniel.internal.md|Geniel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Geniel.protect.md|Geniel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Geniel.private.md|Geniel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Geniel.personal.md|Geniel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Geniel.secret.md|Geniel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Geniel.internal|Geniel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Geniel.protect|Geniel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Geniel.private|Geniel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Geniel.personal|Geniel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Geniel.secret|Geniel.secret]] 

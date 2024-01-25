@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jennisseisk.md|Jennisseisk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jennisseisk.internal.md|Jennisseisk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jennisseisk.protect.md|Jennisseisk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jennisseisk.private.md|Jennisseisk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jennisseisk.personal.md|Jennisseisk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jennisseisk.secret.md|Jennisseisk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jennisseisk.internal|Jennisseisk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jennisseisk.protect|Jennisseisk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jennisseisk.private|Jennisseisk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jennisseisk.personal|Jennisseisk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jennisseisk.secret|Jennisseisk.secret]] 

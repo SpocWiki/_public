@@ -36,8 +36,8 @@ markerFolder: ./State~Bremen/
 
 ## Confidential Links & Embeds: 
 - [[State~Bremen|State~Bremen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen.internal.md|State~Bremen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen.protect.md|State~Bremen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen.private.md|State~Bremen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen.personal.md|State~Bremen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen.secret.md|State~Bremen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen.internal|State~Bremen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen.protect|State~Bremen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen.private|State~Bremen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen.personal|State~Bremen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen.secret|State~Bremen.secret]] 

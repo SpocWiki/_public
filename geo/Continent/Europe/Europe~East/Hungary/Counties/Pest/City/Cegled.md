@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Cegled.md|Cegled]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Cegled.internal.md|Cegled.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Cegled.protect.md|Cegled.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Cegled.private.md|Cegled.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Cegled.personal.md|Cegled.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Cegled.secret.md|Cegled.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Cegled.internal|Cegled.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Cegled.protect|Cegled.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Cegled.private|Cegled.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Cegled.personal|Cegled.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Cegled.secret|Cegled.secret]] 

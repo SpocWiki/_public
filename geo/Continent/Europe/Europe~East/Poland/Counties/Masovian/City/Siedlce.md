@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Siedlce.md|Siedlce]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Siedlce.internal.md|Siedlce.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Siedlce.protect.md|Siedlce.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Siedlce.private.md|Siedlce.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Siedlce.personal.md|Siedlce.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Siedlce.secret.md|Siedlce.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Siedlce.internal|Siedlce.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Siedlce.protect|Siedlce.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Siedlce.private|Siedlce.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Siedlce.personal|Siedlce.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Siedlce.secret|Siedlce.secret]] 

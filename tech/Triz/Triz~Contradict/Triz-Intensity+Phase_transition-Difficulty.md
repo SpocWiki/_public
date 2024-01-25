@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Phase_transition-Difficulty]
 [SpocWebEntityId::23592]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.md|Triz-Intensity+Phase_transition-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.internal.md|Triz-Intensity+Phase_transition-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.protect.md|Triz-Intensity+Phase_transition-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.private.md|Triz-Intensity+Phase_transition-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.personal.md|Triz-Intensity+Phase_transition-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.secret.md|Triz-Intensity+Phase_transition-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.internal|Triz-Intensity+Phase_transition-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.protect|Triz-Intensity+Phase_transition-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.private|Triz-Intensity+Phase_transition-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.personal|Triz-Intensity+Phase_transition-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.secret|Triz-Intensity+Phase_transition-Difficulty.secret]] 

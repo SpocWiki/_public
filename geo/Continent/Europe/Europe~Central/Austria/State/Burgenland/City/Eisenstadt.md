@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Eisenstadt.md|Eisenstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Eisenstadt.internal.md|Eisenstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Eisenstadt.protect.md|Eisenstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Eisenstadt.private.md|Eisenstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Eisenstadt.personal.md|Eisenstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Eisenstadt.secret.md|Eisenstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Eisenstadt.internal|Eisenstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Eisenstadt.protect|Eisenstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Eisenstadt.private|Eisenstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Eisenstadt.personal|Eisenstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Eisenstadt.secret|Eisenstadt.secret]] 

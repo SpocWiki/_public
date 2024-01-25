@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Reibl.md|Reibl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Reibl.internal.md|Reibl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Reibl.protect.md|Reibl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Reibl.private.md|Reibl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Reibl.personal.md|Reibl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Reibl.secret.md|Reibl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Reibl.internal|Reibl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Reibl.protect|Reibl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Reibl.private|Reibl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Reibl.personal|Reibl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Reibl.secret|Reibl.secret]] 

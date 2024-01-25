@@ -41,9 +41,9 @@ markerFolder: ./Sinaloa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Sinaloa.md|Sinaloa]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Sinaloa.internal.md|Sinaloa.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Sinaloa.protect.md|Sinaloa.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Sinaloa.private.md|Sinaloa.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Sinaloa.personal.md|Sinaloa.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Sinaloa.secret.md|Sinaloa.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Sinaloa.internal|Sinaloa.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Sinaloa.protect|Sinaloa.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Sinaloa.private|Sinaloa.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Sinaloa.personal|Sinaloa.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Sinaloa.secret|Sinaloa.secret]] 
 

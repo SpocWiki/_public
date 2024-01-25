@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Nastola.md|Nastola]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nastola.internal.md|Nastola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nastola.protect.md|Nastola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nastola.private.md|Nastola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nastola.personal.md|Nastola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nastola.secret.md|Nastola.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nastola.internal|Nastola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nastola.protect|Nastola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nastola.private|Nastola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nastola.personal|Nastola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nastola.secret|Nastola.secret]] 

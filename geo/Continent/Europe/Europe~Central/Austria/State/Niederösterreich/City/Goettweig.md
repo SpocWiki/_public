@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Goettweig.md|Goettweig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Goettweig.internal.md|Goettweig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Goettweig.protect.md|Goettweig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Goettweig.private.md|Goettweig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Goettweig.personal.md|Goettweig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Goettweig.secret.md|Goettweig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Goettweig.internal|Goettweig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Goettweig.protect|Goettweig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Goettweig.private|Goettweig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Goettweig.personal|Goettweig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Goettweig.secret|Goettweig.secret]] 

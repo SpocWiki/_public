@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Novi.md|Novi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Novi.internal.md|Novi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Novi.protect.md|Novi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Novi.private.md|Novi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Novi.personal.md|Novi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Novi.secret.md|Novi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Novi.internal|Novi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Novi.protect|Novi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Novi.private|Novi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Novi.personal|Novi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Novi.secret|Novi.secret]] 

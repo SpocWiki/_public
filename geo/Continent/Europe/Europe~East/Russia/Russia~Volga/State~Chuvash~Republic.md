@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Chuvash~Republic|State~Chuvash~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.internal|State~Chuvash~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.protect.md|State~Chuvash~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.private.md|State~Chuvash~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.personal.md|State~Chuvash~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.secret.md|State~Chuvash~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.protect|State~Chuvash~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.private|State~Chuvash~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.personal|State~Chuvash~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Chuvash~Republic.secret|State~Chuvash~Republic.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kinkkale/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kinkkale.md|Kinkkale]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kinkkale.internal.md|Kinkkale.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kinkkale.protect.md|Kinkkale.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kinkkale.private.md|Kinkkale.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kinkkale.personal.md|Kinkkale.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kinkkale.secret.md|Kinkkale.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kinkkale.internal|Kinkkale.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kinkkale.protect|Kinkkale.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kinkkale.private|Kinkkale.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kinkkale.personal|Kinkkale.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kinkkale.secret|Kinkkale.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Moroto/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Moroto.md|Moroto]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Moroto.internal.md|Moroto.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Moroto.protect.md|Moroto.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Moroto.private.md|Moroto.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Moroto.personal.md|Moroto.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Moroto.secret.md|Moroto.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Moroto.internal|Moroto.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Moroto.protect|Moroto.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Moroto.private|Moroto.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Moroto.personal|Moroto.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Moroto.secret|Moroto.secret]] 
 

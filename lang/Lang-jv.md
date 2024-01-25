@@ -20,9 +20,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/Lang-jv.md|Lang-jv]] 
-- [[../../_internal/lang/Lang-jv.internal.md|Lang-jv.internal]] 
-- [[../../_protect/lang/Lang-jv.protect.md|Lang-jv.protect]] 
-- [[../../_private/lang/Lang-jv.private.md|Lang-jv.private]] 
-- [[../../_personal/lang/Lang-jv.personal.md|Lang-jv.personal]] 
-- [[../../_secret/lang/Lang-jv.secret.md|Lang-jv.secret]]
+- [[../../_internal/lang/Lang-jv.internal|Lang-jv.internal]] 
+- [[../../_protect/lang/Lang-jv.protect|Lang-jv.protect]] 
+- [[../../_private/lang/Lang-jv.private|Lang-jv.private]] 
+- [[../../_personal/lang/Lang-jv.personal|Lang-jv.personal]] 
+- [[../../_secret/lang/Lang-jv.secret|Lang-jv.secret]]
 

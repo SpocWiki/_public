@@ -41,9 +41,9 @@ markerFolder: ./Yau_Tsim_Mong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.md|Yau_Tsim_Mong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.internal.md|Yau_Tsim_Mong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.protect.md|Yau_Tsim_Mong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.private.md|Yau_Tsim_Mong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.personal.md|Yau_Tsim_Mong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.secret.md|Yau_Tsim_Mong.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.internal|Yau_Tsim_Mong.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.protect|Yau_Tsim_Mong.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.private|Yau_Tsim_Mong.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.personal|Yau_Tsim_Mong.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.secret|Yau_Tsim_Mong.secret]] 
 

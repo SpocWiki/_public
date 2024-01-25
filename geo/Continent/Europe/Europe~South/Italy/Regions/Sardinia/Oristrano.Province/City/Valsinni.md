@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Valsinni.md|Valsinni]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Valsinni.internal.md|Valsinni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Valsinni.protect.md|Valsinni.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Valsinni.private.md|Valsinni.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Valsinni.personal.md|Valsinni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Valsinni.secret.md|Valsinni.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Valsinni.internal|Valsinni.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Valsinni.protect|Valsinni.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Valsinni.private|Valsinni.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Valsinni.personal|Valsinni.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Valsinni.secret|Valsinni.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Florian.md|St.Florian]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Florian.internal.md|St.Florian.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Florian.protect.md|St.Florian.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Florian.private.md|St.Florian.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Florian.personal.md|St.Florian.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Florian.secret.md|St.Florian.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Florian.internal|St.Florian.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Florian.protect|St.Florian.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Florian.private|St.Florian.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Florian.personal|St.Florian.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Florian.secret|St.Florian.secret]] 

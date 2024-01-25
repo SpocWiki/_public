@@ -41,9 +41,9 @@ markerFolder: ./Aust-Agder/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Aust-Agder.md|Aust-Agder]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Aust-Agder.internal.md|Aust-Agder.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Aust-Agder.protect.md|Aust-Agder.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Aust-Agder.private.md|Aust-Agder.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Aust-Agder.personal.md|Aust-Agder.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Aust-Agder.secret.md|Aust-Agder.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Aust-Agder.internal|Aust-Agder.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Aust-Agder.protect|Aust-Agder.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Aust-Agder.private|Aust-Agder.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Aust-Agder.personal|Aust-Agder.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Aust-Agder.secret|Aust-Agder.secret]] 
 

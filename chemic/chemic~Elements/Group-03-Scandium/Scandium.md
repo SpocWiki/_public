@@ -32,8 +32,8 @@ SpocWebEntityId: 21922
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-03-Scandium/Scandium.md|Scandium]] 
-- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Scandium.internal.md|Scandium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Scandium.protect.md|Scandium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-03-Scandium/Scandium.private.md|Scandium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Scandium.personal.md|Scandium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Scandium.secret.md|Scandium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Scandium.internal|Scandium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Scandium.protect|Scandium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-03-Scandium/Scandium.private|Scandium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Scandium.personal|Scandium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Scandium.secret|Scandium.secret]] 

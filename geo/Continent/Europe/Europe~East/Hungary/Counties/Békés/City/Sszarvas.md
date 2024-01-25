@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Sszarvas.md|Sszarvas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Sszarvas.internal.md|Sszarvas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Sszarvas.protect.md|Sszarvas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Sszarvas.private.md|Sszarvas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Sszarvas.personal.md|Sszarvas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Sszarvas.secret.md|Sszarvas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Sszarvas.internal|Sszarvas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Sszarvas.protect|Sszarvas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Sszarvas.private|Sszarvas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Sszarvas.personal|Sszarvas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Sszarvas.secret|Sszarvas.secret]] 

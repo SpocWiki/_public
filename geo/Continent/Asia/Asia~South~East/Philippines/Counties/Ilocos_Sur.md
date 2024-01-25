@@ -41,9 +41,9 @@ markerFolder: ./Ilocos_Sur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.md|Ilocos_Sur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.internal.md|Ilocos_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.protect.md|Ilocos_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.private.md|Ilocos_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.personal.md|Ilocos_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.secret.md|Ilocos_Sur.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.internal|Ilocos_Sur.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.protect|Ilocos_Sur.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.private|Ilocos_Sur.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.personal|Ilocos_Sur.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.secret|Ilocos_Sur.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Khulna/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.md|Khulna]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.internal.md|Khulna.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.protect.md|Khulna.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.private.md|Khulna.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.personal.md|Khulna.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.secret.md|Khulna.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.internal|Khulna.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.protect|Khulna.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.private|Khulna.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.personal|Khulna.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.secret|Khulna.secret]] 
 

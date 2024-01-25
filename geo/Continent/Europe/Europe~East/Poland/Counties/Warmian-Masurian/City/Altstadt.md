@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Altstadt.md|Altstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altstadt.internal.md|Altstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altstadt.protect.md|Altstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altstadt.private.md|Altstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altstadt.personal.md|Altstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altstadt.secret.md|Altstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altstadt.internal|Altstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altstadt.protect|Altstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altstadt.private|Altstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altstadt.personal|Altstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altstadt.secret|Altstadt.secret]] 

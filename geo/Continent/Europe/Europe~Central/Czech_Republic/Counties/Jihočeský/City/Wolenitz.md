@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Wolenitz.md|Wolenitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wolenitz.internal.md|Wolenitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wolenitz.protect.md|Wolenitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wolenitz.private.md|Wolenitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wolenitz.personal.md|Wolenitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wolenitz.secret.md|Wolenitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wolenitz.internal|Wolenitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wolenitz.protect|Wolenitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wolenitz.private|Wolenitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wolenitz.personal|Wolenitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wolenitz.secret|Wolenitz.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Puy-de-Dôme/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Département~Puy-de-Dôme.md|Département~Puy-de-Dôme]] 
-- [[../../../../_internal/geo/Continent/Département~Puy-de-Dôme.internal.md|Département~Puy-de-Dôme.internal]] 
-- [[../../../../_protect/geo/Continent/Département~Puy-de-Dôme.protect.md|Département~Puy-de-Dôme.protect]] 
-- [[../../../../_private/geo/Continent/Département~Puy-de-Dôme.private.md|Département~Puy-de-Dôme.private]] 
-- [[../../../../_personal/geo/Continent/Département~Puy-de-Dôme.personal.md|Département~Puy-de-Dôme.personal]] 
-- [[../../../../_secret/geo/Continent/Département~Puy-de-Dôme.secret.md|Département~Puy-de-Dôme.secret]] 
+- [[../../../../_internal/geo/Continent/Département~Puy-de-Dôme.internal|Département~Puy-de-Dôme.internal]] 
+- [[../../../../_protect/geo/Continent/Département~Puy-de-Dôme.protect|Département~Puy-de-Dôme.protect]] 
+- [[../../../../_private/geo/Continent/Département~Puy-de-Dôme.private|Département~Puy-de-Dôme.private]] 
+- [[../../../../_personal/geo/Continent/Département~Puy-de-Dôme.personal|Département~Puy-de-Dôme.personal]] 
+- [[../../../../_secret/geo/Continent/Département~Puy-de-Dôme.secret|Département~Puy-de-Dôme.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Altengaard.md|Altengaard]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Altengaard.internal.md|Altengaard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Altengaard.protect.md|Altengaard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Altengaard.private.md|Altengaard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Altengaard.personal.md|Altengaard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Altengaard.secret.md|Altengaard.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Altengaard.internal|Altengaard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Altengaard.protect|Altengaard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Altengaard.private|Altengaard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Altengaard.personal|Altengaard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Altengaard.secret|Altengaard.secret]] 

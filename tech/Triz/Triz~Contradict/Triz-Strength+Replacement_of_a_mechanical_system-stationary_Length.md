@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Replacement_of_a_mechanical_system-stationary_Length]
 [SpocWebEntityId::23960]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-stationary_Length]]]
+- [#has_/Cons :: [[Triz-stationary_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.md|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.internal.md|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.protect.md|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.private.md|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.personal.md|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.secret.md|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.internal|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.protect|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.private|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.personal|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.secret|Triz-Strength+Replacement_of_a_mechanical_system-stationary_Length.secret]] 

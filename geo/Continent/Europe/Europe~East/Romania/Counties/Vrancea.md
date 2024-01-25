@@ -41,9 +41,9 @@ markerFolder: ./Vrancea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Vrancea.md|Vrancea]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Vrancea.internal.md|Vrancea.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Vrancea.protect.md|Vrancea.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Vrancea.private.md|Vrancea.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Vrancea.personal.md|Vrancea.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Vrancea.secret.md|Vrancea.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Vrancea.internal|Vrancea.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Vrancea.protect|Vrancea.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Vrancea.private|Vrancea.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Vrancea.personal|Vrancea.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Vrancea.secret|Vrancea.secret]] 
 

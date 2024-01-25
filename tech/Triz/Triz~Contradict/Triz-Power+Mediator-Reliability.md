@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Mediator-Reliability]
 [SpocWebEntityId::24659]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.md|Triz-Power+Mediator-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.internal.md|Triz-Power+Mediator-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.protect.md|Triz-Power+Mediator-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.private.md|Triz-Power+Mediator-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.personal.md|Triz-Power+Mediator-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.secret.md|Triz-Power+Mediator-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.internal|Triz-Power+Mediator-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.protect|Triz-Power+Mediator-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.private|Triz-Power+Mediator-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.personal|Triz-Power+Mediator-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.secret|Triz-Power+Mediator-Reliability.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Şoldăneşti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.md|Şoldăneşti]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.internal.md|Şoldăneşti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.protect.md|Şoldăneşti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.private.md|Şoldăneşti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.personal.md|Şoldăneşti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.secret.md|Şoldăneşti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.internal|Şoldăneşti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.protect|Şoldăneşti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.private|Şoldăneşti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.personal|Şoldăneşti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Şoldăneşti.secret|Şoldăneşti.secret]] 
 

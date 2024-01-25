@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wien=Vienna.md|Wien=Vienna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wien=Vienna.internal.md|Wien=Vienna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wien=Vienna.protect.md|Wien=Vienna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wien=Vienna.private.md|Wien=Vienna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wien=Vienna.personal.md|Wien=Vienna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wien=Vienna.secret.md|Wien=Vienna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wien=Vienna.internal|Wien=Vienna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wien=Vienna.protect|Wien=Vienna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wien=Vienna.private|Wien=Vienna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wien=Vienna.personal|Wien=Vienna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wien=Vienna.secret|Wien=Vienna.secret]] 

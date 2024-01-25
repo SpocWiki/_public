@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schrimm.md|Schrimm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schrimm.internal.md|Schrimm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schrimm.protect.md|Schrimm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schrimm.private.md|Schrimm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schrimm.personal.md|Schrimm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schrimm.secret.md|Schrimm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schrimm.internal|Schrimm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schrimm.protect|Schrimm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schrimm.private|Schrimm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schrimm.personal|Schrimm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schrimm.secret|Schrimm.secret]] 

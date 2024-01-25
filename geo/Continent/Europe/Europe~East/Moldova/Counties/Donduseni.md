@@ -41,9 +41,9 @@ markerFolder: ./Donduseni/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Donduseni.md|Donduseni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Donduseni.internal.md|Donduseni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Donduseni.protect.md|Donduseni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Donduseni.private.md|Donduseni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Donduseni.personal.md|Donduseni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Donduseni.secret.md|Donduseni.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Donduseni.internal|Donduseni.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Donduseni.protect|Donduseni.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Donduseni.private|Donduseni.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Donduseni.personal|Donduseni.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Donduseni.secret|Donduseni.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Blantyre/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Blantyre.md|Blantyre]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Blantyre.internal.md|Blantyre.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Blantyre.protect.md|Blantyre.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Blantyre.private.md|Blantyre.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Blantyre.personal.md|Blantyre.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Blantyre.secret.md|Blantyre.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Blantyre.internal|Blantyre.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Blantyre.protect|Blantyre.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Blantyre.private|Blantyre.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Blantyre.personal|Blantyre.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Blantyre.secret|Blantyre.secret]] 
 

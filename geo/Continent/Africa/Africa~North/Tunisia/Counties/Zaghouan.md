@@ -41,9 +41,9 @@ markerFolder: ./Zaghouan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Zaghouan.md|Zaghouan]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Zaghouan.internal.md|Zaghouan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Zaghouan.protect.md|Zaghouan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Zaghouan.private.md|Zaghouan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Zaghouan.personal.md|Zaghouan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Zaghouan.secret.md|Zaghouan.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Zaghouan.internal|Zaghouan.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Zaghouan.protect|Zaghouan.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Zaghouan.private|Zaghouan.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Zaghouan.personal|Zaghouan.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Zaghouan.secret|Zaghouan.secret]] 
 

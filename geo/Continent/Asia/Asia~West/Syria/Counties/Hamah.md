@@ -41,9 +41,9 @@ markerFolder: ./Hamah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.md|Hamah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.internal.md|Hamah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.protect.md|Hamah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.private.md|Hamah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.personal.md|Hamah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.secret.md|Hamah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.internal|Hamah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.protect|Hamah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.private|Hamah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.personal|Hamah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.secret|Hamah.secret]] 
 

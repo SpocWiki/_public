@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Counterweight-Power]
 [SpocWebEntityId::22955]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Counterweight]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.md|Triz-stationary_Length+Counterweight-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.internal.md|Triz-stationary_Length+Counterweight-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.protect.md|Triz-stationary_Length+Counterweight-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.private.md|Triz-stationary_Length+Counterweight-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.personal.md|Triz-stationary_Length+Counterweight-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.secret.md|Triz-stationary_Length+Counterweight-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.internal|Triz-stationary_Length+Counterweight-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.protect|Triz-stationary_Length+Counterweight-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.private|Triz-stationary_Length+Counterweight-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.personal|Triz-stationary_Length+Counterweight-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Counterweight-Power.secret|Triz-stationary_Length+Counterweight-Power.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Graechen.md|Graechen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Graechen.internal.md|Graechen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Graechen.protect.md|Graechen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Graechen.private.md|Graechen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Graechen.personal.md|Graechen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Graechen.secret.md|Graechen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Graechen.internal|Graechen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Graechen.protect|Graechen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Graechen.private|Graechen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Graechen.personal|Graechen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Graechen.secret|Graechen.secret]] 

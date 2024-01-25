@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Bitsch.md|Bitsch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bitsch.internal.md|Bitsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bitsch.protect.md|Bitsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Bitsch.private.md|Bitsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bitsch.personal.md|Bitsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bitsch.secret.md|Bitsch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bitsch.internal|Bitsch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bitsch.protect|Bitsch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bitsch.private|Bitsch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bitsch.personal|Bitsch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bitsch.secret|Bitsch.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Segmentation-Stability]
 [SpocWebEntityId::24266]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.md|Triz-Temperature+Segmentation-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.internal.md|Triz-Temperature+Segmentation-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.protect.md|Triz-Temperature+Segmentation-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.private.md|Triz-Temperature+Segmentation-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.personal.md|Triz-Temperature+Segmentation-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.secret.md|Triz-Temperature+Segmentation-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.internal|Triz-Temperature+Segmentation-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.protect|Triz-Temperature+Segmentation-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.private|Triz-Temperature+Segmentation-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.personal|Triz-Temperature+Segmentation-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Segmentation-Stability.secret|Triz-Temperature+Segmentation-Stability.secret]] 

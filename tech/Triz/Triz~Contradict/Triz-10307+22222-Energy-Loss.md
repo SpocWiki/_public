@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22222-Energy-Loss]
 [SpocWebEntityId::26708]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22222]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.md|Triz-10307+22222-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.internal.md|Triz-10307+22222-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.protect.md|Triz-10307+22222-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.private.md|Triz-10307+22222-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.personal.md|Triz-10307+22222-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.secret.md|Triz-10307+22222-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.internal|Triz-10307+22222-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.protect|Triz-10307+22222-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.private|Triz-10307+22222-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.personal|Triz-10307+22222-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22222-Energy-Loss.secret|Triz-10307+22222-Energy-Loss.secret]] 

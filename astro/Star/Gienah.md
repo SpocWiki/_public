@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Gienah.md|Gienah]] 
-- [[../../../_internal/astro/Star/Gienah.internal.md|Gienah.internal]] 
-- [[../../../_protect/astro/Star/Gienah.protect.md|Gienah.protect]] 
-- [[../../../_private/astro/Star/Gienah.private.md|Gienah.private]] 
-- [[../../../_personal/astro/Star/Gienah.personal.md|Gienah.personal]] 
-- [[../../../_secret/astro/Star/Gienah.secret.md|Gienah.secret]]
+- [[../../../_internal/astro/Star/Gienah.internal|Gienah.internal]] 
+- [[../../../_protect/astro/Star/Gienah.protect|Gienah.protect]] 
+- [[../../../_private/astro/Star/Gienah.private|Gienah.private]] 
+- [[../../../_personal/astro/Star/Gienah.personal|Gienah.personal]] 
+- [[../../../_secret/astro/Star/Gienah.secret|Gienah.secret]]
 

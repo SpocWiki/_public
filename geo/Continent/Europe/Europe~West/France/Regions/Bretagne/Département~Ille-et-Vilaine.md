@@ -41,9 +41,9 @@ markerFolder: ./Département~Ille-et-Vilaine/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.md|Département~Ille-et-Vilaine]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.internal.md|Département~Ille-et-Vilaine.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.protect.md|Département~Ille-et-Vilaine.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.private.md|Département~Ille-et-Vilaine.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.personal.md|Département~Ille-et-Vilaine.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.secret.md|Département~Ille-et-Vilaine.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.internal|Département~Ille-et-Vilaine.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.protect|Département~Ille-et-Vilaine.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.private|Département~Ille-et-Vilaine.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.personal|Département~Ille-et-Vilaine.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bretagne/Département~Ille-et-Vilaine.secret|Département~Ille-et-Vilaine.secret]] 
 

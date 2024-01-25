@@ -41,9 +41,9 @@ markerFolder: ./Tuy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.md|Tuy]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.internal.md|Tuy.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.protect.md|Tuy.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.private.md|Tuy.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.personal.md|Tuy.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.secret.md|Tuy.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.internal|Tuy.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.protect|Tuy.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.private|Tuy.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.personal|Tuy.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.secret|Tuy.secret]] 
 

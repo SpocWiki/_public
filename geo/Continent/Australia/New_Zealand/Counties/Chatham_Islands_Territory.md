@@ -41,9 +41,9 @@ markerFolder: ./Chatham_Islands_Territory/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.md|Chatham_Islands_Territory]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.internal.md|Chatham_Islands_Territory.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.protect.md|Chatham_Islands_Territory.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.private.md|Chatham_Islands_Territory.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.personal.md|Chatham_Islands_Territory.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.secret.md|Chatham_Islands_Territory.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.internal|Chatham_Islands_Territory.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.protect|Chatham_Islands_Territory.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.private|Chatham_Islands_Territory.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.personal|Chatham_Islands_Territory.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Chatham_Islands_Territory.secret|Chatham_Islands_Territory.secret]] 
 

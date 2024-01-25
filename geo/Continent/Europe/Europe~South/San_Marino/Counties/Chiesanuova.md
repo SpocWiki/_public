@@ -41,9 +41,9 @@ markerFolder: ./Chiesanuova/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.md|Chiesanuova]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.internal.md|Chiesanuova.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.protect.md|Chiesanuova.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.private.md|Chiesanuova.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.personal.md|Chiesanuova.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.secret.md|Chiesanuova.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.internal|Chiesanuova.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.protect|Chiesanuova.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.private|Chiesanuova.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.personal|Chiesanuova.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Chiesanuova.secret|Chiesanuova.secret]] 
 

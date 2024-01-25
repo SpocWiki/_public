@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Meppel.md|Meppel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Meppel.internal.md|Meppel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Meppel.protect.md|Meppel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Meppel.private.md|Meppel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Meppel.personal.md|Meppel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Meppel.secret.md|Meppel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Meppel.internal|Meppel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Meppel.protect|Meppel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Meppel.private|Meppel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Meppel.personal|Meppel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Meppel.secret|Meppel.secret]] 

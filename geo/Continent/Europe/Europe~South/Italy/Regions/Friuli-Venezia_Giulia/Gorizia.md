@@ -41,9 +41,9 @@ markerFolder: ./Gorizia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.md|Gorizia]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.internal.md|Gorizia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.protect.md|Gorizia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.private.md|Gorizia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.personal.md|Gorizia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.secret.md|Gorizia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.internal|Gorizia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.protect|Gorizia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.private|Gorizia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.personal|Gorizia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Gorizia.secret|Gorizia.secret]] 
 

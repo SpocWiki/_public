@@ -41,9 +41,9 @@ markerFolder: ./Guadalajara.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.md|Guadalajara.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.internal.md|Guadalajara.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.protect.md|Guadalajara.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.private.md|Guadalajara.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.personal.md|Guadalajara.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.secret.md|Guadalajara.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.internal|Guadalajara.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.protect|Guadalajara.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.private|Guadalajara.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.personal|Guadalajara.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Guadalajara.Province.secret|Guadalajara.Province.secret]] 
 

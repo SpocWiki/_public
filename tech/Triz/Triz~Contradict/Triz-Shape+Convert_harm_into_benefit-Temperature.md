@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Convert_harm_into_benefit-Temperature]
 [SpocWebEntityId::23760]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.md|Triz-Shape+Convert_harm_into_benefit-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.internal.md|Triz-Shape+Convert_harm_into_benefit-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.protect.md|Triz-Shape+Convert_harm_into_benefit-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.private.md|Triz-Shape+Convert_harm_into_benefit-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.personal.md|Triz-Shape+Convert_harm_into_benefit-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.secret.md|Triz-Shape+Convert_harm_into_benefit-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.internal|Triz-Shape+Convert_harm_into_benefit-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.protect|Triz-Shape+Convert_harm_into_benefit-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.private|Triz-Shape+Convert_harm_into_benefit-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.personal|Triz-Shape+Convert_harm_into_benefit-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.secret|Triz-Shape+Convert_harm_into_benefit-Temperature.secret]] 

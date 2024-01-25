@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Froejen.md|Froejen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Froejen.internal.md|Froejen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Froejen.protect.md|Froejen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Froejen.private.md|Froejen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Froejen.personal.md|Froejen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Froejen.secret.md|Froejen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Froejen.internal|Froejen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Froejen.protect|Froejen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Froejen.private|Froejen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Froejen.personal|Froejen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Froejen.secret|Froejen.secret]] 

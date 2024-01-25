@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Pegasi-9.md|Pegasi-9]] 
-- [[../../../_internal/astro/Star/Pegasi-9.internal.md|Pegasi-9.internal]] 
-- [[../../../_protect/astro/Star/Pegasi-9.protect.md|Pegasi-9.protect]] 
-- [[../../../_private/astro/Star/Pegasi-9.private.md|Pegasi-9.private]] 
-- [[../../../_personal/astro/Star/Pegasi-9.personal.md|Pegasi-9.personal]] 
-- [[../../../_secret/astro/Star/Pegasi-9.secret.md|Pegasi-9.secret]] 
+- [[../../../_internal/astro/Star/Pegasi-9.internal|Pegasi-9.internal]] 
+- [[../../../_protect/astro/Star/Pegasi-9.protect|Pegasi-9.protect]] 
+- [[../../../_private/astro/Star/Pegasi-9.private|Pegasi-9.private]] 
+- [[../../../_personal/astro/Star/Pegasi-9.personal|Pegasi-9.personal]] 
+- [[../../../_secret/astro/Star/Pegasi-9.secret|Pegasi-9.secret]] 

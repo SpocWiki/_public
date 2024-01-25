@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Replacement_of_a_mechanical_system-Versatility]
 [SpocWebEntityId::26393]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.md|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.internal.md|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.protect.md|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.private.md|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.personal.md|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.secret.md|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.internal|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.protect|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.private|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.personal|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.secret|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.secret]] 

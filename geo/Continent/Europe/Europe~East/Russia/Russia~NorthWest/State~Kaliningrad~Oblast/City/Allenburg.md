@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Allenburg.md|Allenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Allenburg.internal.md|Allenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Allenburg.protect.md|Allenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Allenburg.private.md|Allenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Allenburg.personal.md|Allenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Allenburg.secret.md|Allenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Allenburg.internal|Allenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Allenburg.protect|Allenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Allenburg.private|Allenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Allenburg.personal|Allenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Allenburg.secret|Allenburg.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Tepeleni.md|Tepeleni]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Tepeleni.internal.md|Tepeleni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Tepeleni.protect.md|Tepeleni.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Tepeleni.private.md|Tepeleni.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Tepeleni.personal.md|Tepeleni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Tepeleni.secret.md|Tepeleni.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Tepeleni.internal|Tepeleni.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Tepeleni.protect|Tepeleni.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Tepeleni.private|Tepeleni.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Tepeleni.personal|Tepeleni.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Tepeleni.secret|Tepeleni.secret]] 

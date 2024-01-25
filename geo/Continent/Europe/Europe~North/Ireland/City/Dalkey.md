@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Dalkey.md|Dalkey]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Dalkey.internal.md|Dalkey.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Dalkey.protect.md|Dalkey.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Dalkey.private.md|Dalkey.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Dalkey.personal.md|Dalkey.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Dalkey.secret.md|Dalkey.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Dalkey.internal|Dalkey.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Dalkey.protect|Dalkey.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Dalkey.private|Dalkey.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Dalkey.personal|Dalkey.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Dalkey.secret|Dalkey.secret]] 

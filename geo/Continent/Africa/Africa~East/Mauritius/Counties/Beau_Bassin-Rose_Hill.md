@@ -41,9 +41,9 @@ markerFolder: ./Beau_Bassin-Rose_Hill/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.md|Beau_Bassin-Rose_Hill]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.internal.md|Beau_Bassin-Rose_Hill.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.protect.md|Beau_Bassin-Rose_Hill.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.private.md|Beau_Bassin-Rose_Hill.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.personal.md|Beau_Bassin-Rose_Hill.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.secret.md|Beau_Bassin-Rose_Hill.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.internal|Beau_Bassin-Rose_Hill.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.protect|Beau_Bassin-Rose_Hill.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.private|Beau_Bassin-Rose_Hill.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.personal|Beau_Bassin-Rose_Hill.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.secret|Beau_Bassin-Rose_Hill.secret]] 
 

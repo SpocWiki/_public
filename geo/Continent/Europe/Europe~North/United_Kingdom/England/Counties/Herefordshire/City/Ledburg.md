@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ledburg.md|Ledburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ledburg.internal.md|Ledburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ledburg.protect.md|Ledburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ledburg.private.md|Ledburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ledburg.personal.md|Ledburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ledburg.secret.md|Ledburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ledburg.internal|Ledburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ledburg.protect|Ledburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ledburg.private|Ledburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ledburg.personal|Ledburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ledburg.secret|Ledburg.secret]] 

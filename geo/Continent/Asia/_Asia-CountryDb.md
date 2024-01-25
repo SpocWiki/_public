@@ -445,8 +445,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/_Asia-CountryDb.md|_Asia-CountryDb]] 
-- [[../../../../_internal/geo/Continent/Asia/_Asia-CountryDb.internal.md|_Asia-CountryDb.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/_Asia-CountryDb.protect.md|_Asia-CountryDb.protect]] 
-- [[../../../../_private/geo/Continent/Asia/_Asia-CountryDb.private.md|_Asia-CountryDb.private]] 
-- [[../../../../_personal/geo/Continent/Asia/_Asia-CountryDb.personal.md|_Asia-CountryDb.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/_Asia-CountryDb.secret.md|_Asia-CountryDb.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/_Asia-CountryDb.internal|_Asia-CountryDb.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/_Asia-CountryDb.protect|_Asia-CountryDb.protect]] 
+- [[../../../../_private/geo/Continent/Asia/_Asia-CountryDb.private|_Asia-CountryDb.private]] 
+- [[../../../../_personal/geo/Continent/Asia/_Asia-CountryDb.personal|_Asia-CountryDb.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/_Asia-CountryDb.secret|_Asia-CountryDb.secret]] 

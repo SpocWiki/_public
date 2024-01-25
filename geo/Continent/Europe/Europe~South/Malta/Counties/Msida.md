@@ -41,9 +41,9 @@ markerFolder: ./Msida/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Msida.md|Msida]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Msida.internal.md|Msida.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Msida.protect.md|Msida.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Msida.private.md|Msida.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Msida.personal.md|Msida.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Msida.secret.md|Msida.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Msida.internal|Msida.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Msida.protect|Msida.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Msida.private|Msida.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Msida.personal|Msida.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Msida.secret|Msida.secret]] 
 

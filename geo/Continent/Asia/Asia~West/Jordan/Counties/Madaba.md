@@ -41,9 +41,9 @@ markerFolder: ./Madaba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.md|Madaba]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.internal.md|Madaba.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.protect.md|Madaba.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.private.md|Madaba.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.personal.md|Madaba.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.secret.md|Madaba.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.internal|Madaba.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.protect|Madaba.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.private|Madaba.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.personal|Madaba.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.secret|Madaba.secret]] 
 

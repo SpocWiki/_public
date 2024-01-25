@@ -41,9 +41,9 @@ markerFolder: ./Coyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Coyah.md|Coyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Coyah.internal.md|Coyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Coyah.protect.md|Coyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Coyah.private.md|Coyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Coyah.personal.md|Coyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Coyah.secret.md|Coyah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Coyah.internal|Coyah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Coyah.protect|Coyah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Coyah.private|Coyah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Coyah.personal|Coyah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Coyah.secret|Coyah.secret]] 
 

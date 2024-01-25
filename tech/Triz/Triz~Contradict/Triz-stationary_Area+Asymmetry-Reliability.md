@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Asymmetry-Reliability]
 [SpocWebEntityId::23153]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.md|Triz-stationary_Area+Asymmetry-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.internal.md|Triz-stationary_Area+Asymmetry-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.protect.md|Triz-stationary_Area+Asymmetry-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.private.md|Triz-stationary_Area+Asymmetry-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.personal.md|Triz-stationary_Area+Asymmetry-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.secret.md|Triz-stationary_Area+Asymmetry-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.internal|Triz-stationary_Area+Asymmetry-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.protect|Triz-stationary_Area+Asymmetry-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.private|Triz-stationary_Area+Asymmetry-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.personal|Triz-stationary_Area+Asymmetry-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.secret|Triz-stationary_Area+Asymmetry-Reliability.secret]] 

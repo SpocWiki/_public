@@ -41,9 +41,9 @@ markerFolder: ./Nuoro.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.md|Nuoro.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.internal.md|Nuoro.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.protect.md|Nuoro.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.private.md|Nuoro.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.personal.md|Nuoro.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.secret.md|Nuoro.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.internal|Nuoro.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.protect|Nuoro.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.private|Nuoro.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.personal|Nuoro.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Nuoro.Province.secret|Nuoro.Province.secret]] 
 

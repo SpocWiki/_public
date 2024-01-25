@@ -41,9 +41,9 @@ markerFolder: ./Dennery/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.md|Dennery]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.internal.md|Dennery.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.protect.md|Dennery.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.private.md|Dennery.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.personal.md|Dennery.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.secret.md|Dennery.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.internal|Dennery.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.protect|Dennery.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.private|Dennery.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.personal|Dennery.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dennery.secret|Dennery.secret]] 
 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Toliman.md|Toliman]] 
-- [[../../../_internal/astro/Star/Toliman.internal.md|Toliman.internal]] 
-- [[../../../_protect/astro/Star/Toliman.protect.md|Toliman.protect]] 
-- [[../../../_private/astro/Star/Toliman.private.md|Toliman.private]] 
-- [[../../../_personal/astro/Star/Toliman.personal.md|Toliman.personal]] 
-- [[../../../_secret/astro/Star/Toliman.secret.md|Toliman.secret]] 
+- [[../../../_internal/astro/Star/Toliman.internal|Toliman.internal]] 
+- [[../../../_protect/astro/Star/Toliman.protect|Toliman.protect]] 
+- [[../../../_private/astro/Star/Toliman.private|Toliman.private]] 
+- [[../../../_personal/astro/Star/Toliman.personal|Toliman.personal]] 
+- [[../../../_secret/astro/Star/Toliman.secret|Toliman.secret]] 

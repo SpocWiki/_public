@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Prior_counteracion-moving_Length]
 [SpocWebEntityId::24233]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Prior_counteracion]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.md|Triz-Temperature+Prior_counteracion-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.internal.md|Triz-Temperature+Prior_counteracion-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.protect.md|Triz-Temperature+Prior_counteracion-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.private.md|Triz-Temperature+Prior_counteracion-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.personal.md|Triz-Temperature+Prior_counteracion-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.secret.md|Triz-Temperature+Prior_counteracion-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.internal|Triz-Temperature+Prior_counteracion-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.protect|Triz-Temperature+Prior_counteracion-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.private|Triz-Temperature+Prior_counteracion-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.personal|Triz-Temperature+Prior_counteracion-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.secret|Triz-Temperature+Prior_counteracion-moving_Length.secret]] 

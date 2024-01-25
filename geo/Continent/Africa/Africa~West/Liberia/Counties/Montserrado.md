@@ -41,9 +41,9 @@ markerFolder: ./Montserrado/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Montserrado.md|Montserrado]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Montserrado.internal.md|Montserrado.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Montserrado.protect.md|Montserrado.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Montserrado.private.md|Montserrado.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Montserrado.personal.md|Montserrado.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Montserrado.secret.md|Montserrado.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Montserrado.internal|Montserrado.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Montserrado.protect|Montserrado.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Montserrado.private|Montserrado.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Montserrado.personal|Montserrado.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Montserrado.secret|Montserrado.secret]] 
 

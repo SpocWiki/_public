@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Sabac.md|Sabac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Sabac.internal.md|Sabac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Sabac.protect.md|Sabac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Sabac.private.md|Sabac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Sabac.personal.md|Sabac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Sabac.secret.md|Sabac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Sabac.internal|Sabac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Sabac.protect|Sabac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Sabac.private|Sabac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Sabac.personal|Sabac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Sabac.secret|Sabac.secret]] 

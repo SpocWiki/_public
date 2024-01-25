@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Naryan-Mar.md|Naryan-Mar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naryan-Mar.internal.md|Naryan-Mar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naryan-Mar.protect.md|Naryan-Mar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naryan-Mar.private.md|Naryan-Mar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Naryan-Mar.personal.md|Naryan-Mar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Naryan-Mar.secret.md|Naryan-Mar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naryan-Mar.internal|Naryan-Mar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naryan-Mar.protect|Naryan-Mar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naryan-Mar.private|Naryan-Mar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Naryan-Mar.personal|Naryan-Mar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Naryan-Mar.secret|Naryan-Mar.secret]] 

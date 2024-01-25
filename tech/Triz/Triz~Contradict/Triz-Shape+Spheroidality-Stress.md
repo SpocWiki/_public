@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Spheroidality-Stress]
 [SpocWebEntityId::23747]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.md|Triz-Shape+Spheroidality-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.internal.md|Triz-Shape+Spheroidality-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.protect.md|Triz-Shape+Spheroidality-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.private.md|Triz-Shape+Spheroidality-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.personal.md|Triz-Shape+Spheroidality-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.secret.md|Triz-Shape+Spheroidality-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.internal|Triz-Shape+Spheroidality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.protect|Triz-Shape+Spheroidality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.private|Triz-Shape+Spheroidality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.personal|Triz-Shape+Spheroidality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.secret|Triz-Shape+Spheroidality-Stress.secret]] 

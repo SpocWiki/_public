@@ -41,9 +41,9 @@ markerFolder: ./Gyor-Moson-Sopron/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.md|Gyor-Moson-Sopron]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.internal.md|Gyor-Moson-Sopron.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.protect.md|Gyor-Moson-Sopron.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.private.md|Gyor-Moson-Sopron.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.personal.md|Gyor-Moson-Sopron.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.secret.md|Gyor-Moson-Sopron.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.internal|Gyor-Moson-Sopron.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.protect|Gyor-Moson-Sopron.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.private|Gyor-Moson-Sopron.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.personal|Gyor-Moson-Sopron.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Gyor-Moson-Sopron.secret|Gyor-Moson-Sopron.secret]] 
 

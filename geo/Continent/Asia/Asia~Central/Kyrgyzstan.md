@@ -136,7 +136,7 @@ markerFolder: ./Kyrgyzstan/
 ## Confidential Links & Embeds: 
 -[[Kyrgyzstan|Kyrgyzstan]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Kyrgyzstan.internal|Kyrgyzstan.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Kyrgyzstan.protect.md|Kyrgyzstan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Kyrgyzstan.private.md|Kyrgyzstan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Kyrgyzstan.personal.md|Kyrgyzstan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Kyrgyzstan.secret.md|Kyrgyzstan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Kyrgyzstan.protect|Kyrgyzstan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Kyrgyzstan.private|Kyrgyzstan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Kyrgyzstan.personal|Kyrgyzstan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Kyrgyzstan.secret|Kyrgyzstan.secret]] 

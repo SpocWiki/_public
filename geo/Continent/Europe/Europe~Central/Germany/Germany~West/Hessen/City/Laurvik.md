@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Laurvik.md|Laurvik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Laurvik.internal.md|Laurvik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Laurvik.protect.md|Laurvik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Laurvik.private.md|Laurvik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Laurvik.personal.md|Laurvik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Laurvik.secret.md|Laurvik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Laurvik.internal|Laurvik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Laurvik.protect|Laurvik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Laurvik.private|Laurvik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Laurvik.personal|Laurvik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Laurvik.secret|Laurvik.secret]] 

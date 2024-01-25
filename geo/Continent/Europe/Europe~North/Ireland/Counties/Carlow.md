@@ -41,9 +41,9 @@ markerFolder: ./Carlow/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Carlow.md|Carlow]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Carlow.internal.md|Carlow.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Carlow.protect.md|Carlow.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Carlow.private.md|Carlow.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Carlow.personal.md|Carlow.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Carlow.secret.md|Carlow.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Carlow.internal|Carlow.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Carlow.protect|Carlow.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Carlow.private|Carlow.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Carlow.personal|Carlow.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Carlow.secret|Carlow.secret]] 
 

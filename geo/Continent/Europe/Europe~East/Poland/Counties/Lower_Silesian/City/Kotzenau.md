@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kotzenau.md|Kotzenau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzenau.internal.md|Kotzenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzenau.protect.md|Kotzenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzenau.private.md|Kotzenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzenau.personal.md|Kotzenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzenau.secret.md|Kotzenau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzenau.internal|Kotzenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzenau.protect|Kotzenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzenau.private|Kotzenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzenau.personal|Kotzenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzenau.secret|Kotzenau.secret]] 

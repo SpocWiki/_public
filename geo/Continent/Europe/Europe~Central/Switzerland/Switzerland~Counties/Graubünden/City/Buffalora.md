@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Buffalora.md|Buffalora]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Buffalora.internal.md|Buffalora.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Buffalora.protect.md|Buffalora.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Buffalora.private.md|Buffalora.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Buffalora.personal.md|Buffalora.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Buffalora.secret.md|Buffalora.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Buffalora.internal|Buffalora.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Buffalora.protect|Buffalora.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Buffalora.private|Buffalora.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Buffalora.personal|Buffalora.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Buffalora.secret|Buffalora.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Saint_Philip/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.md|Saint_Philip]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.internal.md|Saint_Philip.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.protect.md|Saint_Philip.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.private.md|Saint_Philip.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.personal.md|Saint_Philip.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.secret.md|Saint_Philip.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.internal|Saint_Philip.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.protect|Saint_Philip.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.private|Saint_Philip.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.personal|Saint_Philip.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Philip.secret|Saint_Philip.secret]] 
 

@@ -36,6 +36,7 @@ Languages:
 - en-IL
 ---
 
+#has_/time_/created :: 1948-05-14 
 
 [	ISO4217-currency_alphabetic	 :: ILS ]
 [	ISO4217-currency_name	 :: New Israeli Sheqel ]
@@ -138,7 +139,7 @@ markerFolder: ./Israel///
 ## Confidential Links & Embeds: 
 - [[Israel|Israel]] 
 - [[../../../../../_internal/geo/Continent/Asia/Israel.internal|Israel.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Israel.protect.md|Israel.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Israel.private.md|Israel.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Israel.personal.md|Israel.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Israel.secret.md|Israel.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Israel.protect|Israel.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Israel.private|Israel.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Israel.personal|Israel.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Israel.secret|Israel.secret]] 

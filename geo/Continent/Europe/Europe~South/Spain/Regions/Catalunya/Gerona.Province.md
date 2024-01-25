@@ -41,9 +41,9 @@ markerFolder: ./Gerona.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.md|Gerona.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.internal.md|Gerona.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.protect.md|Gerona.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.private.md|Gerona.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.personal.md|Gerona.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.secret.md|Gerona.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.internal|Gerona.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.protect|Gerona.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.private|Gerona.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.personal|Gerona.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Catalunya/Gerona.Province.secret|Gerona.Province.secret]] 
 

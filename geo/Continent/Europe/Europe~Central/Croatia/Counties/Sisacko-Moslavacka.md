@@ -41,9 +41,9 @@ markerFolder: ./Sisacko-Moslavacka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.md|Sisacko-Moslavacka]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.internal.md|Sisacko-Moslavacka.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.protect.md|Sisacko-Moslavacka.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.private.md|Sisacko-Moslavacka.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.personal.md|Sisacko-Moslavacka.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.secret.md|Sisacko-Moslavacka.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.internal|Sisacko-Moslavacka.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.protect|Sisacko-Moslavacka.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.private|Sisacko-Moslavacka.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.personal|Sisacko-Moslavacka.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Sisacko-Moslavacka.secret|Sisacko-Moslavacka.secret]] 
 

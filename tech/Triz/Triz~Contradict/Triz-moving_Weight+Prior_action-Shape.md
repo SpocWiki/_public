@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Prior_action-Shape]
 [SpocWebEntityId::22594]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.md|Triz-moving_Weight+Prior_action-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.internal.md|Triz-moving_Weight+Prior_action-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.protect.md|Triz-moving_Weight+Prior_action-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.private.md|Triz-moving_Weight+Prior_action-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.personal.md|Triz-moving_Weight+Prior_action-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.secret.md|Triz-moving_Weight+Prior_action-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.internal|Triz-moving_Weight+Prior_action-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.protect|Triz-moving_Weight+Prior_action-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.private|Triz-moving_Weight+Prior_action-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.personal|Triz-moving_Weight+Prior_action-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Prior_action-Shape.secret|Triz-moving_Weight+Prior_action-Shape.secret]] 

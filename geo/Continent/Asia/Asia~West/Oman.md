@@ -133,7 +133,7 @@ markerFolder: ./Oman/
 ## Confidential Links & Embeds: 
 -[[Oman|Oman]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Oman.internal|Oman.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Oman.protect.md|Oman.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Oman.private.md|Oman.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Oman.personal.md|Oman.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Oman.secret.md|Oman.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Oman.protect|Oman.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Oman.private|Oman.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Oman.personal|Oman.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Oman.secret|Oman.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Brazzaville/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.md|Brazzaville]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.internal.md|Brazzaville.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.protect.md|Brazzaville.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.private.md|Brazzaville.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.personal.md|Brazzaville.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.secret.md|Brazzaville.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.internal|Brazzaville.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.protect|Brazzaville.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.private|Brazzaville.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.personal|Brazzaville.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.secret|Brazzaville.secret]] 
 

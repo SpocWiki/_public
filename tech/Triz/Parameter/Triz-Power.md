@@ -18,8 +18,8 @@ Power
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Power.md|Triz-Power]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-Power.internal.md|Triz-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-Power.protect.md|Triz-Power.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-Power.private.md|Triz-Power.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-Power.personal.md|Triz-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-Power.secret.md|Triz-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Power.internal|Triz-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Power.protect|Triz-Power.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Power.private|Triz-Power.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Power.personal|Triz-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Power.secret|Triz-Power.secret]] 

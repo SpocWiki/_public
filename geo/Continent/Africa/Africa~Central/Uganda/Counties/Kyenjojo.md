@@ -41,9 +41,9 @@ markerFolder: ./Kyenjojo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyenjojo.md|Kyenjojo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyenjojo.internal.md|Kyenjojo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyenjojo.protect.md|Kyenjojo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyenjojo.private.md|Kyenjojo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyenjojo.personal.md|Kyenjojo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyenjojo.secret.md|Kyenjojo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyenjojo.internal|Kyenjojo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyenjojo.protect|Kyenjojo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyenjojo.private|Kyenjojo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyenjojo.personal|Kyenjojo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyenjojo.secret|Kyenjojo.secret]] 
 

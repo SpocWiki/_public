@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ljunga.md|Ljunga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ljunga.internal.md|Ljunga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ljunga.protect.md|Ljunga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ljunga.private.md|Ljunga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ljunga.personal.md|Ljunga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ljunga.secret.md|Ljunga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ljunga.internal|Ljunga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ljunga.protect|Ljunga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ljunga.private|Ljunga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ljunga.personal|Ljunga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ljunga.secret|Ljunga.secret]] 

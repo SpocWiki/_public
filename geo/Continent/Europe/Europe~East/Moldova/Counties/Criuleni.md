@@ -41,9 +41,9 @@ markerFolder: ./Criuleni/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Criuleni.md|Criuleni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Criuleni.internal.md|Criuleni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Criuleni.protect.md|Criuleni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Criuleni.private.md|Criuleni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Criuleni.personal.md|Criuleni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Criuleni.secret.md|Criuleni.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Criuleni.internal|Criuleni.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Criuleni.protect|Criuleni.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Criuleni.private|Criuleni.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Criuleni.personal|Criuleni.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Criuleni.secret|Criuleni.secret]] 
 

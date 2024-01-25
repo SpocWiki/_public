@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Sneek.md|Sneek]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sneek.internal.md|Sneek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sneek.protect.md|Sneek.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sneek.private.md|Sneek.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sneek.personal.md|Sneek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sneek.secret.md|Sneek.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sneek.internal|Sneek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sneek.protect|Sneek.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sneek.private|Sneek.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sneek.personal|Sneek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sneek.secret|Sneek.secret]] 

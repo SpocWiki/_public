@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Segmentation-Automation]
 [SpocWebEntityId::26062]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.md|Triz-Ease_of_operation+Segmentation-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.internal.md|Triz-Ease_of_operation+Segmentation-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.protect.md|Triz-Ease_of_operation+Segmentation-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.private.md|Triz-Ease_of_operation+Segmentation-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.personal.md|Triz-Ease_of_operation+Segmentation-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.secret.md|Triz-Ease_of_operation+Segmentation-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.internal|Triz-Ease_of_operation+Segmentation-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.protect|Triz-Ease_of_operation+Segmentation-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.private|Triz-Ease_of_operation+Segmentation-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.personal|Triz-Ease_of_operation+Segmentation-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.secret|Triz-Ease_of_operation+Segmentation-Automation.secret]] 

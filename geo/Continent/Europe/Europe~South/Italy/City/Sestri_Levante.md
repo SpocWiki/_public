@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sestri_Levante.md|Sestri_Levante]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sestri_Levante.internal.md|Sestri_Levante.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sestri_Levante.protect.md|Sestri_Levante.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sestri_Levante.private.md|Sestri_Levante.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sestri_Levante.personal.md|Sestri_Levante.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sestri_Levante.secret.md|Sestri_Levante.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sestri_Levante.internal|Sestri_Levante.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sestri_Levante.protect|Sestri_Levante.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sestri_Levante.private|Sestri_Levante.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sestri_Levante.personal|Sestri_Levante.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sestri_Levante.secret|Sestri_Levante.secret]] 

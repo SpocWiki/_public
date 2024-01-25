@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wilna.md|Wilna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wilna.internal.md|Wilna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wilna.protect.md|Wilna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wilna.private.md|Wilna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wilna.personal.md|Wilna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wilna.secret.md|Wilna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wilna.internal|Wilna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wilna.protect|Wilna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wilna.private|Wilna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wilna.personal|Wilna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wilna.secret|Wilna.secret]] 

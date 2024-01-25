@@ -41,9 +41,9 @@ markerFolder: ./Genova.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.md|Genova.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.internal.md|Genova.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.protect.md|Genova.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.private.md|Genova.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.personal.md|Genova.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.secret.md|Genova.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.internal|Genova.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.protect|Genova.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.private|Genova.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.personal|Genova.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Liguria/Genova.Province.secret|Genova.Province.secret]] 
 

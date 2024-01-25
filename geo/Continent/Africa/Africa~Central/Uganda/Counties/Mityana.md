@@ -41,9 +41,9 @@ markerFolder: ./Mityana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mityana.md|Mityana]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mityana.internal.md|Mityana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mityana.protect.md|Mityana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mityana.private.md|Mityana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mityana.personal.md|Mityana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mityana.secret.md|Mityana.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mityana.internal|Mityana.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mityana.protect|Mityana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mityana.private|Mityana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mityana.personal|Mityana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mityana.secret|Mityana.secret]] 
 

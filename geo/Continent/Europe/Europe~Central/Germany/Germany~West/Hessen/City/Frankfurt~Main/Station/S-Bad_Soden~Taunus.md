@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Bad_Soden~Taunus|S-Bad_Soden~Taunus]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.internal.md|S-Bad_Soden~Taunus.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.protect.md|S-Bad_Soden~Taunus.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.private.md|S-Bad_Soden~Taunus.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.personal.md|S-Bad_Soden~Taunus.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.secret.md|S-Bad_Soden~Taunus.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.internal|S-Bad_Soden~Taunus.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.protect|S-Bad_Soden~Taunus.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.private|S-Bad_Soden~Taunus.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.personal|S-Bad_Soden~Taunus.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Soden~Taunus.secret|S-Bad_Soden~Taunus.secret]] 

@@ -115,8 +115,8 @@ FROM outgoing([[Line~Central]])
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.md|Line~Central]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.internal.md|Line~Central.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.protect.md|Line~Central.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.private.md|Line~Central.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.personal.md|Line~Central.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.secret.md|Line~Central.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.internal|Line~Central.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.protect|Line~Central.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.private|Line~Central.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.personal|Line~Central.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.secret|Line~Central.secret]] 

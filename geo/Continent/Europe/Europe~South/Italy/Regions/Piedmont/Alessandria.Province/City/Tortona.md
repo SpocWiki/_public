@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Tortona.md|Tortona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Tortona.internal.md|Tortona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Tortona.protect.md|Tortona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Tortona.private.md|Tortona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Tortona.personal.md|Tortona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Tortona.secret.md|Tortona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Tortona.internal|Tortona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Tortona.protect|Tortona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Tortona.private|Tortona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Tortona.personal|Tortona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Tortona.secret|Tortona.secret]] 

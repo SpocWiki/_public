@@ -41,9 +41,9 @@ markerFolder: ./Radlje_ob_Dravi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.md|Radlje_ob_Dravi]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.internal.md|Radlje_ob_Dravi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.protect.md|Radlje_ob_Dravi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.private.md|Radlje_ob_Dravi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.personal.md|Radlje_ob_Dravi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.secret.md|Radlje_ob_Dravi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.internal|Radlje_ob_Dravi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.protect|Radlje_ob_Dravi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.private|Radlje_ob_Dravi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.personal|Radlje_ob_Dravi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Radlje_ob_Dravi.secret|Radlje_ob_Dravi.secret]] 
 

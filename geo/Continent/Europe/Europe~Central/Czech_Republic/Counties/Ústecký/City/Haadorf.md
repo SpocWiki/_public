@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Haadorf.md|Haadorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Haadorf.internal.md|Haadorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Haadorf.protect.md|Haadorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Haadorf.private.md|Haadorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Haadorf.personal.md|Haadorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Haadorf.secret.md|Haadorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Haadorf.internal|Haadorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Haadorf.protect|Haadorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Haadorf.private|Haadorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Haadorf.personal|Haadorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Haadorf.secret|Haadorf.secret]] 

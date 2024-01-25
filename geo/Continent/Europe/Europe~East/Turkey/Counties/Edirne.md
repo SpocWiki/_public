@@ -41,9 +41,9 @@ markerFolder: ./Edirne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Edirne.md|Edirne]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Edirne.internal.md|Edirne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Edirne.protect.md|Edirne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Edirne.private.md|Edirne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Edirne.personal.md|Edirne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Edirne.secret.md|Edirne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Edirne.internal|Edirne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Edirne.protect|Edirne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Edirne.private|Edirne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Edirne.personal|Edirne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Edirne.secret|Edirne.secret]] 
 

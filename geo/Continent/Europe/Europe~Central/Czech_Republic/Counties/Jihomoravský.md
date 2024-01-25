@@ -41,9 +41,9 @@ markerFolder: ./Jihomoravský/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.md|Jihomoravský]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.internal.md|Jihomoravský.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.protect.md|Jihomoravský.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.private.md|Jihomoravský.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.personal.md|Jihomoravský.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.secret.md|Jihomoravský.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.internal|Jihomoravský.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.protect|Jihomoravský.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.private|Jihomoravský.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.personal|Jihomoravský.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Jihomoravský.secret|Jihomoravský.secret]] 
 

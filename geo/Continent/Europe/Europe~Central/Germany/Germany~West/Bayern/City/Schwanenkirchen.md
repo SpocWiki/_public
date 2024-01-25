@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Schwanenkirchen|Schwanenkirchen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.internal.md|Schwanenkirchen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.protect.md|Schwanenkirchen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.private.md|Schwanenkirchen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.personal.md|Schwanenkirchen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.secret.md|Schwanenkirchen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.internal|Schwanenkirchen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.protect|Schwanenkirchen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.private|Schwanenkirchen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.personal|Schwanenkirchen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.secret|Schwanenkirchen.secret]] 

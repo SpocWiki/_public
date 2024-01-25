@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kongelf.md|Kongelf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kongelf.internal.md|Kongelf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kongelf.protect.md|Kongelf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kongelf.private.md|Kongelf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kongelf.personal.md|Kongelf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kongelf.secret.md|Kongelf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kongelf.internal|Kongelf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kongelf.protect|Kongelf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kongelf.private|Kongelf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kongelf.personal|Kongelf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kongelf.secret|Kongelf.secret]] 

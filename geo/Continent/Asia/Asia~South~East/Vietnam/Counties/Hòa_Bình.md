@@ -41,9 +41,9 @@ markerFolder: ./Hòa_Bình/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.md|Hòa_Bình]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.internal.md|Hòa_Bình.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.protect.md|Hòa_Bình.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.private.md|Hòa_Bình.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.personal.md|Hòa_Bình.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.secret.md|Hòa_Bình.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.internal|Hòa_Bình.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.protect|Hòa_Bình.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.private|Hòa_Bình.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.personal|Hòa_Bình.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.secret|Hòa_Bình.secret]] 
 

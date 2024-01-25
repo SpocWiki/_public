@@ -41,9 +41,9 @@ markerFolder: ./Buvuma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Buvuma.md|Buvuma]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buvuma.internal.md|Buvuma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buvuma.protect.md|Buvuma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Buvuma.private.md|Buvuma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buvuma.personal.md|Buvuma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buvuma.secret.md|Buvuma.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buvuma.internal|Buvuma.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buvuma.protect|Buvuma.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Buvuma.private|Buvuma.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buvuma.personal|Buvuma.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buvuma.secret|Buvuma.secret]] 
 

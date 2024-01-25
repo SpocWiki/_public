@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Prato.md|Prato]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Prato.internal.md|Prato.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Prato.protect.md|Prato.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Prato.private.md|Prato.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Prato.personal.md|Prato.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Prato.secret.md|Prato.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Prato.internal|Prato.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Prato.protect|Prato.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Prato.private|Prato.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Prato.personal|Prato.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Prato.secret|Prato.secret]] 

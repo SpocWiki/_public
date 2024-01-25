@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Rottneros.md|Rottneros]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Rottneros.internal.md|Rottneros.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Rottneros.protect.md|Rottneros.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Rottneros.private.md|Rottneros.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Rottneros.personal.md|Rottneros.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Rottneros.secret.md|Rottneros.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Rottneros.internal|Rottneros.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Rottneros.protect|Rottneros.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Rottneros.private|Rottneros.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Rottneros.personal|Rottneros.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Rottneros.secret|Rottneros.secret]] 

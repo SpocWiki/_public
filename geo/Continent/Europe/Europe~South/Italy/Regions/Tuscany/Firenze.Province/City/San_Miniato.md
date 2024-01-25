@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/San_Miniato.md|San_Miniato]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Miniato.internal.md|San_Miniato.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Miniato.protect.md|San_Miniato.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Miniato.private.md|San_Miniato.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Miniato.personal.md|San_Miniato.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Miniato.secret.md|San_Miniato.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Miniato.internal|San_Miniato.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Miniato.protect|San_Miniato.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Miniato.private|San_Miniato.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Miniato.personal|San_Miniato.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Miniato.secret|San_Miniato.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Ancenis.md|Ancenis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ancenis.internal.md|Ancenis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ancenis.protect.md|Ancenis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Ancenis.private.md|Ancenis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ancenis.personal.md|Ancenis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ancenis.secret.md|Ancenis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ancenis.internal|Ancenis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ancenis.protect|Ancenis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Ancenis.private|Ancenis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ancenis.personal|Ancenis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ancenis.secret|Ancenis.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Dubay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.md|Dubay]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.internal.md|Dubay.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.protect.md|Dubay.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.private.md|Dubay.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.personal.md|Dubay.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.secret.md|Dubay.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.internal|Dubay.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.protect|Dubay.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.private|Dubay.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.personal|Dubay.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Dubay.secret|Dubay.secret]] 
 

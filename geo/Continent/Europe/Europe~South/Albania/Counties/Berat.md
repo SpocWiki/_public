@@ -41,9 +41,9 @@ markerFolder: ./Berat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Albania/Counties/Berat.md|Berat]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Berat.internal.md|Berat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Berat.protect.md|Berat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Berat.private.md|Berat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Berat.personal.md|Berat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Berat.secret.md|Berat.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Berat.internal|Berat.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Berat.protect|Berat.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Berat.private|Berat.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Berat.personal|Berat.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Berat.secret|Berat.secret]] 
 

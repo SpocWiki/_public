@@ -41,9 +41,9 @@ markerFolder: ./Lipljan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Lipljan.md|Lipljan]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Lipljan.internal.md|Lipljan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Lipljan.protect.md|Lipljan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Lipljan.private.md|Lipljan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Lipljan.personal.md|Lipljan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Lipljan.secret.md|Lipljan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Lipljan.internal|Lipljan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Lipljan.protect|Lipljan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Lipljan.private|Lipljan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Lipljan.personal|Lipljan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Lipljan.secret|Lipljan.secret]] 
 

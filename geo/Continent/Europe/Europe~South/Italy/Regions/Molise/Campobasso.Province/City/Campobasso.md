@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Campobasso.md|Campobasso]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Campobasso.internal.md|Campobasso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Campobasso.protect.md|Campobasso.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Campobasso.private.md|Campobasso.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Campobasso.personal.md|Campobasso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Campobasso.secret.md|Campobasso.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Campobasso.internal|Campobasso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Campobasso.protect|Campobasso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Campobasso.private|Campobasso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Campobasso.personal|Campobasso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Campobasso.secret|Campobasso.secret]] 

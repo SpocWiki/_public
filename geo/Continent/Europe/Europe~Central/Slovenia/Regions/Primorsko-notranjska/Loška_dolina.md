@@ -41,9 +41,9 @@ markerFolder: ./Loška_dolina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.md|Loška_dolina]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.internal.md|Loška_dolina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.protect.md|Loška_dolina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.private.md|Loška_dolina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.personal.md|Loška_dolina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.secret.md|Loška_dolina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.internal|Loška_dolina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.protect|Loška_dolina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.private|Loška_dolina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.personal|Loška_dolina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Loška_dolina.secret|Loška_dolina.secret]] 
 

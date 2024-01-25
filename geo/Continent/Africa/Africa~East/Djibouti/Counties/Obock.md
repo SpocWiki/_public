@@ -41,9 +41,9 @@ markerFolder: ./Obock/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Djibouti/Counties/Obock.md|Obock]] 
-- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Obock.internal.md|Obock.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Obock.protect.md|Obock.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Obock.private.md|Obock.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Obock.personal.md|Obock.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Obock.secret.md|Obock.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Obock.internal|Obock.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Obock.protect|Obock.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Obock.private|Obock.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Obock.personal|Obock.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Obock.secret|Obock.secret]] 
 

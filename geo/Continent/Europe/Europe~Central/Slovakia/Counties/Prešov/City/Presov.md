@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Presov.md|Presov]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Presov.internal.md|Presov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Presov.protect.md|Presov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Presov.private.md|Presov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Presov.personal.md|Presov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Presov.secret.md|Presov.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Presov.internal|Presov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Presov.protect|Presov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Presov.private|Presov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Presov.personal|Presov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Presov.secret|Presov.secret]] 

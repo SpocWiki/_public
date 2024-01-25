@@ -41,9 +41,9 @@ markerFolder: ./Jaunpils/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Jaunpils.md|Jaunpils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jaunpils.internal.md|Jaunpils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jaunpils.protect.md|Jaunpils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jaunpils.private.md|Jaunpils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jaunpils.personal.md|Jaunpils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jaunpils.secret.md|Jaunpils.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jaunpils.internal|Jaunpils.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jaunpils.protect|Jaunpils.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jaunpils.private|Jaunpils.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jaunpils.personal|Jaunpils.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jaunpils.secret|Jaunpils.secret]] 
 

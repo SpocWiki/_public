@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Sakhalin_Oblast|State~Sakhalin_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.internal|State~Sakhalin_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.protect.md|State~Sakhalin_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.private.md|State~Sakhalin_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.personal.md|State~Sakhalin_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.secret.md|State~Sakhalin_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.protect|State~Sakhalin_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.private|State~Sakhalin_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.personal|State~Sakhalin_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.secret|State~Sakhalin_Oblast.secret]] 

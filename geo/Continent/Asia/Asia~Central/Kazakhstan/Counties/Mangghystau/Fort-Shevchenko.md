@@ -37,8 +37,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Fort-Shevchenko|Fort-Shevchenko]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Alexandrowsk.internal.md|Alexandrowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Alexandrowsk.protect.md|Alexandrowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Alexandrowsk.private.md|Alexandrowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Alexandrowsk.personal.md|Alexandrowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Alexandrowsk.secret.md|Alexandrowsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Alexandrowsk.internal|Alexandrowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Alexandrowsk.protect|Alexandrowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Alexandrowsk.private|Alexandrowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Alexandrowsk.personal|Alexandrowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Alexandrowsk.secret|Alexandrowsk.secret]] 

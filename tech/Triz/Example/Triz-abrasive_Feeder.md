@@ -18,8 +18,8 @@ To prevent Wear in a Feeder which distributes an abrasive Material, its Surface 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-abrasive_Feeder.md|Triz-abrasive_Feeder]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-abrasive_Feeder.internal.md|Triz-abrasive_Feeder.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-abrasive_Feeder.protect.md|Triz-abrasive_Feeder.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-abrasive_Feeder.private.md|Triz-abrasive_Feeder.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-abrasive_Feeder.personal.md|Triz-abrasive_Feeder.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-abrasive_Feeder.secret.md|Triz-abrasive_Feeder.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-abrasive_Feeder.internal|Triz-abrasive_Feeder.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-abrasive_Feeder.protect|Triz-abrasive_Feeder.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-abrasive_Feeder.private|Triz-abrasive_Feeder.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-abrasive_Feeder.personal|Triz-abrasive_Feeder.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-abrasive_Feeder.secret|Triz-abrasive_Feeder.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./_Rivers/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.md|_Rivers]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.internal.md|_Rivers.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.protect.md|_Rivers.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.private.md|_Rivers.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.personal.md|_Rivers.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.secret.md|_Rivers.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.internal|_Rivers.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.protect|_Rivers.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.private|_Rivers.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.personal|_Rivers.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Nayarit/_Rivers.secret|_Rivers.secret]] 
 

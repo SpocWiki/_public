@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Baden_bei_Wien.md|Baden_bei_Wien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Baden_bei_Wien.internal.md|Baden_bei_Wien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Baden_bei_Wien.protect.md|Baden_bei_Wien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Baden_bei_Wien.private.md|Baden_bei_Wien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Baden_bei_Wien.personal.md|Baden_bei_Wien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Baden_bei_Wien.secret.md|Baden_bei_Wien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Baden_bei_Wien.internal|Baden_bei_Wien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Baden_bei_Wien.protect|Baden_bei_Wien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Baden_bei_Wien.private|Baden_bei_Wien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Baden_bei_Wien.personal|Baden_bei_Wien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Baden_bei_Wien.secret|Baden_bei_Wien.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Dzavhan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.md|Dzavhan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.internal.md|Dzavhan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.protect.md|Dzavhan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.private.md|Dzavhan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.personal.md|Dzavhan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.secret.md|Dzavhan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.internal|Dzavhan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.protect|Dzavhan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.private|Dzavhan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.personal|Dzavhan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dzavhan.secret|Dzavhan.secret]] 
 

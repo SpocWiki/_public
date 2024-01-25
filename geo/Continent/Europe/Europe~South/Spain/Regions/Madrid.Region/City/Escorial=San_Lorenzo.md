@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.md|Escorial=San_Lorenzo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.internal.md|Escorial=San_Lorenzo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.protect.md|Escorial=San_Lorenzo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.private.md|Escorial=San_Lorenzo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.personal.md|Escorial=San_Lorenzo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.secret.md|Escorial=San_Lorenzo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.internal|Escorial=San_Lorenzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.protect|Escorial=San_Lorenzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.private|Escorial=San_Lorenzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.personal|Escorial=San_Lorenzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Escorial=San_Lorenzo.secret|Escorial=San_Lorenzo.secret]] 

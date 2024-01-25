@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.md|Kuala_Lumpur]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.internal.md|Kuala_Lumpur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.protect.md|Kuala_Lumpur.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.private.md|Kuala_Lumpur.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.personal.md|Kuala_Lumpur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.secret.md|Kuala_Lumpur.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.internal|Kuala_Lumpur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.protect|Kuala_Lumpur.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.private|Kuala_Lumpur.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.personal|Kuala_Lumpur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Malaysia/City/Kuala_Lumpur.secret|Kuala_Lumpur.secret]] 

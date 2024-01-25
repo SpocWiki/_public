@@ -41,9 +41,9 @@ markerFolder: ./Sofala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Sofala.md|Sofala]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Sofala.internal.md|Sofala.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Sofala.protect.md|Sofala.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Sofala.private.md|Sofala.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Sofala.personal.md|Sofala.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Sofala.secret.md|Sofala.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Sofala.internal|Sofala.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Sofala.protect|Sofala.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Sofala.private|Sofala.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Sofala.personal|Sofala.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Sofala.secret|Sofala.secret]] 
 

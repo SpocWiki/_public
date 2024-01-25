@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Nesting-Quantity]
 [SpocWebEntityId::23255]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Nesting]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.md|Triz-moving_Volume+Nesting-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.internal.md|Triz-moving_Volume+Nesting-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.protect.md|Triz-moving_Volume+Nesting-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.private.md|Triz-moving_Volume+Nesting-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.personal.md|Triz-moving_Volume+Nesting-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.secret.md|Triz-moving_Volume+Nesting-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.internal|Triz-moving_Volume+Nesting-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.protect|Triz-moving_Volume+Nesting-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.private|Triz-moving_Volume+Nesting-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.personal|Triz-moving_Volume+Nesting-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.secret|Triz-moving_Volume+Nesting-Quantity.secret]] 

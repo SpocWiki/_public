@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Krasnogorsk.md|Krasnogorsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Krasnogorsk.internal.md|Krasnogorsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Krasnogorsk.protect.md|Krasnogorsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Krasnogorsk.private.md|Krasnogorsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Krasnogorsk.personal.md|Krasnogorsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Krasnogorsk.secret.md|Krasnogorsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Krasnogorsk.internal|Krasnogorsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Krasnogorsk.protect|Krasnogorsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Krasnogorsk.private|Krasnogorsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Krasnogorsk.personal|Krasnogorsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Krasnogorsk.secret|Krasnogorsk.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Heidersdorf.md|Heidersdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Heidersdorf.internal.md|Heidersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Heidersdorf.protect.md|Heidersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Heidersdorf.private.md|Heidersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Heidersdorf.personal.md|Heidersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Heidersdorf.secret.md|Heidersdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Heidersdorf.internal|Heidersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Heidersdorf.protect|Heidersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Heidersdorf.private|Heidersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Heidersdorf.personal|Heidersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Heidersdorf.secret|Heidersdorf.secret]] 

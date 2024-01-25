@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Świnoujście.md|Świnoujście]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Świnoujście.internal.md|Świnoujście.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Świnoujście.protect.md|Świnoujście.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Świnoujście.private.md|Świnoujście.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Świnoujście.personal.md|Świnoujście.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Świnoujście.secret.md|Świnoujście.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Świnoujście.internal|Świnoujście.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Świnoujście.protect|Świnoujście.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Świnoujście.private|Świnoujście.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Świnoujście.personal|Świnoujście.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Świnoujście.secret|Świnoujście.secret]] 

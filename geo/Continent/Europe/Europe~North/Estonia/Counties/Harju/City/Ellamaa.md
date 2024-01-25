@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ellamaa.md|Ellamaa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ellamaa.internal.md|Ellamaa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ellamaa.protect.md|Ellamaa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ellamaa.private.md|Ellamaa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ellamaa.personal.md|Ellamaa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ellamaa.secret.md|Ellamaa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ellamaa.internal|Ellamaa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ellamaa.protect|Ellamaa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ellamaa.private|Ellamaa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ellamaa.personal|Ellamaa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ellamaa.secret|Ellamaa.secret]] 

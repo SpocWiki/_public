@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Bergen.md|Bergen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Bergen.internal.md|Bergen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Bergen.protect.md|Bergen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Bergen.private.md|Bergen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Bergen.personal.md|Bergen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Bergen.secret.md|Bergen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Bergen.internal|Bergen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Bergen.protect|Bergen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Bergen.private|Bergen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Bergen.personal|Bergen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Bergen.secret|Bergen.secret]] 

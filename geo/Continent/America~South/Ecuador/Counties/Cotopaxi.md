@@ -41,9 +41,9 @@ markerFolder: ./Cotopaxi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.md|Cotopaxi]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.internal.md|Cotopaxi.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.protect.md|Cotopaxi.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.private.md|Cotopaxi.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.personal.md|Cotopaxi.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.secret.md|Cotopaxi.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.internal|Cotopaxi.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.protect|Cotopaxi.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.private|Cotopaxi.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.personal|Cotopaxi.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.secret|Cotopaxi.secret]] 
 

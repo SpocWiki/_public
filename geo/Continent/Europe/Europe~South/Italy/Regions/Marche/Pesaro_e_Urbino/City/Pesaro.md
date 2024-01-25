@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pesaro.md|Pesaro]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pesaro.internal.md|Pesaro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pesaro.protect.md|Pesaro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pesaro.private.md|Pesaro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pesaro.personal.md|Pesaro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pesaro.secret.md|Pesaro.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pesaro.internal|Pesaro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pesaro.protect|Pesaro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pesaro.private|Pesaro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pesaro.personal|Pesaro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pesaro.secret|Pesaro.secret]] 

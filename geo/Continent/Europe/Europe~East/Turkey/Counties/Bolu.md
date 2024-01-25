@@ -41,9 +41,9 @@ markerFolder: ./Bolu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bolu.md|Bolu]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bolu.internal.md|Bolu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bolu.protect.md|Bolu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bolu.private.md|Bolu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bolu.personal.md|Bolu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bolu.secret.md|Bolu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bolu.internal|Bolu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bolu.protect|Bolu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bolu.private|Bolu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bolu.personal|Bolu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bolu.secret|Bolu.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Oloron.md|Oloron]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Oloron.internal.md|Oloron.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Oloron.protect.md|Oloron.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Oloron.private.md|Oloron.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Oloron.personal.md|Oloron.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Oloron.secret.md|Oloron.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Oloron.internal|Oloron.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Oloron.protect|Oloron.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Oloron.private|Oloron.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Oloron.personal|Oloron.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Oloron.secret|Oloron.secret]] 

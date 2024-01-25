@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Thermal_expansion-Strength]
 [SpocWebEntityId::25627]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.md|Triz-affected_harm+Thermal_expansion-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.internal.md|Triz-affected_harm+Thermal_expansion-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.protect.md|Triz-affected_harm+Thermal_expansion-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.private.md|Triz-affected_harm+Thermal_expansion-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.personal.md|Triz-affected_harm+Thermal_expansion-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.secret.md|Triz-affected_harm+Thermal_expansion-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.internal|Triz-affected_harm+Thermal_expansion-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.protect|Triz-affected_harm+Thermal_expansion-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.private|Triz-affected_harm+Thermal_expansion-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.personal|Triz-affected_harm+Thermal_expansion-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.secret|Triz-affected_harm+Thermal_expansion-Strength.secret]] 

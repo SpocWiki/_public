@@ -33,8 +33,8 @@ SpocWebEntityId: 21968
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-04-Titanium/Hafnium.md|Hafnium]] 
-- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Hafnium.internal.md|Hafnium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Hafnium.protect.md|Hafnium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-04-Titanium/Hafnium.private.md|Hafnium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Hafnium.personal.md|Hafnium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Hafnium.secret.md|Hafnium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Hafnium.internal|Hafnium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Hafnium.protect|Hafnium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-04-Titanium/Hafnium.private|Hafnium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Hafnium.personal|Hafnium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Hafnium.secret|Hafnium.secret]] 

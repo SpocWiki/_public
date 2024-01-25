@@ -41,9 +41,9 @@ markerFolder: ./Moyen-Ogooué/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.md|Moyen-Ogooué]] 
-- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.internal.md|Moyen-Ogooué.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.protect.md|Moyen-Ogooué.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.private.md|Moyen-Ogooué.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.personal.md|Moyen-Ogooué.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.secret.md|Moyen-Ogooué.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.internal|Moyen-Ogooué.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.protect|Moyen-Ogooué.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.private|Moyen-Ogooué.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.personal|Moyen-Ogooué.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Moyen-Ogooué.secret|Moyen-Ogooué.secret]] 
 

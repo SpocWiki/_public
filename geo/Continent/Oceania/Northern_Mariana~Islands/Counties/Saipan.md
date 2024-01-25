@@ -41,9 +41,9 @@ markerFolder: ./Saipan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.md|Saipan]] 
-- [[../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.internal.md|Saipan.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.protect.md|Saipan.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.private.md|Saipan.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.personal.md|Saipan.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.secret.md|Saipan.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.internal|Saipan.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.protect|Saipan.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.private|Saipan.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.personal|Saipan.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.secret|Saipan.secret]] 
 

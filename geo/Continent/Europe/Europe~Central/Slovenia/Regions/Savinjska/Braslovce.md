@@ -41,9 +41,9 @@ markerFolder: ./Braslovce/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.md|Braslovce]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.internal.md|Braslovce.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.protect.md|Braslovce.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.private.md|Braslovce.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.personal.md|Braslovce.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.secret.md|Braslovce.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.internal|Braslovce.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.protect|Braslovce.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.private|Braslovce.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.personal|Braslovce.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Braslovce.secret|Braslovce.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Salo.md|Salo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Salo.internal.md|Salo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Salo.protect.md|Salo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Salo.private.md|Salo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Salo.personal.md|Salo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Salo.secret.md|Salo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Salo.internal|Salo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Salo.protect|Salo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Salo.private|Salo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Salo.personal|Salo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Salo.secret|Salo.secret]] 

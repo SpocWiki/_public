@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Mediator-generated_harm]
 [SpocWebEntityId::23572]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.md|Triz-Intensity+Mediator-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.internal.md|Triz-Intensity+Mediator-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.protect.md|Triz-Intensity+Mediator-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.private.md|Triz-Intensity+Mediator-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.personal.md|Triz-Intensity+Mediator-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.secret.md|Triz-Intensity+Mediator-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.internal|Triz-Intensity+Mediator-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.protect|Triz-Intensity+Mediator-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.private|Triz-Intensity+Mediator-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.personal|Triz-Intensity+Mediator-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.secret|Triz-Intensity+Mediator-generated_harm.secret]] 

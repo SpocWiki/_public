@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Eugenienhof.md|Eugenienhof]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Eugenienhof.internal.md|Eugenienhof.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Eugenienhof.protect.md|Eugenienhof.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Eugenienhof.private.md|Eugenienhof.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Eugenienhof.personal.md|Eugenienhof.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Eugenienhof.secret.md|Eugenienhof.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Eugenienhof.internal|Eugenienhof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Eugenienhof.protect|Eugenienhof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Eugenienhof.private|Eugenienhof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Eugenienhof.personal|Eugenienhof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Eugenienhof.secret|Eugenienhof.secret]] 

@@ -16,8 +16,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-10-Nickel.md|Group-10-Nickel]] 
-- [[../../../_internal/chemic/Elements/Group-10-Nickel.internal.md|Group-10-Nickel.internal]] 
-- [[../../../_protect/chemic/Elements/Group-10-Nickel.protect.md|Group-10-Nickel.protect]] 
-- [[../../../_private/chemic/Elements/Group-10-Nickel.private.md|Group-10-Nickel.private]] 
-- [[../../../_personal/chemic/Elements/Group-10-Nickel.personal.md|Group-10-Nickel.personal]] 
-- [[../../../_secret/chemic/Elements/Group-10-Nickel.secret.md|Group-10-Nickel.secret]] 
+- [[../../../_internal/chemic/Elements/Group-10-Nickel.internal|Group-10-Nickel.internal]] 
+- [[../../../_protect/chemic/Elements/Group-10-Nickel.protect|Group-10-Nickel.protect]] 
+- [[../../../_private/chemic/Elements/Group-10-Nickel.private|Group-10-Nickel.private]] 
+- [[../../../_personal/chemic/Elements/Group-10-Nickel.personal|Group-10-Nickel.personal]] 
+- [[../../../_secret/chemic/Elements/Group-10-Nickel.secret|Group-10-Nickel.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Diego_Martin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.md|Diego_Martin]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.internal.md|Diego_Martin.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.protect.md|Diego_Martin.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.private.md|Diego_Martin.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.personal.md|Diego_Martin.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.secret.md|Diego_Martin.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.internal|Diego_Martin.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.protect|Diego_Martin.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.private|Diego_Martin.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.personal|Diego_Martin.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.secret|Diego_Martin.secret]] 
 

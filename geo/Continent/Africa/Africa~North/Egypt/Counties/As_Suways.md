@@ -41,9 +41,9 @@ markerFolder: ./As_Suways/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/As_Suways.md|As_Suways]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/As_Suways.internal.md|As_Suways.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/As_Suways.protect.md|As_Suways.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/As_Suways.private.md|As_Suways.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/As_Suways.personal.md|As_Suways.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/As_Suways.secret.md|As_Suways.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/As_Suways.internal|As_Suways.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/As_Suways.protect|As_Suways.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/As_Suways.private|As_Suways.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/As_Suways.personal|As_Suways.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/As_Suways.secret|As_Suways.secret]] 
 

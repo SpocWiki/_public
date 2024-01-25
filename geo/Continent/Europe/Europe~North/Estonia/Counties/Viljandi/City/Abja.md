@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Abja.md|Abja]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Abja.internal.md|Abja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Abja.protect.md|Abja.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Abja.private.md|Abja.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Abja.personal.md|Abja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Abja.secret.md|Abja.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Abja.internal|Abja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Abja.protect|Abja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Abja.private|Abja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Abja.personal|Abja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Abja.secret|Abja.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Cuanza_Sul/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.md|Cuanza_Sul]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.internal.md|Cuanza_Sul.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.protect.md|Cuanza_Sul.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.private.md|Cuanza_Sul.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.personal.md|Cuanza_Sul.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.secret.md|Cuanza_Sul.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.internal|Cuanza_Sul.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.protect|Cuanza_Sul.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.private|Cuanza_Sul.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.personal|Cuanza_Sul.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Cuanza_Sul.secret|Cuanza_Sul.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Séno/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Séno.md|Séno]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Séno.internal.md|Séno.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Séno.protect.md|Séno.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Séno.private.md|Séno.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Séno.personal.md|Séno.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Séno.secret.md|Séno.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Séno.internal|Séno.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Séno.protect|Séno.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Séno.private|Séno.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Séno.personal|Séno.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Séno.secret|Séno.secret]] 
 

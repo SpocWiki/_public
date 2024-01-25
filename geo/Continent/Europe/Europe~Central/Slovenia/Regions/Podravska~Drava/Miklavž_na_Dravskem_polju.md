@@ -41,9 +41,9 @@ markerFolder: ./Miklavž_na_Dravskem_polju/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.md|Miklavž_na_Dravskem_polju]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.internal.md|Miklavž_na_Dravskem_polju.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.protect.md|Miklavž_na_Dravskem_polju.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.private.md|Miklavž_na_Dravskem_polju.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.personal.md|Miklavž_na_Dravskem_polju.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.secret.md|Miklavž_na_Dravskem_polju.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.internal|Miklavž_na_Dravskem_polju.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.protect|Miklavž_na_Dravskem_polju.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.private|Miklavž_na_Dravskem_polju.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.personal|Miklavž_na_Dravskem_polju.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Miklavž_na_Dravskem_polju.secret|Miklavž_na_Dravskem_polju.secret]] 
 

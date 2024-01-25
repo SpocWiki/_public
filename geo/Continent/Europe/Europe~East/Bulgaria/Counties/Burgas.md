@@ -41,9 +41,9 @@ markerFolder: ./Burgas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Burgas.md|Burgas]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Burgas.internal.md|Burgas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Burgas.protect.md|Burgas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Burgas.private.md|Burgas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Burgas.personal.md|Burgas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Burgas.secret.md|Burgas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Burgas.internal|Burgas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Burgas.protect|Burgas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Burgas.private|Burgas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Burgas.personal|Burgas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Burgas.secret|Burgas.secret]] 
 

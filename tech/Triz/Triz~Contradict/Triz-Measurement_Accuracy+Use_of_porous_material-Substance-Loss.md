@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Use_of_porous_material-Substance-Loss]
 [SpocWebEntityId::25427]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle:[[Triz-Use_porous_material]]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.md|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.internal.md|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.protect.md|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.private.md|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.personal.md|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.secret.md|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.internal|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.protect|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.private|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.personal|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.secret|Triz-Measurement_Accuracy+Use_of_porous_material-Substance-Loss.secret]] 

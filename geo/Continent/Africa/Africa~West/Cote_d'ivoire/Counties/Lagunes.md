@@ -41,9 +41,9 @@ markerFolder: ./Lagunes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.md|Lagunes]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.internal.md|Lagunes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.protect.md|Lagunes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.private.md|Lagunes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.personal.md|Lagunes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.secret.md|Lagunes.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.internal|Lagunes.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.protect|Lagunes.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.private|Lagunes.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.personal|Lagunes.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.secret|Lagunes.secret]] 
 

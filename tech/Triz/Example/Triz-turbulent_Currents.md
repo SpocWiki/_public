@@ -18,8 +18,8 @@ Use turbulent Currents to heat Copper Pans and Pots or to brake electrical Train
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-turbulent_Currents.md|Triz-turbulent_Currents]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-turbulent_Currents.internal.md|Triz-turbulent_Currents.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-turbulent_Currents.protect.md|Triz-turbulent_Currents.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-turbulent_Currents.private.md|Triz-turbulent_Currents.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-turbulent_Currents.personal.md|Triz-turbulent_Currents.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-turbulent_Currents.secret.md|Triz-turbulent_Currents.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-turbulent_Currents.internal|Triz-turbulent_Currents.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-turbulent_Currents.protect|Triz-turbulent_Currents.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-turbulent_Currents.private|Triz-turbulent_Currents.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-turbulent_Currents.personal|Triz-turbulent_Currents.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-turbulent_Currents.secret|Triz-turbulent_Currents.secret]] 

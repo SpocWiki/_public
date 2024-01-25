@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Universality-Intensity]
 [SpocWebEntityId::24368]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.md|Triz-Illumination+Universality-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.internal.md|Triz-Illumination+Universality-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.protect.md|Triz-Illumination+Universality-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.private.md|Triz-Illumination+Universality-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.personal.md|Triz-Illumination+Universality-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.secret.md|Triz-Illumination+Universality-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.internal|Triz-Illumination+Universality-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.protect|Triz-Illumination+Universality-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.private|Triz-Illumination+Universality-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.personal|Triz-Illumination+Universality-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.secret|Triz-Illumination+Universality-Intensity.secret]] 

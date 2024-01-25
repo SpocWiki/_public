@@ -41,9 +41,9 @@ markerFolder: ./Rukwa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Rukwa.md|Rukwa]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Rukwa.internal.md|Rukwa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Rukwa.protect.md|Rukwa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Rukwa.private.md|Rukwa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Rukwa.personal.md|Rukwa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Rukwa.secret.md|Rukwa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Rukwa.internal|Rukwa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Rukwa.protect|Rukwa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Rukwa.private|Rukwa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Rukwa.personal|Rukwa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Rukwa.secret|Rukwa.secret]] 
 

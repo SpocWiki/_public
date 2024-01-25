@@ -41,9 +41,9 @@ markerFolder: ./Central_Finland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland/Counties/Central_Finland.md|Central_Finland]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Central_Finland.internal.md|Central_Finland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Central_Finland.protect.md|Central_Finland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Central_Finland.private.md|Central_Finland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Central_Finland.personal.md|Central_Finland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Central_Finland.secret.md|Central_Finland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Central_Finland.internal|Central_Finland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Central_Finland.protect|Central_Finland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Central_Finland.private|Central_Finland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Central_Finland.personal|Central_Finland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Central_Finland.secret|Central_Finland.secret]] 
 

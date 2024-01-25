@@ -32,8 +32,8 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../[[City~Newry|City~Newry]]/../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.internal.md|Newry.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.protect.md|Newry.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.private.md|Newry.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.personal.md|Newry.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.secret.md|Newry.secret]] 
+- [[../../[[City~Newry|City~Newry]]/../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.internal|Newry.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.protect|Newry.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.private|Newry.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.personal|Newry.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.secret|Newry.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Liepāja/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Liepāja.md|Liepāja]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Liepāja.internal.md|Liepāja.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Liepāja.protect.md|Liepāja.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Liepāja.private.md|Liepāja.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Liepāja.personal.md|Liepāja.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Liepāja.secret.md|Liepāja.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Liepāja.internal|Liepāja.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Liepāja.protect|Liepāja.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Liepāja.private|Liepāja.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Liepāja.personal|Liepāja.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Liepāja.secret|Liepāja.secret]] 
 

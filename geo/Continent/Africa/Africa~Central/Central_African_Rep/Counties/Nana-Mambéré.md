@@ -41,9 +41,9 @@ markerFolder: ./Nana-Mambéré/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.md|Nana-Mambéré]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.internal.md|Nana-Mambéré.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.protect.md|Nana-Mambéré.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.private.md|Nana-Mambéré.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.personal.md|Nana-Mambéré.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.secret.md|Nana-Mambéré.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.internal|Nana-Mambéré.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.protect|Nana-Mambéré.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.private|Nana-Mambéré.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.personal|Nana-Mambéré.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.secret|Nana-Mambéré.secret]] 
 

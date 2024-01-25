@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Copying-Difficulty]
 [SpocWebEntityId::23287]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.md|Triz-moving_Volume+Copying-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.internal.md|Triz-moving_Volume+Copying-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.protect.md|Triz-moving_Volume+Copying-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.private.md|Triz-moving_Volume+Copying-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.personal.md|Triz-moving_Volume+Copying-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.secret.md|Triz-moving_Volume+Copying-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.internal|Triz-moving_Volume+Copying-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.protect|Triz-moving_Volume+Copying-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.private|Triz-moving_Volume+Copying-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.personal|Triz-moving_Volume+Copying-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Copying-Difficulty.secret|Triz-moving_Volume+Copying-Difficulty.secret]] 

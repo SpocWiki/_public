@@ -41,9 +41,9 @@ markerFolder: ./Barinas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Barinas.md|Barinas]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Barinas.internal.md|Barinas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Barinas.protect.md|Barinas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Barinas.private.md|Barinas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Barinas.personal.md|Barinas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Barinas.secret.md|Barinas.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Barinas.internal|Barinas.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Barinas.protect|Barinas.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Barinas.private|Barinas.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Barinas.personal|Barinas.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Barinas.secret|Barinas.secret]] 
 

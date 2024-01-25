@@ -41,9 +41,9 @@ markerFolder: ./Ouest/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Ouest.md|Ouest]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Ouest.internal.md|Ouest.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Ouest.protect.md|Ouest.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Ouest.private.md|Ouest.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Ouest.personal.md|Ouest.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Ouest.secret.md|Ouest.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Ouest.internal|Ouest.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Ouest.protect|Ouest.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Ouest.private|Ouest.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Ouest.personal|Ouest.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Ouest.secret|Ouest.secret]] 
 

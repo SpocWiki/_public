@@ -41,9 +41,9 @@ markerFolder: ./Rumphi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Rumphi.md|Rumphi]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Rumphi.internal.md|Rumphi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Rumphi.protect.md|Rumphi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Rumphi.private.md|Rumphi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Rumphi.personal.md|Rumphi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Rumphi.secret.md|Rumphi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Rumphi.internal|Rumphi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Rumphi.protect|Rumphi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Rumphi.private|Rumphi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Rumphi.personal|Rumphi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Rumphi.secret|Rumphi.secret]] 
 

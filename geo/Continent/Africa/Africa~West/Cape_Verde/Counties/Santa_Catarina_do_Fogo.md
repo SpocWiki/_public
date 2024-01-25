@@ -41,9 +41,9 @@ markerFolder: ./Santa_Catarina_do_Fogo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.md|Santa_Catarina_do_Fogo]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.internal.md|Santa_Catarina_do_Fogo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.protect.md|Santa_Catarina_do_Fogo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.private.md|Santa_Catarina_do_Fogo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.personal.md|Santa_Catarina_do_Fogo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.secret.md|Santa_Catarina_do_Fogo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.internal|Santa_Catarina_do_Fogo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.protect|Santa_Catarina_do_Fogo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.private|Santa_Catarina_do_Fogo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.personal|Santa_Catarina_do_Fogo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.secret|Santa_Catarina_do_Fogo.secret]] 
 

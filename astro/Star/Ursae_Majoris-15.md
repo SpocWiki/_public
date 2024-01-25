@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Ursae_Majoris-15.md|Ursae_Majoris-15]] 
-- [[../../../_internal/astro/Star/Ursae_Majoris-15.internal.md|Ursae_Majoris-15.internal]] 
-- [[../../../_protect/astro/Star/Ursae_Majoris-15.protect.md|Ursae_Majoris-15.protect]] 
-- [[../../../_private/astro/Star/Ursae_Majoris-15.private.md|Ursae_Majoris-15.private]] 
-- [[../../../_personal/astro/Star/Ursae_Majoris-15.personal.md|Ursae_Majoris-15.personal]] 
-- [[../../../_secret/astro/Star/Ursae_Majoris-15.secret.md|Ursae_Majoris-15.secret]] 
+- [[../../../_internal/astro/Star/Ursae_Majoris-15.internal|Ursae_Majoris-15.internal]] 
+- [[../../../_protect/astro/Star/Ursae_Majoris-15.protect|Ursae_Majoris-15.protect]] 
+- [[../../../_private/astro/Star/Ursae_Majoris-15.private|Ursae_Majoris-15.private]] 
+- [[../../../_personal/astro/Star/Ursae_Majoris-15.personal|Ursae_Majoris-15.personal]] 
+- [[../../../_secret/astro/Star/Ursae_Majoris-15.secret|Ursae_Majoris-15.secret]] 

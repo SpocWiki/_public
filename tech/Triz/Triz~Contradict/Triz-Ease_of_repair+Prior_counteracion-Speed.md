@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Prior_counteracion-Speed]
 [SpocWebEntityId::26095]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Prior_counteracion]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.md|Triz-Ease_of_repair+Prior_counteracion-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.internal.md|Triz-Ease_of_repair+Prior_counteracion-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.protect.md|Triz-Ease_of_repair+Prior_counteracion-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.private.md|Triz-Ease_of_repair+Prior_counteracion-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.personal.md|Triz-Ease_of_repair+Prior_counteracion-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.secret.md|Triz-Ease_of_repair+Prior_counteracion-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.internal|Triz-Ease_of_repair+Prior_counteracion-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.protect|Triz-Ease_of_repair+Prior_counteracion-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.private|Triz-Ease_of_repair+Prior_counteracion-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.personal|Triz-Ease_of_repair+Prior_counteracion-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Speed.secret|Triz-Ease_of_repair+Prior_counteracion-Speed.secret]] 

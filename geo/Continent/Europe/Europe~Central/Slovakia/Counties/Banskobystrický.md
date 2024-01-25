@@ -41,9 +41,9 @@ markerFolder: ./Banskobystrický/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.md|Banskobystrický]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.internal.md|Banskobystrický.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.protect.md|Banskobystrický.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.private.md|Banskobystrický.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.personal.md|Banskobystrický.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.secret.md|Banskobystrický.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.internal|Banskobystrický.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.protect|Banskobystrický.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.private|Banskobystrický.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.personal|Banskobystrický.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Banskobystrický.secret|Banskobystrický.secret]] 
 

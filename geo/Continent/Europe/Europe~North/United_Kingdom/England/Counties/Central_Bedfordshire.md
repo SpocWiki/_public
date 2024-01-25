@@ -41,9 +41,9 @@ markerFolder: ./Central_Bedfordshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.md|Central_Bedfordshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.internal.md|Central_Bedfordshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.protect.md|Central_Bedfordshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.private.md|Central_Bedfordshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.personal.md|Central_Bedfordshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.secret.md|Central_Bedfordshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.internal|Central_Bedfordshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.protect|Central_Bedfordshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.private|Central_Bedfordshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.personal|Central_Bedfordshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Central_Bedfordshire.secret|Central_Bedfordshire.secret]] 
 

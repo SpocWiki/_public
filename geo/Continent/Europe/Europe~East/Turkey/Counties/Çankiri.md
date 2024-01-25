@@ -41,9 +41,9 @@ markerFolder: ./Çankiri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Çankiri.md|Çankiri]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Çankiri.internal.md|Çankiri.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Çankiri.protect.md|Çankiri.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Çankiri.private.md|Çankiri.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Çankiri.personal.md|Çankiri.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Çankiri.secret.md|Çankiri.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Çankiri.internal|Çankiri.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Çankiri.protect|Çankiri.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Çankiri.private|Çankiri.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Çankiri.personal|Çankiri.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Çankiri.secret|Çankiri.secret]] 
 

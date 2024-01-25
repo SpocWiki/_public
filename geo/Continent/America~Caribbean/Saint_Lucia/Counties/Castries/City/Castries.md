@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Saint_Lucia/City/Castries.md|Castries]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Saint_Lucia/City/Castries.internal.md|Castries.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Saint_Lucia/City/Castries.protect.md|Castries.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Saint_Lucia/City/Castries.private.md|Castries.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Saint_Lucia/City/Castries.personal.md|Castries.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Saint_Lucia/City/Castries.secret.md|Castries.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Saint_Lucia/City/Castries.internal|Castries.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Saint_Lucia/City/Castries.protect|Castries.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Saint_Lucia/City/Castries.private|Castries.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Saint_Lucia/City/Castries.personal|Castries.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Saint_Lucia/City/Castries.secret|Castries.secret]] 

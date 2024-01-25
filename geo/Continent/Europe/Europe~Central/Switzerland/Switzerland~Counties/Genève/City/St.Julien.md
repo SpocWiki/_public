@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Julien.md|St.Julien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Julien.internal.md|St.Julien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Julien.protect.md|St.Julien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Julien.private.md|St.Julien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Julien.personal.md|St.Julien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Julien.secret.md|St.Julien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Julien.internal|St.Julien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Julien.protect|St.Julien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Julien.private|St.Julien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Julien.personal|St.Julien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Julien.secret|St.Julien.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Triesenberg/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.md|Triesenberg]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.internal.md|Triesenberg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.protect.md|Triesenberg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.private.md|Triesenberg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.personal.md|Triesenberg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.secret.md|Triesenberg.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.internal|Triesenberg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.protect|Triesenberg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.private|Triesenberg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.personal|Triesenberg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.secret|Triesenberg.secret]] 
 

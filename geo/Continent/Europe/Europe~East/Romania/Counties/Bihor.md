@@ -41,9 +41,9 @@ markerFolder: ./Bihor/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Bihor.md|Bihor]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bihor.internal.md|Bihor.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bihor.protect.md|Bihor.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bihor.private.md|Bihor.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bihor.personal.md|Bihor.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bihor.secret.md|Bihor.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bihor.internal|Bihor.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bihor.protect|Bihor.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bihor.private|Bihor.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bihor.personal|Bihor.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bihor.secret|Bihor.secret]] 
 

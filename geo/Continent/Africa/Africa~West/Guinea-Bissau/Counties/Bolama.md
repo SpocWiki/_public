@@ -41,9 +41,9 @@ markerFolder: ./Bolama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.md|Bolama]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.internal.md|Bolama.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.protect.md|Bolama.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.private.md|Bolama.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.personal.md|Bolama.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.secret.md|Bolama.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.internal|Bolama.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.protect|Bolama.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.private|Bolama.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.personal|Bolama.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.secret|Bolama.secret]] 
 

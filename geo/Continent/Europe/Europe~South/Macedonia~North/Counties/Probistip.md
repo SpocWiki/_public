@@ -41,9 +41,9 @@ markerFolder: ./Probistip/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Probistip.md|Probistip]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Probistip.internal.md|Probistip.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Probistip.protect.md|Probistip.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Probistip.private.md|Probistip.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Probistip.personal.md|Probistip.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Probistip.secret.md|Probistip.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Probistip.internal|Probistip.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Probistip.protect|Probistip.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Probistip.private|Probistip.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Probistip.personal|Probistip.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Probistip.secret|Probistip.secret]] 
 

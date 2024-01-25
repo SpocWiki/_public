@@ -41,9 +41,9 @@ markerFolder: ./Lira/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Lira.md|Lira]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lira.internal.md|Lira.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lira.protect.md|Lira.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Lira.private.md|Lira.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lira.personal.md|Lira.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lira.secret.md|Lira.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lira.internal|Lira.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lira.protect|Lira.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Lira.private|Lira.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lira.personal|Lira.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lira.secret|Lira.secret]] 
 

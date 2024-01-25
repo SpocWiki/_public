@@ -41,9 +41,9 @@ markerFolder: ./American_Samoa~Western/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.md|American_Samoa~Western]] 
-- [[../../../../_internal/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.internal.md|American_Samoa~Western.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.protect.md|American_Samoa~Western.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.private.md|American_Samoa~Western.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.personal.md|American_Samoa~Western.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.secret.md|American_Samoa~Western.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.internal|American_Samoa~Western.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.protect|American_Samoa~Western.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.private|American_Samoa~Western.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.personal|American_Samoa~Western.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Western.secret|American_Samoa~Western.secret]] 
 

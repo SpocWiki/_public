@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Muscae-3.md|Muscae-3]] 
-- [[../../../_internal/astro/Star/Muscae-3.internal.md|Muscae-3.internal]] 
-- [[../../../_protect/astro/Star/Muscae-3.protect.md|Muscae-3.protect]] 
-- [[../../../_private/astro/Star/Muscae-3.private.md|Muscae-3.private]] 
-- [[../../../_personal/astro/Star/Muscae-3.personal.md|Muscae-3.personal]] 
-- [[../../../_secret/astro/Star/Muscae-3.secret.md|Muscae-3.secret]] 
+- [[../../../_internal/astro/Star/Muscae-3.internal|Muscae-3.internal]] 
+- [[../../../_protect/astro/Star/Muscae-3.protect|Muscae-3.protect]] 
+- [[../../../_private/astro/Star/Muscae-3.private|Muscae-3.private]] 
+- [[../../../_personal/astro/Star/Muscae-3.personal|Muscae-3.personal]] 
+- [[../../../_secret/astro/Star/Muscae-3.secret|Muscae-3.secret]] 

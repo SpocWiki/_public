@@ -41,9 +41,9 @@ markerFolder: ./Bururi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Bururi.md|Bururi]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Bururi.internal.md|Bururi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Bururi.protect.md|Bururi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Bururi.private.md|Bururi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Bururi.personal.md|Bururi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Bururi.secret.md|Bururi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Bururi.internal|Bururi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Bururi.protect|Bururi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Bururi.private|Bururi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Bururi.personal|Bururi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Bururi.secret|Bururi.secret]] 
 

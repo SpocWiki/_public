@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Den_Haag.md|Den_Haag]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Den_Haag.internal.md|Den_Haag.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Den_Haag.protect.md|Den_Haag.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Den_Haag.private.md|Den_Haag.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Den_Haag.personal.md|Den_Haag.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Den_Haag.secret.md|Den_Haag.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Den_Haag.internal|Den_Haag.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Den_Haag.protect|Den_Haag.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Den_Haag.private|Den_Haag.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Den_Haag.personal|Den_Haag.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Den_Haag.secret|Den_Haag.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Local_quality-Illumination]
 [SpocWebEntityId::25529]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.md|Triz-Manufacturing_Precision+Local_quality-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.internal.md|Triz-Manufacturing_Precision+Local_quality-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.protect.md|Triz-Manufacturing_Precision+Local_quality-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.private.md|Triz-Manufacturing_Precision+Local_quality-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.personal.md|Triz-Manufacturing_Precision+Local_quality-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.secret.md|Triz-Manufacturing_Precision+Local_quality-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.internal|Triz-Manufacturing_Precision+Local_quality-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.protect|Triz-Manufacturing_Precision+Local_quality-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.private|Triz-Manufacturing_Precision+Local_quality-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.personal|Triz-Manufacturing_Precision+Local_quality-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.secret|Triz-Manufacturing_Precision+Local_quality-Illumination.secret]] 

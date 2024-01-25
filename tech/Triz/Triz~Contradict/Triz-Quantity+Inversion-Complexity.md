@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Inversion-Complexity]
 [SpocWebEntityId::25219]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.md|Triz-Quantity+Inversion-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.internal.md|Triz-Quantity+Inversion-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.protect.md|Triz-Quantity+Inversion-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.private.md|Triz-Quantity+Inversion-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.personal.md|Triz-Quantity+Inversion-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.secret.md|Triz-Quantity+Inversion-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.internal|Triz-Quantity+Inversion-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.protect|Triz-Quantity+Inversion-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.private|Triz-Quantity+Inversion-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.personal|Triz-Quantity+Inversion-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Inversion-Complexity.secret|Triz-Quantity+Inversion-Complexity.secret]] 

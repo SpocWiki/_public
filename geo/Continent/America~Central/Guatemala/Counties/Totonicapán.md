@@ -41,9 +41,9 @@ markerFolder: ./Totonicapán/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.md|Totonicapán]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.internal.md|Totonicapán.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.protect.md|Totonicapán.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.private.md|Totonicapán.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.personal.md|Totonicapán.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.secret.md|Totonicapán.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.internal|Totonicapán.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.protect|Totonicapán.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.private|Totonicapán.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.personal|Totonicapán.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Totonicapán.secret|Totonicapán.secret]] 
 

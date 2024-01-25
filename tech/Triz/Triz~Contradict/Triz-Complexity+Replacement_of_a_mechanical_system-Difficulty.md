@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Replacement_of_a_mechanical_system-Difficulty]
 [SpocWebEntityId::26398]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.md|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.internal.md|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.protect.md|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.private.md|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.personal.md|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.secret.md|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.internal|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.protect|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.private|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.personal|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.secret|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.secret]] 

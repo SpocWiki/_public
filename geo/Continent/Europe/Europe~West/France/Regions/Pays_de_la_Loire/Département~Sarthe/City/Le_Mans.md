@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Le_Mans.md|Le_Mans]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Le_Mans.internal.md|Le_Mans.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Le_Mans.protect.md|Le_Mans.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Le_Mans.private.md|Le_Mans.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Le_Mans.personal.md|Le_Mans.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Le_Mans.secret.md|Le_Mans.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Le_Mans.internal|Le_Mans.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Le_Mans.protect|Le_Mans.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Le_Mans.private|Le_Mans.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Le_Mans.personal|Le_Mans.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Le_Mans.secret|Le_Mans.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed]
 [SpocWebEntityId::24728]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.md|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal.md|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect.md|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private.md|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal.md|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret.md|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret]] 

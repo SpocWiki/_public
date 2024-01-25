@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.md|Hindenburg=Chorzow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.internal.md|Hindenburg=Chorzow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.protect.md|Hindenburg=Chorzow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.private.md|Hindenburg=Chorzow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.personal.md|Hindenburg=Chorzow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.secret.md|Hindenburg=Chorzow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.internal|Hindenburg=Chorzow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.protect|Hindenburg=Chorzow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.private|Hindenburg=Chorzow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.personal|Hindenburg=Chorzow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.secret|Hindenburg=Chorzow.secret]] 

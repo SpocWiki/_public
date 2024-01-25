@@ -41,9 +41,9 @@ markerFolder: ./Yobe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Yobe.md|Yobe]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Yobe.internal.md|Yobe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Yobe.protect.md|Yobe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Yobe.private.md|Yobe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Yobe.personal.md|Yobe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Yobe.secret.md|Yobe.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Yobe.internal|Yobe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Yobe.protect|Yobe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Yobe.private|Yobe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Yobe.personal|Yobe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Yobe.secret|Yobe.secret]] 
 

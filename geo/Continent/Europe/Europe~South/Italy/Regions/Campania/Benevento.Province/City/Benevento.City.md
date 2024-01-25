@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Benevento.City.md|Benevento.City]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Benevento.City.internal.md|Benevento.City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Benevento.City.protect.md|Benevento.City.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Benevento.City.private.md|Benevento.City.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Benevento.City.personal.md|Benevento.City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Benevento.City.secret.md|Benevento.City.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Benevento.City.internal|Benevento.City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Benevento.City.protect|Benevento.City.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Benevento.City.private|Benevento.City.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Benevento.City.personal|Benevento.City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Benevento.City.secret|Benevento.City.secret]] 

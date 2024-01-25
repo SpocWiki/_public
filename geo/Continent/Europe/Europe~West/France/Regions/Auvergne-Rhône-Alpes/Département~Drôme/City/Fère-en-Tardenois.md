@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Fère-en-Tardenois.md|Fère-en-Tardenois]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fère-en-Tardenois.internal.md|Fère-en-Tardenois.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fère-en-Tardenois.protect.md|Fère-en-Tardenois.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Fère-en-Tardenois.private.md|Fère-en-Tardenois.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fère-en-Tardenois.personal.md|Fère-en-Tardenois.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fère-en-Tardenois.secret.md|Fère-en-Tardenois.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fère-en-Tardenois.internal|Fère-en-Tardenois.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fère-en-Tardenois.protect|Fère-en-Tardenois.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Fère-en-Tardenois.private|Fère-en-Tardenois.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fère-en-Tardenois.personal|Fère-en-Tardenois.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fère-en-Tardenois.secret|Fère-en-Tardenois.secret]] 

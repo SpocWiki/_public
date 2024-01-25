@@ -41,9 +41,9 @@ markerFolder: ./Kent/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.md|Kent]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.internal.md|Kent.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.protect.md|Kent.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.private.md|Kent.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.personal.md|Kent.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.secret.md|Kent.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.internal|Kent.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.protect|Kent.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.private|Kent.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.personal|Kent.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.secret|Kent.secret]] 
 

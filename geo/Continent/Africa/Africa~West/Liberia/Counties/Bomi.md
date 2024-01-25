@@ -41,9 +41,9 @@ markerFolder: ./Bomi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Bomi.md|Bomi]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Bomi.internal.md|Bomi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Bomi.protect.md|Bomi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Bomi.private.md|Bomi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Bomi.personal.md|Bomi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Bomi.secret.md|Bomi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Bomi.internal|Bomi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Bomi.protect|Bomi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Bomi.private|Bomi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Bomi.personal|Bomi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Bomi.secret|Bomi.secret]] 
 

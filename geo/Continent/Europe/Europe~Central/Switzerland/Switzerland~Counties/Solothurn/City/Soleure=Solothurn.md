@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.md|Soleure=Solothurn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.internal.md|Soleure=Solothurn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.protect.md|Soleure=Solothurn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.private.md|Soleure=Solothurn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.personal.md|Soleure=Solothurn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.secret.md|Soleure=Solothurn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.internal|Soleure=Solothurn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.protect|Soleure=Solothurn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.private|Soleure=Solothurn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.personal|Soleure=Solothurn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Soleure=Solothurn.secret|Soleure=Solothurn.secret]] 

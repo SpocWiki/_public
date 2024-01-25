@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Iran/City/Isfahan.md|Isfahan]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Iran/City/Isfahan.internal.md|Isfahan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Iran/City/Isfahan.protect.md|Isfahan.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Iran/City/Isfahan.private.md|Isfahan.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Iran/City/Isfahan.personal.md|Isfahan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Iran/City/Isfahan.secret.md|Isfahan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Iran/City/Isfahan.internal|Isfahan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Iran/City/Isfahan.protect|Isfahan.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Iran/City/Isfahan.private|Isfahan.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Iran/City/Isfahan.personal|Isfahan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Iran/City/Isfahan.secret|Isfahan.secret]] 

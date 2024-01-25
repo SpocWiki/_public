@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Goy.md|Goy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Goy.internal.md|Goy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Goy.protect.md|Goy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Goy.private.md|Goy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Goy.personal.md|Goy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Goy.secret.md|Goy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Goy.internal|Goy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Goy.protect|Goy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Goy.private|Goy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Goy.personal|Goy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Goy.secret|Goy.secret]] 

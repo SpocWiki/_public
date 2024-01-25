@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lohn.md|Lohn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lohn.internal.md|Lohn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lohn.protect.md|Lohn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lohn.private.md|Lohn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lohn.personal.md|Lohn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lohn.secret.md|Lohn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lohn.internal|Lohn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lohn.protect|Lohn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lohn.private|Lohn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lohn.personal|Lohn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lohn.secret|Lohn.secret]] 

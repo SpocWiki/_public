@@ -41,9 +41,9 @@ markerFolder: ./Timbuktu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mali/Counties/Timbuktu.md|Timbuktu]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Timbuktu.internal.md|Timbuktu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Timbuktu.protect.md|Timbuktu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Timbuktu.private.md|Timbuktu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Timbuktu.personal.md|Timbuktu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Timbuktu.secret.md|Timbuktu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Timbuktu.internal|Timbuktu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Timbuktu.protect|Timbuktu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Timbuktu.private|Timbuktu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Timbuktu.personal|Timbuktu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Timbuktu.secret|Timbuktu.secret]] 
 

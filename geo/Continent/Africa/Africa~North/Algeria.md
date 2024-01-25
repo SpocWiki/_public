@@ -136,7 +136,7 @@ markerFolder: ./Algeria//
 ## Confidential Links & Embeds: 
 -[[Algeria|Algeria]]] 
 -[[../../../../../_internal/geo/Continent/Africa/Algeria.internal|Algeria.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria.protect.md|Algeria.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria.private.md|Algeria.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria.personal.md|Algeria.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria.secret.md|Algeria.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria.protect|Algeria.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria.private|Algeria.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria.personal|Algeria.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria.secret|Algeria.secret]] 

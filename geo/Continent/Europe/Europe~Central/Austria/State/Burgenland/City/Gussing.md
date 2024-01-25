@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gussing.md|Gussing]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gussing.internal.md|Gussing.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gussing.protect.md|Gussing.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gussing.private.md|Gussing.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gussing.personal.md|Gussing.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gussing.secret.md|Gussing.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gussing.internal|Gussing.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gussing.protect|Gussing.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gussing.private|Gussing.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gussing.personal|Gussing.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gussing.secret|Gussing.secret]] 

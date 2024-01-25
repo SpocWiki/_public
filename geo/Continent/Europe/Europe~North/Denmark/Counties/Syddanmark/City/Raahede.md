@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Raahede.md|Raahede]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Raahede.internal.md|Raahede.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Raahede.protect.md|Raahede.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Raahede.private.md|Raahede.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Raahede.personal.md|Raahede.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Raahede.secret.md|Raahede.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Raahede.internal|Raahede.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Raahede.protect|Raahede.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Raahede.private|Raahede.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Raahede.personal|Raahede.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Raahede.secret|Raahede.secret]] 

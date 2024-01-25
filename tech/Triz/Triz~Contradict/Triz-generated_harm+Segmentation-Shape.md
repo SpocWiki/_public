@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Segmentation-Shape]
 [SpocWebEntityId::25755]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.md|Triz-generated_harm+Segmentation-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.internal.md|Triz-generated_harm+Segmentation-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.protect.md|Triz-generated_harm+Segmentation-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.private.md|Triz-generated_harm+Segmentation-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.personal.md|Triz-generated_harm+Segmentation-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.secret.md|Triz-generated_harm+Segmentation-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.internal|Triz-generated_harm+Segmentation-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.protect|Triz-generated_harm+Segmentation-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.private|Triz-generated_harm+Segmentation-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.personal|Triz-generated_harm+Segmentation-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Shape.secret|Triz-generated_harm+Segmentation-Shape.secret]] 

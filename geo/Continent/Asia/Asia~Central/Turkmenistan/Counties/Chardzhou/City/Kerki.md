@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kerki.md|Kerki]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kerki.internal.md|Kerki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kerki.protect.md|Kerki.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kerki.private.md|Kerki.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kerki.personal.md|Kerki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kerki.secret.md|Kerki.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kerki.internal|Kerki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kerki.protect|Kerki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kerki.private|Kerki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kerki.personal|Kerki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kerki.secret|Kerki.secret]] 

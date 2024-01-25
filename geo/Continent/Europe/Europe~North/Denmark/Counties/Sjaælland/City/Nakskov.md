@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Nakskov.md|Nakskov]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nakskov.internal.md|Nakskov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nakskov.protect.md|Nakskov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Nakskov.private.md|Nakskov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nakskov.personal.md|Nakskov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nakskov.secret.md|Nakskov.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nakskov.internal|Nakskov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nakskov.protect|Nakskov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Nakskov.private|Nakskov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nakskov.personal|Nakskov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nakskov.secret|Nakskov.secret]] 

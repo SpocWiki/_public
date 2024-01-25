@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Stjarnsund.md|Stjarnsund]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stjarnsund.internal.md|Stjarnsund.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stjarnsund.protect.md|Stjarnsund.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Stjarnsund.private.md|Stjarnsund.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stjarnsund.personal.md|Stjarnsund.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stjarnsund.secret.md|Stjarnsund.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stjarnsund.internal|Stjarnsund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stjarnsund.protect|Stjarnsund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Stjarnsund.private|Stjarnsund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stjarnsund.personal|Stjarnsund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stjarnsund.secret|Stjarnsund.secret]] 

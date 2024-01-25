@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szecseny.md|Szecseny]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szecseny.internal.md|Szecseny.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szecseny.protect.md|Szecseny.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szecseny.private.md|Szecseny.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szecseny.personal.md|Szecseny.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szecseny.secret.md|Szecseny.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szecseny.internal|Szecseny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szecseny.protect|Szecseny.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szecseny.private|Szecseny.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szecseny.personal|Szecseny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szecseny.secret|Szecseny.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Saint_Lawrence/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.md|Saint_Lawrence]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.internal.md|Saint_Lawrence.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.protect.md|Saint_Lawrence.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.private.md|Saint_Lawrence.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.personal.md|Saint_Lawrence.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.secret.md|Saint_Lawrence.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.internal|Saint_Lawrence.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.protect|Saint_Lawrence.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.private|Saint_Lawrence.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.personal|Saint_Lawrence.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.secret|Saint_Lawrence.secret]] 
 

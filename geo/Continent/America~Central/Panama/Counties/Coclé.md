@@ -41,9 +41,9 @@ markerFolder: ./Coclé/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Coclé.md|Coclé]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Coclé.internal.md|Coclé.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Coclé.protect.md|Coclé.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Coclé.private.md|Coclé.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Coclé.personal.md|Coclé.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Coclé.secret.md|Coclé.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Coclé.internal|Coclé.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Coclé.protect|Coclé.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Coclé.private|Coclé.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Coclé.personal|Coclé.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Coclé.secret|Coclé.secret]] 
 

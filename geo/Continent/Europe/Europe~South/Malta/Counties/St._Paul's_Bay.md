@@ -41,9 +41,9 @@ markerFolder: ./St._Paul's_Bay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.md|St._Paul's_Bay]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.internal.md|St._Paul's_Bay.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.protect.md|St._Paul's_Bay.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.private.md|St._Paul's_Bay.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.personal.md|St._Paul's_Bay.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.secret.md|St._Paul's_Bay.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.internal|St._Paul's_Bay.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.protect|St._Paul's_Bay.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.private|St._Paul's_Bay.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.personal|St._Paul's_Bay.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/St._Paul's_Bay.secret|St._Paul's_Bay.secret]] 
 

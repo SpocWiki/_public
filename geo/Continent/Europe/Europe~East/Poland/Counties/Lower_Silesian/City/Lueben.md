@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lueben.md|Lueben]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lueben.internal.md|Lueben.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lueben.protect.md|Lueben.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lueben.private.md|Lueben.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lueben.personal.md|Lueben.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lueben.secret.md|Lueben.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lueben.internal|Lueben.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lueben.protect|Lueben.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lueben.private|Lueben.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lueben.personal|Lueben.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lueben.secret|Lueben.secret]] 

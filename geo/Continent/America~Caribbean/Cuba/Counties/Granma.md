@@ -41,9 +41,9 @@ markerFolder: ./Granma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Granma.md|Granma]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Granma.internal.md|Granma.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Granma.protect.md|Granma.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Granma.private.md|Granma.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Granma.personal.md|Granma.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Granma.secret.md|Granma.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Granma.internal|Granma.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Granma.protect|Granma.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Granma.private|Granma.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Granma.personal|Granma.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Granma.secret|Granma.secret]] 
 

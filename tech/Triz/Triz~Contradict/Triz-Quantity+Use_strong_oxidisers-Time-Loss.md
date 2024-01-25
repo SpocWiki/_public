@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Use_strong_oxidisers-Time-Loss]
 [SpocWebEntityId::25183]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.md|Triz-Quantity+Use_strong_oxidisers-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.internal.md|Triz-Quantity+Use_strong_oxidisers-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.protect.md|Triz-Quantity+Use_strong_oxidisers-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.private.md|Triz-Quantity+Use_strong_oxidisers-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.personal.md|Triz-Quantity+Use_strong_oxidisers-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.secret.md|Triz-Quantity+Use_strong_oxidisers-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.internal|Triz-Quantity+Use_strong_oxidisers-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.protect|Triz-Quantity+Use_strong_oxidisers-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.private|Triz-Quantity+Use_strong_oxidisers-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.personal|Triz-Quantity+Use_strong_oxidisers-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.secret|Triz-Quantity+Use_strong_oxidisers-Time-Loss.secret]] 

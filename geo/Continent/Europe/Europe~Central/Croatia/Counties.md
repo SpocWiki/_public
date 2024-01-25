@@ -41,9 +41,9 @@ markerFolder: ./Counties/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties.md|Counties]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties.internal.md|Counties.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties.protect.md|Counties.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties.private.md|Counties.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties.personal.md|Counties.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties.secret.md|Counties.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties.internal|Counties.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties.protect|Counties.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties.private|Counties.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties.personal|Counties.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties.secret|Counties.secret]] 
 

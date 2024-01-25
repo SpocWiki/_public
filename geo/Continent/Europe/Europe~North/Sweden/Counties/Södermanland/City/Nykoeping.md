@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Nykoeping.md|Nykoeping]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Nykoeping.internal.md|Nykoeping.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Nykoeping.protect.md|Nykoeping.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Nykoeping.private.md|Nykoeping.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Nykoeping.personal.md|Nykoeping.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Nykoeping.secret.md|Nykoeping.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Nykoeping.internal|Nykoeping.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Nykoeping.protect|Nykoeping.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Nykoeping.private|Nykoeping.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Nykoeping.personal|Nykoeping.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Nykoeping.secret|Nykoeping.secret]] 

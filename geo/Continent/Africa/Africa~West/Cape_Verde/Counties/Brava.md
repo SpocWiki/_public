@@ -41,9 +41,9 @@ markerFolder: ./Brava/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Brava.md|Brava]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Brava.internal.md|Brava.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Brava.protect.md|Brava.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Brava.private.md|Brava.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Brava.personal.md|Brava.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Brava.secret.md|Brava.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Brava.internal|Brava.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Brava.protect|Brava.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Brava.private|Brava.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Brava.personal|Brava.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Brava.secret|Brava.secret]] 
 

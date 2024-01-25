@@ -41,9 +41,9 @@ markerFolder: ./Benue/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Benue.md|Benue]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Benue.internal.md|Benue.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Benue.protect.md|Benue.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Benue.private.md|Benue.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Benue.personal.md|Benue.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Benue.secret.md|Benue.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Benue.internal|Benue.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Benue.protect|Benue.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Benue.private|Benue.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Benue.personal|Benue.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Benue.secret|Benue.secret]] 
 

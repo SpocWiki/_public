@@ -41,9 +41,9 @@ markerFolder: ./Sidi_Bou_Zid/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.md|Sidi_Bou_Zid]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.internal.md|Sidi_Bou_Zid.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.protect.md|Sidi_Bou_Zid.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.private.md|Sidi_Bou_Zid.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.personal.md|Sidi_Bou_Zid.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.secret.md|Sidi_Bou_Zid.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.internal|Sidi_Bou_Zid.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.protect|Sidi_Bou_Zid.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.private|Sidi_Bou_Zid.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.personal|Sidi_Bou_Zid.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.secret|Sidi_Bou_Zid.secret]] 
 

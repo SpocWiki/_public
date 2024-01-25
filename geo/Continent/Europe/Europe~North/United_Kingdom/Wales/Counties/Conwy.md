@@ -41,9 +41,9 @@ markerFolder: ./Conwy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.md|Conwy]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.internal.md|Conwy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.protect.md|Conwy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.private.md|Conwy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.personal.md|Conwy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.secret.md|Conwy.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.internal|Conwy.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.protect|Conwy.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.private|Conwy.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.personal|Conwy.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Conwy.secret|Conwy.secret]] 
 

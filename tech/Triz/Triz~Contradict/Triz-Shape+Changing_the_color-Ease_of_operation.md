@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Changing_the_color-Ease_of_operation]
 [SpocWebEntityId::23804]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.md|Triz-Shape+Changing_the_color-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.internal.md|Triz-Shape+Changing_the_color-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.protect.md|Triz-Shape+Changing_the_color-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.private.md|Triz-Shape+Changing_the_color-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.personal.md|Triz-Shape+Changing_the_color-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.secret.md|Triz-Shape+Changing_the_color-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.internal|Triz-Shape+Changing_the_color-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.protect|Triz-Shape+Changing_the_color-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.private|Triz-Shape+Changing_the_color-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.personal|Triz-Shape+Changing_the_color-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Ease_of_operation.secret|Triz-Shape+Changing_the_color-Ease_of_operation.secret]] 

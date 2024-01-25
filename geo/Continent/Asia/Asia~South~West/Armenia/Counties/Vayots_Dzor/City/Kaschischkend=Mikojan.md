@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.md|Kaschischkend=Mikojan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.internal.md|Kaschischkend=Mikojan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.protect.md|Kaschischkend=Mikojan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.private.md|Kaschischkend=Mikojan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.personal.md|Kaschischkend=Mikojan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.secret.md|Kaschischkend=Mikojan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.internal|Kaschischkend=Mikojan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.protect|Kaschischkend=Mikojan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.private|Kaschischkend=Mikojan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.personal|Kaschischkend=Mikojan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.secret|Kaschischkend=Mikojan.secret]] 

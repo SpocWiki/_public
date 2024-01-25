@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Garda.md|Garda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Garda.internal.md|Garda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Garda.protect.md|Garda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Garda.private.md|Garda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Garda.personal.md|Garda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Garda.secret.md|Garda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Garda.internal|Garda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Garda.protect|Garda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Garda.private|Garda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Garda.personal|Garda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Garda.secret|Garda.secret]] 

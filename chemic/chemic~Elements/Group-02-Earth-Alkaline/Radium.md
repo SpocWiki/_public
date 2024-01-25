@@ -35,8 +35,8 @@ SpocWebEntityId: 21983
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Radium.md|Radium]] 
-- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Radium.internal.md|Radium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Radium.protect.md|Radium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Radium.private.md|Radium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Radium.personal.md|Radium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Radium.secret.md|Radium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Radium.internal|Radium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Radium.protect|Radium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Radium.private|Radium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Radium.personal|Radium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Radium.secret|Radium.secret]] 

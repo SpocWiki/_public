@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Aarhus.md|Aarhus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Aarhus.internal.md|Aarhus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Aarhus.protect.md|Aarhus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Aarhus.private.md|Aarhus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Aarhus.personal.md|Aarhus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Aarhus.secret.md|Aarhus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Aarhus.internal|Aarhus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Aarhus.protect|Aarhus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Aarhus.private|Aarhus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Aarhus.personal|Aarhus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Aarhus.secret|Aarhus.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Gipuzkoa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.md|Gipuzkoa]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.internal.md|Gipuzkoa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.protect.md|Gipuzkoa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.private.md|Gipuzkoa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.personal.md|Gipuzkoa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.secret.md|Gipuzkoa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.internal|Gipuzkoa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.protect|Gipuzkoa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.private|Gipuzkoa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.personal|Gipuzkoa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Basque/Gipuzkoa.secret|Gipuzkoa.secret]] 
 

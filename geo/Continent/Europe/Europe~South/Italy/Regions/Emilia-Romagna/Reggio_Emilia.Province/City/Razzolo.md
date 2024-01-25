@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Razzolo.md|Razzolo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Razzolo.internal.md|Razzolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Razzolo.protect.md|Razzolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Razzolo.private.md|Razzolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Razzolo.personal.md|Razzolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Razzolo.secret.md|Razzolo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Razzolo.internal|Razzolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Razzolo.protect|Razzolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Razzolo.private|Razzolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Razzolo.personal|Razzolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Razzolo.secret|Razzolo.secret]] 

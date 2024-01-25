@@ -41,9 +41,9 @@ markerFolder: ./Akita/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.md|Akita]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.internal.md|Akita.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.protect.md|Akita.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.private.md|Akita.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.personal.md|Akita.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.secret.md|Akita.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.internal|Akita.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.protect|Akita.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.private|Akita.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.personal|Akita.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.secret|Akita.secret]] 
 

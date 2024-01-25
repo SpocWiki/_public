@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Extraction-Stress]
 [SpocWebEntityId::25979]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.md|Triz-Ease_of_operation+Extraction-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.internal.md|Triz-Ease_of_operation+Extraction-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.protect.md|Triz-Ease_of_operation+Extraction-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.private.md|Triz-Ease_of_operation+Extraction-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.personal.md|Triz-Ease_of_operation+Extraction-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.secret.md|Triz-Ease_of_operation+Extraction-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.internal|Triz-Ease_of_operation+Extraction-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.protect|Triz-Ease_of_operation+Extraction-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.private|Triz-Ease_of_operation+Extraction-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.personal|Triz-Ease_of_operation+Extraction-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.secret|Triz-Ease_of_operation+Extraction-Stress.secret]] 

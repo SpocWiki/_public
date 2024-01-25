@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Lipetsk_Oblast|State~Lipetsk_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.internal|State~Lipetsk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.protect.md|State~Lipetsk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.private.md|State~Lipetsk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.personal.md|State~Lipetsk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.secret.md|State~Lipetsk_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.protect|State~Lipetsk_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.private|State~Lipetsk_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.personal|State~Lipetsk_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Lipetsk_Oblast.secret|State~Lipetsk_Oblast.secret]] 

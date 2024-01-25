@@ -41,9 +41,9 @@ markerFolder: ./Western_Darfur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Western_Darfur.md|Western_Darfur]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Western_Darfur.internal.md|Western_Darfur.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Western_Darfur.protect.md|Western_Darfur.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Western_Darfur.private.md|Western_Darfur.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Western_Darfur.personal.md|Western_Darfur.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Western_Darfur.secret.md|Western_Darfur.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Western_Darfur.internal|Western_Darfur.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Western_Darfur.protect|Western_Darfur.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Western_Darfur.private|Western_Darfur.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Western_Darfur.personal|Western_Darfur.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Western_Darfur.secret|Western_Darfur.secret]] 
 

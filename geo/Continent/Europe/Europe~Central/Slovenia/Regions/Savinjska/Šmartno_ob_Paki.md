@@ -41,9 +41,9 @@ markerFolder: ./Šmartno_ob_Paki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.md|Šmartno_ob_Paki]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.internal.md|Šmartno_ob_Paki.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.protect.md|Šmartno_ob_Paki.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.private.md|Šmartno_ob_Paki.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.personal.md|Šmartno_ob_Paki.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.secret.md|Šmartno_ob_Paki.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.internal|Šmartno_ob_Paki.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.protect|Šmartno_ob_Paki.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.private|Šmartno_ob_Paki.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.personal|Šmartno_ob_Paki.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šmartno_ob_Paki.secret|Šmartno_ob_Paki.secret]] 
 

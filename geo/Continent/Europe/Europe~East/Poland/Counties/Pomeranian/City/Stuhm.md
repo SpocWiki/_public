@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Stuhm.md|Stuhm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stuhm.internal.md|Stuhm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stuhm.protect.md|Stuhm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stuhm.private.md|Stuhm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stuhm.personal.md|Stuhm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stuhm.secret.md|Stuhm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stuhm.internal|Stuhm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stuhm.protect|Stuhm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stuhm.private|Stuhm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stuhm.personal|Stuhm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stuhm.secret|Stuhm.secret]] 

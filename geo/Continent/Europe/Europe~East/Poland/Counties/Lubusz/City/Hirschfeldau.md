@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hirschfeldau.md|Hirschfeldau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hirschfeldau.internal.md|Hirschfeldau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hirschfeldau.protect.md|Hirschfeldau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hirschfeldau.private.md|Hirschfeldau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hirschfeldau.personal.md|Hirschfeldau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hirschfeldau.secret.md|Hirschfeldau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hirschfeldau.internal|Hirschfeldau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hirschfeldau.protect|Hirschfeldau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hirschfeldau.private|Hirschfeldau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hirschfeldau.personal|Hirschfeldau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hirschfeldau.secret|Hirschfeldau.secret]] 

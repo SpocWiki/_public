@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tesebend.md|Tesebend]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tesebend.internal.md|Tesebend.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tesebend.protect.md|Tesebend.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tesebend.private.md|Tesebend.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tesebend.personal.md|Tesebend.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tesebend.secret.md|Tesebend.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tesebend.internal|Tesebend.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tesebend.protect|Tesebend.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tesebend.private|Tesebend.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tesebend.personal|Tesebend.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tesebend.secret|Tesebend.secret]] 

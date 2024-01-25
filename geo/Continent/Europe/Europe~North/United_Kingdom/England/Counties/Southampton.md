@@ -41,9 +41,9 @@ markerFolder: ./Southampton/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.md|Southampton]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.internal.md|Southampton.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.protect.md|Southampton.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.private.md|Southampton.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.personal.md|Southampton.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.secret.md|Southampton.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.internal|Southampton.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.protect|Southampton.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.private|Southampton.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.personal|Southampton.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.secret|Southampton.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./An-Najaf/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.md|An-Najaf]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.internal.md|An-Najaf.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.protect.md|An-Najaf.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.private.md|An-Najaf.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.personal.md|An-Najaf.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.secret.md|An-Najaf.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.internal|An-Najaf.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.protect|An-Najaf.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.private|An-Najaf.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.personal|An-Najaf.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.secret|An-Najaf.secret]] 
 

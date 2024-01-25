@@ -41,9 +41,9 @@ markerFolder: ./Dolenjske_Toplice/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.md|Dolenjske_Toplice]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.internal.md|Dolenjske_Toplice.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.protect.md|Dolenjske_Toplice.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.private.md|Dolenjske_Toplice.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.personal.md|Dolenjske_Toplice.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.secret.md|Dolenjske_Toplice.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.internal|Dolenjske_Toplice.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.protect|Dolenjske_Toplice.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.private|Dolenjske_Toplice.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.personal|Dolenjske_Toplice.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Jugovzhodna_Slovenija~Southeast/Dolenjske_Toplice.secret|Dolenjske_Toplice.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Upper_Takutu-Upper_Essequibo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.md|Upper_Takutu-Upper_Essequibo]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.internal.md|Upper_Takutu-Upper_Essequibo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.protect.md|Upper_Takutu-Upper_Essequibo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.private.md|Upper_Takutu-Upper_Essequibo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.personal.md|Upper_Takutu-Upper_Essequibo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.secret.md|Upper_Takutu-Upper_Essequibo.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.internal|Upper_Takutu-Upper_Essequibo.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.protect|Upper_Takutu-Upper_Essequibo.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.private|Upper_Takutu-Upper_Essequibo.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.personal|Upper_Takutu-Upper_Essequibo.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.secret|Upper_Takutu-Upper_Essequibo.secret]] 
 

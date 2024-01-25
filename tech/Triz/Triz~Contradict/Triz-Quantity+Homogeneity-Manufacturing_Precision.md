@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Homogeneity-Manufacturing_Precision]
 [SpocWebEntityId::25193]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Homogeneity]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.md|Triz-Quantity+Homogeneity-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.internal.md|Triz-Quantity+Homogeneity-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.protect.md|Triz-Quantity+Homogeneity-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.private.md|Triz-Quantity+Homogeneity-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.personal.md|Triz-Quantity+Homogeneity-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.secret.md|Triz-Quantity+Homogeneity-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.internal|Triz-Quantity+Homogeneity-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.protect|Triz-Quantity+Homogeneity-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.private|Triz-Quantity+Homogeneity-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.personal|Triz-Quantity+Homogeneity-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.secret|Triz-Quantity+Homogeneity-Manufacturing_Precision.secret]] 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Electra.md|Electra]] 
-- [[../../../_internal/astro/Star/Electra.internal.md|Electra.internal]] 
-- [[../../../_protect/astro/Star/Electra.protect.md|Electra.protect]] 
-- [[../../../_private/astro/Star/Electra.private.md|Electra.private]] 
-- [[../../../_personal/astro/Star/Electra.personal.md|Electra.personal]] 
-- [[../../../_secret/astro/Star/Electra.secret.md|Electra.secret]]
+- [[../../../_internal/astro/Star/Electra.internal|Electra.internal]] 
+- [[../../../_protect/astro/Star/Electra.protect|Electra.protect]] 
+- [[../../../_private/astro/Star/Electra.private|Electra.private]] 
+- [[../../../_personal/astro/Star/Electra.personal|Electra.personal]] 
+- [[../../../_secret/astro/Star/Electra.secret|Electra.secret]]
 

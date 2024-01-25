@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]
 [SpocWebEntityId::25538]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.md|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal.md|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect.md|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private.md|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal.md|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret.md|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret]] 

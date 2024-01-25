@@ -41,9 +41,9 @@ markerFolder: ./Archipel_des_Kerguelen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.md|Archipel_des_Kerguelen]] 
-- [[../../../../_internal/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.internal.md|Archipel_des_Kerguelen.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.protect.md|Archipel_des_Kerguelen.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.private.md|Archipel_des_Kerguelen.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.personal.md|Archipel_des_Kerguelen.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.secret.md|Archipel_des_Kerguelen.secret]] 
+- [[../../../../_internal/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.internal|Archipel_des_Kerguelen.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.protect|Archipel_des_Kerguelen.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.private|Archipel_des_Kerguelen.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.personal|Archipel_des_Kerguelen.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen.secret|Archipel_des_Kerguelen.secret]] 
 

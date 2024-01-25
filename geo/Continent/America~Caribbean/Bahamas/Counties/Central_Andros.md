@@ -41,9 +41,9 @@ markerFolder: ./Central_Andros/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.md|Central_Andros]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.internal.md|Central_Andros.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.protect.md|Central_Andros.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.private.md|Central_Andros.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.personal.md|Central_Andros.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.secret.md|Central_Andros.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.internal|Central_Andros.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.protect|Central_Andros.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.private|Central_Andros.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.personal|Central_Andros.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Andros.secret|Central_Andros.secret]] 
 

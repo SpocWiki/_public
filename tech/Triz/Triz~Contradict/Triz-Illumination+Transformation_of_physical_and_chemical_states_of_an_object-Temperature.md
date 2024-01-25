@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]
 [SpocWebEntityId::24380]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret]] 

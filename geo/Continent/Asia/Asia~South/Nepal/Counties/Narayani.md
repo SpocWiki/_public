@@ -41,9 +41,9 @@ markerFolder: ./Narayani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.md|Narayani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.internal.md|Narayani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.protect.md|Narayani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.private.md|Narayani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.personal.md|Narayani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.secret.md|Narayani.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.internal|Narayani.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.protect|Narayani.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.private|Narayani.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.personal|Narayani.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.secret|Narayani.secret]] 
 

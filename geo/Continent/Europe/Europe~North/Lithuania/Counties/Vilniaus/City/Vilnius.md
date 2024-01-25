@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Lithuania/City/Vilnius.md|Vilnius]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Lithuania/City/Vilnius.internal.md|Vilnius.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Lithuania/City/Vilnius.protect.md|Vilnius.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Lithuania/City/Vilnius.private.md|Vilnius.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Lithuania/City/Vilnius.personal.md|Vilnius.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Lithuania/City/Vilnius.secret.md|Vilnius.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Lithuania/City/Vilnius.internal|Vilnius.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Lithuania/City/Vilnius.protect|Vilnius.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Lithuania/City/Vilnius.private|Vilnius.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Lithuania/City/Vilnius.personal|Vilnius.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Lithuania/City/Vilnius.secret|Vilnius.secret]] 

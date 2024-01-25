@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Geminorum-8.md|Geminorum-8]] 
-- [[../../../_internal/astro/Star/Geminorum-8.internal.md|Geminorum-8.internal]] 
-- [[../../../_protect/astro/Star/Geminorum-8.protect.md|Geminorum-8.protect]] 
-- [[../../../_private/astro/Star/Geminorum-8.private.md|Geminorum-8.private]] 
-- [[../../../_personal/astro/Star/Geminorum-8.personal.md|Geminorum-8.personal]] 
-- [[../../../_secret/astro/Star/Geminorum-8.secret.md|Geminorum-8.secret]]
+- [[../../../_internal/astro/Star/Geminorum-8.internal|Geminorum-8.internal]] 
+- [[../../../_protect/astro/Star/Geminorum-8.protect|Geminorum-8.protect]] 
+- [[../../../_private/astro/Star/Geminorum-8.private|Geminorum-8.private]] 
+- [[../../../_personal/astro/Star/Geminorum-8.personal|Geminorum-8.personal]] 
+- [[../../../_secret/astro/Star/Geminorum-8.secret|Geminorum-8.secret]]
 

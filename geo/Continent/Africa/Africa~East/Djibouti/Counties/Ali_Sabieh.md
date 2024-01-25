@@ -41,9 +41,9 @@ markerFolder: ./Ali_Sabieh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.md|Ali_Sabieh]] 
-- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.internal.md|Ali_Sabieh.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.protect.md|Ali_Sabieh.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.private.md|Ali_Sabieh.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.personal.md|Ali_Sabieh.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.secret.md|Ali_Sabieh.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.internal|Ali_Sabieh.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.protect|Ali_Sabieh.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.private|Ali_Sabieh.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.personal|Ali_Sabieh.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.secret|Ali_Sabieh.secret]] 
 

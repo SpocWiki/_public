@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Scowen.md|Scowen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Scowen.internal.md|Scowen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Scowen.protect.md|Scowen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Scowen.private.md|Scowen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Scowen.personal.md|Scowen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Scowen.secret.md|Scowen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Scowen.internal|Scowen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Scowen.protect|Scowen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Scowen.private|Scowen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Scowen.personal|Scowen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Scowen.secret|Scowen.secret]] 

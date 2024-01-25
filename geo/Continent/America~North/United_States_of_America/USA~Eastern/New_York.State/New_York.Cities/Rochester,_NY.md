@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.md|Rochester,_NY]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.internal.md|Rochester,_NY.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.protect.md|Rochester,_NY.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.private.md|Rochester,_NY.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.personal.md|Rochester,_NY.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.secret.md|Rochester,_NY.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.internal|Rochester,_NY.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.protect|Rochester,_NY.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.private|Rochester,_NY.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.personal|Rochester,_NY.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.secret|Rochester,_NY.secret]] 

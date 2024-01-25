@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Koschkow.md|Koschkow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Koschkow.internal.md|Koschkow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Koschkow.protect.md|Koschkow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Koschkow.private.md|Koschkow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Koschkow.personal.md|Koschkow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Koschkow.secret.md|Koschkow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Koschkow.internal|Koschkow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Koschkow.protect|Koschkow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Koschkow.private|Koschkow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Koschkow.personal|Koschkow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Koschkow.secret|Koschkow.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Self-service-stationary_Weight]
 [SpocWebEntityId::25364]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.md|Triz-Measurement_Accuracy+Self-service-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.internal.md|Triz-Measurement_Accuracy+Self-service-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.protect.md|Triz-Measurement_Accuracy+Self-service-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.private.md|Triz-Measurement_Accuracy+Self-service-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.personal.md|Triz-Measurement_Accuracy+Self-service-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.secret.md|Triz-Measurement_Accuracy+Self-service-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.internal|Triz-Measurement_Accuracy+Self-service-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.protect|Triz-Measurement_Accuracy+Self-service-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.private|Triz-Measurement_Accuracy+Self-service-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.personal|Triz-Measurement_Accuracy+Self-service-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-stationary_Weight.secret|Triz-Measurement_Accuracy+Self-service-stationary_Weight.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Rotenburg~Fulda|Rotenburg~Fulda]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.internal.md|Rotenburg~Fulda.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.protect.md|Rotenburg~Fulda.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.private.md|Rotenburg~Fulda.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.personal.md|Rotenburg~Fulda.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.secret.md|Rotenburg~Fulda.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.internal|Rotenburg~Fulda.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.protect|Rotenburg~Fulda.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.private|Rotenburg~Fulda.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.personal|Rotenburg~Fulda.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.secret|Rotenburg~Fulda.secret]] 

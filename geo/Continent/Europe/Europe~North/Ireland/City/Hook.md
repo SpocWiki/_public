@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Hook.md|Hook]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Hook.internal.md|Hook.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Hook.protect.md|Hook.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Hook.private.md|Hook.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Hook.personal.md|Hook.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Hook.secret.md|Hook.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Hook.internal|Hook.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Hook.protect|Hook.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Hook.private|Hook.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Hook.personal|Hook.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Hook.secret|Hook.secret]] 

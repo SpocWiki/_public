@@ -41,9 +41,9 @@ markerFolder: ./Castellón/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.md|Castellón]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.internal.md|Castellón.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.protect.md|Castellón.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.private.md|Castellón.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.personal.md|Castellón.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.secret.md|Castellón.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.internal|Castellón.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.protect|Castellón.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.private|Castellón.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.personal|Castellón.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Valencia/Castellón.secret|Castellón.secret]] 
 

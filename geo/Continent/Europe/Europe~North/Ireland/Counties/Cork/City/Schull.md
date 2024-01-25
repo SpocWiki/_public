@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Schull.md|Schull]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Schull.internal.md|Schull.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Schull.protect.md|Schull.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Schull.private.md|Schull.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Schull.personal.md|Schull.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Schull.secret.md|Schull.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Schull.internal|Schull.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Schull.protect|Schull.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Schull.private|Schull.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Schull.personal|Schull.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Schull.secret|Schull.secret]] 

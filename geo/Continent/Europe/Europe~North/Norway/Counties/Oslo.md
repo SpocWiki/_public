@@ -41,9 +41,9 @@ markerFolder: ./Oslo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Oslo.md|Oslo]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Oslo.internal.md|Oslo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Oslo.protect.md|Oslo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Oslo.private.md|Oslo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Oslo.personal.md|Oslo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Oslo.secret.md|Oslo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Oslo.internal|Oslo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Oslo.protect|Oslo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Oslo.private|Oslo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Oslo.personal|Oslo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Oslo.secret|Oslo.secret]] 
 

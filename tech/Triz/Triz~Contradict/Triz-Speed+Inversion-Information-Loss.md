@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Inversion-Information-Loss]
 [SpocWebEntityId::23426]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.md|Triz-Speed+Inversion-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.internal.md|Triz-Speed+Inversion-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.protect.md|Triz-Speed+Inversion-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.private.md|Triz-Speed+Inversion-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.personal.md|Triz-Speed+Inversion-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.secret.md|Triz-Speed+Inversion-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.internal|Triz-Speed+Inversion-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.protect|Triz-Speed+Inversion-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.private|Triz-Speed+Inversion-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.personal|Triz-Speed+Inversion-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.secret|Triz-Speed+Inversion-Information-Loss.secret]] 

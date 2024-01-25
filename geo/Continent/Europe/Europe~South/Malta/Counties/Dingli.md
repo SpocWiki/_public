@@ -41,9 +41,9 @@ markerFolder: ./Dingli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Dingli.md|Dingli]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Dingli.internal.md|Dingli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Dingli.protect.md|Dingli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Dingli.private.md|Dingli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Dingli.personal.md|Dingli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Dingli.secret.md|Dingli.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Dingli.internal|Dingli.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Dingli.protect|Dingli.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Dingli.private|Dingli.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Dingli.personal|Dingli.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Dingli.secret|Dingli.secret]] 
 

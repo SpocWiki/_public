@@ -41,9 +41,9 @@ markerFolder: ./Département~Paris/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.md|Département~Paris]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.internal.md|Département~Paris.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.protect.md|Département~Paris.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.private.md|Département~Paris.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.personal.md|Département~Paris.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.secret.md|Département~Paris.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.internal|Département~Paris.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.protect|Département~Paris.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.private|Département~Paris.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.personal|Département~Paris.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Paris.secret|Département~Paris.secret]] 
 

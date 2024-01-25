@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Paimio.md|Paimio]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Paimio.internal.md|Paimio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Paimio.protect.md|Paimio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Paimio.private.md|Paimio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Paimio.personal.md|Paimio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Paimio.secret.md|Paimio.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Paimio.internal|Paimio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Paimio.protect|Paimio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Paimio.private|Paimio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Paimio.personal|Paimio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Paimio.secret|Paimio.secret]] 

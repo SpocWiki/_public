@@ -41,9 +41,9 @@ markerFolder: ./Gorenja_vas-Poljane/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.md|Gorenja_vas-Poljane]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.internal.md|Gorenja_vas-Poljane.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.protect.md|Gorenja_vas-Poljane.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.private.md|Gorenja_vas-Poljane.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.personal.md|Gorenja_vas-Poljane.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.secret.md|Gorenja_vas-Poljane.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.internal|Gorenja_vas-Poljane.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.protect|Gorenja_vas-Poljane.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.private|Gorenja_vas-Poljane.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.personal|Gorenja_vas-Poljane.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Gorenjska~Upper_Carniola/Gorenja_vas-Poljane.secret|Gorenja_vas-Poljane.secret]] 
 

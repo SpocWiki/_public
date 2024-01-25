@@ -41,9 +41,9 @@ markerFolder: ./Ekiti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ekiti.md|Ekiti]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ekiti.internal.md|Ekiti.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ekiti.protect.md|Ekiti.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ekiti.private.md|Ekiti.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ekiti.personal.md|Ekiti.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ekiti.secret.md|Ekiti.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ekiti.internal|Ekiti.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ekiti.protect|Ekiti.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ekiti.private|Ekiti.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ekiti.personal|Ekiti.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ekiti.secret|Ekiti.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Corozal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Belize/Counties/Corozal.md|Corozal]] 
-- [[../../../../_internal/geo/Continent/America~Central/Belize/Counties/Corozal.internal.md|Corozal.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Belize/Counties/Corozal.protect.md|Corozal.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Belize/Counties/Corozal.private.md|Corozal.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Belize/Counties/Corozal.personal.md|Corozal.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Belize/Counties/Corozal.secret.md|Corozal.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Belize/Counties/Corozal.internal|Corozal.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Belize/Counties/Corozal.protect|Corozal.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Belize/Counties/Corozal.private|Corozal.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Belize/Counties/Corozal.personal|Corozal.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Belize/Counties/Corozal.secret|Corozal.secret]] 
 

@@ -129,7 +129,7 @@ markerFolder: ./Armenia/
 ## Confidential Links & Embeds: 
 -[[Armenia|Armenia]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Armenia.internal|Armenia.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Armenia.protect.md|Armenia.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Armenia.private.md|Armenia.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Armenia.personal.md|Armenia.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Armenia.secret.md|Armenia.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Armenia.protect|Armenia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Armenia.private|Armenia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Armenia.personal|Armenia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Armenia.secret|Armenia.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Piandelagotti.md|Piandelagotti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piandelagotti.internal.md|Piandelagotti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piandelagotti.protect.md|Piandelagotti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piandelagotti.private.md|Piandelagotti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piandelagotti.personal.md|Piandelagotti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piandelagotti.secret.md|Piandelagotti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piandelagotti.internal|Piandelagotti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piandelagotti.protect|Piandelagotti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piandelagotti.private|Piandelagotti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piandelagotti.personal|Piandelagotti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piandelagotti.secret|Piandelagotti.secret]] 

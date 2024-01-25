@@ -41,9 +41,9 @@ markerFolder: ./Štip/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Štip.md|Štip]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Štip.internal.md|Štip.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Štip.protect.md|Štip.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Štip.private.md|Štip.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Štip.personal.md|Štip.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Štip.secret.md|Štip.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Štip.internal|Štip.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Štip.protect|Štip.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Štip.private|Štip.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Štip.personal|Štip.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Štip.secret|Štip.secret]] 
 

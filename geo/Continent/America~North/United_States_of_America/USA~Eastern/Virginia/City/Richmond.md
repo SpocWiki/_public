@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.md|Richmond]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.internal.md|Richmond.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.protect.md|Richmond.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.private.md|Richmond.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.personal.md|Richmond.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.secret.md|Richmond.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.internal|Richmond.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.protect|Richmond.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.private|Richmond.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.personal|Richmond.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.secret|Richmond.secret]] 

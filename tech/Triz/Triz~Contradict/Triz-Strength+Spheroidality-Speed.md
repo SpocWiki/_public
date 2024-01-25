@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Spheroidality-Speed]
 [SpocWebEntityId::23980]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.md|Triz-Strength+Spheroidality-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.internal.md|Triz-Strength+Spheroidality-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.protect.md|Triz-Strength+Spheroidality-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.private.md|Triz-Strength+Spheroidality-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.personal.md|Triz-Strength+Spheroidality-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.secret.md|Triz-Strength+Spheroidality-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.internal|Triz-Strength+Spheroidality-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.protect|Triz-Strength+Spheroidality-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.private|Triz-Strength+Spheroidality-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.personal|Triz-Strength+Spheroidality-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Spheroidality-Speed.secret|Triz-Strength+Spheroidality-Speed.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ségou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mali/Counties/Ségou.md|Ségou]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Ségou.internal.md|Ségou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Ségou.protect.md|Ségou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Ségou.private.md|Ségou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Ségou.personal.md|Ségou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Ségou.secret.md|Ségou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Ségou.internal|Ségou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Ségou.protect|Ségou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Ségou.private|Ségou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Ségou.personal|Ségou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Ségou.secret|Ségou.secret]] 
 

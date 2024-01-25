@@ -41,9 +41,9 @@ markerFolder: ./La_Spezia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.md|La_Spezia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.internal.md|La_Spezia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.protect.md|La_Spezia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.private.md|La_Spezia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.personal.md|La_Spezia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.secret.md|La_Spezia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.internal|La_Spezia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.protect|La_Spezia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.private|La_Spezia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.personal|La_Spezia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Liguria/La_Spezia.Province.secret|La_Spezia.Province.secret]] 
 

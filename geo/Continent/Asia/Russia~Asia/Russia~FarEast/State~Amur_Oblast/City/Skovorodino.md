@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Skovorodino.md|Skovorodino]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Skovorodino.internal.md|Skovorodino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Skovorodino.protect.md|Skovorodino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Skovorodino.private.md|Skovorodino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Skovorodino.personal.md|Skovorodino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Skovorodino.secret.md|Skovorodino.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Skovorodino.internal|Skovorodino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Skovorodino.protect|Skovorodino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Skovorodino.private|Skovorodino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Skovorodino.personal|Skovorodino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Skovorodino.secret|Skovorodino.secret]] 

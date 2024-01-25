@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Clonmel.md|Clonmel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Clonmel.internal.md|Clonmel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Clonmel.protect.md|Clonmel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Clonmel.private.md|Clonmel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Clonmel.personal.md|Clonmel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Clonmel.secret.md|Clonmel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Clonmel.internal|Clonmel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Clonmel.protect|Clonmel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Clonmel.private|Clonmel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Clonmel.personal|Clonmel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Clonmel.secret|Clonmel.secret]] 

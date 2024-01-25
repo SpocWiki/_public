@@ -41,9 +41,9 @@ markerFolder: ./Département~Creuse/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.md|Département~Creuse]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.internal.md|Département~Creuse.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.protect.md|Département~Creuse.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.private.md|Département~Creuse.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.personal.md|Département~Creuse.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.secret.md|Département~Creuse.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.internal|Département~Creuse.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.protect|Département~Creuse.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.private|Département~Creuse.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.personal|Département~Creuse.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Creuse.secret|Département~Creuse.secret]] 
 

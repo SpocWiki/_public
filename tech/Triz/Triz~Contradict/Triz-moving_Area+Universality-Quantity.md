@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Universality-Quantity]
 [SpocWebEntityId::23058]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.md|Triz-moving_Area+Universality-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.internal.md|Triz-moving_Area+Universality-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.protect.md|Triz-moving_Area+Universality-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.private.md|Triz-moving_Area+Universality-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.personal.md|Triz-moving_Area+Universality-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.secret.md|Triz-moving_Area+Universality-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.internal|Triz-moving_Area+Universality-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.protect|Triz-moving_Area+Universality-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.private|Triz-moving_Area+Universality-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.personal|Triz-moving_Area+Universality-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.secret|Triz-moving_Area+Universality-Quantity.secret]] 

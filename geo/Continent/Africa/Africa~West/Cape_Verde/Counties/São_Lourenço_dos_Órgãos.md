@@ -41,9 +41,9 @@ markerFolder: ./São_Lourenço_dos_Órgãos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.md|São_Lourenço_dos_Órgãos]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.internal.md|São_Lourenço_dos_Órgãos.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.protect.md|São_Lourenço_dos_Órgãos.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.private.md|São_Lourenço_dos_Órgãos.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.personal.md|São_Lourenço_dos_Órgãos.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.secret.md|São_Lourenço_dos_Órgãos.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.internal|São_Lourenço_dos_Órgãos.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.protect|São_Lourenço_dos_Órgãos.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.private|São_Lourenço_dos_Órgãos.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.personal|São_Lourenço_dos_Órgãos.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.secret|São_Lourenço_dos_Órgãos.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.md|Wloklawek=Leslau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.internal.md|Wloklawek=Leslau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.protect.md|Wloklawek=Leslau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.private.md|Wloklawek=Leslau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.personal.md|Wloklawek=Leslau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.secret.md|Wloklawek=Leslau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.internal|Wloklawek=Leslau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.protect|Wloklawek=Leslau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.private|Wloklawek=Leslau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.personal|Wloklawek=Leslau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.secret|Wloklawek=Leslau.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Welisch.md|Welisch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Welisch.internal.md|Welisch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Welisch.protect.md|Welisch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Welisch.private.md|Welisch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Welisch.personal.md|Welisch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Welisch.secret.md|Welisch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Welisch.internal|Welisch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Welisch.protect|Welisch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Welisch.private|Welisch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Welisch.personal|Welisch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Welisch.secret|Welisch.secret]] 

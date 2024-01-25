@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Blackrock.md|Blackrock]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Blackrock.internal.md|Blackrock.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Blackrock.protect.md|Blackrock.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Blackrock.private.md|Blackrock.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Blackrock.personal.md|Blackrock.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Blackrock.secret.md|Blackrock.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Blackrock.internal|Blackrock.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Blackrock.protect|Blackrock.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Blackrock.private|Blackrock.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Blackrock.personal|Blackrock.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Blackrock.secret|Blackrock.secret]] 

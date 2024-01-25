@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kavalla.md|Kavalla]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kavalla.internal.md|Kavalla.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kavalla.protect.md|Kavalla.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kavalla.private.md|Kavalla.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kavalla.personal.md|Kavalla.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kavalla.secret.md|Kavalla.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kavalla.internal|Kavalla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kavalla.protect|Kavalla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kavalla.private|Kavalla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kavalla.personal|Kavalla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kavalla.secret|Kavalla.secret]] 

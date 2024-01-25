@@ -41,9 +41,9 @@ markerFolder: ./Kagawa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.md|Kagawa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.internal.md|Kagawa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.protect.md|Kagawa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.private.md|Kagawa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.personal.md|Kagawa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.secret.md|Kagawa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.internal|Kagawa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.protect|Kagawa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.private|Kagawa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.personal|Kagawa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.secret|Kagawa.secret]] 
 

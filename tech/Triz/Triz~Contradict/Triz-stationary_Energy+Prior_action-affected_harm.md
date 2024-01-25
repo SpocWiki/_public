@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Prior_action-affected_harm]
 [SpocWebEntityId::24566]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.md|Triz-stationary_Energy+Prior_action-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.internal.md|Triz-stationary_Energy+Prior_action-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.protect.md|Triz-stationary_Energy+Prior_action-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.private.md|Triz-stationary_Energy+Prior_action-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.personal.md|Triz-stationary_Energy+Prior_action-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.secret.md|Triz-stationary_Energy+Prior_action-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.internal|Triz-stationary_Energy+Prior_action-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.protect|Triz-stationary_Energy+Prior_action-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.private|Triz-stationary_Energy+Prior_action-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.personal|Triz-stationary_Energy+Prior_action-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Prior_action-affected_harm.secret|Triz-stationary_Energy+Prior_action-affected_harm.secret]] 

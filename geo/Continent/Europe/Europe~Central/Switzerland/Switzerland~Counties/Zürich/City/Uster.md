@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Uster.md|Uster]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Uster.internal.md|Uster.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Uster.protect.md|Uster.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Uster.private.md|Uster.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Uster.personal.md|Uster.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Uster.secret.md|Uster.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Uster.internal|Uster.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Uster.protect|Uster.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Uster.private|Uster.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Uster.personal|Uster.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Uster.secret|Uster.secret]] 

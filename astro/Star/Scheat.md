@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Scheat.md|Scheat]] 
-- [[../../../_internal/astro/Star/Scheat.internal.md|Scheat.internal]] 
-- [[../../../_protect/astro/Star/Scheat.protect.md|Scheat.protect]] 
-- [[../../../_private/astro/Star/Scheat.private.md|Scheat.private]] 
-- [[../../../_personal/astro/Star/Scheat.personal.md|Scheat.personal]] 
-- [[../../../_secret/astro/Star/Scheat.secret.md|Scheat.secret]] 
+- [[../../../_internal/astro/Star/Scheat.internal|Scheat.internal]] 
+- [[../../../_protect/astro/Star/Scheat.protect|Scheat.protect]] 
+- [[../../../_private/astro/Star/Scheat.private|Scheat.private]] 
+- [[../../../_personal/astro/Star/Scheat.personal|Scheat.personal]] 
+- [[../../../_secret/astro/Star/Scheat.secret|Scheat.secret]] 

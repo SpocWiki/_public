@@ -41,9 +41,9 @@ markerFolder: ./Bukhoro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.md|Bukhoro]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.internal.md|Bukhoro.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.protect.md|Bukhoro.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.private.md|Bukhoro.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.personal.md|Bukhoro.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.secret.md|Bukhoro.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.internal|Bukhoro.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.protect|Bukhoro.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.private|Bukhoro.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.personal|Bukhoro.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.secret|Bukhoro.secret]] 
 

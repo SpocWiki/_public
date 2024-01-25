@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Hagenau.md|Hagenau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Hagenau.internal.md|Hagenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Hagenau.protect.md|Hagenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Hagenau.private.md|Hagenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Hagenau.personal.md|Hagenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Hagenau.secret.md|Hagenau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Hagenau.internal|Hagenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Hagenau.protect|Hagenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Hagenau.private|Hagenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Hagenau.personal|Hagenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Hagenau.secret|Hagenau.secret]] 

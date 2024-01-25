@@ -41,9 +41,9 @@ markerFolder: ./Sud-Comoé/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.md|Sud-Comoé]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.internal.md|Sud-Comoé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.protect.md|Sud-Comoé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.private.md|Sud-Comoé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.personal.md|Sud-Comoé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.secret.md|Sud-Comoé.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.internal|Sud-Comoé.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.protect|Sud-Comoé.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.private|Sud-Comoé.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.personal|Sud-Comoé.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.secret|Sud-Comoé.secret]] 
 

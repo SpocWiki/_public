@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Waldbuettelbrunn|Waldbuettelbrunn]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.internal.md|Waldbuettelbrunn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.protect.md|Waldbuettelbrunn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.private.md|Waldbuettelbrunn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.personal.md|Waldbuettelbrunn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.secret.md|Waldbuettelbrunn.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.internal|Waldbuettelbrunn.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.protect|Waldbuettelbrunn.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.private|Waldbuettelbrunn.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.personal|Waldbuettelbrunn.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.secret|Waldbuettelbrunn.secret]] 

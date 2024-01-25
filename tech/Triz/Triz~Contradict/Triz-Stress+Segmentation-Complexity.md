@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Segmentation-Complexity]
 [SpocWebEntityId::23698]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.md|Triz-Stress+Segmentation-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.internal.md|Triz-Stress+Segmentation-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.protect.md|Triz-Stress+Segmentation-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.private.md|Triz-Stress+Segmentation-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.personal.md|Triz-Stress+Segmentation-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.secret.md|Triz-Stress+Segmentation-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.internal|Triz-Stress+Segmentation-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.protect|Triz-Stress+Segmentation-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.private|Triz-Stress+Segmentation-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.personal|Triz-Stress+Segmentation-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.secret|Triz-Stress+Segmentation-Complexity.secret]] 

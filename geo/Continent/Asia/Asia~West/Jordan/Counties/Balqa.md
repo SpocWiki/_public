@@ -41,9 +41,9 @@ markerFolder: ./Balqa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.md|Balqa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.internal.md|Balqa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.protect.md|Balqa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.private.md|Balqa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.personal.md|Balqa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.secret.md|Balqa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.internal|Balqa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.protect|Balqa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.private|Balqa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.personal|Balqa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Balqa.secret|Balqa.secret]] 
 

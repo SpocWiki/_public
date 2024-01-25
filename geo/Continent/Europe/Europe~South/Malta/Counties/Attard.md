@@ -41,9 +41,9 @@ markerFolder: ./Attard/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Attard.md|Attard]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Attard.internal.md|Attard.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Attard.protect.md|Attard.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Attard.private.md|Attard.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Attard.personal.md|Attard.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Attard.secret.md|Attard.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Attard.internal|Attard.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Attard.protect|Attard.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Attard.private|Attard.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Attard.personal|Attard.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Attard.secret|Attard.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty]
 [SpocWebEntityId::25224]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.internal.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.protect.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.private.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.personal.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.secret.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.internal|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.protect|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.private|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.personal|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.secret|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Difficulty.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.md|Saipan]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.internal.md|Saipan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.protect.md|Saipan.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.private.md|Saipan.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.personal.md|Saipan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.secret.md|Saipan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.internal|Saipan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.protect|Saipan.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.private|Saipan.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.personal|Saipan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.secret|Saipan.secret]] 

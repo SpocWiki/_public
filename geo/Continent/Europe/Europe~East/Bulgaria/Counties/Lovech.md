@@ -41,9 +41,9 @@ markerFolder: ./Lovech/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Lovech.md|Lovech]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Lovech.internal.md|Lovech.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Lovech.protect.md|Lovech.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Lovech.private.md|Lovech.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Lovech.personal.md|Lovech.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Lovech.secret.md|Lovech.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Lovech.internal|Lovech.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Lovech.protect|Lovech.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Lovech.private|Lovech.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Lovech.personal|Lovech.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Lovech.secret|Lovech.secret]] 
 

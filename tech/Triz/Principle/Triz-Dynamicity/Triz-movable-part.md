@@ -29,8 +29,8 @@ If an object (or process) is rigid or inflexible, make it movable or adaptive.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-movable-part.md|Triz-movable-part]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-movable-part.internal.md|Triz-movable-part.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-movable-part.protect.md|Triz-movable-part.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-movable-part.private.md|Triz-movable-part.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-movable-part.personal.md|Triz-movable-part.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-movable-part.secret.md|Triz-movable-part.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-movable-part.internal|Triz-movable-part.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-movable-part.protect|Triz-movable-part.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-movable-part.private|Triz-movable-part.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-movable-part.personal|Triz-movable-part.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-movable-part.secret|Triz-movable-part.secret]] 

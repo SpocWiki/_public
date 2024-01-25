@@ -41,9 +41,9 @@ markerFolder: ./Trarza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Trarza.md|Trarza]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Trarza.internal.md|Trarza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Trarza.protect.md|Trarza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Trarza.private.md|Trarza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Trarza.personal.md|Trarza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Trarza.secret.md|Trarza.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Trarza.internal|Trarza.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Trarza.protect|Trarza.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Trarza.private|Trarza.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Trarza.personal|Trarza.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Trarza.secret|Trarza.secret]] 
 

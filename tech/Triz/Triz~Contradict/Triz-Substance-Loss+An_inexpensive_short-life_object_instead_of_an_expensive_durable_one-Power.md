@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power]
 [SpocWebEntityId::24866]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.md|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.internal.md|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.protect.md|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.private.md|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.personal.md|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.secret.md|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.internal|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.protect|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.private|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.personal|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.secret|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power.secret]] 

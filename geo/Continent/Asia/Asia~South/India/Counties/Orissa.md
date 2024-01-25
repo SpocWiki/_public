@@ -41,9 +41,9 @@ markerFolder: ./Orissa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Orissa.md|Orissa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Orissa.internal.md|Orissa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Orissa.protect.md|Orissa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Orissa.private.md|Orissa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Orissa.personal.md|Orissa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Orissa.secret.md|Orissa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Orissa.internal|Orissa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Orissa.protect|Orissa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Orissa.private|Orissa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Orissa.personal|Orissa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Orissa.secret|Orissa.secret]] 
 

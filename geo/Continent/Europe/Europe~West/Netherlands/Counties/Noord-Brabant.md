@@ -41,9 +41,9 @@ markerFolder: ./Noord-Brabant/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.md|Noord-Brabant]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.internal.md|Noord-Brabant.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.protect.md|Noord-Brabant.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.private.md|Noord-Brabant.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.personal.md|Noord-Brabant.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.secret.md|Noord-Brabant.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.internal|Noord-Brabant.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.protect|Noord-Brabant.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.private|Noord-Brabant.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.personal|Noord-Brabant.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Noord-Brabant.secret|Noord-Brabant.secret]] 
 

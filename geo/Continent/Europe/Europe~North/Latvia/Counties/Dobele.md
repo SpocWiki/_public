@@ -41,9 +41,9 @@ markerFolder: ./Dobele/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Dobele.md|Dobele]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Dobele.internal.md|Dobele.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Dobele.protect.md|Dobele.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Dobele.private.md|Dobele.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Dobele.personal.md|Dobele.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Dobele.secret.md|Dobele.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Dobele.internal|Dobele.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Dobele.protect|Dobele.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Dobele.private|Dobele.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Dobele.personal|Dobele.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Dobele.secret|Dobele.secret]] 
 

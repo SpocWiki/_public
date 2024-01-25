@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Marseille.md|Marseille]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Marseille.internal.md|Marseille.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Marseille.protect.md|Marseille.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Marseille.private.md|Marseille.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Marseille.personal.md|Marseille.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Marseille.secret.md|Marseille.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Marseille.internal|Marseille.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Marseille.protect|Marseille.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Marseille.private|Marseille.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Marseille.personal|Marseille.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Marseille.secret|Marseille.secret]] 

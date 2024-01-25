@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Nogent_sur_Seine.md|Nogent_sur_Seine]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nogent_sur_Seine.internal.md|Nogent_sur_Seine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nogent_sur_Seine.protect.md|Nogent_sur_Seine.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Nogent_sur_Seine.private.md|Nogent_sur_Seine.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nogent_sur_Seine.personal.md|Nogent_sur_Seine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nogent_sur_Seine.secret.md|Nogent_sur_Seine.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nogent_sur_Seine.internal|Nogent_sur_Seine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nogent_sur_Seine.protect|Nogent_sur_Seine.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nogent_sur_Seine.private|Nogent_sur_Seine.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nogent_sur_Seine.personal|Nogent_sur_Seine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nogent_sur_Seine.secret|Nogent_sur_Seine.secret]] 

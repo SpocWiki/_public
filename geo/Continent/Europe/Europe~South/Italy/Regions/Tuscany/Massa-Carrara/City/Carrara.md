@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Carrara.md|Carrara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Carrara.internal.md|Carrara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Carrara.protect.md|Carrara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Carrara.private.md|Carrara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Carrara.personal.md|Carrara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Carrara.secret.md|Carrara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Carrara.internal|Carrara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Carrara.protect|Carrara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Carrara.private|Carrara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Carrara.personal|Carrara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Carrara.secret|Carrara.secret]] 

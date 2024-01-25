@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.md|Tiflis=Tbilisi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.internal.md|Tiflis=Tbilisi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.protect.md|Tiflis=Tbilisi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.private.md|Tiflis=Tbilisi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.personal.md|Tiflis=Tbilisi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.secret.md|Tiflis=Tbilisi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.internal|Tiflis=Tbilisi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.protect|Tiflis=Tbilisi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.private|Tiflis=Tbilisi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.personal|Tiflis=Tbilisi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiflis=Tbilisi.secret|Tiflis=Tbilisi.secret]] 

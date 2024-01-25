@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Vlissingen.md|Vlissingen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vlissingen.internal.md|Vlissingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vlissingen.protect.md|Vlissingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vlissingen.private.md|Vlissingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vlissingen.personal.md|Vlissingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vlissingen.secret.md|Vlissingen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vlissingen.internal|Vlissingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vlissingen.protect|Vlissingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vlissingen.private|Vlissingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vlissingen.personal|Vlissingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vlissingen.secret|Vlissingen.secret]] 

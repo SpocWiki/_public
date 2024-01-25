@@ -41,9 +41,9 @@ markerFolder: ./Oxfordshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.md|Oxfordshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.internal.md|Oxfordshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.protect.md|Oxfordshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.private.md|Oxfordshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.personal.md|Oxfordshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.secret.md|Oxfordshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.internal|Oxfordshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.protect|Oxfordshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.private|Oxfordshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.personal|Oxfordshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Oxfordshire.secret|Oxfordshire.secret]] 
 

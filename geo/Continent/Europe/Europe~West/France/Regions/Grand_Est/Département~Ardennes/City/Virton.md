@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Virton.md|Virton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Virton.internal.md|Virton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Virton.protect.md|Virton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Virton.private.md|Virton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Virton.personal.md|Virton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Virton.secret.md|Virton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Virton.internal|Virton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Virton.protect|Virton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Virton.private|Virton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Virton.personal|Virton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Virton.secret|Virton.secret]] 

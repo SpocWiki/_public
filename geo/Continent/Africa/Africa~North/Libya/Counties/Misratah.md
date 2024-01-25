@@ -41,9 +41,9 @@ markerFolder: ./Misratah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Misratah.md|Misratah]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Misratah.internal.md|Misratah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Misratah.protect.md|Misratah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Misratah.private.md|Misratah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Misratah.personal.md|Misratah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Misratah.secret.md|Misratah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Misratah.internal|Misratah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Misratah.protect|Misratah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Misratah.private|Misratah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Misratah.personal|Misratah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Misratah.secret|Misratah.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Piran/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.md|Piran]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.internal.md|Piran.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.protect.md|Piran.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.private.md|Piran.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.personal.md|Piran.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.secret.md|Piran.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.internal|Piran.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.protect|Piran.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.private|Piran.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.personal|Piran.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Piran.secret|Piran.secret]] 
 

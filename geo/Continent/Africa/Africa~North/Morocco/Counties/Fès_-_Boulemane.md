@@ -41,9 +41,9 @@ markerFolder: ./Fès_-_Boulemane/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.md|Fès_-_Boulemane]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.internal.md|Fès_-_Boulemane.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.protect.md|Fès_-_Boulemane.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.private.md|Fès_-_Boulemane.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.personal.md|Fès_-_Boulemane.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.secret.md|Fès_-_Boulemane.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.internal|Fès_-_Boulemane.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.protect|Fès_-_Boulemane.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.private|Fès_-_Boulemane.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.personal|Fès_-_Boulemane.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.secret|Fès_-_Boulemane.secret]] 
 

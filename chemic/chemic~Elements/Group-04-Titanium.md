@@ -21,8 +21,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-04-Titanium.md|Group-04-Titanium]] 
-- [[../../../_internal/chemic/Elements/Group-04-Titanium.internal.md|Group-04-Titanium.internal]] 
-- [[../../../_protect/chemic/Elements/Group-04-Titanium.protect.md|Group-04-Titanium.protect]] 
-- [[../../../_private/chemic/Elements/Group-04-Titanium.private.md|Group-04-Titanium.private]] 
-- [[../../../_personal/chemic/Elements/Group-04-Titanium.personal.md|Group-04-Titanium.personal]] 
-- [[../../../_secret/chemic/Elements/Group-04-Titanium.secret.md|Group-04-Titanium.secret]] 
+- [[../../../_internal/chemic/Elements/Group-04-Titanium.internal|Group-04-Titanium.internal]] 
+- [[../../../_protect/chemic/Elements/Group-04-Titanium.protect|Group-04-Titanium.protect]] 
+- [[../../../_private/chemic/Elements/Group-04-Titanium.private|Group-04-Titanium.private]] 
+- [[../../../_personal/chemic/Elements/Group-04-Titanium.personal|Group-04-Titanium.personal]] 
+- [[../../../_secret/chemic/Elements/Group-04-Titanium.secret|Group-04-Titanium.secret]] 

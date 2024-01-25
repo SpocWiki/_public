@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bradford.md|Bradford]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bradford.internal.md|Bradford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bradford.protect.md|Bradford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bradford.private.md|Bradford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bradford.personal.md|Bradford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bradford.secret.md|Bradford.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bradford.internal|Bradford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bradford.protect|Bradford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bradford.private|Bradford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bradford.personal|Bradford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bradford.secret|Bradford.secret]] 

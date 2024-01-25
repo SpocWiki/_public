@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Redon.md|Redon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Redon.internal.md|Redon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Redon.protect.md|Redon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Redon.private.md|Redon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Redon.personal.md|Redon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Redon.secret.md|Redon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Redon.internal|Redon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Redon.protect|Redon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Redon.private|Redon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Redon.personal|Redon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Redon.secret|Redon.secret]] 

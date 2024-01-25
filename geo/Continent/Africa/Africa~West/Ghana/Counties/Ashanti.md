@@ -41,9 +41,9 @@ markerFolder: ./Ashanti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Ashanti.md|Ashanti]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ashanti.internal.md|Ashanti.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ashanti.protect.md|Ashanti.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Ashanti.private.md|Ashanti.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ashanti.personal.md|Ashanti.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ashanti.secret.md|Ashanti.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ashanti.internal|Ashanti.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ashanti.protect|Ashanti.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Ashanti.private|Ashanti.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ashanti.personal|Ashanti.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ashanti.secret|Ashanti.secret]] 
 

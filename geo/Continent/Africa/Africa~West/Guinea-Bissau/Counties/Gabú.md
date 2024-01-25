@@ -41,9 +41,9 @@ markerFolder: ./Gabú/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.md|Gabú]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.internal.md|Gabú.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.protect.md|Gabú.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.private.md|Gabú.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.personal.md|Gabú.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.secret.md|Gabú.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.internal|Gabú.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.protect|Gabú.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.private|Gabú.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.personal|Gabú.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.secret|Gabú.secret]] 
 

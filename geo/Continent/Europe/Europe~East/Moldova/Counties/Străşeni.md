@@ -41,9 +41,9 @@ markerFolder: ./Străşeni/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Străşeni.md|Străşeni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Străşeni.internal.md|Străşeni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Străşeni.protect.md|Străşeni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Străşeni.private.md|Străşeni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Străşeni.personal.md|Străşeni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Străşeni.secret.md|Străşeni.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Străşeni.internal|Străşeni.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Străşeni.protect|Străşeni.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Străşeni.private|Străşeni.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Străşeni.personal|Străşeni.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Străşeni.secret|Străşeni.secret]] 
 

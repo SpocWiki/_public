@@ -41,9 +41,9 @@ markerFolder: ./Tokat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Tokat.md|Tokat]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Tokat.internal.md|Tokat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Tokat.protect.md|Tokat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Tokat.private.md|Tokat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Tokat.personal.md|Tokat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Tokat.secret.md|Tokat.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Tokat.internal|Tokat.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Tokat.protect|Tokat.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Tokat.private|Tokat.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Tokat.personal|Tokat.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Tokat.secret|Tokat.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Glarus.md|Glarus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Glarus.internal.md|Glarus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Glarus.protect.md|Glarus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Glarus.private.md|Glarus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Glarus.personal.md|Glarus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Glarus.secret.md|Glarus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Glarus.internal|Glarus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Glarus.protect|Glarus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Glarus.private|Glarus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Glarus.personal|Glarus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Glarus.secret|Glarus.secret]] 

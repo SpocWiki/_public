@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zielenzig.md|Zielenzig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zielenzig.internal.md|Zielenzig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zielenzig.protect.md|Zielenzig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zielenzig.private.md|Zielenzig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zielenzig.personal.md|Zielenzig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zielenzig.secret.md|Zielenzig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zielenzig.internal|Zielenzig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zielenzig.protect|Zielenzig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zielenzig.private|Zielenzig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zielenzig.personal|Zielenzig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zielenzig.secret|Zielenzig.secret]] 

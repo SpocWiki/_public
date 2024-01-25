@@ -41,9 +41,9 @@ markerFolder: ./Iklin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Iklin.md|Iklin]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Iklin.internal.md|Iklin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Iklin.protect.md|Iklin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Iklin.private.md|Iklin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Iklin.personal.md|Iklin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Iklin.secret.md|Iklin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Iklin.internal|Iklin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Iklin.protect|Iklin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Iklin.private|Iklin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Iklin.personal|Iklin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Iklin.secret|Iklin.secret]] 
 

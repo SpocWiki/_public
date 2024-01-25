@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szentendro.md|Szentendro]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szentendro.internal.md|Szentendro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szentendro.protect.md|Szentendro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szentendro.private.md|Szentendro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szentendro.personal.md|Szentendro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szentendro.secret.md|Szentendro.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szentendro.internal|Szentendro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szentendro.protect|Szentendro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szentendro.private|Szentendro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szentendro.personal|Szentendro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szentendro.secret|Szentendro.secret]] 

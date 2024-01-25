@@ -41,9 +41,9 @@ markerFolder: ./Thiès/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Thiès.md|Thiès]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Thiès.internal.md|Thiès.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Thiès.protect.md|Thiès.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Thiès.private.md|Thiès.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Thiès.personal.md|Thiès.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Thiès.secret.md|Thiès.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Thiès.internal|Thiès.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Thiès.protect|Thiès.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Thiès.private|Thiès.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Thiès.personal|Thiès.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Thiès.secret|Thiès.secret]] 
 

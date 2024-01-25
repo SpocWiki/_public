@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Dynamicity-Shape]
 [SpocWebEntityId::22936]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.md|Triz-stationary_Length+Dynamicity-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.internal.md|Triz-stationary_Length+Dynamicity-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.protect.md|Triz-stationary_Length+Dynamicity-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.private.md|Triz-stationary_Length+Dynamicity-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.personal.md|Triz-stationary_Length+Dynamicity-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.secret.md|Triz-stationary_Length+Dynamicity-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.internal|Triz-stationary_Length+Dynamicity-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.protect|Triz-stationary_Length+Dynamicity-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.private|Triz-stationary_Length+Dynamicity-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.personal|Triz-stationary_Length+Dynamicity-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.secret|Triz-stationary_Length+Dynamicity-Shape.secret]] 

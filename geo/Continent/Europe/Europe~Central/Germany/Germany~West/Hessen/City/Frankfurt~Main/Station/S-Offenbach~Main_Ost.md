@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Offenbach~Main_Ost|S-Offenbach~Main_Ost]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.internal.md|S-Offenbach~Main_Ost.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.protect.md|S-Offenbach~Main_Ost.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.private.md|S-Offenbach~Main_Ost.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.personal.md|S-Offenbach~Main_Ost.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.secret.md|S-Offenbach~Main_Ost.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.internal|S-Offenbach~Main_Ost.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.protect|S-Offenbach~Main_Ost.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.private|S-Offenbach~Main_Ost.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.personal|S-Offenbach~Main_Ost.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach~Main_Ost.secret|S-Offenbach~Main_Ost.secret]] 

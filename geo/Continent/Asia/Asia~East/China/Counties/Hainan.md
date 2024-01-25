@@ -41,9 +41,9 @@ markerFolder: ./Hainan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Hainan.md|Hainan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hainan.internal.md|Hainan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hainan.protect.md|Hainan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hainan.private.md|Hainan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hainan.personal.md|Hainan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hainan.secret.md|Hainan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hainan.internal|Hainan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hainan.protect|Hainan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hainan.private|Hainan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hainan.personal|Hainan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hainan.secret|Hainan.secret]] 
 

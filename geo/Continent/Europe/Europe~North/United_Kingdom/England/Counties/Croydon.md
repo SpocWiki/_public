@@ -41,9 +41,9 @@ markerFolder: ./Croydon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.md|Croydon]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.internal.md|Croydon.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.protect.md|Croydon.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.private.md|Croydon.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.personal.md|Croydon.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.secret.md|Croydon.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.internal|Croydon.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.protect|Croydon.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.private|Croydon.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.personal|Croydon.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.secret|Croydon.secret]] 
 

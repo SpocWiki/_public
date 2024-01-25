@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Warszawa.md|Warszawa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Warszawa.internal.md|Warszawa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Warszawa.protect.md|Warszawa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Warszawa.private.md|Warszawa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Warszawa.personal.md|Warszawa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Warszawa.secret.md|Warszawa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Warszawa.internal|Warszawa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Warszawa.protect|Warszawa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Warszawa.private|Warszawa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Warszawa.personal|Warszawa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Warszawa.secret|Warszawa.secret]] 

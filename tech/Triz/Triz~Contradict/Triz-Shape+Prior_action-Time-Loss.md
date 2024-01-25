@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Prior_action-Time-Loss]
 [SpocWebEntityId::23780]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.md|Triz-Shape+Prior_action-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.internal.md|Triz-Shape+Prior_action-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.protect.md|Triz-Shape+Prior_action-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.private.md|Triz-Shape+Prior_action-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.personal.md|Triz-Shape+Prior_action-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.secret.md|Triz-Shape+Prior_action-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.internal|Triz-Shape+Prior_action-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.protect|Triz-Shape+Prior_action-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.private|Triz-Shape+Prior_action-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.personal|Triz-Shape+Prior_action-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.secret|Triz-Shape+Prior_action-Time-Loss.secret]] 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Wega.md|Wega]] 
-- [[../../../_internal/astro/Star/Wega.internal.md|Wega.internal]] 
-- [[../../../_protect/astro/Star/Wega.protect.md|Wega.protect]] 
-- [[../../../_private/astro/Star/Wega.private.md|Wega.private]] 
-- [[../../../_personal/astro/Star/Wega.personal.md|Wega.personal]] 
-- [[../../../_secret/astro/Star/Wega.secret.md|Wega.secret]] 
+- [[../../../_internal/astro/Star/Wega.internal|Wega.internal]] 
+- [[../../../_protect/astro/Star/Wega.protect|Wega.protect]] 
+- [[../../../_private/astro/Star/Wega.private|Wega.private]] 
+- [[../../../_personal/astro/Star/Wega.personal|Wega.personal]] 
+- [[../../../_secret/astro/Star/Wega.secret|Wega.secret]] 

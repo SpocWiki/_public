@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Zillisheim.md|Zillisheim]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Zillisheim.internal.md|Zillisheim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Zillisheim.protect.md|Zillisheim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Zillisheim.private.md|Zillisheim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Zillisheim.personal.md|Zillisheim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Zillisheim.secret.md|Zillisheim.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Zillisheim.internal|Zillisheim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Zillisheim.protect|Zillisheim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Zillisheim.private|Zillisheim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Zillisheim.personal|Zillisheim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Zillisheim.secret|Zillisheim.secret]] 

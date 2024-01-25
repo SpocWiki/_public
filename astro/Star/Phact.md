@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Phact.md|Phact]] 
-- [[../../../_internal/astro/Star/Phact.internal.md|Phact.internal]] 
-- [[../../../_protect/astro/Star/Phact.protect.md|Phact.protect]] 
-- [[../../../_private/astro/Star/Phact.private.md|Phact.private]] 
-- [[../../../_personal/astro/Star/Phact.personal.md|Phact.personal]] 
-- [[../../../_secret/astro/Star/Phact.secret.md|Phact.secret]] 
+- [[../../../_internal/astro/Star/Phact.internal|Phact.internal]] 
+- [[../../../_protect/astro/Star/Phact.protect|Phact.protect]] 
+- [[../../../_private/astro/Star/Phact.private|Phact.private]] 
+- [[../../../_personal/astro/Star/Phact.personal|Phact.personal]] 
+- [[../../../_secret/astro/Star/Phact.secret|Phact.secret]] 

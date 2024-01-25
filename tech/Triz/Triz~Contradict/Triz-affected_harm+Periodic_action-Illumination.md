@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Periodic_action-Illumination]
 [SpocWebEntityId::25642]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.md|Triz-affected_harm+Periodic_action-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.internal.md|Triz-affected_harm+Periodic_action-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.protect.md|Triz-affected_harm+Periodic_action-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.private.md|Triz-affected_harm+Periodic_action-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.personal.md|Triz-affected_harm+Periodic_action-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.secret.md|Triz-affected_harm+Periodic_action-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.internal|Triz-affected_harm+Periodic_action-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.protect|Triz-affected_harm+Periodic_action-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.private|Triz-affected_harm+Periodic_action-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.personal|Triz-affected_harm+Periodic_action-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Illumination.secret|Triz-affected_harm+Periodic_action-Illumination.secret]] 

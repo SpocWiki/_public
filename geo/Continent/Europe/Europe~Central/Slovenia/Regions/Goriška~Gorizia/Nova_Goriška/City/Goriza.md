@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Goriza.md|Goriza]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Goriza.internal.md|Goriza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Goriza.protect.md|Goriza.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Goriza.private.md|Goriza.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Goriza.personal.md|Goriza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Goriza.secret.md|Goriza.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Goriza.internal|Goriza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Goriza.protect|Goriza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Goriza.private|Goriza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Goriza.personal|Goriza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Goriza.secret|Goriza.secret]] 

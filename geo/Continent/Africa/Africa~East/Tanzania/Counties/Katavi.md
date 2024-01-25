@@ -41,9 +41,9 @@ markerFolder: ./Katavi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Katavi.md|Katavi]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Katavi.internal.md|Katavi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Katavi.protect.md|Katavi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Katavi.private.md|Katavi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Katavi.personal.md|Katavi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Katavi.secret.md|Katavi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Katavi.internal|Katavi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Katavi.protect|Katavi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Katavi.private|Katavi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Katavi.personal|Katavi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Katavi.secret|Katavi.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Bulawayo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.md|Bulawayo]] 
-- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.internal.md|Bulawayo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.protect.md|Bulawayo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.private.md|Bulawayo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.personal.md|Bulawayo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.secret.md|Bulawayo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.internal|Bulawayo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.protect|Bulawayo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.private|Bulawayo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.personal|Bulawayo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.secret|Bulawayo.secret]] 
 

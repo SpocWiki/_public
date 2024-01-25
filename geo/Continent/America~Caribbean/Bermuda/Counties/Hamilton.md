@@ -41,9 +41,9 @@ markerFolder: ./Hamilton/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.md|Hamilton]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.internal.md|Hamilton.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.protect.md|Hamilton.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.private.md|Hamilton.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.personal.md|Hamilton.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.secret.md|Hamilton.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.internal|Hamilton.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.protect|Hamilton.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.private|Hamilton.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.personal|Hamilton.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Hamilton.secret|Hamilton.secret]] 
 

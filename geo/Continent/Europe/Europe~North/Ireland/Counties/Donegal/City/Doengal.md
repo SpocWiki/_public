@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Doengal.md|Doengal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Doengal.internal.md|Doengal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Doengal.protect.md|Doengal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Doengal.private.md|Doengal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Doengal.personal.md|Doengal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Doengal.secret.md|Doengal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Doengal.internal|Doengal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Doengal.protect|Doengal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Doengal.private|Doengal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Doengal.personal|Doengal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Doengal.secret|Doengal.secret]] 

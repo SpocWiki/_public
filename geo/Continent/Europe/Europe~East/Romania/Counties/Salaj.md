@@ -41,9 +41,9 @@ markerFolder: ./Salaj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Salaj.md|Salaj]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Salaj.internal.md|Salaj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Salaj.protect.md|Salaj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Salaj.private.md|Salaj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Salaj.personal.md|Salaj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Salaj.secret.md|Salaj.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Salaj.internal|Salaj.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Salaj.protect|Salaj.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Salaj.private|Salaj.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Salaj.personal|Salaj.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Salaj.secret|Salaj.secret]] 
 

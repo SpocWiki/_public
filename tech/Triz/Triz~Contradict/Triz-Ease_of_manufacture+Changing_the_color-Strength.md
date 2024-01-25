@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Changing_the_color-Strength]
 [SpocWebEntityId::25874]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.md|Triz-Ease_of_manufacture+Changing_the_color-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.internal.md|Triz-Ease_of_manufacture+Changing_the_color-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.protect.md|Triz-Ease_of_manufacture+Changing_the_color-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.private.md|Triz-Ease_of_manufacture+Changing_the_color-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.personal.md|Triz-Ease_of_manufacture+Changing_the_color-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.secret.md|Triz-Ease_of_manufacture+Changing_the_color-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.internal|Triz-Ease_of_manufacture+Changing_the_color-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.protect|Triz-Ease_of_manufacture+Changing_the_color-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.private|Triz-Ease_of_manufacture+Changing_the_color-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.personal|Triz-Ease_of_manufacture+Changing_the_color-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.secret|Triz-Ease_of_manufacture+Changing_the_color-Strength.secret]] 

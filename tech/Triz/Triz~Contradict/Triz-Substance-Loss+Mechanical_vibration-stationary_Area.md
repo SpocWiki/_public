@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Mechanical_vibration-stationary_Area]
 [SpocWebEntityId::24807]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.internal.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.protect.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.private.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.personal.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.secret.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.internal|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.protect|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.private|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.personal|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.secret|Triz-Substance-Loss+Mechanical_vibration-stationary_Area.secret]] 

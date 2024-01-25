@@ -18,8 +18,8 @@ Ice and Water are measured separately but must combine to the total Weight. Beca
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-measure_indirectly.md|Triz-measure_indirectly]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-measure_indirectly.internal.md|Triz-measure_indirectly.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-measure_indirectly.protect.md|Triz-measure_indirectly.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-measure_indirectly.private.md|Triz-measure_indirectly.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-measure_indirectly.personal.md|Triz-measure_indirectly.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-measure_indirectly.secret.md|Triz-measure_indirectly.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-measure_indirectly.internal|Triz-measure_indirectly.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-measure_indirectly.protect|Triz-measure_indirectly.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-measure_indirectly.private|Triz-measure_indirectly.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-measure_indirectly.personal|Triz-measure_indirectly.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-measure_indirectly.secret|Triz-measure_indirectly.secret]] 

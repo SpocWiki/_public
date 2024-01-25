@@ -41,9 +41,9 @@ markerFolder: ./Kasaï-Oriental/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.md|Kasaï-Oriental]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.internal.md|Kasaï-Oriental.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.protect.md|Kasaï-Oriental.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.private.md|Kasaï-Oriental.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.personal.md|Kasaï-Oriental.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.secret.md|Kasaï-Oriental.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.internal|Kasaï-Oriental.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.protect|Kasaï-Oriental.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.private|Kasaï-Oriental.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.personal|Kasaï-Oriental.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.secret|Kasaï-Oriental.secret]] 
 

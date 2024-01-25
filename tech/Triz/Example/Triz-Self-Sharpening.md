@@ -18,8 +18,8 @@ Self-Sharpening Lawn Mower Blades
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Self-Sharpening.md|Triz-Self-Sharpening]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Self-Sharpening.internal.md|Triz-Self-Sharpening.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Self-Sharpening.protect.md|Triz-Self-Sharpening.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Self-Sharpening.private.md|Triz-Self-Sharpening.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Self-Sharpening.personal.md|Triz-Self-Sharpening.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Self-Sharpening.secret.md|Triz-Self-Sharpening.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Self-Sharpening.internal|Triz-Self-Sharpening.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Self-Sharpening.protect|Triz-Self-Sharpening.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Self-Sharpening.private|Triz-Self-Sharpening.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Self-Sharpening.personal|Triz-Self-Sharpening.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Self-Sharpening.secret|Triz-Self-Sharpening.secret]] 

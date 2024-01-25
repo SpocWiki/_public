@@ -41,9 +41,9 @@ markerFolder: ./Vransko/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.md|Vransko]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.internal.md|Vransko.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.protect.md|Vransko.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.private.md|Vransko.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.personal.md|Vransko.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.secret.md|Vransko.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.internal|Vransko.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.protect|Vransko.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.private|Vransko.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.personal|Vransko.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vransko.secret|Vransko.secret]] 
 

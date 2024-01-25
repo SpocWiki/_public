@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jekabpils.md|Jekabpils]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekabpils.internal.md|Jekabpils.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekabpils.protect.md|Jekabpils.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jekabpils.private.md|Jekabpils.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekabpils.personal.md|Jekabpils.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekabpils.secret.md|Jekabpils.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekabpils.internal|Jekabpils.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekabpils.protect|Jekabpils.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jekabpils.private|Jekabpils.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekabpils.personal|Jekabpils.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekabpils.secret|Jekabpils.secret]] 

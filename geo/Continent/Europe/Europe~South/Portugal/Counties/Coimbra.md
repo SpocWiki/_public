@@ -41,9 +41,9 @@ markerFolder: ./Coimbra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Coimbra.md|Coimbra]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Coimbra.internal.md|Coimbra.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Coimbra.protect.md|Coimbra.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Coimbra.private.md|Coimbra.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Coimbra.personal.md|Coimbra.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Coimbra.secret.md|Coimbra.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Coimbra.internal|Coimbra.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Coimbra.protect|Coimbra.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Coimbra.private|Coimbra.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Coimbra.personal|Coimbra.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Coimbra.secret|Coimbra.secret]] 
 

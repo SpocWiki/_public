@@ -41,9 +41,9 @@ markerFolder: ./Blue_Nile/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Blue_Nile.md|Blue_Nile]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.internal.md|Blue_Nile.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Blue_Nile.protect.md|Blue_Nile.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Blue_Nile.private.md|Blue_Nile.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.personal.md|Blue_Nile.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Blue_Nile.secret.md|Blue_Nile.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.internal|Blue_Nile.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Blue_Nile.protect|Blue_Nile.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Blue_Nile.private|Blue_Nile.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.personal|Blue_Nile.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Blue_Nile.secret|Blue_Nile.secret]] 
 

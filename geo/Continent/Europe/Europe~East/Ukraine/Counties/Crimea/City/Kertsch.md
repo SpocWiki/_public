@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kertsch.md|Kertsch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kertsch.internal.md|Kertsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kertsch.protect.md|Kertsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kertsch.private.md|Kertsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kertsch.personal.md|Kertsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kertsch.secret.md|Kertsch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kertsch.internal|Kertsch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kertsch.protect|Kertsch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kertsch.private|Kertsch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kertsch.personal|Kertsch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kertsch.secret|Kertsch.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Extraction-stationary_Volume]
 [SpocWebEntityId::24943]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.md|Triz-Information-Loss+Extraction-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.internal.md|Triz-Information-Loss+Extraction-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.protect.md|Triz-Information-Loss+Extraction-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.private.md|Triz-Information-Loss+Extraction-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.personal.md|Triz-Information-Loss+Extraction-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.secret.md|Triz-Information-Loss+Extraction-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.internal|Triz-Information-Loss+Extraction-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.protect|Triz-Information-Loss+Extraction-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.private|Triz-Information-Loss+Extraction-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.personal|Triz-Information-Loss+Extraction-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Extraction-stationary_Volume.secret|Triz-Information-Loss+Extraction-stationary_Volume.secret]] 

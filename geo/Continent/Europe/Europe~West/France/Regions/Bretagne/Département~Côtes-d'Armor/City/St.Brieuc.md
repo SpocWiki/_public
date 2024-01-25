@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Brieuc.md|St.Brieuc]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Brieuc.internal.md|St.Brieuc.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Brieuc.protect.md|St.Brieuc.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Brieuc.private.md|St.Brieuc.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Brieuc.personal.md|St.Brieuc.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Brieuc.secret.md|St.Brieuc.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Brieuc.internal|St.Brieuc.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Brieuc.protect|St.Brieuc.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Brieuc.private|St.Brieuc.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Brieuc.personal|St.Brieuc.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Brieuc.secret|St.Brieuc.secret]] 

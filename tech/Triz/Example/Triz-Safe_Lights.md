@@ -18,8 +18,8 @@ Use Safe Lights in a photographic Darkroom.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Safe_Lights.md|Triz-Safe_Lights]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Safe_Lights.internal.md|Triz-Safe_Lights.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Safe_Lights.protect.md|Triz-Safe_Lights.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Safe_Lights.private.md|Triz-Safe_Lights.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Safe_Lights.personal.md|Triz-Safe_Lights.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Safe_Lights.secret.md|Triz-Safe_Lights.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Safe_Lights.internal|Triz-Safe_Lights.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Safe_Lights.protect|Triz-Safe_Lights.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Safe_Lights.private|Triz-Safe_Lights.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Safe_Lights.personal|Triz-Safe_Lights.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Safe_Lights.secret|Triz-Safe_Lights.secret]] 

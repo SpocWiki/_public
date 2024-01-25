@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.md|Freienwalde~Brandenburg]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.internal.md|Freienwalde~Brandenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.protect.md|Freienwalde~Brandenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.private.md|Freienwalde~Brandenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.personal.md|Freienwalde~Brandenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.secret.md|Freienwalde~Brandenburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.internal|Freienwalde~Brandenburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.protect|Freienwalde~Brandenburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.private|Freienwalde~Brandenburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.personal|Freienwalde~Brandenburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Freienwalde~Brandenburg.secret|Freienwalde~Brandenburg.secret]] 

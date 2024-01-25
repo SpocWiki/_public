@@ -131,8 +131,8 @@ markerFolder: ./Hungary///
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary.md|Hungary]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary.internal.md|Hungary.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary.protect.md|Hungary.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary.private.md|Hungary.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary.personal.md|Hungary.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary.secret.md|Hungary.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary.internal|Hungary.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary.protect|Hungary.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary.private|Hungary.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary.personal|Hungary.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary.secret|Hungary.secret]] 

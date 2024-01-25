@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Convert_harm_into_benefit-moving_Volume]
 [SpocWebEntityId::25598]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.md|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.internal.md|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.protect.md|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.private.md|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.personal.md|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.secret.md|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.internal|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.protect|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.private|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.personal|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.secret|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.secret]] 

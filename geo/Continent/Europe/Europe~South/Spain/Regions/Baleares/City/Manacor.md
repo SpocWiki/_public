@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Manacor.md|Manacor]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Manacor.internal.md|Manacor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Manacor.protect.md|Manacor.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Manacor.private.md|Manacor.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Manacor.personal.md|Manacor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Manacor.secret.md|Manacor.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Manacor.internal|Manacor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Manacor.protect|Manacor.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Manacor.private|Manacor.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Manacor.personal|Manacor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Manacor.secret|Manacor.secret]] 

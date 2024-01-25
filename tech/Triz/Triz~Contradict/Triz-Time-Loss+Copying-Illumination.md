@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Copying-Illumination]
 [SpocWebEntityId::25043]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.md|Triz-Time-Loss+Copying-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.internal.md|Triz-Time-Loss+Copying-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.protect.md|Triz-Time-Loss+Copying-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.private.md|Triz-Time-Loss+Copying-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.personal.md|Triz-Time-Loss+Copying-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.secret.md|Triz-Time-Loss+Copying-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.internal|Triz-Time-Loss+Copying-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.protect|Triz-Time-Loss+Copying-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.private|Triz-Time-Loss+Copying-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.personal|Triz-Time-Loss+Copying-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.secret|Triz-Time-Loss+Copying-Illumination.secret]] 

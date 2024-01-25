@@ -41,9 +41,9 @@ markerFolder: ./Kangwŏn-do/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.md|Kangwŏn-do]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.internal.md|Kangwŏn-do.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.protect.md|Kangwŏn-do.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.private.md|Kangwŏn-do.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.personal.md|Kangwŏn-do.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.secret.md|Kangwŏn-do.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.internal|Kangwŏn-do.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.protect|Kangwŏn-do.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.private|Kangwŏn-do.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.personal|Kangwŏn-do.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Kangwŏn-do.secret|Kangwŏn-do.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Al_Fayyum/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.md|Al_Fayyum]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.internal.md|Al_Fayyum.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.protect.md|Al_Fayyum.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.private.md|Al_Fayyum.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.personal.md|Al_Fayyum.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.secret.md|Al_Fayyum.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.internal|Al_Fayyum.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.protect|Al_Fayyum.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.private|Al_Fayyum.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.personal|Al_Fayyum.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.secret|Al_Fayyum.secret]] 
 

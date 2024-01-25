@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Deva.md|Deva]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Deva.internal.md|Deva.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Deva.protect.md|Deva.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Deva.private.md|Deva.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Deva.personal.md|Deva.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Deva.secret.md|Deva.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Deva.internal|Deva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Deva.protect|Deva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Deva.private|Deva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Deva.personal|Deva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Deva.secret|Deva.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hokkaido/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.md|Hokkaido]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.internal.md|Hokkaido.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.protect.md|Hokkaido.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.private.md|Hokkaido.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.personal.md|Hokkaido.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.secret.md|Hokkaido.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.internal|Hokkaido.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.protect|Hokkaido.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.private|Hokkaido.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.personal|Hokkaido.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.secret|Hokkaido.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ustjansk.md|Ustjansk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustjansk.internal.md|Ustjansk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustjansk.protect.md|Ustjansk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ustjansk.private.md|Ustjansk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustjansk.personal.md|Ustjansk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustjansk.secret.md|Ustjansk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustjansk.internal|Ustjansk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustjansk.protect|Ustjansk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ustjansk.private|Ustjansk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustjansk.personal|Ustjansk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustjansk.secret|Ustjansk.secret]] 

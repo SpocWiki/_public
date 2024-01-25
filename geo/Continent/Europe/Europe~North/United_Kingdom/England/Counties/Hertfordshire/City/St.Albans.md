@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Albans.md|St.Albans]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Albans.internal.md|St.Albans.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Albans.protect.md|St.Albans.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Albans.private.md|St.Albans.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Albans.personal.md|St.Albans.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Albans.secret.md|St.Albans.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Albans.internal|St.Albans.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Albans.protect|St.Albans.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Albans.private|St.Albans.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Albans.personal|St.Albans.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Albans.secret|St.Albans.secret]] 

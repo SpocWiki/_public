@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Extraction-Shape]
 [SpocWebEntityId::24462]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.md|Triz-moving_Energy+Extraction-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.internal.md|Triz-moving_Energy+Extraction-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.protect.md|Triz-moving_Energy+Extraction-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.private.md|Triz-moving_Energy+Extraction-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.personal.md|Triz-moving_Energy+Extraction-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.secret.md|Triz-moving_Energy+Extraction-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.internal|Triz-moving_Energy+Extraction-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.protect|Triz-moving_Energy+Extraction-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.private|Triz-moving_Energy+Extraction-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.personal|Triz-moving_Energy+Extraction-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.secret|Triz-moving_Energy+Extraction-Shape.secret]] 

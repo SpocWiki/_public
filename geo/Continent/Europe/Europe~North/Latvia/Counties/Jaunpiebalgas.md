@@ -41,9 +41,9 @@ markerFolder: ./Jaunpiebalgas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.md|Jaunpiebalgas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.internal.md|Jaunpiebalgas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.protect.md|Jaunpiebalgas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.private.md|Jaunpiebalgas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.personal.md|Jaunpiebalgas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.secret.md|Jaunpiebalgas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.internal|Jaunpiebalgas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.protect|Jaunpiebalgas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.private|Jaunpiebalgas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.personal|Jaunpiebalgas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.secret|Jaunpiebalgas.secret]] 
 

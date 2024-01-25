@@ -41,9 +41,9 @@ markerFolder: ./Extrême-Nord/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.md|Extrême-Nord]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.internal.md|Extrême-Nord.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.protect.md|Extrême-Nord.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.private.md|Extrême-Nord.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.personal.md|Extrême-Nord.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.secret.md|Extrême-Nord.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.internal|Extrême-Nord.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.protect|Extrême-Nord.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.private|Extrême-Nord.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.personal|Extrême-Nord.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.secret|Extrême-Nord.secret]] 
 

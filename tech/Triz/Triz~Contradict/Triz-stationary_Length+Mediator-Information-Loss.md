@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Mediator-Information-Loss]
 [SpocWebEntityId::22962]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.md|Triz-stationary_Length+Mediator-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.internal.md|Triz-stationary_Length+Mediator-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.protect.md|Triz-stationary_Length+Mediator-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.private.md|Triz-stationary_Length+Mediator-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.personal.md|Triz-stationary_Length+Mediator-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.secret.md|Triz-stationary_Length+Mediator-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.internal|Triz-stationary_Length+Mediator-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.protect|Triz-stationary_Length+Mediator-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.private|Triz-stationary_Length+Mediator-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.personal|Triz-stationary_Length+Mediator-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Information-Loss.secret|Triz-stationary_Length+Mediator-Information-Loss.secret]] 

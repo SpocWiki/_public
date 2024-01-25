@@ -41,9 +41,9 @@ markerFolder: ./Chihuahua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Chihuahua.md|Chihuahua]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Chihuahua.internal.md|Chihuahua.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Chihuahua.protect.md|Chihuahua.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Chihuahua.private.md|Chihuahua.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Chihuahua.personal.md|Chihuahua.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Chihuahua.secret.md|Chihuahua.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Chihuahua.internal|Chihuahua.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Chihuahua.protect|Chihuahua.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Chihuahua.private|Chihuahua.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Chihuahua.personal|Chihuahua.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Chihuahua.secret|Chihuahua.secret]] 
 

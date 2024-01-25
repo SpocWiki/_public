@@ -27,8 +27,8 @@ Change the temperature.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-change-temperature.md|Triz-change-temperature]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-change-temperature.internal.md|Triz-change-temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-change-temperature.protect.md|Triz-change-temperature.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-change-temperature.private.md|Triz-change-temperature.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-change-temperature.personal.md|Triz-change-temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-change-temperature.secret.md|Triz-change-temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-change-temperature.internal|Triz-change-temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-change-temperature.protect|Triz-change-temperature.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-change-temperature.private|Triz-change-temperature.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-change-temperature.personal|Triz-change-temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-change-temperature.secret|Triz-change-temperature.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Maentsaela.md|Maentsaela]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Maentsaela.internal.md|Maentsaela.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Maentsaela.protect.md|Maentsaela.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Maentsaela.private.md|Maentsaela.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Maentsaela.personal.md|Maentsaela.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Maentsaela.secret.md|Maentsaela.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Maentsaela.internal|Maentsaela.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Maentsaela.protect|Maentsaela.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Maentsaela.private|Maentsaela.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Maentsaela.personal|Maentsaela.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Maentsaela.secret|Maentsaela.secret]] 

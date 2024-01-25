@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Irgis.md|Irgis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Irgis.internal.md|Irgis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Irgis.protect.md|Irgis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Irgis.private.md|Irgis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Irgis.personal.md|Irgis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Irgis.secret.md|Irgis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Irgis.internal|Irgis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Irgis.protect|Irgis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Irgis.private|Irgis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Irgis.personal|Irgis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Irgis.secret|Irgis.secret]] 

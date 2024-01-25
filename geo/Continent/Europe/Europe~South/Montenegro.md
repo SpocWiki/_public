@@ -133,8 +133,8 @@ markerFolder: ./Montenegro//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro.md|Montenegro]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro.internal.md|Montenegro.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro.protect.md|Montenegro.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro.private.md|Montenegro.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro.personal.md|Montenegro.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro.secret.md|Montenegro.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro.internal|Montenegro.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro.protect|Montenegro.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro.private|Montenegro.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro.personal|Montenegro.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro.secret|Montenegro.secret]] 

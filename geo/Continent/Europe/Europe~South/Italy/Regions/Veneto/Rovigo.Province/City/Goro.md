@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Goro.md|Goro]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Goro.internal.md|Goro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Goro.protect.md|Goro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Goro.private.md|Goro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Goro.personal.md|Goro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Goro.secret.md|Goro.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Goro.internal|Goro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Goro.protect|Goro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Goro.private|Goro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Goro.personal|Goro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Goro.secret|Goro.secret]] 

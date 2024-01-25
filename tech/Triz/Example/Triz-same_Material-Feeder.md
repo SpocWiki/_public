@@ -18,8 +18,8 @@ The Surface of a Feeder for abrasive Grain is made of the same Material that run
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-same_Material-Feeder.md|Triz-same_Material-Feeder]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-same_Material-Feeder.internal.md|Triz-same_Material-Feeder.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-same_Material-Feeder.protect.md|Triz-same_Material-Feeder.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-same_Material-Feeder.private.md|Triz-same_Material-Feeder.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-same_Material-Feeder.personal.md|Triz-same_Material-Feeder.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-same_Material-Feeder.secret.md|Triz-same_Material-Feeder.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-same_Material-Feeder.internal|Triz-same_Material-Feeder.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-same_Material-Feeder.protect|Triz-same_Material-Feeder.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-same_Material-Feeder.private|Triz-same_Material-Feeder.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-same_Material-Feeder.personal|Triz-same_Material-Feeder.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-same_Material-Feeder.secret|Triz-same_Material-Feeder.secret]] 

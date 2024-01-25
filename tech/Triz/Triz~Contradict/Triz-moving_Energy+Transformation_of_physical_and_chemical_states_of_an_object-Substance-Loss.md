@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]
 [SpocWebEntityId::24491]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret.md|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret|Triz-moving_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.md|s'Herzogenbusch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.internal.md|s'Herzogenbusch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.protect.md|s'Herzogenbusch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.private.md|s'Herzogenbusch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.personal.md|s'Herzogenbusch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.secret.md|s'Herzogenbusch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.internal|s'Herzogenbusch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.protect|s'Herzogenbusch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.private|s'Herzogenbusch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.personal|s'Herzogenbusch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/s'Herzogenbusch.secret|s'Herzogenbusch.secret]] 

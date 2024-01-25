@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Blarney.md|Blarney]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Blarney.internal.md|Blarney.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Blarney.protect.md|Blarney.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Blarney.private.md|Blarney.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Blarney.personal.md|Blarney.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Blarney.secret.md|Blarney.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Blarney.internal|Blarney.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Blarney.protect|Blarney.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Blarney.private|Blarney.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Blarney.personal|Blarney.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Blarney.secret|Blarney.secret]] 

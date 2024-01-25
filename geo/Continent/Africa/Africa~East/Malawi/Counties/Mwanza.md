@@ -41,9 +41,9 @@ markerFolder: ./Mwanza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Mwanza.md|Mwanza]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mwanza.internal.md|Mwanza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mwanza.protect.md|Mwanza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mwanza.private.md|Mwanza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mwanza.personal.md|Mwanza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mwanza.secret.md|Mwanza.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mwanza.internal|Mwanza.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mwanza.protect|Mwanza.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mwanza.private|Mwanza.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mwanza.personal|Mwanza.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mwanza.secret|Mwanza.secret]] 
 

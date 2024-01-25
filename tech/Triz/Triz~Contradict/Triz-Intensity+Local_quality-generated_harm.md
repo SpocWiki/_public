@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Local_quality-generated_harm]
 [SpocWebEntityId::23570]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.md|Triz-Intensity+Local_quality-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.internal.md|Triz-Intensity+Local_quality-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.protect.md|Triz-Intensity+Local_quality-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.private.md|Triz-Intensity+Local_quality-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.personal.md|Triz-Intensity+Local_quality-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.secret.md|Triz-Intensity+Local_quality-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.internal|Triz-Intensity+Local_quality-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.protect|Triz-Intensity+Local_quality-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.private|Triz-Intensity+Local_quality-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.personal|Triz-Intensity+Local_quality-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.secret|Triz-Intensity+Local_quality-generated_harm.secret]] 

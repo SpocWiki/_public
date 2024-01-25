@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Prior_action-Reliability]
 [SpocWebEntityId::24760]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.md|Triz-Energy-Loss+Prior_action-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.internal.md|Triz-Energy-Loss+Prior_action-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.protect.md|Triz-Energy-Loss+Prior_action-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.private.md|Triz-Energy-Loss+Prior_action-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.personal.md|Triz-Energy-Loss+Prior_action-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.secret.md|Triz-Energy-Loss+Prior_action-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.internal|Triz-Energy-Loss+Prior_action-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.protect|Triz-Energy-Loss+Prior_action-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.private|Triz-Energy-Loss+Prior_action-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.personal|Triz-Energy-Loss+Prior_action-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Prior_action-Reliability.secret|Triz-Energy-Loss+Prior_action-Reliability.secret]] 

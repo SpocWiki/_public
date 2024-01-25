@@ -41,9 +41,9 @@ markerFolder: ./Bagmati/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.md|Bagmati]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.internal.md|Bagmati.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.protect.md|Bagmati.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.private.md|Bagmati.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.personal.md|Bagmati.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.secret.md|Bagmati.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.internal|Bagmati.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.protect|Bagmati.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.private|Bagmati.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.personal|Bagmati.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Bagmati.secret|Bagmati.secret]] 
 

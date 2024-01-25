@@ -41,9 +41,9 @@ markerFolder: ./Kastamonu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kastamonu.md|Kastamonu]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kastamonu.internal.md|Kastamonu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kastamonu.protect.md|Kastamonu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kastamonu.private.md|Kastamonu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kastamonu.personal.md|Kastamonu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kastamonu.secret.md|Kastamonu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kastamonu.internal|Kastamonu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kastamonu.protect|Kastamonu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kastamonu.private|Kastamonu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kastamonu.personal|Kastamonu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kastamonu.secret|Kastamonu.secret]] 
 

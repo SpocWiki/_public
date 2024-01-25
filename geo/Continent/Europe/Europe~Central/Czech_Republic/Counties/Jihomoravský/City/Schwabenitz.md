@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.md|Schwabenitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.internal.md|Schwabenitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.protect.md|Schwabenitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.private.md|Schwabenitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.personal.md|Schwabenitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.secret.md|Schwabenitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.internal|Schwabenitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.protect|Schwabenitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.private|Schwabenitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.personal|Schwabenitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.secret|Schwabenitz.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Motala.md|Motala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Motala.internal.md|Motala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Motala.protect.md|Motala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Motala.private.md|Motala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Motala.personal.md|Motala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Motala.secret.md|Motala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Motala.internal|Motala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Motala.protect|Motala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Motala.private|Motala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Motala.personal|Motala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Motala.secret|Motala.secret]] 

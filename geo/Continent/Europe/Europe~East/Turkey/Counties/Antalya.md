@@ -41,9 +41,9 @@ markerFolder: ./Antalya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Antalya.md|Antalya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Antalya.internal.md|Antalya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Antalya.protect.md|Antalya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Antalya.private.md|Antalya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Antalya.personal.md|Antalya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Antalya.secret.md|Antalya.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Antalya.internal|Antalya.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Antalya.protect|Antalya.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Antalya.private|Antalya.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Antalya.personal|Antalya.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Antalya.secret|Antalya.secret]] 
 

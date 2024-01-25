@@ -79,8 +79,8 @@ markerFolder: ./Germany~West/
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/Europe/Germany/Germany~West.md|Germany~West]] 
-- [[../../../../../_internal/geo/Continent/Europe/Germany/Germany~East.internal.md|Germany~West.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Germany/Germany~West.protect.md|Germany~West.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Germany/Germany~West.private.md|Germany~West.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Germany/Germany~West.personal.md|Germany~West.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Germany/Germany~West.secret.md|Germany~West.secret]] 
+- [[../../../../../_internal/geo/Continent/Europe/Germany/Germany~East.internal|Germany~West.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Germany/Germany~West.protect|Germany~West.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Germany/Germany~West.private|Germany~West.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Germany/Germany~West.personal|Germany~West.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Germany/Germany~West.secret|Germany~West.secret]] 

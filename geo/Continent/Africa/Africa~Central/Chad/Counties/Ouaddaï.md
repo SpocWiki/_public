@@ -41,9 +41,9 @@ markerFolder: ./Ouaddaï/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Ouaddaï.md|Ouaddaï]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Ouaddaï.internal.md|Ouaddaï.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Ouaddaï.protect.md|Ouaddaï.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Ouaddaï.private.md|Ouaddaï.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Ouaddaï.personal.md|Ouaddaï.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Ouaddaï.secret.md|Ouaddaï.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Ouaddaï.internal|Ouaddaï.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Ouaddaï.protect|Ouaddaï.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Ouaddaï.private|Ouaddaï.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Ouaddaï.personal|Ouaddaï.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Ouaddaï.secret|Ouaddaï.secret]] 
 

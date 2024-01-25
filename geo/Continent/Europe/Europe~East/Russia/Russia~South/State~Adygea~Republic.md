@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Adygea~Republic|State~Adygea~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Adygea~Republic.internal|State~Adygea~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Adygea~Republic.protect.md|State~Adygea~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Adygea~Republic.private.md|State~Adygea~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Adygea~Republic.personal.md|State~Adygea~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Adygea~Republic.secret.md|State~Adygea~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Adygea~Republic.protect|State~Adygea~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Adygea~Republic.private|State~Adygea~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Adygea~Republic.personal|State~Adygea~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Adygea~Republic.secret|State~Adygea~Republic.secret]] 

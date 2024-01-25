@@ -41,9 +41,9 @@ markerFolder: ./Ganzourgou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.md|Ganzourgou]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.internal.md|Ganzourgou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.protect.md|Ganzourgou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.private.md|Ganzourgou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.personal.md|Ganzourgou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.secret.md|Ganzourgou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.internal|Ganzourgou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.protect|Ganzourgou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.private|Ganzourgou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.personal|Ganzourgou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.secret|Ganzourgou.secret]] 
 

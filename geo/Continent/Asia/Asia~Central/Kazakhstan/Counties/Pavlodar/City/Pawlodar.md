@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pawlodar.md|Pawlodar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pawlodar.internal.md|Pawlodar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pawlodar.protect.md|Pawlodar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pawlodar.private.md|Pawlodar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pawlodar.personal.md|Pawlodar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pawlodar.secret.md|Pawlodar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pawlodar.internal|Pawlodar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pawlodar.protect|Pawlodar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pawlodar.private|Pawlodar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pawlodar.personal|Pawlodar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pawlodar.secret|Pawlodar.secret]] 

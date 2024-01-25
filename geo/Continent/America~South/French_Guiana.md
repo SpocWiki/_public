@@ -131,8 +131,8 @@ markerFolder: ./French_Guiana/
 
 ## Confidential Links & Embeds: 
 - [[French_Guiana|French_Guiana]] 
-- [[../../../../_internal/geo/Continent/South-America/French_Guiana.internal.md|French_Guiana.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/French_Guiana.protect.md|French_Guiana.protect]] 
-- [[../../../../_private/geo/Continent/South-America/French_Guiana.private.md|French_Guiana.private]] 
-- [[../../../../_personal/geo/Continent/South-America/French_Guiana.personal.md|French_Guiana.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/French_Guiana.secret.md|French_Guiana.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/French_Guiana.internal|French_Guiana.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/French_Guiana.protect|French_Guiana.protect]] 
+- [[../../../../_private/geo/Continent/South-America/French_Guiana.private|French_Guiana.private]] 
+- [[../../../../_personal/geo/Continent/South-America/French_Guiana.personal|French_Guiana.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/French_Guiana.secret|French_Guiana.secret]] 

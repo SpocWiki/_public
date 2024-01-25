@@ -41,9 +41,9 @@ markerFolder: ./Comrat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Comrat.md|Comrat]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Comrat.internal.md|Comrat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Comrat.protect.md|Comrat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Comrat.private.md|Comrat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Comrat.personal.md|Comrat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Comrat.secret.md|Comrat.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Comrat.internal|Comrat.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Comrat.protect|Comrat.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Comrat.private|Comrat.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Comrat.personal|Comrat.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Comrat.secret|Comrat.secret]] 
 

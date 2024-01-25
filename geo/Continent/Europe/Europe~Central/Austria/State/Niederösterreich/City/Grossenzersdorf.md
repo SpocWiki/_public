@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Grossenzersdorf.md|Grossenzersdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Grossenzersdorf.internal.md|Grossenzersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Grossenzersdorf.protect.md|Grossenzersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Grossenzersdorf.private.md|Grossenzersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Grossenzersdorf.personal.md|Grossenzersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Grossenzersdorf.secret.md|Grossenzersdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Grossenzersdorf.internal|Grossenzersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Grossenzersdorf.protect|Grossenzersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Grossenzersdorf.private|Grossenzersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Grossenzersdorf.personal|Grossenzersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Grossenzersdorf.secret|Grossenzersdorf.secret]] 

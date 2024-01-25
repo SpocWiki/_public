@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Oltra.md|Oltra]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oltra.internal.md|Oltra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oltra.protect.md|Oltra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oltra.private.md|Oltra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oltra.personal.md|Oltra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oltra.secret.md|Oltra.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oltra.internal|Oltra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oltra.protect|Oltra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oltra.private|Oltra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oltra.personal|Oltra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oltra.secret|Oltra.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Seine-Saint-Denis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.md|Département~Seine-Saint-Denis]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.internal.md|Département~Seine-Saint-Denis.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.protect.md|Département~Seine-Saint-Denis.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.private.md|Département~Seine-Saint-Denis.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.personal.md|Département~Seine-Saint-Denis.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.secret.md|Département~Seine-Saint-Denis.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.internal|Département~Seine-Saint-Denis.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.protect|Département~Seine-Saint-Denis.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.private|Département~Seine-Saint-Denis.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.personal|Département~Seine-Saint-Denis.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Seine-Saint-Denis.secret|Département~Seine-Saint-Denis.secret]] 
 

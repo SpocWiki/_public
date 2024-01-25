@@ -41,9 +41,9 @@ markerFolder: ./Braila/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Braila.md|Braila]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Braila.internal.md|Braila.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Braila.protect.md|Braila.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Braila.private.md|Braila.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Braila.personal.md|Braila.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Braila.secret.md|Braila.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Braila.internal|Braila.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Braila.protect|Braila.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Braila.private|Braila.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Braila.personal|Braila.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Braila.secret|Braila.secret]] 
 

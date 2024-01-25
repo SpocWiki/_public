@@ -41,9 +41,9 @@ markerFolder: ./Chaouia_-_Ouardigha/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.md|Chaouia_-_Ouardigha]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.internal.md|Chaouia_-_Ouardigha.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.protect.md|Chaouia_-_Ouardigha.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.private.md|Chaouia_-_Ouardigha.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.personal.md|Chaouia_-_Ouardigha.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.secret.md|Chaouia_-_Ouardigha.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.internal|Chaouia_-_Ouardigha.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.protect|Chaouia_-_Ouardigha.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.private|Chaouia_-_Ouardigha.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.personal|Chaouia_-_Ouardigha.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.secret|Chaouia_-_Ouardigha.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Marstal.md|Marstal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Marstal.internal.md|Marstal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Marstal.protect.md|Marstal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Marstal.private.md|Marstal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Marstal.personal.md|Marstal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Marstal.secret.md|Marstal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Marstal.internal|Marstal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Marstal.protect|Marstal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Marstal.private|Marstal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Marstal.personal|Marstal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Marstal.secret|Marstal.secret]] 

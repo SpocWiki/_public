@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Nieder-Murrach|Nieder-Murrach]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.internal.md|Nieder-Murrach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.protect.md|Nieder-Murrach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.private.md|Nieder-Murrach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.personal.md|Nieder-Murrach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.secret.md|Nieder-Murrach.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.internal|Nieder-Murrach.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.protect|Nieder-Murrach.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.private|Nieder-Murrach.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.personal|Nieder-Murrach.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.secret|Nieder-Murrach.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Rathmines.md|Rathmines]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Rathmines.internal.md|Rathmines.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Rathmines.protect.md|Rathmines.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Rathmines.private.md|Rathmines.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Rathmines.personal.md|Rathmines.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Rathmines.secret.md|Rathmines.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Rathmines.internal|Rathmines.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Rathmines.protect|Rathmines.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Rathmines.private|Rathmines.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Rathmines.personal|Rathmines.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Rathmines.secret|Rathmines.secret]] 

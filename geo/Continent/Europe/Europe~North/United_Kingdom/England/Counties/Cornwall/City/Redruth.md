@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Redruth.md|Redruth]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Redruth.internal.md|Redruth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Redruth.protect.md|Redruth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Redruth.private.md|Redruth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Redruth.personal.md|Redruth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Redruth.secret.md|Redruth.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Redruth.internal|Redruth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Redruth.protect|Redruth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Redruth.private|Redruth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Redruth.personal|Redruth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Redruth.secret|Redruth.secret]] 

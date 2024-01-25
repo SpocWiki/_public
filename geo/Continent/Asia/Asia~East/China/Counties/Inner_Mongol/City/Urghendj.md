@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Urghendj.md|Urghendj]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Urghendj.internal.md|Urghendj.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Urghendj.protect.md|Urghendj.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Urghendj.private.md|Urghendj.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Urghendj.personal.md|Urghendj.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Urghendj.secret.md|Urghendj.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Urghendj.internal|Urghendj.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Urghendj.protect|Urghendj.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Urghendj.private|Urghendj.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Urghendj.personal|Urghendj.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Urghendj.secret|Urghendj.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Cernier.md|Cernier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Cernier.internal.md|Cernier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Cernier.protect.md|Cernier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Cernier.private.md|Cernier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Cernier.personal.md|Cernier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Cernier.secret.md|Cernier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Cernier.internal|Cernier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Cernier.protect|Cernier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Cernier.private|Cernier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Cernier.personal|Cernier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Cernier.secret|Cernier.secret]] 

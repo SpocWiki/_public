@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Partial,_overdone,_or_excessive_action-Quantity]
 [SpocWebEntityId::24501]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.internal.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.protect.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.private.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.personal.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.secret.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.internal|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.protect|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.private|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.personal|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.secret|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Quantity.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schaffhausen.md|Schaffhausen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schaffhausen.internal.md|Schaffhausen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schaffhausen.protect.md|Schaffhausen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schaffhausen.private.md|Schaffhausen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schaffhausen.personal.md|Schaffhausen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schaffhausen.secret.md|Schaffhausen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schaffhausen.internal|Schaffhausen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schaffhausen.protect|Schaffhausen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schaffhausen.private|Schaffhausen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schaffhausen.personal|Schaffhausen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schaffhausen.secret|Schaffhausen.secret]] 

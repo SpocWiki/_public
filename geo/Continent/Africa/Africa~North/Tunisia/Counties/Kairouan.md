@@ -41,9 +41,9 @@ markerFolder: ./Kairouan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Kairouan.md|Kairouan]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kairouan.internal.md|Kairouan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kairouan.protect.md|Kairouan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kairouan.private.md|Kairouan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kairouan.personal.md|Kairouan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kairouan.secret.md|Kairouan.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kairouan.internal|Kairouan.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kairouan.protect|Kairouan.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kairouan.private|Kairouan.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kairouan.personal|Kairouan.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kairouan.secret|Kairouan.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Allier/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Département~Allier.md|Département~Allier]] 
-- [[../../../../_internal/geo/Continent/Département~Allier.internal.md|Département~Allier.internal]] 
-- [[../../../../_protect/geo/Continent/Département~Allier.protect.md|Département~Allier.protect]] 
-- [[../../../../_private/geo/Continent/Département~Allier.private.md|Département~Allier.private]] 
-- [[../../../../_personal/geo/Continent/Département~Allier.personal.md|Département~Allier.personal]] 
-- [[../../../../_secret/geo/Continent/Département~Allier.secret.md|Département~Allier.secret]] 
+- [[../../../../_internal/geo/Continent/Département~Allier.internal|Département~Allier.internal]] 
+- [[../../../../_protect/geo/Continent/Département~Allier.protect|Département~Allier.protect]] 
+- [[../../../../_private/geo/Continent/Département~Allier.private|Département~Allier.private]] 
+- [[../../../../_personal/geo/Continent/Département~Allier.personal|Département~Allier.personal]] 
+- [[../../../../_secret/geo/Continent/Département~Allier.secret|Département~Allier.secret]] 
 

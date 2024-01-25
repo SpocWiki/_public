@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Segmentation-Automation]
 [SpocWebEntityId::25940]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.md|Triz-Ease_of_manufacture+Segmentation-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.internal.md|Triz-Ease_of_manufacture+Segmentation-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.protect.md|Triz-Ease_of_manufacture+Segmentation-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.private.md|Triz-Ease_of_manufacture+Segmentation-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.personal.md|Triz-Ease_of_manufacture+Segmentation-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.secret.md|Triz-Ease_of_manufacture+Segmentation-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.internal|Triz-Ease_of_manufacture+Segmentation-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.protect|Triz-Ease_of_manufacture+Segmentation-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.private|Triz-Ease_of_manufacture+Segmentation-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.personal|Triz-Ease_of_manufacture+Segmentation-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.secret|Triz-Ease_of_manufacture+Segmentation-Automation.secret]] 

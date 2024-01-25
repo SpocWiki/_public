@@ -41,9 +41,9 @@ markerFolder: ./Świętokrzyskie/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.md|Świętokrzyskie]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.internal.md|Świętokrzyskie.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.protect.md|Świętokrzyskie.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.private.md|Świętokrzyskie.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.personal.md|Świętokrzyskie.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.secret.md|Świętokrzyskie.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.internal|Świętokrzyskie.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.protect|Świętokrzyskie.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.private|Świętokrzyskie.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.personal|Świętokrzyskie.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Świętokrzyskie.secret|Świętokrzyskie.secret]] 
 

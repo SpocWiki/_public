@@ -35,8 +35,8 @@ SpocWebEntityId: 21981
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Radon.md|Radon]] 
-- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Radon.internal.md|Radon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Radon.protect.md|Radon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Radon.private.md|Radon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Radon.personal.md|Radon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Radon.secret.md|Radon.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Radon.internal|Radon.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Radon.protect|Radon.protect]] 
+- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Radon.private|Radon.private]] 
+- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Radon.personal|Radon.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Radon.secret|Radon.secret]] 

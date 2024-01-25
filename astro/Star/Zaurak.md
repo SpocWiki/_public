@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Zaurak.md|Zaurak]] 
-- [[../../../_internal/astro/Star/Zaurak.internal.md|Zaurak.internal]] 
-- [[../../../_protect/astro/Star/Zaurak.protect.md|Zaurak.protect]] 
-- [[../../../_private/astro/Star/Zaurak.private.md|Zaurak.private]] 
-- [[../../../_personal/astro/Star/Zaurak.personal.md|Zaurak.personal]] 
-- [[../../../_secret/astro/Star/Zaurak.secret.md|Zaurak.secret]] 
+- [[../../../_internal/astro/Star/Zaurak.internal|Zaurak.internal]] 
+- [[../../../_protect/astro/Star/Zaurak.protect|Zaurak.protect]] 
+- [[../../../_private/astro/Star/Zaurak.private|Zaurak.private]] 
+- [[../../../_personal/astro/Star/Zaurak.personal|Zaurak.personal]] 
+- [[../../../_secret/astro/Star/Zaurak.secret|Zaurak.secret]] 

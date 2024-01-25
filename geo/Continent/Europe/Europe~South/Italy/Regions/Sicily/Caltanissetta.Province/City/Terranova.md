@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Terranova.md|Terranova]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Terranova.internal.md|Terranova.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Terranova.protect.md|Terranova.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Terranova.private.md|Terranova.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Terranova.personal.md|Terranova.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Terranova.secret.md|Terranova.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Terranova.internal|Terranova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Terranova.protect|Terranova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Terranova.private|Terranova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Terranova.personal|Terranova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Terranova.secret|Terranova.secret]] 

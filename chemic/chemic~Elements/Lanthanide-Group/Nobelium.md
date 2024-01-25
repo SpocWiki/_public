@@ -38,8 +38,8 @@ SpocWebEntityId: 21997
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Nobelium.md|Nobelium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Nobelium.internal.md|Nobelium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Nobelium.protect.md|Nobelium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Nobelium.private.md|Nobelium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Nobelium.personal.md|Nobelium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Nobelium.secret.md|Nobelium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Nobelium.internal|Nobelium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Nobelium.protect|Nobelium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Nobelium.private|Nobelium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Nobelium.personal|Nobelium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Nobelium.secret|Nobelium.secret]] 

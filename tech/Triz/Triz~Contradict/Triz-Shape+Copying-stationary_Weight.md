@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Copying-stationary_Weight]
 [SpocWebEntityId::23715]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.md|Triz-Shape+Copying-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.internal.md|Triz-Shape+Copying-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.protect.md|Triz-Shape+Copying-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.private.md|Triz-Shape+Copying-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.personal.md|Triz-Shape+Copying-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.secret.md|Triz-Shape+Copying-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.internal|Triz-Shape+Copying-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.protect|Triz-Shape+Copying-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.private|Triz-Shape+Copying-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.personal|Triz-Shape+Copying-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.secret|Triz-Shape+Copying-stationary_Weight.secret]] 

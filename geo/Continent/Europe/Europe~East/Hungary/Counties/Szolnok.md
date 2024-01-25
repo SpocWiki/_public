@@ -41,9 +41,9 @@ markerFolder: ./Szolnok/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Szolnok.md|Szolnok]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szolnok.internal.md|Szolnok.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szolnok.protect.md|Szolnok.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szolnok.private.md|Szolnok.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szolnok.personal.md|Szolnok.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szolnok.secret.md|Szolnok.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szolnok.internal|Szolnok.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szolnok.protect|Szolnok.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szolnok.private|Szolnok.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szolnok.personal|Szolnok.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szolnok.secret|Szolnok.secret]] 
 

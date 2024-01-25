@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Targu-Jiu.md|Targu-Jiu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Targu-Jiu.internal.md|Targu-Jiu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Targu-Jiu.protect.md|Targu-Jiu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Targu-Jiu.private.md|Targu-Jiu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Targu-Jiu.personal.md|Targu-Jiu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Targu-Jiu.secret.md|Targu-Jiu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Targu-Jiu.internal|Targu-Jiu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Targu-Jiu.protect|Targu-Jiu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Targu-Jiu.private|Targu-Jiu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Targu-Jiu.personal|Targu-Jiu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Targu-Jiu.secret|Targu-Jiu.secret]] 

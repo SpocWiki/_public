@@ -41,9 +41,9 @@ markerFolder: ./Suchitepéquez/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.md|Suchitepéquez]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.internal.md|Suchitepéquez.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.protect.md|Suchitepéquez.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.private.md|Suchitepéquez.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.personal.md|Suchitepéquez.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.secret.md|Suchitepéquez.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.internal|Suchitepéquez.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.protect|Suchitepéquez.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.private|Suchitepéquez.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.personal|Suchitepéquez.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Suchitepéquez.secret|Suchitepéquez.secret]] 
 

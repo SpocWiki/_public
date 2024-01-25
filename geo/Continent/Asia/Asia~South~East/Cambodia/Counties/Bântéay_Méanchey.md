@@ -41,9 +41,9 @@ markerFolder: ./Bântéay_Méanchey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.md|Bântéay_Méanchey]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.internal.md|Bântéay_Méanchey.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.protect.md|Bântéay_Méanchey.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.private.md|Bântéay_Méanchey.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.personal.md|Bântéay_Méanchey.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.secret.md|Bântéay_Méanchey.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.internal|Bântéay_Méanchey.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.protect|Bântéay_Méanchey.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.private|Bântéay_Méanchey.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.personal|Bântéay_Méanchey.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Bântéay_Méanchey.secret|Bântéay_Méanchey.secret]] 
 

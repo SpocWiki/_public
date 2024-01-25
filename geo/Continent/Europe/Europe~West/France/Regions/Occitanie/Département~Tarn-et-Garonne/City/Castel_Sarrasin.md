@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Castel_Sarrasin.md|Castel_Sarrasin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Castel_Sarrasin.internal.md|Castel_Sarrasin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Castel_Sarrasin.protect.md|Castel_Sarrasin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Castel_Sarrasin.private.md|Castel_Sarrasin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Castel_Sarrasin.personal.md|Castel_Sarrasin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Castel_Sarrasin.secret.md|Castel_Sarrasin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Castel_Sarrasin.internal|Castel_Sarrasin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Castel_Sarrasin.protect|Castel_Sarrasin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Castel_Sarrasin.private|Castel_Sarrasin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Castel_Sarrasin.personal|Castel_Sarrasin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Castel_Sarrasin.secret|Castel_Sarrasin.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Wicklow/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Wicklow.md|Wicklow]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Wicklow.internal.md|Wicklow.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Wicklow.protect.md|Wicklow.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Wicklow.private.md|Wicklow.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Wicklow.personal.md|Wicklow.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Wicklow.secret.md|Wicklow.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Wicklow.internal|Wicklow.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Wicklow.protect|Wicklow.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Wicklow.private|Wicklow.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Wicklow.personal|Wicklow.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Wicklow.secret|Wicklow.secret]] 
 

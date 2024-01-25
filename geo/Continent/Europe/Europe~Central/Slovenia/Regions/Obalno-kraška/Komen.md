@@ -41,9 +41,9 @@ markerFolder: ./Komen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.md|Komen]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.internal.md|Komen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.protect.md|Komen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.private.md|Komen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.personal.md|Komen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.secret.md|Komen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.internal|Komen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.protect|Komen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.private|Komen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.personal|Komen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Komen.secret|Komen.secret]] 
 

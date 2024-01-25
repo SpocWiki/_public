@@ -35,8 +35,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/North_Carolina.md|North_Carolina]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/North_Carolina.internal.md|North_Carolina.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/North_Carolina.protect.md|North_Carolina.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/North_Carolina.private.md|North_Carolina.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/North_Carolina.personal.md|North_Carolina.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/North_Carolina.secret.md|North_Carolina.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/North_Carolina.internal|North_Carolina.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/North_Carolina.protect|North_Carolina.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/North_Carolina.private|North_Carolina.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/North_Carolina.personal|North_Carolina.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/North_Carolina.secret|North_Carolina.secret]] 

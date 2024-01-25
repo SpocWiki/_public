@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Rumelange.md|Rumelange]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Rumelange.internal.md|Rumelange.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Rumelange.protect.md|Rumelange.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Rumelange.private.md|Rumelange.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Rumelange.personal.md|Rumelange.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Rumelange.secret.md|Rumelange.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Rumelange.internal|Rumelange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Rumelange.protect|Rumelange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Rumelange.private|Rumelange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Rumelange.personal|Rumelange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Rumelange.secret|Rumelange.secret]] 

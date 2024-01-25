@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Tetango.md|Tetango]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Tetango.internal.md|Tetango.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Tetango.protect.md|Tetango.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Tetango.private.md|Tetango.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Tetango.personal.md|Tetango.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Tetango.secret.md|Tetango.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Tetango.internal|Tetango.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Tetango.protect|Tetango.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Tetango.private|Tetango.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Tetango.personal|Tetango.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Tetango.secret|Tetango.secret]] 

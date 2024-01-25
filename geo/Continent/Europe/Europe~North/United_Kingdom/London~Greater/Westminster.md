@@ -41,9 +41,9 @@ markerFolder: ./Westminster/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.md|Westminster]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.internal.md|Westminster.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.protect.md|Westminster.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.private.md|Westminster.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.personal.md|Westminster.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.secret.md|Westminster.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.internal|Westminster.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.protect|Westminster.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.private|Westminster.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.personal|Westminster.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Westminster.secret|Westminster.secret]] 
 

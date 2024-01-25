@@ -41,9 +41,9 @@ markerFolder: ./Belait/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Brunei/Counties/Belait.md|Belait]] 
-- [[../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Belait.internal.md|Belait.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Belait.protect.md|Belait.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Brunei/Counties/Belait.private.md|Belait.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Belait.personal.md|Belait.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Belait.secret.md|Belait.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Belait.internal|Belait.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Belait.protect|Belait.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Brunei/Counties/Belait.private|Belait.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Belait.personal|Belait.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Belait.secret|Belait.secret]] 
 

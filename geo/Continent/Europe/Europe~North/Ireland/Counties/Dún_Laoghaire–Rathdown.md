@@ -41,9 +41,9 @@ markerFolder: ./Dún_Laoghaire–Rathdown/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.md|Dún_Laoghaire–Rathdown]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.internal.md|Dún_Laoghaire–Rathdown.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.protect.md|Dún_Laoghaire–Rathdown.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.private.md|Dún_Laoghaire–Rathdown.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.personal.md|Dún_Laoghaire–Rathdown.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.secret.md|Dún_Laoghaire–Rathdown.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.internal|Dún_Laoghaire–Rathdown.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.protect|Dún_Laoghaire–Rathdown.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.private|Dún_Laoghaire–Rathdown.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.personal|Dún_Laoghaire–Rathdown.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Dún_Laoghaire–Rathdown.secret|Dún_Laoghaire–Rathdown.secret]] 
 

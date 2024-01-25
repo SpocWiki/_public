@@ -41,9 +41,9 @@ markerFolder: ./Bhojpur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.md|Bhojpur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.internal.md|Bhojpur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.protect.md|Bhojpur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.private.md|Bhojpur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.personal.md|Bhojpur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.secret.md|Bhojpur.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.internal|Bhojpur.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.protect|Bhojpur.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.private|Bhojpur.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.personal|Bhojpur.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Bhojpur.secret|Bhojpur.secret]] 
 

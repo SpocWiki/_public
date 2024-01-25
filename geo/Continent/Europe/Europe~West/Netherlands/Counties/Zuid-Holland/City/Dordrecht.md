@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Dordrecht.md|Dordrecht]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Dordrecht.internal.md|Dordrecht.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Dordrecht.protect.md|Dordrecht.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Dordrecht.private.md|Dordrecht.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Dordrecht.personal.md|Dordrecht.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Dordrecht.secret.md|Dordrecht.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Dordrecht.internal|Dordrecht.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Dordrecht.protect|Dordrecht.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Dordrecht.private|Dordrecht.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Dordrecht.personal|Dordrecht.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Dordrecht.secret|Dordrecht.secret]] 

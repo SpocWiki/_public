@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.md|Sri_Jayawardenapura-Kotte]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.internal.md|Sri_Jayawardenapura-Kotte.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.protect.md|Sri_Jayawardenapura-Kotte.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.private.md|Sri_Jayawardenapura-Kotte.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.personal.md|Sri_Jayawardenapura-Kotte.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.secret.md|Sri_Jayawardenapura-Kotte.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.internal|Sri_Jayawardenapura-Kotte.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.protect|Sri_Jayawardenapura-Kotte.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.private|Sri_Jayawardenapura-Kotte.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.personal|Sri_Jayawardenapura-Kotte.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.secret|Sri_Jayawardenapura-Kotte.secret]] 

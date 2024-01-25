@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Oberursel-Weißkirchen_Steinbach|S-Oberursel-Weißkirchen_Steinbach]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.internal.md|S-Oberursel-Weißkirchen_Steinbach.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.protect.md|S-Oberursel-Weißkirchen_Steinbach.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.private.md|S-Oberursel-Weißkirchen_Steinbach.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.personal.md|S-Oberursel-Weißkirchen_Steinbach.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.secret.md|S-Oberursel-Weißkirchen_Steinbach.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.internal|S-Oberursel-Weißkirchen_Steinbach.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.protect|S-Oberursel-Weißkirchen_Steinbach.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.private|S-Oberursel-Weißkirchen_Steinbach.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.personal|S-Oberursel-Weißkirchen_Steinbach.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Weißkirchen_Steinbach.secret|S-Oberursel-Weißkirchen_Steinbach.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Priobisch.md|Priobisch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Priobisch.internal.md|Priobisch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Priobisch.protect.md|Priobisch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Priobisch.private.md|Priobisch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Priobisch.personal.md|Priobisch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Priobisch.secret.md|Priobisch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Priobisch.internal|Priobisch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Priobisch.protect|Priobisch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Priobisch.private|Priobisch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Priobisch.personal|Priobisch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Priobisch.secret|Priobisch.secret]] 

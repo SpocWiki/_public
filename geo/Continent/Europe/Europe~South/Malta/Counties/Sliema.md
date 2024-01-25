@@ -41,9 +41,9 @@ markerFolder: ./Sliema/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Sliema.md|Sliema]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Sliema.internal.md|Sliema.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Sliema.protect.md|Sliema.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Sliema.private.md|Sliema.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Sliema.personal.md|Sliema.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Sliema.secret.md|Sliema.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Sliema.internal|Sliema.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Sliema.protect|Sliema.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Sliema.private|Sliema.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Sliema.personal|Sliema.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Sliema.secret|Sliema.secret]] 
 

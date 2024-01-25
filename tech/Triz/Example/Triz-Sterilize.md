@@ -18,8 +18,8 @@ Sterilize all Instruments needed for a surgical Procedure on a Sealed Tray.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Sterilize.md|Triz-Sterilize]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Sterilize.internal.md|Triz-Sterilize.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Sterilize.protect.md|Triz-Sterilize.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Sterilize.private.md|Triz-Sterilize.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Sterilize.personal.md|Triz-Sterilize.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Sterilize.secret.md|Triz-Sterilize.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Sterilize.internal|Triz-Sterilize.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Sterilize.protect|Triz-Sterilize.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Sterilize.private|Triz-Sterilize.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Sterilize.personal|Triz-Sterilize.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Sterilize.secret|Triz-Sterilize.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Worcester.md|Worcester]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Worcester.internal.md|Worcester.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Worcester.protect.md|Worcester.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Worcester.private.md|Worcester.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Worcester.personal.md|Worcester.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Worcester.secret.md|Worcester.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Worcester.internal|Worcester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Worcester.protect|Worcester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Worcester.private|Worcester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Worcester.personal|Worcester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Worcester.secret|Worcester.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hrpelje-Kozina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.md|Hrpelje-Kozina]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.internal.md|Hrpelje-Kozina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.protect.md|Hrpelje-Kozina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.private.md|Hrpelje-Kozina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.personal.md|Hrpelje-Kozina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.secret.md|Hrpelje-Kozina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.internal|Hrpelje-Kozina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.protect|Hrpelje-Kozina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.private|Hrpelje-Kozina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.personal|Hrpelje-Kozina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Obalno-kraška/Hrpelje-Kozina.secret|Hrpelje-Kozina.secret]] 
 

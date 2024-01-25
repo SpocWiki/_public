@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Extraction-Illumination]
 [SpocWebEntityId::23231]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.md|Triz-moving_Volume+Extraction-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.internal.md|Triz-moving_Volume+Extraction-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.protect.md|Triz-moving_Volume+Extraction-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.private.md|Triz-moving_Volume+Extraction-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.personal.md|Triz-moving_Volume+Extraction-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.secret.md|Triz-moving_Volume+Extraction-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.internal|Triz-moving_Volume+Extraction-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.protect|Triz-moving_Volume+Extraction-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.private|Triz-moving_Volume+Extraction-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.personal|Triz-moving_Volume+Extraction-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.secret|Triz-moving_Volume+Extraction-Illumination.secret]] 

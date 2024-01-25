@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Rushing_through-Speed]
 [SpocWebEntityId::25606]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Rushing_through]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.md|Triz-affected_harm+Rushing_through-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.internal.md|Triz-affected_harm+Rushing_through-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.protect.md|Triz-affected_harm+Rushing_through-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.private.md|Triz-affected_harm+Rushing_through-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.personal.md|Triz-affected_harm+Rushing_through-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.secret.md|Triz-affected_harm+Rushing_through-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.internal|Triz-affected_harm+Rushing_through-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.protect|Triz-affected_harm+Rushing_through-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.private|Triz-affected_harm+Rushing_through-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.personal|Triz-affected_harm+Rushing_through-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.secret|Triz-affected_harm+Rushing_through-Speed.secret]] 

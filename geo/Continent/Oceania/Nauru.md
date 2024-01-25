@@ -132,8 +132,8 @@ markerFolder: ./Nauru/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru.md|Nauru]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru.internal.md|Nauru.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru.protect.md|Nauru.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru.private.md|Nauru.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru.personal.md|Nauru.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru.secret.md|Nauru.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru.internal|Nauru.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru.protect|Nauru.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru.private|Nauru.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru.personal|Nauru.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru.secret|Nauru.secret]] 

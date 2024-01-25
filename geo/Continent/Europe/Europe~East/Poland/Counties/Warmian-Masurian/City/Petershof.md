@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Petershof.md|Petershof]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Petershof.internal.md|Petershof.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Petershof.protect.md|Petershof.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Petershof.private.md|Petershof.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Petershof.personal.md|Petershof.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Petershof.secret.md|Petershof.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Petershof.internal|Petershof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Petershof.protect|Petershof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Petershof.private|Petershof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Petershof.personal|Petershof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Petershof.secret|Petershof.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Trabzon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Trabzon.md|Trabzon]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Trabzon.internal.md|Trabzon.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Trabzon.protect.md|Trabzon.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Trabzon.private.md|Trabzon.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Trabzon.personal.md|Trabzon.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Trabzon.secret.md|Trabzon.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Trabzon.internal|Trabzon.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Trabzon.protect|Trabzon.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Trabzon.private|Trabzon.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Trabzon.personal|Trabzon.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Trabzon.secret|Trabzon.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Tunis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Tunis.md|Tunis]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tunis.internal.md|Tunis.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tunis.protect.md|Tunis.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tunis.private.md|Tunis.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tunis.personal.md|Tunis.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tunis.secret.md|Tunis.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tunis.internal|Tunis.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tunis.protect|Tunis.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tunis.private|Tunis.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tunis.personal|Tunis.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tunis.secret|Tunis.secret]] 
 

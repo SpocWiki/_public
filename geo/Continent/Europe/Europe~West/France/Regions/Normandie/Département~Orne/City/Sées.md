@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Sées.md|Sées]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sées.internal.md|Sées.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sées.protect.md|Sées.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Sées.private.md|Sées.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sées.personal.md|Sées.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sées.secret.md|Sées.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sées.internal|Sées.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sées.protect|Sées.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Sées.private|Sées.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sées.personal|Sées.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sées.secret|Sées.secret]] 

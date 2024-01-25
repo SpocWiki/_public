@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Teufenbach.md|Teufenbach]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Teufenbach.internal.md|Teufenbach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Teufenbach.protect.md|Teufenbach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Teufenbach.private.md|Teufenbach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Teufenbach.personal.md|Teufenbach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Teufenbach.secret.md|Teufenbach.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Teufenbach.internal|Teufenbach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Teufenbach.protect|Teufenbach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Teufenbach.private|Teufenbach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Teufenbach.personal|Teufenbach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Teufenbach.secret|Teufenbach.secret]] 

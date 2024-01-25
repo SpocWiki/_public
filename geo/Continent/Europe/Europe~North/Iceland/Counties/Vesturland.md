@@ -41,9 +41,9 @@ markerFolder: ./Vesturland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Vesturland.md|Vesturland]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Vesturland.internal.md|Vesturland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Vesturland.protect.md|Vesturland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Vesturland.private.md|Vesturland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Vesturland.personal.md|Vesturland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Vesturland.secret.md|Vesturland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Vesturland.internal|Vesturland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Vesturland.protect|Vesturland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Vesturland.private|Vesturland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Vesturland.personal|Vesturland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Vesturland.secret|Vesturland.secret]] 
 

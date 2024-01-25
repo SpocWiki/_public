@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sulau.md|Sulau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sulau.internal.md|Sulau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sulau.protect.md|Sulau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sulau.private.md|Sulau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sulau.personal.md|Sulau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sulau.secret.md|Sulau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sulau.internal|Sulau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sulau.protect|Sulau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sulau.private|Sulau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sulau.personal|Sulau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sulau.secret|Sulau.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Dosso/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Niger/Counties/Dosso.md|Dosso]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Dosso.internal.md|Dosso.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Dosso.protect.md|Dosso.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Dosso.private.md|Dosso.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Dosso.personal.md|Dosso.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Dosso.secret.md|Dosso.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Dosso.internal|Dosso.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Dosso.protect|Dosso.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Dosso.private|Dosso.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Dosso.personal|Dosso.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Dosso.secret|Dosso.secret]] 
 

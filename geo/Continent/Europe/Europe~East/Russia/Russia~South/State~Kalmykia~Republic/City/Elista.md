@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Elista.md|Elista]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Elista.internal.md|Elista.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Elista.protect.md|Elista.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Elista.private.md|Elista.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Elista.personal.md|Elista.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Elista.secret.md|Elista.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Elista.internal|Elista.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Elista.protect|Elista.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Elista.private|Elista.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Elista.personal|Elista.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Elista.secret|Elista.secret]] 

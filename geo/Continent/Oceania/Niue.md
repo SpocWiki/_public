@@ -131,8 +131,8 @@ markerFolder: ./Niue/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Niue.md|Niue]] 
-- [[../../../../_internal/geo/Continent/Oceania/Niue.internal.md|Niue.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Niue.protect.md|Niue.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Niue.private.md|Niue.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Niue.personal.md|Niue.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Niue.secret.md|Niue.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Niue.internal|Niue.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Niue.protect|Niue.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Niue.private|Niue.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Niue.personal|Niue.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Niue.secret|Niue.secret]] 

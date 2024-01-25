@@ -41,9 +41,9 @@ markerFolder: ./Clarendon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.md|Clarendon]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.internal.md|Clarendon.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.protect.md|Clarendon.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.private.md|Clarendon.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.personal.md|Clarendon.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.secret.md|Clarendon.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.internal|Clarendon.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.protect|Clarendon.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.private|Clarendon.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.personal|Clarendon.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.secret|Clarendon.secret]] 
 

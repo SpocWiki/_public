@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Segmentation-Complexity]
 [SpocWebEntityId::23091]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.md|Triz-moving_Area+Segmentation-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.internal.md|Triz-moving_Area+Segmentation-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.protect.md|Triz-moving_Area+Segmentation-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.private.md|Triz-moving_Area+Segmentation-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.personal.md|Triz-moving_Area+Segmentation-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.secret.md|Triz-moving_Area+Segmentation-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.internal|Triz-moving_Area+Segmentation-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.protect|Triz-moving_Area+Segmentation-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.private|Triz-moving_Area+Segmentation-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.personal|Triz-moving_Area+Segmentation-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Segmentation-Complexity.secret|Triz-moving_Area+Segmentation-Complexity.secret]] 

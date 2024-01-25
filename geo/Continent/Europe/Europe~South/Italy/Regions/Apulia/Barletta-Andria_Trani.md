@@ -41,9 +41,9 @@ markerFolder: ./Barletta-Andria_Trani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.md|Barletta-Andria_Trani]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.internal.md|Barletta-Andria_Trani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.protect.md|Barletta-Andria_Trani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.private.md|Barletta-Andria_Trani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.personal.md|Barletta-Andria_Trani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.secret.md|Barletta-Andria_Trani.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.internal|Barletta-Andria_Trani.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.protect|Barletta-Andria_Trani.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.private|Barletta-Andria_Trani.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.personal|Barletta-Andria_Trani.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Barletta-Andria_Trani.secret|Barletta-Andria_Trani.secret]] 
 

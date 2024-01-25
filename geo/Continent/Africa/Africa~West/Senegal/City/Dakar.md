@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Senegal/City/Dakar.md|Dakar]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/City/Dakar.internal.md|Dakar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/City/Dakar.protect.md|Dakar.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/City/Dakar.private.md|Dakar.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/City/Dakar.personal.md|Dakar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/City/Dakar.secret.md|Dakar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/City/Dakar.internal|Dakar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/City/Dakar.protect|Dakar.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/City/Dakar.private|Dakar.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/City/Dakar.personal|Dakar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/City/Dakar.secret|Dakar.secret]] 

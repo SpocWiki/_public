@@ -18,8 +18,8 @@ Medical diagnostic instruments that analyze multiple blood parameters simultaneo
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-multiple_diagnostic.md|Triz-multiple_diagnostic]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-multiple_diagnostic.internal.md|Triz-multiple_diagnostic.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-multiple_diagnostic.protect.md|Triz-multiple_diagnostic.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-multiple_diagnostic.private.md|Triz-multiple_diagnostic.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-multiple_diagnostic.personal.md|Triz-multiple_diagnostic.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-multiple_diagnostic.secret.md|Triz-multiple_diagnostic.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-multiple_diagnostic.internal|Triz-multiple_diagnostic.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-multiple_diagnostic.protect|Triz-multiple_diagnostic.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-multiple_diagnostic.private|Triz-multiple_diagnostic.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-multiple_diagnostic.personal|Triz-multiple_diagnostic.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-multiple_diagnostic.secret|Triz-multiple_diagnostic.secret]] 

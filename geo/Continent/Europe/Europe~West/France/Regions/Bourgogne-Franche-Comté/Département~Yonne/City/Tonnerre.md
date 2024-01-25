@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Tonnerre.md|Tonnerre]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tonnerre.internal.md|Tonnerre.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tonnerre.protect.md|Tonnerre.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Tonnerre.private.md|Tonnerre.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tonnerre.personal.md|Tonnerre.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tonnerre.secret.md|Tonnerre.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tonnerre.internal|Tonnerre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tonnerre.protect|Tonnerre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Tonnerre.private|Tonnerre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tonnerre.personal|Tonnerre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tonnerre.secret|Tonnerre.secret]] 

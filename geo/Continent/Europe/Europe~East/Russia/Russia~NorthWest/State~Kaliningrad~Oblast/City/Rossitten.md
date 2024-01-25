@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Rossitten.md|Rossitten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Rossitten.internal.md|Rossitten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Rossitten.protect.md|Rossitten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Rossitten.private.md|Rossitten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Rossitten.personal.md|Rossitten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Rossitten.secret.md|Rossitten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Rossitten.internal|Rossitten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Rossitten.protect|Rossitten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Rossitten.private|Rossitten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Rossitten.personal|Rossitten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Rossitten.secret|Rossitten.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/San_Sebastian.md|San_Sebastian]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/San_Sebastian.internal.md|San_Sebastian.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/San_Sebastian.protect.md|San_Sebastian.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/San_Sebastian.private.md|San_Sebastian.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/San_Sebastian.personal.md|San_Sebastian.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/San_Sebastian.secret.md|San_Sebastian.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/San_Sebastian.internal|San_Sebastian.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/San_Sebastian.protect|San_Sebastian.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/San_Sebastian.private|San_Sebastian.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/San_Sebastian.personal|San_Sebastian.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/San_Sebastian.secret|San_Sebastian.secret]] 

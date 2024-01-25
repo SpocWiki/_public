@@ -41,9 +41,9 @@ markerFolder: ./San_Ġwann/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/San_Ġwann.md|San_Ġwann]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/San_Ġwann.internal.md|San_Ġwann.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/San_Ġwann.protect.md|San_Ġwann.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/San_Ġwann.private.md|San_Ġwann.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/San_Ġwann.personal.md|San_Ġwann.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/San_Ġwann.secret.md|San_Ġwann.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/San_Ġwann.internal|San_Ġwann.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/San_Ġwann.protect|San_Ġwann.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/San_Ġwann.private|San_Ġwann.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/San_Ġwann.personal|San_Ġwann.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/San_Ġwann.secret|San_Ġwann.secret]] 
 

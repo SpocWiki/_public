@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Clusone.md|Clusone]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Clusone.internal.md|Clusone.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Clusone.protect.md|Clusone.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Clusone.private.md|Clusone.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Clusone.personal.md|Clusone.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Clusone.secret.md|Clusone.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Clusone.internal|Clusone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Clusone.protect|Clusone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Clusone.private|Clusone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Clusone.personal|Clusone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Clusone.secret|Clusone.secret]] 

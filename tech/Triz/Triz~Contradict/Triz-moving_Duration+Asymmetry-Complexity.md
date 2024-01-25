@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Duration+Asymmetry-Complexity]
 [SpocWebEntityId::24155]
-+ [pro::[[Triz-moving_Duration]]]
++ [#has_/Pros :: [[Triz-moving_Duration]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.md|Triz-moving_Duration+Asymmetry-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.internal.md|Triz-moving_Duration+Asymmetry-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.protect.md|Triz-moving_Duration+Asymmetry-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.private.md|Triz-moving_Duration+Asymmetry-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.personal.md|Triz-moving_Duration+Asymmetry-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.secret.md|Triz-moving_Duration+Asymmetry-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.internal|Triz-moving_Duration+Asymmetry-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.protect|Triz-moving_Duration+Asymmetry-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.private|Triz-moving_Duration+Asymmetry-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.personal|Triz-moving_Duration+Asymmetry-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.secret|Triz-moving_Duration+Asymmetry-Complexity.secret]] 

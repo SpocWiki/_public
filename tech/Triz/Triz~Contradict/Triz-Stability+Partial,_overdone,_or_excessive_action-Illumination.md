@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Partial,_overdone,_or_excessive_action-Illumination]
 [SpocWebEntityId::23884]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.md|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.internal.md|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.protect.md|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.private.md|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.personal.md|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.secret.md|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.internal|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.protect|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.private|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.personal|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.secret|Triz-Stability+Partial,_overdone,_or_excessive_action-Illumination.secret]] 

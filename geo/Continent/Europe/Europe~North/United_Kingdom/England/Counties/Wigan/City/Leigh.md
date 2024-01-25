@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Leigh.md|Leigh]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leigh.internal.md|Leigh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leigh.protect.md|Leigh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leigh.private.md|Leigh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leigh.personal.md|Leigh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leigh.secret.md|Leigh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leigh.internal|Leigh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leigh.protect|Leigh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leigh.private|Leigh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leigh.personal|Leigh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leigh.secret|Leigh.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Dynamicity-generated_harm]
 [SpocWebEntityId::22886]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.md|Triz-moving_Length+Dynamicity-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.internal.md|Triz-moving_Length+Dynamicity-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.protect.md|Triz-moving_Length+Dynamicity-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.private.md|Triz-moving_Length+Dynamicity-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.personal.md|Triz-moving_Length+Dynamicity-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.secret.md|Triz-moving_Length+Dynamicity-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.internal|Triz-moving_Length+Dynamicity-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.protect|Triz-moving_Length+Dynamicity-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.private|Triz-moving_Length+Dynamicity-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.personal|Triz-moving_Length+Dynamicity-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-generated_harm.secret|Triz-moving_Length+Dynamicity-generated_harm.secret]] 

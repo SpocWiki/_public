@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petrowskaie.md|Petrowskaie]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrowskaie.internal.md|Petrowskaie.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrowskaie.protect.md|Petrowskaie.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrowskaie.private.md|Petrowskaie.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrowskaie.personal.md|Petrowskaie.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrowskaie.secret.md|Petrowskaie.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrowskaie.internal|Petrowskaie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrowskaie.protect|Petrowskaie.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrowskaie.private|Petrowskaie.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrowskaie.personal|Petrowskaie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrowskaie.secret|Petrowskaie.secret]] 

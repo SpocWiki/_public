@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.md|Tyrnau=Trnava]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.internal.md|Tyrnau=Trnava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.protect.md|Tyrnau=Trnava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.private.md|Tyrnau=Trnava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.personal.md|Tyrnau=Trnava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.secret.md|Tyrnau=Trnava.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.internal|Tyrnau=Trnava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.protect|Tyrnau=Trnava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.private|Tyrnau=Trnava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.personal|Tyrnau=Trnava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.secret|Tyrnau=Trnava.secret]] 

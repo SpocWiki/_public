@@ -41,9 +41,9 @@ markerFolder: ./Fars/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.md|Fars]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.internal.md|Fars.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.protect.md|Fars.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.private.md|Fars.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.personal.md|Fars.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.secret.md|Fars.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.internal|Fars.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.protect|Fars.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.private|Fars.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.personal|Fars.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Fars.secret|Fars.secret]] 
 

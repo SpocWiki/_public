@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Extraction-Manufacturing_Precision]
 [SpocWebEntityId::22973]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.md|Triz-stationary_Length+Extraction-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.internal.md|Triz-stationary_Length+Extraction-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.protect.md|Triz-stationary_Length+Extraction-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.private.md|Triz-stationary_Length+Extraction-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.personal.md|Triz-stationary_Length+Extraction-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.secret.md|Triz-stationary_Length+Extraction-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.internal|Triz-stationary_Length+Extraction-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.protect|Triz-stationary_Length+Extraction-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.private|Triz-stationary_Length+Extraction-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.personal|Triz-stationary_Length+Extraction-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Extraction-Manufacturing_Precision.secret|Triz-stationary_Length+Extraction-Manufacturing_Precision.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.md|Adamstown]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.internal.md|Adamstown.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.protect.md|Adamstown.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.private.md|Adamstown.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.personal.md|Adamstown.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.secret.md|Adamstown.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.internal|Adamstown.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.protect|Adamstown.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.private|Adamstown.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.personal|Adamstown.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.secret|Adamstown.secret]] 

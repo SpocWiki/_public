@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Dukati.md|Dukati]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Dukati.internal.md|Dukati.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Dukati.protect.md|Dukati.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Dukati.private.md|Dukati.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Dukati.personal.md|Dukati.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Dukati.secret.md|Dukati.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Dukati.internal|Dukati.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Dukati.protect|Dukati.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Dukati.private|Dukati.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Dukati.personal|Dukati.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Dukati.secret|Dukati.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Isle_of_Man/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Isle_of_Man.md|Isle_of_Man]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Isle_of_Man.internal.md|Isle_of_Man.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Isle_of_Man.protect.md|Isle_of_Man.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Isle_of_Man.private.md|Isle_of_Man.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Isle_of_Man.personal.md|Isle_of_Man.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Isle_of_Man.secret.md|Isle_of_Man.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Isle_of_Man.internal|Isle_of_Man.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Isle_of_Man.protect|Isle_of_Man.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Isle_of_Man.private|Isle_of_Man.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Isle_of_Man.personal|Isle_of_Man.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Isle_of_Man.secret|Isle_of_Man.secret]] 
 

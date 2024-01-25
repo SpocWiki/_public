@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Lesath.md|Lesath]] 
-- [[../../../_internal/astro/Star/Lesath.internal.md|Lesath.internal]] 
-- [[../../../_protect/astro/Star/Lesath.protect.md|Lesath.protect]] 
-- [[../../../_private/astro/Star/Lesath.private.md|Lesath.private]] 
-- [[../../../_personal/astro/Star/Lesath.personal.md|Lesath.personal]] 
-- [[../../../_secret/astro/Star/Lesath.secret.md|Lesath.secret]] 
+- [[../../../_internal/astro/Star/Lesath.internal|Lesath.internal]] 
+- [[../../../_protect/astro/Star/Lesath.protect|Lesath.protect]] 
+- [[../../../_private/astro/Star/Lesath.private|Lesath.private]] 
+- [[../../../_personal/astro/Star/Lesath.personal|Lesath.personal]] 
+- [[../../../_secret/astro/Star/Lesath.secret|Lesath.secret]] 

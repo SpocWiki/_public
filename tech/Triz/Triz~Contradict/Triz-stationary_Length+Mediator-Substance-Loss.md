@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Mediator-Substance-Loss]
 [SpocWebEntityId::22960]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.md|Triz-stationary_Length+Mediator-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.internal.md|Triz-stationary_Length+Mediator-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.protect.md|Triz-stationary_Length+Mediator-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.private.md|Triz-stationary_Length+Mediator-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.personal.md|Triz-stationary_Length+Mediator-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.secret.md|Triz-stationary_Length+Mediator-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.internal|Triz-stationary_Length+Mediator-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.protect|Triz-stationary_Length+Mediator-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.private|Triz-stationary_Length+Mediator-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.personal|Triz-stationary_Length+Mediator-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.secret|Triz-stationary_Length+Mediator-Substance-Loss.secret]] 

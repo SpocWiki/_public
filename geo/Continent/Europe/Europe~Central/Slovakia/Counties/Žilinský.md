@@ -41,9 +41,9 @@ markerFolder: ./Žilinský/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovakia/Counties/Žilinský.md|Žilinský]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Žilinský.internal.md|Žilinský.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Žilinský.protect.md|Žilinský.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Žilinský.private.md|Žilinský.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Žilinský.personal.md|Žilinský.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Žilinský.secret.md|Žilinský.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Žilinský.internal|Žilinský.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Žilinský.protect|Žilinský.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Žilinský.private|Žilinský.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Žilinský.personal|Žilinský.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Žilinský.secret|Žilinský.secret]] 
 

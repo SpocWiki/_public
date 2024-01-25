@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Thermal_expansion-moving_Length]
 [SpocWebEntityId::24592]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.md|Triz-Power+Thermal_expansion-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.internal.md|Triz-Power+Thermal_expansion-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.protect.md|Triz-Power+Thermal_expansion-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.private.md|Triz-Power+Thermal_expansion-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.personal.md|Triz-Power+Thermal_expansion-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.secret.md|Triz-Power+Thermal_expansion-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.internal|Triz-Power+Thermal_expansion-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.protect|Triz-Power+Thermal_expansion-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.private|Triz-Power+Thermal_expansion-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.personal|Triz-Power+Thermal_expansion-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.secret|Triz-Power+Thermal_expansion-moving_Length.secret]] 

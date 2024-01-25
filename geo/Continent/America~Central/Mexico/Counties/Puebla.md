@@ -41,9 +41,9 @@ markerFolder: ./Puebla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Puebla.md|Puebla]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Puebla.internal.md|Puebla.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Puebla.protect.md|Puebla.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Puebla.private.md|Puebla.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Puebla.personal.md|Puebla.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Puebla.secret.md|Puebla.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Puebla.internal|Puebla.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Puebla.protect|Puebla.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Puebla.private|Puebla.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Puebla.personal|Puebla.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Puebla.secret|Puebla.secret]] 
 

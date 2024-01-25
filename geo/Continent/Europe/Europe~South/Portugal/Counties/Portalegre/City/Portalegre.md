@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Portalegre.md|Portalegre]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Portalegre.internal.md|Portalegre.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Portalegre.protect.md|Portalegre.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Portalegre.private.md|Portalegre.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Portalegre.personal.md|Portalegre.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Portalegre.secret.md|Portalegre.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Portalegre.internal|Portalegre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Portalegre.protect|Portalegre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Portalegre.private|Portalegre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Portalegre.personal|Portalegre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Portalegre.secret|Portalegre.secret]] 

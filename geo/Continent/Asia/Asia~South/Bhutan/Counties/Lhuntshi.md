@@ -41,9 +41,9 @@ markerFolder: ./Lhuntshi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.md|Lhuntshi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.internal.md|Lhuntshi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.protect.md|Lhuntshi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.private.md|Lhuntshi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.personal.md|Lhuntshi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.secret.md|Lhuntshi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.internal|Lhuntshi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.protect|Lhuntshi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.private|Lhuntshi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.personal|Lhuntshi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.secret|Lhuntshi.secret]] 
 

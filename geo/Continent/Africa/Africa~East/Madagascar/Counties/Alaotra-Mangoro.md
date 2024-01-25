@@ -41,9 +41,9 @@ markerFolder: ./Alaotra-Mangoro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.md|Alaotra-Mangoro]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.internal.md|Alaotra-Mangoro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.protect.md|Alaotra-Mangoro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.private.md|Alaotra-Mangoro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.personal.md|Alaotra-Mangoro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.secret.md|Alaotra-Mangoro.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.internal|Alaotra-Mangoro.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.protect|Alaotra-Mangoro.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.private|Alaotra-Mangoro.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.personal|Alaotra-Mangoro.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Alaotra-Mangoro.secret|Alaotra-Mangoro.secret]] 
 

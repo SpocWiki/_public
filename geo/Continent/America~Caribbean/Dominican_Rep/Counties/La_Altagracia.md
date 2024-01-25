@@ -41,9 +41,9 @@ markerFolder: ./La_Altagracia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.md|La_Altagracia]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.internal.md|La_Altagracia.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.protect.md|La_Altagracia.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.private.md|La_Altagracia.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.personal.md|La_Altagracia.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.secret.md|La_Altagracia.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.internal|La_Altagracia.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.protect|La_Altagracia.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.private|La_Altagracia.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.personal|La_Altagracia.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Altagracia.secret|La_Altagracia.secret]] 
 

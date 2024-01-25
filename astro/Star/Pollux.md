@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Pollux.md|Pollux]] 
-- [[../../../_internal/astro/Star/Pollux.internal.md|Pollux.internal]] 
-- [[../../../_protect/astro/Star/Pollux.protect.md|Pollux.protect]] 
-- [[../../../_private/astro/Star/Pollux.private.md|Pollux.private]] 
-- [[../../../_personal/astro/Star/Pollux.personal.md|Pollux.personal]] 
-- [[../../../_secret/astro/Star/Pollux.secret.md|Pollux.secret]] 
+- [[../../../_internal/astro/Star/Pollux.internal|Pollux.internal]] 
+- [[../../../_protect/astro/Star/Pollux.protect|Pollux.protect]] 
+- [[../../../_private/astro/Star/Pollux.private|Pollux.private]] 
+- [[../../../_personal/astro/Star/Pollux.personal|Pollux.personal]] 
+- [[../../../_secret/astro/Star/Pollux.secret|Pollux.secret]] 

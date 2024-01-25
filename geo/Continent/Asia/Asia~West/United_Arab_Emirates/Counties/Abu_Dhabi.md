@@ -41,9 +41,9 @@ markerFolder: ./Abu_Dhabi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.md|Abu_Dhabi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.internal.md|Abu_Dhabi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.protect.md|Abu_Dhabi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.private.md|Abu_Dhabi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.personal.md|Abu_Dhabi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.secret.md|Abu_Dhabi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.internal|Abu_Dhabi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.protect|Abu_Dhabi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.private|Abu_Dhabi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.personal|Abu_Dhabi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.secret|Abu_Dhabi.secret]] 
 

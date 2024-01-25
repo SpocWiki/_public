@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Composite_materials-Stability]
 [SpocWebEntityId::25149]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.md|Triz-Quantity+Composite_materials-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.internal.md|Triz-Quantity+Composite_materials-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.protect.md|Triz-Quantity+Composite_materials-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.private.md|Triz-Quantity+Composite_materials-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.personal.md|Triz-Quantity+Composite_materials-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.secret.md|Triz-Quantity+Composite_materials-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.internal|Triz-Quantity+Composite_materials-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.protect|Triz-Quantity+Composite_materials-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.private|Triz-Quantity+Composite_materials-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.personal|Triz-Quantity+Composite_materials-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Composite_materials-Stability.secret|Triz-Quantity+Composite_materials-Stability.secret]] 

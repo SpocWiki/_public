@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Mediator-Information-Loss]
 [SpocWebEntityId::25062]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.md|Triz-Time-Loss+Mediator-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.internal.md|Triz-Time-Loss+Mediator-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.protect.md|Triz-Time-Loss+Mediator-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.private.md|Triz-Time-Loss+Mediator-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.personal.md|Triz-Time-Loss+Mediator-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.secret.md|Triz-Time-Loss+Mediator-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.internal|Triz-Time-Loss+Mediator-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.protect|Triz-Time-Loss+Mediator-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.private|Triz-Time-Loss+Mediator-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.personal|Triz-Time-Loss+Mediator-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.secret|Triz-Time-Loss+Mediator-Information-Loss.secret]] 

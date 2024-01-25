@@ -41,9 +41,9 @@ markerFolder: ./Jwaneng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Jwaneng.md|Jwaneng]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Jwaneng.internal.md|Jwaneng.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Jwaneng.protect.md|Jwaneng.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Jwaneng.private.md|Jwaneng.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Jwaneng.personal.md|Jwaneng.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Jwaneng.secret.md|Jwaneng.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Jwaneng.internal|Jwaneng.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Jwaneng.protect|Jwaneng.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Jwaneng.private|Jwaneng.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Jwaneng.personal|Jwaneng.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Jwaneng.secret|Jwaneng.secret]] 
 

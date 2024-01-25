@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Changing_the_color-Information-Loss]
 [SpocWebEntityId::25902]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.md|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.internal.md|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.protect.md|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.private.md|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.personal.md|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.secret.md|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.internal|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.protect|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.private|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.personal|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.secret|Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.secret]] 

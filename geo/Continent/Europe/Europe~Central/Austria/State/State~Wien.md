@@ -28,8 +28,8 @@ markerFolder: ./State~Wien/
 
 ## Confidential Links & Embeds: 
 - [[State~Wien|State~Wien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/State~Wien.internal.md|State~Wien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/State~Wien.protect.md|State~Wien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/State~Wien.private.md|State~Wien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/State~Wien.personal.md|State~Wien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/State~Wien.secret.md|State~Wien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/State~Wien.internal|State~Wien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/State~Wien.protect|State~Wien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/State/State~Wien.private|State~Wien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/State~Wien.personal|State~Wien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/State~Wien.secret|State~Wien.secret]] 

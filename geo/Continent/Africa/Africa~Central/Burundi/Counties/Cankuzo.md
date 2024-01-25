@@ -41,9 +41,9 @@ markerFolder: ./Cankuzo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Cankuzo.md|Cankuzo]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Cankuzo.internal.md|Cankuzo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Cankuzo.protect.md|Cankuzo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Cankuzo.private.md|Cankuzo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Cankuzo.personal.md|Cankuzo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Cankuzo.secret.md|Cankuzo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Cankuzo.internal|Cankuzo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Cankuzo.protect|Cankuzo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Cankuzo.private|Cankuzo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Cankuzo.personal|Cankuzo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Cankuzo.secret|Cankuzo.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Morbegno.md|Morbegno]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Morbegno.internal.md|Morbegno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Morbegno.protect.md|Morbegno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Morbegno.private.md|Morbegno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Morbegno.personal.md|Morbegno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Morbegno.secret.md|Morbegno.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Morbegno.internal|Morbegno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Morbegno.protect|Morbegno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Morbegno.private|Morbegno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Morbegno.personal|Morbegno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Morbegno.secret|Morbegno.secret]] 

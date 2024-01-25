@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Katwijk.md|Katwijk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Katwijk.internal.md|Katwijk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Katwijk.protect.md|Katwijk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Katwijk.private.md|Katwijk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Katwijk.personal.md|Katwijk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Katwijk.secret.md|Katwijk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Katwijk.internal|Katwijk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Katwijk.protect|Katwijk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Katwijk.private|Katwijk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Katwijk.personal|Katwijk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Katwijk.secret|Katwijk.secret]] 

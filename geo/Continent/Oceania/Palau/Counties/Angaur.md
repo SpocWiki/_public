@@ -41,9 +41,9 @@ markerFolder: ./Angaur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Angaur.md|Angaur]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Angaur.internal.md|Angaur.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Angaur.protect.md|Angaur.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Angaur.private.md|Angaur.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Angaur.personal.md|Angaur.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Angaur.secret.md|Angaur.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Angaur.internal|Angaur.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Angaur.protect|Angaur.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Angaur.private|Angaur.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Angaur.personal|Angaur.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Angaur.secret|Angaur.secret]] 
 

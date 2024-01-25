@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Birkfeld.md|Birkfeld]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Birkfeld.internal.md|Birkfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Birkfeld.protect.md|Birkfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Birkfeld.private.md|Birkfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Birkfeld.personal.md|Birkfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Birkfeld.secret.md|Birkfeld.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Birkfeld.internal|Birkfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Birkfeld.protect|Birkfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Birkfeld.private|Birkfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Birkfeld.personal|Birkfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Birkfeld.secret|Birkfeld.secret]] 

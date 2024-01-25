@@ -41,9 +41,9 @@ markerFolder: ./Barnsley/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.md|Barnsley]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.internal.md|Barnsley.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.protect.md|Barnsley.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.private.md|Barnsley.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.personal.md|Barnsley.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.secret.md|Barnsley.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.internal|Barnsley.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.protect|Barnsley.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.private|Barnsley.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.personal|Barnsley.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.secret|Barnsley.secret]] 
 

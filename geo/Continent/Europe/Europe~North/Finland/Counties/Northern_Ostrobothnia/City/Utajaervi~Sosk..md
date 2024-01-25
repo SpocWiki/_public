@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..md|Utajaervi~Sosk.]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..internal.md|Utajaervi~Sosk..internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..protect.md|Utajaervi~Sosk..protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..private.md|Utajaervi~Sosk..private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..personal.md|Utajaervi~Sosk..personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..secret.md|Utajaervi~Sosk..secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..internal|Utajaervi~Sosk..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..protect|Utajaervi~Sosk..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..private|Utajaervi~Sosk..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..personal|Utajaervi~Sosk..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Utajaervi~Sosk..secret|Utajaervi~Sosk..secret]] 

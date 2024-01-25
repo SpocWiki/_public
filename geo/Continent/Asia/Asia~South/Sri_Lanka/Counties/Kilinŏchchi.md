@@ -41,9 +41,9 @@ markerFolder: ./Kilinŏchchi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.md|Kilinŏchchi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.internal.md|Kilinŏchchi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.protect.md|Kilinŏchchi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.private.md|Kilinŏchchi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.personal.md|Kilinŏchchi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.secret.md|Kilinŏchchi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.internal|Kilinŏchchi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.protect|Kilinŏchchi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.private|Kilinŏchchi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.personal|Kilinŏchchi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.secret|Kilinŏchchi.secret]] 
 

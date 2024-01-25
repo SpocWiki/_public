@@ -41,9 +41,9 @@ markerFolder: ./Magdalena/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Magdalena.md|Magdalena]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Magdalena.internal.md|Magdalena.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Magdalena.protect.md|Magdalena.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Magdalena.private.md|Magdalena.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Magdalena.personal.md|Magdalena.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Magdalena.secret.md|Magdalena.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Magdalena.internal|Magdalena.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Magdalena.protect|Magdalena.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Magdalena.private|Magdalena.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Magdalena.personal|Magdalena.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Magdalena.secret|Magdalena.secret]] 
 

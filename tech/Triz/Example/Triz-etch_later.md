@@ -18,8 +18,8 @@ Oxidize the whole Substrate in MicroElectronics and etch it later.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-etch_later.md|Triz-etch_later]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-etch_later.internal.md|Triz-etch_later.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-etch_later.protect.md|Triz-etch_later.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-etch_later.private.md|Triz-etch_later.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-etch_later.personal.md|Triz-etch_later.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-etch_later.secret.md|Triz-etch_later.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-etch_later.internal|Triz-etch_later.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-etch_later.protect|Triz-etch_later.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-etch_later.private|Triz-etch_later.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-etch_later.personal|Triz-etch_later.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-etch_later.secret|Triz-etch_later.secret]] 

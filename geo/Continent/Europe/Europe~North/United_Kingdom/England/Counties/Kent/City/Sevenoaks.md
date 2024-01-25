@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.md|Sevenoaks]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.internal.md|Sevenoaks.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.protect.md|Sevenoaks.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.private.md|Sevenoaks.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.personal.md|Sevenoaks.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.secret.md|Sevenoaks.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.internal|Sevenoaks.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.protect|Sevenoaks.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.private|Sevenoaks.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.personal|Sevenoaks.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.secret|Sevenoaks.secret]] 

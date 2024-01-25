@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Linguaglossa.md|Linguaglossa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Linguaglossa.internal.md|Linguaglossa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Linguaglossa.protect.md|Linguaglossa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Linguaglossa.private.md|Linguaglossa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Linguaglossa.personal.md|Linguaglossa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Linguaglossa.secret.md|Linguaglossa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Linguaglossa.internal|Linguaglossa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Linguaglossa.protect|Linguaglossa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Linguaglossa.private|Linguaglossa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Linguaglossa.personal|Linguaglossa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Linguaglossa.secret|Linguaglossa.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Spheroidality-Strength]
 [SpocWebEntityId::23221]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.md|Triz-moving_Volume+Spheroidality-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.internal.md|Triz-moving_Volume+Spheroidality-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.protect.md|Triz-moving_Volume+Spheroidality-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.private.md|Triz-moving_Volume+Spheroidality-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.personal.md|Triz-moving_Volume+Spheroidality-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.secret.md|Triz-moving_Volume+Spheroidality-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.internal|Triz-moving_Volume+Spheroidality-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.protect|Triz-moving_Volume+Spheroidality-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.private|Triz-moving_Volume+Spheroidality-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.personal|Triz-moving_Volume+Spheroidality-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.secret|Triz-moving_Volume+Spheroidality-Strength.secret]] 

@@ -140,7 +140,7 @@ markerFolder: ./Singapore/
 ## Confidential Links & Embeds: 
 -[[Singapore|Singapore]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Singapore.internal|Singapore.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Singapore.protect.md|Singapore.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Singapore.private.md|Singapore.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Singapore.personal.md|Singapore.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Singapore.secret.md|Singapore.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Singapore.protect|Singapore.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Singapore.private|Singapore.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Singapore.personal|Singapore.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Singapore.secret|Singapore.secret]] 

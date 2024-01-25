@@ -134,7 +134,7 @@ markerFolder: ./Benin//
 ## Confidential Links & Embeds: 
 - [[Benin|Benin]] 
 - [[../../../../../_internal/geo/Continent/Africa/Benin.internal|Benin.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin.protect.md|Benin.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin.private.md|Benin.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin.personal.md|Benin.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin.secret.md|Benin.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin.protect|Benin.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin.private|Benin.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin.personal|Benin.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin.secret|Benin.secret]] 

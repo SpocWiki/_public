@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Logrono.md|Logrono]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Logrono.internal.md|Logrono.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Logrono.protect.md|Logrono.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Logrono.private.md|Logrono.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Logrono.personal.md|Logrono.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Logrono.secret.md|Logrono.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Logrono.internal|Logrono.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Logrono.protect|Logrono.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Logrono.private|Logrono.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Logrono.personal|Logrono.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Logrono.secret|Logrono.secret]] 

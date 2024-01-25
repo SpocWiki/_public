@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Composite_materials-Shape]
 [SpocWebEntityId::25519]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.md|Triz-Manufacturing_Precision+Composite_materials-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.internal.md|Triz-Manufacturing_Precision+Composite_materials-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.protect.md|Triz-Manufacturing_Precision+Composite_materials-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.private.md|Triz-Manufacturing_Precision+Composite_materials-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.personal.md|Triz-Manufacturing_Precision+Composite_materials-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.secret.md|Triz-Manufacturing_Precision+Composite_materials-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.internal|Triz-Manufacturing_Precision+Composite_materials-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.protect|Triz-Manufacturing_Precision+Composite_materials-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.private|Triz-Manufacturing_Precision+Composite_materials-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.personal|Triz-Manufacturing_Precision+Composite_materials-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.secret|Triz-Manufacturing_Precision+Composite_materials-Shape.secret]] 

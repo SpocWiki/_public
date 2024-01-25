@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Local_quality-Stress]
 [SpocWebEntityId::25515]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.md|Triz-Manufacturing_Precision+Local_quality-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.internal.md|Triz-Manufacturing_Precision+Local_quality-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.protect.md|Triz-Manufacturing_Precision+Local_quality-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.private.md|Triz-Manufacturing_Precision+Local_quality-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.personal.md|Triz-Manufacturing_Precision+Local_quality-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.secret.md|Triz-Manufacturing_Precision+Local_quality-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.internal|Triz-Manufacturing_Precision+Local_quality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.protect|Triz-Manufacturing_Precision+Local_quality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.private|Triz-Manufacturing_Precision+Local_quality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.personal|Triz-Manufacturing_Precision+Local_quality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Stress.secret|Triz-Manufacturing_Precision+Local_quality-Stress.secret]] 

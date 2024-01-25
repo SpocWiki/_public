@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy]
 [SpocWebEntityId::22851]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-moving_Energy]]]
+- [#has_/Cons :: [[Triz-moving_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.internal.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.protect.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.private.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.personal.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.secret.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.internal|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.protect|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.private|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.personal|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.secret|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.secret]] 

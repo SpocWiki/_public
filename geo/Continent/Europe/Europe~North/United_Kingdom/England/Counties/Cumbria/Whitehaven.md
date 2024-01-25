@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Whitehaven.md|Whitehaven]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Whitehaven.internal.md|Whitehaven.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Whitehaven.protect.md|Whitehaven.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Whitehaven.private.md|Whitehaven.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Whitehaven.personal.md|Whitehaven.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Whitehaven.secret.md|Whitehaven.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Whitehaven.internal|Whitehaven.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Whitehaven.protect|Whitehaven.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Whitehaven.private|Whitehaven.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Whitehaven.personal|Whitehaven.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Whitehaven.secret|Whitehaven.secret]] 

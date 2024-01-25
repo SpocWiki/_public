@@ -41,9 +41,9 @@ markerFolder: ./Kerry/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Kerry.md|Kerry]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Kerry.internal.md|Kerry.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Kerry.protect.md|Kerry.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Kerry.private.md|Kerry.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Kerry.personal.md|Kerry.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Kerry.secret.md|Kerry.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Kerry.internal|Kerry.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Kerry.protect|Kerry.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Kerry.private|Kerry.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Kerry.personal|Kerry.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Kerry.secret|Kerry.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Denigomodu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Denigomodu.md|Denigomodu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Denigomodu.internal.md|Denigomodu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Denigomodu.protect.md|Denigomodu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Denigomodu.private.md|Denigomodu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Denigomodu.personal.md|Denigomodu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Denigomodu.secret.md|Denigomodu.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Denigomodu.internal|Denigomodu.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Denigomodu.protect|Denigomodu.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Denigomodu.private|Denigomodu.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Denigomodu.personal|Denigomodu.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Denigomodu.secret|Denigomodu.secret]] 
 

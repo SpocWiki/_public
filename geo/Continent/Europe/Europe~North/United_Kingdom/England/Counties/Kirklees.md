@@ -41,9 +41,9 @@ markerFolder: ./Kirklees/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.md|Kirklees]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.internal.md|Kirklees.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.protect.md|Kirklees.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.private.md|Kirklees.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.personal.md|Kirklees.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.secret.md|Kirklees.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.internal|Kirklees.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.protect|Kirklees.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.private|Kirklees.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.personal|Kirklees.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Kirklees.secret|Kirklees.secret]] 
 

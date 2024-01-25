@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Gruis-27.md|Gruis-27]] 
-- [[../../../_internal/astro/Star/Gruis-27.internal.md|Gruis-27.internal]] 
-- [[../../../_protect/astro/Star/Gruis-27.protect.md|Gruis-27.protect]] 
-- [[../../../_private/astro/Star/Gruis-27.private.md|Gruis-27.private]] 
-- [[../../../_personal/astro/Star/Gruis-27.personal.md|Gruis-27.personal]] 
-- [[../../../_secret/astro/Star/Gruis-27.secret.md|Gruis-27.secret]]
+- [[../../../_internal/astro/Star/Gruis-27.internal|Gruis-27.internal]] 
+- [[../../../_protect/astro/Star/Gruis-27.protect|Gruis-27.protect]] 
+- [[../../../_private/astro/Star/Gruis-27.private|Gruis-27.private]] 
+- [[../../../_personal/astro/Star/Gruis-27.personal|Gruis-27.personal]] 
+- [[../../../_secret/astro/Star/Gruis-27.secret|Gruis-27.secret]]
 

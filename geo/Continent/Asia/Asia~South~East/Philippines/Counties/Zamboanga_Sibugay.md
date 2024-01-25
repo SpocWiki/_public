@@ -41,9 +41,9 @@ markerFolder: ./Zamboanga_Sibugay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.md|Zamboanga_Sibugay]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.internal.md|Zamboanga_Sibugay.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.protect.md|Zamboanga_Sibugay.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.private.md|Zamboanga_Sibugay.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.personal.md|Zamboanga_Sibugay.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.secret.md|Zamboanga_Sibugay.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.internal|Zamboanga_Sibugay.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.protect|Zamboanga_Sibugay.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.private|Zamboanga_Sibugay.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.personal|Zamboanga_Sibugay.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_Sibugay.secret|Zamboanga_Sibugay.secret]] 
 

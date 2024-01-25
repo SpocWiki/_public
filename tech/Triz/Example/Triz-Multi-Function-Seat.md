@@ -18,8 +18,8 @@ Minivan Seat for seating, sleeping, carrying Cargo
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Multi-Function-Seat.md|Triz-Multi-Function-Seat]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Multi-Function-Seat.internal.md|Triz-Multi-Function-Seat.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Multi-Function-Seat.protect.md|Triz-Multi-Function-Seat.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Multi-Function-Seat.private.md|Triz-Multi-Function-Seat.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Multi-Function-Seat.personal.md|Triz-Multi-Function-Seat.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Multi-Function-Seat.secret.md|Triz-Multi-Function-Seat.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Multi-Function-Seat.internal|Triz-Multi-Function-Seat.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Multi-Function-Seat.protect|Triz-Multi-Function-Seat.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Multi-Function-Seat.private|Triz-Multi-Function-Seat.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Multi-Function-Seat.personal|Triz-Multi-Function-Seat.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Multi-Function-Seat.secret|Triz-Multi-Function-Seat.secret]] 

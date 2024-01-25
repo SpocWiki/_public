@@ -41,9 +41,9 @@ markerFolder: ./HaZafon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.md|HaZafon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.internal.md|HaZafon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.protect.md|HaZafon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.private.md|HaZafon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.personal.md|HaZafon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.secret.md|HaZafon.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.internal|HaZafon.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.protect|HaZafon.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.private|HaZafon.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.personal|HaZafon.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/HaZafon.secret|HaZafon.secret]] 
 

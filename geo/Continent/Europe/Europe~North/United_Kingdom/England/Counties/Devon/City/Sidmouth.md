@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sidmouth.md|Sidmouth]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sidmouth.internal.md|Sidmouth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sidmouth.protect.md|Sidmouth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sidmouth.private.md|Sidmouth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sidmouth.personal.md|Sidmouth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sidmouth.secret.md|Sidmouth.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sidmouth.internal|Sidmouth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sidmouth.protect|Sidmouth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sidmouth.private|Sidmouth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sidmouth.personal|Sidmouth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sidmouth.secret|Sidmouth.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Jharkhand/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.md|Jharkhand]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.internal.md|Jharkhand.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.protect.md|Jharkhand.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.private.md|Jharkhand.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.personal.md|Jharkhand.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.secret.md|Jharkhand.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.internal|Jharkhand.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.protect|Jharkhand.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.private|Jharkhand.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.personal|Jharkhand.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.secret|Jharkhand.secret]] 
 

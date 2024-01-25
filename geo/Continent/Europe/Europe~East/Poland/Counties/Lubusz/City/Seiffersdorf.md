@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Seiffersdorf.md|Seiffersdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Seiffersdorf.internal.md|Seiffersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Seiffersdorf.protect.md|Seiffersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Seiffersdorf.private.md|Seiffersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Seiffersdorf.personal.md|Seiffersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Seiffersdorf.secret.md|Seiffersdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Seiffersdorf.internal|Seiffersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Seiffersdorf.protect|Seiffersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Seiffersdorf.private|Seiffersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Seiffersdorf.personal|Seiffersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Seiffersdorf.secret|Seiffersdorf.secret]] 

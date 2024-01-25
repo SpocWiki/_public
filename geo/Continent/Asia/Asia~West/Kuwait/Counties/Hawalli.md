@@ -41,9 +41,9 @@ markerFolder: ./Hawalli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.md|Hawalli]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.internal.md|Hawalli.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.protect.md|Hawalli.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.private.md|Hawalli.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.personal.md|Hawalli.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.secret.md|Hawalli.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.internal|Hawalli.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.protect|Hawalli.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.private|Hawalli.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.personal|Hawalli.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.secret|Hawalli.secret]] 
 

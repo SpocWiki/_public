@@ -41,9 +41,9 @@ markerFolder: ./Matruh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Matruh.md|Matruh]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Matruh.internal.md|Matruh.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Matruh.protect.md|Matruh.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Matruh.private.md|Matruh.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Matruh.personal.md|Matruh.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Matruh.secret.md|Matruh.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Matruh.internal|Matruh.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Matruh.protect|Matruh.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Matruh.private|Matruh.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Matruh.personal|Matruh.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Matruh.secret|Matruh.secret]] 
 

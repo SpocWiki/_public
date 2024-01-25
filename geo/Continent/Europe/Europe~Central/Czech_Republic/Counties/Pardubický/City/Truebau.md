@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Truebau.md|Truebau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Truebau.internal.md|Truebau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Truebau.protect.md|Truebau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Truebau.private.md|Truebau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Truebau.personal.md|Truebau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Truebau.secret.md|Truebau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Truebau.internal|Truebau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Truebau.protect|Truebau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Truebau.private|Truebau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Truebau.personal|Truebau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Truebau.secret|Truebau.secret]] 

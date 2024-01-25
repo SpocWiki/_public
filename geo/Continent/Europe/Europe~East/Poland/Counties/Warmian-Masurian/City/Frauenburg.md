@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Frauenburg.md|Frauenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Frauenburg.internal.md|Frauenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Frauenburg.protect.md|Frauenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Frauenburg.private.md|Frauenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Frauenburg.personal.md|Frauenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Frauenburg.secret.md|Frauenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Frauenburg.internal|Frauenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Frauenburg.protect|Frauenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Frauenburg.private|Frauenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Frauenburg.personal|Frauenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Frauenburg.secret|Frauenburg.secret]] 

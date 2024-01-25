@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Falschette.md|Falschette]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Falschette.internal.md|Falschette.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Falschette.protect.md|Falschette.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Falschette.private.md|Falschette.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Falschette.personal.md|Falschette.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Falschette.secret.md|Falschette.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Falschette.internal|Falschette.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Falschette.protect|Falschette.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Falschette.private|Falschette.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Falschette.personal|Falschette.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Falschette.secret|Falschette.secret]] 

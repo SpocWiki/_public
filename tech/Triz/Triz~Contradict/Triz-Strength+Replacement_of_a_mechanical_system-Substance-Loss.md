@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Replacement_of_a_mechanical_system-Substance-Loss]
 [SpocWebEntityId::24014]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.md|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.internal.md|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.protect.md|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.private.md|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.personal.md|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.secret.md|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.internal|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.protect|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.private|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.personal|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.secret|Triz-Strength+Replacement_of_a_mechanical_system-Substance-Loss.secret]] 

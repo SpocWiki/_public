@@ -41,9 +41,9 @@ markerFolder: ./Telford_and_Wrekin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.md|Telford_and_Wrekin]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.internal.md|Telford_and_Wrekin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.protect.md|Telford_and_Wrekin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.private.md|Telford_and_Wrekin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.personal.md|Telford_and_Wrekin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.secret.md|Telford_and_Wrekin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.internal|Telford_and_Wrekin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.protect|Telford_and_Wrekin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.private|Telford_and_Wrekin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.personal|Telford_and_Wrekin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Telford_and_Wrekin.secret|Telford_and_Wrekin.secret]] 
 

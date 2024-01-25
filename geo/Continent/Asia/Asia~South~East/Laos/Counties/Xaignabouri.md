@@ -41,9 +41,9 @@ markerFolder: ./Xaignabouri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.md|Xaignabouri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.internal.md|Xaignabouri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.protect.md|Xaignabouri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.private.md|Xaignabouri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.personal.md|Xaignabouri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.secret.md|Xaignabouri.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.internal|Xaignabouri.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.protect|Xaignabouri.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.private|Xaignabouri.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.personal|Xaignabouri.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xaignabouri.secret|Xaignabouri.secret]] 
 

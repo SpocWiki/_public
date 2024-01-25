@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Taranto.City.md|Taranto.City]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Taranto.City.internal.md|Taranto.City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Taranto.City.protect.md|Taranto.City.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Taranto.City.private.md|Taranto.City.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Taranto.City.personal.md|Taranto.City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Taranto.City.secret.md|Taranto.City.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Taranto.City.internal|Taranto.City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Taranto.City.protect|Taranto.City.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Taranto.City.private|Taranto.City.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Taranto.City.personal|Taranto.City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Taranto.City.secret|Taranto.City.secret]] 

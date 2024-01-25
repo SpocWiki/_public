@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Somero~Kirk.md|Somero~Kirk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Somero~Kirk.internal.md|Somero~Kirk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Somero~Kirk.protect.md|Somero~Kirk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Somero~Kirk.private.md|Somero~Kirk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Somero~Kirk.personal.md|Somero~Kirk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Somero~Kirk.secret.md|Somero~Kirk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Somero~Kirk.internal|Somero~Kirk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Somero~Kirk.protect|Somero~Kirk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Somero~Kirk.private|Somero~Kirk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Somero~Kirk.personal|Somero~Kirk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Somero~Kirk.secret|Somero~Kirk.secret]] 

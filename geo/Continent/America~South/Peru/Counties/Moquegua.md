@@ -41,9 +41,9 @@ markerFolder: ./Moquegua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Moquegua.md|Moquegua]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Moquegua.internal.md|Moquegua.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Moquegua.protect.md|Moquegua.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Moquegua.private.md|Moquegua.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Moquegua.personal.md|Moquegua.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Moquegua.secret.md|Moquegua.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Moquegua.internal|Moquegua.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Moquegua.protect|Moquegua.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Moquegua.private|Moquegua.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Moquegua.personal|Moquegua.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Moquegua.secret|Moquegua.secret]] 
 

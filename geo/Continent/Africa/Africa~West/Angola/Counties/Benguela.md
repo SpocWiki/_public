@@ -41,9 +41,9 @@ markerFolder: ./Benguela/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Benguela.md|Benguela]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Benguela.internal.md|Benguela.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Benguela.protect.md|Benguela.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Benguela.private.md|Benguela.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Benguela.personal.md|Benguela.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Benguela.secret.md|Benguela.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Benguela.internal|Benguela.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Benguela.protect|Benguela.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Benguela.private|Benguela.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Benguela.personal|Benguela.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Benguela.secret|Benguela.secret]] 
 

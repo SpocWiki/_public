@@ -41,9 +41,9 @@ markerFolder: ./Ash_Shamālīyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.md|Ash_Shamālīyah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.internal.md|Ash_Shamālīyah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.protect.md|Ash_Shamālīyah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.private.md|Ash_Shamālīyah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.personal.md|Ash_Shamālīyah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.secret.md|Ash_Shamālīyah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.internal|Ash_Shamālīyah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.protect|Ash_Shamālīyah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.private|Ash_Shamālīyah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.personal|Ash_Shamālīyah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.secret|Ash_Shamālīyah.secret]] 
 

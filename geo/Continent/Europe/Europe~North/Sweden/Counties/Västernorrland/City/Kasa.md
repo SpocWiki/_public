@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kasa.md|Kasa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kasa.internal.md|Kasa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kasa.protect.md|Kasa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kasa.private.md|Kasa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kasa.personal.md|Kasa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kasa.secret.md|Kasa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kasa.internal|Kasa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kasa.protect|Kasa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kasa.private|Kasa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kasa.personal|Kasa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kasa.secret|Kasa.secret]] 

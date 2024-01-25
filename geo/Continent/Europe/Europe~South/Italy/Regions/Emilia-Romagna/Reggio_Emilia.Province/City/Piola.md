@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Piola.md|Piola]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piola.internal.md|Piola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piola.protect.md|Piola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piola.private.md|Piola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piola.personal.md|Piola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piola.secret.md|Piola.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piola.internal|Piola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piola.protect|Piola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piola.private|Piola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piola.personal|Piola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piola.secret|Piola.secret]] 

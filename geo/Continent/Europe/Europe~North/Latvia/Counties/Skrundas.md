@@ -41,9 +41,9 @@ markerFolder: ./Skrundas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Skrundas.md|Skrundas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Skrundas.internal.md|Skrundas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Skrundas.protect.md|Skrundas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Skrundas.private.md|Skrundas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Skrundas.personal.md|Skrundas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Skrundas.secret.md|Skrundas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Skrundas.internal|Skrundas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Skrundas.protect|Skrundas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Skrundas.private|Skrundas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Skrundas.personal|Skrundas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Skrundas.secret|Skrundas.secret]] 
 

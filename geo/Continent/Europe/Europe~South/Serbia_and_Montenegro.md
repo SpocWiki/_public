@@ -39,8 +39,8 @@ markerFolder: ./Serbia_and_Montenegro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia_and_Montenegro.md|Serbia_and_Montenegro]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia_and_Montenegro.internal.md|Serbia_and_Montenegro.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia_and_Montenegro.protect.md|Serbia_and_Montenegro.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia_and_Montenegro.private.md|Serbia_and_Montenegro.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia_and_Montenegro.personal.md|Serbia_and_Montenegro.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia_and_Montenegro.secret.md|Serbia_and_Montenegro.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia_and_Montenegro.internal|Serbia_and_Montenegro.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia_and_Montenegro.protect|Serbia_and_Montenegro.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia_and_Montenegro.private|Serbia_and_Montenegro.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia_and_Montenegro.personal|Serbia_and_Montenegro.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia_and_Montenegro.secret|Serbia_and_Montenegro.secret]] 

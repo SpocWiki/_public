@@ -41,9 +41,9 @@ markerFolder: ./Savanes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Togo/Counties/Savanes.md|Savanes]] 
-- [[../../../../_internal/geo/Continent/Africa/Togo/Counties/Savanes.internal.md|Savanes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Togo/Counties/Savanes.protect.md|Savanes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Togo/Counties/Savanes.private.md|Savanes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Togo/Counties/Savanes.personal.md|Savanes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Togo/Counties/Savanes.secret.md|Savanes.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Togo/Counties/Savanes.internal|Savanes.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Togo/Counties/Savanes.protect|Savanes.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Togo/Counties/Savanes.private|Savanes.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Togo/Counties/Savanes.personal|Savanes.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Togo/Counties/Savanes.secret|Savanes.secret]] 
 

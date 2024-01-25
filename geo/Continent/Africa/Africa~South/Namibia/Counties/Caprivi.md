@@ -41,9 +41,9 @@ markerFolder: ./Caprivi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Caprivi.md|Caprivi]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Caprivi.internal.md|Caprivi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Caprivi.protect.md|Caprivi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Caprivi.private.md|Caprivi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Caprivi.personal.md|Caprivi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Caprivi.secret.md|Caprivi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Caprivi.internal|Caprivi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Caprivi.protect|Caprivi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Caprivi.private|Caprivi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Caprivi.personal|Caprivi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Caprivi.secret|Caprivi.secret]] 
 

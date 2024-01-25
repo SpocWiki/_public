@@ -41,9 +41,9 @@ markerFolder: ./Iğdir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Iğdir.md|Iğdir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Iğdir.internal.md|Iğdir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Iğdir.protect.md|Iğdir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Iğdir.private.md|Iğdir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Iğdir.personal.md|Iğdir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Iğdir.secret.md|Iğdir.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Iğdir.internal|Iğdir.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Iğdir.protect|Iğdir.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Iğdir.private|Iğdir.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Iğdir.personal|Iğdir.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Iğdir.secret|Iğdir.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Kgatleng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Kgatleng.md|Kgatleng]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kgatleng.internal.md|Kgatleng.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kgatleng.protect.md|Kgatleng.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Kgatleng.private.md|Kgatleng.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kgatleng.personal.md|Kgatleng.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kgatleng.secret.md|Kgatleng.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kgatleng.internal|Kgatleng.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kgatleng.protect|Kgatleng.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Kgatleng.private|Kgatleng.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kgatleng.personal|Kgatleng.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kgatleng.secret|Kgatleng.secret]] 
 

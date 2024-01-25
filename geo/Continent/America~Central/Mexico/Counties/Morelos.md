@@ -41,9 +41,9 @@ markerFolder: ./Morelos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Morelos.md|Morelos]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Morelos.internal.md|Morelos.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Morelos.protect.md|Morelos.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Morelos.private.md|Morelos.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Morelos.personal.md|Morelos.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Morelos.secret.md|Morelos.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Morelos.internal|Morelos.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Morelos.protect|Morelos.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Morelos.private|Morelos.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Morelos.personal|Morelos.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Morelos.secret|Morelos.secret]] 
 

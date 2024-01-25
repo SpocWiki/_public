@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Heinaevesi.md|Heinaevesi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Heinaevesi.internal.md|Heinaevesi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Heinaevesi.protect.md|Heinaevesi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Heinaevesi.private.md|Heinaevesi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Heinaevesi.personal.md|Heinaevesi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Heinaevesi.secret.md|Heinaevesi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Heinaevesi.internal|Heinaevesi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Heinaevesi.protect|Heinaevesi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Heinaevesi.private|Heinaevesi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Heinaevesi.personal|Heinaevesi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Heinaevesi.secret|Heinaevesi.secret]] 

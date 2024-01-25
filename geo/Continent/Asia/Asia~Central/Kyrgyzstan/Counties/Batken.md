@@ -41,9 +41,9 @@ markerFolder: ./Batken/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.md|Batken]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.internal.md|Batken.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.protect.md|Batken.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.private.md|Batken.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.personal.md|Batken.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.secret.md|Batken.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.internal|Batken.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.protect|Batken.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.private|Batken.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.personal|Batken.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.secret|Batken.secret]] 
 

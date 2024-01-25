@@ -41,9 +41,9 @@ markerFolder: ./Hambantŏṭa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.md|Hambantŏṭa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.internal.md|Hambantŏṭa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.protect.md|Hambantŏṭa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.private.md|Hambantŏṭa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.personal.md|Hambantŏṭa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.secret.md|Hambantŏṭa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.internal|Hambantŏṭa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.protect|Hambantŏṭa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.private|Hambantŏṭa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.personal|Hambantŏṭa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Hambantŏṭa.secret|Hambantŏṭa.secret]] 
 

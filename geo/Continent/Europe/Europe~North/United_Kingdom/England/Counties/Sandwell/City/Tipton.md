@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tipton.md|Tipton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tipton.internal.md|Tipton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tipton.protect.md|Tipton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tipton.private.md|Tipton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tipton.personal.md|Tipton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tipton.secret.md|Tipton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tipton.internal|Tipton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tipton.protect|Tipton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tipton.private|Tipton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tipton.personal|Tipton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tipton.secret|Tipton.secret]] 

@@ -18,8 +18,8 @@ Quartz Crystal Oscillations drive high Accuracy Clocks.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Quartz_Oscillations.md|Triz-Quartz_Oscillations]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Quartz_Oscillations.internal.md|Triz-Quartz_Oscillations.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Quartz_Oscillations.protect.md|Triz-Quartz_Oscillations.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Quartz_Oscillations.private.md|Triz-Quartz_Oscillations.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Quartz_Oscillations.personal.md|Triz-Quartz_Oscillations.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Quartz_Oscillations.secret.md|Triz-Quartz_Oscillations.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Quartz_Oscillations.internal|Triz-Quartz_Oscillations.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Quartz_Oscillations.protect|Triz-Quartz_Oscillations.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Quartz_Oscillations.private|Triz-Quartz_Oscillations.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Quartz_Oscillations.personal|Triz-Quartz_Oscillations.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Quartz_Oscillations.secret|Triz-Quartz_Oscillations.secret]] 

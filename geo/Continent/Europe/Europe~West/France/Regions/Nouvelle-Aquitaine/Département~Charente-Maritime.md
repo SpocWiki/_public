@@ -41,9 +41,9 @@ markerFolder: ./Département~Charente-Maritime/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.md|Département~Charente-Maritime]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.internal.md|Département~Charente-Maritime.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.protect.md|Département~Charente-Maritime.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.private.md|Département~Charente-Maritime.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.personal.md|Département~Charente-Maritime.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.secret.md|Département~Charente-Maritime.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.internal|Département~Charente-Maritime.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.protect|Département~Charente-Maritime.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.private|Département~Charente-Maritime.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.personal|Département~Charente-Maritime.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Charente-Maritime.secret|Département~Charente-Maritime.secret]] 
 

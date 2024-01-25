@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tunbridge.md|Tunbridge]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tunbridge.internal.md|Tunbridge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tunbridge.protect.md|Tunbridge.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tunbridge.private.md|Tunbridge.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tunbridge.personal.md|Tunbridge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tunbridge.secret.md|Tunbridge.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tunbridge.internal|Tunbridge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tunbridge.protect|Tunbridge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tunbridge.private|Tunbridge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tunbridge.personal|Tunbridge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tunbridge.secret|Tunbridge.secret]] 

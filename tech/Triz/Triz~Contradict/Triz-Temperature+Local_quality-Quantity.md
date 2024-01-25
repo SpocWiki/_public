@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Local_quality-Quantity]
 [SpocWebEntityId::24304]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.md|Triz-Temperature+Local_quality-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.internal.md|Triz-Temperature+Local_quality-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.protect.md|Triz-Temperature+Local_quality-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.private.md|Triz-Temperature+Local_quality-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.personal.md|Triz-Temperature+Local_quality-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.secret.md|Triz-Temperature+Local_quality-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.internal|Triz-Temperature+Local_quality-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.protect|Triz-Temperature+Local_quality-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.private|Triz-Temperature+Local_quality-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.personal|Triz-Temperature+Local_quality-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Local_quality-Quantity.secret|Triz-Temperature+Local_quality-Quantity.secret]] 

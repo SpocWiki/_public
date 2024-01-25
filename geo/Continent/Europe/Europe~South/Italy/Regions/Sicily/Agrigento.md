@@ -41,9 +41,9 @@ markerFolder: ./Agrigento/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.md|Agrigento]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.internal.md|Agrigento.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.protect.md|Agrigento.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.private.md|Agrigento.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.personal.md|Agrigento.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.secret.md|Agrigento.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.internal|Agrigento.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.protect|Agrigento.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.private|Agrigento.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.personal|Agrigento.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Agrigento.secret|Agrigento.secret]] 
 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Izar.md|Izar]] 
-- [[../../../_internal/astro/Star/Izar.internal.md|Izar.internal]] 
-- [[../../../_protect/astro/Star/Izar.protect.md|Izar.protect]] 
-- [[../../../_private/astro/Star/Izar.private.md|Izar.private]] 
-- [[../../../_personal/astro/Star/Izar.personal.md|Izar.personal]] 
-- [[../../../_secret/astro/Star/Izar.secret.md|Izar.secret]]
+- [[../../../_internal/astro/Star/Izar.internal|Izar.internal]] 
+- [[../../../_protect/astro/Star/Izar.protect|Izar.protect]] 
+- [[../../../_private/astro/Star/Izar.private|Izar.private]] 
+- [[../../../_personal/astro/Star/Izar.personal|Izar.personal]] 
+- [[../../../_secret/astro/Star/Izar.secret|Izar.secret]]
 

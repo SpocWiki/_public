@@ -46,8 +46,8 @@ SpocWebEntityId: 21960
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Gadolinium.md|Gadolinium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Gadolinium.internal.md|Gadolinium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Gadolinium.protect.md|Gadolinium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Gadolinium.private.md|Gadolinium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Gadolinium.personal.md|Gadolinium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Gadolinium.secret.md|Gadolinium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Gadolinium.internal|Gadolinium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Gadolinium.protect|Gadolinium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Gadolinium.private|Gadolinium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Gadolinium.personal|Gadolinium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Gadolinium.secret|Gadolinium.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hoce-Slivnica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.md|Hoce-Slivnica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.internal.md|Hoce-Slivnica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.protect.md|Hoce-Slivnica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.private.md|Hoce-Slivnica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.personal.md|Hoce-Slivnica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.secret.md|Hoce-Slivnica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.internal|Hoce-Slivnica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.protect|Hoce-Slivnica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.private|Hoce-Slivnica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.personal|Hoce-Slivnica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Hoce-Slivnica.secret|Hoce-Slivnica.secret]] 
 

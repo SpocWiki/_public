@@ -41,9 +41,9 @@ markerFolder: ./Département~Maine-et-Loire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.md|Département~Maine-et-Loire]] 
-- [[../../../../_internal/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.internal.md|Département~Maine-et-Loire.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.protect.md|Département~Maine-et-Loire.protect]] 
-- [[../../../../_private/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.private.md|Département~Maine-et-Loire.private]] 
-- [[../../../../_personal/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.personal.md|Département~Maine-et-Loire.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.secret.md|Département~Maine-et-Loire.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.internal|Département~Maine-et-Loire.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.protect|Département~Maine-et-Loire.protect]] 
+- [[../../../../_private/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.private|Département~Maine-et-Loire.private]] 
+- [[../../../../_personal/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.personal|Département~Maine-et-Loire.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.secret|Département~Maine-et-Loire.secret]] 
 

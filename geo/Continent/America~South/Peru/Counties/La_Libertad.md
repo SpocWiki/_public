@@ -41,9 +41,9 @@ markerFolder: ./La_Libertad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/La_Libertad.md|La_Libertad]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/La_Libertad.internal.md|La_Libertad.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/La_Libertad.protect.md|La_Libertad.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/La_Libertad.private.md|La_Libertad.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/La_Libertad.personal.md|La_Libertad.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/La_Libertad.secret.md|La_Libertad.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/La_Libertad.internal|La_Libertad.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/La_Libertad.protect|La_Libertad.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/La_Libertad.private|La_Libertad.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/La_Libertad.personal|La_Libertad.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/La_Libertad.secret|La_Libertad.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Lambayeque/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Lambayeque.md|Lambayeque]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Lambayeque.internal.md|Lambayeque.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Lambayeque.protect.md|Lambayeque.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Lambayeque.private.md|Lambayeque.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Lambayeque.personal.md|Lambayeque.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Lambayeque.secret.md|Lambayeque.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Lambayeque.internal|Lambayeque.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Lambayeque.protect|Lambayeque.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Lambayeque.private|Lambayeque.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Lambayeque.personal|Lambayeque.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Lambayeque.secret|Lambayeque.secret]] 
 

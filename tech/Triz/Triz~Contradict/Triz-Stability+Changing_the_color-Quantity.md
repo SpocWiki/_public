@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Changing_the_color-Quantity]
 [SpocWebEntityId::23906]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.md|Triz-Stability+Changing_the_color-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.internal.md|Triz-Stability+Changing_the_color-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.protect.md|Triz-Stability+Changing_the_color-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.private.md|Triz-Stability+Changing_the_color-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.personal.md|Triz-Stability+Changing_the_color-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.secret.md|Triz-Stability+Changing_the_color-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.internal|Triz-Stability+Changing_the_color-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.protect|Triz-Stability+Changing_the_color-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.private|Triz-Stability+Changing_the_color-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.personal|Triz-Stability+Changing_the_color-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.secret|Triz-Stability+Changing_the_color-Quantity.secret]] 

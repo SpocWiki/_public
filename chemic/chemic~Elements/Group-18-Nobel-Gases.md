@@ -26,8 +26,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-18-Nobel-Gases.md|Group-18-Nobel-Gases]] 
-- [[../../../_internal/chemic/Elements/Group-18-Nobel-Gases.internal.md|Group-18-Nobel-Gases.internal]] 
-- [[../../../_protect/chemic/Elements/Group-18-Nobel-Gases.protect.md|Group-18-Nobel-Gases.protect]] 
-- [[../../../_private/chemic/Elements/Group-18-Nobel-Gases.private.md|Group-18-Nobel-Gases.private]] 
-- [[../../../_personal/chemic/Elements/Group-18-Nobel-Gases.personal.md|Group-18-Nobel-Gases.personal]] 
-- [[../../../_secret/chemic/Elements/Group-18-Nobel-Gases.secret.md|Group-18-Nobel-Gases.secret]] 
+- [[../../../_internal/chemic/Elements/Group-18-Nobel-Gases.internal|Group-18-Nobel-Gases.internal]] 
+- [[../../../_protect/chemic/Elements/Group-18-Nobel-Gases.protect|Group-18-Nobel-Gases.protect]] 
+- [[../../../_private/chemic/Elements/Group-18-Nobel-Gases.private|Group-18-Nobel-Gases.private]] 
+- [[../../../_personal/chemic/Elements/Group-18-Nobel-Gases.personal|Group-18-Nobel-Gases.personal]] 
+- [[../../../_secret/chemic/Elements/Group-18-Nobel-Gases.secret|Group-18-Nobel-Gases.secret]] 

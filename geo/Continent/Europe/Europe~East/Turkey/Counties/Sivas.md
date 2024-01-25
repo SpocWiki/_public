@@ -41,9 +41,9 @@ markerFolder: ./Sivas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sivas.md|Sivas]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sivas.internal.md|Sivas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sivas.protect.md|Sivas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sivas.private.md|Sivas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sivas.personal.md|Sivas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sivas.secret.md|Sivas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sivas.internal|Sivas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sivas.protect|Sivas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sivas.private|Sivas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sivas.personal|Sivas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sivas.secret|Sivas.secret]] 
 

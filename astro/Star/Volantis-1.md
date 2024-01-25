@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Volantis-1.md|Volantis-1]] 
-- [[../../../_internal/astro/Star/Volantis-1.internal.md|Volantis-1.internal]] 
-- [[../../../_protect/astro/Star/Volantis-1.protect.md|Volantis-1.protect]] 
-- [[../../../_private/astro/Star/Volantis-1.private.md|Volantis-1.private]] 
-- [[../../../_personal/astro/Star/Volantis-1.personal.md|Volantis-1.personal]] 
-- [[../../../_secret/astro/Star/Volantis-1.secret.md|Volantis-1.secret]] 
+- [[../../../_internal/astro/Star/Volantis-1.internal|Volantis-1.internal]] 
+- [[../../../_protect/astro/Star/Volantis-1.protect|Volantis-1.protect]] 
+- [[../../../_private/astro/Star/Volantis-1.private|Volantis-1.private]] 
+- [[../../../_personal/astro/Star/Volantis-1.personal|Volantis-1.personal]] 
+- [[../../../_secret/astro/Star/Volantis-1.secret|Volantis-1.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Mechanical_vibration-Difficulty]
 [SpocWebEntityId::24920]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.md|Triz-Substance-Loss+Mechanical_vibration-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.internal.md|Triz-Substance-Loss+Mechanical_vibration-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.protect.md|Triz-Substance-Loss+Mechanical_vibration-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.private.md|Triz-Substance-Loss+Mechanical_vibration-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.personal.md|Triz-Substance-Loss+Mechanical_vibration-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.secret.md|Triz-Substance-Loss+Mechanical_vibration-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.internal|Triz-Substance-Loss+Mechanical_vibration-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.protect|Triz-Substance-Loss+Mechanical_vibration-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.private|Triz-Substance-Loss+Mechanical_vibration-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.personal|Triz-Substance-Loss+Mechanical_vibration-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Difficulty.secret|Triz-Substance-Loss+Mechanical_vibration-Difficulty.secret]] 

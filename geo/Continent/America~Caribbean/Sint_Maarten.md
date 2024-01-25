@@ -124,8 +124,8 @@ markerFolder: ./Sint_Maarten/
 
 ## Confidential Links & Embeds: 
 - [[Sint_Maarten|Sint_Maarten]] 
-- [[../../../../_internal/geo/Continent/South-America/Sint_Maarten.internal.md|Sint_Maarten.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Sint_Maarten.protect.md|Sint_Maarten.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Sint_Maarten.private.md|Sint_Maarten.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Sint_Maarten.personal.md|Sint_Maarten.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Sint_Maarten.secret.md|Sint_Maarten.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Sint_Maarten.internal|Sint_Maarten.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Sint_Maarten.protect|Sint_Maarten.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Sint_Maarten.private|Sint_Maarten.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Sint_Maarten.personal|Sint_Maarten.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Sint_Maarten.secret|Sint_Maarten.secret]] 

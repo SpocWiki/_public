@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.md|Austin]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.internal.md|Austin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.protect.md|Austin.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.private.md|Austin.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.personal.md|Austin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.secret.md|Austin.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.internal|Austin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.protect|Austin.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.private|Austin.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.personal|Austin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/Austin.secret|Austin.secret]] 

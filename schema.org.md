@@ -10,9 +10,9 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 - [[../_public/schema.org.md|schema.org]] 
-- [[../_internal/schema.org.internal.md|schema.org.internal]] 
-- [[../_protect/schema.org.protect.md|schema.org.protect]] 
-- [[../_private/schema.org.private.md|schema.org.private]] 
-- [[../_personal/schema.org.personal.md|schema.org.personal]] 
-- [[../_secret/schema.org.secret.md|schema.org.secret]]
+- [[../_internal/schema.org.internal|schema.org.internal]] 
+- [[../_protect/schema.org.protect|schema.org.protect]] 
+- [[../_private/schema.org.private|schema.org.private]] 
+- [[../_personal/schema.org.personal|schema.org.personal]] 
+- [[../_secret/schema.org.secret|schema.org.secret]]
 

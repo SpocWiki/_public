@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Alexandropo.md|Alexandropo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Alexandropo.internal.md|Alexandropo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Alexandropo.protect.md|Alexandropo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Alexandropo.private.md|Alexandropo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Alexandropo.personal.md|Alexandropo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Alexandropo.secret.md|Alexandropo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Alexandropo.internal|Alexandropo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Alexandropo.protect|Alexandropo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Alexandropo.private|Alexandropo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Alexandropo.personal|Alexandropo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Alexandropo.secret|Alexandropo.secret]] 

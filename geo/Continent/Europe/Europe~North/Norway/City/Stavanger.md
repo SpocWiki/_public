@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Stavanger.md|Stavanger]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Stavanger.internal.md|Stavanger.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Stavanger.protect.md|Stavanger.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Stavanger.private.md|Stavanger.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Stavanger.personal.md|Stavanger.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Stavanger.secret.md|Stavanger.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Stavanger.internal|Stavanger.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Stavanger.protect|Stavanger.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Stavanger.private|Stavanger.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Stavanger.personal|Stavanger.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Stavanger.secret|Stavanger.secret]] 

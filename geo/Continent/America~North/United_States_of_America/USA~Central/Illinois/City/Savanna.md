@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.md|Savanna]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.internal.md|Savanna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.protect.md|Savanna.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.private.md|Savanna.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.personal.md|Savanna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.secret.md|Savanna.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.internal|Savanna.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.protect|Savanna.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.private|Savanna.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.personal|Savanna.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois/City/Savanna.secret|Savanna.secret]] 

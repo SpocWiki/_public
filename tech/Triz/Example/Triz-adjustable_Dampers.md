@@ -18,8 +18,8 @@ Use adjustable Dampers to reduce the Noise of Parts falling into a Container by 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-adjustable_Dampers.md|Triz-adjustable_Dampers]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-adjustable_Dampers.internal.md|Triz-adjustable_Dampers.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-adjustable_Dampers.protect.md|Triz-adjustable_Dampers.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-adjustable_Dampers.private.md|Triz-adjustable_Dampers.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-adjustable_Dampers.personal.md|Triz-adjustable_Dampers.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-adjustable_Dampers.secret.md|Triz-adjustable_Dampers.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-adjustable_Dampers.internal|Triz-adjustable_Dampers.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-adjustable_Dampers.protect|Triz-adjustable_Dampers.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-adjustable_Dampers.private|Triz-adjustable_Dampers.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-adjustable_Dampers.personal|Triz-adjustable_Dampers.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-adjustable_Dampers.secret|Triz-adjustable_Dampers.secret]] 

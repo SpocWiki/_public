@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Tralee.md|Tralee]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tralee.internal.md|Tralee.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tralee.protect.md|Tralee.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Tralee.private.md|Tralee.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tralee.personal.md|Tralee.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tralee.secret.md|Tralee.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tralee.internal|Tralee.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tralee.protect|Tralee.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Tralee.private|Tralee.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tralee.personal|Tralee.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tralee.secret|Tralee.secret]] 

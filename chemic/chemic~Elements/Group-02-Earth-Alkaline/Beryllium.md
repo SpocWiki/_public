@@ -35,8 +35,8 @@ SpocWebEntityId: 21907 á à ô
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.md|Beryllium]] 
-- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.internal.md|Beryllium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.protect.md|Beryllium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.private.md|Beryllium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.personal.md|Beryllium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.secret.md|Beryllium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.internal|Beryllium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.protect|Beryllium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.private|Beryllium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.personal|Beryllium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.secret|Beryllium.secret]] 

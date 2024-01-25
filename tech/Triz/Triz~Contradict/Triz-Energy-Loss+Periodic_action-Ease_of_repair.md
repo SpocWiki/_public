@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Periodic_action-Ease_of_repair]
 [SpocWebEntityId::24775]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.md|Triz-Energy-Loss+Periodic_action-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.internal.md|Triz-Energy-Loss+Periodic_action-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.protect.md|Triz-Energy-Loss+Periodic_action-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.private.md|Triz-Energy-Loss+Periodic_action-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.personal.md|Triz-Energy-Loss+Periodic_action-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.secret.md|Triz-Energy-Loss+Periodic_action-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.internal|Triz-Energy-Loss+Periodic_action-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.protect|Triz-Energy-Loss+Periodic_action-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.private|Triz-Energy-Loss+Periodic_action-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.personal|Triz-Energy-Loss+Periodic_action-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Ease_of_repair.secret|Triz-Energy-Loss+Periodic_action-Ease_of_repair.secret]] 

@@ -34,8 +34,8 @@ SpocWebEntityId: 21969
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-05-Vanadium/Tantalum.md|Tantalum]] 
-- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Tantalum.internal.md|Tantalum.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Tantalum.protect.md|Tantalum.protect]] 
-- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Tantalum.private.md|Tantalum.private]] 
-- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Tantalum.personal.md|Tantalum.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Tantalum.secret.md|Tantalum.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Tantalum.internal|Tantalum.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Tantalum.protect|Tantalum.protect]] 
+- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Tantalum.private|Tantalum.private]] 
+- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Tantalum.personal|Tantalum.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Tantalum.secret|Tantalum.secret]] 

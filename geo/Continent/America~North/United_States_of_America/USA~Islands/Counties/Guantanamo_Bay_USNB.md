@@ -41,9 +41,9 @@ markerFolder: ./Guantanamo_Bay_USNB/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.md|Guantanamo_Bay_USNB]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.internal.md|Guantanamo_Bay_USNB.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.protect.md|Guantanamo_Bay_USNB.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.private.md|Guantanamo_Bay_USNB.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.personal.md|Guantanamo_Bay_USNB.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.secret.md|Guantanamo_Bay_USNB.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.internal|Guantanamo_Bay_USNB.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.protect|Guantanamo_Bay_USNB.protect]] 
+- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.private|Guantanamo_Bay_USNB.private]] 
+- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.personal|Guantanamo_Bay_USNB.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Guantanamo_Bay_USNB.secret|Guantanamo_Bay_USNB.secret]] 
 

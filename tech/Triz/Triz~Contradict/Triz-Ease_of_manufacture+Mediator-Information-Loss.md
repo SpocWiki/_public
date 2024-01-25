@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Mediator-Information-Loss]
 [SpocWebEntityId::25903]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.md|Triz-Ease_of_manufacture+Mediator-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.internal.md|Triz-Ease_of_manufacture+Mediator-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.protect.md|Triz-Ease_of_manufacture+Mediator-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.private.md|Triz-Ease_of_manufacture+Mediator-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.personal.md|Triz-Ease_of_manufacture+Mediator-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.secret.md|Triz-Ease_of_manufacture+Mediator-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.internal|Triz-Ease_of_manufacture+Mediator-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.protect|Triz-Ease_of_manufacture+Mediator-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.private|Triz-Ease_of_manufacture+Mediator-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.personal|Triz-Ease_of_manufacture+Mediator-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Information-Loss.secret|Triz-Ease_of_manufacture+Mediator-Information-Loss.secret]] 

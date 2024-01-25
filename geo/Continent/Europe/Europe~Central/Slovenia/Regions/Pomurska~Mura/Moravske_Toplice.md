@@ -41,9 +41,9 @@ markerFolder: ./Moravske_Toplice/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.md|Moravske_Toplice]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.internal.md|Moravske_Toplice.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.protect.md|Moravske_Toplice.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.private.md|Moravske_Toplice.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.personal.md|Moravske_Toplice.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.secret.md|Moravske_Toplice.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.internal|Moravske_Toplice.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.protect|Moravske_Toplice.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.private|Moravske_Toplice.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.personal|Moravske_Toplice.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Pomurska~Mura/Moravske_Toplice.secret|Moravske_Toplice.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Marmande.md|Marmande]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Marmande.internal.md|Marmande.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Marmande.protect.md|Marmande.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Marmande.private.md|Marmande.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Marmande.personal.md|Marmande.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Marmande.secret.md|Marmande.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Marmande.internal|Marmande.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Marmande.protect|Marmande.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Marmande.private|Marmande.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Marmande.personal|Marmande.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Marmande.secret|Marmande.secret]] 

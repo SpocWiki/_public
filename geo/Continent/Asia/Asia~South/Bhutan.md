@@ -133,7 +133,7 @@ markerFolder: ./Bhutan/
 ## Confidential Links & Embeds: 
 -[[Bhutan|Bhutan]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Bhutan.internal|Bhutan.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Bhutan.protect.md|Bhutan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Bhutan.private.md|Bhutan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Bhutan.personal.md|Bhutan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Bhutan.secret.md|Bhutan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Bhutan.protect|Bhutan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Bhutan.private|Bhutan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Bhutan.personal|Bhutan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Bhutan.secret|Bhutan.secret]] 

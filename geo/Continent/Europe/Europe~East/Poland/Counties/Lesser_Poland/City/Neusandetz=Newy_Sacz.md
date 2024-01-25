@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.md|Neusandetz=Newy_Sacz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.internal.md|Neusandetz=Newy_Sacz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.protect.md|Neusandetz=Newy_Sacz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.private.md|Neusandetz=Newy_Sacz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.personal.md|Neusandetz=Newy_Sacz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.secret.md|Neusandetz=Newy_Sacz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.internal|Neusandetz=Newy_Sacz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.protect|Neusandetz=Newy_Sacz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.private|Neusandetz=Newy_Sacz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.personal|Neusandetz=Newy_Sacz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.secret|Neusandetz=Newy_Sacz.secret]] 

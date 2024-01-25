@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vaskraeama.md|Vaskraeama]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vaskraeama.internal.md|Vaskraeama.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vaskraeama.protect.md|Vaskraeama.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vaskraeama.private.md|Vaskraeama.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vaskraeama.personal.md|Vaskraeama.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vaskraeama.secret.md|Vaskraeama.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vaskraeama.internal|Vaskraeama.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vaskraeama.protect|Vaskraeama.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vaskraeama.private|Vaskraeama.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vaskraeama.personal|Vaskraeama.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vaskraeama.secret|Vaskraeama.secret]] 

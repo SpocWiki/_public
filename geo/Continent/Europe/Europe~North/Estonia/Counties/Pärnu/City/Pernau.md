@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pernau.md|Pernau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pernau.internal.md|Pernau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pernau.protect.md|Pernau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pernau.private.md|Pernau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pernau.personal.md|Pernau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pernau.secret.md|Pernau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pernau.internal|Pernau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pernau.protect|Pernau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pernau.private|Pernau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pernau.personal|Pernau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pernau.secret|Pernau.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Bernay.md|Bernay]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bernay.internal.md|Bernay.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bernay.protect.md|Bernay.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Bernay.private.md|Bernay.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bernay.personal.md|Bernay.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bernay.secret.md|Bernay.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bernay.internal|Bernay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bernay.protect|Bernay.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bernay.private|Bernay.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bernay.personal|Bernay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bernay.secret|Bernay.secret]] 

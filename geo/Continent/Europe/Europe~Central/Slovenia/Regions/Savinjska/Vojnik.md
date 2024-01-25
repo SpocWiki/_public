@@ -41,9 +41,9 @@ markerFolder: ./Vojnik/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.md|Vojnik]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.internal.md|Vojnik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.protect.md|Vojnik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.private.md|Vojnik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.personal.md|Vojnik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.secret.md|Vojnik.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.internal|Vojnik.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.protect|Vojnik.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.private|Vojnik.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.personal|Vojnik.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Vojnik.secret|Vojnik.secret]] 
 

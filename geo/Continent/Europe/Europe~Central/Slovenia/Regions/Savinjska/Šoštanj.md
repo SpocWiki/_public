@@ -41,9 +41,9 @@ markerFolder: ./Šoštanj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.md|Šoštanj]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.internal.md|Šoštanj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.protect.md|Šoštanj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.private.md|Šoštanj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.personal.md|Šoštanj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.secret.md|Šoštanj.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.internal|Šoštanj.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.protect|Šoštanj.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.private|Šoštanj.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.personal|Šoštanj.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šoštanj.secret|Šoštanj.secret]] 
 

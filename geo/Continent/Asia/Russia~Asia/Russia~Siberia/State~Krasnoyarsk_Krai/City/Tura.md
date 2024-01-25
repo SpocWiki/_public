@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tura.md|Tura]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tura.internal.md|Tura.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tura.protect.md|Tura.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tura.private.md|Tura.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tura.personal.md|Tura.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tura.secret.md|Tura.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tura.internal|Tura.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tura.protect|Tura.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tura.private|Tura.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tura.personal|Tura.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tura.secret|Tura.secret]] 

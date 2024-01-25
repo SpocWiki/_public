@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Extraction-Versatility]
 [SpocWebEntityId::24914]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.md|Triz-Substance-Loss+Extraction-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.internal.md|Triz-Substance-Loss+Extraction-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.protect.md|Triz-Substance-Loss+Extraction-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.private.md|Triz-Substance-Loss+Extraction-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.personal.md|Triz-Substance-Loss+Extraction-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.secret.md|Triz-Substance-Loss+Extraction-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.internal|Triz-Substance-Loss+Extraction-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.protect|Triz-Substance-Loss+Extraction-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.private|Triz-Substance-Loss+Extraction-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.personal|Triz-Substance-Loss+Extraction-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.secret|Triz-Substance-Loss+Extraction-Versatility.secret]] 

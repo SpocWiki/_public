@@ -41,9 +41,9 @@ markerFolder: ./Engures/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Engures.md|Engures]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Engures.internal.md|Engures.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Engures.protect.md|Engures.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Engures.private.md|Engures.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Engures.personal.md|Engures.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Engures.secret.md|Engures.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Engures.internal|Engures.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Engures.protect|Engures.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Engures.private|Engures.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Engures.personal|Engures.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Engures.secret|Engures.secret]] 
 

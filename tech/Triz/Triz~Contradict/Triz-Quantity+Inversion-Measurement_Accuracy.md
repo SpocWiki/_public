@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Inversion-Measurement_Accuracy]
 [SpocWebEntityId::25190]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.md|Triz-Quantity+Inversion-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.internal.md|Triz-Quantity+Inversion-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.protect.md|Triz-Quantity+Inversion-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.private.md|Triz-Quantity+Inversion-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.personal.md|Triz-Quantity+Inversion-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.secret.md|Triz-Quantity+Inversion-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.internal|Triz-Quantity+Inversion-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.protect|Triz-Quantity+Inversion-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.private|Triz-Quantity+Inversion-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.personal|Triz-Quantity+Inversion-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.secret|Triz-Quantity+Inversion-Measurement_Accuracy.secret]] 

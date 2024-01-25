@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Solka.md|Solka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Solka.internal.md|Solka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Solka.protect.md|Solka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Solka.private.md|Solka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Solka.personal.md|Solka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Solka.secret.md|Solka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Solka.internal|Solka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Solka.protect|Solka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Solka.private|Solka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Solka.personal|Solka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Solka.secret|Solka.secret]] 

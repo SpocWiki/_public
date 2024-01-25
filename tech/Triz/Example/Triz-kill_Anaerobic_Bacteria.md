@@ -18,8 +18,8 @@ Treat Wounds in a high Pressure Oxygen Environment to kill Anaerobic Bacteria an
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.md|Triz-kill_Anaerobic_Bacteria]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.internal.md|Triz-kill_Anaerobic_Bacteria.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.protect.md|Triz-kill_Anaerobic_Bacteria.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.private.md|Triz-kill_Anaerobic_Bacteria.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.personal.md|Triz-kill_Anaerobic_Bacteria.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.secret.md|Triz-kill_Anaerobic_Bacteria.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.internal|Triz-kill_Anaerobic_Bacteria.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.protect|Triz-kill_Anaerobic_Bacteria.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.private|Triz-kill_Anaerobic_Bacteria.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.personal|Triz-kill_Anaerobic_Bacteria.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.secret|Triz-kill_Anaerobic_Bacteria.secret]] 

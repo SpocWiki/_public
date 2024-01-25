@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neisse.md|Neisse]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neisse.internal.md|Neisse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neisse.protect.md|Neisse.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neisse.private.md|Neisse.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neisse.personal.md|Neisse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neisse.secret.md|Neisse.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neisse.internal|Neisse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neisse.protect|Neisse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neisse.private|Neisse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neisse.personal|Neisse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neisse.secret|Neisse.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Yssengeaux.md|Yssengeaux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Yssengeaux.internal.md|Yssengeaux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Yssengeaux.protect.md|Yssengeaux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Yssengeaux.private.md|Yssengeaux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Yssengeaux.personal.md|Yssengeaux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Yssengeaux.secret.md|Yssengeaux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Yssengeaux.internal|Yssengeaux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Yssengeaux.protect|Yssengeaux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Yssengeaux.private|Yssengeaux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Yssengeaux.personal|Yssengeaux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Yssengeaux.secret|Yssengeaux.secret]] 

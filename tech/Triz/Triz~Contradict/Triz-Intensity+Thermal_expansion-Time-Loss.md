@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Thermal_expansion-Time-Loss]
 [SpocWebEntityId::23547]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.md|Triz-Intensity+Thermal_expansion-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.internal.md|Triz-Intensity+Thermal_expansion-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.protect.md|Triz-Intensity+Thermal_expansion-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.private.md|Triz-Intensity+Thermal_expansion-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.personal.md|Triz-Intensity+Thermal_expansion-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.secret.md|Triz-Intensity+Thermal_expansion-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.internal|Triz-Intensity+Thermal_expansion-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.protect|Triz-Intensity+Thermal_expansion-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.private|Triz-Intensity+Thermal_expansion-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.personal|Triz-Intensity+Thermal_expansion-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Time-Loss.secret|Triz-Intensity+Thermal_expansion-Time-Loss.secret]] 

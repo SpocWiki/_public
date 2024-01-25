@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sobkowitz.md|Sobkowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sobkowitz.internal.md|Sobkowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sobkowitz.protect.md|Sobkowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sobkowitz.private.md|Sobkowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sobkowitz.personal.md|Sobkowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sobkowitz.secret.md|Sobkowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sobkowitz.internal|Sobkowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sobkowitz.protect|Sobkowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sobkowitz.private|Sobkowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sobkowitz.personal|Sobkowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sobkowitz.secret|Sobkowitz.secret]] 

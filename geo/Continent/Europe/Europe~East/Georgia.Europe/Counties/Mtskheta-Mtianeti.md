@@ -41,9 +41,9 @@ markerFolder: ./Mtskheta-Mtianeti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.md|Mtskheta-Mtianeti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.internal.md|Mtskheta-Mtianeti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.protect.md|Mtskheta-Mtianeti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.private.md|Mtskheta-Mtianeti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.personal.md|Mtskheta-Mtianeti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.secret.md|Mtskheta-Mtianeti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.internal|Mtskheta-Mtianeti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.protect|Mtskheta-Mtianeti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.private|Mtskheta-Mtianeti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.personal|Mtskheta-Mtianeti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.secret|Mtskheta-Mtianeti.secret]] 
 

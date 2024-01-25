@@ -41,9 +41,9 @@ markerFolder: ./Béchar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Béchar.md|Béchar]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Béchar.internal.md|Béchar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Béchar.protect.md|Béchar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Béchar.private.md|Béchar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Béchar.personal.md|Béchar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Béchar.secret.md|Béchar.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Béchar.internal|Béchar.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Béchar.protect|Béchar.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Béchar.private|Béchar.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Béchar.personal|Béchar.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Béchar.secret|Béchar.secret]] 
 

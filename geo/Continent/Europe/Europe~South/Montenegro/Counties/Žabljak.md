@@ -41,9 +41,9 @@ markerFolder: ./Žabljak/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Žabljak.md|Žabljak]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Žabljak.internal.md|Žabljak.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Žabljak.protect.md|Žabljak.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Žabljak.private.md|Žabljak.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Žabljak.personal.md|Žabljak.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Žabljak.secret.md|Žabljak.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Žabljak.internal|Žabljak.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Žabljak.protect|Žabljak.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Žabljak.private|Žabljak.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Žabljak.personal|Žabljak.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Žabljak.secret|Žabljak.secret]] 
 

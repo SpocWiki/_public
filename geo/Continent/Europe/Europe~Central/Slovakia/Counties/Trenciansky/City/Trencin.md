@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Trencin.md|Trencin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Trencin.internal.md|Trencin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Trencin.protect.md|Trencin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Trencin.private.md|Trencin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Trencin.personal.md|Trencin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Trencin.secret.md|Trencin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Trencin.internal|Trencin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Trencin.protect|Trencin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Trencin.private|Trencin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Trencin.personal|Trencin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Trencin.secret|Trencin.secret]] 

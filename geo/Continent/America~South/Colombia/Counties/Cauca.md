@@ -41,9 +41,9 @@ markerFolder: ./Cauca/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Cauca.md|Cauca]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Cauca.internal.md|Cauca.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Cauca.protect.md|Cauca.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Cauca.private.md|Cauca.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Cauca.personal.md|Cauca.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Cauca.secret.md|Cauca.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Cauca.internal|Cauca.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Cauca.protect|Cauca.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Cauca.private|Cauca.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Cauca.personal|Cauca.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Cauca.secret|Cauca.secret]] 
 

@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Offenbach_Ledermuseum|S-Offenbach_Ledermuseum]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.internal.md|S-Offenbach_Ledermuseum.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.protect.md|S-Offenbach_Ledermuseum.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.private.md|S-Offenbach_Ledermuseum.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.personal.md|S-Offenbach_Ledermuseum.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.secret.md|S-Offenbach_Ledermuseum.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.internal|S-Offenbach_Ledermuseum.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.protect|S-Offenbach_Ledermuseum.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.private|S-Offenbach_Ledermuseum.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.personal|S-Offenbach_Ledermuseum.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Ledermuseum.secret|S-Offenbach_Ledermuseum.secret]] 

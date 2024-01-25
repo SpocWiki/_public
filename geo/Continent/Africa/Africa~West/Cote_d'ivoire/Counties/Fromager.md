@@ -41,9 +41,9 @@ markerFolder: ./Fromager/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.md|Fromager]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.internal.md|Fromager.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.protect.md|Fromager.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.private.md|Fromager.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.personal.md|Fromager.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.secret.md|Fromager.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.internal|Fromager.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.protect|Fromager.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.private|Fromager.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.personal|Fromager.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Fromager.secret|Fromager.secret]] 
 

@@ -44,7 +44,7 @@ markerFolder: ./Sudan~North//
 ## Confidential Links & Embeds: 
 - [[Sudan~North|Sudan~North]] 
 - [[../../../../../_internal/geo/Continent/Africa/Sudan~North.internal|Sudan~North.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~North.protect.md|Sudan~North.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~North.private.md|Sudan~North.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~North.personal.md|Sudan~North.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~North.secret.md|Sudan~North.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~North.protect|Sudan~North.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~North.private|Sudan~North.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~North.personal|Sudan~North.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~North.secret|Sudan~North.secret]] 

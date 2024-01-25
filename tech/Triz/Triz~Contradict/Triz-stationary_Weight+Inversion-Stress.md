@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Inversion-Stress]
 [SpocWebEntityId::22712]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.md|Triz-stationary_Weight+Inversion-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.internal.md|Triz-stationary_Weight+Inversion-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.protect.md|Triz-stationary_Weight+Inversion-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.private.md|Triz-stationary_Weight+Inversion-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.personal.md|Triz-stationary_Weight+Inversion-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.secret.md|Triz-stationary_Weight+Inversion-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.internal|Triz-stationary_Weight+Inversion-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.protect|Triz-stationary_Weight+Inversion-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.private|Triz-stationary_Weight+Inversion-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.personal|Triz-stationary_Weight+Inversion-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.secret|Triz-stationary_Weight+Inversion-Stress.secret]] 

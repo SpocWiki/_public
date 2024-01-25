@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zermatt.md|Zermatt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zermatt.internal.md|Zermatt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zermatt.protect.md|Zermatt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zermatt.private.md|Zermatt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zermatt.personal.md|Zermatt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zermatt.secret.md|Zermatt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zermatt.internal|Zermatt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zermatt.protect|Zermatt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zermatt.private|Zermatt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zermatt.personal|Zermatt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zermatt.secret|Zermatt.secret]] 

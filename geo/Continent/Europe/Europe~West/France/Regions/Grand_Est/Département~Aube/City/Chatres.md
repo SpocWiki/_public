@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chatres.md|Chatres]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chatres.internal.md|Chatres.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chatres.protect.md|Chatres.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chatres.private.md|Chatres.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chatres.personal.md|Chatres.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chatres.secret.md|Chatres.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chatres.internal|Chatres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chatres.protect|Chatres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chatres.private|Chatres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chatres.personal|Chatres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chatres.secret|Chatres.secret]] 

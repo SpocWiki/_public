@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.md|Twickenham]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.internal.md|Twickenham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.protect.md|Twickenham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.private.md|Twickenham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.personal.md|Twickenham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.secret.md|Twickenham.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.internal|Twickenham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.protect|Twickenham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.private|Twickenham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.personal|Twickenham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.secret|Twickenham.secret]] 

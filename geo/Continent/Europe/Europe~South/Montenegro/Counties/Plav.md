@@ -41,9 +41,9 @@ markerFolder: ./Plav/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Plav.md|Plav]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Plav.internal.md|Plav.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Plav.protect.md|Plav.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Plav.private.md|Plav.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Plav.personal.md|Plav.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Plav.secret.md|Plav.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Plav.internal|Plav.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Plav.protect|Plav.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Plav.private|Plav.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Plav.personal|Plav.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Plav.secret|Plav.secret]] 
 

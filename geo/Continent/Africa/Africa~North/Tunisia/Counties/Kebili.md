@@ -41,9 +41,9 @@ markerFolder: ./Kebili/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Kebili.md|Kebili]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kebili.internal.md|Kebili.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kebili.protect.md|Kebili.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kebili.private.md|Kebili.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kebili.personal.md|Kebili.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kebili.secret.md|Kebili.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kebili.internal|Kebili.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kebili.protect|Kebili.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kebili.private|Kebili.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kebili.personal|Kebili.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kebili.secret|Kebili.secret]] 
 

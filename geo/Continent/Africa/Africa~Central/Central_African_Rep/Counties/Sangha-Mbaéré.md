@@ -41,9 +41,9 @@ markerFolder: ./Sangha-Mbaéré/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.md|Sangha-Mbaéré]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.internal.md|Sangha-Mbaéré.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.protect.md|Sangha-Mbaéré.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.private.md|Sangha-Mbaéré.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.personal.md|Sangha-Mbaéré.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.secret.md|Sangha-Mbaéré.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.internal|Sangha-Mbaéré.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.protect|Sangha-Mbaéré.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.private|Sangha-Mbaéré.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.personal|Sangha-Mbaéré.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.secret|Sangha-Mbaéré.secret]] 
 

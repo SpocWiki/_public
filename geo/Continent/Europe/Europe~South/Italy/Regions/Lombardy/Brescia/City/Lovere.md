@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lovere.md|Lovere]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lovere.internal.md|Lovere.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lovere.protect.md|Lovere.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lovere.private.md|Lovere.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lovere.personal.md|Lovere.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lovere.secret.md|Lovere.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lovere.internal|Lovere.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lovere.protect|Lovere.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lovere.private|Lovere.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lovere.personal|Lovere.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lovere.secret|Lovere.secret]] 

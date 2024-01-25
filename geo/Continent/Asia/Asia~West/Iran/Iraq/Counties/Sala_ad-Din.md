@@ -41,9 +41,9 @@ markerFolder: ./Sala_ad-Din/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.md|Sala_ad-Din]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.internal.md|Sala_ad-Din.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.protect.md|Sala_ad-Din.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.private.md|Sala_ad-Din.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.personal.md|Sala_ad-Din.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.secret.md|Sala_ad-Din.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.internal|Sala_ad-Din.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.protect|Sala_ad-Din.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.private|Sala_ad-Din.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.personal|Sala_ad-Din.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Sala_ad-Din.secret|Sala_ad-Din.secret]] 
 

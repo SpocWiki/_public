@@ -41,9 +41,9 @@ markerFolder: ./Chuuk/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.md|Chuuk]] 
-- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.internal.md|Chuuk.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.protect.md|Chuuk.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.private.md|Chuuk.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.personal.md|Chuuk.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.secret.md|Chuuk.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.internal|Chuuk.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.protect|Chuuk.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.private|Chuuk.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.personal|Chuuk.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.secret|Chuuk.secret]] 
 

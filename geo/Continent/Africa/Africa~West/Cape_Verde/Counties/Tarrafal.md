@@ -41,9 +41,9 @@ markerFolder: ./Tarrafal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.md|Tarrafal]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.internal.md|Tarrafal.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.protect.md|Tarrafal.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.private.md|Tarrafal.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.personal.md|Tarrafal.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.secret.md|Tarrafal.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.internal|Tarrafal.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.protect|Tarrafal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.private|Tarrafal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.personal|Tarrafal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.secret|Tarrafal.secret]] 
 

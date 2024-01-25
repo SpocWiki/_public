@@ -41,9 +41,9 @@ markerFolder: ./Baie_Lazare/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.md|Baie_Lazare]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.internal.md|Baie_Lazare.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.protect.md|Baie_Lazare.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.private.md|Baie_Lazare.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.personal.md|Baie_Lazare.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.secret.md|Baie_Lazare.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.internal|Baie_Lazare.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.protect|Baie_Lazare.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.private|Baie_Lazare.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.personal|Baie_Lazare.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.secret|Baie_Lazare.secret]] 
 

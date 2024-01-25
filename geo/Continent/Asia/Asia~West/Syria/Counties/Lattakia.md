@@ -41,9 +41,9 @@ markerFolder: ./Lattakia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.md|Lattakia]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.internal.md|Lattakia.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.protect.md|Lattakia.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.private.md|Lattakia.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.personal.md|Lattakia.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.secret.md|Lattakia.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.internal|Lattakia.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.protect|Lattakia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.private|Lattakia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.personal|Lattakia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.secret|Lattakia.secret]] 
 

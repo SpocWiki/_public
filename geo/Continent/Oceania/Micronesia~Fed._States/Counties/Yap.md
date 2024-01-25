@@ -41,9 +41,9 @@ markerFolder: ./Yap/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.md|Yap]] 
-- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.internal.md|Yap.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.protect.md|Yap.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.private.md|Yap.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.personal.md|Yap.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.secret.md|Yap.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.internal|Yap.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.protect|Yap.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.private|Yap.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.personal|Yap.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.secret|Yap.secret]] 
 

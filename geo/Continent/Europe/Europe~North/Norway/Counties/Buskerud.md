@@ -41,9 +41,9 @@ markerFolder: ./Buskerud/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Buskerud.md|Buskerud]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Buskerud.internal.md|Buskerud.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Buskerud.protect.md|Buskerud.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Buskerud.private.md|Buskerud.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Buskerud.personal.md|Buskerud.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Buskerud.secret.md|Buskerud.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Buskerud.internal|Buskerud.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Buskerud.protect|Buskerud.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Buskerud.private|Buskerud.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Buskerud.personal|Buskerud.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Buskerud.secret|Buskerud.secret]] 
 

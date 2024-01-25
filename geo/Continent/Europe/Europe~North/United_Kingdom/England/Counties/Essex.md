@@ -41,9 +41,9 @@ markerFolder: ./Essex/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.md|Essex]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.internal.md|Essex.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.protect.md|Essex.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.private.md|Essex.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.personal.md|Essex.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.secret.md|Essex.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.internal|Essex.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.protect|Essex.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.private|Essex.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.personal|Essex.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.secret|Essex.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ceredolo.md|Ceredolo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ceredolo.internal.md|Ceredolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ceredolo.protect.md|Ceredolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ceredolo.private.md|Ceredolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ceredolo.personal.md|Ceredolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ceredolo.secret.md|Ceredolo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ceredolo.internal|Ceredolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ceredolo.protect|Ceredolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ceredolo.private|Ceredolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ceredolo.personal|Ceredolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ceredolo.secret|Ceredolo.secret]] 

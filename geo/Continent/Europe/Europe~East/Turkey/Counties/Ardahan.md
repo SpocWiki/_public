@@ -41,9 +41,9 @@ markerFolder: ./Ardahan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Ardahan.md|Ardahan]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Ardahan.internal.md|Ardahan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Ardahan.protect.md|Ardahan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Ardahan.private.md|Ardahan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Ardahan.personal.md|Ardahan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Ardahan.secret.md|Ardahan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Ardahan.internal|Ardahan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Ardahan.protect|Ardahan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Ardahan.private|Ardahan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Ardahan.personal|Ardahan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Ardahan.secret|Ardahan.secret]] 
 

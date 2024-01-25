@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Roskilde.md|Roskilde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Roskilde.internal.md|Roskilde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Roskilde.protect.md|Roskilde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Roskilde.private.md|Roskilde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Roskilde.personal.md|Roskilde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Roskilde.secret.md|Roskilde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Roskilde.internal|Roskilde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Roskilde.protect|Roskilde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Roskilde.private|Roskilde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Roskilde.personal|Roskilde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Roskilde.secret|Roskilde.secret]] 

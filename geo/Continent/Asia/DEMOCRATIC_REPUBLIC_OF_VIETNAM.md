@@ -36,8 +36,8 @@ markerFolder: ./DEMOCRATIC_REPUBLIC_OF_VIETNAM/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.md|DEMOCRATIC_REPUBLIC_OF_VIETNAM]] 
-- [[../../../../_internal/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal.md|DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect.md|DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect]] 
-- [[../../../../_private/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.private.md|DEMOCRATIC_REPUBLIC_OF_VIETNAM.private]] 
-- [[../../../../_personal/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal.md|DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret.md|DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal|DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect|DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect]] 
+- [[../../../../_private/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.private|DEMOCRATIC_REPUBLIC_OF_VIETNAM.private]] 
+- [[../../../../_personal/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal|DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret|DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret]] 

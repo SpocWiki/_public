@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Perseus.md|Zodiac~Perseus]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Perseus.internal.md|Zodiac~Perseus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Perseus.protect.md|Zodiac~Perseus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Perseus.private.md|Zodiac~Perseus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Perseus.personal.md|Zodiac~Perseus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Perseus.secret.md|Zodiac~Perseus.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Perseus.internal|Zodiac~Perseus.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Perseus.protect|Zodiac~Perseus.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Perseus.private|Zodiac~Perseus.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Perseus.personal|Zodiac~Perseus.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Perseus.secret|Zodiac~Perseus.secret]] 

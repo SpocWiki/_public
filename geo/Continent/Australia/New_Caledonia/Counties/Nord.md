@@ -41,9 +41,9 @@ markerFolder: ./Nord/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Caledonia/Counties/Nord.md|Nord]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Caledonia/Counties/Nord.internal.md|Nord.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Caledonia/Counties/Nord.protect.md|Nord.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Caledonia/Counties/Nord.private.md|Nord.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Caledonia/Counties/Nord.personal.md|Nord.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Caledonia/Counties/Nord.secret.md|Nord.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Caledonia/Counties/Nord.internal|Nord.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Caledonia/Counties/Nord.protect|Nord.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Caledonia/Counties/Nord.private|Nord.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Caledonia/Counties/Nord.personal|Nord.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Caledonia/Counties/Nord.secret|Nord.secret]] 
 

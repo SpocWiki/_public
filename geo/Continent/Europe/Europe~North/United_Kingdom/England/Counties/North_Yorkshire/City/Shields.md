@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Shields.md|Shields]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shields.internal.md|Shields.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shields.protect.md|Shields.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shields.private.md|Shields.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shields.personal.md|Shields.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shields.secret.md|Shields.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shields.internal|Shields.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shields.protect|Shields.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shields.private|Shields.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shields.personal|Shields.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shields.secret|Shields.secret]] 

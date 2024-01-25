@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Mechanical_vibration-Quantity]
 [SpocWebEntityId::24757]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.md|Triz-Energy-Loss+Mechanical_vibration-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.internal.md|Triz-Energy-Loss+Mechanical_vibration-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.protect.md|Triz-Energy-Loss+Mechanical_vibration-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.private.md|Triz-Energy-Loss+Mechanical_vibration-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.personal.md|Triz-Energy-Loss+Mechanical_vibration-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.secret.md|Triz-Energy-Loss+Mechanical_vibration-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.internal|Triz-Energy-Loss+Mechanical_vibration-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.protect|Triz-Energy-Loss+Mechanical_vibration-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.private|Triz-Energy-Loss+Mechanical_vibration-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.personal|Triz-Energy-Loss+Mechanical_vibration-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-Quantity.secret|Triz-Energy-Loss+Mechanical_vibration-Quantity.secret]] 

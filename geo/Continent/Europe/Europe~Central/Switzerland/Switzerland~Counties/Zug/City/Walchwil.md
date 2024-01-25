@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Walchwil.md|Walchwil]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Walchwil.internal.md|Walchwil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Walchwil.protect.md|Walchwil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Walchwil.private.md|Walchwil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Walchwil.personal.md|Walchwil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Walchwil.secret.md|Walchwil.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Walchwil.internal|Walchwil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Walchwil.protect|Walchwil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Walchwil.private|Walchwil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Walchwil.personal|Walchwil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Walchwil.secret|Walchwil.secret]] 

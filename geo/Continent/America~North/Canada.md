@@ -136,8 +136,8 @@ markerFolder: ./Canada/
 
 ## Confidential Links & Embeds: 
 - [[Canada|Canada]] 
-- [[../../../../_internal/geo/Continent/North-America/Canada.internal.md|Canada.internal]] 
-- [[../../../../_protect/geo/Continent/North-America/Canada.protect.md|Canada.protect]] 
-- [[../../../../_private/geo/Continent/North-America/Canada.private.md|Canada.private]] 
-- [[../../../../_personal/geo/Continent/North-America/Canada.personal.md|Canada.personal]] 
-- [[../../../../_secret/geo/Continent/North-America/Canada.secret.md|Canada.secret]] 
+- [[../../../../_internal/geo/Continent/North-America/Canada.internal|Canada.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/Canada.protect|Canada.protect]] 
+- [[../../../../_private/geo/Continent/North-America/Canada.private|Canada.private]] 
+- [[../../../../_personal/geo/Continent/North-America/Canada.personal|Canada.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/Canada.secret|Canada.secret]] 

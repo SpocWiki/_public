@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Segmentation-Versatility]
 [SpocWebEntityId::26056]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.md|Triz-Ease_of_operation+Segmentation-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.internal.md|Triz-Ease_of_operation+Segmentation-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.protect.md|Triz-Ease_of_operation+Segmentation-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.private.md|Triz-Ease_of_operation+Segmentation-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.personal.md|Triz-Ease_of_operation+Segmentation-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.secret.md|Triz-Ease_of_operation+Segmentation-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.internal|Triz-Ease_of_operation+Segmentation-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.protect|Triz-Ease_of_operation+Segmentation-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.private|Triz-Ease_of_operation+Segmentation-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.personal|Triz-Ease_of_operation+Segmentation-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.secret|Triz-Ease_of_operation+Segmentation-Versatility.secret]] 

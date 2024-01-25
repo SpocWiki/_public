@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Prellwitz.md|Prellwitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Prellwitz.internal.md|Prellwitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Prellwitz.protect.md|Prellwitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Prellwitz.private.md|Prellwitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Prellwitz.personal.md|Prellwitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Prellwitz.secret.md|Prellwitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Prellwitz.internal|Prellwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Prellwitz.protect|Prellwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Prellwitz.private|Prellwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Prellwitz.personal|Prellwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Prellwitz.secret|Prellwitz.secret]] 

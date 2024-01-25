@@ -141,7 +141,7 @@ markerFolder: ./Zambia//
 ## Confidential Links & Embeds: 
 - [[Zambia|Zambia]] 
 - [[../../../../../_internal/geo/Continent/Africa/Zambia.internal|Zambia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zambia.protect.md|Zambia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zambia.private.md|Zambia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zambia.personal.md|Zambia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zambia.secret.md|Zambia.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Zambia.protect|Zambia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zambia.private|Zambia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zambia.personal|Zambia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zambia.secret|Zambia.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Gersau.md|Gersau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gersau.internal.md|Gersau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gersau.protect.md|Gersau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gersau.private.md|Gersau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gersau.personal.md|Gersau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gersau.secret.md|Gersau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gersau.internal|Gersau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gersau.protect|Gersau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gersau.private|Gersau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gersau.personal|Gersau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gersau.secret|Gersau.secret]] 

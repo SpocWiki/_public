@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity]
 [SpocWebEntityId::23253]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.md|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.internal.md|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.protect.md|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.private.md|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.personal.md|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.secret.md|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.internal|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.protect|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.private|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.personal|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.secret|Triz-moving_Volume+Use_a_pneumatic_or_hydralic_construction-Quantity.secret]] 

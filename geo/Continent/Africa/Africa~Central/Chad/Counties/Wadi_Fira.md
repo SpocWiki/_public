@@ -41,9 +41,9 @@ markerFolder: ./Wadi_Fira/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Wadi_Fira.md|Wadi_Fira]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Wadi_Fira.internal.md|Wadi_Fira.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Wadi_Fira.protect.md|Wadi_Fira.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Wadi_Fira.private.md|Wadi_Fira.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Wadi_Fira.personal.md|Wadi_Fira.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Wadi_Fira.secret.md|Wadi_Fira.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Wadi_Fira.internal|Wadi_Fira.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Wadi_Fira.protect|Wadi_Fira.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Wadi_Fira.private|Wadi_Fira.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Wadi_Fira.personal|Wadi_Fira.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Wadi_Fira.secret|Wadi_Fira.secret]] 
 

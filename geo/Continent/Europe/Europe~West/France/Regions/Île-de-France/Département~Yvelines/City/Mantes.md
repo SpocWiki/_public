@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Mantes.md|Mantes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mantes.internal.md|Mantes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mantes.protect.md|Mantes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Mantes.private.md|Mantes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mantes.personal.md|Mantes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mantes.secret.md|Mantes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mantes.internal|Mantes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mantes.protect|Mantes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mantes.private|Mantes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mantes.personal|Mantes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mantes.secret|Mantes.secret]] 

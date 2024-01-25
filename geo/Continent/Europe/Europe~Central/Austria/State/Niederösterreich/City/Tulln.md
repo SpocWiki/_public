@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Tulln.md|Tulln]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Tulln.internal.md|Tulln.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Tulln.protect.md|Tulln.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Tulln.private.md|Tulln.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Tulln.personal.md|Tulln.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Tulln.secret.md|Tulln.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Tulln.internal|Tulln.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Tulln.protect|Tulln.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Tulln.private|Tulln.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Tulln.personal|Tulln.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Tulln.secret|Tulln.secret]] 

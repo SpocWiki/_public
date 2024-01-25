@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Verdun.md|Verdun]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Verdun.internal.md|Verdun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Verdun.protect.md|Verdun.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Verdun.private.md|Verdun.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Verdun.personal.md|Verdun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Verdun.secret.md|Verdun.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Verdun.internal|Verdun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Verdun.protect|Verdun.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Verdun.private|Verdun.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Verdun.personal|Verdun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Verdun.secret|Verdun.secret]] 

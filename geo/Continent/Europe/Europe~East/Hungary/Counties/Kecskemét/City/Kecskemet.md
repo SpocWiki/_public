@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Kecskemet.md|Kecskemet]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kecskemet.internal.md|Kecskemet.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kecskemet.protect.md|Kecskemet.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kecskemet.private.md|Kecskemet.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kecskemet.personal.md|Kecskemet.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kecskemet.secret.md|Kecskemet.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kecskemet.internal|Kecskemet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kecskemet.protect|Kecskemet.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kecskemet.private|Kecskemet.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kecskemet.personal|Kecskemet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kecskemet.secret|Kecskemet.secret]] 

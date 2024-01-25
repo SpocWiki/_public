@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Tilburg.md|Tilburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Tilburg.internal.md|Tilburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Tilburg.protect.md|Tilburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Tilburg.private.md|Tilburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Tilburg.personal.md|Tilburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Tilburg.secret.md|Tilburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Tilburg.internal|Tilburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Tilburg.protect|Tilburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Tilburg.private|Tilburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Tilburg.personal|Tilburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Tilburg.secret|Tilburg.secret]] 

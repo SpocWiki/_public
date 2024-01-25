@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Flexible_film_or_thin_membranes-Stability]
 [SpocWebEntityId::26453]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.md|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.internal.md|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.protect.md|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.private.md|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.personal.md|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.secret.md|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.internal|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.protect|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.private|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.personal|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.secret|Triz-Difficulty+Flexible_film_or_thin_membranes-Stability.secret]] 

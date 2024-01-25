@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Méziers.md|Méziers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Méziers.internal.md|Méziers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Méziers.protect.md|Méziers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Méziers.private.md|Méziers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Méziers.personal.md|Méziers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Méziers.secret.md|Méziers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Méziers.internal|Méziers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Méziers.protect|Méziers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Méziers.private|Méziers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Méziers.personal|Méziers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Méziers.secret|Méziers.secret]] 

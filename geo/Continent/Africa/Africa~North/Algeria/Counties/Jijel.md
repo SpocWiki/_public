@@ -41,9 +41,9 @@ markerFolder: ./Jijel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Jijel.md|Jijel]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Jijel.internal.md|Jijel.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Jijel.protect.md|Jijel.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Jijel.private.md|Jijel.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Jijel.personal.md|Jijel.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Jijel.secret.md|Jijel.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Jijel.internal|Jijel.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Jijel.protect|Jijel.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Jijel.private|Jijel.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Jijel.personal|Jijel.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Jijel.secret|Jijel.secret]] 
 

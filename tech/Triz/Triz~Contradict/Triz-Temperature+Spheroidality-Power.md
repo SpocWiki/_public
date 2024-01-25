@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Spheroidality-Power]
 [SpocWebEntityId::24289]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.md|Triz-Temperature+Spheroidality-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.internal.md|Triz-Temperature+Spheroidality-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.protect.md|Triz-Temperature+Spheroidality-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.private.md|Triz-Temperature+Spheroidality-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.personal.md|Triz-Temperature+Spheroidality-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.secret.md|Triz-Temperature+Spheroidality-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.internal|Triz-Temperature+Spheroidality-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.protect|Triz-Temperature+Spheroidality-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.private|Triz-Temperature+Spheroidality-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.personal|Triz-Temperature+Spheroidality-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.secret|Triz-Temperature+Spheroidality-Power.secret]] 

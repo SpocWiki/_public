@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.md|Harrow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.internal.md|Harrow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.protect.md|Harrow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.private.md|Harrow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.personal.md|Harrow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.secret.md|Harrow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.internal|Harrow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.protect|Harrow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.private|Harrow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.personal|Harrow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.secret|Harrow.secret]] 

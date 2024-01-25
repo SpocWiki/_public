@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Mediator-Substance-Loss]
 [SpocWebEntityId::26489]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.md|Triz-Difficulty+Mediator-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.internal.md|Triz-Difficulty+Mediator-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.protect.md|Triz-Difficulty+Mediator-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.private.md|Triz-Difficulty+Mediator-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.personal.md|Triz-Difficulty+Mediator-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.secret.md|Triz-Difficulty+Mediator-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.internal|Triz-Difficulty+Mediator-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.protect|Triz-Difficulty+Mediator-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.private|Triz-Difficulty+Mediator-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.personal|Triz-Difficulty+Mediator-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.secret|Triz-Difficulty+Mediator-Substance-Loss.secret]] 

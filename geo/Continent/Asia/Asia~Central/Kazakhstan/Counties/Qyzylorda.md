@@ -41,9 +41,9 @@ markerFolder: ./Qyzylorda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.md|Qyzylorda]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.internal.md|Qyzylorda.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.protect.md|Qyzylorda.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.private.md|Qyzylorda.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.personal.md|Qyzylorda.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.secret.md|Qyzylorda.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.internal|Qyzylorda.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.protect|Qyzylorda.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.private|Qyzylorda.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.personal|Qyzylorda.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda.secret|Qyzylorda.secret]] 
 

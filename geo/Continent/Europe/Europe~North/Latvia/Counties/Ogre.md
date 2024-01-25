@@ -41,9 +41,9 @@ markerFolder: ./Ogre/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ogre.md|Ogre]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ogre.internal.md|Ogre.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ogre.protect.md|Ogre.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ogre.private.md|Ogre.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ogre.personal.md|Ogre.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ogre.secret.md|Ogre.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ogre.internal|Ogre.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ogre.protect|Ogre.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ogre.private|Ogre.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ogre.personal|Ogre.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ogre.secret|Ogre.secret]] 
 

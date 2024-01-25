@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss]
 [SpocWebEntityId::22959]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.md|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.internal.md|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.protect.md|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.private.md|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.personal.md|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.secret.md|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.internal|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.protect|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.private|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.personal|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.secret|Triz-stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss.secret]] 

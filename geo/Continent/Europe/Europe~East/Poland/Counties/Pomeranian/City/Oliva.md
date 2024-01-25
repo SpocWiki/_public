@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Oliva.md|Oliva]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Oliva.internal.md|Oliva.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Oliva.protect.md|Oliva.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Oliva.private.md|Oliva.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Oliva.personal.md|Oliva.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Oliva.secret.md|Oliva.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Oliva.internal|Oliva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Oliva.protect|Oliva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Oliva.private|Oliva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Oliva.personal|Oliva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Oliva.secret|Oliva.secret]] 

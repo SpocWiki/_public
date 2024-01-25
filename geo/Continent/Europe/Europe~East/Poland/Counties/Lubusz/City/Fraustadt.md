@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Fraustadt.md|Fraustadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Fraustadt.internal.md|Fraustadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Fraustadt.protect.md|Fraustadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Fraustadt.private.md|Fraustadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Fraustadt.personal.md|Fraustadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Fraustadt.secret.md|Fraustadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Fraustadt.internal|Fraustadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Fraustadt.protect|Fraustadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Fraustadt.private|Fraustadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Fraustadt.personal|Fraustadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Fraustadt.secret|Fraustadt.secret]] 

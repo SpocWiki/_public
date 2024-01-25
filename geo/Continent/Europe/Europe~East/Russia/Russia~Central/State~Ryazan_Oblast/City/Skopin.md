@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Skopin.md|Skopin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Skopin.internal.md|Skopin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Skopin.protect.md|Skopin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Skopin.private.md|Skopin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Skopin.personal.md|Skopin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Skopin.secret.md|Skopin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Skopin.internal|Skopin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Skopin.protect|Skopin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Skopin.private|Skopin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Skopin.personal|Skopin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Skopin.secret|Skopin.secret]] 

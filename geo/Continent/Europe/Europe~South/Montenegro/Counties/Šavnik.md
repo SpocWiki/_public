@@ -41,9 +41,9 @@ markerFolder: ./Šavnik/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Šavnik.md|Šavnik]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Šavnik.internal.md|Šavnik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Šavnik.protect.md|Šavnik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Šavnik.private.md|Šavnik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Šavnik.personal.md|Šavnik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Šavnik.secret.md|Šavnik.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Šavnik.internal|Šavnik.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Šavnik.protect|Šavnik.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Šavnik.private|Šavnik.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Šavnik.personal|Šavnik.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Šavnik.secret|Šavnik.secret]] 
 

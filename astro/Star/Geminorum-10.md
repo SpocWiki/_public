@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Geminorum-10.md|Geminorum-10]] 
-- [[../../../_internal/astro/Star/Geminorum-10.internal.md|Geminorum-10.internal]] 
-- [[../../../_protect/astro/Star/Geminorum-10.protect.md|Geminorum-10.protect]] 
-- [[../../../_private/astro/Star/Geminorum-10.private.md|Geminorum-10.private]] 
-- [[../../../_personal/astro/Star/Geminorum-10.personal.md|Geminorum-10.personal]] 
-- [[../../../_secret/astro/Star/Geminorum-10.secret.md|Geminorum-10.secret]]
+- [[../../../_internal/astro/Star/Geminorum-10.internal|Geminorum-10.internal]] 
+- [[../../../_protect/astro/Star/Geminorum-10.protect|Geminorum-10.protect]] 
+- [[../../../_private/astro/Star/Geminorum-10.private|Geminorum-10.private]] 
+- [[../../../_personal/astro/Star/Geminorum-10.personal|Geminorum-10.personal]] 
+- [[../../../_secret/astro/Star/Geminorum-10.secret|Geminorum-10.secret]]
 

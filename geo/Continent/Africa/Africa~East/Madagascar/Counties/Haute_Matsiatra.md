@@ -41,9 +41,9 @@ markerFolder: ./Haute_Matsiatra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.md|Haute_Matsiatra]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.internal.md|Haute_Matsiatra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.protect.md|Haute_Matsiatra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.private.md|Haute_Matsiatra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.personal.md|Haute_Matsiatra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.secret.md|Haute_Matsiatra.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.internal|Haute_Matsiatra.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.protect|Haute_Matsiatra.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.private|Haute_Matsiatra.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.personal|Haute_Matsiatra.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.secret|Haute_Matsiatra.secret]] 
 

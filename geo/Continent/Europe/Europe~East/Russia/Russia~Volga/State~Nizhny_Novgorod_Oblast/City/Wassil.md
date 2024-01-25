@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wassil.md|Wassil]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wassil.internal.md|Wassil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wassil.protect.md|Wassil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wassil.private.md|Wassil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wassil.personal.md|Wassil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wassil.secret.md|Wassil.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wassil.internal|Wassil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wassil.protect|Wassil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wassil.private|Wassil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wassil.personal|Wassil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wassil.secret|Wassil.secret]] 

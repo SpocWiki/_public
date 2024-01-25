@@ -41,9 +41,9 @@ markerFolder: ./Cuvette-Ouest/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.md|Cuvette-Ouest]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.internal.md|Cuvette-Ouest.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.protect.md|Cuvette-Ouest.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.private.md|Cuvette-Ouest.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.personal.md|Cuvette-Ouest.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.secret.md|Cuvette-Ouest.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.internal|Cuvette-Ouest.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.protect|Cuvette-Ouest.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.private|Cuvette-Ouest.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.personal|Cuvette-Ouest.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette-Ouest.secret|Cuvette-Ouest.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Sarreguemines.md|Sarreguemines]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sarreguemines.internal.md|Sarreguemines.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sarreguemines.protect.md|Sarreguemines.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Sarreguemines.private.md|Sarreguemines.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sarreguemines.personal.md|Sarreguemines.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sarreguemines.secret.md|Sarreguemines.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sarreguemines.internal|Sarreguemines.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sarreguemines.protect|Sarreguemines.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Sarreguemines.private|Sarreguemines.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sarreguemines.personal|Sarreguemines.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sarreguemines.secret|Sarreguemines.secret]] 

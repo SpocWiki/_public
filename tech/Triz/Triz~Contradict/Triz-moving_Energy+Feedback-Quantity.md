@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Feedback-Quantity]
 [SpocWebEntityId::24500]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle:[[Triz~Sub~feedback]]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.md|Triz-moving_Energy+Feedback-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.internal.md|Triz-moving_Energy+Feedback-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.protect.md|Triz-moving_Energy+Feedback-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.private.md|Triz-moving_Energy+Feedback-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.personal.md|Triz-moving_Energy+Feedback-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.secret.md|Triz-moving_Energy+Feedback-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.internal|Triz-moving_Energy+Feedback-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.protect|Triz-moving_Energy+Feedback-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.private|Triz-moving_Energy+Feedback-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.personal|Triz-moving_Energy+Feedback-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.secret|Triz-moving_Energy+Feedback-Quantity.secret]] 

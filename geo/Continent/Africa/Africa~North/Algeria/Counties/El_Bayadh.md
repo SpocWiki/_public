@@ -41,9 +41,9 @@ markerFolder: ./El_Bayadh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/El_Bayadh.md|El_Bayadh]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/El_Bayadh.internal.md|El_Bayadh.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/El_Bayadh.protect.md|El_Bayadh.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/El_Bayadh.private.md|El_Bayadh.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/El_Bayadh.personal.md|El_Bayadh.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/El_Bayadh.secret.md|El_Bayadh.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/El_Bayadh.internal|El_Bayadh.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/El_Bayadh.protect|El_Bayadh.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/El_Bayadh.private|El_Bayadh.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/El_Bayadh.personal|El_Bayadh.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/El_Bayadh.secret|El_Bayadh.secret]] 
 

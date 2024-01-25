@@ -41,9 +41,9 @@ markerFolder: ./Ennedi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Ennedi.md|Ennedi]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Ennedi.internal.md|Ennedi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Ennedi.protect.md|Ennedi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Ennedi.private.md|Ennedi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Ennedi.personal.md|Ennedi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Ennedi.secret.md|Ennedi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Ennedi.internal|Ennedi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Ennedi.protect|Ennedi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Ennedi.private|Ennedi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Ennedi.personal|Ennedi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Ennedi.secret|Ennedi.secret]] 
 

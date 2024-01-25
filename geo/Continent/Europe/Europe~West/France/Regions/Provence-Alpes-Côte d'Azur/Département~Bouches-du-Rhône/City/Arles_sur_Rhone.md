@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Arles_sur_Rhone.md|Arles_sur_Rhone]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Arles_sur_Rhone.internal.md|Arles_sur_Rhone.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Arles_sur_Rhone.protect.md|Arles_sur_Rhone.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Arles_sur_Rhone.private.md|Arles_sur_Rhone.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Arles_sur_Rhone.personal.md|Arles_sur_Rhone.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Arles_sur_Rhone.secret.md|Arles_sur_Rhone.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Arles_sur_Rhone.internal|Arles_sur_Rhone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Arles_sur_Rhone.protect|Arles_sur_Rhone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Arles_sur_Rhone.private|Arles_sur_Rhone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Arles_sur_Rhone.personal|Arles_sur_Rhone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Arles_sur_Rhone.secret|Arles_sur_Rhone.secret]] 

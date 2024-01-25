@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Kissingen_Bad|Kissingen_Bad]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.internal.md|Kissingen_Bad.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.protect.md|Kissingen_Bad.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.private.md|Kissingen_Bad.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.personal.md|Kissingen_Bad.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.secret.md|Kissingen_Bad.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.internal|Kissingen_Bad.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.protect|Kissingen_Bad.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.private|Kissingen_Bad.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.personal|Kissingen_Bad.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.secret|Kissingen_Bad.secret]] 

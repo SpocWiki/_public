@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Extraction-Information-Loss]
 [SpocWebEntityId::23247]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.md|Triz-moving_Volume+Extraction-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.internal.md|Triz-moving_Volume+Extraction-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.protect.md|Triz-moving_Volume+Extraction-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.private.md|Triz-moving_Volume+Extraction-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.personal.md|Triz-moving_Volume+Extraction-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.secret.md|Triz-moving_Volume+Extraction-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.internal|Triz-moving_Volume+Extraction-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.protect|Triz-moving_Volume+Extraction-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.private|Triz-moving_Volume+Extraction-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.personal|Triz-moving_Volume+Extraction-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.secret|Triz-moving_Volume+Extraction-Information-Loss.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Imo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Imo.md|Imo]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Imo.internal.md|Imo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Imo.protect.md|Imo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Imo.private.md|Imo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Imo.personal.md|Imo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Imo.secret.md|Imo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Imo.internal|Imo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Imo.protect|Imo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Imo.private|Imo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Imo.personal|Imo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Imo.secret|Imo.secret]] 
 

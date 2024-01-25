@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/India/City/Mysore.md|Mysore]] 
-- [[../../../../../../_internal/geo/Continent/Asia/India/City/Mysore.internal.md|Mysore.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/India/City/Mysore.protect.md|Mysore.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/India/City/Mysore.private.md|Mysore.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/India/City/Mysore.personal.md|Mysore.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/India/City/Mysore.secret.md|Mysore.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Mysore.internal|Mysore.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Mysore.protect|Mysore.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Mysore.private|Mysore.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Mysore.personal|Mysore.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Mysore.secret|Mysore.secret]] 

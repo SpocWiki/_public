@@ -38,8 +38,8 @@ SpocWebEntityId: 21939
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-05-Vanadium/Niobium.md|Niobium]] 
-- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Niobium.internal.md|Niobium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Niobium.protect.md|Niobium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Niobium.private.md|Niobium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Niobium.personal.md|Niobium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Niobium.secret.md|Niobium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Niobium.internal|Niobium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Niobium.protect|Niobium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Niobium.private|Niobium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Niobium.personal|Niobium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Niobium.secret|Niobium.secret]] 

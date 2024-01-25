@@ -18,8 +18,8 @@ Ease of manufacture
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Ease_of_manufacture.md|Triz-Ease_of_manufacture]] 
-- [[../../../../_internal/tech/Triz/Parameter/Triz-Ease_of_manufacture.internal.md|Triz-Ease_of_manufacture.internal]] 
-- [[../../../../_protect/tech/Triz/Parameter/Triz-Ease_of_manufacture.protect.md|Triz-Ease_of_manufacture.protect]] 
-- [[../../../../_private/tech/Triz/Parameter/Triz-Ease_of_manufacture.private.md|Triz-Ease_of_manufacture.private]] 
-- [[../../../../_personal/tech/Triz/Parameter/Triz-Ease_of_manufacture.personal.md|Triz-Ease_of_manufacture.personal]] 
-- [[../../../../_secret/tech/Triz/Parameter/Triz-Ease_of_manufacture.secret.md|Triz-Ease_of_manufacture.secret]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Ease_of_manufacture.internal|Triz-Ease_of_manufacture.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Ease_of_manufacture.protect|Triz-Ease_of_manufacture.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Ease_of_manufacture.private|Triz-Ease_of_manufacture.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Ease_of_manufacture.personal|Triz-Ease_of_manufacture.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Ease_of_manufacture.secret|Triz-Ease_of_manufacture.secret]] 

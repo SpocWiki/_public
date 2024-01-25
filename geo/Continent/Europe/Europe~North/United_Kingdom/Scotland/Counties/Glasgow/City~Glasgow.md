@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Glasgow|City~Glasgow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.internal.md|Glasgow~Schottland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.protect.md|Glasgow~Schottland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.private.md|Glasgow~Schottland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.personal.md|Glasgow~Schottland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.secret.md|Glasgow~Schottland.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.internal|Glasgow~Schottland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.protect|Glasgow~Schottland.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.private|Glasgow~Schottland.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.personal|Glasgow~Schottland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.secret|Glasgow~Schottland.secret]] 

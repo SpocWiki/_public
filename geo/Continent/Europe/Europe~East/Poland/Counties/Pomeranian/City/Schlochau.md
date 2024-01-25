@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schlochau.md|Schlochau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlochau.internal.md|Schlochau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlochau.protect.md|Schlochau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlochau.private.md|Schlochau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlochau.personal.md|Schlochau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlochau.secret.md|Schlochau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlochau.internal|Schlochau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlochau.protect|Schlochau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlochau.private|Schlochau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlochau.personal|Schlochau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlochau.secret|Schlochau.secret]] 

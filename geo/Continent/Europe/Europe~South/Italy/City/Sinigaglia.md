@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sinigaglia.md|Sinigaglia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sinigaglia.internal.md|Sinigaglia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sinigaglia.protect.md|Sinigaglia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sinigaglia.private.md|Sinigaglia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sinigaglia.personal.md|Sinigaglia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sinigaglia.secret.md|Sinigaglia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sinigaglia.internal|Sinigaglia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sinigaglia.protect|Sinigaglia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sinigaglia.private|Sinigaglia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sinigaglia.personal|Sinigaglia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sinigaglia.secret|Sinigaglia.secret]] 

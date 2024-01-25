@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Inversion-Quantity]
 [SpocWebEntityId::26594]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.md|Triz-Automation+Inversion-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.internal.md|Triz-Automation+Inversion-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.protect.md|Triz-Automation+Inversion-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.private.md|Triz-Automation+Inversion-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.personal.md|Triz-Automation+Inversion-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.secret.md|Triz-Automation+Inversion-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.internal|Triz-Automation+Inversion-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.protect|Triz-Automation+Inversion-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.private|Triz-Automation+Inversion-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.personal|Triz-Automation+Inversion-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.secret|Triz-Automation+Inversion-Quantity.secret]] 

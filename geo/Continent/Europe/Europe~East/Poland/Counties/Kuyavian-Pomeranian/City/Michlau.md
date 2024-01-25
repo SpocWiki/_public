@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Michlau.md|Michlau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Michlau.internal.md|Michlau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Michlau.protect.md|Michlau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Michlau.private.md|Michlau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Michlau.personal.md|Michlau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Michlau.secret.md|Michlau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Michlau.internal|Michlau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Michlau.protect|Michlau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Michlau.private|Michlau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Michlau.personal|Michlau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Michlau.secret|Michlau.secret]] 

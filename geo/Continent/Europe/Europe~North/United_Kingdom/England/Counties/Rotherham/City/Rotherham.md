@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Rotherham.md|Rotherham]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rotherham.internal.md|Rotherham.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rotherham.protect.md|Rotherham.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rotherham.private.md|Rotherham.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rotherham.personal.md|Rotherham.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rotherham.secret.md|Rotherham.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rotherham.internal|Rotherham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rotherham.protect|Rotherham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rotherham.private|Rotherham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rotherham.personal|Rotherham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rotherham.secret|Rotherham.secret]] 

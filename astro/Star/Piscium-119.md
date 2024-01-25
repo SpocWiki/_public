@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Piscium-119.md|Piscium-119]] 
-- [[../../../_internal/astro/Star/Piscium-119.internal.md|Piscium-119.internal]] 
-- [[../../../_protect/astro/Star/Piscium-119.protect.md|Piscium-119.protect]] 
-- [[../../../_private/astro/Star/Piscium-119.private.md|Piscium-119.private]] 
-- [[../../../_personal/astro/Star/Piscium-119.personal.md|Piscium-119.personal]] 
-- [[../../../_secret/astro/Star/Piscium-119.secret.md|Piscium-119.secret]] 
+- [[../../../_internal/astro/Star/Piscium-119.internal|Piscium-119.internal]] 
+- [[../../../_protect/astro/Star/Piscium-119.protect|Piscium-119.protect]] 
+- [[../../../_private/astro/Star/Piscium-119.private|Piscium-119.private]] 
+- [[../../../_personal/astro/Star/Piscium-119.personal|Piscium-119.personal]] 
+- [[../../../_secret/astro/Star/Piscium-119.secret|Piscium-119.secret]] 

@@ -138,7 +138,7 @@ markerFolder: ./Chad//
 ## Confidential Links & Embeds: 
 - [[Chad|Chad]] 
 - [[../../../../../_internal/geo/Continent/Africa/Chad.internal|Chad.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad.protect.md|Chad.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad.private.md|Chad.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad.personal.md|Chad.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad.secret.md|Chad.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad.protect|Chad.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad.private|Chad.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad.personal|Chad.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad.secret|Chad.secret]] 

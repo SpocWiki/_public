@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ravenna.md|Ravenna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ravenna.internal.md|Ravenna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ravenna.protect.md|Ravenna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ravenna.private.md|Ravenna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ravenna.personal.md|Ravenna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ravenna.secret.md|Ravenna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ravenna.internal|Ravenna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ravenna.protect|Ravenna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ravenna.private|Ravenna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ravenna.personal|Ravenna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ravenna.secret|Ravenna.secret]] 

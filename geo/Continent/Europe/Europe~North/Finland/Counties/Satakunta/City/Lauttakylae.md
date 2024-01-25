@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lauttakylae.md|Lauttakylae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lauttakylae.internal.md|Lauttakylae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lauttakylae.protect.md|Lauttakylae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lauttakylae.private.md|Lauttakylae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lauttakylae.personal.md|Lauttakylae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lauttakylae.secret.md|Lauttakylae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lauttakylae.internal|Lauttakylae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lauttakylae.protect|Lauttakylae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lauttakylae.private|Lauttakylae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lauttakylae.personal|Lauttakylae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lauttakylae.secret|Lauttakylae.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Balaklava.md|Balaklava]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Balaklava.internal.md|Balaklava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Balaklava.protect.md|Balaklava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Balaklava.private.md|Balaklava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Balaklava.personal.md|Balaklava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Balaklava.secret.md|Balaklava.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Balaklava.internal|Balaklava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Balaklava.protect|Balaklava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Balaklava.private|Balaklava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Balaklava.personal|Balaklava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Balaklava.secret|Balaklava.secret]] 

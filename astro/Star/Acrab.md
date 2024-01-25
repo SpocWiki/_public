@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Acrab.md|Acrab]] 
-- [[../../../_internal/astro/Star/Acrab.internal.md|Acrab.internal]] 
-- [[../../../_protect/astro/Star/Acrab.protect.md|Acrab.protect]] 
-- [[../../../_private/astro/Star/Acrab.private.md|Acrab.private]] 
-- [[../../../_personal/astro/Star/Acrab.personal.md|Acrab.personal]] 
-- [[../../../_secret/astro/Star/Acrab.secret.md|Acrab.secret]]
+- [[../../../_internal/astro/Star/Acrab.internal|Acrab.internal]] 
+- [[../../../_protect/astro/Star/Acrab.protect|Acrab.protect]] 
+- [[../../../_private/astro/Star/Acrab.private|Acrab.private]] 
+- [[../../../_personal/astro/Star/Acrab.personal|Acrab.personal]] 
+- [[../../../_secret/astro/Star/Acrab.secret|Acrab.secret]]
 

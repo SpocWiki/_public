@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Prior_action-Manufacturing_Precision]
 [SpocWebEntityId::25685]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.md|Triz-affected_harm+Prior_action-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.internal.md|Triz-affected_harm+Prior_action-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.protect.md|Triz-affected_harm+Prior_action-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.private.md|Triz-affected_harm+Prior_action-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.personal.md|Triz-affected_harm+Prior_action-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.secret.md|Triz-affected_harm+Prior_action-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.internal|Triz-affected_harm+Prior_action-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.protect|Triz-affected_harm+Prior_action-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.private|Triz-affected_harm+Prior_action-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.personal|Triz-affected_harm+Prior_action-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Prior_action-Manufacturing_Precision.secret|Triz-affected_harm+Prior_action-Manufacturing_Precision.secret]] 

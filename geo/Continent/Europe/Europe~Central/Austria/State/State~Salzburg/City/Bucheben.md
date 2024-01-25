@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bucheben.md|Bucheben]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bucheben.internal.md|Bucheben.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bucheben.protect.md|Bucheben.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bucheben.private.md|Bucheben.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bucheben.personal.md|Bucheben.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bucheben.secret.md|Bucheben.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bucheben.internal|Bucheben.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bucheben.protect|Bucheben.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bucheben.private|Bucheben.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bucheben.personal|Bucheben.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bucheben.secret|Bucheben.secret]] 

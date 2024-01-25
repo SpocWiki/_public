@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Dux.md|Dux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Dux.internal.md|Dux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Dux.protect.md|Dux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Dux.private.md|Dux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Dux.personal.md|Dux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Dux.secret.md|Dux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Dux.internal|Dux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Dux.protect|Dux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Dux.private|Dux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Dux.personal|Dux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Dux.secret|Dux.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Dumfries_and_Galloway/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.md|Dumfries_and_Galloway]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.internal.md|Dumfries_and_Galloway.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.protect.md|Dumfries_and_Galloway.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.private.md|Dumfries_and_Galloway.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.personal.md|Dumfries_and_Galloway.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.secret.md|Dumfries_and_Galloway.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.internal|Dumfries_and_Galloway.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.protect|Dumfries_and_Galloway.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.private|Dumfries_and_Galloway.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.personal|Dumfries_and_Galloway.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.secret|Dumfries_and_Galloway.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.md|Saint_Paul]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.internal.md|Saint_Paul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.protect.md|Saint_Paul.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.private.md|Saint_Paul.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.personal.md|Saint_Paul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.secret.md|Saint_Paul.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.internal|Saint_Paul.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.protect|Saint_Paul.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.private|Saint_Paul.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.personal|Saint_Paul.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.secret|Saint_Paul.secret]] 

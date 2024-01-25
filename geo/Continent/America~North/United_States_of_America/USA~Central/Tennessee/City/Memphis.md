@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.md|Memphis]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.internal.md|Memphis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.protect.md|Memphis.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.private.md|Memphis.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.personal.md|Memphis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.secret.md|Memphis.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.internal|Memphis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.protect|Memphis.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.private|Memphis.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.personal|Memphis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Tennessee/City/Memphis.secret|Memphis.secret]] 

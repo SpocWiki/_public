@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.md|Wallace]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.internal.md|Wallace.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.protect.md|Wallace.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.private.md|Wallace.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.personal.md|Wallace.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.secret.md|Wallace.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.internal|Wallace.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.protect|Wallace.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.private|Wallace.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.personal|Wallace.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.secret|Wallace.secret]] 

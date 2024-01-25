@@ -41,9 +41,9 @@ markerFolder: ./Département~Haute-Vienne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.md|Département~Haute-Vienne]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.internal.md|Département~Haute-Vienne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.protect.md|Département~Haute-Vienne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.private.md|Département~Haute-Vienne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.personal.md|Département~Haute-Vienne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.secret.md|Département~Haute-Vienne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.internal|Département~Haute-Vienne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.protect|Département~Haute-Vienne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.private|Département~Haute-Vienne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.personal|Département~Haute-Vienne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Haute-Vienne.secret|Département~Haute-Vienne.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chokand.md|Chokand]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chokand.internal.md|Chokand.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chokand.protect.md|Chokand.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chokand.private.md|Chokand.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chokand.personal.md|Chokand.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chokand.secret.md|Chokand.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chokand.internal|Chokand.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chokand.protect|Chokand.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chokand.private|Chokand.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chokand.personal|Chokand.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chokand.secret|Chokand.secret]] 

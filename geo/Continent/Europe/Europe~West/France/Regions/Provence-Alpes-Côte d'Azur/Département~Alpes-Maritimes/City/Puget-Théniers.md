@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Puget-Théniers.md|Puget-Théniers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Puget-Théniers.internal.md|Puget-Théniers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Puget-Théniers.protect.md|Puget-Théniers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Puget-Théniers.private.md|Puget-Théniers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Puget-Théniers.personal.md|Puget-Théniers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Puget-Théniers.secret.md|Puget-Théniers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Puget-Théniers.internal|Puget-Théniers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Puget-Théniers.protect|Puget-Théniers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Puget-Théniers.private|Puget-Théniers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Puget-Théniers.personal|Puget-Théniers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Puget-Théniers.secret|Puget-Théniers.secret]] 

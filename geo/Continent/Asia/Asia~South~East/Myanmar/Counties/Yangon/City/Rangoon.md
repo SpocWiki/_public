@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Myanmar/City/Rangoon.md|Rangoon]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Myanmar/City/Rangoon.internal.md|Rangoon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Myanmar/City/Rangoon.protect.md|Rangoon.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Myanmar/City/Rangoon.private.md|Rangoon.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Myanmar/City/Rangoon.personal.md|Rangoon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Myanmar/City/Rangoon.secret.md|Rangoon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Myanmar/City/Rangoon.internal|Rangoon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Myanmar/City/Rangoon.protect|Rangoon.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Myanmar/City/Rangoon.private|Rangoon.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Myanmar/City/Rangoon.personal|Rangoon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Myanmar/City/Rangoon.secret|Rangoon.secret]] 

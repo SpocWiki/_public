@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.md|Saalfeld~Pommern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.internal.md|Saalfeld~Pommern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.protect.md|Saalfeld~Pommern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.private.md|Saalfeld~Pommern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.personal.md|Saalfeld~Pommern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.secret.md|Saalfeld~Pommern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.internal|Saalfeld~Pommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.protect|Saalfeld~Pommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.private|Saalfeld~Pommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.personal|Saalfeld~Pommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.secret|Saalfeld~Pommern.secret]] 

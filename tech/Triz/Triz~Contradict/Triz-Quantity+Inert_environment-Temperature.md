@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Inert_environment-Temperature]
 [SpocWebEntityId::25163]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.md|Triz-Quantity+Inert_environment-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.internal.md|Triz-Quantity+Inert_environment-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.protect.md|Triz-Quantity+Inert_environment-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.private.md|Triz-Quantity+Inert_environment-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.personal.md|Triz-Quantity+Inert_environment-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.secret.md|Triz-Quantity+Inert_environment-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.internal|Triz-Quantity+Inert_environment-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.protect|Triz-Quantity+Inert_environment-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.private|Triz-Quantity+Inert_environment-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.personal|Triz-Quantity+Inert_environment-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Inert_environment-Temperature.secret|Triz-Quantity+Inert_environment-Temperature.secret]] 

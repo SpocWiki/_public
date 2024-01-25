@@ -41,9 +41,9 @@ markerFolder: ./San_José_de_Ocoa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.md|San_José_de_Ocoa]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.internal.md|San_José_de_Ocoa.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.protect.md|San_José_de_Ocoa.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.private.md|San_José_de_Ocoa.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.personal.md|San_José_de_Ocoa.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.secret.md|San_José_de_Ocoa.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.internal|San_José_de_Ocoa.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.protect|San_José_de_Ocoa.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.private|San_José_de_Ocoa.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.personal|San_José_de_Ocoa.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_José_de_Ocoa.secret|San_José_de_Ocoa.secret]] 
 

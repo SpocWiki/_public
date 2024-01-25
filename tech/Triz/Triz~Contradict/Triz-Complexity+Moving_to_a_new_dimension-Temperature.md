@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Moving_to_a_new_dimension-Temperature]
 [SpocWebEntityId::26338]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.md|Triz-Complexity+Moving_to_a_new_dimension-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.internal.md|Triz-Complexity+Moving_to_a_new_dimension-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.protect.md|Triz-Complexity+Moving_to_a_new_dimension-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.private.md|Triz-Complexity+Moving_to_a_new_dimension-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.personal.md|Triz-Complexity+Moving_to_a_new_dimension-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.secret.md|Triz-Complexity+Moving_to_a_new_dimension-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.internal|Triz-Complexity+Moving_to_a_new_dimension-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.protect|Triz-Complexity+Moving_to_a_new_dimension-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.private|Triz-Complexity+Moving_to_a_new_dimension-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.personal|Triz-Complexity+Moving_to_a_new_dimension-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Temperature.secret|Triz-Complexity+Moving_to_a_new_dimension-Temperature.secret]] 

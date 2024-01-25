@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Friedrichsdorf~Taunus|S-Friedrichsdorf~Taunus]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.internal.md|S-Friedrichsdorf~Taunus.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.protect.md|S-Friedrichsdorf~Taunus.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.private.md|S-Friedrichsdorf~Taunus.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.personal.md|S-Friedrichsdorf~Taunus.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.secret.md|S-Friedrichsdorf~Taunus.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.internal|S-Friedrichsdorf~Taunus.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.protect|S-Friedrichsdorf~Taunus.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.private|S-Friedrichsdorf~Taunus.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.personal|S-Friedrichsdorf~Taunus.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedrichsdorf~Taunus.secret|S-Friedrichsdorf~Taunus.secret]] 

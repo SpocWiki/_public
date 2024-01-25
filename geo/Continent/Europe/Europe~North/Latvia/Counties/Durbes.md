@@ -41,9 +41,9 @@ markerFolder: ./Durbes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Durbes.md|Durbes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Durbes.internal.md|Durbes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Durbes.protect.md|Durbes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Durbes.private.md|Durbes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Durbes.personal.md|Durbes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Durbes.secret.md|Durbes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Durbes.internal|Durbes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Durbes.protect|Durbes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Durbes.private|Durbes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Durbes.personal|Durbes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Durbes.secret|Durbes.secret]] 
 

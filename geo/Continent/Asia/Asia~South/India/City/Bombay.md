@@ -31,8 +31,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/India/City/Bombay.md|Bombay]] 
-- [[../../../../../../_internal/geo/Continent/Asia/India/City/Bombay.internal.md|Bombay.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/India/City/Bombay.protect.md|Bombay.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/India/City/Bombay.private.md|Bombay.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/India/City/Bombay.personal.md|Bombay.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/India/City/Bombay.secret.md|Bombay.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Bombay.internal|Bombay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Bombay.protect|Bombay.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Bombay.private|Bombay.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Bombay.personal|Bombay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Bombay.secret|Bombay.secret]] 

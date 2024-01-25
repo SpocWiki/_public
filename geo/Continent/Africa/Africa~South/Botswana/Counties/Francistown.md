@@ -41,9 +41,9 @@ markerFolder: ./Francistown/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Francistown.md|Francistown]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Francistown.internal.md|Francistown.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Francistown.protect.md|Francistown.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Francistown.private.md|Francistown.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Francistown.personal.md|Francistown.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Francistown.secret.md|Francistown.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Francistown.internal|Francistown.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Francistown.protect|Francistown.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Francistown.private|Francistown.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Francistown.personal|Francistown.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Francistown.secret|Francistown.secret]] 
 

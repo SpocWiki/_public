@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Burgas.md|Burgas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Burgas.internal.md|Burgas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Burgas.protect.md|Burgas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Burgas.private.md|Burgas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Burgas.personal.md|Burgas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Burgas.secret.md|Burgas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Burgas.internal|Burgas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Burgas.protect|Burgas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Burgas.private|Burgas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Burgas.personal|Burgas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Burgas.secret|Burgas.secret]] 

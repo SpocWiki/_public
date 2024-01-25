@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Ostbahnhof_Honsellstraße|T-Ostbahnhof_Honsellstraße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.internal.md|T-Ostbahnhof_Honsellstraße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.protect.md|T-Ostbahnhof_Honsellstraße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.private.md|T-Ostbahnhof_Honsellstraße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.personal.md|T-Ostbahnhof_Honsellstraße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.secret.md|T-Ostbahnhof_Honsellstraße.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.internal|T-Ostbahnhof_Honsellstraße.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.protect|T-Ostbahnhof_Honsellstraße.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.private|T-Ostbahnhof_Honsellstraße.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.personal|T-Ostbahnhof_Honsellstraße.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Honsellstraße.secret|T-Ostbahnhof_Honsellstraße.secret]] 

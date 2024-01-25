@@ -41,9 +41,9 @@ markerFolder: ./Skikda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Skikda.md|Skikda]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Skikda.internal.md|Skikda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Skikda.protect.md|Skikda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Skikda.private.md|Skikda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Skikda.personal.md|Skikda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Skikda.secret.md|Skikda.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Skikda.internal|Skikda.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Skikda.protect|Skikda.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Skikda.private|Skikda.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Skikda.personal|Skikda.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Skikda.secret|Skikda.secret]] 
 

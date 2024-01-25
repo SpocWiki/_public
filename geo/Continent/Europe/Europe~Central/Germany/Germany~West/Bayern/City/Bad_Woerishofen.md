@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bad_Woerishofen|Bad_Woerishofen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.internal.md|Bad_Woerishofen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.protect.md|Bad_Woerishofen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.private.md|Bad_Woerishofen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.personal.md|Bad_Woerishofen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.secret.md|Bad_Woerishofen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.internal|Bad_Woerishofen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.protect|Bad_Woerishofen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.private|Bad_Woerishofen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.personal|Bad_Woerishofen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.secret|Bad_Woerishofen.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Plaisance/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Plaisance.md|Plaisance]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Plaisance.internal.md|Plaisance.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Plaisance.protect.md|Plaisance.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Plaisance.private.md|Plaisance.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Plaisance.personal.md|Plaisance.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Plaisance.secret.md|Plaisance.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Plaisance.internal|Plaisance.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Plaisance.protect|Plaisance.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Plaisance.private|Plaisance.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Plaisance.personal|Plaisance.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Plaisance.secret|Plaisance.secret]] 
 

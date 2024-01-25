@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kotzobendy.md|Kotzobendy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzobendy.internal.md|Kotzobendy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzobendy.protect.md|Kotzobendy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzobendy.private.md|Kotzobendy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzobendy.personal.md|Kotzobendy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzobendy.secret.md|Kotzobendy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzobendy.internal|Kotzobendy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzobendy.protect|Kotzobendy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzobendy.private|Kotzobendy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzobendy.personal|Kotzobendy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzobendy.secret|Kotzobendy.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Commewijne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Commewijne.md|Commewijne]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Commewijne.internal.md|Commewijne.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Commewijne.protect.md|Commewijne.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Commewijne.private.md|Commewijne.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Commewijne.personal.md|Commewijne.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Commewijne.secret.md|Commewijne.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Commewijne.internal|Commewijne.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Commewijne.protect|Commewijne.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Commewijne.private|Commewijne.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Commewijne.personal|Commewijne.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Commewijne.secret|Commewijne.secret]] 
 

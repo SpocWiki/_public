@@ -41,9 +41,9 @@ markerFolder: ./Milton_Keynes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.md|Milton_Keynes]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.internal.md|Milton_Keynes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.protect.md|Milton_Keynes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.private.md|Milton_Keynes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.personal.md|Milton_Keynes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.secret.md|Milton_Keynes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.internal|Milton_Keynes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.protect|Milton_Keynes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.private|Milton_Keynes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.personal|Milton_Keynes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Milton_Keynes.secret|Milton_Keynes.secret]] 
 

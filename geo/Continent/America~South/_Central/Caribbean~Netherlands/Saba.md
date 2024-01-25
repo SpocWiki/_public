@@ -41,9 +41,9 @@ markerFolder: ./Saba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.md|Saba]] 
-- [[../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.internal.md|Saba.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.protect.md|Saba.protect]] 
-- [[../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.private.md|Saba.private]] 
-- [[../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.personal.md|Saba.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.secret.md|Saba.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.internal|Saba.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.protect|Saba.protect]] 
+- [[../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.private|Saba.private]] 
+- [[../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.personal|Saba.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.secret|Saba.secret]] 
 

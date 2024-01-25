@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.md|Windsor_Castle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.internal.md|Windsor_Castle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.protect.md|Windsor_Castle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.private.md|Windsor_Castle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.personal.md|Windsor_Castle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.secret.md|Windsor_Castle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.internal|Windsor_Castle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.protect|Windsor_Castle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.private|Windsor_Castle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.personal|Windsor_Castle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.secret|Windsor_Castle.secret]] 

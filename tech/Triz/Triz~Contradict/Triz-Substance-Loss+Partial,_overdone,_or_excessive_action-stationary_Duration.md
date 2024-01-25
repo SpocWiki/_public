@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration]
 [SpocWebEntityId::24847]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.md|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.internal.md|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.protect.md|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.private.md|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.personal.md|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.secret.md|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.internal|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.protect|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.private|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.personal|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.secret|Triz-Substance-Loss+Partial,_overdone,_or_excessive_action-stationary_Duration.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Replacement_of_a_mechanical_system-Speed]
 [SpocWebEntityId::25609]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.md|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.internal.md|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.protect.md|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.private.md|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.personal.md|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.secret.md|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.internal|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.protect|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.private|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.personal|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.secret|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.secret]] 

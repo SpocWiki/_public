@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Saeby.md|Saeby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Saeby.internal.md|Saeby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Saeby.protect.md|Saeby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Saeby.private.md|Saeby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Saeby.personal.md|Saeby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Saeby.secret.md|Saeby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Saeby.internal|Saeby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Saeby.protect|Saeby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Saeby.private|Saeby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Saeby.personal|Saeby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Saeby.secret|Saeby.secret]] 

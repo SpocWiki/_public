@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss]
 [SpocWebEntityId::26352]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret]] 

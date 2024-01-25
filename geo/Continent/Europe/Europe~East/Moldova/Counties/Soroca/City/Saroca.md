@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Saroca.md|Saroca]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Saroca.internal.md|Saroca.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Saroca.protect.md|Saroca.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Saroca.private.md|Saroca.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Saroca.personal.md|Saroca.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Saroca.secret.md|Saroca.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Saroca.internal|Saroca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Saroca.protect|Saroca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Saroca.private|Saroca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Saroca.personal|Saroca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Saroca.secret|Saroca.secret]] 

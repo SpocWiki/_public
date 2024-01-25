@@ -41,9 +41,9 @@ markerFolder: ./Somerset/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.md|Somerset]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.internal.md|Somerset.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.protect.md|Somerset.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.private.md|Somerset.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.personal.md|Somerset.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.secret.md|Somerset.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.internal|Somerset.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.protect|Somerset.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.private|Somerset.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.personal|Somerset.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.secret|Somerset.secret]] 
 

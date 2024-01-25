@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Palencia.md|Palencia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Palencia.internal.md|Palencia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Palencia.protect.md|Palencia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Palencia.private.md|Palencia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Palencia.personal.md|Palencia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Palencia.secret.md|Palencia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Palencia.internal|Palencia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Palencia.protect|Palencia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Palencia.private|Palencia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Palencia.personal|Palencia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Palencia.secret|Palencia.secret]] 

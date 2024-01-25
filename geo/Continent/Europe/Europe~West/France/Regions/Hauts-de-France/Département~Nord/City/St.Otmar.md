@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Otmar.md|St.Otmar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Otmar.internal.md|St.Otmar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Otmar.protect.md|St.Otmar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Otmar.private.md|St.Otmar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Otmar.personal.md|St.Otmar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Otmar.secret.md|St.Otmar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Otmar.internal|St.Otmar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Otmar.protect|St.Otmar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Otmar.private|St.Otmar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Otmar.personal|St.Otmar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Otmar.secret|St.Otmar.secret]] 

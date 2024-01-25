@@ -41,9 +41,9 @@ markerFolder: ./Kidal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mali/Counties/Kidal.md|Kidal]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Kidal.internal.md|Kidal.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Kidal.protect.md|Kidal.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Kidal.private.md|Kidal.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Kidal.personal.md|Kidal.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Kidal.secret.md|Kidal.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Kidal.internal|Kidal.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Kidal.protect|Kidal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Kidal.private|Kidal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Kidal.personal|Kidal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Kidal.secret|Kidal.secret]] 
 

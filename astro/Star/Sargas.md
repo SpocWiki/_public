@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Sargas.md|Sargas]] 
-- [[../../../_internal/astro/Star/Sargas.internal.md|Sargas.internal]] 
-- [[../../../_protect/astro/Star/Sargas.protect.md|Sargas.protect]] 
-- [[../../../_private/astro/Star/Sargas.private.md|Sargas.private]] 
-- [[../../../_personal/astro/Star/Sargas.personal.md|Sargas.personal]] 
-- [[../../../_secret/astro/Star/Sargas.secret.md|Sargas.secret]] 
+- [[../../../_internal/astro/Star/Sargas.internal|Sargas.internal]] 
+- [[../../../_protect/astro/Star/Sargas.protect|Sargas.protect]] 
+- [[../../../_private/astro/Star/Sargas.private|Sargas.private]] 
+- [[../../../_personal/astro/Star/Sargas.personal|Sargas.personal]] 
+- [[../../../_secret/astro/Star/Sargas.secret|Sargas.secret]] 

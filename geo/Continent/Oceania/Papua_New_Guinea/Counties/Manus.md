@@ -41,9 +41,9 @@ markerFolder: ./Manus/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.md|Manus]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.internal.md|Manus.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.protect.md|Manus.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.private.md|Manus.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.personal.md|Manus.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.secret.md|Manus.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.internal|Manus.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.protect|Manus.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.private|Manus.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.personal|Manus.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.secret|Manus.secret]] 
 

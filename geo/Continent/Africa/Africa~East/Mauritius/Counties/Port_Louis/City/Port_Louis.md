@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Mauritius/City/Port_Louis.md|Port_Louis]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/City/Port_Louis.internal.md|Port_Louis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/City/Port_Louis.protect.md|Port_Louis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/City/Port_Louis.private.md|Port_Louis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/City/Port_Louis.personal.md|Port_Louis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/City/Port_Louis.secret.md|Port_Louis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/City/Port_Louis.internal|Port_Louis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/City/Port_Louis.protect|Port_Louis.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/City/Port_Louis.private|Port_Louis.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/City/Port_Louis.personal|Port_Louis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/City/Port_Louis.secret|Port_Louis.secret]] 

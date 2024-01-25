@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Garm.md|Garm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Garm.internal.md|Garm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Garm.protect.md|Garm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Garm.private.md|Garm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Garm.personal.md|Garm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Garm.secret.md|Garm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Garm.internal|Garm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Garm.protect|Garm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Garm.private|Garm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Garm.personal|Garm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Garm.secret|Garm.secret]] 

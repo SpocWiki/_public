@@ -20,9 +20,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/Lang-ru.md|Lang-ru]] 
-- [[../../_internal/lang/Lang-ru.internal.md|Lang-ru.internal]] 
-- [[../../_protect/lang/Lang-ru.protect.md|Lang-ru.protect]] 
-- [[../../_private/lang/Lang-ru.private.md|Lang-ru.private]] 
-- [[../../_personal/lang/Lang-ru.personal.md|Lang-ru.personal]] 
-- [[../../_secret/lang/Lang-ru.secret.md|Lang-ru.secret]]
+- [[../../_internal/lang/Lang-ru.internal|Lang-ru.internal]] 
+- [[../../_protect/lang/Lang-ru.protect|Lang-ru.protect]] 
+- [[../../_private/lang/Lang-ru.private|Lang-ru.private]] 
+- [[../../_personal/lang/Lang-ru.personal|Lang-ru.personal]] 
+- [[../../_secret/lang/Lang-ru.secret|Lang-ru.secret]]
 

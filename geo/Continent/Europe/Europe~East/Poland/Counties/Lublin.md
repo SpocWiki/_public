@@ -41,9 +41,9 @@ markerFolder: ./Lublin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/Lublin.md|Lublin]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Lublin.internal.md|Lublin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Lublin.protect.md|Lublin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Lublin.private.md|Lublin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Lublin.personal.md|Lublin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Lublin.secret.md|Lublin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Lublin.internal|Lublin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Lublin.protect|Lublin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Lublin.private|Lublin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Lublin.personal|Lublin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Lublin.secret|Lublin.secret]] 
 

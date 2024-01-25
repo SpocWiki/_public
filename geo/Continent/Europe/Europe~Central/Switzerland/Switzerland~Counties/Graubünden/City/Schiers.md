@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schiers.md|Schiers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schiers.internal.md|Schiers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schiers.protect.md|Schiers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schiers.private.md|Schiers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schiers.personal.md|Schiers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schiers.secret.md|Schiers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schiers.internal|Schiers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schiers.protect|Schiers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schiers.private|Schiers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schiers.personal|Schiers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schiers.secret|Schiers.secret]] 

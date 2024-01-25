@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Hamal.md|Hamal]] 
-- [[../../../_internal/astro/Star/Hamal.internal.md|Hamal.internal]] 
-- [[../../../_protect/astro/Star/Hamal.protect.md|Hamal.protect]] 
-- [[../../../_private/astro/Star/Hamal.private.md|Hamal.private]] 
-- [[../../../_personal/astro/Star/Hamal.personal.md|Hamal.personal]] 
-- [[../../../_secret/astro/Star/Hamal.secret.md|Hamal.secret]]
+- [[../../../_internal/astro/Star/Hamal.internal|Hamal.internal]] 
+- [[../../../_protect/astro/Star/Hamal.protect|Hamal.protect]] 
+- [[../../../_private/astro/Star/Hamal.private|Hamal.private]] 
+- [[../../../_personal/astro/Star/Hamal.personal|Hamal.personal]] 
+- [[../../../_secret/astro/Star/Hamal.secret|Hamal.secret]]
 

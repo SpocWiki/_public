@@ -41,9 +41,9 @@ markerFolder: ./Meneng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Meneng.md|Meneng]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Meneng.internal.md|Meneng.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Meneng.protect.md|Meneng.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Meneng.private.md|Meneng.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Meneng.personal.md|Meneng.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Meneng.secret.md|Meneng.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Meneng.internal|Meneng.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Meneng.protect|Meneng.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Meneng.private|Meneng.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Meneng.personal|Meneng.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Meneng.secret|Meneng.secret]] 
 

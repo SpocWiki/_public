@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Steinau~Schlesien.md|Steinau~Schlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Steinau~Schlesien.internal.md|Steinau~Schlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Steinau~Schlesien.protect.md|Steinau~Schlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Steinau~Schlesien.private.md|Steinau~Schlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Steinau~Schlesien.personal.md|Steinau~Schlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Steinau~Schlesien.secret.md|Steinau~Schlesien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Steinau~Schlesien.internal|Steinau~Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Steinau~Schlesien.protect|Steinau~Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Steinau~Schlesien.private|Steinau~Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Steinau~Schlesien.personal|Steinau~Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Steinau~Schlesien.secret|Steinau~Schlesien.secret]] 

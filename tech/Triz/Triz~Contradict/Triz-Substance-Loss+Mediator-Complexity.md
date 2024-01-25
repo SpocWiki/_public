@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Mediator-Complexity]
 [SpocWebEntityId::24918]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.md|Triz-Substance-Loss+Mediator-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.internal.md|Triz-Substance-Loss+Mediator-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.protect.md|Triz-Substance-Loss+Mediator-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.private.md|Triz-Substance-Loss+Mediator-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.personal.md|Triz-Substance-Loss+Mediator-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.secret.md|Triz-Substance-Loss+Mediator-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.internal|Triz-Substance-Loss+Mediator-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.protect|Triz-Substance-Loss+Mediator-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.private|Triz-Substance-Loss+Mediator-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.personal|Triz-Substance-Loss+Mediator-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Complexity.secret|Triz-Substance-Loss+Mediator-Complexity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./F.C.T/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.md|F.C.T]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.internal.md|F.C.T.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.protect.md|F.C.T.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.private.md|F.C.T.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.personal.md|F.C.T.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.secret.md|F.C.T.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.internal|F.C.T.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.protect|F.C.T.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.private|F.C.T.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.personal|F.C.T.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.secret|F.C.T.secret]] 
 

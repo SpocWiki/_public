@@ -41,9 +41,9 @@ markerFolder: ./Srednje-Banatski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.md|Srednje-Banatski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.internal.md|Srednje-Banatski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.protect.md|Srednje-Banatski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.private.md|Srednje-Banatski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.personal.md|Srednje-Banatski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.secret.md|Srednje-Banatski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.internal|Srednje-Banatski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.protect|Srednje-Banatski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.private|Srednje-Banatski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.personal|Srednje-Banatski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Srednje-Banatski.secret|Srednje-Banatski.secret]] 
 

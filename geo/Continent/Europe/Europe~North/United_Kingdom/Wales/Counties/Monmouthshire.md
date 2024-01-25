@@ -41,9 +41,9 @@ markerFolder: ./Monmouthshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.md|Monmouthshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.internal.md|Monmouthshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.protect.md|Monmouthshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.private.md|Monmouthshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.personal.md|Monmouthshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.secret.md|Monmouthshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.internal|Monmouthshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.protect|Monmouthshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.private|Monmouthshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.personal|Monmouthshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Monmouthshire.secret|Monmouthshire.secret]] 
 

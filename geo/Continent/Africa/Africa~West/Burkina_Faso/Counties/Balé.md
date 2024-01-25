@@ -41,9 +41,9 @@ markerFolder: ./Balé/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Balé.md|Balé]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Balé.internal.md|Balé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Balé.protect.md|Balé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Balé.private.md|Balé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Balé.personal.md|Balé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Balé.secret.md|Balé.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Balé.internal|Balé.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Balé.protect|Balé.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Balé.private|Balé.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Balé.personal|Balé.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Balé.secret|Balé.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Jennersdorf.md|Jennersdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Jennersdorf.internal.md|Jennersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Jennersdorf.protect.md|Jennersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Jennersdorf.private.md|Jennersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Jennersdorf.personal.md|Jennersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Jennersdorf.secret.md|Jennersdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Jennersdorf.internal|Jennersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Jennersdorf.protect|Jennersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Jennersdorf.private|Jennersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Jennersdorf.personal|Jennersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Jennersdorf.secret|Jennersdorf.secret]] 

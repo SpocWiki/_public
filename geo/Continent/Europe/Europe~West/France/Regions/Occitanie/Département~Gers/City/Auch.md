@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Auch.md|Auch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Auch.internal.md|Auch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Auch.protect.md|Auch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Auch.private.md|Auch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Auch.personal.md|Auch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Auch.secret.md|Auch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Auch.internal|Auch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Auch.protect|Auch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Auch.private|Auch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Auch.personal|Auch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Auch.secret|Auch.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lemberg.md|Lemberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lemberg.internal.md|Lemberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lemberg.protect.md|Lemberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lemberg.private.md|Lemberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lemberg.personal.md|Lemberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lemberg.secret.md|Lemberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lemberg.internal|Lemberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lemberg.protect|Lemberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lemberg.private|Lemberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lemberg.personal|Lemberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lemberg.secret|Lemberg.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Adiyaman/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Adiyaman.md|Adiyaman]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Adiyaman.internal.md|Adiyaman.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Adiyaman.protect.md|Adiyaman.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Adiyaman.private.md|Adiyaman.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Adiyaman.personal.md|Adiyaman.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Adiyaman.secret.md|Adiyaman.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Adiyaman.internal|Adiyaman.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Adiyaman.protect|Adiyaman.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Adiyaman.private|Adiyaman.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Adiyaman.personal|Adiyaman.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Adiyaman.secret|Adiyaman.secret]] 
 

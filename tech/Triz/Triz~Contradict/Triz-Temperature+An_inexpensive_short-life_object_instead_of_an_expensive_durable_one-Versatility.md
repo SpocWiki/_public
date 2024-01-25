@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility]
 [SpocWebEntityId::24333]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.md|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.internal.md|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.protect.md|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.private.md|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.personal.md|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.secret.md|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.internal|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.protect|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.private|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.personal|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.secret|Triz-Temperature+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Versatility.secret]] 

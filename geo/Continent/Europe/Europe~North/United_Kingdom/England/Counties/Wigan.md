@@ -41,9 +41,9 @@ markerFolder: ./Wigan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.md|Wigan]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.internal.md|Wigan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.protect.md|Wigan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.private.md|Wigan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.personal.md|Wigan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.secret.md|Wigan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.internal|Wigan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.protect|Wigan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.private|Wigan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.personal|Wigan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wigan.secret|Wigan.secret]] 
 

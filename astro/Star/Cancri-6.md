@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Cancri-6.md|Cancri-6]] 
-- [[../../../_internal/astro/Star/Cancri-6.internal.md|Cancri-6.internal]] 
-- [[../../../_protect/astro/Star/Cancri-6.protect.md|Cancri-6.protect]] 
-- [[../../../_private/astro/Star/Cancri-6.private.md|Cancri-6.private]] 
-- [[../../../_personal/astro/Star/Cancri-6.personal.md|Cancri-6.personal]] 
-- [[../../../_secret/astro/Star/Cancri-6.secret.md|Cancri-6.secret]]
+- [[../../../_internal/astro/Star/Cancri-6.internal|Cancri-6.internal]] 
+- [[../../../_protect/astro/Star/Cancri-6.protect|Cancri-6.protect]] 
+- [[../../../_private/astro/Star/Cancri-6.private|Cancri-6.private]] 
+- [[../../../_personal/astro/Star/Cancri-6.personal|Cancri-6.personal]] 
+- [[../../../_secret/astro/Star/Cancri-6.secret|Cancri-6.secret]]
 

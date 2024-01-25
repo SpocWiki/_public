@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schladming.md|Schladming]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schladming.internal.md|Schladming.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schladming.protect.md|Schladming.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schladming.private.md|Schladming.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schladming.personal.md|Schladming.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schladming.secret.md|Schladming.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schladming.internal|Schladming.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schladming.protect|Schladming.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schladming.private|Schladming.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schladming.personal|Schladming.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schladming.secret|Schladming.secret]] 

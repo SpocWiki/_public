@@ -41,9 +41,9 @@ markerFolder: ./Département~Eure-et-Loir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.md|Département~Eure-et-Loir]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.internal.md|Département~Eure-et-Loir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.protect.md|Département~Eure-et-Loir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.private.md|Département~Eure-et-Loir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.personal.md|Département~Eure-et-Loir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.secret.md|Département~Eure-et-Loir.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.internal|Département~Eure-et-Loir.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.protect|Département~Eure-et-Loir.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.private|Département~Eure-et-Loir.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.personal|Département~Eure-et-Loir.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Eure-et-Loir.secret|Département~Eure-et-Loir.secret]] 
 

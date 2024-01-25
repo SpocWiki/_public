@@ -39,8 +39,8 @@ SpocWebEntityId: 21955
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Praseodymium.md|Praseodymium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Praseodymium.internal.md|Praseodymium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Praseodymium.protect.md|Praseodymium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Praseodymium.private.md|Praseodymium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Praseodymium.personal.md|Praseodymium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Praseodymium.secret.md|Praseodymium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Praseodymium.internal|Praseodymium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Praseodymium.protect|Praseodymium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Praseodymium.private|Praseodymium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Praseodymium.personal|Praseodymium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Praseodymium.secret|Praseodymium.secret]] 

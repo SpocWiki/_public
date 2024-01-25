@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22210-stationary_Weight]
 [SpocWebEntityId::26639]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22210]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.md|Triz-10307+22210-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.internal.md|Triz-10307+22210-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.protect.md|Triz-10307+22210-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.private.md|Triz-10307+22210-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.personal.md|Triz-10307+22210-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.secret.md|Triz-10307+22210-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.internal|Triz-10307+22210-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.protect|Triz-10307+22210-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.private|Triz-10307+22210-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.personal|Triz-10307+22210-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.secret|Triz-10307+22210-stationary_Weight.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Use_of_porous_material-Complexity]
 [SpocWebEntityId::25818]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle:[[Triz-Use_porous_material]]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.md|Triz-generated_harm+Use_of_porous_material-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.internal.md|Triz-generated_harm+Use_of_porous_material-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.protect.md|Triz-generated_harm+Use_of_porous_material-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.private.md|Triz-generated_harm+Use_of_porous_material-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.personal.md|Triz-generated_harm+Use_of_porous_material-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.secret.md|Triz-generated_harm+Use_of_porous_material-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.internal|Triz-generated_harm+Use_of_porous_material-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.protect|Triz-generated_harm+Use_of_porous_material-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.private|Triz-generated_harm+Use_of_porous_material-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.personal|Triz-generated_harm+Use_of_porous_material-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-Complexity.secret|Triz-generated_harm+Use_of_porous_material-Complexity.secret]] 

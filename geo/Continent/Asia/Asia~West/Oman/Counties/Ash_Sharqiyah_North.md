@@ -41,9 +41,9 @@ markerFolder: ./Ash_Sharqiyah_North/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.md|Ash_Sharqiyah_North]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.internal.md|Ash_Sharqiyah_North.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.protect.md|Ash_Sharqiyah_North.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.private.md|Ash_Sharqiyah_North.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.personal.md|Ash_Sharqiyah_North.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.secret.md|Ash_Sharqiyah_North.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.internal|Ash_Sharqiyah_North.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.protect|Ash_Sharqiyah_North.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.private|Ash_Sharqiyah_North.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.personal|Ash_Sharqiyah_North.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_North.secret|Ash_Sharqiyah_North.secret]] 
 

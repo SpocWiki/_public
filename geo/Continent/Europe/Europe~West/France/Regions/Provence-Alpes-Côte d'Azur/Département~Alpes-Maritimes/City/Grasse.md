@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Grasse.md|Grasse]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Grasse.internal.md|Grasse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Grasse.protect.md|Grasse.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Grasse.private.md|Grasse.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Grasse.personal.md|Grasse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Grasse.secret.md|Grasse.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Grasse.internal|Grasse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Grasse.protect|Grasse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Grasse.private|Grasse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Grasse.personal|Grasse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Grasse.secret|Grasse.secret]] 

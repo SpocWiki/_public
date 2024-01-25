@@ -41,9 +41,9 @@ markerFolder: ./Henan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Henan.md|Henan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Henan.internal.md|Henan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Henan.protect.md|Henan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Henan.private.md|Henan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Henan.personal.md|Henan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Henan.secret.md|Henan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Henan.internal|Henan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Henan.protect|Henan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Henan.private|Henan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Henan.personal|Henan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Henan.secret|Henan.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.md|Nowaja_Ladoga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.internal.md|Nowaja_Ladoga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.protect.md|Nowaja_Ladoga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.private.md|Nowaja_Ladoga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.personal.md|Nowaja_Ladoga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.secret.md|Nowaja_Ladoga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.internal|Nowaja_Ladoga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.protect|Nowaja_Ladoga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.private|Nowaja_Ladoga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.personal|Nowaja_Ladoga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.secret|Nowaja_Ladoga.secret]] 

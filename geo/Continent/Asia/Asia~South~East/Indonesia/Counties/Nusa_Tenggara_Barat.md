@@ -41,9 +41,9 @@ markerFolder: ./Nusa_Tenggara_Barat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.md|Nusa_Tenggara_Barat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.internal.md|Nusa_Tenggara_Barat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.protect.md|Nusa_Tenggara_Barat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.private.md|Nusa_Tenggara_Barat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.personal.md|Nusa_Tenggara_Barat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.secret.md|Nusa_Tenggara_Barat.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.internal|Nusa_Tenggara_Barat.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.protect|Nusa_Tenggara_Barat.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.private|Nusa_Tenggara_Barat.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.personal|Nusa_Tenggara_Barat.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Barat.secret|Nusa_Tenggara_Barat.secret]] 
 

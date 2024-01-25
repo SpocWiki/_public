@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Convert_harm_into_benefit-Complexity]
 [SpocWebEntityId::25701]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.md|Triz-affected_harm+Convert_harm_into_benefit-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.internal.md|Triz-affected_harm+Convert_harm_into_benefit-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.protect.md|Triz-affected_harm+Convert_harm_into_benefit-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.private.md|Triz-affected_harm+Convert_harm_into_benefit-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.personal.md|Triz-affected_harm+Convert_harm_into_benefit-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.secret.md|Triz-affected_harm+Convert_harm_into_benefit-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.internal|Triz-affected_harm+Convert_harm_into_benefit-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.protect|Triz-affected_harm+Convert_harm_into_benefit-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.private|Triz-affected_harm+Convert_harm_into_benefit-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.personal|Triz-affected_harm+Convert_harm_into_benefit-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Complexity.secret|Triz-affected_harm+Convert_harm_into_benefit-Complexity.secret]] 

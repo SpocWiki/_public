@@ -41,9 +41,9 @@ markerFolder: ./Lisboa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Lisboa.md|Lisboa]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Lisboa.internal.md|Lisboa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Lisboa.protect.md|Lisboa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Lisboa.private.md|Lisboa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Lisboa.personal.md|Lisboa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Lisboa.secret.md|Lisboa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Lisboa.internal|Lisboa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Lisboa.protect|Lisboa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Lisboa.private|Lisboa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Lisboa.personal|Lisboa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Lisboa.secret|Lisboa.secret]] 
 

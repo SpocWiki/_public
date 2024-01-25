@@ -41,9 +41,9 @@ markerFolder: ./Mafeteng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mafeteng.md|Mafeteng]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mafeteng.internal.md|Mafeteng.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mafeteng.protect.md|Mafeteng.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mafeteng.private.md|Mafeteng.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mafeteng.personal.md|Mafeteng.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mafeteng.secret.md|Mafeteng.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mafeteng.internal|Mafeteng.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mafeteng.protect|Mafeteng.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mafeteng.private|Mafeteng.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mafeteng.personal|Mafeteng.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mafeteng.secret|Mafeteng.secret]] 
 

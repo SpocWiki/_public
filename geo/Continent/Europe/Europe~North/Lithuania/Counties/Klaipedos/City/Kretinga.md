@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kretinga.md|Kretinga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kretinga.internal.md|Kretinga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kretinga.protect.md|Kretinga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kretinga.private.md|Kretinga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kretinga.personal.md|Kretinga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kretinga.secret.md|Kretinga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kretinga.internal|Kretinga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kretinga.protect|Kretinga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kretinga.private|Kretinga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kretinga.personal|Kretinga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kretinga.secret|Kretinga.secret]] 

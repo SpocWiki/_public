@@ -133,8 +133,8 @@ markerFolder: ./Guyana/
 
 ## Confidential Links & Embeds: 
 - [[Guyana|Guyana]] 
-- [[../../../../_internal/geo/Continent/South-America/Guyana.internal.md|Guyana.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Guyana.protect.md|Guyana.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Guyana.private.md|Guyana.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Guyana.personal.md|Guyana.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Guyana.secret.md|Guyana.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Guyana.internal|Guyana.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Guyana.protect|Guyana.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Guyana.private|Guyana.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Guyana.personal|Guyana.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Guyana.secret|Guyana.secret]] 

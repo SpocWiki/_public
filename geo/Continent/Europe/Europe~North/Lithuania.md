@@ -134,8 +134,8 @@ markerFolder: ./Lithuania//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Lithuania.md|Lithuania]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania.internal.md|Lithuania.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania.protect.md|Lithuania.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania.private.md|Lithuania.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania.personal.md|Lithuania.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania.secret.md|Lithuania.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Lithuania.internal|Lithuania.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Lithuania.protect|Lithuania.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Lithuania.private|Lithuania.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Lithuania.personal|Lithuania.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Lithuania.secret|Lithuania.secret]] 

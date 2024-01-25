@@ -41,9 +41,9 @@ markerFolder: ./Grad_Beograd/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.md|Grad_Beograd]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.internal.md|Grad_Beograd.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.protect.md|Grad_Beograd.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.private.md|Grad_Beograd.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.personal.md|Grad_Beograd.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.secret.md|Grad_Beograd.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.internal|Grad_Beograd.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.protect|Grad_Beograd.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.private|Grad_Beograd.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.personal|Grad_Beograd.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Grad_Beograd.secret|Grad_Beograd.secret]] 
 

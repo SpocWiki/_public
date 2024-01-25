@@ -41,9 +41,9 @@ markerFolder: ./Portalegre/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Portalegre.md|Portalegre]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Portalegre.internal.md|Portalegre.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Portalegre.protect.md|Portalegre.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Portalegre.private.md|Portalegre.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Portalegre.personal.md|Portalegre.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Portalegre.secret.md|Portalegre.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Portalegre.internal|Portalegre.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Portalegre.protect|Portalegre.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Portalegre.private|Portalegre.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Portalegre.personal|Portalegre.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Portalegre.secret|Portalegre.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Manufahi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.md|Manufahi]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.internal.md|Manufahi.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.protect.md|Manufahi.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.private.md|Manufahi.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.personal.md|Manufahi.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.secret.md|Manufahi.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.internal|Manufahi.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.protect|Manufahi.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.private|Manufahi.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.personal|Manufahi.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Manufahi.secret|Manufahi.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Deschney.md|Deschney]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deschney.internal.md|Deschney.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deschney.protect.md|Deschney.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deschney.private.md|Deschney.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deschney.personal.md|Deschney.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deschney.secret.md|Deschney.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deschney.internal|Deschney.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deschney.protect|Deschney.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deschney.private|Deschney.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deschney.personal|Deschney.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deschney.secret|Deschney.secret]] 

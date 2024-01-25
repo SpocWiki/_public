@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Loches.md|Loches]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Loches.internal.md|Loches.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Loches.protect.md|Loches.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Loches.private.md|Loches.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Loches.personal.md|Loches.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Loches.secret.md|Loches.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Loches.internal|Loches.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Loches.protect|Loches.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Loches.private|Loches.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Loches.personal|Loches.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Loches.secret|Loches.secret]] 

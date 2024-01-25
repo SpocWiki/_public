@@ -41,9 +41,9 @@ markerFolder: ./Edo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Edo.md|Edo]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Edo.internal.md|Edo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Edo.protect.md|Edo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Edo.private.md|Edo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Edo.personal.md|Edo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Edo.secret.md|Edo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Edo.internal|Edo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Edo.protect|Edo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Edo.private|Edo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Edo.personal|Edo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Edo.secret|Edo.secret]] 
 

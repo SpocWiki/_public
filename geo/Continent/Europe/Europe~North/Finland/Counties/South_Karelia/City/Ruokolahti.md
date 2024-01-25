@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Ruokolahti.md|Ruokolahti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Ruokolahti.internal.md|Ruokolahti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Ruokolahti.protect.md|Ruokolahti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Ruokolahti.private.md|Ruokolahti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Ruokolahti.personal.md|Ruokolahti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Ruokolahti.secret.md|Ruokolahti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Ruokolahti.internal|Ruokolahti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Ruokolahti.protect|Ruokolahti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Ruokolahti.private|Ruokolahti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Ruokolahti.personal|Ruokolahti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Ruokolahti.secret|Ruokolahti.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Naestved.md|Naestved]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Naestved.internal.md|Naestved.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Naestved.protect.md|Naestved.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Naestved.private.md|Naestved.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Naestved.personal.md|Naestved.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Naestved.secret.md|Naestved.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Naestved.internal|Naestved.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Naestved.protect|Naestved.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Naestved.private|Naestved.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Naestved.personal|Naestved.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Naestved.secret|Naestved.secret]] 

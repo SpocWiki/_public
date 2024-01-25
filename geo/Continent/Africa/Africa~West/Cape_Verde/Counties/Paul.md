@@ -41,9 +41,9 @@ markerFolder: ./Paul/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Paul.md|Paul]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Paul.internal.md|Paul.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Paul.protect.md|Paul.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Paul.private.md|Paul.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Paul.personal.md|Paul.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Paul.secret.md|Paul.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Paul.internal|Paul.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Paul.protect|Paul.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Paul.private|Paul.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Paul.personal|Paul.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Paul.secret|Paul.secret]] 
 

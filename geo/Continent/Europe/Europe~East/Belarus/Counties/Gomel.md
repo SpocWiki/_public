@@ -41,9 +41,9 @@ markerFolder: ./Gomel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belarus/Counties/Gomel.md|Gomel]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Gomel.internal.md|Gomel.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Gomel.protect.md|Gomel.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Gomel.private.md|Gomel.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Gomel.personal.md|Gomel.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Gomel.secret.md|Gomel.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Gomel.internal|Gomel.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Gomel.protect|Gomel.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Gomel.private|Gomel.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Gomel.personal|Gomel.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Gomel.secret|Gomel.secret]] 
 

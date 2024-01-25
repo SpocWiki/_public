@@ -131,8 +131,8 @@ FROM outgoing([[Line~Northern]])
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.md|Line~Northern]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.internal.md|Line~Northern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.protect.md|Line~Northern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.private.md|Line~Northern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.personal.md|Line~Northern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.secret.md|Line~Northern.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.internal|Line~Northern.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.protect|Line~Northern.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.private|Line~Northern.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.personal|Line~Northern.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.secret|Line~Northern.secret]] 

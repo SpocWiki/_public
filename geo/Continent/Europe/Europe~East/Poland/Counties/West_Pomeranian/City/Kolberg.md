@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kolberg.md|Kolberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolberg.internal.md|Kolberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolberg.protect.md|Kolberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kolberg.private.md|Kolberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolberg.personal.md|Kolberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolberg.secret.md|Kolberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolberg.internal|Kolberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolberg.protect|Kolberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kolberg.private|Kolberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolberg.personal|Kolberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolberg.secret|Kolberg.secret]] 

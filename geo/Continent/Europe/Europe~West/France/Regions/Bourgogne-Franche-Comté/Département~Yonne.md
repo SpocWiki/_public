@@ -41,9 +41,9 @@ markerFolder: ./Département~Yonne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.md|Département~Yonne]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.internal.md|Département~Yonne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.protect.md|Département~Yonne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.private.md|Département~Yonne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.personal.md|Département~Yonne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.secret.md|Département~Yonne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.internal|Département~Yonne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.protect|Département~Yonne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.private|Département~Yonne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.personal|Département~Yonne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Yonne.secret|Département~Yonne.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Sumatera_Selatan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.md|Sumatera_Selatan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.internal.md|Sumatera_Selatan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.protect.md|Sumatera_Selatan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.private.md|Sumatera_Selatan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.personal.md|Sumatera_Selatan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.secret.md|Sumatera_Selatan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.internal|Sumatera_Selatan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.protect|Sumatera_Selatan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.private|Sumatera_Selatan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.personal|Sumatera_Selatan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Selatan.secret|Sumatera_Selatan.secret]] 
 

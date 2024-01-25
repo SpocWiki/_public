@@ -41,9 +41,9 @@ markerFolder: ./Pomeranian/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/Pomeranian.md|Pomeranian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Pomeranian.internal.md|Pomeranian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Pomeranian.protect.md|Pomeranian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Pomeranian.private.md|Pomeranian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Pomeranian.personal.md|Pomeranian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Pomeranian.secret.md|Pomeranian.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Pomeranian.internal|Pomeranian.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Pomeranian.protect|Pomeranian.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Pomeranian.private|Pomeranian.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Pomeranian.personal|Pomeranian.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Pomeranian.secret|Pomeranian.secret]] 
 

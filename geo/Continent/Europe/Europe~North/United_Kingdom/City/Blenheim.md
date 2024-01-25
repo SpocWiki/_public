@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Blenheim.md|Blenheim]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Blenheim.internal.md|Blenheim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Blenheim.protect.md|Blenheim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Blenheim.private.md|Blenheim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Blenheim.personal.md|Blenheim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Blenheim.secret.md|Blenheim.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Blenheim.internal|Blenheim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Blenheim.protect|Blenheim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Blenheim.private|Blenheim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Blenheim.personal|Blenheim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Blenheim.secret|Blenheim.secret]] 

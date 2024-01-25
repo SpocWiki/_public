@@ -41,9 +41,9 @@ markerFolder: ./Ntchisi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Ntchisi.md|Ntchisi]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Ntchisi.internal.md|Ntchisi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Ntchisi.protect.md|Ntchisi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Ntchisi.private.md|Ntchisi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Ntchisi.personal.md|Ntchisi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Ntchisi.secret.md|Ntchisi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Ntchisi.internal|Ntchisi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Ntchisi.protect|Ntchisi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Ntchisi.private|Ntchisi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Ntchisi.personal|Ntchisi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Ntchisi.secret|Ntchisi.secret]] 
 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Cassiopeiae-17.md|Cassiopeiae-17]] 
-- [[../../../_internal/astro/Star/Cassiopeiae-17.internal.md|Cassiopeiae-17.internal]] 
-- [[../../../_protect/astro/Star/Cassiopeiae-17.protect.md|Cassiopeiae-17.protect]] 
-- [[../../../_private/astro/Star/Cassiopeiae-17.private.md|Cassiopeiae-17.private]] 
-- [[../../../_personal/astro/Star/Cassiopeiae-17.personal.md|Cassiopeiae-17.personal]] 
-- [[../../../_secret/astro/Star/Cassiopeiae-17.secret.md|Cassiopeiae-17.secret]]
+- [[../../../_internal/astro/Star/Cassiopeiae-17.internal|Cassiopeiae-17.internal]] 
+- [[../../../_protect/astro/Star/Cassiopeiae-17.protect|Cassiopeiae-17.protect]] 
+- [[../../../_private/astro/Star/Cassiopeiae-17.private|Cassiopeiae-17.private]] 
+- [[../../../_personal/astro/Star/Cassiopeiae-17.personal|Cassiopeiae-17.personal]] 
+- [[../../../_secret/astro/Star/Cassiopeiae-17.secret|Cassiopeiae-17.secret]]
 

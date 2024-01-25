@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Stipanj.md|Stipanj]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Stipanj.internal.md|Stipanj.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Stipanj.protect.md|Stipanj.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Stipanj.private.md|Stipanj.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Stipanj.personal.md|Stipanj.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Stipanj.secret.md|Stipanj.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Stipanj.internal|Stipanj.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Stipanj.protect|Stipanj.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Stipanj.private|Stipanj.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Stipanj.personal|Stipanj.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Stipanj.secret|Stipanj.secret]] 

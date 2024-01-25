@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Asymmetry-Temperature]
 [SpocWebEntityId::22612]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.md|Triz-moving_Weight+Asymmetry-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.internal.md|Triz-moving_Weight+Asymmetry-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.protect.md|Triz-moving_Weight+Asymmetry-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.private.md|Triz-moving_Weight+Asymmetry-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.personal.md|Triz-moving_Weight+Asymmetry-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.secret.md|Triz-moving_Weight+Asymmetry-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.internal|Triz-moving_Weight+Asymmetry-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.protect|Triz-moving_Weight+Asymmetry-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.private|Triz-moving_Weight+Asymmetry-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.personal|Triz-moving_Weight+Asymmetry-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Asymmetry-Temperature.secret|Triz-moving_Weight+Asymmetry-Temperature.secret]] 

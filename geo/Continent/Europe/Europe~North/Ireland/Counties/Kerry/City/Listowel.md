@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Listowel.md|Listowel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Listowel.internal.md|Listowel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Listowel.protect.md|Listowel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Listowel.private.md|Listowel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Listowel.personal.md|Listowel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Listowel.secret.md|Listowel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Listowel.internal|Listowel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Listowel.protect|Listowel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Listowel.private|Listowel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Listowel.personal|Listowel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Listowel.secret|Listowel.secret]] 

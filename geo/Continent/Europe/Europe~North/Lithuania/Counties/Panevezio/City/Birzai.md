@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Birzai.md|Birzai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Birzai.internal.md|Birzai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Birzai.protect.md|Birzai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Birzai.private.md|Birzai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Birzai.personal.md|Birzai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Birzai.secret.md|Birzai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Birzai.internal|Birzai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Birzai.protect|Birzai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Birzai.private|Birzai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Birzai.personal|Birzai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Birzai.secret|Birzai.secret]] 

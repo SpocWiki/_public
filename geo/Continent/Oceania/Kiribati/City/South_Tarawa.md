@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Kiribati/City/South_Tarawa.md|South_Tarawa]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Kiribati/City/South_Tarawa.internal.md|South_Tarawa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Kiribati/City/South_Tarawa.protect.md|South_Tarawa.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Kiribati/City/South_Tarawa.private.md|South_Tarawa.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Kiribati/City/South_Tarawa.personal.md|South_Tarawa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Kiribati/City/South_Tarawa.secret.md|South_Tarawa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Kiribati/City/South_Tarawa.internal|South_Tarawa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Kiribati/City/South_Tarawa.protect|South_Tarawa.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Kiribati/City/South_Tarawa.private|South_Tarawa.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Kiribati/City/South_Tarawa.personal|South_Tarawa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Kiribati/City/South_Tarawa.secret|South_Tarawa.secret]] 

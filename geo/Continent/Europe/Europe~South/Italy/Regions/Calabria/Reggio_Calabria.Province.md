@@ -41,9 +41,9 @@ markerFolder: ./Reggio_Calabria.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.md|Reggio_Calabria.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.internal.md|Reggio_Calabria.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.protect.md|Reggio_Calabria.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.private.md|Reggio_Calabria.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.personal.md|Reggio_Calabria.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.secret.md|Reggio_Calabria.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.internal|Reggio_Calabria.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.protect|Reggio_Calabria.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.private|Reggio_Calabria.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.personal|Reggio_Calabria.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Calabria/Reggio_Calabria.Province.secret|Reggio_Calabria.Province.secret]] 
 

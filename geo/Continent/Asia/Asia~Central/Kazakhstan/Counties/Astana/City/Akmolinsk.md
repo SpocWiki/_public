@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Akmolinsk.md|Akmolinsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Akmolinsk.internal.md|Akmolinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Akmolinsk.protect.md|Akmolinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Akmolinsk.private.md|Akmolinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Akmolinsk.personal.md|Akmolinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Akmolinsk.secret.md|Akmolinsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Akmolinsk.internal|Akmolinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Akmolinsk.protect|Akmolinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Akmolinsk.private|Akmolinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Akmolinsk.personal|Akmolinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Akmolinsk.secret|Akmolinsk.secret]] 

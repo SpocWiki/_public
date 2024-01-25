@@ -41,9 +41,9 @@ markerFolder: ./Lombardy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lombardy.md|Lombardy]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy.internal.md|Lombardy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy.protect.md|Lombardy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy.private.md|Lombardy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy.personal.md|Lombardy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy.secret.md|Lombardy.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy.internal|Lombardy.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy.protect|Lombardy.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy.private|Lombardy.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy.personal|Lombardy.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy.secret|Lombardy.secret]] 
 

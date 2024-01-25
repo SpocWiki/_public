@@ -41,9 +41,9 @@ markerFolder: ./Kasungu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Kasungu.md|Kasungu]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Kasungu.internal.md|Kasungu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Kasungu.protect.md|Kasungu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Kasungu.private.md|Kasungu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Kasungu.personal.md|Kasungu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Kasungu.secret.md|Kasungu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Kasungu.internal|Kasungu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Kasungu.protect|Kasungu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Kasungu.private|Kasungu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Kasungu.personal|Kasungu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Kasungu.secret|Kasungu.secret]] 
 

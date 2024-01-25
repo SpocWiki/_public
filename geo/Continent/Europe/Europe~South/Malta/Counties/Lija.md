@@ -41,9 +41,9 @@ markerFolder: ./Lija/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Lija.md|Lija]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Lija.internal.md|Lija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Lija.protect.md|Lija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Lija.private.md|Lija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Lija.personal.md|Lija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Lija.secret.md|Lija.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Lija.internal|Lija.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Lija.protect|Lija.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Lija.private|Lija.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Lija.personal|Lija.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Lija.secret|Lija.secret]] 
 

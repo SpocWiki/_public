@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alderamin.md|Alderamin]] 
-- [[../../../_internal/astro/Star/Alderamin.internal.md|Alderamin.internal]] 
-- [[../../../_protect/astro/Star/Alderamin.protect.md|Alderamin.protect]] 
-- [[../../../_private/astro/Star/Alderamin.private.md|Alderamin.private]] 
-- [[../../../_personal/astro/Star/Alderamin.personal.md|Alderamin.personal]] 
-- [[../../../_secret/astro/Star/Alderamin.secret.md|Alderamin.secret]]
+- [[../../../_internal/astro/Star/Alderamin.internal|Alderamin.internal]] 
+- [[../../../_protect/astro/Star/Alderamin.protect|Alderamin.protect]] 
+- [[../../../_private/astro/Star/Alderamin.private|Alderamin.private]] 
+- [[../../../_personal/astro/Star/Alderamin.personal|Alderamin.personal]] 
+- [[../../../_secret/astro/Star/Alderamin.secret|Alderamin.secret]]
 

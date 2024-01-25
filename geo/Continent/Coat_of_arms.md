@@ -7,8 +7,8 @@ The same holds for Flags.
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/Coat_of_arms.md|Coat_of_arms]] 
-- [[../../../_internal/geo/Continent/Coat_of_arms.internal.md|Coat_of_arms.internal]] 
-- [[../../../_protect/geo/Continent/Coat_of_arms.protect.md|Coat_of_arms.protect]] 
-- [[../../../_private/geo/Continent/Coat_of_arms.private.md|Coat_of_arms.private]] 
-- [[../../../_personal/geo/Continent/Coat_of_arms.personal.md|Coat_of_arms.personal]] 
-- [[../../../_secret/geo/Continent/Coat_of_arms.secret.md|Coat_of_arms.secret]] 
+- [[../../../_internal/geo/Continent/Coat_of_arms.internal|Coat_of_arms.internal]] 
+- [[../../../_protect/geo/Continent/Coat_of_arms.protect|Coat_of_arms.protect]] 
+- [[../../../_private/geo/Continent/Coat_of_arms.private|Coat_of_arms.private]] 
+- [[../../../_personal/geo/Continent/Coat_of_arms.personal|Coat_of_arms.personal]] 
+- [[../../../_secret/geo/Continent/Coat_of_arms.secret|Coat_of_arms.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Aïn_Defla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.md|Aïn_Defla]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.internal.md|Aïn_Defla.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.protect.md|Aïn_Defla.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.private.md|Aïn_Defla.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.personal.md|Aïn_Defla.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.secret.md|Aïn_Defla.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.internal|Aïn_Defla.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.protect|Aïn_Defla.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.private|Aïn_Defla.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.personal|Aïn_Defla.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.secret|Aïn_Defla.secret]] 
 

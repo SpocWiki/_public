@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bublitz.md|Bublitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bublitz.internal.md|Bublitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bublitz.protect.md|Bublitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bublitz.private.md|Bublitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bublitz.personal.md|Bublitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bublitz.secret.md|Bublitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bublitz.internal|Bublitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bublitz.protect|Bublitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bublitz.private|Bublitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bublitz.personal|Bublitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bublitz.secret|Bublitz.secret]] 

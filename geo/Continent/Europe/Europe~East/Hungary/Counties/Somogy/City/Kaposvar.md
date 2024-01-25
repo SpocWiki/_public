@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Kaposvar.md|Kaposvar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kaposvar.internal.md|Kaposvar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kaposvar.protect.md|Kaposvar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kaposvar.private.md|Kaposvar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kaposvar.personal.md|Kaposvar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kaposvar.secret.md|Kaposvar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kaposvar.internal|Kaposvar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kaposvar.protect|Kaposvar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kaposvar.private|Kaposvar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kaposvar.personal|Kaposvar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kaposvar.secret|Kaposvar.secret]] 

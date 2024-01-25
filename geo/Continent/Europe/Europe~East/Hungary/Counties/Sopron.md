@@ -41,9 +41,9 @@ markerFolder: ./Sopron/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Sopron.md|Sopron]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Sopron.internal.md|Sopron.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Sopron.protect.md|Sopron.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Sopron.private.md|Sopron.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Sopron.personal.md|Sopron.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Sopron.secret.md|Sopron.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Sopron.internal|Sopron.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Sopron.protect|Sopron.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Sopron.private|Sopron.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Sopron.personal|Sopron.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Sopron.secret|Sopron.secret]] 
 

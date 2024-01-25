@@ -41,9 +41,9 @@ markerFolder: ./Zacapa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Zacapa.md|Zacapa]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Zacapa.internal.md|Zacapa.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Zacapa.protect.md|Zacapa.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Zacapa.private.md|Zacapa.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Zacapa.personal.md|Zacapa.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Zacapa.secret.md|Zacapa.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Zacapa.internal|Zacapa.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Zacapa.protect|Zacapa.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Zacapa.private|Zacapa.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Zacapa.personal|Zacapa.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Zacapa.secret|Zacapa.secret]] 
 

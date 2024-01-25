@@ -41,9 +41,9 @@ markerFolder: ./Nitriansky/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovakia/Counties/Nitriansky.md|Nitriansky]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Nitriansky.internal.md|Nitriansky.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Nitriansky.protect.md|Nitriansky.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Nitriansky.private.md|Nitriansky.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Nitriansky.personal.md|Nitriansky.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Nitriansky.secret.md|Nitriansky.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Nitriansky.internal|Nitriansky.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Nitriansky.protect|Nitriansky.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Nitriansky.private|Nitriansky.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Nitriansky.personal|Nitriansky.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Nitriansky.secret|Nitriansky.secret]] 
 

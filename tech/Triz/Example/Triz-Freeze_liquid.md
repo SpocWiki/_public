@@ -18,8 +18,8 @@ Freeze the liquid Centers of filled Candies, then dip in melted Chocolate, inste
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Freeze_liquid.md|Triz-Freeze_liquid]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Freeze_liquid.internal.md|Triz-Freeze_liquid.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Freeze_liquid.protect.md|Triz-Freeze_liquid.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Freeze_liquid.private.md|Triz-Freeze_liquid.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Freeze_liquid.personal.md|Triz-Freeze_liquid.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Freeze_liquid.secret.md|Triz-Freeze_liquid.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Freeze_liquid.internal|Triz-Freeze_liquid.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Freeze_liquid.protect|Triz-Freeze_liquid.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Freeze_liquid.private|Triz-Freeze_liquid.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Freeze_liquid.personal|Triz-Freeze_liquid.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Freeze_liquid.secret|Triz-Freeze_liquid.secret]] 

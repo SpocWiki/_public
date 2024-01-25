@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Freystadt_Pommern.md|Freystadt_Pommern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freystadt_Pommern.internal.md|Freystadt_Pommern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freystadt_Pommern.protect.md|Freystadt_Pommern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freystadt_Pommern.private.md|Freystadt_Pommern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freystadt_Pommern.personal.md|Freystadt_Pommern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freystadt_Pommern.secret.md|Freystadt_Pommern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freystadt_Pommern.internal|Freystadt_Pommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freystadt_Pommern.protect|Freystadt_Pommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freystadt_Pommern.private|Freystadt_Pommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freystadt_Pommern.personal|Freystadt_Pommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freystadt_Pommern.secret|Freystadt_Pommern.secret]] 

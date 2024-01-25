@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Scheibbs.md|Scheibbs]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Scheibbs.internal.md|Scheibbs.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Scheibbs.protect.md|Scheibbs.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Scheibbs.private.md|Scheibbs.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Scheibbs.personal.md|Scheibbs.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Scheibbs.secret.md|Scheibbs.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Scheibbs.internal|Scheibbs.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Scheibbs.protect|Scheibbs.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Scheibbs.private|Scheibbs.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Scheibbs.personal|Scheibbs.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Scheibbs.secret|Scheibbs.secret]] 

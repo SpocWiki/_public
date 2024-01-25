@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schlabitz.md|Schlabitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlabitz.internal.md|Schlabitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlabitz.protect.md|Schlabitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlabitz.private.md|Schlabitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlabitz.personal.md|Schlabitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlabitz.secret.md|Schlabitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlabitz.internal|Schlabitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlabitz.protect|Schlabitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlabitz.private|Schlabitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlabitz.personal|Schlabitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlabitz.secret|Schlabitz.secret]] 

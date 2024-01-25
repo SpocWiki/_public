@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Vac.md|Vac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Vac.internal.md|Vac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Vac.protect.md|Vac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Vac.private.md|Vac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Vac.personal.md|Vac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Vac.secret.md|Vac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Vac.internal|Vac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Vac.protect|Vac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Vac.private|Vac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Vac.personal|Vac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Vac.secret|Vac.secret]] 

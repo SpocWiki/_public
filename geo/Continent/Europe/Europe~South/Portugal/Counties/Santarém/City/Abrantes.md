@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Abrantes.md|Abrantes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Abrantes.internal.md|Abrantes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Abrantes.protect.md|Abrantes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Abrantes.private.md|Abrantes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Abrantes.personal.md|Abrantes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Abrantes.secret.md|Abrantes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Abrantes.internal|Abrantes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Abrantes.protect|Abrantes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Abrantes.private|Abrantes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Abrantes.personal|Abrantes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Abrantes.secret|Abrantes.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Zaporizhzhya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.md|Zaporizhzhya]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.internal.md|Zaporizhzhya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.protect.md|Zaporizhzhya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.private.md|Zaporizhzhya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.personal.md|Zaporizhzhya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.secret.md|Zaporizhzhya.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.internal|Zaporizhzhya.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.protect|Zaporizhzhya.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.private|Zaporizhzhya.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.personal|Zaporizhzhya.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Zaporizhzhya.secret|Zaporizhzhya.secret]] 
 

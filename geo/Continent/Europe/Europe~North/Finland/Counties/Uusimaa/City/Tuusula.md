@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tuusula.md|Tuusula]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tuusula.internal.md|Tuusula.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tuusula.protect.md|Tuusula.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tuusula.private.md|Tuusula.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tuusula.personal.md|Tuusula.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tuusula.secret.md|Tuusula.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tuusula.internal|Tuusula.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tuusula.protect|Tuusula.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tuusula.private|Tuusula.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tuusula.personal|Tuusula.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tuusula.secret|Tuusula.secret]] 

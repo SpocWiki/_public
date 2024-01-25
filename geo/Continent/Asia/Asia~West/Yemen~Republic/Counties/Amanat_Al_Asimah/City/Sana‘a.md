@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.md|Sana‘a]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.internal.md|Sana‘a.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.protect.md|Sana‘a.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.private.md|Sana‘a.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.personal.md|Sana‘a.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.secret.md|Sana‘a.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.internal|Sana‘a.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.protect|Sana‘a.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.private|Sana‘a.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.personal|Sana‘a.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Yemen~Republic/City/Sana‘a.secret|Sana‘a.secret]] 

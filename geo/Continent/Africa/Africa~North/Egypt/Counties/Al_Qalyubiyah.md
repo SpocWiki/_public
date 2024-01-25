@@ -41,9 +41,9 @@ markerFolder: ./Al_Qalyubiyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.md|Al_Qalyubiyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.internal.md|Al_Qalyubiyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.protect.md|Al_Qalyubiyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.private.md|Al_Qalyubiyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.personal.md|Al_Qalyubiyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.secret.md|Al_Qalyubiyah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.internal|Al_Qalyubiyah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.protect|Al_Qalyubiyah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.private|Al_Qalyubiyah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.personal|Al_Qalyubiyah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.secret|Al_Qalyubiyah.secret]] 
 

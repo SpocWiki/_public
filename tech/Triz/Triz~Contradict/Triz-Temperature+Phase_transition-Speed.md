@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Phase_transition-Speed]
 [SpocWebEntityId::24252]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.md|Triz-Temperature+Phase_transition-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.internal.md|Triz-Temperature+Phase_transition-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.protect.md|Triz-Temperature+Phase_transition-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.private.md|Triz-Temperature+Phase_transition-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.personal.md|Triz-Temperature+Phase_transition-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.secret.md|Triz-Temperature+Phase_transition-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.internal|Triz-Temperature+Phase_transition-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.protect|Triz-Temperature+Phase_transition-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.private|Triz-Temperature+Phase_transition-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.personal|Triz-Temperature+Phase_transition-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.secret|Triz-Temperature+Phase_transition-Speed.secret]] 

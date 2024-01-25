@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.md|Barnet]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.internal.md|Barnet.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.protect.md|Barnet.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.private.md|Barnet.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.personal.md|Barnet.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.secret.md|Barnet.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.internal|Barnet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.protect|Barnet.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.private|Barnet.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.personal|Barnet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.secret|Barnet.secret]] 

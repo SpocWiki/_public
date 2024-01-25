@@ -41,9 +41,9 @@ markerFolder: ./Kasese/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kasese.md|Kasese]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kasese.internal.md|Kasese.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kasese.protect.md|Kasese.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kasese.private.md|Kasese.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kasese.personal.md|Kasese.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kasese.secret.md|Kasese.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kasese.internal|Kasese.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kasese.protect|Kasese.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kasese.private|Kasese.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kasese.personal|Kasese.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kasese.secret|Kasese.secret]] 
 

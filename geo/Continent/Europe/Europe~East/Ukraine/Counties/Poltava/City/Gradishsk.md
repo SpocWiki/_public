@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gradishsk.md|Gradishsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gradishsk.internal.md|Gradishsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gradishsk.protect.md|Gradishsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gradishsk.private.md|Gradishsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gradishsk.personal.md|Gradishsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gradishsk.secret.md|Gradishsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gradishsk.internal|Gradishsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gradishsk.protect|Gradishsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gradishsk.private|Gradishsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gradishsk.personal|Gradishsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gradishsk.secret|Gradishsk.secret]] 

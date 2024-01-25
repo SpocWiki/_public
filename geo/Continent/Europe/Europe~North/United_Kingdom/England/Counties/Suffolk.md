@@ -41,9 +41,9 @@ markerFolder: ./Suffolk/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.md|Suffolk]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.internal.md|Suffolk.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.protect.md|Suffolk.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.private.md|Suffolk.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.personal.md|Suffolk.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.secret.md|Suffolk.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.internal|Suffolk.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.protect|Suffolk.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.private|Suffolk.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.personal|Suffolk.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Suffolk.secret|Suffolk.secret]] 
 

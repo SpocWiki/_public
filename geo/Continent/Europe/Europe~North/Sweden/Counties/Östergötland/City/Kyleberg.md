@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kyleberg.md|Kyleberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kyleberg.internal.md|Kyleberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kyleberg.protect.md|Kyleberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kyleberg.private.md|Kyleberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kyleberg.personal.md|Kyleberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kyleberg.secret.md|Kyleberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kyleberg.internal|Kyleberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kyleberg.protect|Kyleberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kyleberg.private|Kyleberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kyleberg.personal|Kyleberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kyleberg.secret|Kyleberg.secret]] 

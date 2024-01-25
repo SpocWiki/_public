@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zablotow.md|Zablotow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zablotow.internal.md|Zablotow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zablotow.protect.md|Zablotow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zablotow.private.md|Zablotow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zablotow.personal.md|Zablotow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zablotow.secret.md|Zablotow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zablotow.internal|Zablotow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zablotow.protect|Zablotow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zablotow.private|Zablotow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zablotow.personal|Zablotow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zablotow.secret|Zablotow.secret]] 

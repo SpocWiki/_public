@@ -41,9 +41,9 @@ markerFolder: ./Bundibugyo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bundibugyo.md|Bundibugyo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bundibugyo.internal.md|Bundibugyo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bundibugyo.protect.md|Bundibugyo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bundibugyo.private.md|Bundibugyo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bundibugyo.personal.md|Bundibugyo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bundibugyo.secret.md|Bundibugyo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bundibugyo.internal|Bundibugyo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bundibugyo.protect|Bundibugyo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bundibugyo.private|Bundibugyo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bundibugyo.personal|Bundibugyo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bundibugyo.secret|Bundibugyo.secret]] 
 

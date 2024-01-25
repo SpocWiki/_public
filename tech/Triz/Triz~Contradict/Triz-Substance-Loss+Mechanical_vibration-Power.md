@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Mechanical_vibration-Power]
 [SpocWebEntityId::24867]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.md|Triz-Substance-Loss+Mechanical_vibration-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.internal.md|Triz-Substance-Loss+Mechanical_vibration-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.protect.md|Triz-Substance-Loss+Mechanical_vibration-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.private.md|Triz-Substance-Loss+Mechanical_vibration-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.personal.md|Triz-Substance-Loss+Mechanical_vibration-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.secret.md|Triz-Substance-Loss+Mechanical_vibration-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.internal|Triz-Substance-Loss+Mechanical_vibration-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.protect|Triz-Substance-Loss+Mechanical_vibration-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.private|Triz-Substance-Loss+Mechanical_vibration-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.personal|Triz-Substance-Loss+Mechanical_vibration-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Power.secret|Triz-Substance-Loss+Mechanical_vibration-Power.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinogorsk.md|Stalinogorsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinogorsk.internal.md|Stalinogorsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinogorsk.protect.md|Stalinogorsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinogorsk.private.md|Stalinogorsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinogorsk.personal.md|Stalinogorsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinogorsk.secret.md|Stalinogorsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinogorsk.internal|Stalinogorsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinogorsk.protect|Stalinogorsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinogorsk.private|Stalinogorsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinogorsk.personal|Stalinogorsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinogorsk.secret|Stalinogorsk.secret]] 

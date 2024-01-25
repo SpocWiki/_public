@@ -41,9 +41,9 @@ markerFolder: ./Pulau_Pinang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.md|Pulau_Pinang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.internal.md|Pulau_Pinang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.protect.md|Pulau_Pinang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.private.md|Pulau_Pinang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.personal.md|Pulau_Pinang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.secret.md|Pulau_Pinang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.internal|Pulau_Pinang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.protect|Pulau_Pinang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.private|Pulau_Pinang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.personal|Pulau_Pinang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.secret|Pulau_Pinang.secret]] 
 

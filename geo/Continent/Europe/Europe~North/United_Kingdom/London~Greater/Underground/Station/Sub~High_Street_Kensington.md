@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.md|Sub~High_Street_Kensington]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.internal.md|Sub~High_Street_Kensington.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.protect.md|Sub~High_Street_Kensington.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.private.md|Sub~High_Street_Kensington.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.personal.md|Sub~High_Street_Kensington.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.secret.md|Sub~High_Street_Kensington.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.internal|Sub~High_Street_Kensington.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.protect|Sub~High_Street_Kensington.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.private|Sub~High_Street_Kensington.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.personal|Sub~High_Street_Kensington.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.secret|Sub~High_Street_Kensington.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Hierro.md|Hierro]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Hierro.internal.md|Hierro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Hierro.protect.md|Hierro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Hierro.private.md|Hierro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Hierro.personal.md|Hierro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Hierro.secret.md|Hierro.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Hierro.internal|Hierro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Hierro.protect|Hierro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Hierro.private|Hierro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Hierro.personal|Hierro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Hierro.secret|Hierro.secret]] 

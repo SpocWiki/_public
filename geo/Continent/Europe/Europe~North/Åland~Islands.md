@@ -135,8 +135,8 @@ independent	 :: Part of FI ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands.md|Åland~Islands]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands.internal.md|Åland~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands.protect.md|Åland~Islands.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands.private.md|Åland~Islands.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands.personal.md|Åland~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands.secret.md|Åland~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands.internal|Åland~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands.protect|Åland~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands.private|Åland~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands.personal|Åland~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands.secret|Åland~Islands.secret]] 

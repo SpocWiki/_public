@@ -41,9 +41,9 @@ markerFolder: ./Kicevo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.md|Kicevo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.internal.md|Kicevo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.protect.md|Kicevo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.private.md|Kicevo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.personal.md|Kicevo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.secret.md|Kicevo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.internal|Kicevo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.protect|Kicevo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.private|Kicevo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.personal|Kicevo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kicevo.secret|Kicevo.secret]] 
 

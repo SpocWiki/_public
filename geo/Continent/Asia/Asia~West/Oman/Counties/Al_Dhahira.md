@@ -41,9 +41,9 @@ markerFolder: ./Al_Dhahira/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.md|Al_Dhahira]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.internal.md|Al_Dhahira.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.protect.md|Al_Dhahira.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.private.md|Al_Dhahira.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.personal.md|Al_Dhahira.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.secret.md|Al_Dhahira.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.internal|Al_Dhahira.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.protect|Al_Dhahira.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.private|Al_Dhahira.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.personal|Al_Dhahira.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Dhahira.secret|Al_Dhahira.secret]] 
 

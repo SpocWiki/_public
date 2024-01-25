@@ -41,9 +41,9 @@ markerFolder: ./Caserta.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.md|Caserta.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.internal.md|Caserta.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.protect.md|Caserta.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.private.md|Caserta.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.personal.md|Caserta.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.secret.md|Caserta.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.internal|Caserta.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.protect|Caserta.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.private|Caserta.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.personal|Caserta.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Campania/Caserta.Province.secret|Caserta.Province.secret]] 
 

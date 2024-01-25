@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Finby.md|Finby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Finby.internal.md|Finby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Finby.protect.md|Finby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Finby.private.md|Finby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Finby.personal.md|Finby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Finby.secret.md|Finby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Finby.internal|Finby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Finby.protect|Finby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Finby.private|Finby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Finby.personal|Finby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Finby.secret|Finby.secret]] 

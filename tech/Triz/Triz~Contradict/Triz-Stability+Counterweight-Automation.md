@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Counterweight-Automation]
 [SpocWebEntityId::23940]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Counterweight]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.md|Triz-Stability+Counterweight-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.internal.md|Triz-Stability+Counterweight-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.protect.md|Triz-Stability+Counterweight-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.private.md|Triz-Stability+Counterweight-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.personal.md|Triz-Stability+Counterweight-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.secret.md|Triz-Stability+Counterweight-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.internal|Triz-Stability+Counterweight-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.protect|Triz-Stability+Counterweight-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.private|Triz-Stability+Counterweight-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.personal|Triz-Stability+Counterweight-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.secret|Triz-Stability+Counterweight-Automation.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Alte_Sternwarte|Alte_Sternwarte]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.internal.md|Alte_Sternwarte.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.protect.md|Alte_Sternwarte.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.private.md|Alte_Sternwarte.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.personal.md|Alte_Sternwarte.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.secret.md|Alte_Sternwarte.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.internal|Alte_Sternwarte.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.protect|Alte_Sternwarte.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.private|Alte_Sternwarte.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.personal|Alte_Sternwarte.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Alte_Sternwarte.secret|Alte_Sternwarte.secret]] 

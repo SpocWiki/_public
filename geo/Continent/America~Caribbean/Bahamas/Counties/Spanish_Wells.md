@@ -41,9 +41,9 @@ markerFolder: ./Spanish_Wells/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.md|Spanish_Wells]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.internal.md|Spanish_Wells.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.protect.md|Spanish_Wells.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.private.md|Spanish_Wells.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.personal.md|Spanish_Wells.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.secret.md|Spanish_Wells.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.internal|Spanish_Wells.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.protect|Spanish_Wells.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.private|Spanish_Wells.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.personal|Spanish_Wells.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Spanish_Wells.secret|Spanish_Wells.secret]] 
 

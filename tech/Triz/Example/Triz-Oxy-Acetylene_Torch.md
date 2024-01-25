@@ -18,8 +18,8 @@ Cut at a higher Temperature using an Oxy-Acetylene Torch.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.md|Triz-Oxy-Acetylene_Torch]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.internal.md|Triz-Oxy-Acetylene_Torch.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.protect.md|Triz-Oxy-Acetylene_Torch.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.private.md|Triz-Oxy-Acetylene_Torch.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.personal.md|Triz-Oxy-Acetylene_Torch.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.secret.md|Triz-Oxy-Acetylene_Torch.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.internal|Triz-Oxy-Acetylene_Torch.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.protect|Triz-Oxy-Acetylene_Torch.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.private|Triz-Oxy-Acetylene_Torch.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.personal|Triz-Oxy-Acetylene_Torch.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Oxy-Acetylene_Torch.secret|Triz-Oxy-Acetylene_Torch.secret]] 

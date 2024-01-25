@@ -41,9 +41,9 @@ markerFolder: ./Ngaraard/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngaraard.md|Ngaraard]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngaraard.internal.md|Ngaraard.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngaraard.protect.md|Ngaraard.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngaraard.private.md|Ngaraard.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngaraard.personal.md|Ngaraard.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngaraard.secret.md|Ngaraard.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngaraard.internal|Ngaraard.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngaraard.protect|Ngaraard.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngaraard.private|Ngaraard.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngaraard.personal|Ngaraard.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngaraard.secret|Ngaraard.secret]] 
 

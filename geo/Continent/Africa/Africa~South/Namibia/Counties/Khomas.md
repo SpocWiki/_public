@@ -41,9 +41,9 @@ markerFolder: ./Khomas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Khomas.md|Khomas]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Khomas.internal.md|Khomas.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Khomas.protect.md|Khomas.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Khomas.private.md|Khomas.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Khomas.personal.md|Khomas.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Khomas.secret.md|Khomas.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Khomas.internal|Khomas.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Khomas.protect|Khomas.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Khomas.private|Khomas.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Khomas.personal|Khomas.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Khomas.secret|Khomas.secret]] 
 

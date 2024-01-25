@@ -41,9 +41,9 @@ markerFolder: ./Bayelsa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Bayelsa.md|Bayelsa]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Bayelsa.internal.md|Bayelsa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Bayelsa.protect.md|Bayelsa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Bayelsa.private.md|Bayelsa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Bayelsa.personal.md|Bayelsa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Bayelsa.secret.md|Bayelsa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Bayelsa.internal|Bayelsa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Bayelsa.protect|Bayelsa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Bayelsa.private|Bayelsa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Bayelsa.personal|Bayelsa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Bayelsa.secret|Bayelsa.secret]] 
 

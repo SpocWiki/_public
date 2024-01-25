@@ -41,9 +41,9 @@ markerFolder: ./Středočeský/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.md|Středočeský]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.internal.md|Středočeský.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.protect.md|Středočeský.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.private.md|Středočeský.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.personal.md|Středočeský.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.secret.md|Středočeský.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.internal|Středočeský.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.protect|Středočeský.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.private|Středočeský.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.personal|Středočeský.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Středočeský.secret|Středočeský.secret]] 
 

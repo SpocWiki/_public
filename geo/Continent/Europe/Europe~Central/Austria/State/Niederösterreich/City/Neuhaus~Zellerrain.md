@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.md|Neuhaus~Zellerrain]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.internal.md|Neuhaus~Zellerrain.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.protect.md|Neuhaus~Zellerrain.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.private.md|Neuhaus~Zellerrain.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.personal.md|Neuhaus~Zellerrain.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.secret.md|Neuhaus~Zellerrain.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.internal|Neuhaus~Zellerrain.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.protect|Neuhaus~Zellerrain.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.private|Neuhaus~Zellerrain.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.personal|Neuhaus~Zellerrain.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.secret|Neuhaus~Zellerrain.secret]] 

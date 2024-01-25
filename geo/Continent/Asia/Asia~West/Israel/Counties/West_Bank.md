@@ -41,11 +41,11 @@ markerFolder: ./West_Bank/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.md|West_Bank]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.internal.md|West_Bank.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.protect.md|West_Bank.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.private.md|West_Bank.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.personal.md|West_Bank.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.secret.md|West_Bank.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.internal|West_Bank.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.protect|West_Bank.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.private|West_Bank.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.personal|West_Bank.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/West_Bank.secret|West_Bank.secret]] 
 
 
 ```leaflet

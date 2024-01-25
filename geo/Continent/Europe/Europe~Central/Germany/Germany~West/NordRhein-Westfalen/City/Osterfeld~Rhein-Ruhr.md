@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Osterfeld~Rhein-Ruhr|Osterfeld~Rhein-Ruhr]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.internal.md|Osterfeld~Rhein-Ruhr.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.protect.md|Osterfeld~Rhein-Ruhr.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.private.md|Osterfeld~Rhein-Ruhr.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.personal.md|Osterfeld~Rhein-Ruhr.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.secret.md|Osterfeld~Rhein-Ruhr.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.internal|Osterfeld~Rhein-Ruhr.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.protect|Osterfeld~Rhein-Ruhr.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.private|Osterfeld~Rhein-Ruhr.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.personal|Osterfeld~Rhein-Ruhr.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Osterfeld~Rhein-Ruhr.secret|Osterfeld~Rhein-Ruhr.secret]] 

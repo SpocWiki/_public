@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kurwien.md|Kurwien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kurwien.internal.md|Kurwien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kurwien.protect.md|Kurwien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kurwien.private.md|Kurwien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kurwien.personal.md|Kurwien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kurwien.secret.md|Kurwien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kurwien.internal|Kurwien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kurwien.protect|Kurwien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kurwien.private|Kurwien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kurwien.personal|Kurwien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kurwien.secret|Kurwien.secret]] 

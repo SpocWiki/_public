@@ -41,9 +41,9 @@ markerFolder: ./Torba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Torba.md|Torba]] 
-- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Torba.internal.md|Torba.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Torba.protect.md|Torba.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Torba.private.md|Torba.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Torba.personal.md|Torba.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Torba.secret.md|Torba.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Torba.internal|Torba.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Torba.protect|Torba.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Torba.private|Torba.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Torba.personal|Torba.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Torba.secret|Torba.secret]] 
 

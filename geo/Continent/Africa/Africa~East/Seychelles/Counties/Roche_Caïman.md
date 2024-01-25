@@ -41,9 +41,9 @@ markerFolder: ./Roche_Caïman/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.md|Roche_Caïman]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.internal.md|Roche_Caïman.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.protect.md|Roche_Caïman.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.private.md|Roche_Caïman.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.personal.md|Roche_Caïman.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.secret.md|Roche_Caïman.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.internal|Roche_Caïman.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.protect|Roche_Caïman.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.private|Roche_Caïman.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.personal|Roche_Caïman.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.secret|Roche_Caïman.secret]] 
 

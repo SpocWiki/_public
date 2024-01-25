@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Extraction-moving_Weight]
 [SpocWebEntityId::25946]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.md|Triz-Ease_of_operation+Extraction-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.internal.md|Triz-Ease_of_operation+Extraction-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.protect.md|Triz-Ease_of_operation+Extraction-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.private.md|Triz-Ease_of_operation+Extraction-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.personal.md|Triz-Ease_of_operation+Extraction-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.secret.md|Triz-Ease_of_operation+Extraction-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.internal|Triz-Ease_of_operation+Extraction-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.protect|Triz-Ease_of_operation+Extraction-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.private|Triz-Ease_of_operation+Extraction-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.personal|Triz-Ease_of_operation+Extraction-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-moving_Weight.secret|Triz-Ease_of_operation+Extraction-moving_Weight.secret]] 

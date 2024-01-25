@@ -41,9 +41,9 @@ markerFolder: ./Collines/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Benin/Counties/Collines.md|Collines]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Collines.internal.md|Collines.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Collines.protect.md|Collines.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Collines.private.md|Collines.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Collines.personal.md|Collines.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Collines.secret.md|Collines.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Collines.internal|Collines.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Collines.protect|Collines.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Collines.private|Collines.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Collines.personal|Collines.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Collines.secret|Collines.secret]] 
 

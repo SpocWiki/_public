@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Volgograd.md|Volgograd]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Volgograd.internal.md|Volgograd.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Volgograd.protect.md|Volgograd.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Volgograd.private.md|Volgograd.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Volgograd.personal.md|Volgograd.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Volgograd.secret.md|Volgograd.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Volgograd.internal|Volgograd.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Volgograd.protect|Volgograd.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Volgograd.private|Volgograd.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Volgograd.personal|Volgograd.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Volgograd.secret|Volgograd.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Boaco/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Boaco.md|Boaco]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Boaco.internal.md|Boaco.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Boaco.protect.md|Boaco.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Boaco.private.md|Boaco.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Boaco.personal.md|Boaco.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Boaco.secret.md|Boaco.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Boaco.internal|Boaco.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Boaco.protect|Boaco.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Boaco.private|Boaco.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Boaco.personal|Boaco.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Boaco.secret|Boaco.secret]] 
 

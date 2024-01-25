@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Losonc.md|Losonc]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Losonc.internal.md|Losonc.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Losonc.protect.md|Losonc.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Losonc.private.md|Losonc.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Losonc.personal.md|Losonc.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Losonc.secret.md|Losonc.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Losonc.internal|Losonc.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Losonc.protect|Losonc.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Losonc.private|Losonc.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Losonc.personal|Losonc.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Losonc.secret|Losonc.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.md|Freiburg~Schlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.internal.md|Freiburg~Schlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.protect.md|Freiburg~Schlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.private.md|Freiburg~Schlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.personal.md|Freiburg~Schlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.secret.md|Freiburg~Schlesien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.internal|Freiburg~Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.protect|Freiburg~Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.private|Freiburg~Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.personal|Freiburg~Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freiburg~Schlesien.secret|Freiburg~Schlesien.secret]] 

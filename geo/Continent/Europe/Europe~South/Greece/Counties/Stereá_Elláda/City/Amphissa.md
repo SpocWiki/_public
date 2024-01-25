@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Amphissa.md|Amphissa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Amphissa.internal.md|Amphissa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Amphissa.protect.md|Amphissa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Amphissa.private.md|Amphissa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Amphissa.personal.md|Amphissa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Amphissa.secret.md|Amphissa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Amphissa.internal|Amphissa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Amphissa.protect|Amphissa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Amphissa.private|Amphissa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Amphissa.personal|Amphissa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Amphissa.secret|Amphissa.secret]] 

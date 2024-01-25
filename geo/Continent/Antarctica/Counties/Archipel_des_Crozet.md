@@ -41,9 +41,9 @@ markerFolder: ./Archipel_des_Crozet/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.md|Archipel_des_Crozet]] 
-- [[../../../../_internal/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.internal.md|Archipel_des_Crozet.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.protect.md|Archipel_des_Crozet.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.private.md|Archipel_des_Crozet.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.personal.md|Archipel_des_Crozet.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.secret.md|Archipel_des_Crozet.secret]] 
+- [[../../../../_internal/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.internal|Archipel_des_Crozet.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.protect|Archipel_des_Crozet.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.private|Archipel_des_Crozet.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.personal|Archipel_des_Crozet.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/Counties/Archipel_des_Crozet.secret|Archipel_des_Crozet.secret]] 
 

@@ -38,8 +38,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Virginia.md|Virginia]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Virginia.internal.md|Virginia.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Virginia.protect.md|Virginia.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Virginia.private.md|Virginia.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Virginia.personal.md|Virginia.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Virginia.secret.md|Virginia.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Virginia.internal|Virginia.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Virginia.protect|Virginia.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Virginia.private|Virginia.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Virginia.personal|Virginia.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Virginia.secret|Virginia.secret]] 

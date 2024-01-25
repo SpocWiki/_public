@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Steinkirche.md|Steinkirche]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Steinkirche.internal.md|Steinkirche.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Steinkirche.protect.md|Steinkirche.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Steinkirche.private.md|Steinkirche.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Steinkirche.personal.md|Steinkirche.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Steinkirche.secret.md|Steinkirche.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Steinkirche.internal|Steinkirche.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Steinkirche.protect|Steinkirche.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Steinkirche.private|Steinkirche.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Steinkirche.personal|Steinkirche.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Steinkirche.secret|Steinkirche.secret]] 

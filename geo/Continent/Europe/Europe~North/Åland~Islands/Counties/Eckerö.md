@@ -41,9 +41,9 @@ markerFolder: ./Eckerö/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.md|Eckerö]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.internal.md|Eckerö.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.protect.md|Eckerö.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.private.md|Eckerö.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.personal.md|Eckerö.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.secret.md|Eckerö.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.internal|Eckerö.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.protect|Eckerö.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.private|Eckerö.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.personal|Eckerö.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Eckerö.secret|Eckerö.secret]] 
 

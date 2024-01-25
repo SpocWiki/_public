@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bad_Fusch.md|Bad_Fusch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Fusch.internal.md|Bad_Fusch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Fusch.protect.md|Bad_Fusch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Fusch.private.md|Bad_Fusch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Fusch.personal.md|Bad_Fusch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Fusch.secret.md|Bad_Fusch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Fusch.internal|Bad_Fusch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Fusch.protect|Bad_Fusch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Fusch.private|Bad_Fusch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Fusch.personal|Bad_Fusch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Fusch.secret|Bad_Fusch.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Milau.md|Milau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Milau.internal.md|Milau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Milau.protect.md|Milau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Milau.private.md|Milau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Milau.personal.md|Milau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Milau.secret.md|Milau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Milau.internal|Milau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Milau.protect|Milau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Milau.private|Milau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Milau.personal|Milau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Milau.secret|Milau.secret]] 

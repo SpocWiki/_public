@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Reole.md|Reole]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Reole.internal.md|Reole.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Reole.protect.md|Reole.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Reole.private.md|Reole.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Reole.personal.md|Reole.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Reole.secret.md|Reole.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Reole.internal|Reole.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Reole.protect|Reole.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Reole.private|Reole.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Reole.personal|Reole.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Reole.secret|Reole.secret]] 

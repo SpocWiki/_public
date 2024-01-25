@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Vesanto.md|Vesanto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Vesanto.internal.md|Vesanto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Vesanto.protect.md|Vesanto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Vesanto.private.md|Vesanto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Vesanto.personal.md|Vesanto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Vesanto.secret.md|Vesanto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Vesanto.internal|Vesanto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Vesanto.protect|Vesanto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Vesanto.private|Vesanto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Vesanto.personal|Vesanto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Vesanto.secret|Vesanto.secret]] 

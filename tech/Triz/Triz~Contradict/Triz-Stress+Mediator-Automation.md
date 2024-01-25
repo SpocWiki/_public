@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Mediator-Automation]
 [SpocWebEntityId::23704]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.md|Triz-Stress+Mediator-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.internal.md|Triz-Stress+Mediator-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.protect.md|Triz-Stress+Mediator-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.private.md|Triz-Stress+Mediator-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.personal.md|Triz-Stress+Mediator-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.secret.md|Triz-Stress+Mediator-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.internal|Triz-Stress+Mediator-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.protect|Triz-Stress+Mediator-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.private|Triz-Stress+Mediator-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.personal|Triz-Stress+Mediator-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.secret|Triz-Stress+Mediator-Automation.secret]] 

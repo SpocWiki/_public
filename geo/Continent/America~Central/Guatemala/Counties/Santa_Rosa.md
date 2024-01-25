@@ -41,9 +41,9 @@ markerFolder: ./Santa_Rosa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.md|Santa_Rosa]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.internal.md|Santa_Rosa.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.protect.md|Santa_Rosa.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.private.md|Santa_Rosa.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.personal.md|Santa_Rosa.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.secret.md|Santa_Rosa.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.internal|Santa_Rosa.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.protect|Santa_Rosa.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.private|Santa_Rosa.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.personal|Santa_Rosa.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Santa_Rosa.secret|Santa_Rosa.secret]] 
 

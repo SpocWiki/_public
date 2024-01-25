@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/City/Dili.md|Dili]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/City/Dili.internal.md|Dili.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/City/Dili.protect.md|Dili.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/City/Dili.private.md|Dili.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/City/Dili.personal.md|Dili.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/City/Dili.secret.md|Dili.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/City/Dili.internal|Dili.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/City/Dili.protect|Dili.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/City/Dili.private|Dili.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/City/Dili.personal|Dili.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/City/Dili.secret|Dili.secret]] 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Pleione.md|Pleione]] 
-- [[../../../_internal/astro/Star/Pleione.internal.md|Pleione.internal]] 
-- [[../../../_protect/astro/Star/Pleione.protect.md|Pleione.protect]] 
-- [[../../../_private/astro/Star/Pleione.private.md|Pleione.private]] 
-- [[../../../_personal/astro/Star/Pleione.personal.md|Pleione.personal]] 
-- [[../../../_secret/astro/Star/Pleione.secret.md|Pleione.secret]] 
+- [[../../../_internal/astro/Star/Pleione.internal|Pleione.internal]] 
+- [[../../../_protect/astro/Star/Pleione.protect|Pleione.protect]] 
+- [[../../../_private/astro/Star/Pleione.private|Pleione.private]] 
+- [[../../../_personal/astro/Star/Pleione.personal|Pleione.personal]] 
+- [[../../../_secret/astro/Star/Pleione.secret|Pleione.secret]] 

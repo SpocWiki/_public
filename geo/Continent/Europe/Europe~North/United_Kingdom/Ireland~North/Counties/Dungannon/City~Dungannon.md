@@ -34,7 +34,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.md|Dungannon]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.internal|Dungannon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.protect.md|Dungannon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.private.md|Dungannon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.personal.md|Dungannon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.secret.md|Dungannon.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.protect|Dungannon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.private|Dungannon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.personal|Dungannon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.secret|Dungannon.secret]] 

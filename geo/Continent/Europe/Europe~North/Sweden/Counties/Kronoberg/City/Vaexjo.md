@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaexjo.md|Vaexjo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaexjo.internal.md|Vaexjo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaexjo.protect.md|Vaexjo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaexjo.private.md|Vaexjo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaexjo.personal.md|Vaexjo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaexjo.secret.md|Vaexjo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaexjo.internal|Vaexjo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaexjo.protect|Vaexjo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaexjo.private|Vaexjo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaexjo.personal|Vaexjo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaexjo.secret|Vaexjo.secret]] 

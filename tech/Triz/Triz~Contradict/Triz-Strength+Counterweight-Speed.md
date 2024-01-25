@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Counterweight-Speed]
 [SpocWebEntityId::23977]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Counterweight]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.md|Triz-Strength+Counterweight-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.internal.md|Triz-Strength+Counterweight-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.protect.md|Triz-Strength+Counterweight-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.private.md|Triz-Strength+Counterweight-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.personal.md|Triz-Strength+Counterweight-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.secret.md|Triz-Strength+Counterweight-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.internal|Triz-Strength+Counterweight-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.protect|Triz-Strength+Counterweight-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.private|Triz-Strength+Counterweight-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.personal|Triz-Strength+Counterweight-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.secret|Triz-Strength+Counterweight-Speed.secret]] 

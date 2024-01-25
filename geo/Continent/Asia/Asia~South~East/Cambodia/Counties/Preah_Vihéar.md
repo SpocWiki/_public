@@ -41,9 +41,9 @@ markerFolder: ./Preah_Vihéar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.md|Preah_Vihéar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.internal.md|Preah_Vihéar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.protect.md|Preah_Vihéar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.private.md|Preah_Vihéar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.personal.md|Preah_Vihéar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.secret.md|Preah_Vihéar.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.internal|Preah_Vihéar.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.protect|Preah_Vihéar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.private|Preah_Vihéar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.personal|Preah_Vihéar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Preah_Vihéar.secret|Preah_Vihéar.secret]] 
 

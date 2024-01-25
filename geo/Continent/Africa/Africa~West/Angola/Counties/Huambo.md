@@ -41,9 +41,9 @@ markerFolder: ./Huambo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Huambo.md|Huambo]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Huambo.internal.md|Huambo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Huambo.protect.md|Huambo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Huambo.private.md|Huambo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Huambo.personal.md|Huambo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Huambo.secret.md|Huambo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Huambo.internal|Huambo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Huambo.protect|Huambo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Huambo.private|Huambo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Huambo.personal|Huambo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Huambo.secret|Huambo.secret]] 
 

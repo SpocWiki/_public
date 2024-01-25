@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Homogeneity-stationary_Duration]
 [SpocWebEntityId::25636]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Homogeneity]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.md|Triz-affected_harm+Homogeneity-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.internal.md|Triz-affected_harm+Homogeneity-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.protect.md|Triz-affected_harm+Homogeneity-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.private.md|Triz-affected_harm+Homogeneity-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.personal.md|Triz-affected_harm+Homogeneity-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.secret.md|Triz-affected_harm+Homogeneity-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.internal|Triz-affected_harm+Homogeneity-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.protect|Triz-affected_harm+Homogeneity-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.private|Triz-affected_harm+Homogeneity-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.personal|Triz-affected_harm+Homogeneity-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-stationary_Duration.secret|Triz-affected_harm+Homogeneity-stationary_Duration.secret]] 

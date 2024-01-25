@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Lommaryd.md|Lommaryd]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lommaryd.internal.md|Lommaryd.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lommaryd.protect.md|Lommaryd.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lommaryd.private.md|Lommaryd.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lommaryd.personal.md|Lommaryd.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lommaryd.secret.md|Lommaryd.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lommaryd.internal|Lommaryd.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lommaryd.protect|Lommaryd.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lommaryd.private|Lommaryd.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lommaryd.personal|Lommaryd.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lommaryd.secret|Lommaryd.secret]] 

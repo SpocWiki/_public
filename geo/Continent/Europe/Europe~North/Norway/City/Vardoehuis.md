@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Vardoehuis.md|Vardoehuis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Vardoehuis.internal.md|Vardoehuis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Vardoehuis.protect.md|Vardoehuis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Vardoehuis.private.md|Vardoehuis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Vardoehuis.personal.md|Vardoehuis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Vardoehuis.secret.md|Vardoehuis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Vardoehuis.internal|Vardoehuis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Vardoehuis.protect|Vardoehuis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Vardoehuis.private|Vardoehuis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Vardoehuis.personal|Vardoehuis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Vardoehuis.secret|Vardoehuis.secret]] 

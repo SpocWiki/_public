@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.md|Lentate_al_Sedveso]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.internal.md|Lentate_al_Sedveso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.protect.md|Lentate_al_Sedveso.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.private.md|Lentate_al_Sedveso.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.personal.md|Lentate_al_Sedveso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.secret.md|Lentate_al_Sedveso.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.internal|Lentate_al_Sedveso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.protect|Lentate_al_Sedveso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.private|Lentate_al_Sedveso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.personal|Lentate_al_Sedveso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.secret|Lentate_al_Sedveso.secret]] 

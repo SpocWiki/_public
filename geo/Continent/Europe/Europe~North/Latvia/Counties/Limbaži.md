@@ -41,9 +41,9 @@ markerFolder: ./Limbaži/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Limbaži.md|Limbaži]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Limbaži.internal.md|Limbaži.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Limbaži.protect.md|Limbaži.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Limbaži.private.md|Limbaži.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Limbaži.personal.md|Limbaži.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Limbaži.secret.md|Limbaži.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Limbaži.internal|Limbaži.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Limbaži.protect|Limbaži.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Limbaži.private|Limbaži.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Limbaži.personal|Limbaži.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Limbaži.secret|Limbaži.secret]] 
 

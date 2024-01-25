@@ -41,9 +41,9 @@ markerFolder: ./Lacs/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.md|Lacs]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.internal.md|Lacs.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.protect.md|Lacs.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.private.md|Lacs.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.personal.md|Lacs.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.secret.md|Lacs.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.internal|Lacs.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.protect|Lacs.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.private|Lacs.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.personal|Lacs.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.secret|Lacs.secret]] 
 

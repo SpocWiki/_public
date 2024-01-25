@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Universality-Illumination]
 [SpocWebEntityId::24855]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.md|Triz-Substance-Loss+Universality-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.internal.md|Triz-Substance-Loss+Universality-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.protect.md|Triz-Substance-Loss+Universality-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.private.md|Triz-Substance-Loss+Universality-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.personal.md|Triz-Substance-Loss+Universality-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.secret.md|Triz-Substance-Loss+Universality-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.internal|Triz-Substance-Loss+Universality-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.protect|Triz-Substance-Loss+Universality-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.private|Triz-Substance-Loss+Universality-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.personal|Triz-Substance-Loss+Universality-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.secret|Triz-Substance-Loss+Universality-Illumination.secret]] 

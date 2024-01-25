@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Combining_(Integration)-moving_Length]
 [SpocWebEntityId::25368]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle:[[Triz-Combining(Integration)]]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.md|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.internal.md|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.protect.md|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.private.md|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.personal.md|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.secret.md|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.internal|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.protect|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.private|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.personal|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.secret|Triz-Measurement_Accuracy+Combining_(Integration)-moving_Length.secret]] 

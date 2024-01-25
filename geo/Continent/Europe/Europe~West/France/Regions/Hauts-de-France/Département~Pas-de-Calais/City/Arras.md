@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Arras.md|Arras]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Arras.internal.md|Arras.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Arras.protect.md|Arras.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Arras.private.md|Arras.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Arras.personal.md|Arras.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Arras.secret.md|Arras.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Arras.internal|Arras.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Arras.protect|Arras.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Arras.private|Arras.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Arras.personal|Arras.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Arras.secret|Arras.secret]] 

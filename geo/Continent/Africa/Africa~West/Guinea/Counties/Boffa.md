@@ -41,9 +41,9 @@ markerFolder: ./Boffa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Boffa.md|Boffa]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Boffa.internal.md|Boffa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Boffa.protect.md|Boffa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Boffa.private.md|Boffa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Boffa.personal.md|Boffa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Boffa.secret.md|Boffa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Boffa.internal|Boffa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Boffa.protect|Boffa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Boffa.private|Boffa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Boffa.personal|Boffa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Boffa.secret|Boffa.secret]] 
 

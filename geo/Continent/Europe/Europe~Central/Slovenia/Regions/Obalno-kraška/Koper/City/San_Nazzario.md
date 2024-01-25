@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/San_Nazzario.md|San_Nazzario]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Nazzario.internal.md|San_Nazzario.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Nazzario.protect.md|San_Nazzario.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Nazzario.private.md|San_Nazzario.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Nazzario.personal.md|San_Nazzario.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Nazzario.secret.md|San_Nazzario.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Nazzario.internal|San_Nazzario.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Nazzario.protect|San_Nazzario.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Nazzario.private|San_Nazzario.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Nazzario.personal|San_Nazzario.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Nazzario.secret|San_Nazzario.secret]] 

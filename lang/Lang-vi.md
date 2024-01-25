@@ -20,9 +20,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/Lang-vi.md|Lang-vi]] 
-- [[../../_internal/lang/Lang-vi.internal.md|Lang-vi.internal]] 
-- [[../../_protect/lang/Lang-vi.protect.md|Lang-vi.protect]] 
-- [[../../_private/lang/Lang-vi.private.md|Lang-vi.private]] 
-- [[../../_personal/lang/Lang-vi.personal.md|Lang-vi.personal]] 
-- [[../../_secret/lang/Lang-vi.secret.md|Lang-vi.secret]]
+- [[../../_internal/lang/Lang-vi.internal|Lang-vi.internal]] 
+- [[../../_protect/lang/Lang-vi.protect|Lang-vi.protect]] 
+- [[../../_private/lang/Lang-vi.private|Lang-vi.private]] 
+- [[../../_personal/lang/Lang-vi.personal|Lang-vi.personal]] 
+- [[../../_secret/lang/Lang-vi.secret|Lang-vi.secret]]
 

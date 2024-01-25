@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility]
 [SpocWebEntityId::25217]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.internal.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.protect.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.private.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.personal.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.secret.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.internal|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.protect|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.private|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.personal|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.secret|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Versatility.secret]] 

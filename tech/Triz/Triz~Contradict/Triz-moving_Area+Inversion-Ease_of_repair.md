@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Inversion-Ease_of_repair]
 [SpocWebEntityId::23085]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.md|Triz-moving_Area+Inversion-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.internal.md|Triz-moving_Area+Inversion-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.protect.md|Triz-moving_Area+Inversion-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.private.md|Triz-moving_Area+Inversion-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.personal.md|Triz-moving_Area+Inversion-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.secret.md|Triz-moving_Area+Inversion-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.internal|Triz-moving_Area+Inversion-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.protect|Triz-moving_Area+Inversion-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.private|Triz-moving_Area+Inversion-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.personal|Triz-moving_Area+Inversion-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_repair.secret|Triz-moving_Area+Inversion-Ease_of_repair.secret]] 

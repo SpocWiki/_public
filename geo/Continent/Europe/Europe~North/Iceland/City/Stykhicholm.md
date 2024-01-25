@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Iceland/City/Stykhicholm.md|Stykhicholm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Iceland/City/Stykhicholm.internal.md|Stykhicholm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Iceland/City/Stykhicholm.protect.md|Stykhicholm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Iceland/City/Stykhicholm.private.md|Stykhicholm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Iceland/City/Stykhicholm.personal.md|Stykhicholm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Iceland/City/Stykhicholm.secret.md|Stykhicholm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Iceland/City/Stykhicholm.internal|Stykhicholm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Iceland/City/Stykhicholm.protect|Stykhicholm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Iceland/City/Stykhicholm.private|Stykhicholm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Iceland/City/Stykhicholm.personal|Stykhicholm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Iceland/City/Stykhicholm.secret|Stykhicholm.secret]] 

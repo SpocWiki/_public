@@ -41,9 +41,9 @@ markerFolder: ./Nayala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.md|Nayala]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.internal.md|Nayala.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.protect.md|Nayala.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.private.md|Nayala.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.personal.md|Nayala.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.secret.md|Nayala.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.internal|Nayala.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.protect|Nayala.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.private|Nayala.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.personal|Nayala.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Nayala.secret|Nayala.secret]] 
 

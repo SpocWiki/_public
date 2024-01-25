@@ -41,9 +41,9 @@ markerFolder: ./Bitlis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bitlis.md|Bitlis]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bitlis.internal.md|Bitlis.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bitlis.protect.md|Bitlis.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bitlis.private.md|Bitlis.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bitlis.personal.md|Bitlis.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bitlis.secret.md|Bitlis.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bitlis.internal|Bitlis.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bitlis.protect|Bitlis.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bitlis.private|Bitlis.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bitlis.personal|Bitlis.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bitlis.secret|Bitlis.secret]] 
 

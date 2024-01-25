@@ -41,9 +41,9 @@ markerFolder: ./Département~Haute-Savoie/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.md|Département~Haute-Savoie]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.internal.md|Département~Haute-Savoie.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.protect.md|Département~Haute-Savoie.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.private.md|Département~Haute-Savoie.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.personal.md|Département~Haute-Savoie.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.secret.md|Département~Haute-Savoie.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.internal|Département~Haute-Savoie.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.protect|Département~Haute-Savoie.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.private|Département~Haute-Savoie.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.personal|Département~Haute-Savoie.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Savoie.secret|Département~Haute-Savoie.secret]] 
 

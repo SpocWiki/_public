@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Varkaus.md|Varkaus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Varkaus.internal.md|Varkaus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Varkaus.protect.md|Varkaus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Varkaus.private.md|Varkaus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Varkaus.personal.md|Varkaus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Varkaus.secret.md|Varkaus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Varkaus.internal|Varkaus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Varkaus.protect|Varkaus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Varkaus.private|Varkaus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Varkaus.personal|Varkaus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Varkaus.secret|Varkaus.secret]] 

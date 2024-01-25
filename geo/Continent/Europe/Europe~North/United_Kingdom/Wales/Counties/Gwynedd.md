@@ -41,9 +41,9 @@ markerFolder: ./Gwynedd/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.md|Gwynedd]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.internal.md|Gwynedd.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.protect.md|Gwynedd.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.private.md|Gwynedd.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.personal.md|Gwynedd.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.secret.md|Gwynedd.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.internal|Gwynedd.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.protect|Gwynedd.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.private|Gwynedd.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.personal|Gwynedd.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.secret|Gwynedd.secret]] 
 

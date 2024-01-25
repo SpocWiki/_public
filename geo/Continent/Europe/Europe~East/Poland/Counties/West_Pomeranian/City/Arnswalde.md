@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Arnswalde.md|Arnswalde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Arnswalde.internal.md|Arnswalde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Arnswalde.protect.md|Arnswalde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Arnswalde.private.md|Arnswalde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Arnswalde.personal.md|Arnswalde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Arnswalde.secret.md|Arnswalde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Arnswalde.internal|Arnswalde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Arnswalde.protect|Arnswalde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Arnswalde.private|Arnswalde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Arnswalde.personal|Arnswalde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Arnswalde.secret|Arnswalde.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Attapu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.md|Attapu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.internal.md|Attapu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.protect.md|Attapu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.private.md|Attapu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.personal.md|Attapu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.secret.md|Attapu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.internal|Attapu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.protect|Attapu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.private|Attapu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.personal|Attapu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Attapu.secret|Attapu.secret]] 
 

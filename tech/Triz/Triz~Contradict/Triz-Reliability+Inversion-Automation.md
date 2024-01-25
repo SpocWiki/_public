@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Inversion-Automation]
 [SpocWebEntityId::25352]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.md|Triz-Reliability+Inversion-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.internal.md|Triz-Reliability+Inversion-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.protect.md|Triz-Reliability+Inversion-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.private.md|Triz-Reliability+Inversion-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.personal.md|Triz-Reliability+Inversion-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.secret.md|Triz-Reliability+Inversion-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.internal|Triz-Reliability+Inversion-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.protect|Triz-Reliability+Inversion-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.private|Triz-Reliability+Inversion-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.personal|Triz-Reliability+Inversion-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.secret|Triz-Reliability+Inversion-Automation.secret]] 

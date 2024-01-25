@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Obdorsk.md|Obdorsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Obdorsk.internal.md|Obdorsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Obdorsk.protect.md|Obdorsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Obdorsk.private.md|Obdorsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Obdorsk.personal.md|Obdorsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Obdorsk.secret.md|Obdorsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Obdorsk.internal|Obdorsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Obdorsk.protect|Obdorsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Obdorsk.private|Obdorsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Obdorsk.personal|Obdorsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Obdorsk.secret|Obdorsk.secret]] 

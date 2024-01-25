@@ -41,9 +41,9 @@ markerFolder: ./Galguduud/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Galguduud.md|Galguduud]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Galguduud.internal.md|Galguduud.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Galguduud.protect.md|Galguduud.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Galguduud.private.md|Galguduud.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Galguduud.personal.md|Galguduud.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Galguduud.secret.md|Galguduud.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Galguduud.internal|Galguduud.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Galguduud.protect|Galguduud.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Galguduud.private|Galguduud.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Galguduud.personal|Galguduud.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Galguduud.secret|Galguduud.secret]] 
 

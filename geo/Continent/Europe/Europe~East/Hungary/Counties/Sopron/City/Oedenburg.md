@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Oedenburg.md|Oedenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Oedenburg.internal.md|Oedenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Oedenburg.protect.md|Oedenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Oedenburg.private.md|Oedenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Oedenburg.personal.md|Oedenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Oedenburg.secret.md|Oedenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Oedenburg.internal|Oedenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Oedenburg.protect|Oedenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Oedenburg.private|Oedenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Oedenburg.personal|Oedenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Oedenburg.secret|Oedenburg.secret]] 

@@ -132,8 +132,8 @@ markerFolder: ./Kiribati/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Kiribati.md|Kiribati]] 
-- [[../../../../_internal/geo/Continent/Oceania/Kiribati.internal.md|Kiribati.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Kiribati.protect.md|Kiribati.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Kiribati.private.md|Kiribati.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Kiribati.personal.md|Kiribati.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Kiribati.secret.md|Kiribati.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Kiribati.internal|Kiribati.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Kiribati.protect|Kiribati.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Kiribati.private|Kiribati.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Kiribati.personal|Kiribati.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Kiribati.secret|Kiribati.secret]] 

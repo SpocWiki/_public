@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Petworth.md|Petworth]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Petworth.internal.md|Petworth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Petworth.protect.md|Petworth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Petworth.private.md|Petworth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Petworth.personal.md|Petworth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Petworth.secret.md|Petworth.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Petworth.internal|Petworth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Petworth.protect|Petworth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Petworth.private|Petworth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Petworth.personal|Petworth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Petworth.secret|Petworth.secret]] 

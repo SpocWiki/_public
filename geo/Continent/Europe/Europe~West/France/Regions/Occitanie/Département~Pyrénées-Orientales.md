@@ -41,9 +41,9 @@ markerFolder: ./Département~Pyrénées-Orientales/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.md|Département~Pyrénées-Orientales]] 
-- [[../../../../_internal/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.internal.md|Département~Pyrénées-Orientales.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.protect.md|Département~Pyrénées-Orientales.protect]] 
-- [[../../../../_private/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.private.md|Département~Pyrénées-Orientales.private]] 
-- [[../../../../_personal/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.personal.md|Département~Pyrénées-Orientales.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.secret.md|Département~Pyrénées-Orientales.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.internal|Département~Pyrénées-Orientales.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.protect|Département~Pyrénées-Orientales.protect]] 
+- [[../../../../_private/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.private|Département~Pyrénées-Orientales.private]] 
+- [[../../../../_personal/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.personal|Département~Pyrénées-Orientales.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.secret|Département~Pyrénées-Orientales.secret]] 
 

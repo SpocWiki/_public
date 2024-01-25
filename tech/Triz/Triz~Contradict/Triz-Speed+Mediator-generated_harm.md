@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Mediator-generated_harm]
 [SpocWebEntityId::23449]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.md|Triz-Speed+Mediator-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.internal.md|Triz-Speed+Mediator-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.protect.md|Triz-Speed+Mediator-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.private.md|Triz-Speed+Mediator-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.personal.md|Triz-Speed+Mediator-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.secret.md|Triz-Speed+Mediator-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.internal|Triz-Speed+Mediator-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.protect|Triz-Speed+Mediator-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.private|Triz-Speed+Mediator-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.personal|Triz-Speed+Mediator-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.secret|Triz-Speed+Mediator-generated_harm.secret]] 

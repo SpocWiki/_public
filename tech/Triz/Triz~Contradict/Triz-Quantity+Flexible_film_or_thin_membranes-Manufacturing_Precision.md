@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision]
 [SpocWebEntityId::25194]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.md|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.internal.md|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.protect.md|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.private.md|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.personal.md|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.secret.md|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.internal|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.protect|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.private|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.personal|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.secret|Triz-Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision.secret]] 

@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Schwalbach~Taunus_Limes|S-Schwalbach~Taunus_Limes]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.internal.md|S-Schwalbach~Taunus_Limes.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.protect.md|S-Schwalbach~Taunus_Limes.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.private.md|S-Schwalbach~Taunus_Limes.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.personal.md|S-Schwalbach~Taunus_Limes.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.secret.md|S-Schwalbach~Taunus_Limes.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.internal|S-Schwalbach~Taunus_Limes.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.protect|S-Schwalbach~Taunus_Limes.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.private|S-Schwalbach~Taunus_Limes.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.personal|S-Schwalbach~Taunus_Limes.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.secret|S-Schwalbach~Taunus_Limes.secret]] 

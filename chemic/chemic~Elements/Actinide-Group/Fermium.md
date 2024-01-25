@@ -35,8 +35,8 @@ SpocWebEntityId: 21995
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Actinide-Group/Fermium.md|Fermium]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Fermium.internal.md|Fermium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Fermium.protect.md|Fermium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Fermium.private.md|Fermium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Fermium.personal.md|Fermium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Fermium.secret.md|Fermium.secret]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Fermium.internal|Fermium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Fermium.protect|Fermium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Fermium.private|Fermium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Fermium.personal|Fermium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Fermium.secret|Fermium.secret]] 

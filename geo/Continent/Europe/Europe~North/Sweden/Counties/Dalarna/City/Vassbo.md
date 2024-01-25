@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vassbo.md|Vassbo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vassbo.internal.md|Vassbo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vassbo.protect.md|Vassbo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vassbo.private.md|Vassbo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vassbo.personal.md|Vassbo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vassbo.secret.md|Vassbo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vassbo.internal|Vassbo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vassbo.protect|Vassbo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vassbo.private|Vassbo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vassbo.personal|Vassbo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vassbo.secret|Vassbo.secret]] 

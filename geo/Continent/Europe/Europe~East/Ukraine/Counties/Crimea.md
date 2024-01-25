@@ -41,9 +41,9 @@ markerFolder: ./Crimea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Crimea.md|Crimea]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Crimea.internal.md|Crimea.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Crimea.protect.md|Crimea.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Crimea.private.md|Crimea.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Crimea.personal.md|Crimea.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Crimea.secret.md|Crimea.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Crimea.internal|Crimea.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Crimea.protect|Crimea.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Crimea.private|Crimea.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Crimea.personal|Crimea.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Crimea.secret|Crimea.secret]] 
 

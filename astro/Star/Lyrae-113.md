@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Lyrae-113.md|Lyrae-113]] 
-- [[../../../_internal/astro/Star/Lyrae-113.internal.md|Lyrae-113.internal]] 
-- [[../../../_protect/astro/Star/Lyrae-113.protect.md|Lyrae-113.protect]] 
-- [[../../../_private/astro/Star/Lyrae-113.private.md|Lyrae-113.private]] 
-- [[../../../_personal/astro/Star/Lyrae-113.personal.md|Lyrae-113.personal]] 
-- [[../../../_secret/astro/Star/Lyrae-113.secret.md|Lyrae-113.secret]] 
+- [[../../../_internal/astro/Star/Lyrae-113.internal|Lyrae-113.internal]] 
+- [[../../../_protect/astro/Star/Lyrae-113.protect|Lyrae-113.protect]] 
+- [[../../../_private/astro/Star/Lyrae-113.private|Lyrae-113.private]] 
+- [[../../../_personal/astro/Star/Lyrae-113.personal|Lyrae-113.personal]] 
+- [[../../../_secret/astro/Star/Lyrae-113.secret|Lyrae-113.secret]] 

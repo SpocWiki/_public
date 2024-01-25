@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Sverdlovsk_Oblast|State~Sverdlovsk_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.internal|State~Sverdlovsk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.protect.md|State~Sverdlovsk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.private.md|State~Sverdlovsk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.personal.md|State~Sverdlovsk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.secret.md|State~Sverdlovsk_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.protect|State~Sverdlovsk_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.private|State~Sverdlovsk_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.personal|State~Sverdlovsk_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Sverdlovsk_Oblast.secret|State~Sverdlovsk_Oblast.secret]] 

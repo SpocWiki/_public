@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/India/City/Porbandar.md|Porbandar]] 
-- [[../../../../../../_internal/geo/Continent/Asia/India/City/Porbandar.internal.md|Porbandar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/India/City/Porbandar.protect.md|Porbandar.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/India/City/Porbandar.private.md|Porbandar.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/India/City/Porbandar.personal.md|Porbandar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/India/City/Porbandar.secret.md|Porbandar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Porbandar.internal|Porbandar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Porbandar.protect|Porbandar.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Porbandar.private|Porbandar.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Porbandar.personal|Porbandar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Porbandar.secret|Porbandar.secret]] 

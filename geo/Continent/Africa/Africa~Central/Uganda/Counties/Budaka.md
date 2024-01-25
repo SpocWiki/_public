@@ -41,9 +41,9 @@ markerFolder: ./Budaka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Budaka.md|Budaka]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Budaka.internal.md|Budaka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Budaka.protect.md|Budaka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Budaka.private.md|Budaka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Budaka.personal.md|Budaka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Budaka.secret.md|Budaka.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Budaka.internal|Budaka.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Budaka.protect|Budaka.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Budaka.private|Budaka.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Budaka.personal|Budaka.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Budaka.secret|Budaka.secret]] 
 

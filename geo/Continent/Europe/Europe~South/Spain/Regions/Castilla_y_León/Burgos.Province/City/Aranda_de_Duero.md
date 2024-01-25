@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Aranda_de_Duero.md|Aranda_de_Duero]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Aranda_de_Duero.internal.md|Aranda_de_Duero.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Aranda_de_Duero.protect.md|Aranda_de_Duero.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Aranda_de_Duero.private.md|Aranda_de_Duero.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Aranda_de_Duero.personal.md|Aranda_de_Duero.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Aranda_de_Duero.secret.md|Aranda_de_Duero.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Aranda_de_Duero.internal|Aranda_de_Duero.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Aranda_de_Duero.protect|Aranda_de_Duero.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Aranda_de_Duero.private|Aranda_de_Duero.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Aranda_de_Duero.personal|Aranda_de_Duero.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Aranda_de_Duero.secret|Aranda_de_Duero.secret]] 

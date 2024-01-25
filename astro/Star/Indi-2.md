@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Indi-2.md|Indi-2]] 
-- [[../../../_internal/astro/Star/Indi-2.internal.md|Indi-2.internal]] 
-- [[../../../_protect/astro/Star/Indi-2.protect.md|Indi-2.protect]] 
-- [[../../../_private/astro/Star/Indi-2.private.md|Indi-2.private]] 
-- [[../../../_personal/astro/Star/Indi-2.personal.md|Indi-2.personal]] 
-- [[../../../_secret/astro/Star/Indi-2.secret.md|Indi-2.secret]]
+- [[../../../_internal/astro/Star/Indi-2.internal|Indi-2.internal]] 
+- [[../../../_protect/astro/Star/Indi-2.protect|Indi-2.protect]] 
+- [[../../../_private/astro/Star/Indi-2.private|Indi-2.private]] 
+- [[../../../_personal/astro/Star/Indi-2.personal|Indi-2.personal]] 
+- [[../../../_secret/astro/Star/Indi-2.secret|Indi-2.secret]]
 

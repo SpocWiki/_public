@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Serpentis-3.md|Serpentis-3]] 
-- [[../../../_internal/astro/Star/Serpentis-3.internal.md|Serpentis-3.internal]] 
-- [[../../../_protect/astro/Star/Serpentis-3.protect.md|Serpentis-3.protect]] 
-- [[../../../_private/astro/Star/Serpentis-3.private.md|Serpentis-3.private]] 
-- [[../../../_personal/astro/Star/Serpentis-3.personal.md|Serpentis-3.personal]] 
-- [[../../../_secret/astro/Star/Serpentis-3.secret.md|Serpentis-3.secret]] 
+- [[../../../_internal/astro/Star/Serpentis-3.internal|Serpentis-3.internal]] 
+- [[../../../_protect/astro/Star/Serpentis-3.protect|Serpentis-3.protect]] 
+- [[../../../_private/astro/Star/Serpentis-3.private|Serpentis-3.private]] 
+- [[../../../_personal/astro/Star/Serpentis-3.personal|Serpentis-3.personal]] 
+- [[../../../_secret/astro/Star/Serpentis-3.secret|Serpentis-3.secret]] 

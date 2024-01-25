@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Andromedae-151.md|Andromedae-151]] 
-- [[../../../_internal/astro/Star/Andromedae-151.internal.md|Andromedae-151.internal]] 
-- [[../../../_protect/astro/Star/Andromedae-151.protect.md|Andromedae-151.protect]] 
-- [[../../../_private/astro/Star/Andromedae-151.private.md|Andromedae-151.private]] 
-- [[../../../_personal/astro/Star/Andromedae-151.personal.md|Andromedae-151.personal]] 
-- [[../../../_secret/astro/Star/Andromedae-151.secret.md|Andromedae-151.secret]]
+- [[../../../_internal/astro/Star/Andromedae-151.internal|Andromedae-151.internal]] 
+- [[../../../_protect/astro/Star/Andromedae-151.protect|Andromedae-151.protect]] 
+- [[../../../_private/astro/Star/Andromedae-151.private|Andromedae-151.private]] 
+- [[../../../_personal/astro/Star/Andromedae-151.personal|Andromedae-151.personal]] 
+- [[../../../_secret/astro/Star/Andromedae-151.secret|Andromedae-151.secret]]
 

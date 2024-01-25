@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Kappeln~Schleswig|Kappeln~Schleswig]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.internal.md|Kappeln~Schleswig.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.protect.md|Kappeln~Schleswig.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.private.md|Kappeln~Schleswig.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.personal.md|Kappeln~Schleswig.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.secret.md|Kappeln~Schleswig.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.internal|Kappeln~Schleswig.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.protect|Kappeln~Schleswig.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.private|Kappeln~Schleswig.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.personal|Kappeln~Schleswig.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.secret|Kappeln~Schleswig.secret]] 

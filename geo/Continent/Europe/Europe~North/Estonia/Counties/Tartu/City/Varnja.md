@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Varnja.md|Varnja]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Varnja.internal.md|Varnja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Varnja.protect.md|Varnja.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Varnja.private.md|Varnja.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Varnja.personal.md|Varnja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Varnja.secret.md|Varnja.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Varnja.internal|Varnja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Varnja.protect|Varnja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Varnja.private|Varnja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Varnja.personal|Varnja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Varnja.secret|Varnja.secret]] 

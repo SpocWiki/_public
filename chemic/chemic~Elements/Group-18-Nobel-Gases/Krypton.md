@@ -36,8 +36,8 @@ SpocWebEntityId: 21934
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Krypton.md|Krypton]] 
-- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Krypton.internal.md|Krypton.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Krypton.protect.md|Krypton.protect]] 
-- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Krypton.private.md|Krypton.private]] 
-- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Krypton.personal.md|Krypton.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Krypton.secret.md|Krypton.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Krypton.internal|Krypton.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Krypton.protect|Krypton.protect]] 
+- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Krypton.private|Krypton.private]] 
+- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Krypton.personal|Krypton.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Krypton.secret|Krypton.secret]] 

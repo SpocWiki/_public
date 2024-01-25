@@ -41,9 +41,9 @@ markerFolder: ./East_Azarbaijan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.md|East_Azarbaijan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.internal.md|East_Azarbaijan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.protect.md|East_Azarbaijan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.private.md|East_Azarbaijan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.personal.md|East_Azarbaijan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.secret.md|East_Azarbaijan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.internal|East_Azarbaijan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.protect|East_Azarbaijan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.private|East_Azarbaijan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.personal|East_Azarbaijan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/East_Azarbaijan.secret|East_Azarbaijan.secret]] 
 

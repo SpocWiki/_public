@@ -41,9 +41,9 @@ markerFolder: ./Département~Sarthe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.md|Département~Sarthe]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.internal.md|Département~Sarthe.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.protect.md|Département~Sarthe.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.private.md|Département~Sarthe.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.personal.md|Département~Sarthe.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.secret.md|Département~Sarthe.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.internal|Département~Sarthe.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.protect|Département~Sarthe.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.private|Département~Sarthe.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.personal|Département~Sarthe.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Sarthe.secret|Département~Sarthe.secret]] 
 

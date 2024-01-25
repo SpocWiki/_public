@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Werniji.md|Werniji]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Werniji.internal.md|Werniji.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Werniji.protect.md|Werniji.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Werniji.private.md|Werniji.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Werniji.personal.md|Werniji.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Werniji.secret.md|Werniji.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Werniji.internal|Werniji.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Werniji.protect|Werniji.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Werniji.private|Werniji.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Werniji.personal|Werniji.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Werniji.secret|Werniji.secret]] 

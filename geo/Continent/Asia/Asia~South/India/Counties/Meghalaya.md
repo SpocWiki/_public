@@ -41,9 +41,9 @@ markerFolder: ./Meghalaya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.md|Meghalaya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.internal.md|Meghalaya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.protect.md|Meghalaya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.private.md|Meghalaya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.personal.md|Meghalaya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.secret.md|Meghalaya.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.internal|Meghalaya.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.protect|Meghalaya.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.private|Meghalaya.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.personal|Meghalaya.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.secret|Meghalaya.secret]] 
 

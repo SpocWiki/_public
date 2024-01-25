@@ -36,8 +36,8 @@ SpocWebEntityId: 21978
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Bismuth.md|Bismuth]] 
-- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Bismuth.internal.md|Bismuth.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Bismuth.protect.md|Bismuth.protect]] 
-- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Bismuth.private.md|Bismuth.private]] 
-- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Bismuth.personal.md|Bismuth.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Bismuth.secret.md|Bismuth.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Bismuth.internal|Bismuth.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Bismuth.protect|Bismuth.protect]] 
+- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Bismuth.private|Bismuth.private]] 
+- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Bismuth.personal|Bismuth.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Bismuth.secret|Bismuth.secret]] 

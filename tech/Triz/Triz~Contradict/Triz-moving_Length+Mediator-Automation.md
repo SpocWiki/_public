@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Mediator-Automation]
 [SpocWebEntityId::22910]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.md|Triz-moving_Length+Mediator-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.internal.md|Triz-moving_Length+Mediator-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.protect.md|Triz-moving_Length+Mediator-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.private.md|Triz-moving_Length+Mediator-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.personal.md|Triz-moving_Length+Mediator-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.secret.md|Triz-moving_Length+Mediator-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.internal|Triz-moving_Length+Mediator-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.protect|Triz-moving_Length+Mediator-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.private|Triz-moving_Length+Mediator-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.personal|Triz-moving_Length+Mediator-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.secret|Triz-moving_Length+Mediator-Automation.secret]] 

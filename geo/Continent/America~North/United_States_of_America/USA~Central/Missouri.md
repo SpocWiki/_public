@@ -36,8 +36,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Missouri.md|Missouri]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri.internal.md|Missouri.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri.protect.md|Missouri.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri.private.md|Missouri.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri.personal.md|Missouri.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri.secret.md|Missouri.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri.internal|Missouri.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri.protect|Missouri.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri.private|Missouri.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri.personal|Missouri.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri.secret|Missouri.secret]] 

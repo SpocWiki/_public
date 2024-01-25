@@ -41,9 +41,9 @@ markerFolder: ./El_Oro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/El_Oro.md|El_Oro]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/El_Oro.internal.md|El_Oro.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/El_Oro.protect.md|El_Oro.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/El_Oro.private.md|El_Oro.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/El_Oro.personal.md|El_Oro.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/El_Oro.secret.md|El_Oro.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/El_Oro.internal|El_Oro.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/El_Oro.protect|El_Oro.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/El_Oro.private|El_Oro.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/El_Oro.personal|El_Oro.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/El_Oro.secret|El_Oro.secret]] 
 

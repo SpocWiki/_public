@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Copying-generated_harm]
 [SpocWebEntityId::25335]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-generated_harm]]]
+- [#has_/Cons :: [[Triz-generated_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.md|Triz-Reliability+Copying-generated_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.internal.md|Triz-Reliability+Copying-generated_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.protect.md|Triz-Reliability+Copying-generated_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.private.md|Triz-Reliability+Copying-generated_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.personal.md|Triz-Reliability+Copying-generated_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.secret.md|Triz-Reliability+Copying-generated_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.internal|Triz-Reliability+Copying-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.protect|Triz-Reliability+Copying-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.private|Triz-Reliability+Copying-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.personal|Triz-Reliability+Copying-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.secret|Triz-Reliability+Copying-generated_harm.secret]] 

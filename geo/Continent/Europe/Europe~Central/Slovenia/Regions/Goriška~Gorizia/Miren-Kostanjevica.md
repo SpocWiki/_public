@@ -41,9 +41,9 @@ markerFolder: ./Miren-Kostanjevica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.md|Miren-Kostanjevica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.internal.md|Miren-Kostanjevica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.protect.md|Miren-Kostanjevica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.private.md|Miren-Kostanjevica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.personal.md|Miren-Kostanjevica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.secret.md|Miren-Kostanjevica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.internal|Miren-Kostanjevica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.protect|Miren-Kostanjevica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.private|Miren-Kostanjevica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.personal|Miren-Kostanjevica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Miren-Kostanjevica.secret|Miren-Kostanjevica.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Mirecourt.md|Mirecourt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mirecourt.internal.md|Mirecourt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mirecourt.protect.md|Mirecourt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Mirecourt.private.md|Mirecourt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mirecourt.personal.md|Mirecourt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mirecourt.secret.md|Mirecourt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mirecourt.internal|Mirecourt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mirecourt.protect|Mirecourt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mirecourt.private|Mirecourt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mirecourt.personal|Mirecourt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mirecourt.secret|Mirecourt.secret]] 

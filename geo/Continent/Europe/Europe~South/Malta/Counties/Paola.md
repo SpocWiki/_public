@@ -41,9 +41,9 @@ markerFolder: ./Paola/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Paola.md|Paola]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Paola.internal.md|Paola.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Paola.protect.md|Paola.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Paola.private.md|Paola.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Paola.personal.md|Paola.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Paola.secret.md|Paola.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Paola.internal|Paola.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Paola.protect|Paola.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Paola.private|Paola.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Paola.personal|Paola.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Paola.secret|Paola.secret]] 
 

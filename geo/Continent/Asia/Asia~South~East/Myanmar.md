@@ -131,7 +131,7 @@ markerFolder: ./Myanmar/
 ## Confidential Links & Embeds: 
 -[[Myanmar|Myanmar]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Myanmar.internal|Myanmar.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Myanmar.protect.md|Myanmar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Myanmar.private.md|Myanmar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Myanmar.personal.md|Myanmar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Myanmar.secret.md|Myanmar.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Myanmar.protect|Myanmar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Myanmar.private|Myanmar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Myanmar.personal|Myanmar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Myanmar.secret|Myanmar.secret]] 

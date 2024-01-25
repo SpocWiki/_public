@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Klagenfurt.md|Klagenfurt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Klagenfurt.internal.md|Klagenfurt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Klagenfurt.protect.md|Klagenfurt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Klagenfurt.private.md|Klagenfurt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Klagenfurt.personal.md|Klagenfurt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Klagenfurt.secret.md|Klagenfurt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Klagenfurt.internal|Klagenfurt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Klagenfurt.protect|Klagenfurt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Klagenfurt.private|Klagenfurt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Klagenfurt.personal|Klagenfurt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Klagenfurt.secret|Klagenfurt.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Inversion-Illumination]
 [SpocWebEntityId::26342]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.md|Triz-Complexity+Inversion-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.internal.md|Triz-Complexity+Inversion-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.protect.md|Triz-Complexity+Inversion-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.private.md|Triz-Complexity+Inversion-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.personal.md|Triz-Complexity+Inversion-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.secret.md|Triz-Complexity+Inversion-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.internal|Triz-Complexity+Inversion-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.protect|Triz-Complexity+Inversion-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.private|Triz-Complexity+Inversion-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.personal|Triz-Complexity+Inversion-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Illumination.secret|Triz-Complexity+Inversion-Illumination.secret]] 

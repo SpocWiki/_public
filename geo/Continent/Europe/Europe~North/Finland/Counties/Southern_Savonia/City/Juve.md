@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Juve.md|Juve]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Juve.internal.md|Juve.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Juve.protect.md|Juve.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Juve.private.md|Juve.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Juve.personal.md|Juve.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Juve.secret.md|Juve.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Juve.internal|Juve.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Juve.protect|Juve.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Juve.private|Juve.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Juve.personal|Juve.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Juve.secret|Juve.secret]] 

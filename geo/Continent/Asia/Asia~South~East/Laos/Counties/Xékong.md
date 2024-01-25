@@ -41,9 +41,9 @@ markerFolder: ./Xékong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.md|Xékong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.internal.md|Xékong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.protect.md|Xékong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.private.md|Xékong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.personal.md|Xékong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.secret.md|Xékong.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.internal|Xékong.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.protect|Xékong.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.private|Xékong.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.personal|Xékong.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.secret|Xékong.secret]] 
 

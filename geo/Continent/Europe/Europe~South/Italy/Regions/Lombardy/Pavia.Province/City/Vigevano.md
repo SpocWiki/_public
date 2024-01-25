@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Vigevano.md|Vigevano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vigevano.internal.md|Vigevano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vigevano.protect.md|Vigevano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vigevano.private.md|Vigevano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vigevano.personal.md|Vigevano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vigevano.secret.md|Vigevano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vigevano.internal|Vigevano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vigevano.protect|Vigevano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vigevano.private|Vigevano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vigevano.personal|Vigevano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vigevano.secret|Vigevano.secret]] 

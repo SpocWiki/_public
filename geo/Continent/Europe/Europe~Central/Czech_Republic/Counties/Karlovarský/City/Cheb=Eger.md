@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.md|Cheb=Eger]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.internal.md|Cheb=Eger.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.protect.md|Cheb=Eger.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.private.md|Cheb=Eger.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.personal.md|Cheb=Eger.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.secret.md|Cheb=Eger.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.internal|Cheb=Eger.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.protect|Cheb=Eger.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.private|Cheb=Eger.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.personal|Cheb=Eger.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.secret|Cheb=Eger.secret]] 

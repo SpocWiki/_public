@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Colljure.md|Colljure]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Colljure.internal.md|Colljure.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Colljure.protect.md|Colljure.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Colljure.private.md|Colljure.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Colljure.personal.md|Colljure.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Colljure.secret.md|Colljure.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Colljure.internal|Colljure.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Colljure.protect|Colljure.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Colljure.private|Colljure.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Colljure.personal|Colljure.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Colljure.secret|Colljure.secret]] 

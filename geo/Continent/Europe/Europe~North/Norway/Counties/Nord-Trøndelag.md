@@ -41,9 +41,9 @@ markerFolder: ./Nord-Trøndelag/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.md|Nord-Trøndelag]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.internal.md|Nord-Trøndelag.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.protect.md|Nord-Trøndelag.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.private.md|Nord-Trøndelag.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.personal.md|Nord-Trøndelag.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.secret.md|Nord-Trøndelag.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.internal|Nord-Trøndelag.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.protect|Nord-Trøndelag.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.private|Nord-Trøndelag.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.personal|Nord-Trøndelag.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Nord-Trøndelag.secret|Nord-Trøndelag.secret]] 
 

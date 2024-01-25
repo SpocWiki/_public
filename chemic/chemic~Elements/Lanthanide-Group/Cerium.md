@@ -39,8 +39,8 @@ SpocWebEntityId: 21954
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Cerium.md|Cerium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Cerium.internal.md|Cerium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Cerium.protect.md|Cerium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Cerium.private.md|Cerium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Cerium.personal.md|Cerium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Cerium.secret.md|Cerium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Cerium.internal|Cerium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Cerium.protect|Cerium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Cerium.private|Cerium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Cerium.personal|Cerium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Cerium.secret|Cerium.secret]] 

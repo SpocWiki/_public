@@ -41,9 +41,9 @@ markerFolder: ./Reggio_Emilia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.md|Reggio_Emilia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.internal.md|Reggio_Emilia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.protect.md|Reggio_Emilia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.private.md|Reggio_Emilia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.personal.md|Reggio_Emilia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.secret.md|Reggio_Emilia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.internal|Reggio_Emilia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.protect|Reggio_Emilia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.private|Reggio_Emilia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.personal|Reggio_Emilia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Emilia-Romagna/Reggio_Emilia.Province.secret|Reggio_Emilia.Province.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Kütahya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kütahya.md|Kütahya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kütahya.internal.md|Kütahya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kütahya.protect.md|Kütahya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kütahya.private.md|Kütahya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kütahya.personal.md|Kütahya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kütahya.secret.md|Kütahya.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kütahya.internal|Kütahya.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kütahya.protect|Kütahya.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kütahya.private|Kütahya.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kütahya.personal|Kütahya.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kütahya.secret|Kütahya.secret]] 
 

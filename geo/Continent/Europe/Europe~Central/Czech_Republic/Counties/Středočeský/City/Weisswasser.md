@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Weisswasser.md|Weisswasser]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Weisswasser.internal.md|Weisswasser.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Weisswasser.protect.md|Weisswasser.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Weisswasser.private.md|Weisswasser.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Weisswasser.personal.md|Weisswasser.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Weisswasser.secret.md|Weisswasser.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Weisswasser.internal|Weisswasser.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Weisswasser.protect|Weisswasser.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Weisswasser.private|Weisswasser.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Weisswasser.personal|Weisswasser.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Weisswasser.secret|Weisswasser.secret]] 

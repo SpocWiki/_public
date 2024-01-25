@@ -41,9 +41,9 @@ markerFolder: ./Dobrova-Polhov_Gradec/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.md|Dobrova-Polhov_Gradec]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.internal.md|Dobrova-Polhov_Gradec.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.protect.md|Dobrova-Polhov_Gradec.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.private.md|Dobrova-Polhov_Gradec.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.personal.md|Dobrova-Polhov_Gradec.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.secret.md|Dobrova-Polhov_Gradec.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.internal|Dobrova-Polhov_Gradec.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.protect|Dobrova-Polhov_Gradec.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.private|Dobrova-Polhov_Gradec.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.personal|Dobrova-Polhov_Gradec.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dobrova-Polhov_Gradec.secret|Dobrova-Polhov_Gradec.secret]] 
 

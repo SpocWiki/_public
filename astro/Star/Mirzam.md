@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Mirzam.md|Mirzam]] 
-- [[../../../_internal/astro/Star/Mirzam.internal.md|Mirzam.internal]] 
-- [[../../../_protect/astro/Star/Mirzam.protect.md|Mirzam.protect]] 
-- [[../../../_private/astro/Star/Mirzam.private.md|Mirzam.private]] 
-- [[../../../_personal/astro/Star/Mirzam.personal.md|Mirzam.personal]] 
-- [[../../../_secret/astro/Star/Mirzam.secret.md|Mirzam.secret]] 
+- [[../../../_internal/astro/Star/Mirzam.internal|Mirzam.internal]] 
+- [[../../../_protect/astro/Star/Mirzam.protect|Mirzam.protect]] 
+- [[../../../_private/astro/Star/Mirzam.private|Mirzam.private]] 
+- [[../../../_personal/astro/Star/Mirzam.personal|Mirzam.personal]] 
+- [[../../../_secret/astro/Star/Mirzam.secret|Mirzam.secret]] 

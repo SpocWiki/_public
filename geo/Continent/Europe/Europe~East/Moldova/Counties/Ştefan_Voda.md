@@ -41,9 +41,9 @@ markerFolder: ./Ştefan_Voda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.md|Ştefan_Voda]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.internal.md|Ştefan_Voda.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.protect.md|Ştefan_Voda.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.private.md|Ştefan_Voda.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.personal.md|Ştefan_Voda.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.secret.md|Ştefan_Voda.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.internal|Ştefan_Voda.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.protect|Ştefan_Voda.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.private|Ştefan_Voda.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.personal|Ştefan_Voda.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ştefan_Voda.secret|Ştefan_Voda.secret]] 
 

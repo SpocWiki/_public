@@ -28,8 +28,8 @@ Use harmful factors (particularly, harmful effects of the environment or surroun
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-accept-harm.md|Triz-accept-harm]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-accept-harm.internal.md|Triz-accept-harm.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-accept-harm.protect.md|Triz-accept-harm.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-accept-harm.private.md|Triz-accept-harm.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-accept-harm.personal.md|Triz-accept-harm.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-accept-harm.secret.md|Triz-accept-harm.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-accept-harm.internal|Triz-accept-harm.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-accept-harm.protect|Triz-accept-harm.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-accept-harm.private|Triz-accept-harm.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-accept-harm.personal|Triz-accept-harm.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-accept-harm.secret|Triz-accept-harm.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss]
 [SpocWebEntityId::22857]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret]] 

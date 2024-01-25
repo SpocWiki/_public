@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sparavalle.md|Sparavalle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sparavalle.internal.md|Sparavalle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sparavalle.protect.md|Sparavalle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sparavalle.private.md|Sparavalle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sparavalle.personal.md|Sparavalle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sparavalle.secret.md|Sparavalle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sparavalle.internal|Sparavalle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sparavalle.protect|Sparavalle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sparavalle.private|Sparavalle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sparavalle.personal|Sparavalle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sparavalle.secret|Sparavalle.secret]] 

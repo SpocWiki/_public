@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Holbaek.md|Holbaek]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Holbaek.internal.md|Holbaek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Holbaek.protect.md|Holbaek.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Holbaek.private.md|Holbaek.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Holbaek.personal.md|Holbaek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Holbaek.secret.md|Holbaek.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Holbaek.internal|Holbaek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Holbaek.protect|Holbaek.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Holbaek.private|Holbaek.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Holbaek.personal|Holbaek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Holbaek.secret|Holbaek.secret]] 

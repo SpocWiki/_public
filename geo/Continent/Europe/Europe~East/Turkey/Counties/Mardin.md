@@ -41,9 +41,9 @@ markerFolder: ./Mardin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Mardin.md|Mardin]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mardin.internal.md|Mardin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mardin.protect.md|Mardin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mardin.private.md|Mardin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mardin.personal.md|Mardin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mardin.secret.md|Mardin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mardin.internal|Mardin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mardin.protect|Mardin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mardin.private|Mardin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mardin.personal|Mardin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mardin.secret|Mardin.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.md|Hackensack]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.internal.md|Hackensack.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.protect.md|Hackensack.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.private.md|Hackensack.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.personal.md|Hackensack.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.secret.md|Hackensack.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.internal|Hackensack.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.protect|Hackensack.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.private|Hackensack.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.personal|Hackensack.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Hackensack.secret|Hackensack.secret]] 

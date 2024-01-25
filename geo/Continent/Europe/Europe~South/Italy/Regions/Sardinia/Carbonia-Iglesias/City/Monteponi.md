@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Monteponi.md|Monteponi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Monteponi.internal.md|Monteponi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Monteponi.protect.md|Monteponi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Monteponi.private.md|Monteponi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Monteponi.personal.md|Monteponi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Monteponi.secret.md|Monteponi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Monteponi.internal|Monteponi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Monteponi.protect|Monteponi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Monteponi.private|Monteponi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Monteponi.personal|Monteponi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Monteponi.secret|Monteponi.secret]] 

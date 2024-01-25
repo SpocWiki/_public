@@ -41,8 +41,8 @@ SpocWebEntityId: 9523
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-13-Boron/Aluminium.md|Aluminium]] 
-- [[../../../../_internal/chemic/Elements/Group-13-Boron/Aluminium.internal.md|Aluminium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-13-Boron/Aluminium.protect.md|Aluminium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-13-Boron/Aluminium.private.md|Aluminium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-13-Boron/Aluminium.personal.md|Aluminium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-13-Boron/Aluminium.secret.md|Aluminium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-13-Boron/Aluminium.internal|Aluminium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-13-Boron/Aluminium.protect|Aluminium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-13-Boron/Aluminium.private|Aluminium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-13-Boron/Aluminium.personal|Aluminium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-13-Boron/Aluminium.secret|Aluminium.secret]] 

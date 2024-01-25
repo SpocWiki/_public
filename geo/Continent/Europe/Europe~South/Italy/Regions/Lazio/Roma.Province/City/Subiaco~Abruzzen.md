@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.md|Subiaco~Abruzzen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.internal.md|Subiaco~Abruzzen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.protect.md|Subiaco~Abruzzen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.private.md|Subiaco~Abruzzen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.personal.md|Subiaco~Abruzzen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.secret.md|Subiaco~Abruzzen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.internal|Subiaco~Abruzzen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.protect|Subiaco~Abruzzen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.private|Subiaco~Abruzzen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.personal|Subiaco~Abruzzen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.secret|Subiaco~Abruzzen.secret]] 

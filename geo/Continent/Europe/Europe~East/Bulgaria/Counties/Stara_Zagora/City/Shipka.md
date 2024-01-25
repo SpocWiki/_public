@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Shipka.md|Shipka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Shipka.internal.md|Shipka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Shipka.protect.md|Shipka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Shipka.private.md|Shipka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Shipka.personal.md|Shipka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Shipka.secret.md|Shipka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Shipka.internal|Shipka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Shipka.protect|Shipka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Shipka.private|Shipka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Shipka.personal|Shipka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Shipka.secret|Shipka.secret]] 

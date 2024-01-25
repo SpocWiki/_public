@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Canis_Majoris-3.md|Canis_Majoris-3]] 
-- [[../../../_internal/astro/Star/Canis_Majoris-3.internal.md|Canis_Majoris-3.internal]] 
-- [[../../../_protect/astro/Star/Canis_Majoris-3.protect.md|Canis_Majoris-3.protect]] 
-- [[../../../_private/astro/Star/Canis_Majoris-3.private.md|Canis_Majoris-3.private]] 
-- [[../../../_personal/astro/Star/Canis_Majoris-3.personal.md|Canis_Majoris-3.personal]] 
-- [[../../../_secret/astro/Star/Canis_Majoris-3.secret.md|Canis_Majoris-3.secret]]
+- [[../../../_internal/astro/Star/Canis_Majoris-3.internal|Canis_Majoris-3.internal]] 
+- [[../../../_protect/astro/Star/Canis_Majoris-3.protect|Canis_Majoris-3.protect]] 
+- [[../../../_private/astro/Star/Canis_Majoris-3.private|Canis_Majoris-3.private]] 
+- [[../../../_personal/astro/Star/Canis_Majoris-3.personal|Canis_Majoris-3.personal]] 
+- [[../../../_secret/astro/Star/Canis_Majoris-3.secret|Canis_Majoris-3.secret]]
 

@@ -41,9 +41,9 @@ markerFolder: ./Bel_Ombre/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.md|Bel_Ombre]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.internal.md|Bel_Ombre.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.protect.md|Bel_Ombre.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.private.md|Bel_Ombre.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.personal.md|Bel_Ombre.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.secret.md|Bel_Ombre.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.internal|Bel_Ombre.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.protect|Bel_Ombre.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.private|Bel_Ombre.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.personal|Bel_Ombre.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.secret|Bel_Ombre.secret]] 
 

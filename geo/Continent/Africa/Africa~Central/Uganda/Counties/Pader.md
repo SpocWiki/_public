@@ -41,9 +41,9 @@ markerFolder: ./Pader/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Pader.md|Pader]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Pader.internal.md|Pader.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Pader.protect.md|Pader.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Pader.private.md|Pader.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Pader.personal.md|Pader.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Pader.secret.md|Pader.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Pader.internal|Pader.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Pader.protect|Pader.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Pader.private|Pader.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Pader.personal|Pader.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Pader.secret|Pader.secret]] 
 

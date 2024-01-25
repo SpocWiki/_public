@@ -41,9 +41,9 @@ markerFolder: ./Lapland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland/Counties/Lapland.md|Lapland]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Lapland.internal.md|Lapland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Lapland.protect.md|Lapland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Lapland.private.md|Lapland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Lapland.personal.md|Lapland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Lapland.secret.md|Lapland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Lapland.internal|Lapland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Lapland.protect|Lapland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Lapland.private|Lapland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Lapland.personal|Lapland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Lapland.secret|Lapland.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Local_quality-Speed]
 [SpocWebEntityId::26434]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.md|Triz-Difficulty+Local_quality-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.internal.md|Triz-Difficulty+Local_quality-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.protect.md|Triz-Difficulty+Local_quality-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.private.md|Triz-Difficulty+Local_quality-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.personal.md|Triz-Difficulty+Local_quality-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.secret.md|Triz-Difficulty+Local_quality-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.internal|Triz-Difficulty+Local_quality-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.protect|Triz-Difficulty+Local_quality-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.private|Triz-Difficulty+Local_quality-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.personal|Triz-Difficulty+Local_quality-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.secret|Triz-Difficulty+Local_quality-Speed.secret]] 

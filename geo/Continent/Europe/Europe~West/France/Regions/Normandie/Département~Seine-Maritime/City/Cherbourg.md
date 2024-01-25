@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Cherbourg.md|Cherbourg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Cherbourg.internal.md|Cherbourg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Cherbourg.protect.md|Cherbourg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Cherbourg.private.md|Cherbourg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Cherbourg.personal.md|Cherbourg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Cherbourg.secret.md|Cherbourg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Cherbourg.internal|Cherbourg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Cherbourg.protect|Cherbourg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Cherbourg.private|Cherbourg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Cherbourg.personal|Cherbourg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Cherbourg.secret|Cherbourg.secret]] 

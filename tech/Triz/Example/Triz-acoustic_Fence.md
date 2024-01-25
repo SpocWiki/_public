@@ -18,8 +18,8 @@ Replace a physical Fence to confine a Dog or Cat with an acoustic 'Fence' (signa
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-acoustic_Fence.md|Triz-acoustic_Fence]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-acoustic_Fence.internal.md|Triz-acoustic_Fence.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-acoustic_Fence.protect.md|Triz-acoustic_Fence.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-acoustic_Fence.private.md|Triz-acoustic_Fence.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-acoustic_Fence.personal.md|Triz-acoustic_Fence.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-acoustic_Fence.secret.md|Triz-acoustic_Fence.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-acoustic_Fence.internal|Triz-acoustic_Fence.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-acoustic_Fence.protect|Triz-acoustic_Fence.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-acoustic_Fence.private|Triz-acoustic_Fence.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-acoustic_Fence.personal|Triz-acoustic_Fence.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-acoustic_Fence.secret|Triz-acoustic_Fence.secret]] 

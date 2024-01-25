@@ -41,9 +41,9 @@ markerFolder: ./Messina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sicily/Messina.md|Messina]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Messina.internal.md|Messina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Messina.protect.md|Messina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Messina.private.md|Messina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Messina.personal.md|Messina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Messina.secret.md|Messina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Messina.internal|Messina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Messina.protect|Messina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Messina.private|Messina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Messina.personal|Messina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Messina.secret|Messina.secret]] 
 

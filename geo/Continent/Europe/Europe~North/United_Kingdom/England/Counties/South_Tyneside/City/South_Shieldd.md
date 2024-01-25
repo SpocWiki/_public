@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.md|South_Shieldd]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.internal.md|South_Shieldd.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.protect.md|South_Shieldd.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.private.md|South_Shieldd.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.personal.md|South_Shieldd.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.secret.md|South_Shieldd.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.internal|South_Shieldd.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.protect|South_Shieldd.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.private|South_Shieldd.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.personal|South_Shieldd.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/South_Shieldd.secret|South_Shieldd.secret]] 

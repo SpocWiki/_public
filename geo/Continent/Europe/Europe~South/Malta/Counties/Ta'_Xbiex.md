@@ -41,9 +41,9 @@ markerFolder: ./Ta'_Xbiex/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.md|Ta'_Xbiex]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.internal.md|Ta'_Xbiex.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.protect.md|Ta'_Xbiex.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.private.md|Ta'_Xbiex.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.personal.md|Ta'_Xbiex.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.secret.md|Ta'_Xbiex.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.internal|Ta'_Xbiex.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.protect|Ta'_Xbiex.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.private|Ta'_Xbiex.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.personal|Ta'_Xbiex.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Ta'_Xbiex.secret|Ta'_Xbiex.secret]] 
 

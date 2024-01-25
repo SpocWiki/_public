@@ -41,9 +41,9 @@ markerFolder: ./Tororo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Tororo.md|Tororo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Tororo.internal.md|Tororo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Tororo.protect.md|Tororo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Tororo.private.md|Tororo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Tororo.personal.md|Tororo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Tororo.secret.md|Tororo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Tororo.internal|Tororo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Tororo.protect|Tororo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Tororo.private|Tororo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Tororo.personal|Tororo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Tororo.secret|Tororo.secret]] 
 

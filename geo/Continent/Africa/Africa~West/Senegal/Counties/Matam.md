@@ -41,9 +41,9 @@ markerFolder: ./Matam/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Matam.md|Matam]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Matam.internal.md|Matam.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Matam.protect.md|Matam.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Matam.private.md|Matam.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Matam.personal.md|Matam.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Matam.secret.md|Matam.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Matam.internal|Matam.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Matam.protect|Matam.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Matam.private|Matam.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Matam.personal|Matam.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Matam.secret|Matam.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Manihiki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.md|Manihiki]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.internal.md|Manihiki.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.protect.md|Manihiki.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.private.md|Manihiki.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.personal.md|Manihiki.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.secret.md|Manihiki.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.internal|Manihiki.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.protect|Manihiki.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.private|Manihiki.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.personal|Manihiki.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.secret|Manihiki.secret]] 
 

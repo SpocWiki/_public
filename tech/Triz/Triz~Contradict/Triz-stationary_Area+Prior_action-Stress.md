@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Prior_action-Stress]
 [SpocWebEntityId::23117]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.md|Triz-stationary_Area+Prior_action-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.internal.md|Triz-stationary_Area+Prior_action-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.protect.md|Triz-stationary_Area+Prior_action-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.private.md|Triz-stationary_Area+Prior_action-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.personal.md|Triz-stationary_Area+Prior_action-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.secret.md|Triz-stationary_Area+Prior_action-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.internal|Triz-stationary_Area+Prior_action-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.protect|Triz-stationary_Area+Prior_action-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.private|Triz-stationary_Area+Prior_action-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.personal|Triz-stationary_Area+Prior_action-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Prior_action-Stress.secret|Triz-stationary_Area+Prior_action-Stress.secret]] 

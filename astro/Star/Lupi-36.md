@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Lupi-36.md|Lupi-36]] 
-- [[../../../_internal/astro/Star/Lupi-36.internal.md|Lupi-36.internal]] 
-- [[../../../_protect/astro/Star/Lupi-36.protect.md|Lupi-36.protect]] 
-- [[../../../_private/astro/Star/Lupi-36.private.md|Lupi-36.private]] 
-- [[../../../_personal/astro/Star/Lupi-36.personal.md|Lupi-36.personal]] 
-- [[../../../_secret/astro/Star/Lupi-36.secret.md|Lupi-36.secret]] 
+- [[../../../_internal/astro/Star/Lupi-36.internal|Lupi-36.internal]] 
+- [[../../../_protect/astro/Star/Lupi-36.protect|Lupi-36.protect]] 
+- [[../../../_private/astro/Star/Lupi-36.private|Lupi-36.private]] 
+- [[../../../_personal/astro/Star/Lupi-36.personal|Lupi-36.personal]] 
+- [[../../../_secret/astro/Star/Lupi-36.secret|Lupi-36.secret]] 

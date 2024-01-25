@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Montecarotto.md|Montecarotto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montecarotto.internal.md|Montecarotto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montecarotto.protect.md|Montecarotto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montecarotto.private.md|Montecarotto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montecarotto.personal.md|Montecarotto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montecarotto.secret.md|Montecarotto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montecarotto.internal|Montecarotto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montecarotto.protect|Montecarotto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montecarotto.private|Montecarotto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montecarotto.personal|Montecarotto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montecarotto.secret|Montecarotto.secret]] 

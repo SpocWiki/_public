@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Thermal_expansion-Stress]
 [SpocWebEntityId::25616]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.md|Triz-affected_harm+Thermal_expansion-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.internal.md|Triz-affected_harm+Thermal_expansion-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.protect.md|Triz-affected_harm+Thermal_expansion-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.private.md|Triz-affected_harm+Thermal_expansion-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.personal.md|Triz-affected_harm+Thermal_expansion-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.secret.md|Triz-affected_harm+Thermal_expansion-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.internal|Triz-affected_harm+Thermal_expansion-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.protect|Triz-affected_harm+Thermal_expansion-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.private|Triz-affected_harm+Thermal_expansion-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.personal|Triz-affected_harm+Thermal_expansion-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Stress.secret|Triz-affected_harm+Thermal_expansion-Stress.secret]] 

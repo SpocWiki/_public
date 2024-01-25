@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Senftenberg.md|Senftenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Senftenberg.internal.md|Senftenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Senftenberg.protect.md|Senftenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Senftenberg.private.md|Senftenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Senftenberg.personal.md|Senftenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Senftenberg.secret.md|Senftenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Senftenberg.internal|Senftenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Senftenberg.protect|Senftenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Senftenberg.private|Senftenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Senftenberg.personal|Senftenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Senftenberg.secret|Senftenberg.secret]] 

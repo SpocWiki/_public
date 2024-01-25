@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Krems.md|Krems]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Krems.internal.md|Krems.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Krems.protect.md|Krems.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Krems.private.md|Krems.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Krems.personal.md|Krems.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Krems.secret.md|Krems.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Krems.internal|Krems.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Krems.protect|Krems.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Krems.private|Krems.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Krems.personal|Krems.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Krems.secret|Krems.secret]] 

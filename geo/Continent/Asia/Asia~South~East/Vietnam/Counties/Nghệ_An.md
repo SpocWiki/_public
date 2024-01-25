@@ -41,9 +41,9 @@ markerFolder: ./Nghệ_An/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.md|Nghệ_An]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.internal.md|Nghệ_An.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.protect.md|Nghệ_An.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.private.md|Nghệ_An.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.personal.md|Nghệ_An.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.secret.md|Nghệ_An.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.internal|Nghệ_An.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.protect|Nghệ_An.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.private|Nghệ_An.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.personal|Nghệ_An.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nghệ_An.secret|Nghệ_An.secret]] 
 

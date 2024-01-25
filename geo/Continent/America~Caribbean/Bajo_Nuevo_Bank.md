@@ -41,9 +41,9 @@ markerFolder: ./Bajo_Nuevo_Bank/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.md|Bajo_Nuevo_Bank]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal.md|Bajo_Nuevo_Bank.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect.md|Bajo_Nuevo_Bank.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.private.md|Bajo_Nuevo_Bank.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.personal.md|Bajo_Nuevo_Bank.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.secret.md|Bajo_Nuevo_Bank.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal|Bajo_Nuevo_Bank.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect|Bajo_Nuevo_Bank.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.private|Bajo_Nuevo_Bank.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.personal|Bajo_Nuevo_Bank.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.secret|Bajo_Nuevo_Bank.secret]] 
 

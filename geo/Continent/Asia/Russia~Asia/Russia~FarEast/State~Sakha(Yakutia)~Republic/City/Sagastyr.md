@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sagastyr.md|Sagastyr]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sagastyr.internal.md|Sagastyr.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sagastyr.protect.md|Sagastyr.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sagastyr.private.md|Sagastyr.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sagastyr.personal.md|Sagastyr.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sagastyr.secret.md|Sagastyr.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sagastyr.internal|Sagastyr.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sagastyr.protect|Sagastyr.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sagastyr.private|Sagastyr.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sagastyr.personal|Sagastyr.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sagastyr.secret|Sagastyr.secret]] 

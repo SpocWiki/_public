@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Mechanical_vibration-Difficulty]
 [SpocWebEntityId::25225]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.md|Triz-Quantity+Mechanical_vibration-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.internal.md|Triz-Quantity+Mechanical_vibration-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.protect.md|Triz-Quantity+Mechanical_vibration-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.private.md|Triz-Quantity+Mechanical_vibration-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.personal.md|Triz-Quantity+Mechanical_vibration-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.secret.md|Triz-Quantity+Mechanical_vibration-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.internal|Triz-Quantity+Mechanical_vibration-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.protect|Triz-Quantity+Mechanical_vibration-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.private|Triz-Quantity+Mechanical_vibration-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.personal|Triz-Quantity+Mechanical_vibration-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.secret|Triz-Quantity+Mechanical_vibration-Difficulty.secret]] 

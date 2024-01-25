@@ -41,9 +41,9 @@ markerFolder: ./South_Caicos_and_East_Caicos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.md|South_Caicos_and_East_Caicos]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.internal.md|South_Caicos_and_East_Caicos.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.protect.md|South_Caicos_and_East_Caicos.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.private.md|South_Caicos_and_East_Caicos.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.personal.md|South_Caicos_and_East_Caicos.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.secret.md|South_Caicos_and_East_Caicos.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.internal|South_Caicos_and_East_Caicos.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.protect|South_Caicos_and_East_Caicos.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.private|South_Caicos_and_East_Caicos.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.personal|South_Caicos_and_East_Caicos.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/South_Caicos_and_East_Caicos.secret|South_Caicos_and_East_Caicos.secret]] 
 

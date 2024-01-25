@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.md|Greiffenberg~Schlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.internal.md|Greiffenberg~Schlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.protect.md|Greiffenberg~Schlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.private.md|Greiffenberg~Schlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.personal.md|Greiffenberg~Schlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.secret.md|Greiffenberg~Schlesien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.internal|Greiffenberg~Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.protect|Greiffenberg~Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.private|Greiffenberg~Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.personal|Greiffenberg~Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Greiffenberg~Schlesien.secret|Greiffenberg~Schlesien.secret]] 

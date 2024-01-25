@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Esch-Alz.md|Esch-Alz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Esch-Alz.internal.md|Esch-Alz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Esch-Alz.protect.md|Esch-Alz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Esch-Alz.private.md|Esch-Alz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Esch-Alz.personal.md|Esch-Alz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Esch-Alz.secret.md|Esch-Alz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Esch-Alz.internal|Esch-Alz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Esch-Alz.protect|Esch-Alz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Esch-Alz.private|Esch-Alz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Esch-Alz.personal|Esch-Alz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Esch-Alz.secret|Esch-Alz.secret]] 

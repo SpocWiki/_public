@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Mainz_Römisches_Theater|S-Mainz_Römisches_Theater]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.internal.md|S-Mainz_Römisches_Theater.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.protect.md|S-Mainz_Römisches_Theater.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.private.md|S-Mainz_Römisches_Theater.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.personal.md|S-Mainz_Römisches_Theater.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.secret.md|S-Mainz_Römisches_Theater.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.internal|S-Mainz_Römisches_Theater.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.protect|S-Mainz_Römisches_Theater.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.private|S-Mainz_Römisches_Theater.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.personal|S-Mainz_Römisches_Theater.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_Römisches_Theater.secret|S-Mainz_Römisches_Theater.secret]] 

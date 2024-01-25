@@ -41,9 +41,9 @@ markerFolder: ./Soroca/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Soroca.md|Soroca]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Soroca.internal.md|Soroca.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Soroca.protect.md|Soroca.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Soroca.private.md|Soroca.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Soroca.personal.md|Soroca.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Soroca.secret.md|Soroca.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Soroca.internal|Soroca.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Soroca.protect|Soroca.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Soroca.private|Soroca.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Soroca.personal|Soroca.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Soroca.secret|Soroca.secret]] 
 

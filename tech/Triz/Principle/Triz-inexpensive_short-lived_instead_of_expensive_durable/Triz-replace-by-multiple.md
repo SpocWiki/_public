@@ -25,8 +25,8 @@ Replace an inexpensive object with a multiple of inexpensive objects, comprising
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-replace-by-multiple.md|Triz-replace-by-multiple]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-replace-by-multiple.internal.md|Triz-replace-by-multiple.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-replace-by-multiple.protect.md|Triz-replace-by-multiple.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-replace-by-multiple.private.md|Triz-replace-by-multiple.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-replace-by-multiple.personal.md|Triz-replace-by-multiple.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-replace-by-multiple.secret.md|Triz-replace-by-multiple.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-replace-by-multiple.internal|Triz-replace-by-multiple.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-replace-by-multiple.protect|Triz-replace-by-multiple.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-replace-by-multiple.private|Triz-replace-by-multiple.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-replace-by-multiple.personal|Triz-replace-by-multiple.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-replace-by-multiple.secret|Triz-replace-by-multiple.secret]] 

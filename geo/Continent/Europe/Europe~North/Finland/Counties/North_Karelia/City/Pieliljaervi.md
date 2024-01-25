@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pieliljaervi.md|Pieliljaervi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pieliljaervi.internal.md|Pieliljaervi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pieliljaervi.protect.md|Pieliljaervi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pieliljaervi.private.md|Pieliljaervi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pieliljaervi.personal.md|Pieliljaervi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pieliljaervi.secret.md|Pieliljaervi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pieliljaervi.internal|Pieliljaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pieliljaervi.protect|Pieliljaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pieliljaervi.private|Pieliljaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pieliljaervi.personal|Pieliljaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pieliljaervi.secret|Pieliljaervi.secret]] 

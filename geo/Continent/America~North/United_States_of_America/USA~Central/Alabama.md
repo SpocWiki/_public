@@ -39,8 +39,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Alabama.md|Alabama]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Alabama.internal.md|Alabama.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Alabama.protect.md|Alabama.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Alabama.private.md|Alabama.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Alabama.personal.md|Alabama.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Alabama.secret.md|Alabama.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Alabama.internal|Alabama.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Alabama.protect|Alabama.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Alabama.private|Alabama.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Alabama.personal|Alabama.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Alabama.secret|Alabama.secret]] 

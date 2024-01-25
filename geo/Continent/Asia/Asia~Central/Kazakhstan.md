@@ -136,7 +136,7 @@ markerFolder: ./Kazakhstan/
 ## Confidential Links & Embeds: 
 - [[Kazakhstan|Kazakhstan]] 
 - [[../../../../../_internal/geo/Continent/Asia/Kazakhstan.internal|Kazakhstan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Kazakhstan.protect.md|Kazakhstan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Kazakhstan.private.md|Kazakhstan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Kazakhstan.personal.md|Kazakhstan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Kazakhstan.secret.md|Kazakhstan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Kazakhstan.protect|Kazakhstan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Kazakhstan.private|Kazakhstan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Kazakhstan.personal|Kazakhstan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Kazakhstan.secret|Kazakhstan.secret]] 

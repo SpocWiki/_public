@@ -27,8 +27,8 @@ markerFolder: ./Antarctica/
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/Antarctica.md|Antarctica]] 
-- [[../../../_internal/geo/Continent/Antarctica.internal.md|Antarctica.internal]] 
-- [[../../../_protect/geo/Continent/Antarctica.protect.md|Antarctica.protect]] 
-- [[../../../_private/geo/Continent/Antarctica.private.md|Antarctica.private]] 
-- [[../../../_personal/geo/Continent/Antarctica.personal.md|Antarctica.personal]] 
-- [[../../../_secret/geo/Continent/Antarctica.secret.md|Antarctica.secret]] 
+- [[../../../_internal/geo/Continent/Antarctica.internal|Antarctica.internal]] 
+- [[../../../_protect/geo/Continent/Antarctica.protect|Antarctica.protect]] 
+- [[../../../_private/geo/Continent/Antarctica.private|Antarctica.private]] 
+- [[../../../_personal/geo/Continent/Antarctica.personal|Antarctica.personal]] 
+- [[../../../_secret/geo/Continent/Antarctica.secret|Antarctica.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Sheffield/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.md|Sheffield]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.internal.md|Sheffield.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.protect.md|Sheffield.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.private.md|Sheffield.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.personal.md|Sheffield.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.secret.md|Sheffield.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.internal|Sheffield.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.protect|Sheffield.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.private|Sheffield.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.personal|Sheffield.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.secret|Sheffield.secret]] 
 

@@ -5,9 +5,9 @@ title: "{{title}}"
 
 ## Confidential Links & Embeds: 
 - [[../../_public/templates/post.md|post]] 
-- [[../../_internal/templates/post.internal.md|post.internal]] 
-- [[../../_protect/templates/post.protect.md|post.protect]] 
-- [[../../_private/templates/post.private.md|post.private]] 
-- [[../../_personal/templates/post.personal.md|post.personal]] 
-- [[../../_secret/templates/post.secret.md|post.secret]]
+- [[../../_internal/templates/post.internal|post.internal]] 
+- [[../../_protect/templates/post.protect|post.protect]] 
+- [[../../_private/templates/post.private|post.private]] 
+- [[../../_personal/templates/post.personal|post.personal]] 
+- [[../../_secret/templates/post.secret|post.secret]]
 

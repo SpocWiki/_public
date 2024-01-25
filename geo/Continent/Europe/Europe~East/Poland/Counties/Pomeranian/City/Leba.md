@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Leba.md|Leba]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Leba.internal.md|Leba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Leba.protect.md|Leba.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Leba.private.md|Leba.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Leba.personal.md|Leba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Leba.secret.md|Leba.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Leba.internal|Leba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Leba.protect|Leba.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Leba.private|Leba.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Leba.personal|Leba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Leba.secret|Leba.secret]] 

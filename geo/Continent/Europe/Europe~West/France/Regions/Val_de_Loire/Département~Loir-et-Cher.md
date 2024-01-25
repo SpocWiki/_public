@@ -41,9 +41,9 @@ markerFolder: ./Département~Loir-et-Cher/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.md|Département~Loir-et-Cher]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.internal.md|Département~Loir-et-Cher.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.protect.md|Département~Loir-et-Cher.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.private.md|Département~Loir-et-Cher.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.personal.md|Département~Loir-et-Cher.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.secret.md|Département~Loir-et-Cher.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.internal|Département~Loir-et-Cher.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.protect|Département~Loir-et-Cher.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.private|Département~Loir-et-Cher.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.personal|Département~Loir-et-Cher.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Val_de_Loire/Département~Loir-et-Cher.secret|Département~Loir-et-Cher.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Phú_Thọ/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.md|Phú_Thọ]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.internal.md|Phú_Thọ.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.protect.md|Phú_Thọ.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.private.md|Phú_Thọ.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.personal.md|Phú_Thọ.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.secret.md|Phú_Thọ.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.internal|Phú_Thọ.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.protect|Phú_Thọ.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.private|Phú_Thọ.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.personal|Phú_Thọ.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Thọ.secret|Phú_Thọ.secret]] 
 

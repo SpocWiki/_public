@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Ennis.md|Ennis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Ennis.internal.md|Ennis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Ennis.protect.md|Ennis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Ennis.private.md|Ennis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Ennis.personal.md|Ennis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Ennis.secret.md|Ennis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Ennis.internal|Ennis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Ennis.protect|Ennis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Ennis.private|Ennis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Ennis.personal|Ennis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Ennis.secret|Ennis.secret]] 

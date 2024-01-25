@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Mostar.md|Mostar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Mostar.internal.md|Mostar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Mostar.protect.md|Mostar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Mostar.private.md|Mostar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Mostar.personal.md|Mostar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Mostar.secret.md|Mostar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Mostar.internal|Mostar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Mostar.protect|Mostar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Mostar.private|Mostar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Mostar.personal|Mostar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Mostar.secret|Mostar.secret]] 

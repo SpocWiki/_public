@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Cesis.md|Cesis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Cesis.internal.md|Cesis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Cesis.protect.md|Cesis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Cesis.private.md|Cesis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Cesis.personal.md|Cesis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Cesis.secret.md|Cesis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Cesis.internal|Cesis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Cesis.protect|Cesis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Cesis.private|Cesis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Cesis.personal|Cesis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Cesis.secret|Cesis.secret]] 

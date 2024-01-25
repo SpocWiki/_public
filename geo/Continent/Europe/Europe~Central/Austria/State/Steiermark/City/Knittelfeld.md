@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Knittelfeld.md|Knittelfeld]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Knittelfeld.internal.md|Knittelfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Knittelfeld.protect.md|Knittelfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Knittelfeld.private.md|Knittelfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Knittelfeld.personal.md|Knittelfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Knittelfeld.secret.md|Knittelfeld.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Knittelfeld.internal|Knittelfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Knittelfeld.protect|Knittelfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Knittelfeld.private|Knittelfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Knittelfeld.personal|Knittelfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Knittelfeld.secret|Knittelfeld.secret]] 

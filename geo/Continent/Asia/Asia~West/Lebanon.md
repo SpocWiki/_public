@@ -138,7 +138,7 @@ markerFolder: ./Lebanon/
 ## Confidential Links & Embeds: 
 -[[Lebanon|Lebanon]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Lebanon.internal|Lebanon.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Lebanon.protect.md|Lebanon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Lebanon.private.md|Lebanon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Lebanon.personal.md|Lebanon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Lebanon.secret.md|Lebanon.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Lebanon.protect|Lebanon.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Lebanon.private|Lebanon.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Lebanon.personal|Lebanon.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Lebanon.secret|Lebanon.secret]] 

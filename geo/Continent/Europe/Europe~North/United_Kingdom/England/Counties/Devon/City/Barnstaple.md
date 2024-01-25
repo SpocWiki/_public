@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barnstaple.md|Barnstaple]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barnstaple.internal.md|Barnstaple.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barnstaple.protect.md|Barnstaple.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barnstaple.private.md|Barnstaple.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barnstaple.personal.md|Barnstaple.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barnstaple.secret.md|Barnstaple.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barnstaple.internal|Barnstaple.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barnstaple.protect|Barnstaple.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barnstaple.private|Barnstaple.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barnstaple.personal|Barnstaple.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barnstaple.secret|Barnstaple.secret]] 

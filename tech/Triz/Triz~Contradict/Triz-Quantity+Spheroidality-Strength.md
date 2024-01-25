@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Spheroidality-Strength]
 [SpocWebEntityId::25150]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.md|Triz-Quantity+Spheroidality-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.internal.md|Triz-Quantity+Spheroidality-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.protect.md|Triz-Quantity+Spheroidality-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.private.md|Triz-Quantity+Spheroidality-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.personal.md|Triz-Quantity+Spheroidality-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.secret.md|Triz-Quantity+Spheroidality-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.internal|Triz-Quantity+Spheroidality-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.protect|Triz-Quantity+Spheroidality-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.private|Triz-Quantity+Spheroidality-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.personal|Triz-Quantity+Spheroidality-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.secret|Triz-Quantity+Spheroidality-Strength.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Hautes-Pyrénées/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.md|Département~Hautes-Pyrénées]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.internal.md|Département~Hautes-Pyrénées.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.protect.md|Département~Hautes-Pyrénées.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.private.md|Département~Hautes-Pyrénées.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.personal.md|Département~Hautes-Pyrénées.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.secret.md|Département~Hautes-Pyrénées.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.internal|Département~Hautes-Pyrénées.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.protect|Département~Hautes-Pyrénées.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.private|Département~Hautes-Pyrénées.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.personal|Département~Hautes-Pyrénées.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Occitanie/Département~Hautes-Pyrénées.secret|Département~Hautes-Pyrénées.secret]] 
 

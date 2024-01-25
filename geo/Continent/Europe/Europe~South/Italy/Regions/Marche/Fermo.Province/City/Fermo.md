@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Fermo.md|Fermo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Fermo.internal.md|Fermo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Fermo.protect.md|Fermo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Fermo.private.md|Fermo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Fermo.personal.md|Fermo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Fermo.secret.md|Fermo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Fermo.internal|Fermo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Fermo.protect|Fermo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Fermo.private|Fermo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Fermo.personal|Fermo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Fermo.secret|Fermo.secret]] 

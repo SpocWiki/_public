@@ -41,9 +41,9 @@ markerFolder: ./UNDOF/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.md|UNDOF]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.internal.md|UNDOF.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.protect.md|UNDOF.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.private.md|UNDOF.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.personal.md|UNDOF.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.secret.md|UNDOF.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.internal|UNDOF.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.protect|UNDOF.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.private|UNDOF.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.personal|UNDOF.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.secret|UNDOF.secret]] 
 

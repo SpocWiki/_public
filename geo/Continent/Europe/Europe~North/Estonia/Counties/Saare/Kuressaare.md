@@ -34,8 +34,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Kuressaare|Kuressaare]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Arensburg.internal.md|Arensburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Arensburg.protect.md|Arensburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Arensburg.private.md|Arensburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Arensburg.personal.md|Arensburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Arensburg.secret.md|Arensburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Arensburg.internal|Arensburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Arensburg.protect|Arensburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Arensburg.private|Arensburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Arensburg.personal|Arensburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Arensburg.secret|Arensburg.secret]] 

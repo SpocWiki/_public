@@ -27,9 +27,9 @@ SpocWebEntityId: {{Id}}
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/_LangTemplate.md|_LangTemplate]] 
-- [[../../_internal/lang/_LangTemplate.internal.md|_LangTemplate.internal]] 
-- [[../../_protect/lang/_LangTemplate.protect.md|_LangTemplate.protect]] 
-- [[../../_private/lang/_LangTemplate.private.md|_LangTemplate.private]] 
-- [[../../_personal/lang/_LangTemplate.personal.md|_LangTemplate.personal]] 
-- [[../../_secret/lang/_LangTemplate.secret.md|_LangTemplate.secret]]
+- [[../../_internal/lang/_LangTemplate.internal|_LangTemplate.internal]] 
+- [[../../_protect/lang/_LangTemplate.protect|_LangTemplate.protect]] 
+- [[../../_private/lang/_LangTemplate.private|_LangTemplate.private]] 
+- [[../../_personal/lang/_LangTemplate.personal|_LangTemplate.personal]] 
+- [[../../_secret/lang/_LangTemplate.secret|_LangTemplate.secret]]
 

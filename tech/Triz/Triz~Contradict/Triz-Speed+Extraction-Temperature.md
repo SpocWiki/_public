@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Extraction-Temperature]
 [SpocWebEntityId::23406]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.md|Triz-Speed+Extraction-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.internal.md|Triz-Speed+Extraction-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.protect.md|Triz-Speed+Extraction-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.private.md|Triz-Speed+Extraction-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.personal.md|Triz-Speed+Extraction-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.secret.md|Triz-Speed+Extraction-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.internal|Triz-Speed+Extraction-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.protect|Triz-Speed+Extraction-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.private|Triz-Speed+Extraction-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.personal|Triz-Speed+Extraction-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.secret|Triz-Speed+Extraction-Temperature.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.md|Saint_John’s]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.internal.md|Saint_John’s.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.protect.md|Saint_John’s.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.private.md|Saint_John’s.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.personal.md|Saint_John’s.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.secret.md|Saint_John’s.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.internal|Saint_John’s.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.protect|Saint_John’s.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.private|Saint_John’s.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.personal|Saint_John’s.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.secret|Saint_John’s.secret]] 

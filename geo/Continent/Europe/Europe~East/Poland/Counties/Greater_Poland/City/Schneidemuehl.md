@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schneidemuehl.md|Schneidemuehl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schneidemuehl.internal.md|Schneidemuehl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schneidemuehl.protect.md|Schneidemuehl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schneidemuehl.private.md|Schneidemuehl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schneidemuehl.personal.md|Schneidemuehl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schneidemuehl.secret.md|Schneidemuehl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schneidemuehl.internal|Schneidemuehl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schneidemuehl.protect|Schneidemuehl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schneidemuehl.private|Schneidemuehl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schneidemuehl.personal|Schneidemuehl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schneidemuehl.secret|Schneidemuehl.secret]] 

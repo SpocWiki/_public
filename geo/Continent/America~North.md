@@ -25,8 +25,8 @@ zoomFeatures: true
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/North-America.md|North-America]] 
-- [[../../../_internal/geo/Continent/North-America.internal.md|North-America.internal]] 
-- [[../../../_protect/geo/Continent/North-America.protect.md|North-America.protect]] 
-- [[../../../_private/geo/Continent/North-America.private.md|North-America.private]] 
-- [[../../../_personal/geo/Continent/North-America.personal.md|North-America.personal]] 
-- [[../../../_secret/geo/Continent/North-America.secret.md|North-America.secret]] 
+- [[../../../_internal/geo/Continent/North-America.internal|North-America.internal]] 
+- [[../../../_protect/geo/Continent/North-America.protect|North-America.protect]] 
+- [[../../../_private/geo/Continent/North-America.private|North-America.private]] 
+- [[../../../_personal/geo/Continent/North-America.personal|North-America.personal]] 
+- [[../../../_secret/geo/Continent/North-America.secret|North-America.secret]] 

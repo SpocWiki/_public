@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Markhausen.md|Markhausen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Markhausen.internal.md|Markhausen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Markhausen.protect.md|Markhausen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Markhausen.private.md|Markhausen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Markhausen.personal.md|Markhausen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Markhausen.secret.md|Markhausen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Markhausen.internal|Markhausen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Markhausen.protect|Markhausen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Markhausen.private|Markhausen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Markhausen.personal|Markhausen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Markhausen.secret|Markhausen.secret]] 

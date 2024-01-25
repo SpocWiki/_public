@@ -41,9 +41,9 @@ markerFolder: ./Nevsehir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Nevsehir.md|Nevsehir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Nevsehir.internal.md|Nevsehir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Nevsehir.protect.md|Nevsehir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Nevsehir.private.md|Nevsehir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Nevsehir.personal.md|Nevsehir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Nevsehir.secret.md|Nevsehir.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Nevsehir.internal|Nevsehir.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Nevsehir.protect|Nevsehir.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Nevsehir.private|Nevsehir.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Nevsehir.personal|Nevsehir.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Nevsehir.secret|Nevsehir.secret]] 
 

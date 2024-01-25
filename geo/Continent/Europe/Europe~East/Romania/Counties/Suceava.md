@@ -41,9 +41,9 @@ markerFolder: ./Suceava/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Suceava.md|Suceava]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Suceava.internal.md|Suceava.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Suceava.protect.md|Suceava.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Suceava.private.md|Suceava.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Suceava.personal.md|Suceava.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Suceava.secret.md|Suceava.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Suceava.internal|Suceava.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Suceava.protect|Suceava.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Suceava.private|Suceava.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Suceava.personal|Suceava.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Suceava.secret|Suceava.secret]] 
 

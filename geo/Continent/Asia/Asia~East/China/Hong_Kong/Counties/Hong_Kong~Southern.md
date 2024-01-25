@@ -41,9 +41,9 @@ markerFolder: ./Hong_Kong~Southern/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.md|Hong_Kong~Southern]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.internal.md|Hong_Kong~Southern.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.protect.md|Hong_Kong~Southern.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.private.md|Hong_Kong~Southern.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.personal.md|Hong_Kong~Southern.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.secret.md|Hong_Kong~Southern.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.internal|Hong_Kong~Southern.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.protect|Hong_Kong~Southern.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.private|Hong_Kong~Southern.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.personal|Hong_Kong~Southern.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.secret|Hong_Kong~Southern.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Copying-Information-Loss]
 [SpocWebEntityId::23053]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.md|Triz-moving_Area+Copying-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.internal.md|Triz-moving_Area+Copying-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.protect.md|Triz-moving_Area+Copying-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.private.md|Triz-moving_Area+Copying-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.personal.md|Triz-moving_Area+Copying-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.secret.md|Triz-moving_Area+Copying-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.internal|Triz-moving_Area+Copying-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.protect|Triz-moving_Area+Copying-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.private|Triz-moving_Area+Copying-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.personal|Triz-moving_Area+Copying-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.secret|Triz-moving_Area+Copying-Information-Loss.secret]] 

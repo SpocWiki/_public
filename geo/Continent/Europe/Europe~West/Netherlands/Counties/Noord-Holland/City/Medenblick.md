@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Medenblick.md|Medenblick]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Medenblick.internal.md|Medenblick.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Medenblick.protect.md|Medenblick.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Medenblick.private.md|Medenblick.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Medenblick.personal.md|Medenblick.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Medenblick.secret.md|Medenblick.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Medenblick.internal|Medenblick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Medenblick.protect|Medenblick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Medenblick.private|Medenblick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Medenblick.personal|Medenblick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Medenblick.secret|Medenblick.secret]] 

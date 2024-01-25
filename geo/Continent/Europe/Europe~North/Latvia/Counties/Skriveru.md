@@ -41,9 +41,9 @@ markerFolder: ./Skriveru/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Skriveru.md|Skriveru]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Skriveru.internal.md|Skriveru.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Skriveru.protect.md|Skriveru.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Skriveru.private.md|Skriveru.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Skriveru.personal.md|Skriveru.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Skriveru.secret.md|Skriveru.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Skriveru.internal|Skriveru.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Skriveru.protect|Skriveru.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Skriveru.private|Skriveru.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Skriveru.personal|Skriveru.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Skriveru.secret|Skriveru.secret]] 
 

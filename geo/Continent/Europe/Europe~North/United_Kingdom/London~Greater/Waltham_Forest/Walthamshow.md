@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.md|Walthamshow]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.internal.md|Walthamshow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.protect.md|Walthamshow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.private.md|Walthamshow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.personal.md|Walthamshow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.secret.md|Walthamshow.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.internal|Walthamshow.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.protect|Walthamshow.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.private|Walthamshow.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.personal|Walthamshow.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.secret|Walthamshow.secret]] 

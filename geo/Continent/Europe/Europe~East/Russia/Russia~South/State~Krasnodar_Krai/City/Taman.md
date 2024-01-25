@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Taman.md|Taman]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Taman.internal.md|Taman.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Taman.protect.md|Taman.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Taman.private.md|Taman.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Taman.personal.md|Taman.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Taman.secret.md|Taman.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Taman.internal|Taman.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Taman.protect|Taman.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Taman.private|Taman.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Taman.personal|Taman.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Taman.secret|Taman.secret]] 

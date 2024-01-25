@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gradisca.md|Gradisca]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gradisca.internal.md|Gradisca.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gradisca.protect.md|Gradisca.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gradisca.private.md|Gradisca.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gradisca.personal.md|Gradisca.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gradisca.secret.md|Gradisca.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gradisca.internal|Gradisca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gradisca.protect|Gradisca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gradisca.private|Gradisca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gradisca.personal|Gradisca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gradisca.secret|Gradisca.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Redcar_and_Cleveland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.md|Redcar_and_Cleveland]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.internal.md|Redcar_and_Cleveland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.protect.md|Redcar_and_Cleveland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.private.md|Redcar_and_Cleveland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.personal.md|Redcar_and_Cleveland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.secret.md|Redcar_and_Cleveland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.internal|Redcar_and_Cleveland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.protect|Redcar_and_Cleveland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.private|Redcar_and_Cleveland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.personal|Redcar_and_Cleveland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.secret|Redcar_and_Cleveland.secret]] 
 

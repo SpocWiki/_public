@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.md|La_Chaux_de_Fonds]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.internal.md|La_Chaux_de_Fonds.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.protect.md|La_Chaux_de_Fonds.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.private.md|La_Chaux_de_Fonds.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.personal.md|La_Chaux_de_Fonds.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.secret.md|La_Chaux_de_Fonds.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.internal|La_Chaux_de_Fonds.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.protect|La_Chaux_de_Fonds.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.private|La_Chaux_de_Fonds.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.personal|La_Chaux_de_Fonds.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/La_Chaux_de_Fonds.secret|La_Chaux_de_Fonds.secret]] 

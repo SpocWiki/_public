@@ -41,9 +41,9 @@ markerFolder: ./Kingston/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.md|Kingston]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.internal.md|Kingston.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.protect.md|Kingston.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.private.md|Kingston.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.personal.md|Kingston.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.secret.md|Kingston.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.internal|Kingston.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.protect|Kingston.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.private|Kingston.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.personal|Kingston.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.secret|Kingston.secret]] 
 

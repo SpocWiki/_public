@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schlegel.md|Schlegel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlegel.internal.md|Schlegel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlegel.protect.md|Schlegel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlegel.private.md|Schlegel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlegel.personal.md|Schlegel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlegel.secret.md|Schlegel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlegel.internal|Schlegel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlegel.protect|Schlegel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlegel.private|Schlegel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlegel.personal|Schlegel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlegel.secret|Schlegel.secret]] 

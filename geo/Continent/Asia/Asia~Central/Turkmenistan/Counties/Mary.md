@@ -41,9 +41,9 @@ markerFolder: ./Mary/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.md|Mary]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.internal.md|Mary.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.protect.md|Mary.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.private.md|Mary.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.personal.md|Mary.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.secret.md|Mary.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.internal|Mary.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.protect|Mary.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.private|Mary.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.personal|Mary.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.secret|Mary.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Sandaun/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.md|Sandaun]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.internal.md|Sandaun.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.protect.md|Sandaun.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.private.md|Sandaun.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.personal.md|Sandaun.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.secret.md|Sandaun.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.internal|Sandaun.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.protect|Sandaun.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.private|Sandaun.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.personal|Sandaun.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.secret|Sandaun.secret]] 
 

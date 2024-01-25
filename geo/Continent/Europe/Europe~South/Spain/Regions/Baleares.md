@@ -41,9 +41,9 @@ markerFolder: ./Baleares/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Baleares.md|Baleares]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Baleares.internal.md|Baleares.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Baleares.protect.md|Baleares.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Baleares.private.md|Baleares.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Baleares.personal.md|Baleares.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Baleares.secret.md|Baleares.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Baleares.internal|Baleares.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Baleares.protect|Baleares.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Baleares.private|Baleares.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Baleares.personal|Baleares.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Baleares.secret|Baleares.secret]] 
 

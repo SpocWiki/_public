@@ -132,8 +132,8 @@ markerFolder: ./Tuvalu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Tuvalu.md|Tuvalu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Tuvalu.internal.md|Tuvalu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Tuvalu.protect.md|Tuvalu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Tuvalu.private.md|Tuvalu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Tuvalu.personal.md|Tuvalu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Tuvalu.secret.md|Tuvalu.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Tuvalu.internal|Tuvalu.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Tuvalu.protect|Tuvalu.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Tuvalu.private|Tuvalu.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Tuvalu.personal|Tuvalu.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Tuvalu.secret|Tuvalu.secret]] 

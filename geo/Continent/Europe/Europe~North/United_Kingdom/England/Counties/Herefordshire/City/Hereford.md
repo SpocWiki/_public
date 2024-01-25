@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hereford.md|Hereford]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hereford.internal.md|Hereford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hereford.protect.md|Hereford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hereford.private.md|Hereford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hereford.personal.md|Hereford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hereford.secret.md|Hereford.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hereford.internal|Hereford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hereford.protect|Hereford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hereford.private|Hereford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hereford.personal|Hereford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hereford.secret|Hereford.secret]] 

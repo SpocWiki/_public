@@ -41,9 +41,9 @@ markerFolder: ./Lara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Lara.md|Lara]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Lara.internal.md|Lara.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Lara.protect.md|Lara.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Lara.private.md|Lara.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Lara.personal.md|Lara.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Lara.secret.md|Lara.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Lara.internal|Lara.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Lara.protect|Lara.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Lara.private|Lara.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Lara.personal|Lara.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Lara.secret|Lara.secret]] 
 

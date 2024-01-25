@@ -41,9 +41,9 @@ markerFolder: ./Ilirska_Bistrica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.md|Ilirska_Bistrica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.internal.md|Ilirska_Bistrica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.protect.md|Ilirska_Bistrica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.private.md|Ilirska_Bistrica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.personal.md|Ilirska_Bistrica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.secret.md|Ilirska_Bistrica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.internal|Ilirska_Bistrica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.protect|Ilirska_Bistrica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.private|Ilirska_Bistrica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.personal|Ilirska_Bistrica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Ilirska_Bistrica.secret|Ilirska_Bistrica.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./South-East/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/South-East.md|South-East]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/South-East.internal.md|South-East.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/South-East.protect.md|South-East.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/South-East.private.md|South-East.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/South-East.personal.md|South-East.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/South-East.secret.md|South-East.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/South-East.internal|South-East.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/South-East.protect|South-East.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/South-East.private|South-East.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/South-East.personal|South-East.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/South-East.secret|South-East.secret]] 
 

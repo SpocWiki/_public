@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Haelsan.md|Haelsan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haelsan.internal.md|Haelsan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haelsan.protect.md|Haelsan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Haelsan.private.md|Haelsan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haelsan.personal.md|Haelsan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haelsan.secret.md|Haelsan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haelsan.internal|Haelsan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haelsan.protect|Haelsan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Haelsan.private|Haelsan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haelsan.personal|Haelsan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haelsan.secret|Haelsan.secret]] 

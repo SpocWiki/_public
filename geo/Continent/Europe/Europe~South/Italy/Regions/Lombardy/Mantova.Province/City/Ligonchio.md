@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ligonchio.md|Ligonchio]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ligonchio.internal.md|Ligonchio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ligonchio.protect.md|Ligonchio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ligonchio.private.md|Ligonchio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ligonchio.personal.md|Ligonchio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ligonchio.secret.md|Ligonchio.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ligonchio.internal|Ligonchio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ligonchio.protect|Ligonchio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ligonchio.private|Ligonchio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ligonchio.personal|Ligonchio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ligonchio.secret|Ligonchio.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.md|Kirksville]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.internal.md|Kirksville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.protect.md|Kirksville.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.private.md|Kirksville.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.personal.md|Kirksville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.secret.md|Kirksville.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.internal|Kirksville.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.protect|Kirksville.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.private|Kirksville.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.personal|Kirksville.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri/City/Kirksville.secret|Kirksville.secret]] 

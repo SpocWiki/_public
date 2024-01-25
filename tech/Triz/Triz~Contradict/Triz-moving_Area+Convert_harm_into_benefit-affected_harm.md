@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Convert_harm_into_benefit-affected_harm]
 [SpocWebEntityId::23068]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.md|Triz-moving_Area+Convert_harm_into_benefit-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.internal.md|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.protect.md|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.private.md|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.personal.md|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.secret.md|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.internal|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.protect|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.private|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.personal|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Convert_harm_into_benefit-affected_harm.secret|Triz-moving_Area+Convert_harm_into_benefit-affected_harm.secret]] 

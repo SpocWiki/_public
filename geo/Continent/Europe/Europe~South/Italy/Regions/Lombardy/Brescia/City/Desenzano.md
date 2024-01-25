@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Desenzano.md|Desenzano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Desenzano.internal.md|Desenzano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Desenzano.protect.md|Desenzano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Desenzano.private.md|Desenzano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Desenzano.personal.md|Desenzano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Desenzano.secret.md|Desenzano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Desenzano.internal|Desenzano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Desenzano.protect|Desenzano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Desenzano.private|Desenzano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Desenzano.personal|Desenzano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Desenzano.secret|Desenzano.secret]] 

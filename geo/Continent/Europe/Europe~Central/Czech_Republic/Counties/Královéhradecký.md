@@ -41,9 +41,9 @@ markerFolder: ./Královéhradecký/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.md|Královéhradecký]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.internal.md|Královéhradecký.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.protect.md|Královéhradecký.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.private.md|Královéhradecký.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.personal.md|Královéhradecký.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.secret.md|Královéhradecký.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.internal|Královéhradecký.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.protect|Královéhradecký.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.private|Královéhradecký.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.personal|Královéhradecký.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.secret|Královéhradecký.secret]] 
 

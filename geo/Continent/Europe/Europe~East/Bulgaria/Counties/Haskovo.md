@@ -41,9 +41,9 @@ markerFolder: ./Haskovo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Haskovo.md|Haskovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Haskovo.internal.md|Haskovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Haskovo.protect.md|Haskovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Haskovo.private.md|Haskovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Haskovo.personal.md|Haskovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Haskovo.secret.md|Haskovo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Haskovo.internal|Haskovo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Haskovo.protect|Haskovo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Haskovo.private|Haskovo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Haskovo.personal|Haskovo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Haskovo.secret|Haskovo.secret]] 
 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Reticuli-2.md|Reticuli-2]] 
-- [[../../../_internal/astro/Star/Reticuli-2.internal.md|Reticuli-2.internal]] 
-- [[../../../_protect/astro/Star/Reticuli-2.protect.md|Reticuli-2.protect]] 
-- [[../../../_private/astro/Star/Reticuli-2.private.md|Reticuli-2.private]] 
-- [[../../../_personal/astro/Star/Reticuli-2.personal.md|Reticuli-2.personal]] 
-- [[../../../_secret/astro/Star/Reticuli-2.secret.md|Reticuli-2.secret]] 
+- [[../../../_internal/astro/Star/Reticuli-2.internal|Reticuli-2.internal]] 
+- [[../../../_protect/astro/Star/Reticuli-2.protect|Reticuli-2.protect]] 
+- [[../../../_private/astro/Star/Reticuli-2.private|Reticuli-2.private]] 
+- [[../../../_personal/astro/Star/Reticuli-2.personal|Reticuli-2.personal]] 
+- [[../../../_secret/astro/Star/Reticuli-2.secret|Reticuli-2.secret]] 

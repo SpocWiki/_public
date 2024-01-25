@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Jandelsbrunn|Jandelsbrunn]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.internal.md|Jandelsbrunn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.protect.md|Jandelsbrunn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.private.md|Jandelsbrunn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.personal.md|Jandelsbrunn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.secret.md|Jandelsbrunn.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.internal|Jandelsbrunn.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.protect|Jandelsbrunn.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.private|Jandelsbrunn.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.personal|Jandelsbrunn.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.secret|Jandelsbrunn.secret]] 

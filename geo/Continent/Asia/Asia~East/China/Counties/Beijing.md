@@ -41,9 +41,9 @@ markerFolder: ./Beijing/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Beijing.md|Beijing]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Beijing.internal.md|Beijing.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Beijing.protect.md|Beijing.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Beijing.private.md|Beijing.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Beijing.personal.md|Beijing.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Beijing.secret.md|Beijing.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Beijing.internal|Beijing.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Beijing.protect|Beijing.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Beijing.private|Beijing.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Beijing.personal|Beijing.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Beijing.secret|Beijing.secret]] 
 

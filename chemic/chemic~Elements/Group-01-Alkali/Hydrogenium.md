@@ -38,8 +38,8 @@ SpocWebEntityId: 21904
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-01-Alkali/Hydrogenium.md|Hydrogenium]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Hydrogenium.internal.md|Hydrogenium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Hydrogenium.protect.md|Hydrogenium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Hydrogenium.private.md|Hydrogenium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Hydrogenium.personal.md|Hydrogenium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Hydrogenium.secret.md|Hydrogenium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Hydrogenium.internal|Hydrogenium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Hydrogenium.protect|Hydrogenium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Hydrogenium.private|Hydrogenium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Hydrogenium.personal|Hydrogenium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Hydrogenium.secret|Hydrogenium.secret]] 

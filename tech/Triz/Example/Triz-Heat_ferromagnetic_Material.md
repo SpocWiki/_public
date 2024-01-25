@@ -18,8 +18,8 @@ Heat a Substance containing ferromagnetic Material by using varying magnetic Fie
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.md|Triz-Heat_ferromagnetic_Material]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.internal.md|Triz-Heat_ferromagnetic_Material.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.protect.md|Triz-Heat_ferromagnetic_Material.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.private.md|Triz-Heat_ferromagnetic_Material.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.personal.md|Triz-Heat_ferromagnetic_Material.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.secret.md|Triz-Heat_ferromagnetic_Material.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.internal|Triz-Heat_ferromagnetic_Material.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.protect|Triz-Heat_ferromagnetic_Material.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.private|Triz-Heat_ferromagnetic_Material.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.personal|Triz-Heat_ferromagnetic_Material.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Heat_ferromagnetic_Material.secret|Triz-Heat_ferromagnetic_Material.secret]] 

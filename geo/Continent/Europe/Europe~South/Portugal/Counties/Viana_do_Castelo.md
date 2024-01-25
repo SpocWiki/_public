@@ -41,9 +41,9 @@ markerFolder: ./Viana_do_Castelo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.md|Viana_do_Castelo]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.internal.md|Viana_do_Castelo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.protect.md|Viana_do_Castelo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.private.md|Viana_do_Castelo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.personal.md|Viana_do_Castelo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.secret.md|Viana_do_Castelo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.internal|Viana_do_Castelo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.protect|Viana_do_Castelo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.private|Viana_do_Castelo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.personal|Viana_do_Castelo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Viana_do_Castelo.secret|Viana_do_Castelo.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Rôtânôkiri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.md|Rôtânôkiri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.internal.md|Rôtânôkiri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.protect.md|Rôtânôkiri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.private.md|Rôtânôkiri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.personal.md|Rôtânôkiri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.secret.md|Rôtânôkiri.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.internal|Rôtânôkiri.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.protect|Rôtânôkiri.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.private|Rôtânôkiri.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.personal|Rôtânôkiri.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Rôtânôkiri.secret|Rôtânôkiri.secret]] 
 

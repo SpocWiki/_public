@@ -41,9 +41,9 @@ markerFolder: ./Al_Manāmah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.md|Al_Manāmah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.internal.md|Al_Manāmah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.protect.md|Al_Manāmah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.private.md|Al_Manāmah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.personal.md|Al_Manāmah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.secret.md|Al_Manāmah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.internal|Al_Manāmah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.protect|Al_Manāmah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.private|Al_Manāmah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.personal|Al_Manāmah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.secret|Al_Manāmah.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Praebichl.md|Praebichl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Praebichl.internal.md|Praebichl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Praebichl.protect.md|Praebichl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Praebichl.private.md|Praebichl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Praebichl.personal.md|Praebichl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Praebichl.secret.md|Praebichl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Praebichl.internal|Praebichl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Praebichl.protect|Praebichl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Praebichl.private|Praebichl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Praebichl.personal|Praebichl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Praebichl.secret|Praebichl.secret]] 

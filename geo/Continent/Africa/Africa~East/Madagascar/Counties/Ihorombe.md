@@ -41,9 +41,9 @@ markerFolder: ./Ihorombe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Ihorombe.md|Ihorombe]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Ihorombe.internal.md|Ihorombe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Ihorombe.protect.md|Ihorombe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Ihorombe.private.md|Ihorombe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Ihorombe.personal.md|Ihorombe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Ihorombe.secret.md|Ihorombe.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Ihorombe.internal|Ihorombe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Ihorombe.protect|Ihorombe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Ihorombe.private|Ihorombe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Ihorombe.personal|Ihorombe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Ihorombe.secret|Ihorombe.secret]] 
 

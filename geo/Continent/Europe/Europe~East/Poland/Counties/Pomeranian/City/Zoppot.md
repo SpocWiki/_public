@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zoppot.md|Zoppot]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zoppot.internal.md|Zoppot.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zoppot.protect.md|Zoppot.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zoppot.private.md|Zoppot.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zoppot.personal.md|Zoppot.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zoppot.secret.md|Zoppot.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zoppot.internal|Zoppot.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zoppot.protect|Zoppot.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zoppot.private|Zoppot.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zoppot.personal|Zoppot.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zoppot.secret|Zoppot.secret]] 

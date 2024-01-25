@@ -41,9 +41,9 @@ markerFolder: ./Colima/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Colima.md|Colima]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Colima.internal.md|Colima.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Colima.protect.md|Colima.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Colima.private.md|Colima.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Colima.personal.md|Colima.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Colima.secret.md|Colima.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Colima.internal|Colima.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Colima.protect|Colima.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Colima.private|Colima.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Colima.personal|Colima.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Colima.secret|Colima.secret]] 
 

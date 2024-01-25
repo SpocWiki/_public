@@ -131,8 +131,8 @@ markerFolder: ./Estonia//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia.md|Estonia]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia.internal.md|Estonia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia.protect.md|Estonia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia.private.md|Estonia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia.personal.md|Estonia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia.secret.md|Estonia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia.internal|Estonia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia.protect|Estonia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia.private|Estonia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia.personal|Estonia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia.secret|Estonia.secret]] 

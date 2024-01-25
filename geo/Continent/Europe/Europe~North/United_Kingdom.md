@@ -43,8 +43,8 @@ markerFolder: ./United_Kingdom/City/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom.md|United_Kingdom]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom.internal.md|United_Kingdom.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom.protect.md|United_Kingdom.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom.private.md|United_Kingdom.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom.personal.md|United_Kingdom.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom.secret.md|United_Kingdom.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom.internal|United_Kingdom.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom.protect|United_Kingdom.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom.private|United_Kingdom.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom.personal|United_Kingdom.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom.secret|United_Kingdom.secret]] 

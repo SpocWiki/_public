@@ -41,9 +41,9 @@ markerFolder: ./Kordestan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.md|Kordestan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.internal.md|Kordestan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.protect.md|Kordestan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.private.md|Kordestan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.personal.md|Kordestan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.secret.md|Kordestan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.internal|Kordestan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.protect|Kordestan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.private|Kordestan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.personal|Kordestan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.secret|Kordestan.secret]] 
 

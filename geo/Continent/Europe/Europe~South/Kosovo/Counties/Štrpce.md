@@ -41,9 +41,9 @@ markerFolder: ./Štrpce/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Štrpce.md|Štrpce]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Štrpce.internal.md|Štrpce.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Štrpce.protect.md|Štrpce.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Štrpce.private.md|Štrpce.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Štrpce.personal.md|Štrpce.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Štrpce.secret.md|Štrpce.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Štrpce.internal|Štrpce.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Štrpce.protect|Štrpce.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Štrpce.private|Štrpce.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Štrpce.personal|Štrpce.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Štrpce.secret|Štrpce.secret]] 
 

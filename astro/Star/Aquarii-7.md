@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Aquarii-7.md|Aquarii-7]] 
-- [[../../../_internal/astro/Star/Aquarii-7.internal.md|Aquarii-7.internal]] 
-- [[../../../_protect/astro/Star/Aquarii-7.protect.md|Aquarii-7.protect]] 
-- [[../../../_private/astro/Star/Aquarii-7.private.md|Aquarii-7.private]] 
-- [[../../../_personal/astro/Star/Aquarii-7.personal.md|Aquarii-7.personal]] 
-- [[../../../_secret/astro/Star/Aquarii-7.secret.md|Aquarii-7.secret]]
+- [[../../../_internal/astro/Star/Aquarii-7.internal|Aquarii-7.internal]] 
+- [[../../../_protect/astro/Star/Aquarii-7.protect|Aquarii-7.protect]] 
+- [[../../../_private/astro/Star/Aquarii-7.private|Aquarii-7.private]] 
+- [[../../../_personal/astro/Star/Aquarii-7.personal|Aquarii-7.personal]] 
+- [[../../../_secret/astro/Star/Aquarii-7.secret|Aquarii-7.secret]]
 

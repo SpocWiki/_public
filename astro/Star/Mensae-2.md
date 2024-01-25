@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Mensae-2.md|Mensae-2]] 
-- [[../../../_internal/astro/Star/Mensae-2.internal.md|Mensae-2.internal]] 
-- [[../../../_protect/astro/Star/Mensae-2.protect.md|Mensae-2.protect]] 
-- [[../../../_private/astro/Star/Mensae-2.private.md|Mensae-2.private]] 
-- [[../../../_personal/astro/Star/Mensae-2.personal.md|Mensae-2.personal]] 
-- [[../../../_secret/astro/Star/Mensae-2.secret.md|Mensae-2.secret]] 
+- [[../../../_internal/astro/Star/Mensae-2.internal|Mensae-2.internal]] 
+- [[../../../_protect/astro/Star/Mensae-2.protect|Mensae-2.protect]] 
+- [[../../../_private/astro/Star/Mensae-2.private|Mensae-2.private]] 
+- [[../../../_personal/astro/Star/Mensae-2.personal|Mensae-2.personal]] 
+- [[../../../_secret/astro/Star/Mensae-2.secret|Mensae-2.secret]] 

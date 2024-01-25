@@ -134,7 +134,7 @@ markerFolder: ./Mozambique//
 ## Confidential Links & Embeds: 
 - [[Mozambique|Mozambique]] 
 - [[../../../../../_internal/geo/Continent/Africa/Mozambique.internal|Mozambique.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique.protect.md|Mozambique.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique.private.md|Mozambique.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique.personal.md|Mozambique.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique.secret.md|Mozambique.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Mozambique.protect|Mozambique.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mozambique.private|Mozambique.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mozambique.personal|Mozambique.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mozambique.secret|Mozambique.secret]] 

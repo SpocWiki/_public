@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Cherkessk.md|Cherkessk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Cherkessk.internal.md|Cherkessk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Cherkessk.protect.md|Cherkessk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Cherkessk.private.md|Cherkessk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Cherkessk.personal.md|Cherkessk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Cherkessk.secret.md|Cherkessk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Cherkessk.internal|Cherkessk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Cherkessk.protect|Cherkessk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Cherkessk.private|Cherkessk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Cherkessk.personal|Cherkessk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Cherkessk.secret|Cherkessk.secret]] 

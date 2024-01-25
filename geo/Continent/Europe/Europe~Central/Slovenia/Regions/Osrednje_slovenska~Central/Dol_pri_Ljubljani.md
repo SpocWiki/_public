@@ -41,9 +41,9 @@ markerFolder: ./Dol_pri_Ljubljani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.md|Dol_pri_Ljubljani]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.internal.md|Dol_pri_Ljubljani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.protect.md|Dol_pri_Ljubljani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.private.md|Dol_pri_Ljubljani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.personal.md|Dol_pri_Ljubljani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.secret.md|Dol_pri_Ljubljani.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.internal|Dol_pri_Ljubljani.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.protect|Dol_pri_Ljubljani.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.private|Dol_pri_Ljubljani.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.personal|Dol_pri_Ljubljani.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Dol_pri_Ljubljani.secret|Dol_pri_Ljubljani.secret]] 
 

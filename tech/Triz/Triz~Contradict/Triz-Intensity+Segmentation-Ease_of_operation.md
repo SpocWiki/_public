@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Segmentation-Ease_of_operation]
 [SpocWebEntityId::23577]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.md|Triz-Intensity+Segmentation-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.internal.md|Triz-Intensity+Segmentation-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.protect.md|Triz-Intensity+Segmentation-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.private.md|Triz-Intensity+Segmentation-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.personal.md|Triz-Intensity+Segmentation-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.secret.md|Triz-Intensity+Segmentation-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.internal|Triz-Intensity+Segmentation-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.protect|Triz-Intensity+Segmentation-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.private|Triz-Intensity+Segmentation-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.personal|Triz-Intensity+Segmentation-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Segmentation-Ease_of_operation.secret|Triz-Intensity+Segmentation-Ease_of_operation.secret]] 

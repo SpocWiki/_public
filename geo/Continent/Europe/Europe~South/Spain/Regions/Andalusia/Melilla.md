@@ -41,9 +41,9 @@ markerFolder: ./Melilla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.md|Melilla]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.internal.md|Melilla.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.protect.md|Melilla.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.private.md|Melilla.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.personal.md|Melilla.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.secret.md|Melilla.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.internal|Melilla.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.protect|Melilla.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.private|Melilla.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.personal|Melilla.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Melilla.secret|Melilla.secret]] 
 

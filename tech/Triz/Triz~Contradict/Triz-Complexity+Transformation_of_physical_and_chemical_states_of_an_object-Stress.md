@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress]
 [SpocWebEntityId::26321]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.personal.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.secret.md|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.personal|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.secret|Triz-Complexity+Transformation_of_physical_and_chemical_states_of_an_object-Stress.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Bar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Bar.md|Bar]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Bar.internal.md|Bar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Bar.protect.md|Bar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Bar.private.md|Bar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Bar.personal.md|Bar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Bar.secret.md|Bar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Bar.internal|Bar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Bar.protect|Bar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Bar.private|Bar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Bar.personal|Bar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Bar.secret|Bar.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Guttaring.md|Guttaring]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Guttaring.internal.md|Guttaring.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Guttaring.protect.md|Guttaring.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Guttaring.private.md|Guttaring.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Guttaring.personal.md|Guttaring.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Guttaring.secret.md|Guttaring.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Guttaring.internal|Guttaring.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Guttaring.protect|Guttaring.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Guttaring.private|Guttaring.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Guttaring.personal|Guttaring.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Guttaring.secret|Guttaring.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Tanger.md|Tanger]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Tanger.internal.md|Tanger.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Tanger.protect.md|Tanger.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Tanger.private.md|Tanger.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Tanger.personal.md|Tanger.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Tanger.secret.md|Tanger.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Tanger.internal|Tanger.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Tanger.protect|Tanger.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Tanger.private|Tanger.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Tanger.personal|Tanger.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Tanger.secret|Tanger.secret]] 

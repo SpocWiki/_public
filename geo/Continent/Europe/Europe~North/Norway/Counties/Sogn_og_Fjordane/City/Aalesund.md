@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Aalesund.md|Aalesund]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Aalesund.internal.md|Aalesund.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Aalesund.protect.md|Aalesund.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Aalesund.private.md|Aalesund.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Aalesund.personal.md|Aalesund.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Aalesund.secret.md|Aalesund.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Aalesund.internal|Aalesund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Aalesund.protect|Aalesund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Aalesund.private|Aalesund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Aalesund.personal|Aalesund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Aalesund.secret|Aalesund.secret]] 

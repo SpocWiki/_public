@@ -36,8 +36,8 @@ SpocWebEntityId: 21942
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-08-Iron/Ruthenium.md|Ruthenium]] 
-- [[../../../../_internal/chemic/Elements/Group-08-Iron/Ruthenium.internal.md|Ruthenium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-08-Iron/Ruthenium.protect.md|Ruthenium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-08-Iron/Ruthenium.private.md|Ruthenium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-08-Iron/Ruthenium.personal.md|Ruthenium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-08-Iron/Ruthenium.secret.md|Ruthenium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-08-Iron/Ruthenium.internal|Ruthenium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-08-Iron/Ruthenium.protect|Ruthenium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-08-Iron/Ruthenium.private|Ruthenium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-08-Iron/Ruthenium.personal|Ruthenium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-08-Iron/Ruthenium.secret|Ruthenium.secret]] 

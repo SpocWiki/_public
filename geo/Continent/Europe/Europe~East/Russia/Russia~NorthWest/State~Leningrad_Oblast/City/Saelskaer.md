@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Saelskaer.md|Saelskaer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Saelskaer.internal.md|Saelskaer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Saelskaer.protect.md|Saelskaer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Saelskaer.private.md|Saelskaer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Saelskaer.personal.md|Saelskaer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Saelskaer.secret.md|Saelskaer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Saelskaer.internal|Saelskaer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Saelskaer.protect|Saelskaer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Saelskaer.private|Saelskaer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Saelskaer.personal|Saelskaer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Saelskaer.secret|Saelskaer.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Bordj_Bou_Arréridj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.md|Bordj_Bou_Arréridj]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.internal.md|Bordj_Bou_Arréridj.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.protect.md|Bordj_Bou_Arréridj.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.private.md|Bordj_Bou_Arréridj.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.personal.md|Bordj_Bou_Arréridj.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.secret.md|Bordj_Bou_Arréridj.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.internal|Bordj_Bou_Arréridj.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.protect|Bordj_Bou_Arréridj.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.private|Bordj_Bou_Arréridj.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.personal|Bordj_Bou_Arréridj.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Bordj_Bou_Arréridj.secret|Bordj_Bou_Arréridj.secret]] 
 

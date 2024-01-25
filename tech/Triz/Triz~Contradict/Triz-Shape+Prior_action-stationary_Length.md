@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Prior_action-stationary_Length]
 [SpocWebEntityId::23723]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-stationary_Length]]]
+- [#has_/Cons :: [[Triz-stationary_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.md|Triz-Shape+Prior_action-stationary_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.internal.md|Triz-Shape+Prior_action-stationary_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.protect.md|Triz-Shape+Prior_action-stationary_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.private.md|Triz-Shape+Prior_action-stationary_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.personal.md|Triz-Shape+Prior_action-stationary_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.secret.md|Triz-Shape+Prior_action-stationary_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.internal|Triz-Shape+Prior_action-stationary_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.protect|Triz-Shape+Prior_action-stationary_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.private|Triz-Shape+Prior_action-stationary_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.personal|Triz-Shape+Prior_action-stationary_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Prior_action-stationary_Length.secret|Triz-Shape+Prior_action-stationary_Length.secret]] 

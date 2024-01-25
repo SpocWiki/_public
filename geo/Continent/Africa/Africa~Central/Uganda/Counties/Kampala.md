@@ -41,9 +41,9 @@ markerFolder: ./Kampala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kampala.md|Kampala]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kampala.internal.md|Kampala.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kampala.protect.md|Kampala.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kampala.private.md|Kampala.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kampala.personal.md|Kampala.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kampala.secret.md|Kampala.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kampala.internal|Kampala.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kampala.protect|Kampala.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kampala.private|Kampala.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kampala.personal|Kampala.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kampala.secret|Kampala.secret]] 
 

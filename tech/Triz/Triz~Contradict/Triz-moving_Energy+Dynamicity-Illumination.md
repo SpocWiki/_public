@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Dynamicity-Illumination]
 [SpocWebEntityId::24481]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.md|Triz-moving_Energy+Dynamicity-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.internal.md|Triz-moving_Energy+Dynamicity-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.protect.md|Triz-moving_Energy+Dynamicity-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.private.md|Triz-moving_Energy+Dynamicity-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.personal.md|Triz-moving_Energy+Dynamicity-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.secret.md|Triz-moving_Energy+Dynamicity-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.internal|Triz-moving_Energy+Dynamicity-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.protect|Triz-moving_Energy+Dynamicity-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.private|Triz-moving_Energy+Dynamicity-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.personal|Triz-moving_Energy+Dynamicity-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.secret|Triz-moving_Energy+Dynamicity-Illumination.secret]] 

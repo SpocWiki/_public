@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Marrakesch.md|Marrakesch]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Marrakesch.internal.md|Marrakesch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Marrakesch.protect.md|Marrakesch.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Marrakesch.private.md|Marrakesch.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Marrakesch.personal.md|Marrakesch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Marrakesch.secret.md|Marrakesch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Marrakesch.internal|Marrakesch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Marrakesch.protect|Marrakesch.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Marrakesch.private|Marrakesch.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Marrakesch.personal|Marrakesch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Marrakesch.secret|Marrakesch.secret]] 

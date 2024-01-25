@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Periodic_action-moving_Duration]
 [SpocWebEntityId::23524]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.md|Triz-Intensity+Periodic_action-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.internal.md|Triz-Intensity+Periodic_action-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.protect.md|Triz-Intensity+Periodic_action-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.private.md|Triz-Intensity+Periodic_action-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.personal.md|Triz-Intensity+Periodic_action-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.secret.md|Triz-Intensity+Periodic_action-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.internal|Triz-Intensity+Periodic_action-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.protect|Triz-Intensity+Periodic_action-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.private|Triz-Intensity+Periodic_action-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.personal|Triz-Intensity+Periodic_action-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.secret|Triz-Intensity+Periodic_action-moving_Duration.secret]] 

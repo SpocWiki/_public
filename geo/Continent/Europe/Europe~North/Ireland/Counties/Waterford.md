@@ -41,9 +41,9 @@ markerFolder: ./Waterford/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Waterford.md|Waterford]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Waterford.internal.md|Waterford.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Waterford.protect.md|Waterford.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Waterford.private.md|Waterford.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Waterford.personal.md|Waterford.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Waterford.secret.md|Waterford.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Waterford.internal|Waterford.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Waterford.protect|Waterford.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Waterford.private|Waterford.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Waterford.personal|Waterford.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Waterford.secret|Waterford.secret]] 
 

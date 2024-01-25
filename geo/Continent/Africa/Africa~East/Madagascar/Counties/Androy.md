@@ -41,9 +41,9 @@ markerFolder: ./Androy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Androy.md|Androy]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Androy.internal.md|Androy.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Androy.protect.md|Androy.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Androy.private.md|Androy.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Androy.personal.md|Androy.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Androy.secret.md|Androy.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Androy.internal|Androy.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Androy.protect|Androy.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Androy.private|Androy.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Androy.personal|Androy.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Androy.secret|Androy.secret]] 
 

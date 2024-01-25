@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/North-America/Canada/City/Yellowknife.md|Yellowknife]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Yellowknife.internal.md|Yellowknife.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Yellowknife.protect.md|Yellowknife.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Yellowknife.private.md|Yellowknife.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Yellowknife.personal.md|Yellowknife.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Yellowknife.secret.md|Yellowknife.secret]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Yellowknife.internal|Yellowknife.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Yellowknife.protect|Yellowknife.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Yellowknife.private|Yellowknife.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Yellowknife.personal|Yellowknife.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Yellowknife.secret|Yellowknife.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Iglesias.md|Iglesias]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Iglesias.internal.md|Iglesias.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Iglesias.protect.md|Iglesias.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Iglesias.private.md|Iglesias.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Iglesias.personal.md|Iglesias.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Iglesias.secret.md|Iglesias.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Iglesias.internal|Iglesias.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Iglesias.protect|Iglesias.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Iglesias.private|Iglesias.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Iglesias.personal|Iglesias.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Iglesias.secret|Iglesias.secret]] 

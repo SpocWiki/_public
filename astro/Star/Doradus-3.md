@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Doradus-3.md|Doradus-3]] 
-- [[../../../_internal/astro/Star/Doradus-3.internal.md|Doradus-3.internal]] 
-- [[../../../_protect/astro/Star/Doradus-3.protect.md|Doradus-3.protect]] 
-- [[../../../_private/astro/Star/Doradus-3.private.md|Doradus-3.private]] 
-- [[../../../_personal/astro/Star/Doradus-3.personal.md|Doradus-3.personal]] 
-- [[../../../_secret/astro/Star/Doradus-3.secret.md|Doradus-3.secret]]
+- [[../../../_internal/astro/Star/Doradus-3.internal|Doradus-3.internal]] 
+- [[../../../_protect/astro/Star/Doradus-3.protect|Doradus-3.protect]] 
+- [[../../../_private/astro/Star/Doradus-3.private|Doradus-3.private]] 
+- [[../../../_personal/astro/Star/Doradus-3.personal|Doradus-3.personal]] 
+- [[../../../_secret/astro/Star/Doradus-3.secret|Doradus-3.secret]]
 

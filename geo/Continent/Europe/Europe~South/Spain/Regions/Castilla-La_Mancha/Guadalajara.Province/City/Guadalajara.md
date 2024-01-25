@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Guadalajara.md|Guadalajara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Guadalajara.internal.md|Guadalajara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Guadalajara.protect.md|Guadalajara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Guadalajara.private.md|Guadalajara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Guadalajara.personal.md|Guadalajara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Guadalajara.secret.md|Guadalajara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Guadalajara.internal|Guadalajara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Guadalajara.protect|Guadalajara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Guadalajara.private|Guadalajara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Guadalajara.personal|Guadalajara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Guadalajara.secret|Guadalajara.secret]] 

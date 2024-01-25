@@ -41,9 +41,9 @@ markerFolder: ./Guria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Guria.md|Guria]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Guria.internal.md|Guria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Guria.protect.md|Guria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Guria.private.md|Guria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Guria.personal.md|Guria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Guria.secret.md|Guria.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Guria.internal|Guria.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Guria.protect|Guria.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Guria.private|Guria.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Guria.personal|Guria.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Guria.secret|Guria.secret]] 
 

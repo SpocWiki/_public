@@ -41,9 +41,9 @@ markerFolder: ./São_Salvador_do_Mundo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.md|São_Salvador_do_Mundo]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.internal.md|São_Salvador_do_Mundo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.protect.md|São_Salvador_do_Mundo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.private.md|São_Salvador_do_Mundo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.personal.md|São_Salvador_do_Mundo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.secret.md|São_Salvador_do_Mundo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.internal|São_Salvador_do_Mundo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.protect|São_Salvador_do_Mundo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.private|São_Salvador_do_Mundo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.personal|São_Salvador_do_Mundo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.secret|São_Salvador_do_Mundo.secret]] 
 

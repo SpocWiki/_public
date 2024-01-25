@@ -41,9 +41,9 @@ markerFolder: ./Osun/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Osun.md|Osun]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Osun.internal.md|Osun.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Osun.protect.md|Osun.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Osun.private.md|Osun.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Osun.personal.md|Osun.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Osun.secret.md|Osun.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Osun.internal|Osun.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Osun.protect|Osun.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Osun.private|Osun.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Osun.personal|Osun.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Osun.secret|Osun.secret]] 
 

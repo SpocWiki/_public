@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bergheim~Dillingen|Bergheim~Dillingen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.internal.md|Bergheim~Dillingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.protect.md|Bergheim~Dillingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.private.md|Bergheim~Dillingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.personal.md|Bergheim~Dillingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.secret.md|Bergheim~Dillingen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.internal|Bergheim~Dillingen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.protect|Bergheim~Dillingen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.private|Bergheim~Dillingen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.personal|Bergheim~Dillingen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.secret|Bergheim~Dillingen.secret]] 

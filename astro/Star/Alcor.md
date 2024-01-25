@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alcor.md|Alcor]] 
-- [[../../../_internal/astro/Star/Alcor.internal.md|Alcor.internal]] 
-- [[../../../_protect/astro/Star/Alcor.protect.md|Alcor.protect]] 
-- [[../../../_private/astro/Star/Alcor.private.md|Alcor.private]] 
-- [[../../../_personal/astro/Star/Alcor.personal.md|Alcor.personal]] 
-- [[../../../_secret/astro/Star/Alcor.secret.md|Alcor.secret]]
+- [[../../../_internal/astro/Star/Alcor.internal|Alcor.internal]] 
+- [[../../../_protect/astro/Star/Alcor.protect|Alcor.protect]] 
+- [[../../../_private/astro/Star/Alcor.private|Alcor.private]] 
+- [[../../../_personal/astro/Star/Alcor.personal|Alcor.personal]] 
+- [[../../../_secret/astro/Star/Alcor.secret|Alcor.secret]]
 

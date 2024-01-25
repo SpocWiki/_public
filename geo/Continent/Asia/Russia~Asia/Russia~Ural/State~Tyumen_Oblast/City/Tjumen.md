@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tjumen.md|Tjumen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tjumen.internal.md|Tjumen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tjumen.protect.md|Tjumen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tjumen.private.md|Tjumen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tjumen.personal.md|Tjumen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tjumen.secret.md|Tjumen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tjumen.internal|Tjumen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tjumen.protect|Tjumen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tjumen.private|Tjumen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tjumen.personal|Tjumen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tjumen.secret|Tjumen.secret]] 

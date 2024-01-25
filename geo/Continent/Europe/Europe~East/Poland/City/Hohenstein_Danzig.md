@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.md|Hohenstein_Danzig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.internal.md|Hohenstein_Danzig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.protect.md|Hohenstein_Danzig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.private.md|Hohenstein_Danzig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.personal.md|Hohenstein_Danzig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.secret.md|Hohenstein_Danzig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.internal|Hohenstein_Danzig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.protect|Hohenstein_Danzig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.private|Hohenstein_Danzig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.personal|Hohenstein_Danzig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hohenstein_Danzig.secret|Hohenstein_Danzig.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Gurtnellen.md|Gurtnellen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gurtnellen.internal.md|Gurtnellen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gurtnellen.protect.md|Gurtnellen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gurtnellen.private.md|Gurtnellen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gurtnellen.personal.md|Gurtnellen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gurtnellen.secret.md|Gurtnellen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gurtnellen.internal|Gurtnellen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gurtnellen.protect|Gurtnellen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gurtnellen.private|Gurtnellen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gurtnellen.personal|Gurtnellen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gurtnellen.secret|Gurtnellen.secret]] 

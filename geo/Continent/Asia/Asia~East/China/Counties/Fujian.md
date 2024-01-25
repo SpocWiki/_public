@@ -41,9 +41,9 @@ markerFolder: ./Fujian/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Fujian.md|Fujian]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Fujian.internal.md|Fujian.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Fujian.protect.md|Fujian.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Fujian.private.md|Fujian.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Fujian.personal.md|Fujian.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Fujian.secret.md|Fujian.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Fujian.internal|Fujian.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Fujian.protect|Fujian.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Fujian.private|Fujian.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Fujian.personal|Fujian.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Fujian.secret|Fujian.secret]] 
 

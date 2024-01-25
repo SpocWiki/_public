@@ -41,9 +41,9 @@ markerFolder: ./Solcava/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.md|Solcava]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.internal.md|Solcava.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.protect.md|Solcava.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.private.md|Solcava.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.personal.md|Solcava.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.secret.md|Solcava.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.internal|Solcava.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.protect|Solcava.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.private|Solcava.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.personal|Solcava.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Solcava.secret|Solcava.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schwarzach.md|Schwarzach]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwarzach.internal.md|Schwarzach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwarzach.protect.md|Schwarzach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schwarzach.private.md|Schwarzach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwarzach.personal.md|Schwarzach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwarzach.secret.md|Schwarzach.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwarzach.internal|Schwarzach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwarzach.protect|Schwarzach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schwarzach.private|Schwarzach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwarzach.personal|Schwarzach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwarzach.secret|Schwarzach.secret]] 

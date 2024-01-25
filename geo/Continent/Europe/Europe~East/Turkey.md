@@ -140,8 +140,8 @@ markerFolder: ./Turkey//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey.md|Turkey]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey.internal.md|Turkey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey.protect.md|Turkey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey.private.md|Turkey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey.personal.md|Turkey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey.secret.md|Turkey.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey.internal|Turkey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey.protect|Turkey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey.private|Turkey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey.personal|Turkey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey.secret|Turkey.secret]] 

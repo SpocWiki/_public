@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Prior_action-Strength]
 [SpocWebEntityId::25873]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.md|Triz-Ease_of_manufacture+Prior_action-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.internal.md|Triz-Ease_of_manufacture+Prior_action-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.protect.md|Triz-Ease_of_manufacture+Prior_action-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.private.md|Triz-Ease_of_manufacture+Prior_action-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.personal.md|Triz-Ease_of_manufacture+Prior_action-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.secret.md|Triz-Ease_of_manufacture+Prior_action-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.internal|Triz-Ease_of_manufacture+Prior_action-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.protect|Triz-Ease_of_manufacture+Prior_action-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.private|Triz-Ease_of_manufacture+Prior_action-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.personal|Triz-Ease_of_manufacture+Prior_action-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Prior_action-Strength.secret|Triz-Ease_of_manufacture+Prior_action-Strength.secret]] 

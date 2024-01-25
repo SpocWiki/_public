@@ -38,8 +38,8 @@ SpocWebEntityId: 21913
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-01-Alkali/Sodium.md|Sodium]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Sodium.internal.md|Sodium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Sodium.protect.md|Sodium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Sodium.private.md|Sodium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Sodium.personal.md|Sodium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Sodium.secret.md|Sodium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Sodium.internal|Sodium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Sodium.protect|Sodium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Sodium.private|Sodium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Sodium.personal|Sodium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Sodium.secret|Sodium.secret]] 

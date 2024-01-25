@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Valladolid.md|Valladolid]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Valladolid.internal.md|Valladolid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Valladolid.protect.md|Valladolid.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Valladolid.private.md|Valladolid.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Valladolid.personal.md|Valladolid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Valladolid.secret.md|Valladolid.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Valladolid.internal|Valladolid.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Valladolid.protect|Valladolid.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Valladolid.private|Valladolid.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Valladolid.personal|Valladolid.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Valladolid.secret|Valladolid.secret]] 

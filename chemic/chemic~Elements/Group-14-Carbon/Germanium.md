@@ -38,8 +38,8 @@ SpocWebEntityId: 21930
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-14-Carbon/Germanium.md|Germanium]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Germanium.internal.md|Germanium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Germanium.protect.md|Germanium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Germanium.private.md|Germanium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Germanium.personal.md|Germanium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Germanium.secret.md|Germanium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Germanium.internal|Germanium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Germanium.protect|Germanium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-14-Carbon/Germanium.private|Germanium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Germanium.personal|Germanium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Germanium.secret|Germanium.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Relizane/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Relizane.md|Relizane]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Relizane.internal.md|Relizane.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Relizane.protect.md|Relizane.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Relizane.private.md|Relizane.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Relizane.personal.md|Relizane.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Relizane.secret.md|Relizane.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Relizane.internal|Relizane.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Relizane.protect|Relizane.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Relizane.private|Relizane.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Relizane.personal|Relizane.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Relizane.secret|Relizane.secret]] 
 

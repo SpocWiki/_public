@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Korsoev.md|Korsoev]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Korsoev.internal.md|Korsoev.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Korsoev.protect.md|Korsoev.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Korsoev.private.md|Korsoev.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Korsoev.personal.md|Korsoev.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Korsoev.secret.md|Korsoev.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Korsoev.internal|Korsoev.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Korsoev.protect|Korsoev.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Korsoev.private|Korsoev.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Korsoev.personal|Korsoev.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Korsoev.secret|Korsoev.secret]] 

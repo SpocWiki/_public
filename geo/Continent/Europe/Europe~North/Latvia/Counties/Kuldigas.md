@@ -41,9 +41,9 @@ markerFolder: ./Kuldigas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Kuldigas.md|Kuldigas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kuldigas.internal.md|Kuldigas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kuldigas.protect.md|Kuldigas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kuldigas.private.md|Kuldigas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kuldigas.personal.md|Kuldigas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kuldigas.secret.md|Kuldigas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kuldigas.internal|Kuldigas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kuldigas.protect|Kuldigas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kuldigas.private|Kuldigas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kuldigas.personal|Kuldigas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kuldigas.secret|Kuldigas.secret]] 
 

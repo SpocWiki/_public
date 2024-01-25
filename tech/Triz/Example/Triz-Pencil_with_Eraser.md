@@ -18,8 +18,8 @@ Pencil with Eraser in one Unit
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Pencil_with_Eraser.md|Triz-Pencil_with_Eraser]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Pencil_with_Eraser.internal.md|Triz-Pencil_with_Eraser.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Pencil_with_Eraser.protect.md|Triz-Pencil_with_Eraser.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Pencil_with_Eraser.private.md|Triz-Pencil_with_Eraser.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Pencil_with_Eraser.personal.md|Triz-Pencil_with_Eraser.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Pencil_with_Eraser.secret.md|Triz-Pencil_with_Eraser.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Pencil_with_Eraser.internal|Triz-Pencil_with_Eraser.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Pencil_with_Eraser.protect|Triz-Pencil_with_Eraser.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Pencil_with_Eraser.private|Triz-Pencil_with_Eraser.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Pencil_with_Eraser.personal|Triz-Pencil_with_Eraser.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Pencil_with_Eraser.secret|Triz-Pencil_with_Eraser.secret]] 

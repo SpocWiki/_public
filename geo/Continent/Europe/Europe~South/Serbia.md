@@ -133,8 +133,8 @@ markerFolder: ./Serbia//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia.md|Serbia]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia.internal.md|Serbia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia.protect.md|Serbia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia.private.md|Serbia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia.personal.md|Serbia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia.secret.md|Serbia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia.internal|Serbia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia.protect|Serbia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia.private|Serbia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia.personal|Serbia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia.secret|Serbia.secret]] 

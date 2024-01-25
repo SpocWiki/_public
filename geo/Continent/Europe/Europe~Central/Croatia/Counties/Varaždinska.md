@@ -41,9 +41,9 @@ markerFolder: ./Varaždinska/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Varaždinska.md|Varaždinska]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Varaždinska.internal.md|Varaždinska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Varaždinska.protect.md|Varaždinska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Varaždinska.private.md|Varaždinska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Varaždinska.personal.md|Varaždinska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Varaždinska.secret.md|Varaždinska.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Varaždinska.internal|Varaždinska.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Varaždinska.protect|Varaždinska.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Varaždinska.private|Varaždinska.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Varaždinska.personal|Varaždinska.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Varaždinska.secret|Varaždinska.secret]] 
 

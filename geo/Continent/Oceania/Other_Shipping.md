@@ -36,8 +36,8 @@ markerFolder: ./Other_Shipping/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Other_Shipping.md|Other_Shipping]] 
-- [[../../../../_internal/geo/Continent/Oceania/Other_Shipping.internal.md|Other_Shipping.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Other_Shipping.protect.md|Other_Shipping.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Other_Shipping.private.md|Other_Shipping.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Other_Shipping.personal.md|Other_Shipping.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Other_Shipping.secret.md|Other_Shipping.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Other_Shipping.internal|Other_Shipping.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Other_Shipping.protect|Other_Shipping.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Other_Shipping.private|Other_Shipping.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Other_Shipping.personal|Other_Shipping.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Other_Shipping.secret|Other_Shipping.secret]] 

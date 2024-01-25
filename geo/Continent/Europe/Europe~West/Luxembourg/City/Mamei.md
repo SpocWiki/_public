@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Mamei.md|Mamei]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Mamei.internal.md|Mamei.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Mamei.protect.md|Mamei.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Mamei.private.md|Mamei.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Mamei.personal.md|Mamei.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Mamei.secret.md|Mamei.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Mamei.internal|Mamei.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Mamei.protect|Mamei.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Mamei.private|Mamei.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Mamei.personal|Mamei.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Mamei.secret|Mamei.secret]] 

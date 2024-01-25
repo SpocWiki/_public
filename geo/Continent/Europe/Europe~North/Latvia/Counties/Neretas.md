@@ -41,9 +41,9 @@ markerFolder: ./Neretas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Neretas.md|Neretas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Neretas.internal.md|Neretas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Neretas.protect.md|Neretas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Neretas.private.md|Neretas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Neretas.personal.md|Neretas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Neretas.secret.md|Neretas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Neretas.internal|Neretas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Neretas.protect|Neretas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Neretas.private|Neretas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Neretas.personal|Neretas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Neretas.secret|Neretas.secret]] 
 

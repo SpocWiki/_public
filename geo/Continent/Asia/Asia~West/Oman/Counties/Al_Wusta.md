@@ -41,9 +41,9 @@ markerFolder: ./Al_Wusta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.md|Al_Wusta]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.internal.md|Al_Wusta.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.protect.md|Al_Wusta.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.private.md|Al_Wusta.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.personal.md|Al_Wusta.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.secret.md|Al_Wusta.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.internal|Al_Wusta.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.protect|Al_Wusta.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.private|Al_Wusta.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.personal|Al_Wusta.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Wusta.secret|Al_Wusta.secret]] 
 

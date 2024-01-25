@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Seeven.md|Seeven]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Seeven.internal.md|Seeven.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Seeven.protect.md|Seeven.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Seeven.private.md|Seeven.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Seeven.personal.md|Seeven.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Seeven.secret.md|Seeven.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Seeven.internal|Seeven.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Seeven.protect|Seeven.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Seeven.private|Seeven.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Seeven.personal|Seeven.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Seeven.secret|Seeven.secret]] 

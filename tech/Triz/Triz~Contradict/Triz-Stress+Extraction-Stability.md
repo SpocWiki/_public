@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Extraction-Stability]
 [SpocWebEntityId::23642]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.md|Triz-Stress+Extraction-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.internal.md|Triz-Stress+Extraction-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.protect.md|Triz-Stress+Extraction-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.private.md|Triz-Stress+Extraction-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.personal.md|Triz-Stress+Extraction-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.secret.md|Triz-Stress+Extraction-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.internal|Triz-Stress+Extraction-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.protect|Triz-Stress+Extraction-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.private|Triz-Stress+Extraction-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.personal|Triz-Stress+Extraction-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.secret|Triz-Stress+Extraction-Stability.secret]] 

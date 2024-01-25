@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Dietzenbach_Mitte|S-Dietzenbach_Mitte]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.internal.md|S-Dietzenbach_Mitte.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.protect.md|S-Dietzenbach_Mitte.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.private.md|S-Dietzenbach_Mitte.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.personal.md|S-Dietzenbach_Mitte.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.secret.md|S-Dietzenbach_Mitte.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.internal|S-Dietzenbach_Mitte.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.protect|S-Dietzenbach_Mitte.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.private|S-Dietzenbach_Mitte.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.personal|S-Dietzenbach_Mitte.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.secret|S-Dietzenbach_Mitte.secret]] 

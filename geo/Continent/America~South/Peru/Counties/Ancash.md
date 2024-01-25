@@ -41,9 +41,9 @@ markerFolder: ./Ancash/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Ancash.md|Ancash]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Ancash.internal.md|Ancash.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Ancash.protect.md|Ancash.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Ancash.private.md|Ancash.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Ancash.personal.md|Ancash.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Ancash.secret.md|Ancash.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Ancash.internal|Ancash.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Ancash.protect|Ancash.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Ancash.private|Ancash.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Ancash.personal|Ancash.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Ancash.secret|Ancash.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Kobarid/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.md|Kobarid]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.internal.md|Kobarid.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.protect.md|Kobarid.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.private.md|Kobarid.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.personal.md|Kobarid.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.secret.md|Kobarid.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.internal|Kobarid.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.protect|Kobarid.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.private|Kobarid.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.personal|Kobarid.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Kobarid.secret|Kobarid.secret]] 
 

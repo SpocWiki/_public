@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.md|Pieve_nel_Cairolt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.internal.md|Pieve_nel_Cairolt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.protect.md|Pieve_nel_Cairolt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.private.md|Pieve_nel_Cairolt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.personal.md|Pieve_nel_Cairolt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.secret.md|Pieve_nel_Cairolt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.internal|Pieve_nel_Cairolt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.protect|Pieve_nel_Cairolt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.private|Pieve_nel_Cairolt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.personal|Pieve_nel_Cairolt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.secret|Pieve_nel_Cairolt.secret]] 

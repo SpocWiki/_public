@@ -36,8 +36,8 @@ SpocWebEntityId: 21948
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Tellurium.md|Tellurium]] 
-- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Tellurium.internal.md|Tellurium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Tellurium.protect.md|Tellurium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Tellurium.private.md|Tellurium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Tellurium.personal.md|Tellurium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Tellurium.secret.md|Tellurium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Tellurium.internal|Tellurium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Tellurium.protect|Tellurium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Tellurium.private|Tellurium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Tellurium.personal|Tellurium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Tellurium.secret|Tellurium.secret]] 

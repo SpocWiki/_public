@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Sofienwald.md|Sofienwald]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Sofienwald.internal.md|Sofienwald.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Sofienwald.protect.md|Sofienwald.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Sofienwald.private.md|Sofienwald.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Sofienwald.personal.md|Sofienwald.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Sofienwald.secret.md|Sofienwald.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Sofienwald.internal|Sofienwald.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Sofienwald.protect|Sofienwald.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Sofienwald.private|Sofienwald.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Sofienwald.personal|Sofienwald.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Sofienwald.secret|Sofienwald.secret]] 

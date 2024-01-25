@@ -41,9 +41,9 @@ markerFolder: ./Palencia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.md|Palencia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.internal.md|Palencia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.protect.md|Palencia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.private.md|Palencia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.personal.md|Palencia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.secret.md|Palencia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.internal|Palencia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.protect|Palencia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.private|Palencia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.personal|Palencia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Palencia.Province.secret|Palencia.Province.secret]] 
 

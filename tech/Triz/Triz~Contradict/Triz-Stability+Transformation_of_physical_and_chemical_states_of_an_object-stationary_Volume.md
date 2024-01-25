@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]
 [SpocWebEntityId::23850]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Cheshire-West_and_Chester/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.md|Cheshire-West_and_Chester]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.internal.md|Cheshire-West_and_Chester.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.protect.md|Cheshire-West_and_Chester.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.private.md|Cheshire-West_and_Chester.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.personal.md|Cheshire-West_and_Chester.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.secret.md|Cheshire-West_and_Chester.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.internal|Cheshire-West_and_Chester.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.protect|Cheshire-West_and_Chester.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.private|Cheshire-West_and_Chester.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.personal|Cheshire-West_and_Chester.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cheshire-West_and_Chester.secret|Cheshire-West_and_Chester.secret]] 
 

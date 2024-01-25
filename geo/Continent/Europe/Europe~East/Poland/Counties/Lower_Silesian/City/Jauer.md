@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jauer.md|Jauer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jauer.internal.md|Jauer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jauer.protect.md|Jauer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jauer.private.md|Jauer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jauer.personal.md|Jauer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jauer.secret.md|Jauer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jauer.internal|Jauer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jauer.protect|Jauer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jauer.private|Jauer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jauer.personal|Jauer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jauer.secret|Jauer.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Pardubický/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.md|Pardubický]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.internal.md|Pardubický.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.protect.md|Pardubický.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.private.md|Pardubický.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.personal.md|Pardubický.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.secret.md|Pardubický.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.internal|Pardubický.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.protect|Pardubický.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.private|Pardubický.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.personal|Pardubický.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Pardubický.secret|Pardubický.secret]] 
 

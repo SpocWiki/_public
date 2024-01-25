@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Self-service-Quantity]
 [SpocWebEntityId::26143]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.md|Triz-Ease_of_repair+Self-service-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.internal.md|Triz-Ease_of_repair+Self-service-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.protect.md|Triz-Ease_of_repair+Self-service-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.private.md|Triz-Ease_of_repair+Self-service-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.personal.md|Triz-Ease_of_repair+Self-service-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.secret.md|Triz-Ease_of_repair+Self-service-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.internal|Triz-Ease_of_repair+Self-service-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.protect|Triz-Ease_of_repair+Self-service-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.private|Triz-Ease_of_repair+Self-service-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.personal|Triz-Ease_of_repair+Self-service-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.secret|Triz-Ease_of_repair+Self-service-Quantity.secret]] 

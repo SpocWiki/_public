@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Turda.md|Turda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Turda.internal.md|Turda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Turda.protect.md|Turda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Turda.private.md|Turda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Turda.personal.md|Turda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Turda.secret.md|Turda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Turda.internal|Turda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Turda.protect|Turda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Turda.private|Turda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Turda.personal|Turda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Turda.secret|Turda.secret]] 

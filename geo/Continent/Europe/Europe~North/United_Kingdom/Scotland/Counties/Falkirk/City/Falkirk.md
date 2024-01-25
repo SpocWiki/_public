@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Falkirk.md|Falkirk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Falkirk.internal.md|Falkirk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Falkirk.protect.md|Falkirk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Falkirk.private.md|Falkirk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Falkirk.personal.md|Falkirk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Falkirk.secret.md|Falkirk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Falkirk.internal|Falkirk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Falkirk.protect|Falkirk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Falkirk.private|Falkirk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Falkirk.personal|Falkirk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Falkirk.secret|Falkirk.secret]] 

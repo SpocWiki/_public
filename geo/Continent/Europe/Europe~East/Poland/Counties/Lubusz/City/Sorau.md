@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sorau.md|Sorau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sorau.internal.md|Sorau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sorau.protect.md|Sorau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sorau.private.md|Sorau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sorau.personal.md|Sorau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sorau.secret.md|Sorau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sorau.internal|Sorau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sorau.protect|Sorau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sorau.private|Sorau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sorau.personal|Sorau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sorau.secret|Sorau.secret]] 

@@ -18,8 +18,8 @@ Liquid Hand Soap is concentrated and more viscous than Bar Soap at the point of 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Liquid_Hand_Soap.md|Triz-Liquid_Hand_Soap]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Liquid_Hand_Soap.internal.md|Triz-Liquid_Hand_Soap.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Liquid_Hand_Soap.protect.md|Triz-Liquid_Hand_Soap.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Liquid_Hand_Soap.private.md|Triz-Liquid_Hand_Soap.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Liquid_Hand_Soap.personal.md|Triz-Liquid_Hand_Soap.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Liquid_Hand_Soap.secret.md|Triz-Liquid_Hand_Soap.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Liquid_Hand_Soap.internal|Triz-Liquid_Hand_Soap.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Liquid_Hand_Soap.protect|Triz-Liquid_Hand_Soap.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Liquid_Hand_Soap.private|Triz-Liquid_Hand_Soap.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Liquid_Hand_Soap.personal|Triz-Liquid_Hand_Soap.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Liquid_Hand_Soap.secret|Triz-Liquid_Hand_Soap.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gollnow.md|Gollnow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gollnow.internal.md|Gollnow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gollnow.protect.md|Gollnow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gollnow.private.md|Gollnow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gollnow.personal.md|Gollnow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gollnow.secret.md|Gollnow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gollnow.internal|Gollnow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gollnow.protect|Gollnow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gollnow.private|Gollnow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gollnow.personal|Gollnow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gollnow.secret|Gollnow.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Afar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Afar.md|Afar]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Afar.internal.md|Afar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Afar.protect.md|Afar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Afar.private.md|Afar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Afar.personal.md|Afar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Afar.secret.md|Afar.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Afar.internal|Afar.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Afar.protect|Afar.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Afar.private|Afar.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Afar.personal|Afar.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Afar.secret|Afar.secret]] 
 

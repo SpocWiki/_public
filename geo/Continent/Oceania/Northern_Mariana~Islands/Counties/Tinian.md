@@ -41,9 +41,9 @@ markerFolder: ./Tinian/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.md|Tinian]] 
-- [[../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.internal.md|Tinian.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.protect.md|Tinian.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.private.md|Tinian.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.personal.md|Tinian.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.secret.md|Tinian.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.internal|Tinian.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.protect|Tinian.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.private|Tinian.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.personal|Tinian.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Tinian.secret|Tinian.secret]] 
 

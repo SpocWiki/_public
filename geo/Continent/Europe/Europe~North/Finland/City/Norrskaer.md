@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Norrskaer.md|Norrskaer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Norrskaer.internal.md|Norrskaer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Norrskaer.protect.md|Norrskaer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Norrskaer.private.md|Norrskaer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Norrskaer.personal.md|Norrskaer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Norrskaer.secret.md|Norrskaer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Norrskaer.internal|Norrskaer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Norrskaer.protect|Norrskaer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Norrskaer.private|Norrskaer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Norrskaer.personal|Norrskaer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Norrskaer.secret|Norrskaer.secret]] 

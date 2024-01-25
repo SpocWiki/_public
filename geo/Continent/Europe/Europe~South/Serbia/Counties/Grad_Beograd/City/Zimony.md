@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Zimony.md|Zimony]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Zimony.internal.md|Zimony.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Zimony.protect.md|Zimony.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Zimony.private.md|Zimony.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Zimony.personal.md|Zimony.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Zimony.secret.md|Zimony.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Zimony.internal|Zimony.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Zimony.protect|Zimony.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Zimony.private|Zimony.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Zimony.personal|Zimony.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Zimony.secret|Zimony.secret]] 

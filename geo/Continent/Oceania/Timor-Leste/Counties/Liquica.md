@@ -41,9 +41,9 @@ markerFolder: ./Liquica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.md|Liquica]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.internal.md|Liquica.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.protect.md|Liquica.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.private.md|Liquica.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.personal.md|Liquica.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.secret.md|Liquica.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.internal|Liquica.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.protect|Liquica.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.private|Liquica.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.personal|Liquica.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Liquica.secret|Liquica.secret]] 
 

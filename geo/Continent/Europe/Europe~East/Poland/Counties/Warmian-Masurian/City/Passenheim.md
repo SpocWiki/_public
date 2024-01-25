@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Passenheim.md|Passenheim]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Passenheim.internal.md|Passenheim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Passenheim.protect.md|Passenheim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Passenheim.private.md|Passenheim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Passenheim.personal.md|Passenheim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Passenheim.secret.md|Passenheim.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Passenheim.internal|Passenheim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Passenheim.protect|Passenheim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Passenheim.private|Passenheim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Passenheim.personal|Passenheim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Passenheim.secret|Passenheim.secret]] 

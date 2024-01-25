@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Isperdorf.md|Isperdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Isperdorf.internal.md|Isperdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Isperdorf.protect.md|Isperdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Isperdorf.private.md|Isperdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Isperdorf.personal.md|Isperdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Isperdorf.secret.md|Isperdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Isperdorf.internal|Isperdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Isperdorf.protect|Isperdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Isperdorf.private|Isperdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Isperdorf.personal|Isperdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Isperdorf.secret|Isperdorf.secret]] 

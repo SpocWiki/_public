@@ -25,8 +25,8 @@ Use flexible shells and thin films instead of three dimensional structures.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-use-films.md|Triz-use-films]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-use-films.internal.md|Triz-use-films.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-use-films.protect.md|Triz-use-films.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-use-films.private.md|Triz-use-films.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-use-films.personal.md|Triz-use-films.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-use-films.secret.md|Triz-use-films.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-use-films.internal|Triz-use-films.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-use-films.protect|Triz-use-films.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-use-films.private|Triz-use-films.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-use-films.personal|Triz-use-films.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-use-films.secret|Triz-use-films.secret]] 

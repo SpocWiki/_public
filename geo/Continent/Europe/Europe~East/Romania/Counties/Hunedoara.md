@@ -41,9 +41,9 @@ markerFolder: ./Hunedoara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Hunedoara.md|Hunedoara]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Hunedoara.internal.md|Hunedoara.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Hunedoara.protect.md|Hunedoara.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Hunedoara.private.md|Hunedoara.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Hunedoara.personal.md|Hunedoara.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Hunedoara.secret.md|Hunedoara.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Hunedoara.internal|Hunedoara.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Hunedoara.protect|Hunedoara.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Hunedoara.private|Hunedoara.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Hunedoara.personal|Hunedoara.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Hunedoara.secret|Hunedoara.secret]] 
 

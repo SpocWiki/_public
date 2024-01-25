@@ -41,9 +41,9 @@ markerFolder: ./Zlatiborski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Zlatiborski.md|Zlatiborski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Zlatiborski.internal.md|Zlatiborski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Zlatiborski.protect.md|Zlatiborski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Zlatiborski.private.md|Zlatiborski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Zlatiborski.personal.md|Zlatiborski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Zlatiborski.secret.md|Zlatiborski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Zlatiborski.internal|Zlatiborski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Zlatiborski.protect|Zlatiborski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Zlatiborski.private|Zlatiborski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Zlatiborski.personal|Zlatiborski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Zlatiborski.secret|Zlatiborski.secret]] 
 

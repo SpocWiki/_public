@@ -18,8 +18,8 @@ Use inflatable (thin film) Structures as Winter Covers on Tennis Courts.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-inflatable_Structures.md|Triz-inflatable_Structures]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-inflatable_Structures.internal.md|Triz-inflatable_Structures.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-inflatable_Structures.protect.md|Triz-inflatable_Structures.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-inflatable_Structures.private.md|Triz-inflatable_Structures.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-inflatable_Structures.personal.md|Triz-inflatable_Structures.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-inflatable_Structures.secret.md|Triz-inflatable_Structures.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-inflatable_Structures.internal|Triz-inflatable_Structures.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-inflatable_Structures.protect|Triz-inflatable_Structures.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-inflatable_Structures.private|Triz-inflatable_Structures.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-inflatable_Structures.personal|Triz-inflatable_Structures.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-inflatable_Structures.secret|Triz-inflatable_Structures.secret]] 

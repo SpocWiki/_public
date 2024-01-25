@@ -41,9 +41,9 @@ markerFolder: ./Beja/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Beja.md|Beja]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Beja.internal.md|Beja.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Beja.protect.md|Beja.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Beja.private.md|Beja.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Beja.personal.md|Beja.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Beja.secret.md|Beja.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Beja.internal|Beja.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Beja.protect|Beja.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Beja.private|Beja.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Beja.personal|Beja.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Beja.secret|Beja.secret]] 
 

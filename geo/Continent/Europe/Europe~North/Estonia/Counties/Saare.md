@@ -41,9 +41,9 @@ markerFolder: ./Saare/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Saare.md|Saare]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Saare.internal.md|Saare.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Saare.protect.md|Saare.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Saare.private.md|Saare.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Saare.personal.md|Saare.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Saare.secret.md|Saare.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Saare.internal|Saare.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Saare.protect|Saare.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Saare.private|Saare.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Saare.personal|Saare.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Saare.secret|Saare.secret]] 
 

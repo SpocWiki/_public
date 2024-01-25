@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Hosingen.md|Hosingen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Hosingen.internal.md|Hosingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Hosingen.protect.md|Hosingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Hosingen.private.md|Hosingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Hosingen.personal.md|Hosingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Hosingen.secret.md|Hosingen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Hosingen.internal|Hosingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Hosingen.protect|Hosingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Hosingen.private|Hosingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Hosingen.personal|Hosingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Hosingen.secret|Hosingen.secret]] 

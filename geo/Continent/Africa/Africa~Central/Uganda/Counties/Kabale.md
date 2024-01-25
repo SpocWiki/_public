@@ -41,9 +41,9 @@ markerFolder: ./Kabale/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kabale.md|Kabale]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kabale.internal.md|Kabale.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kabale.protect.md|Kabale.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kabale.private.md|Kabale.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kabale.personal.md|Kabale.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kabale.secret.md|Kabale.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kabale.internal|Kabale.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kabale.protect|Kabale.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kabale.private|Kabale.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kabale.personal|Kabale.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kabale.secret|Kabale.secret]] 
 

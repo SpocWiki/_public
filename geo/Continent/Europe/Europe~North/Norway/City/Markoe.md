@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Markoe.md|Markoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Markoe.internal.md|Markoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Markoe.protect.md|Markoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Markoe.private.md|Markoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Markoe.personal.md|Markoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Markoe.secret.md|Markoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Markoe.internal|Markoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Markoe.protect|Markoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Markoe.private|Markoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Markoe.personal|Markoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Markoe.secret|Markoe.secret]] 

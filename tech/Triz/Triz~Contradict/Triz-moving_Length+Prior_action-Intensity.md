@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Prior_action-Intensity]
 [SpocWebEntityId::22828]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.md|Triz-moving_Length+Prior_action-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.internal.md|Triz-moving_Length+Prior_action-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.protect.md|Triz-moving_Length+Prior_action-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.private.md|Triz-moving_Length+Prior_action-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.personal.md|Triz-moving_Length+Prior_action-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.secret.md|Triz-moving_Length+Prior_action-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.internal|Triz-moving_Length+Prior_action-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.protect|Triz-moving_Length+Prior_action-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.private|Triz-moving_Length+Prior_action-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.personal|Triz-moving_Length+Prior_action-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Intensity.secret|Triz-moving_Length+Prior_action-Intensity.secret]] 

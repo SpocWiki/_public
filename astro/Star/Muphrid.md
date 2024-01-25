@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Muphrid.md|Muphrid]] 
-- [[../../../_internal/astro/Star/Muphrid.internal.md|Muphrid.internal]] 
-- [[../../../_protect/astro/Star/Muphrid.protect.md|Muphrid.protect]] 
-- [[../../../_private/astro/Star/Muphrid.private.md|Muphrid.private]] 
-- [[../../../_personal/astro/Star/Muphrid.personal.md|Muphrid.personal]] 
-- [[../../../_secret/astro/Star/Muphrid.secret.md|Muphrid.secret]] 
+- [[../../../_internal/astro/Star/Muphrid.internal|Muphrid.internal]] 
+- [[../../../_protect/astro/Star/Muphrid.protect|Muphrid.protect]] 
+- [[../../../_private/astro/Star/Muphrid.private|Muphrid.private]] 
+- [[../../../_personal/astro/Star/Muphrid.personal|Muphrid.personal]] 
+- [[../../../_secret/astro/Star/Muphrid.secret|Muphrid.secret]] 

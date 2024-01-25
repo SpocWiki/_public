@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss]
 [SpocWebEntityId::26023]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.md|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.internal.md|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.protect.md|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.private.md|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.personal.md|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.secret.md|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.internal|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.protect|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.private|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.personal|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.secret|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.secret]] 

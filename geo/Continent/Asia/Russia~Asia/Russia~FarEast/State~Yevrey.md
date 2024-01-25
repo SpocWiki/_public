@@ -41,9 +41,9 @@ markerFolder: ./State~Yevrey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.md|State~Yevrey]] 
-- [[../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.internal.md|State~Yevrey.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.protect.md|State~Yevrey.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.private.md|State~Yevrey.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.personal.md|State~Yevrey.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.secret.md|State~Yevrey.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.internal|State~Yevrey.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.protect|State~Yevrey.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.private|State~Yevrey.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.personal|State~Yevrey.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.secret|State~Yevrey.secret]] 
 

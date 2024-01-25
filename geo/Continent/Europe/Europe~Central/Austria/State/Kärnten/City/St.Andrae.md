@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Andrae.md|St.Andrae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Andrae.internal.md|St.Andrae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Andrae.protect.md|St.Andrae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Andrae.private.md|St.Andrae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Andrae.personal.md|St.Andrae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Andrae.secret.md|St.Andrae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Andrae.internal|St.Andrae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Andrae.protect|St.Andrae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Andrae.private|St.Andrae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Andrae.personal|St.Andrae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Andrae.secret|St.Andrae.secret]] 

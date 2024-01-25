@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stein.md|Stein]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stein.internal.md|Stein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stein.protect.md|Stein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stein.private.md|Stein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stein.personal.md|Stein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stein.secret.md|Stein.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stein.internal|Stein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stein.protect|Stein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stein.private|Stein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stein.personal|Stein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stein.secret|Stein.secret]] 

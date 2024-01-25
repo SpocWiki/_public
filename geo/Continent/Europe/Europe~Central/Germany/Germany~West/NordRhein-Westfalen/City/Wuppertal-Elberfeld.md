@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Wuppertal-Elberfeld|Wuppertal-Elberfeld]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.internal.md|Wuppertal-Elberfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.protect.md|Wuppertal-Elberfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.private.md|Wuppertal-Elberfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.personal.md|Wuppertal-Elberfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.secret.md|Wuppertal-Elberfeld.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.internal|Wuppertal-Elberfeld.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.protect|Wuppertal-Elberfeld.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.private|Wuppertal-Elberfeld.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.personal|Wuppertal-Elberfeld.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.secret|Wuppertal-Elberfeld.secret]] 

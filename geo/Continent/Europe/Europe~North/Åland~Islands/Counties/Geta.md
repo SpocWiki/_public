@@ -41,9 +41,9 @@ markerFolder: ./Geta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Geta.md|Geta]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Geta.internal.md|Geta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Geta.protect.md|Geta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Geta.private.md|Geta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Geta.personal.md|Geta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Geta.secret.md|Geta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Geta.internal|Geta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Geta.protect|Geta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Geta.private|Geta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Geta.personal|Geta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Geta.secret|Geta.secret]] 
 

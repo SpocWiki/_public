@@ -20,9 +20,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/Lang-wu.md|Lang-wu]] 
-- [[../../_internal/lang/Lang-wu.internal.md|Lang-wu.internal]] 
-- [[../../_protect/lang/Lang-wu.protect.md|Lang-wu.protect]] 
-- [[../../_private/lang/Lang-wu.private.md|Lang-wu.private]] 
-- [[../../_personal/lang/Lang-wu.personal.md|Lang-wu.personal]] 
-- [[../../_secret/lang/Lang-wu.secret.md|Lang-wu.secret]]
+- [[../../_internal/lang/Lang-wu.internal|Lang-wu.internal]] 
+- [[../../_protect/lang/Lang-wu.protect|Lang-wu.protect]] 
+- [[../../_private/lang/Lang-wu.private|Lang-wu.private]] 
+- [[../../_personal/lang/Lang-wu.personal|Lang-wu.personal]] 
+- [[../../_secret/lang/Lang-wu.secret|Lang-wu.secret]]
 

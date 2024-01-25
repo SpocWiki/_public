@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture]
 [SpocWebEntityId::23355]
-+ [pro::[[Triz-stationary_Volume]]]
++ [#has_/Pros :: [[Triz-stationary_Volume]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Ease_of_manufacture]]]
+- [#has_/Cons :: [[Triz-Ease_of_manufacture]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.md|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.internal.md|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.protect.md|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.private.md|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.personal.md|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.secret.md|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.internal|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.protect|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.private|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.personal|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.secret|Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.secret]] 

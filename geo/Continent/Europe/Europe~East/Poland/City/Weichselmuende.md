@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Weichselmuende.md|Weichselmuende]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Weichselmuende.internal.md|Weichselmuende.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Weichselmuende.protect.md|Weichselmuende.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Weichselmuende.private.md|Weichselmuende.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Weichselmuende.personal.md|Weichselmuende.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Weichselmuende.secret.md|Weichselmuende.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Weichselmuende.internal|Weichselmuende.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Weichselmuende.protect|Weichselmuende.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Weichselmuende.private|Weichselmuende.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Weichselmuende.personal|Weichselmuende.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Weichselmuende.secret|Weichselmuende.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kollerschlag.md|Kollerschlag]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kollerschlag.internal.md|Kollerschlag.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kollerschlag.protect.md|Kollerschlag.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kollerschlag.private.md|Kollerschlag.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kollerschlag.personal.md|Kollerschlag.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kollerschlag.secret.md|Kollerschlag.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kollerschlag.internal|Kollerschlag.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kollerschlag.protect|Kollerschlag.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kollerschlag.private|Kollerschlag.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kollerschlag.personal|Kollerschlag.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kollerschlag.secret|Kollerschlag.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Gornji_Grad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.md|Gornji_Grad]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.internal.md|Gornji_Grad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.protect.md|Gornji_Grad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.private.md|Gornji_Grad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.personal.md|Gornji_Grad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.secret.md|Gornji_Grad.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.internal|Gornji_Grad.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.protect|Gornji_Grad.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.private|Gornji_Grad.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.personal|Gornji_Grad.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Gornji_Grad.secret|Gornji_Grad.secret]] 
 

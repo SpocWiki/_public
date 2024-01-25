@@ -41,9 +41,9 @@ markerFolder: ./Milne_Bay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.md|Milne_Bay]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.internal.md|Milne_Bay.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.protect.md|Milne_Bay.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.private.md|Milne_Bay.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.personal.md|Milne_Bay.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.secret.md|Milne_Bay.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.internal|Milne_Bay.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.protect|Milne_Bay.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.private|Milne_Bay.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.personal|Milne_Bay.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.secret|Milne_Bay.secret]] 
 

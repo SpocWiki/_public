@@ -41,9 +41,9 @@ markerFolder: ./Moûhîlî/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Comoros/Counties/Moûhîlî.md|Moûhîlî]] 
-- [[../../../../_internal/geo/Continent/Africa/Comoros/Counties/Moûhîlî.internal.md|Moûhîlî.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Comoros/Counties/Moûhîlî.protect.md|Moûhîlî.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Comoros/Counties/Moûhîlî.private.md|Moûhîlî.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Comoros/Counties/Moûhîlî.personal.md|Moûhîlî.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Comoros/Counties/Moûhîlî.secret.md|Moûhîlî.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Comoros/Counties/Moûhîlî.internal|Moûhîlî.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Comoros/Counties/Moûhîlî.protect|Moûhîlî.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Comoros/Counties/Moûhîlî.private|Moûhîlî.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Comoros/Counties/Moûhîlî.personal|Moûhîlî.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Comoros/Counties/Moûhîlî.secret|Moûhîlî.secret]] 
 

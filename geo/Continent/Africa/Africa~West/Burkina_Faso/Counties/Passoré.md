@@ -41,9 +41,9 @@ markerFolder: ./Passoré/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.md|Passoré]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.internal.md|Passoré.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.protect.md|Passoré.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.private.md|Passoré.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.personal.md|Passoré.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.secret.md|Passoré.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.internal|Passoré.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.protect|Passoré.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.private|Passoré.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.personal|Passoré.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.secret|Passoré.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Alebtong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Alebtong.md|Alebtong]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Alebtong.internal.md|Alebtong.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Alebtong.protect.md|Alebtong.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Alebtong.private.md|Alebtong.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Alebtong.personal.md|Alebtong.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Alebtong.secret.md|Alebtong.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Alebtong.internal|Alebtong.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Alebtong.protect|Alebtong.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Alebtong.private|Alebtong.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Alebtong.personal|Alebtong.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Alebtong.secret|Alebtong.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Segmentation-Ease_of_repair]
 [SpocWebEntityId::25097]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.md|Triz-Time-Loss+Segmentation-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.internal.md|Triz-Time-Loss+Segmentation-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.protect.md|Triz-Time-Loss+Segmentation-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.private.md|Triz-Time-Loss+Segmentation-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.personal.md|Triz-Time-Loss+Segmentation-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.secret.md|Triz-Time-Loss+Segmentation-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.internal|Triz-Time-Loss+Segmentation-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.protect|Triz-Time-Loss+Segmentation-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.private|Triz-Time-Loss+Segmentation-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.personal|Triz-Time-Loss+Segmentation-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Ease_of_repair.secret|Triz-Time-Loss+Segmentation-Ease_of_repair.secret]] 

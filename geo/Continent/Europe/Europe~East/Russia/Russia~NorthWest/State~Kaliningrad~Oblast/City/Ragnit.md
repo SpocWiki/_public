@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ragnit.md|Ragnit]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ragnit.internal.md|Ragnit.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ragnit.protect.md|Ragnit.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ragnit.private.md|Ragnit.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ragnit.personal.md|Ragnit.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ragnit.secret.md|Ragnit.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ragnit.internal|Ragnit.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ragnit.protect|Ragnit.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ragnit.private|Ragnit.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ragnit.personal|Ragnit.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ragnit.secret|Ragnit.secret]] 

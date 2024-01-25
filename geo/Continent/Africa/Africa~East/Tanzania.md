@@ -141,7 +141,7 @@ markerFolder: ./Tanzania//
 ## Confidential Links & Embeds: 
 - [[Tanzania|Tanzania]] 
 - [[../../../../../_internal/geo/Continent/Africa/Tanzania.internal|Tanzania.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania.protect.md|Tanzania.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania.private.md|Tanzania.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania.personal.md|Tanzania.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania.secret.md|Tanzania.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania.protect|Tanzania.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania.private|Tanzania.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania.personal|Tanzania.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania.secret|Tanzania.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Mechanical_vibration-affected_harm]
 [SpocWebEntityId::22977]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.md|Triz-stationary_Length+Mechanical_vibration-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.internal.md|Triz-stationary_Length+Mechanical_vibration-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.protect.md|Triz-stationary_Length+Mechanical_vibration-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.private.md|Triz-stationary_Length+Mechanical_vibration-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.personal.md|Triz-stationary_Length+Mechanical_vibration-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.secret.md|Triz-stationary_Length+Mechanical_vibration-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.internal|Triz-stationary_Length+Mechanical_vibration-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.protect|Triz-stationary_Length+Mechanical_vibration-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.private|Triz-stationary_Length+Mechanical_vibration-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.personal|Triz-stationary_Length+Mechanical_vibration-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mechanical_vibration-affected_harm.secret|Triz-stationary_Length+Mechanical_vibration-affected_harm.secret]] 

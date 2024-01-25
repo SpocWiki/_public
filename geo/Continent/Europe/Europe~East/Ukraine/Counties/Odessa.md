@@ -41,9 +41,9 @@ markerFolder: ./Odessa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Odessa.md|Odessa]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Odessa.internal.md|Odessa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Odessa.protect.md|Odessa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Odessa.private.md|Odessa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Odessa.personal.md|Odessa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Odessa.secret.md|Odessa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Odessa.internal|Odessa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Odessa.protect|Odessa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Odessa.private|Odessa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Odessa.personal|Odessa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Odessa.secret|Odessa.secret]] 
 

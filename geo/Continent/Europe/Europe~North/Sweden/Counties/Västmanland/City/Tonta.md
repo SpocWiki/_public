@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Tonta.md|Tonta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tonta.internal.md|Tonta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tonta.protect.md|Tonta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Tonta.private.md|Tonta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tonta.personal.md|Tonta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tonta.secret.md|Tonta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tonta.internal|Tonta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tonta.protect|Tonta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Tonta.private|Tonta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tonta.personal|Tonta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tonta.secret|Tonta.secret]] 

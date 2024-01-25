@@ -41,9 +41,9 @@ markerFolder: ./Kumlinge/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.md|Kumlinge]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.internal.md|Kumlinge.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.protect.md|Kumlinge.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.private.md|Kumlinge.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.personal.md|Kumlinge.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.secret.md|Kumlinge.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.internal|Kumlinge.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.protect|Kumlinge.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.private|Kumlinge.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.personal|Kumlinge.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.secret|Kumlinge.secret]] 
 

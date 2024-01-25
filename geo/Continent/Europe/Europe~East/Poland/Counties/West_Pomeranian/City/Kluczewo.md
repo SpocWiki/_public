@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kluczewo.md|Kluczewo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kluczewo.internal.md|Kluczewo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kluczewo.protect.md|Kluczewo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kluczewo.private.md|Kluczewo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kluczewo.personal.md|Kluczewo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kluczewo.secret.md|Kluczewo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kluczewo.internal|Kluczewo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kluczewo.protect|Kluczewo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kluczewo.private|Kluczewo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kluczewo.personal|Kluczewo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kluczewo.secret|Kluczewo.secret]] 

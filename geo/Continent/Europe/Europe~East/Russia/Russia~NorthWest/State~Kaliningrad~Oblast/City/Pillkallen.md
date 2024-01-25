@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pillkallen.md|Pillkallen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pillkallen.internal.md|Pillkallen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pillkallen.protect.md|Pillkallen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pillkallen.private.md|Pillkallen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pillkallen.personal.md|Pillkallen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pillkallen.secret.md|Pillkallen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pillkallen.internal|Pillkallen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pillkallen.protect|Pillkallen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pillkallen.private|Pillkallen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pillkallen.personal|Pillkallen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pillkallen.secret|Pillkallen.secret]] 

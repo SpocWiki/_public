@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schreiberhau.md|Schreiberhau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schreiberhau.internal.md|Schreiberhau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schreiberhau.protect.md|Schreiberhau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schreiberhau.private.md|Schreiberhau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schreiberhau.personal.md|Schreiberhau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schreiberhau.secret.md|Schreiberhau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schreiberhau.internal|Schreiberhau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schreiberhau.protect|Schreiberhau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schreiberhau.private|Schreiberhau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schreiberhau.personal|Schreiberhau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schreiberhau.secret|Schreiberhau.secret]] 

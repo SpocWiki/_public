@@ -132,8 +132,8 @@ markerFolder: ./Brunei/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Brunei.md|Brunei]] 
-- [[../../../../_internal/geo/Continent/Oceania/Brunei.internal.md|Brunei.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Brunei.protect.md|Brunei.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Brunei.private.md|Brunei.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Brunei.personal.md|Brunei.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Brunei.secret.md|Brunei.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Brunei.internal|Brunei.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Brunei.protect|Brunei.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Brunei.private|Brunei.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Brunei.personal|Brunei.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Brunei.secret|Brunei.secret]] 

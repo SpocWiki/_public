@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Periodic_action-Time-Loss]
 [SpocWebEntityId::24398]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.md|Triz-Illumination+Periodic_action-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.internal.md|Triz-Illumination+Periodic_action-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.protect.md|Triz-Illumination+Periodic_action-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.private.md|Triz-Illumination+Periodic_action-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.personal.md|Triz-Illumination+Periodic_action-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.secret.md|Triz-Illumination+Periodic_action-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.internal|Triz-Illumination+Periodic_action-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.protect|Triz-Illumination+Periodic_action-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.private|Triz-Illumination+Periodic_action-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.personal|Triz-Illumination+Periodic_action-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Time-Loss.secret|Triz-Illumination+Periodic_action-Time-Loss.secret]] 

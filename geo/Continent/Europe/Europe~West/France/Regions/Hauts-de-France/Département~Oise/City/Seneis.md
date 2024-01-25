@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Seneis.md|Seneis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Seneis.internal.md|Seneis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Seneis.protect.md|Seneis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Seneis.private.md|Seneis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Seneis.personal.md|Seneis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Seneis.secret.md|Seneis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Seneis.internal|Seneis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Seneis.protect|Seneis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Seneis.private|Seneis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Seneis.personal|Seneis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Seneis.secret|Seneis.secret]] 

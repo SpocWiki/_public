@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wieselburg.md|Wieselburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wieselburg.internal.md|Wieselburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wieselburg.protect.md|Wieselburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wieselburg.private.md|Wieselburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wieselburg.personal.md|Wieselburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wieselburg.secret.md|Wieselburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wieselburg.internal|Wieselburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wieselburg.protect|Wieselburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wieselburg.private|Wieselburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wieselburg.personal|Wieselburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wieselburg.secret|Wieselburg.secret]] 

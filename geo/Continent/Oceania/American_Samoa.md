@@ -134,8 +134,8 @@ markerFolder: ./American_Samoa//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/American_Samoa.md|American_Samoa]] 
-- [[../../../../_internal/geo/Continent/Oceania/American_Samoa.internal.md|American_Samoa.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/American_Samoa.protect.md|American_Samoa.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/American_Samoa.private.md|American_Samoa.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/American_Samoa.personal.md|American_Samoa.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/American_Samoa.secret.md|American_Samoa.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/American_Samoa.internal|American_Samoa.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/American_Samoa.protect|American_Samoa.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/American_Samoa.private|American_Samoa.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/American_Samoa.personal|American_Samoa.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/American_Samoa.secret|American_Samoa.secret]] 

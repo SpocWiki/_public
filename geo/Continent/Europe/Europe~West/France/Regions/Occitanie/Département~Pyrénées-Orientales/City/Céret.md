@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Céret.md|Céret]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Céret.internal.md|Céret.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Céret.protect.md|Céret.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Céret.private.md|Céret.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Céret.personal.md|Céret.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Céret.secret.md|Céret.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Céret.internal|Céret.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Céret.protect|Céret.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Céret.private|Céret.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Céret.personal|Céret.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Céret.secret|Céret.secret]] 

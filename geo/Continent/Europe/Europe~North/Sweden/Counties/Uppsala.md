@@ -41,9 +41,9 @@ markerFolder: ./Uppsala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Uppsala.md|Uppsala]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Uppsala.internal.md|Uppsala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Uppsala.protect.md|Uppsala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Uppsala.private.md|Uppsala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Uppsala.personal.md|Uppsala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Uppsala.secret.md|Uppsala.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Uppsala.internal|Uppsala.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Uppsala.protect|Uppsala.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Uppsala.private|Uppsala.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Uppsala.personal|Uppsala.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Uppsala.secret|Uppsala.secret]] 
 

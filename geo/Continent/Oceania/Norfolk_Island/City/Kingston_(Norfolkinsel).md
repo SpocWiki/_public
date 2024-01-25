@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).md|Kingston_(Norfolkinsel)]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).internal.md|Kingston_(Norfolkinsel).internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).protect.md|Kingston_(Norfolkinsel).protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).private.md|Kingston_(Norfolkinsel).private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).personal.md|Kingston_(Norfolkinsel).personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).secret.md|Kingston_(Norfolkinsel).secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).internal|Kingston_(Norfolkinsel).internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).protect|Kingston_(Norfolkinsel).protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).private|Kingston_(Norfolkinsel).private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).personal|Kingston_(Norfolkinsel).personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).secret|Kingston_(Norfolkinsel).secret]] 

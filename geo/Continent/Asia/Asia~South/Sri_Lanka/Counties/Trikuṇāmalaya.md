@@ -41,9 +41,9 @@ markerFolder: ./Trikuṇāmalaya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.md|Trikuṇāmalaya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.internal.md|Trikuṇāmalaya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.protect.md|Trikuṇāmalaya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.private.md|Trikuṇāmalaya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.personal.md|Trikuṇāmalaya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.secret.md|Trikuṇāmalaya.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.internal|Trikuṇāmalaya.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.protect|Trikuṇāmalaya.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.private|Trikuṇāmalaya.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.personal|Trikuṇāmalaya.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Trikuṇāmalaya.secret|Trikuṇāmalaya.secret]] 
 

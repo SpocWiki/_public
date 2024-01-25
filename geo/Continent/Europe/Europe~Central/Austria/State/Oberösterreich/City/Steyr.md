@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Steyr.md|Steyr]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Steyr.internal.md|Steyr.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Steyr.protect.md|Steyr.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Steyr.private.md|Steyr.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Steyr.personal.md|Steyr.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Steyr.secret.md|Steyr.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Steyr.internal|Steyr.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Steyr.protect|Steyr.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Steyr.private|Steyr.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Steyr.personal|Steyr.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Steyr.secret|Steyr.secret]] 

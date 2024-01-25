@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Langenbrueck.md|Langenbrueck]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Langenbrueck.internal.md|Langenbrueck.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Langenbrueck.protect.md|Langenbrueck.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Langenbrueck.private.md|Langenbrueck.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Langenbrueck.personal.md|Langenbrueck.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Langenbrueck.secret.md|Langenbrueck.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Langenbrueck.internal|Langenbrueck.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Langenbrueck.protect|Langenbrueck.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Langenbrueck.private|Langenbrueck.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Langenbrueck.personal|Langenbrueck.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Langenbrueck.secret|Langenbrueck.secret]] 

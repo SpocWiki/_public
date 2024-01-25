@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Waterloo.md|Waterloo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Waterloo.internal.md|Waterloo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Waterloo.protect.md|Waterloo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Waterloo.private.md|Waterloo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Waterloo.personal.md|Waterloo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Waterloo.secret.md|Waterloo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Waterloo.internal|Waterloo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Waterloo.protect|Waterloo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Waterloo.private|Waterloo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Waterloo.personal|Waterloo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Waterloo.secret|Waterloo.secret]] 

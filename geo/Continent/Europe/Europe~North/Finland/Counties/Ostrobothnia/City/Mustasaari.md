@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Mustasaari.md|Mustasaari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Mustasaari.internal.md|Mustasaari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Mustasaari.protect.md|Mustasaari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Mustasaari.private.md|Mustasaari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Mustasaari.personal.md|Mustasaari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Mustasaari.secret.md|Mustasaari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Mustasaari.internal|Mustasaari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Mustasaari.protect|Mustasaari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Mustasaari.private|Mustasaari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Mustasaari.personal|Mustasaari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Mustasaari.secret|Mustasaari.secret]] 

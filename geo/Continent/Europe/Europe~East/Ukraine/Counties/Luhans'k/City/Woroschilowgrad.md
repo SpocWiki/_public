@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Woroschilowgrad.md|Woroschilowgrad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Woroschilowgrad.internal.md|Woroschilowgrad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Woroschilowgrad.protect.md|Woroschilowgrad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Woroschilowgrad.private.md|Woroschilowgrad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Woroschilowgrad.personal.md|Woroschilowgrad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Woroschilowgrad.secret.md|Woroschilowgrad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Woroschilowgrad.internal|Woroschilowgrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Woroschilowgrad.protect|Woroschilowgrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Woroschilowgrad.private|Woroschilowgrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Woroschilowgrad.personal|Woroschilowgrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Woroschilowgrad.secret|Woroschilowgrad.secret]] 

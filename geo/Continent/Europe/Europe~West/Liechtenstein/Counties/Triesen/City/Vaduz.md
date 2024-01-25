@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.13]
 [name::Vaduz]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../../Europe~Central/Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Vaduz.md|Vaduz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Vaduz.internal.md|Vaduz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Vaduz.protect.md|Vaduz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Vaduz.private.md|Vaduz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Vaduz.personal.md|Vaduz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Vaduz.secret.md|Vaduz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Vaduz.internal|Vaduz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Vaduz.protect|Vaduz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Vaduz.private|Vaduz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Vaduz.personal|Vaduz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Vaduz.secret|Vaduz.secret]] 

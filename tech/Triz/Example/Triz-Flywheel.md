@@ -18,8 +18,8 @@ Flywheel (or hydraulic System) stores Energy when a Vehicle stops, so the Motor 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Flywheel.md|Triz-Flywheel]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Flywheel.internal.md|Triz-Flywheel.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Flywheel.protect.md|Triz-Flywheel.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Flywheel.private.md|Triz-Flywheel.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Flywheel.personal.md|Triz-Flywheel.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Flywheel.secret.md|Triz-Flywheel.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Flywheel.internal|Triz-Flywheel.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Flywheel.protect|Triz-Flywheel.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Flywheel.private|Triz-Flywheel.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Flywheel.personal|Triz-Flywheel.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Flywheel.secret|Triz-Flywheel.secret]] 

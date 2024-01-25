@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Tauri-177.md|Tauri-177]] 
-- [[../../../_internal/astro/Star/Tauri-177.internal.md|Tauri-177.internal]] 
-- [[../../../_protect/astro/Star/Tauri-177.protect.md|Tauri-177.protect]] 
-- [[../../../_private/astro/Star/Tauri-177.private.md|Tauri-177.private]] 
-- [[../../../_personal/astro/Star/Tauri-177.personal.md|Tauri-177.personal]] 
-- [[../../../_secret/astro/Star/Tauri-177.secret.md|Tauri-177.secret]] 
+- [[../../../_internal/astro/Star/Tauri-177.internal|Tauri-177.internal]] 
+- [[../../../_protect/astro/Star/Tauri-177.protect|Tauri-177.protect]] 
+- [[../../../_private/astro/Star/Tauri-177.private|Tauri-177.private]] 
+- [[../../../_personal/astro/Star/Tauri-177.personal|Tauri-177.personal]] 
+- [[../../../_secret/astro/Star/Tauri-177.secret|Tauri-177.secret]] 

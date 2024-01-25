@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.md|Sub~Crossharbour_&_London_Arena]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.internal.md|Sub~Crossharbour_&_London_Arena.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.protect.md|Sub~Crossharbour_&_London_Arena.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.private.md|Sub~Crossharbour_&_London_Arena.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.personal.md|Sub~Crossharbour_&_London_Arena.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.secret.md|Sub~Crossharbour_&_London_Arena.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.internal|Sub~Crossharbour_&_London_Arena.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.protect|Sub~Crossharbour_&_London_Arena.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.private|Sub~Crossharbour_&_London_Arena.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.personal|Sub~Crossharbour_&_London_Arena.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.secret|Sub~Crossharbour_&_London_Arena.secret]] 

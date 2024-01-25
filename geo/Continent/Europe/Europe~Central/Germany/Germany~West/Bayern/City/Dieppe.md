@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Dieppe.md|Dieppe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dieppe.internal.md|Dieppe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dieppe.protect.md|Dieppe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Dieppe.private.md|Dieppe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dieppe.personal.md|Dieppe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dieppe.secret.md|Dieppe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dieppe.internal|Dieppe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dieppe.protect|Dieppe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Dieppe.private|Dieppe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dieppe.personal|Dieppe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dieppe.secret|Dieppe.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Clémency.md|Clémency]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Clémency.internal.md|Clémency.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Clémency.protect.md|Clémency.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Clémency.private.md|Clémency.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Clémency.personal.md|Clémency.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Clémency.secret.md|Clémency.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Clémency.internal|Clémency.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Clémency.protect|Clémency.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Clémency.private|Clémency.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Clémency.personal|Clémency.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Clémency.secret|Clémency.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chambery.md|Chambery]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chambery.internal.md|Chambery.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chambery.protect.md|Chambery.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chambery.private.md|Chambery.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chambery.personal.md|Chambery.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chambery.secret.md|Chambery.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chambery.internal|Chambery.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chambery.protect|Chambery.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chambery.private|Chambery.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chambery.personal|Chambery.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chambery.secret|Chambery.secret]] 

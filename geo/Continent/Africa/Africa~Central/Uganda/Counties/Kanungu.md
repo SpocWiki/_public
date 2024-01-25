@@ -41,9 +41,9 @@ markerFolder: ./Kanungu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kanungu.md|Kanungu]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kanungu.internal.md|Kanungu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kanungu.protect.md|Kanungu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kanungu.private.md|Kanungu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kanungu.personal.md|Kanungu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kanungu.secret.md|Kanungu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kanungu.internal|Kanungu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kanungu.protect|Kanungu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kanungu.private|Kanungu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kanungu.personal|Kanungu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kanungu.secret|Kanungu.secret]] 
 

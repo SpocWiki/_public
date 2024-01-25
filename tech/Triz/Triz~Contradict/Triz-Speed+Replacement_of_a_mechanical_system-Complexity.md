@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Replacement_of_a_mechanical_system-Complexity]
 [SpocWebEntityId::23468]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.md|Triz-Speed+Replacement_of_a_mechanical_system-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.internal.md|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.protect.md|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.private.md|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.personal.md|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.secret.md|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.internal|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.protect|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.private|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.personal|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Complexity.secret|Triz-Speed+Replacement_of_a_mechanical_system-Complexity.secret]] 

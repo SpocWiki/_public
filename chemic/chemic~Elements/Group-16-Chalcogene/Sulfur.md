@@ -39,8 +39,8 @@ SpocWebEntityId: 21917
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Sulfur.md|Sulfur]] 
-- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Sulfur.internal.md|Sulfur.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Sulfur.protect.md|Sulfur.protect]] 
-- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Sulfur.private.md|Sulfur.private]] 
-- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Sulfur.personal.md|Sulfur.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Sulfur.secret.md|Sulfur.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Sulfur.internal|Sulfur.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Sulfur.protect|Sulfur.protect]] 
+- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Sulfur.private|Sulfur.private]] 
+- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Sulfur.personal|Sulfur.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Sulfur.secret|Sulfur.secret]] 

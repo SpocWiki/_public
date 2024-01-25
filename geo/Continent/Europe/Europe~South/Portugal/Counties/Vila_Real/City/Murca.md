@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Murca.md|Murca]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Murca.internal.md|Murca.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Murca.protect.md|Murca.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Murca.private.md|Murca.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Murca.personal.md|Murca.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Murca.secret.md|Murca.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Murca.internal|Murca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Murca.protect|Murca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Murca.private|Murca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Murca.personal|Murca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Murca.secret|Murca.secret]] 

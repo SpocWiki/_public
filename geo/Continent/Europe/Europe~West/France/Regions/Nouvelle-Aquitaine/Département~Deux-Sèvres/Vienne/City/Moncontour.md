@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Moncontour.md|Moncontour]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Moncontour.internal.md|Moncontour.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Moncontour.protect.md|Moncontour.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Moncontour.private.md|Moncontour.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Moncontour.personal.md|Moncontour.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Moncontour.secret.md|Moncontour.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Moncontour.internal|Moncontour.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Moncontour.protect|Moncontour.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Moncontour.private|Moncontour.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Moncontour.personal|Moncontour.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Moncontour.secret|Moncontour.secret]] 

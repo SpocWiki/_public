@@ -134,7 +134,7 @@ markerFolder: ./Cape_Verde//
 ## Confidential Links & Embeds: 
 -[[Cape_Verde|Cape_Verde]]] 
 -[[../../../../../_internal/geo/Continent/Africa/Cape_Verde.internal|Cape_Verde.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde.protect.md|Cape_Verde.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde.private.md|Cape_Verde.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde.personal.md|Cape_Verde.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde.secret.md|Cape_Verde.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde.protect|Cape_Verde.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde.private|Cape_Verde.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde.personal|Cape_Verde.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde.secret|Cape_Verde.secret]] 

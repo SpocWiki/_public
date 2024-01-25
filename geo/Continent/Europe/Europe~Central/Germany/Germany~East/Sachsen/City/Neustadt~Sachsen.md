@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.md|Neustadt~Sachsen]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.internal.md|Neustadt~Sachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.protect.md|Neustadt~Sachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.private.md|Neustadt~Sachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.personal.md|Neustadt~Sachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.secret.md|Neustadt~Sachsen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.internal|Neustadt~Sachsen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.protect|Neustadt~Sachsen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.private|Neustadt~Sachsen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.personal|Neustadt~Sachsen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neustadt~Sachsen.secret|Neustadt~Sachsen.secret]] 

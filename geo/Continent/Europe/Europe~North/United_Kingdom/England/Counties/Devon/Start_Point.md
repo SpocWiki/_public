@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Start_Point.md|Start_Point]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Start_Point.internal.md|Start_Point.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Start_Point.protect.md|Start_Point.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Start_Point.private.md|Start_Point.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Start_Point.personal.md|Start_Point.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Start_Point.secret.md|Start_Point.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Start_Point.internal|Start_Point.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Start_Point.protect|Start_Point.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Start_Point.private|Start_Point.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Start_Point.personal|Start_Point.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Start_Point.secret|Start_Point.secret]] 

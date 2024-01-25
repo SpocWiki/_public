@@ -41,9 +41,9 @@ markerFolder: ./Dakar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Dakar.md|Dakar]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Dakar.internal.md|Dakar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Dakar.protect.md|Dakar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Dakar.private.md|Dakar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Dakar.personal.md|Dakar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Dakar.secret.md|Dakar.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Dakar.internal|Dakar.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Dakar.protect|Dakar.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Dakar.private|Dakar.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Dakar.personal|Dakar.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Dakar.secret|Dakar.secret]] 
 

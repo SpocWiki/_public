@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wolokolamsk.md|Wolokolamsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wolokolamsk.internal.md|Wolokolamsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wolokolamsk.protect.md|Wolokolamsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wolokolamsk.private.md|Wolokolamsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wolokolamsk.personal.md|Wolokolamsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wolokolamsk.secret.md|Wolokolamsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wolokolamsk.internal|Wolokolamsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wolokolamsk.protect|Wolokolamsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wolokolamsk.private|Wolokolamsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wolokolamsk.personal|Wolokolamsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wolokolamsk.secret|Wolokolamsk.secret]] 

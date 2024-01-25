@@ -29,8 +29,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Bolongaropalast|T-Bolongaropalast]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.internal.md|T-Bolongaropalast.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.protect.md|T-Bolongaropalast.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.private.md|T-Bolongaropalast.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.personal.md|T-Bolongaropalast.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.secret.md|T-Bolongaropalast.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.internal|T-Bolongaropalast.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.protect|T-Bolongaropalast.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.private|T-Bolongaropalast.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.personal|T-Bolongaropalast.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.secret|T-Bolongaropalast.secret]] 

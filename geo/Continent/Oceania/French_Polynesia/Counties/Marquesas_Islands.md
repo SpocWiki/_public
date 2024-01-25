@@ -41,9 +41,9 @@ markerFolder: ./Marquesas_Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.md|Marquesas_Islands]] 
-- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.internal.md|Marquesas_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.protect.md|Marquesas_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.private.md|Marquesas_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.personal.md|Marquesas_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.secret.md|Marquesas_Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.internal|Marquesas_Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.protect|Marquesas_Islands.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.private|Marquesas_Islands.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.personal|Marquesas_Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Marquesas_Islands.secret|Marquesas_Islands.secret]] 
 

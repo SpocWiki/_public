@@ -41,9 +41,9 @@ markerFolder: ./Pembroke/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.md|Pembroke]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.internal.md|Pembroke.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.protect.md|Pembroke.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.private.md|Pembroke.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.personal.md|Pembroke.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.secret.md|Pembroke.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.internal|Pembroke.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.protect|Pembroke.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.private|Pembroke.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.personal|Pembroke.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke.secret|Pembroke.secret]] 
 

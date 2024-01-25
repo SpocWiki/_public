@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/St.Trond.md|St.Trond]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/St.Trond.internal.md|St.Trond.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/St.Trond.protect.md|St.Trond.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/St.Trond.private.md|St.Trond.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/St.Trond.personal.md|St.Trond.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/St.Trond.secret.md|St.Trond.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/St.Trond.internal|St.Trond.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/St.Trond.protect|St.Trond.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/St.Trond.private|St.Trond.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/St.Trond.personal|St.Trond.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/St.Trond.secret|St.Trond.secret]] 

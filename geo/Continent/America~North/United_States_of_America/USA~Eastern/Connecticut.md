@@ -36,8 +36,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Connecticut.md|Connecticut]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Connecticut.internal.md|Connecticut.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Connecticut.protect.md|Connecticut.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Connecticut.private.md|Connecticut.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Connecticut.personal.md|Connecticut.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Connecticut.secret.md|Connecticut.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Connecticut.internal|Connecticut.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Connecticut.protect|Connecticut.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Connecticut.private|Connecticut.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Connecticut.personal|Connecticut.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Connecticut.secret|Connecticut.secret]] 

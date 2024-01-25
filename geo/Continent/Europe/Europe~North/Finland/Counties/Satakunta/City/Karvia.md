@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Karvia.md|Karvia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Karvia.internal.md|Karvia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Karvia.protect.md|Karvia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Karvia.private.md|Karvia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Karvia.personal.md|Karvia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Karvia.secret.md|Karvia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Karvia.internal|Karvia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Karvia.protect|Karvia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Karvia.private|Karvia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Karvia.personal|Karvia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Karvia.secret|Karvia.secret]] 

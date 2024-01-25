@@ -135,8 +135,8 @@ markerFolder: ./Panama/
 
 ## Confidential Links & Embeds: 
 - [[Panama|Panama]] 
-- [[../../../../_internal/geo/Continent/South-America/Panama.internal.md|Panama.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Panama.protect.md|Panama.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Panama.private.md|Panama.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Panama.personal.md|Panama.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Panama.secret.md|Panama.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Panama.internal|Panama.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Panama.protect|Panama.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Panama.private|Panama.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Panama.personal|Panama.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Panama.secret|Panama.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hardap/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Hardap.md|Hardap]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Hardap.internal.md|Hardap.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Hardap.protect.md|Hardap.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Hardap.private.md|Hardap.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Hardap.personal.md|Hardap.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Hardap.secret.md|Hardap.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Hardap.internal|Hardap.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Hardap.protect|Hardap.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Hardap.private|Hardap.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Hardap.personal|Hardap.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Hardap.secret|Hardap.secret]] 
 

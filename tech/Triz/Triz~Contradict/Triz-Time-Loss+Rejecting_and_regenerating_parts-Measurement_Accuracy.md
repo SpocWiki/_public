@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy]
 [SpocWebEntityId::25074]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.md|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal.md|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect.md|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.private.md|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.personal.md|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.secret.md|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.private|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.personal|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.secret|Triz-Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Diourbel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Diourbel.md|Diourbel]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Diourbel.internal.md|Diourbel.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Diourbel.protect.md|Diourbel.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Diourbel.private.md|Diourbel.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Diourbel.personal.md|Diourbel.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Diourbel.secret.md|Diourbel.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Diourbel.internal|Diourbel.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Diourbel.protect|Diourbel.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Diourbel.private|Diourbel.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Diourbel.personal|Diourbel.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Diourbel.secret|Diourbel.secret]] 
 

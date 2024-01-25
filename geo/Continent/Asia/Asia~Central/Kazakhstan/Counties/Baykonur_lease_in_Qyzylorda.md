@@ -41,9 +41,9 @@ markerFolder: ./Baykonur_lease_in_Qyzylorda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.md|Baykonur_lease_in_Qyzylorda]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.internal.md|Baykonur_lease_in_Qyzylorda.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.protect.md|Baykonur_lease_in_Qyzylorda.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.private.md|Baykonur_lease_in_Qyzylorda.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.personal.md|Baykonur_lease_in_Qyzylorda.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.secret.md|Baykonur_lease_in_Qyzylorda.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.internal|Baykonur_lease_in_Qyzylorda.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.protect|Baykonur_lease_in_Qyzylorda.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.private|Baykonur_lease_in_Qyzylorda.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.personal|Baykonur_lease_in_Qyzylorda.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.secret|Baykonur_lease_in_Qyzylorda.secret]] 
 

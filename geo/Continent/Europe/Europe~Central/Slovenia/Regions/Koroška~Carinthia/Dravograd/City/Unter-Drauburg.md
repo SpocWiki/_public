@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.md|Unter-Drauburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.internal.md|Unter-Drauburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.protect.md|Unter-Drauburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.private.md|Unter-Drauburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.personal.md|Unter-Drauburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.secret.md|Unter-Drauburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.internal|Unter-Drauburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.protect|Unter-Drauburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.private|Unter-Drauburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.personal|Unter-Drauburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.secret|Unter-Drauburg.secret]] 

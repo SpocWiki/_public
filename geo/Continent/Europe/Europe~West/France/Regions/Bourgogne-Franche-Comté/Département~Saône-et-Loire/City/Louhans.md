@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Louhans.md|Louhans]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Louhans.internal.md|Louhans.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Louhans.protect.md|Louhans.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Louhans.private.md|Louhans.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Louhans.personal.md|Louhans.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Louhans.secret.md|Louhans.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Louhans.internal|Louhans.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Louhans.protect|Louhans.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Louhans.private|Louhans.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Louhans.personal|Louhans.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Louhans.secret|Louhans.secret]] 

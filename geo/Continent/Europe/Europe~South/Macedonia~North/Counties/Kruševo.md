@@ -41,9 +41,9 @@ markerFolder: ./Kruševo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.md|Kruševo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.internal.md|Kruševo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.protect.md|Kruševo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.private.md|Kruševo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.personal.md|Kruševo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.secret.md|Kruševo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.internal|Kruševo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.protect|Kruševo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.private|Kruševo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.personal|Kruševo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kruševo.secret|Kruševo.secret]] 
 

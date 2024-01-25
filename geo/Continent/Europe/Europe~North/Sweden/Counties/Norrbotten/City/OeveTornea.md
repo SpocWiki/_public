@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/OeveTornea.md|OeveTornea]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/OeveTornea.internal.md|OeveTornea.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/OeveTornea.protect.md|OeveTornea.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/OeveTornea.private.md|OeveTornea.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/OeveTornea.personal.md|OeveTornea.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/OeveTornea.secret.md|OeveTornea.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/OeveTornea.internal|OeveTornea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/OeveTornea.protect|OeveTornea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/OeveTornea.private|OeveTornea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/OeveTornea.personal|OeveTornea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/OeveTornea.secret|OeveTornea.secret]] 

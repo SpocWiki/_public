@@ -41,9 +41,9 @@ markerFolder: ./Saldus/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Saldus.md|Saldus]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Saldus.internal.md|Saldus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Saldus.protect.md|Saldus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Saldus.private.md|Saldus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Saldus.personal.md|Saldus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Saldus.secret.md|Saldus.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Saldus.internal|Saldus.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Saldus.protect|Saldus.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Saldus.private|Saldus.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Saldus.personal|Saldus.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Saldus.secret|Saldus.secret]] 
 

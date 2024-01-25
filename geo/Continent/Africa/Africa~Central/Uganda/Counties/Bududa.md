@@ -41,9 +41,9 @@ markerFolder: ./Bududa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bududa.md|Bududa]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bududa.internal.md|Bududa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bududa.protect.md|Bududa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bududa.private.md|Bududa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bududa.personal.md|Bududa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bududa.secret.md|Bududa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bududa.internal|Bududa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bududa.protect|Bududa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bududa.private|Bududa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bududa.personal|Bududa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bududa.secret|Bududa.secret]] 
 

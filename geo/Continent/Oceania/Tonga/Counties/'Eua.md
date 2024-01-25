@@ -41,9 +41,9 @@ markerFolder: ./'Eua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Tonga/Counties/'Eua.md|'Eua]] 
-- [[../../../../_internal/geo/Continent/Oceania/Tonga/Counties/'Eua.internal.md|'Eua.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Tonga/Counties/'Eua.protect.md|'Eua.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Tonga/Counties/'Eua.private.md|'Eua.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Tonga/Counties/'Eua.personal.md|'Eua.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Tonga/Counties/'Eua.secret.md|'Eua.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Tonga/Counties/'Eua.internal|'Eua.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Tonga/Counties/'Eua.protect|'Eua.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Tonga/Counties/'Eua.private|'Eua.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Tonga/Counties/'Eua.personal|'Eua.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Tonga/Counties/'Eua.secret|'Eua.secret]] 
 

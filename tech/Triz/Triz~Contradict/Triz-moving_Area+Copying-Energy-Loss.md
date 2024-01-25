@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Copying-Energy-Loss]
 [SpocWebEntityId::23047]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.md|Triz-moving_Area+Copying-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.internal.md|Triz-moving_Area+Copying-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.protect.md|Triz-moving_Area+Copying-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.private.md|Triz-moving_Area+Copying-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.personal.md|Triz-moving_Area+Copying-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.secret.md|Triz-moving_Area+Copying-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.internal|Triz-moving_Area+Copying-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.protect|Triz-moving_Area+Copying-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.private|Triz-moving_Area+Copying-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.personal|Triz-moving_Area+Copying-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.secret|Triz-moving_Area+Copying-Energy-Loss.secret]] 

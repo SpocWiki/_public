@@ -41,9 +41,9 @@ markerFolder: ./Zanzibar_South_and_Central/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.md|Zanzibar_South_and_Central]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.internal.md|Zanzibar_South_and_Central.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.protect.md|Zanzibar_South_and_Central.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.private.md|Zanzibar_South_and_Central.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.personal.md|Zanzibar_South_and_Central.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.secret.md|Zanzibar_South_and_Central.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.internal|Zanzibar_South_and_Central.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.protect|Zanzibar_South_and_Central.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.private|Zanzibar_South_and_Central.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.personal|Zanzibar_South_and_Central.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.secret|Zanzibar_South_and_Central.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Kokneses/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Kokneses.md|Kokneses]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kokneses.internal.md|Kokneses.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kokneses.protect.md|Kokneses.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kokneses.private.md|Kokneses.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kokneses.personal.md|Kokneses.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kokneses.secret.md|Kokneses.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kokneses.internal|Kokneses.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kokneses.protect|Kokneses.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kokneses.private|Kokneses.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kokneses.personal|Kokneses.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kokneses.secret|Kokneses.secret]] 
 

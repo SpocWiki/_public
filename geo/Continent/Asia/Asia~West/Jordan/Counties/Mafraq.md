@@ -41,9 +41,9 @@ markerFolder: ./Mafraq/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.md|Mafraq]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.internal.md|Mafraq.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.protect.md|Mafraq.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.private.md|Mafraq.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.personal.md|Mafraq.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.secret.md|Mafraq.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.internal|Mafraq.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.protect|Mafraq.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.private|Mafraq.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.personal|Mafraq.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.secret|Mafraq.secret]] 
 

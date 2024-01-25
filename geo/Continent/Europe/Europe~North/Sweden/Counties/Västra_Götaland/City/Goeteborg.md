@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Goeteborg.md|Goeteborg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Goeteborg.internal.md|Goeteborg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Goeteborg.protect.md|Goeteborg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Goeteborg.private.md|Goeteborg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Goeteborg.personal.md|Goeteborg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Goeteborg.secret.md|Goeteborg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Goeteborg.internal|Goeteborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Goeteborg.protect|Goeteborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Goeteborg.private|Goeteborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Goeteborg.personal|Goeteborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Goeteborg.secret|Goeteborg.secret]] 

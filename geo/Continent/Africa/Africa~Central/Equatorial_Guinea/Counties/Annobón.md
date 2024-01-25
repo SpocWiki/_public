@@ -41,9 +41,9 @@ markerFolder: ./Annobón/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.md|Annobón]] 
-- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.internal.md|Annobón.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.protect.md|Annobón.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.private.md|Annobón.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.personal.md|Annobón.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.secret.md|Annobón.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.internal|Annobón.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.protect|Annobón.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.private|Annobón.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.personal|Annobón.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.secret|Annobón.secret]] 
 

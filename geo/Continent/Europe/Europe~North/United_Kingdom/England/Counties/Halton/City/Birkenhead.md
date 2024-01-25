@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Birkenhead.md|Birkenhead]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Birkenhead.internal.md|Birkenhead.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Birkenhead.protect.md|Birkenhead.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Birkenhead.private.md|Birkenhead.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Birkenhead.personal.md|Birkenhead.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Birkenhead.secret.md|Birkenhead.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Birkenhead.internal|Birkenhead.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Birkenhead.protect|Birkenhead.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Birkenhead.private|Birkenhead.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Birkenhead.personal|Birkenhead.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Birkenhead.secret|Birkenhead.secret]] 

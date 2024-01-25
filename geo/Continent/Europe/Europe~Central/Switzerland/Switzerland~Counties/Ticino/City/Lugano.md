@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lugano.md|Lugano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lugano.internal.md|Lugano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lugano.protect.md|Lugano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lugano.private.md|Lugano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lugano.personal.md|Lugano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lugano.secret.md|Lugano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lugano.internal|Lugano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lugano.protect|Lugano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lugano.private|Lugano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lugano.personal|Lugano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lugano.secret|Lugano.secret]] 

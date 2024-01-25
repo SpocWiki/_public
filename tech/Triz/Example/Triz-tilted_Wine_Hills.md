@@ -18,8 +18,8 @@ Planting Wine on tilted River Hills instead of Planes.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-tilted_Wine_Hills.md|Triz-tilted_Wine_Hills]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-tilted_Wine_Hills.internal.md|Triz-tilted_Wine_Hills.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-tilted_Wine_Hills.protect.md|Triz-tilted_Wine_Hills.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-tilted_Wine_Hills.private.md|Triz-tilted_Wine_Hills.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-tilted_Wine_Hills.personal.md|Triz-tilted_Wine_Hills.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-tilted_Wine_Hills.secret.md|Triz-tilted_Wine_Hills.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-tilted_Wine_Hills.internal|Triz-tilted_Wine_Hills.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-tilted_Wine_Hills.protect|Triz-tilted_Wine_Hills.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-tilted_Wine_Hills.private|Triz-tilted_Wine_Hills.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-tilted_Wine_Hills.personal|Triz-tilted_Wine_Hills.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-tilted_Wine_Hills.secret|Triz-tilted_Wine_Hills.secret]] 

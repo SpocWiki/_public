@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Moving_to_a_new_dimension-moving_Area]
 [SpocWebEntityId::26547]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.md|Triz-Automation+Moving_to_a_new_dimension-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.internal.md|Triz-Automation+Moving_to_a_new_dimension-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.protect.md|Triz-Automation+Moving_to_a_new_dimension-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.private.md|Triz-Automation+Moving_to_a_new_dimension-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.personal.md|Triz-Automation+Moving_to_a_new_dimension-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.secret.md|Triz-Automation+Moving_to_a_new_dimension-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.internal|Triz-Automation+Moving_to_a_new_dimension-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.protect|Triz-Automation+Moving_to_a_new_dimension-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.private|Triz-Automation+Moving_to_a_new_dimension-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.personal|Triz-Automation+Moving_to_a_new_dimension-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Moving_to_a_new_dimension-moving_Area.secret|Triz-Automation+Moving_to_a_new_dimension-moving_Area.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ciego_de_Ávila/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.md|Ciego_de_Ávila]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.internal.md|Ciego_de_Ávila.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.protect.md|Ciego_de_Ávila.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.private.md|Ciego_de_Ávila.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.personal.md|Ciego_de_Ávila.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.secret.md|Ciego_de_Ávila.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.internal|Ciego_de_Ávila.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.protect|Ciego_de_Ávila.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.private|Ciego_de_Ávila.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.personal|Ciego_de_Ávila.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Ciego_de_Ávila.secret|Ciego_de_Ávila.secret]] 
 

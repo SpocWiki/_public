@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Haapavesi.md|Haapavesi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Haapavesi.internal.md|Haapavesi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Haapavesi.protect.md|Haapavesi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Haapavesi.private.md|Haapavesi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Haapavesi.personal.md|Haapavesi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Haapavesi.secret.md|Haapavesi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Haapavesi.internal|Haapavesi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Haapavesi.protect|Haapavesi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Haapavesi.private|Haapavesi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Haapavesi.personal|Haapavesi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Haapavesi.secret|Haapavesi.secret]] 

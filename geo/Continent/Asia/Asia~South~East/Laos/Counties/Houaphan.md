@@ -41,9 +41,9 @@ markerFolder: ./Houaphan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.md|Houaphan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.internal.md|Houaphan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.protect.md|Houaphan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.private.md|Houaphan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.personal.md|Houaphan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.secret.md|Houaphan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.internal|Houaphan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.protect|Houaphan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.private|Houaphan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.personal|Houaphan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Houaphan.secret|Houaphan.secret]] 
 

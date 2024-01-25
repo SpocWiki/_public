@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tolkemit.md|Tolkemit]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tolkemit.internal.md|Tolkemit.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tolkemit.protect.md|Tolkemit.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tolkemit.private.md|Tolkemit.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tolkemit.personal.md|Tolkemit.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tolkemit.secret.md|Tolkemit.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tolkemit.internal|Tolkemit.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tolkemit.protect|Tolkemit.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tolkemit.private|Tolkemit.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tolkemit.personal|Tolkemit.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tolkemit.secret|Tolkemit.secret]] 

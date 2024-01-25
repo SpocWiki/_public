@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Llandes.md|Llandes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Llandes.internal.md|Llandes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Llandes.protect.md|Llandes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Llandes.private.md|Llandes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Llandes.personal.md|Llandes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Llandes.secret.md|Llandes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Llandes.internal|Llandes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Llandes.protect|Llandes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Llandes.private|Llandes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Llandes.personal|Llandes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Llandes.secret|Llandes.secret]] 

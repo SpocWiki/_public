@@ -41,9 +41,9 @@ markerFolder: ./Hovedstaden/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Denmark/Counties/Hovedstaden.md|Hovedstaden]] 
-- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Hovedstaden.internal.md|Hovedstaden.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Hovedstaden.protect.md|Hovedstaden.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Hovedstaden.private.md|Hovedstaden.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Hovedstaden.personal.md|Hovedstaden.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Hovedstaden.secret.md|Hovedstaden.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Hovedstaden.internal|Hovedstaden.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Hovedstaden.protect|Hovedstaden.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Hovedstaden.private|Hovedstaden.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Hovedstaden.personal|Hovedstaden.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Hovedstaden.secret|Hovedstaden.secret]] 
 

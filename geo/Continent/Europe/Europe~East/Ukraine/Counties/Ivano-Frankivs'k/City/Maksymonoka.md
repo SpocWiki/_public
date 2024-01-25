@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Maksymonoka.md|Maksymonoka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Maksymonoka.internal.md|Maksymonoka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Maksymonoka.protect.md|Maksymonoka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Maksymonoka.private.md|Maksymonoka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Maksymonoka.personal.md|Maksymonoka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Maksymonoka.secret.md|Maksymonoka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Maksymonoka.internal|Maksymonoka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Maksymonoka.protect|Maksymonoka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Maksymonoka.private|Maksymonoka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Maksymonoka.personal|Maksymonoka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Maksymonoka.secret|Maksymonoka.secret]] 

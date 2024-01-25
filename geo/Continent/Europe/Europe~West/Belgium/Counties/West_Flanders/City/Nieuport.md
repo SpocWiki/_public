@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Nieuport.md|Nieuport]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Nieuport.internal.md|Nieuport.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Nieuport.protect.md|Nieuport.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Nieuport.private.md|Nieuport.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Nieuport.personal.md|Nieuport.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Nieuport.secret.md|Nieuport.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Nieuport.internal|Nieuport.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Nieuport.protect|Nieuport.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Nieuport.private|Nieuport.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Nieuport.personal|Nieuport.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Nieuport.secret|Nieuport.secret]] 

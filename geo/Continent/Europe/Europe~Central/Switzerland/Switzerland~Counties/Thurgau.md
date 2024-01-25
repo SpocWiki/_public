@@ -41,9 +41,9 @@ markerFolder: ./Thurgau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.md|Thurgau]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.internal.md|Thurgau.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.protect.md|Thurgau.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.private.md|Thurgau.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.personal.md|Thurgau.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.secret.md|Thurgau.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.internal|Thurgau.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.protect|Thurgau.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.private|Thurgau.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.personal|Thurgau.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Thurgau.secret|Thurgau.secret]] 
 

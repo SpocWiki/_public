@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Phase_transition-Substance-Loss]
 [SpocWebEntityId::23243]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.md|Triz-moving_Volume+Phase_transition-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.internal.md|Triz-moving_Volume+Phase_transition-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.protect.md|Triz-moving_Volume+Phase_transition-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.private.md|Triz-moving_Volume+Phase_transition-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.personal.md|Triz-moving_Volume+Phase_transition-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.secret.md|Triz-moving_Volume+Phase_transition-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.internal|Triz-moving_Volume+Phase_transition-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.protect|Triz-moving_Volume+Phase_transition-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.private|Triz-moving_Volume+Phase_transition-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.personal|Triz-moving_Volume+Phase_transition-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Phase_transition-Substance-Loss.secret|Triz-moving_Volume+Phase_transition-Substance-Loss.secret]] 

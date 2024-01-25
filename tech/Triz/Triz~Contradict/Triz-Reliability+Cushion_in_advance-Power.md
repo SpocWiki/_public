@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Cushion_in_advance-Power]
 [SpocWebEntityId::25302]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.md|Triz-Reliability+Cushion_in_advance-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.internal.md|Triz-Reliability+Cushion_in_advance-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.protect.md|Triz-Reliability+Cushion_in_advance-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.private.md|Triz-Reliability+Cushion_in_advance-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.personal.md|Triz-Reliability+Cushion_in_advance-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.secret.md|Triz-Reliability+Cushion_in_advance-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.internal|Triz-Reliability+Cushion_in_advance-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.protect|Triz-Reliability+Cushion_in_advance-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.private|Triz-Reliability+Cushion_in_advance-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.personal|Triz-Reliability+Cushion_in_advance-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Power.secret|Triz-Reliability+Cushion_in_advance-Power.secret]] 

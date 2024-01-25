@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Pitea.md|Pitea]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Pitea.internal.md|Pitea.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Pitea.protect.md|Pitea.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Pitea.private.md|Pitea.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Pitea.personal.md|Pitea.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Pitea.secret.md|Pitea.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Pitea.internal|Pitea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Pitea.protect|Pitea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Pitea.private|Pitea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Pitea.personal|Pitea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Pitea.secret|Pitea.secret]] 

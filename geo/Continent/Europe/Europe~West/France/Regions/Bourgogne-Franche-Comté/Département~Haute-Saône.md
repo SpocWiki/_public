@@ -41,9 +41,9 @@ markerFolder: ./Département~Haute-Saône/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.md|Département~Haute-Saône]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.internal.md|Département~Haute-Saône.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.protect.md|Département~Haute-Saône.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.private.md|Département~Haute-Saône.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.personal.md|Département~Haute-Saône.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.secret.md|Département~Haute-Saône.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.internal|Département~Haute-Saône.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.protect|Département~Haute-Saône.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.private|Département~Haute-Saône.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.personal|Département~Haute-Saône.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Haute-Saône.secret|Département~Haute-Saône.secret]] 
 

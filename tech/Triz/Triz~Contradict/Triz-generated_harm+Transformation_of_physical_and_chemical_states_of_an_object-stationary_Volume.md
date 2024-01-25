@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]
 [SpocWebEntityId::25740]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret]] 

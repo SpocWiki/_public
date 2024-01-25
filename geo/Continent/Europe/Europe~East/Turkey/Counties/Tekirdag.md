@@ -41,9 +41,9 @@ markerFolder: ./Tekirdag/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Tekirdag.md|Tekirdag]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Tekirdag.internal.md|Tekirdag.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Tekirdag.protect.md|Tekirdag.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Tekirdag.private.md|Tekirdag.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Tekirdag.personal.md|Tekirdag.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Tekirdag.secret.md|Tekirdag.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Tekirdag.internal|Tekirdag.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Tekirdag.protect|Tekirdag.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Tekirdag.private|Tekirdag.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Tekirdag.personal|Tekirdag.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Tekirdag.secret|Tekirdag.secret]] 
 

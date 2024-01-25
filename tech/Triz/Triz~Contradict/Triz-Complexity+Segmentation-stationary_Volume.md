@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Segmentation-stationary_Volume]
 [SpocWebEntityId::26312]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.md|Triz-Complexity+Segmentation-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.internal.md|Triz-Complexity+Segmentation-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.protect.md|Triz-Complexity+Segmentation-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.private.md|Triz-Complexity+Segmentation-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.personal.md|Triz-Complexity+Segmentation-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.secret.md|Triz-Complexity+Segmentation-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.internal|Triz-Complexity+Segmentation-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.protect|Triz-Complexity+Segmentation-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.private|Triz-Complexity+Segmentation-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.personal|Triz-Complexity+Segmentation-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.secret|Triz-Complexity+Segmentation-stationary_Volume.secret]] 

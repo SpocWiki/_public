@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Copying-Quantity]
 [SpocWebEntityId::22641]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.md|Triz-moving_Weight+Copying-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.internal.md|Triz-moving_Weight+Copying-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.protect.md|Triz-moving_Weight+Copying-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.private.md|Triz-moving_Weight+Copying-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.personal.md|Triz-moving_Weight+Copying-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.secret.md|Triz-moving_Weight+Copying-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.internal|Triz-moving_Weight+Copying-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.protect|Triz-moving_Weight+Copying-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.private|Triz-moving_Weight+Copying-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.personal|Triz-moving_Weight+Copying-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Copying-Quantity.secret|Triz-moving_Weight+Copying-Quantity.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Selenginsk.md|Selenginsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Selenginsk.internal.md|Selenginsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Selenginsk.protect.md|Selenginsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Selenginsk.private.md|Selenginsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Selenginsk.personal.md|Selenginsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Selenginsk.secret.md|Selenginsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Selenginsk.internal|Selenginsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Selenginsk.protect|Selenginsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Selenginsk.private|Selenginsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Selenginsk.personal|Selenginsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Selenginsk.secret|Selenginsk.secret]] 

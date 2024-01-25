@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Australia/Australia/City/Canberra.md|Canberra]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Canberra.internal.md|Canberra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Canberra.protect.md|Canberra.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Canberra.private.md|Canberra.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Canberra.personal.md|Canberra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Canberra.secret.md|Canberra.secret]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Canberra.internal|Canberra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Canberra.protect|Canberra.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Canberra.private|Canberra.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Canberra.personal|Canberra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Canberra.secret|Canberra.secret]] 

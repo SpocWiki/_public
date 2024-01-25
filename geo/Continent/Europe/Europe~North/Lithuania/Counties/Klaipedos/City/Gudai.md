@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gudai.md|Gudai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gudai.internal.md|Gudai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gudai.protect.md|Gudai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gudai.private.md|Gudai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gudai.personal.md|Gudai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gudai.secret.md|Gudai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gudai.internal|Gudai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gudai.protect|Gudai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gudai.private|Gudai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gudai.personal|Gudai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gudai.secret|Gudai.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Côte-d'Or/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.md|Département~Côte-d'Or]] 
-- [[../../../../_internal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.internal.md|Département~Côte-d'Or.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.protect.md|Département~Côte-d'Or.protect]] 
-- [[../../../../_private/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.private.md|Département~Côte-d'Or.private]] 
-- [[../../../../_personal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.personal.md|Département~Côte-d'Or.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.secret.md|Département~Côte-d'Or.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.internal|Département~Côte-d'Or.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.protect|Département~Côte-d'Or.protect]] 
+- [[../../../../_private/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.private|Département~Côte-d'Or.private]] 
+- [[../../../../_personal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.personal|Département~Côte-d'Or.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.secret|Département~Côte-d'Or.secret]] 
 

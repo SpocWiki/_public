@@ -131,8 +131,8 @@ markerFolder: ./Malta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta.md|Malta]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta.internal.md|Malta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta.protect.md|Malta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta.private.md|Malta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta.personal.md|Malta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta.secret.md|Malta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta.internal|Malta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta.protect|Malta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta.private|Malta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta.personal|Malta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta.secret|Malta.secret]] 

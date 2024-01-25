@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Local_quality-Illumination]
 [SpocWebEntityId::23882]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.md|Triz-Stability+Local_quality-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.internal.md|Triz-Stability+Local_quality-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.protect.md|Triz-Stability+Local_quality-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.private.md|Triz-Stability+Local_quality-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.personal.md|Triz-Stability+Local_quality-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.secret.md|Triz-Stability+Local_quality-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.internal|Triz-Stability+Local_quality-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.protect|Triz-Stability+Local_quality-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.private|Triz-Stability+Local_quality-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.personal|Triz-Stability+Local_quality-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Local_quality-Illumination.secret|Triz-Stability+Local_quality-Illumination.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ultuna.md|Ultuna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ultuna.internal.md|Ultuna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ultuna.protect.md|Ultuna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ultuna.private.md|Ultuna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ultuna.personal.md|Ultuna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ultuna.secret.md|Ultuna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ultuna.internal|Ultuna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ultuna.protect|Ultuna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ultuna.private|Ultuna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ultuna.personal|Ultuna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ultuna.secret|Ultuna.secret]] 

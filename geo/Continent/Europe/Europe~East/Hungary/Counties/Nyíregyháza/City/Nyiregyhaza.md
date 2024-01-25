@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Nyiregyhaza.md|Nyiregyhaza]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nyiregyhaza.internal.md|Nyiregyhaza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nyiregyhaza.protect.md|Nyiregyhaza.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Nyiregyhaza.private.md|Nyiregyhaza.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nyiregyhaza.personal.md|Nyiregyhaza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nyiregyhaza.secret.md|Nyiregyhaza.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nyiregyhaza.internal|Nyiregyhaza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nyiregyhaza.protect|Nyiregyhaza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Nyiregyhaza.private|Nyiregyhaza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nyiregyhaza.personal|Nyiregyhaza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nyiregyhaza.secret|Nyiregyhaza.secret]] 

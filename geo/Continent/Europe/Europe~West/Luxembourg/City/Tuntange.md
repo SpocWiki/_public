@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Tuntange.md|Tuntange]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Tuntange.internal.md|Tuntange.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Tuntange.protect.md|Tuntange.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Tuntange.private.md|Tuntange.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Tuntange.personal.md|Tuntange.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Tuntange.secret.md|Tuntange.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Tuntange.internal|Tuntange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Tuntange.protect|Tuntange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Tuntange.private|Tuntange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Tuntange.personal|Tuntange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Tuntange.secret|Tuntange.secret]] 

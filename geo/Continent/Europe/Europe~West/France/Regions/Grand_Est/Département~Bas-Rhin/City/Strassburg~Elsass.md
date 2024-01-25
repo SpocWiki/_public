@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Strassburg~Elsass.md|Strassburg~Elsass]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Strassburg~Elsass.internal.md|Strassburg~Elsass.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Strassburg~Elsass.protect.md|Strassburg~Elsass.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Strassburg~Elsass.private.md|Strassburg~Elsass.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Strassburg~Elsass.personal.md|Strassburg~Elsass.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Strassburg~Elsass.secret.md|Strassburg~Elsass.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Strassburg~Elsass.internal|Strassburg~Elsass.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Strassburg~Elsass.protect|Strassburg~Elsass.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Strassburg~Elsass.private|Strassburg~Elsass.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Strassburg~Elsass.personal|Strassburg~Elsass.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Strassburg~Elsass.secret|Strassburg~Elsass.secret]] 

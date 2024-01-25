@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zakopane.md|Zakopane]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zakopane.internal.md|Zakopane.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zakopane.protect.md|Zakopane.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zakopane.private.md|Zakopane.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zakopane.personal.md|Zakopane.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zakopane.secret.md|Zakopane.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zakopane.internal|Zakopane.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zakopane.protect|Zakopane.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zakopane.private|Zakopane.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zakopane.personal|Zakopane.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zakopane.secret|Zakopane.secret]] 

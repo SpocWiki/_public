@@ -41,9 +41,9 @@ markerFolder: ./Mongar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.md|Mongar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.internal.md|Mongar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.protect.md|Mongar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.private.md|Mongar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.personal.md|Mongar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.secret.md|Mongar.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.internal|Mongar.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.protect|Mongar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.private|Mongar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.personal|Mongar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Mongar.secret|Mongar.secret]] 
 

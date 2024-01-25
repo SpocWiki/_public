@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Dynamicity-moving_Weight]
 [SpocWebEntityId::22814]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.md|Triz-moving_Length+Dynamicity-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.internal.md|Triz-moving_Length+Dynamicity-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.protect.md|Triz-moving_Length+Dynamicity-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.private.md|Triz-moving_Length+Dynamicity-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.personal.md|Triz-moving_Length+Dynamicity-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.secret.md|Triz-moving_Length+Dynamicity-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.internal|Triz-moving_Length+Dynamicity-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.protect|Triz-moving_Length+Dynamicity-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.private|Triz-moving_Length+Dynamicity-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.personal|Triz-moving_Length+Dynamicity-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-moving_Weight.secret|Triz-moving_Length+Dynamicity-moving_Weight.secret]] 

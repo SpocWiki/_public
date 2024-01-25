@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Peitschendorf.md|Peitschendorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Peitschendorf.internal.md|Peitschendorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Peitschendorf.protect.md|Peitschendorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Peitschendorf.private.md|Peitschendorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Peitschendorf.personal.md|Peitschendorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Peitschendorf.secret.md|Peitschendorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Peitschendorf.internal|Peitschendorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Peitschendorf.protect|Peitschendorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Peitschendorf.private|Peitschendorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Peitschendorf.personal|Peitschendorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Peitschendorf.secret|Peitschendorf.secret]] 

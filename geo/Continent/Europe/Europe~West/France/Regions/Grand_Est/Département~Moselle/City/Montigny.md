@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Montigny.md|Montigny]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montigny.internal.md|Montigny.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montigny.protect.md|Montigny.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Montigny.private.md|Montigny.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montigny.personal.md|Montigny.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montigny.secret.md|Montigny.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montigny.internal|Montigny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montigny.protect|Montigny.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montigny.private|Montigny.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montigny.personal|Montigny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montigny.secret|Montigny.secret]] 

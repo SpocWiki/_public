@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Tucana.md|Zodiac~Tucana]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Tucana.internal.md|Zodiac~Tucana.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Tucana.protect.md|Zodiac~Tucana.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Tucana.private.md|Zodiac~Tucana.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Tucana.personal.md|Zodiac~Tucana.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Tucana.secret.md|Zodiac~Tucana.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Tucana.internal|Zodiac~Tucana.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Tucana.protect|Zodiac~Tucana.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Tucana.private|Zodiac~Tucana.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Tucana.personal|Zodiac~Tucana.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Tucana.secret|Zodiac~Tucana.secret]] 

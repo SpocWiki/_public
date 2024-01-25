@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kremsier.md|Kremsier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kremsier.internal.md|Kremsier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kremsier.protect.md|Kremsier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kremsier.private.md|Kremsier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kremsier.personal.md|Kremsier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kremsier.secret.md|Kremsier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kremsier.internal|Kremsier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kremsier.protect|Kremsier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kremsier.private|Kremsier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kremsier.personal|Kremsier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kremsier.secret|Kremsier.secret]] 

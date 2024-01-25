@@ -34,8 +34,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Zadar|Zadar]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zara.internal.md|Zara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zara.protect.md|Zara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zara.private.md|Zara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zara.personal.md|Zara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zara.secret.md|Zara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zara.internal|Zara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zara.protect|Zara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zara.private|Zara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zara.personal|Zara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zara.secret|Zara.secret]] 

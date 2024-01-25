@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschita.md|Tschita]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschita.internal.md|Tschita.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschita.protect.md|Tschita.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschita.private.md|Tschita.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschita.personal.md|Tschita.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschita.secret.md|Tschita.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschita.internal|Tschita.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschita.protect|Tschita.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschita.private|Tschita.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschita.personal|Tschita.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschita.secret|Tschita.secret]] 

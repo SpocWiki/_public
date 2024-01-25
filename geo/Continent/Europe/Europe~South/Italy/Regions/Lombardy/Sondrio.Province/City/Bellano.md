@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bellano.md|Bellano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bellano.internal.md|Bellano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bellano.protect.md|Bellano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bellano.private.md|Bellano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bellano.personal.md|Bellano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bellano.secret.md|Bellano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bellano.internal|Bellano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bellano.protect|Bellano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bellano.private|Bellano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bellano.personal|Bellano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bellano.secret|Bellano.secret]] 

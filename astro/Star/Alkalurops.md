@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alkalurops.md|Alkalurops]] 
-- [[../../../_internal/astro/Star/Alkalurops.internal.md|Alkalurops.internal]] 
-- [[../../../_protect/astro/Star/Alkalurops.protect.md|Alkalurops.protect]] 
-- [[../../../_private/astro/Star/Alkalurops.private.md|Alkalurops.private]] 
-- [[../../../_personal/astro/Star/Alkalurops.personal.md|Alkalurops.personal]] 
-- [[../../../_secret/astro/Star/Alkalurops.secret.md|Alkalurops.secret]]
+- [[../../../_internal/astro/Star/Alkalurops.internal|Alkalurops.internal]] 
+- [[../../../_protect/astro/Star/Alkalurops.protect|Alkalurops.protect]] 
+- [[../../../_private/astro/Star/Alkalurops.private|Alkalurops.private]] 
+- [[../../../_personal/astro/Star/Alkalurops.personal|Alkalurops.personal]] 
+- [[../../../_secret/astro/Star/Alkalurops.secret|Alkalurops.secret]]
 

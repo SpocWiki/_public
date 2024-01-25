@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pitlekai.md|Pitlekai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pitlekai.internal.md|Pitlekai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pitlekai.protect.md|Pitlekai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pitlekai.private.md|Pitlekai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pitlekai.personal.md|Pitlekai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pitlekai.secret.md|Pitlekai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pitlekai.internal|Pitlekai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pitlekai.protect|Pitlekai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pitlekai.private|Pitlekai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pitlekai.personal|Pitlekai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pitlekai.secret|Pitlekai.secret]] 

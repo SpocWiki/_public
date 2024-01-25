@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Thermal_expansion-Manufacturing_Precision]
 [SpocWebEntityId::23563]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.md|Triz-Intensity+Thermal_expansion-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.internal.md|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.protect.md|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.private.md|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.personal.md|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.secret.md|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.internal|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.protect|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.private|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.personal|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.secret|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.secret]] 

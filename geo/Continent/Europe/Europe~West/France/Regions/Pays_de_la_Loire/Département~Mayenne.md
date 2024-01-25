@@ -41,9 +41,9 @@ markerFolder: ./Département~Mayenne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.md|Département~Mayenne]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.internal.md|Département~Mayenne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.protect.md|Département~Mayenne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.private.md|Département~Mayenne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.personal.md|Département~Mayenne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.secret.md|Département~Mayenne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.internal|Département~Mayenne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.protect|Département~Mayenne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.private|Département~Mayenne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.personal|Département~Mayenne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Pays_de_la_Loire/Département~Mayenne.secret|Département~Mayenne.secret]] 
 

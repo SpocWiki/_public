@@ -41,9 +41,9 @@ markerFolder: ./Al_Buraymi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.md|Al_Buraymi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.internal.md|Al_Buraymi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.protect.md|Al_Buraymi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.private.md|Al_Buraymi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.personal.md|Al_Buraymi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.secret.md|Al_Buraymi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.internal|Al_Buraymi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.protect|Al_Buraymi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.private|Al_Buraymi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.personal|Al_Buraymi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Buraymi.secret|Al_Buraymi.secret]] 
 

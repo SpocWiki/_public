@@ -41,9 +41,9 @@ markerFolder: ./Nordjylland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Denmark/Counties/Nordjylland.md|Nordjylland]] 
-- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Nordjylland.internal.md|Nordjylland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Nordjylland.protect.md|Nordjylland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Nordjylland.private.md|Nordjylland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Nordjylland.personal.md|Nordjylland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Nordjylland.secret.md|Nordjylland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Nordjylland.internal|Nordjylland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Nordjylland.protect|Nordjylland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Nordjylland.private|Nordjylland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Nordjylland.personal|Nordjylland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Nordjylland.secret|Nordjylland.secret]] 
 

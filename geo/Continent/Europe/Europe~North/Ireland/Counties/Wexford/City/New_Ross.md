@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/New_Ross.md|New_Ross]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/New_Ross.internal.md|New_Ross.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/New_Ross.protect.md|New_Ross.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/New_Ross.private.md|New_Ross.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/New_Ross.personal.md|New_Ross.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/New_Ross.secret.md|New_Ross.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/New_Ross.internal|New_Ross.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/New_Ross.protect|New_Ross.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/New_Ross.private|New_Ross.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/New_Ross.personal|New_Ross.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/New_Ross.secret|New_Ross.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Jungoli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Jungoli.md|Jungoli]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Jungoli.internal.md|Jungoli.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Jungoli.protect.md|Jungoli.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Jungoli.private.md|Jungoli.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Jungoli.personal.md|Jungoli.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Jungoli.secret.md|Jungoli.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Jungoli.internal|Jungoli.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Jungoli.protect|Jungoli.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Jungoli.private|Jungoli.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Jungoli.personal|Jungoli.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Jungoli.secret|Jungoli.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Chardzhou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.md|Chardzhou]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.internal.md|Chardzhou.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.protect.md|Chardzhou.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.private.md|Chardzhou.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.personal.md|Chardzhou.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.secret.md|Chardzhou.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.internal|Chardzhou.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.protect|Chardzhou.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.private|Chardzhou.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.personal|Chardzhou.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Chardzhou.secret|Chardzhou.secret]] 
 

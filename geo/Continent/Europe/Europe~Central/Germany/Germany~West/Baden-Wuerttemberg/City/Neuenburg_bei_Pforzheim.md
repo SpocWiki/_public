@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Neuenburg_bei_Pforzheim|Neuenburg_bei_Pforzheim]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.internal.md|Neuenburg_bei_Pforzheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.protect.md|Neuenburg_bei_Pforzheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.private.md|Neuenburg_bei_Pforzheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.personal.md|Neuenburg_bei_Pforzheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.secret.md|Neuenburg_bei_Pforzheim.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.internal|Neuenburg_bei_Pforzheim.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.protect|Neuenburg_bei_Pforzheim.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.private|Neuenburg_bei_Pforzheim.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.personal|Neuenburg_bei_Pforzheim.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg_bei_Pforzheim.secret|Neuenburg_bei_Pforzheim.secret]] 

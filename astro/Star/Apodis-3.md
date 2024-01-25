@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Apodis-3.md|Apodis-3]] 
-- [[../../../_internal/astro/Star/Apodis-3.internal.md|Apodis-3.internal]] 
-- [[../../../_protect/astro/Star/Apodis-3.protect.md|Apodis-3.protect]] 
-- [[../../../_private/astro/Star/Apodis-3.private.md|Apodis-3.private]] 
-- [[../../../_personal/astro/Star/Apodis-3.personal.md|Apodis-3.personal]] 
-- [[../../../_secret/astro/Star/Apodis-3.secret.md|Apodis-3.secret]]
+- [[../../../_internal/astro/Star/Apodis-3.internal|Apodis-3.internal]] 
+- [[../../../_protect/astro/Star/Apodis-3.protect|Apodis-3.protect]] 
+- [[../../../_private/astro/Star/Apodis-3.private|Apodis-3.private]] 
+- [[../../../_personal/astro/Star/Apodis-3.personal|Apodis-3.personal]] 
+- [[../../../_secret/astro/Star/Apodis-3.secret|Apodis-3.secret]]
 

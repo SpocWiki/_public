@@ -41,11 +41,11 @@ markerFolder: ./Lincolnshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.md|Lincolnshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.internal.md|Lincolnshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.protect.md|Lincolnshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.private.md|Lincolnshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.personal.md|Lincolnshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.secret.md|Lincolnshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.internal|Lincolnshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.protect|Lincolnshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.private|Lincolnshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.personal|Lincolnshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.secret|Lincolnshire.secret]] 
 
 
 ```leaflet

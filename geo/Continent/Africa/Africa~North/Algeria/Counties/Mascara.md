@@ -41,9 +41,9 @@ markerFolder: ./Mascara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Mascara.md|Mascara]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Mascara.internal.md|Mascara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Mascara.protect.md|Mascara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Mascara.private.md|Mascara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Mascara.personal.md|Mascara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Mascara.secret.md|Mascara.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Mascara.internal|Mascara.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Mascara.protect|Mascara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Mascara.private|Mascara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Mascara.personal|Mascara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Mascara.secret|Mascara.secret]] 
 

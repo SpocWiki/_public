@@ -41,9 +41,9 @@ markerFolder: ./Chimbu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.md|Chimbu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.internal.md|Chimbu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.protect.md|Chimbu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.private.md|Chimbu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.personal.md|Chimbu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.secret.md|Chimbu.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.internal|Chimbu.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.protect|Chimbu.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.private|Chimbu.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.personal|Chimbu.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.secret|Chimbu.secret]] 
 

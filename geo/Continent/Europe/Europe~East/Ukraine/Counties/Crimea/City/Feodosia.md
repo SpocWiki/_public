@@ -34,8 +34,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 [[Feodosia|Feodosia]]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Feodosia.internal.md|Feodosia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Feodosia.protect.md|Feodosia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Feodosia.private.md|Feodosia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Feodosia.personal.md|Feodosia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Feodosia.secret.md|Feodosia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Feodosia.internal|Feodosia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Feodosia.protect|Feodosia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Feodosia.private|Feodosia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Feodosia.personal|Feodosia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Feodosia.secret|Feodosia.secret]] 

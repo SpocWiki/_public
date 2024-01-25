@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Buttle.md|Buttle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Buttle.internal.md|Buttle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Buttle.protect.md|Buttle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Buttle.private.md|Buttle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Buttle.personal.md|Buttle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Buttle.secret.md|Buttle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Buttle.internal|Buttle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Buttle.protect|Buttle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Buttle.private|Buttle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Buttle.personal|Buttle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Buttle.secret|Buttle.secret]] 

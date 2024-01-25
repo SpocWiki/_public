@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Temmikof.md|Temmikof]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Temmikof.internal.md|Temmikof.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Temmikof.protect.md|Temmikof.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Temmikof.private.md|Temmikof.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Temmikof.personal.md|Temmikof.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Temmikof.secret.md|Temmikof.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Temmikof.internal|Temmikof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Temmikof.protect|Temmikof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Temmikof.private|Temmikof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Temmikof.personal|Temmikof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Temmikof.secret|Temmikof.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Coventry.md|Coventry]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Coventry.internal.md|Coventry.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Coventry.protect.md|Coventry.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Coventry.private.md|Coventry.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Coventry.personal.md|Coventry.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Coventry.secret.md|Coventry.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Coventry.internal|Coventry.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Coventry.protect|Coventry.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Coventry.private|Coventry.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Coventry.personal|Coventry.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Coventry.secret|Coventry.secret]] 

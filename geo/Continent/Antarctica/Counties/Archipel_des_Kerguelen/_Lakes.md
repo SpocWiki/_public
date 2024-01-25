@@ -41,9 +41,9 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.internal.md|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.protect.md|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.private.md|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.personal.md|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.secret.md|_Lakes.secret]] 
+- [[../../../../_internal/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.private|_Lakes.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.secret|_Lakes.secret]] 
 

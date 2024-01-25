@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barry.md|Barry]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barry.internal.md|Barry.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barry.protect.md|Barry.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barry.private.md|Barry.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barry.personal.md|Barry.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barry.secret.md|Barry.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barry.internal|Barry.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barry.protect|Barry.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barry.private|Barry.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barry.personal|Barry.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barry.secret|Barry.secret]] 

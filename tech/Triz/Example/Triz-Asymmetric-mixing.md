@@ -18,8 +18,8 @@ Asymmetrical Mixing Vessels or asymmetrical Vanes in symmetrical Vessels improve
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Asymmetric-mixing.md|Triz-Asymmetric-mixing]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Asymmetric-mixing.internal.md|Triz-Asymmetric-mixing.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Asymmetric-mixing.protect.md|Triz-Asymmetric-mixing.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Asymmetric-mixing.private.md|Triz-Asymmetric-mixing.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Asymmetric-mixing.personal.md|Triz-Asymmetric-mixing.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Asymmetric-mixing.secret.md|Triz-Asymmetric-mixing.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Asymmetric-mixing.internal|Triz-Asymmetric-mixing.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Asymmetric-mixing.protect|Triz-Asymmetric-mixing.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Asymmetric-mixing.private|Triz-Asymmetric-mixing.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Asymmetric-mixing.personal|Triz-Asymmetric-mixing.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Asymmetric-mixing.secret|Triz-Asymmetric-mixing.secret]] 

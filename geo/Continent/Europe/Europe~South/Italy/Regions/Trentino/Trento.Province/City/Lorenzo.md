@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lorenzo.md|Lorenzo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lorenzo.internal.md|Lorenzo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lorenzo.protect.md|Lorenzo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lorenzo.private.md|Lorenzo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lorenzo.personal.md|Lorenzo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lorenzo.secret.md|Lorenzo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lorenzo.internal|Lorenzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lorenzo.protect|Lorenzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lorenzo.private|Lorenzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lorenzo.personal|Lorenzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lorenzo.secret|Lorenzo.secret]] 

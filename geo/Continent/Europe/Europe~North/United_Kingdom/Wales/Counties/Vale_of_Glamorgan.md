@@ -41,9 +41,9 @@ markerFolder: ./Vale_of_Glamorgan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.md|Vale_of_Glamorgan]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.internal.md|Vale_of_Glamorgan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.protect.md|Vale_of_Glamorgan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.private.md|Vale_of_Glamorgan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.personal.md|Vale_of_Glamorgan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.secret.md|Vale_of_Glamorgan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.internal|Vale_of_Glamorgan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.protect|Vale_of_Glamorgan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.private|Vale_of_Glamorgan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.personal|Vale_of_Glamorgan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Vale_of_Glamorgan.secret|Vale_of_Glamorgan.secret]] 
 

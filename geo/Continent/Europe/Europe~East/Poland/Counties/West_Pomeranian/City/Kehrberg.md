@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kehrberg.md|Kehrberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kehrberg.internal.md|Kehrberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kehrberg.protect.md|Kehrberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kehrberg.private.md|Kehrberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kehrberg.personal.md|Kehrberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kehrberg.secret.md|Kehrberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kehrberg.internal|Kehrberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kehrberg.protect|Kehrberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kehrberg.private|Kehrberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kehrberg.personal|Kehrberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kehrberg.secret|Kehrberg.secret]] 

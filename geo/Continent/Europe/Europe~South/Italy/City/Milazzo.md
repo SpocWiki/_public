@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Milazzo.md|Milazzo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Milazzo.internal.md|Milazzo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Milazzo.protect.md|Milazzo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Milazzo.private.md|Milazzo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Milazzo.personal.md|Milazzo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Milazzo.secret.md|Milazzo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Milazzo.internal|Milazzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Milazzo.protect|Milazzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Milazzo.private|Milazzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Milazzo.personal|Milazzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Milazzo.secret|Milazzo.secret]] 

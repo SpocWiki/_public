@@ -41,9 +41,9 @@ markerFolder: ./Windward_Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.md|Windward_Islands]] 
-- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.internal.md|Windward_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.protect.md|Windward_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.private.md|Windward_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.personal.md|Windward_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.secret.md|Windward_Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.internal|Windward_Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.protect|Windward_Islands.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.private|Windward_Islands.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.personal|Windward_Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.secret|Windward_Islands.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Deventer.md|Deventer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Deventer.internal.md|Deventer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Deventer.protect.md|Deventer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Deventer.private.md|Deventer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Deventer.personal.md|Deventer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Deventer.secret.md|Deventer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Deventer.internal|Deventer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Deventer.protect|Deventer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Deventer.private|Deventer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Deventer.personal|Deventer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Deventer.secret|Deventer.secret]] 

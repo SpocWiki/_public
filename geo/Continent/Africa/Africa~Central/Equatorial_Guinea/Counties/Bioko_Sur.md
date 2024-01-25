@@ -41,9 +41,9 @@ markerFolder: ./Bioko_Sur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.md|Bioko_Sur]] 
-- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.internal.md|Bioko_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.protect.md|Bioko_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.private.md|Bioko_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.personal.md|Bioko_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.secret.md|Bioko_Sur.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.internal|Bioko_Sur.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.protect|Bioko_Sur.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.private|Bioko_Sur.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.personal|Bioko_Sur.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Sur.secret|Bioko_Sur.secret]] 
 

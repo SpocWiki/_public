@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bridgetown|Bridgetown]]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Barbados/City/Bridgetown.internal.md|Bridgetown.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Barbados/City/Bridgetown.protect.md|Bridgetown.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Barbados/City/Bridgetown.private.md|Bridgetown.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Barbados/City/Bridgetown.personal.md|Bridgetown.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Barbados/City/Bridgetown.secret.md|Bridgetown.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Barbados/City/Bridgetown.internal|Bridgetown.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Barbados/City/Bridgetown.protect|Bridgetown.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Barbados/City/Bridgetown.private|Bridgetown.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Barbados/City/Bridgetown.personal|Bridgetown.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Barbados/City/Bridgetown.secret|Bridgetown.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Josefsberg.md|Josefsberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Josefsberg.internal.md|Josefsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Josefsberg.protect.md|Josefsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Josefsberg.private.md|Josefsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Josefsberg.personal.md|Josefsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Josefsberg.secret.md|Josefsberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Josefsberg.internal|Josefsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Josefsberg.protect|Josefsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Josefsberg.private|Josefsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Josefsberg.personal|Josefsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Josefsberg.secret|Josefsberg.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Tochigi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.md|Tochigi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.internal.md|Tochigi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.protect.md|Tochigi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.private.md|Tochigi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.personal.md|Tochigi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.secret.md|Tochigi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.internal|Tochigi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.protect|Tochigi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.private|Tochigi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.personal|Tochigi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.secret|Tochigi.secret]] 
 

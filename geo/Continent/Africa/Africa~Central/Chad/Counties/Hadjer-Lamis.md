@@ -41,9 +41,9 @@ markerFolder: ./Hadjer-Lamis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.md|Hadjer-Lamis]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.internal.md|Hadjer-Lamis.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.protect.md|Hadjer-Lamis.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.private.md|Hadjer-Lamis.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.personal.md|Hadjer-Lamis.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.secret.md|Hadjer-Lamis.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.internal|Hadjer-Lamis.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.protect|Hadjer-Lamis.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.private|Hadjer-Lamis.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.personal|Hadjer-Lamis.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Hadjer-Lamis.secret|Hadjer-Lamis.secret]] 
 

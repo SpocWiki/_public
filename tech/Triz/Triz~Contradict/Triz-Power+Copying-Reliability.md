@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Copying-Reliability]
 [SpocWebEntityId::24660]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Copying-Reliability.md|Triz-Power+Copying-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Copying-Reliability.internal.md|Triz-Power+Copying-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Copying-Reliability.protect.md|Triz-Power+Copying-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Copying-Reliability.private.md|Triz-Power+Copying-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Copying-Reliability.personal.md|Triz-Power+Copying-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Copying-Reliability.secret.md|Triz-Power+Copying-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Copying-Reliability.internal|Triz-Power+Copying-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Copying-Reliability.protect|Triz-Power+Copying-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Copying-Reliability.private|Triz-Power+Copying-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Copying-Reliability.personal|Triz-Power+Copying-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Copying-Reliability.secret|Triz-Power+Copying-Reliability.secret]] 

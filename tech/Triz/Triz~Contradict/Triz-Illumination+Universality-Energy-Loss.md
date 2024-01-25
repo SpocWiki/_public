@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Universality-Energy-Loss]
 [SpocWebEntityId::24393]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.md|Triz-Illumination+Universality-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.internal.md|Triz-Illumination+Universality-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.protect.md|Triz-Illumination+Universality-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.private.md|Triz-Illumination+Universality-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.personal.md|Triz-Illumination+Universality-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.secret.md|Triz-Illumination+Universality-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.internal|Triz-Illumination+Universality-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.protect|Triz-Illumination+Universality-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.private|Triz-Illumination+Universality-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.personal|Triz-Illumination+Universality-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.secret|Triz-Illumination+Universality-Energy-Loss.secret]] 

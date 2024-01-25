@@ -41,9 +41,9 @@ markerFolder: ./Bobonaro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.md|Bobonaro]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.internal.md|Bobonaro.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.protect.md|Bobonaro.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.private.md|Bobonaro.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.personal.md|Bobonaro.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.secret.md|Bobonaro.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.internal|Bobonaro.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.protect|Bobonaro.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.private|Bobonaro.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.personal|Bobonaro.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Bobonaro.secret|Bobonaro.secret]] 
 

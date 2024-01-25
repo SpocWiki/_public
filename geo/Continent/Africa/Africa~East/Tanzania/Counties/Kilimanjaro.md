@@ -41,9 +41,9 @@ markerFolder: ./Kilimanjaro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.md|Kilimanjaro]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.internal.md|Kilimanjaro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.protect.md|Kilimanjaro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.private.md|Kilimanjaro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.personal.md|Kilimanjaro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.secret.md|Kilimanjaro.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.internal|Kilimanjaro.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.protect|Kilimanjaro.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.private|Kilimanjaro.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.personal|Kilimanjaro.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.secret|Kilimanjaro.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength]
 [SpocWebEntityId::26454]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.internal.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.protect.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.private.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.personal.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.secret.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.internal|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.protect|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.private|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.personal|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.secret|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.secret]] 

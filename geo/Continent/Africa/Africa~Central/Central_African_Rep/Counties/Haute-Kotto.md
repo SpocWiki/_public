@@ -41,9 +41,9 @@ markerFolder: ./Haute-Kotto/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.md|Haute-Kotto]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.internal.md|Haute-Kotto.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.protect.md|Haute-Kotto.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.private.md|Haute-Kotto.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.personal.md|Haute-Kotto.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.secret.md|Haute-Kotto.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.internal|Haute-Kotto.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.protect|Haute-Kotto.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.private|Haute-Kotto.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.personal|Haute-Kotto.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.secret|Haute-Kotto.secret]] 
 

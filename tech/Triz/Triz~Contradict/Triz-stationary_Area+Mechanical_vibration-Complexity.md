@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Mechanical_vibration-Complexity]
 [SpocWebEntityId::23177]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.md|Triz-stationary_Area+Mechanical_vibration-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.internal.md|Triz-stationary_Area+Mechanical_vibration-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.protect.md|Triz-stationary_Area+Mechanical_vibration-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.private.md|Triz-stationary_Area+Mechanical_vibration-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.personal.md|Triz-stationary_Area+Mechanical_vibration-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.secret.md|Triz-stationary_Area+Mechanical_vibration-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.internal|Triz-stationary_Area+Mechanical_vibration-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.protect|Triz-stationary_Area+Mechanical_vibration-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.private|Triz-stationary_Area+Mechanical_vibration-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.personal|Triz-stationary_Area+Mechanical_vibration-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.secret|Triz-stationary_Area+Mechanical_vibration-Complexity.secret]] 

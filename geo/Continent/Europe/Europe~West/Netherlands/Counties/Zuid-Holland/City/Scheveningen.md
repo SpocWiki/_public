@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Scheveningen.md|Scheveningen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Scheveningen.internal.md|Scheveningen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Scheveningen.protect.md|Scheveningen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Scheveningen.private.md|Scheveningen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Scheveningen.personal.md|Scheveningen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Scheveningen.secret.md|Scheveningen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Scheveningen.internal|Scheveningen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Scheveningen.protect|Scheveningen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Scheveningen.private|Scheveningen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Scheveningen.personal|Scheveningen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Scheveningen.secret|Scheveningen.secret]] 

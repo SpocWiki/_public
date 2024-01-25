@@ -41,9 +41,9 @@ markerFolder: ./Tafea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Tafea.md|Tafea]] 
-- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Tafea.internal.md|Tafea.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Tafea.protect.md|Tafea.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Tafea.private.md|Tafea.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Tafea.personal.md|Tafea.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Tafea.secret.md|Tafea.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Tafea.internal|Tafea.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Tafea.protect|Tafea.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Tafea.private|Tafea.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Tafea.personal|Tafea.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Tafea.secret|Tafea.secret]] 
 

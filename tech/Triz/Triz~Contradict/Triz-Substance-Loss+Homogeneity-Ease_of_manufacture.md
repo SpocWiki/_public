@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Homogeneity-Ease_of_manufacture]
 [SpocWebEntityId::24903]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Homogeneity]]]
-- [con::[[Triz-Ease_of_manufacture]]]
+- [#has_/Cons :: [[Triz-Ease_of_manufacture]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.md|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.internal.md|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.protect.md|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.private.md|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.personal.md|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.secret.md|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.internal|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.protect|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.private|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.personal|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.secret|Triz-Substance-Loss+Homogeneity-Ease_of_manufacture.secret]] 

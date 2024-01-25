@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wilkomier.md|Wilkomier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wilkomier.internal.md|Wilkomier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wilkomier.protect.md|Wilkomier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wilkomier.private.md|Wilkomier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wilkomier.personal.md|Wilkomier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wilkomier.secret.md|Wilkomier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wilkomier.internal|Wilkomier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wilkomier.protect|Wilkomier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wilkomier.private|Wilkomier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wilkomier.personal|Wilkomier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wilkomier.secret|Wilkomier.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Puducherry/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.md|Puducherry]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.internal.md|Puducherry.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.protect.md|Puducherry.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.private.md|Puducherry.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.personal.md|Puducherry.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.secret.md|Puducherry.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.internal|Puducherry.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.protect|Puducherry.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.private|Puducherry.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.personal|Puducherry.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Puducherry.secret|Puducherry.secret]] 
 

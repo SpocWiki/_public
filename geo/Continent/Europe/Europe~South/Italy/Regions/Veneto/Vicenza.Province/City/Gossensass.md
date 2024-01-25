@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gossensass.md|Gossensass]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gossensass.internal.md|Gossensass.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gossensass.protect.md|Gossensass.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gossensass.private.md|Gossensass.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gossensass.personal.md|Gossensass.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gossensass.secret.md|Gossensass.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gossensass.internal|Gossensass.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gossensass.protect|Gossensass.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gossensass.private|Gossensass.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gossensass.personal|Gossensass.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gossensass.secret|Gossensass.secret]] 

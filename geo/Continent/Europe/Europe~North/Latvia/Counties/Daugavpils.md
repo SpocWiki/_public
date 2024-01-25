@@ -41,9 +41,9 @@ markerFolder: ./Daugavpils/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Daugavpils.md|Daugavpils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Daugavpils.internal.md|Daugavpils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Daugavpils.protect.md|Daugavpils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Daugavpils.private.md|Daugavpils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Daugavpils.personal.md|Daugavpils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Daugavpils.secret.md|Daugavpils.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Daugavpils.internal|Daugavpils.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Daugavpils.protect|Daugavpils.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Daugavpils.private|Daugavpils.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Daugavpils.personal|Daugavpils.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Daugavpils.secret|Daugavpils.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kranowitz.md|Kranowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kranowitz.internal.md|Kranowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kranowitz.protect.md|Kranowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kranowitz.private.md|Kranowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kranowitz.personal.md|Kranowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kranowitz.secret.md|Kranowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kranowitz.internal|Kranowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kranowitz.protect|Kranowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kranowitz.private|Kranowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kranowitz.personal|Kranowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kranowitz.secret|Kranowitz.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Gharb_-_Chrarda_-_Béni_Hssen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.md|Gharb_-_Chrarda_-_Béni_Hssen]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.internal.md|Gharb_-_Chrarda_-_Béni_Hssen.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.protect.md|Gharb_-_Chrarda_-_Béni_Hssen.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.private.md|Gharb_-_Chrarda_-_Béni_Hssen.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.personal.md|Gharb_-_Chrarda_-_Béni_Hssen.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.secret.md|Gharb_-_Chrarda_-_Béni_Hssen.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.internal|Gharb_-_Chrarda_-_Béni_Hssen.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.protect|Gharb_-_Chrarda_-_Béni_Hssen.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.private|Gharb_-_Chrarda_-_Béni_Hssen.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.personal|Gharb_-_Chrarda_-_Béni_Hssen.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Gharb_-_Chrarda_-_Béni_Hssen.secret|Gharb_-_Chrarda_-_Béni_Hssen.secret]] 
 

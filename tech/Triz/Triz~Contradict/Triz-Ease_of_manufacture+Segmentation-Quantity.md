@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Segmentation-Quantity]
 [SpocWebEntityId::25912]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.md|Triz-Ease_of_manufacture+Segmentation-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.internal.md|Triz-Ease_of_manufacture+Segmentation-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.protect.md|Triz-Ease_of_manufacture+Segmentation-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.private.md|Triz-Ease_of_manufacture+Segmentation-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.personal.md|Triz-Ease_of_manufacture+Segmentation-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.secret.md|Triz-Ease_of_manufacture+Segmentation-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.internal|Triz-Ease_of_manufacture+Segmentation-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.protect|Triz-Ease_of_manufacture+Segmentation-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.private|Triz-Ease_of_manufacture+Segmentation-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.personal|Triz-Ease_of_manufacture+Segmentation-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.secret|Triz-Ease_of_manufacture+Segmentation-Quantity.secret]] 

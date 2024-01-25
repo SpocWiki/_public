@@ -41,9 +41,9 @@ markerFolder: ./Tadzhikistan_Territories/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.md|Tadzhikistan_Territories]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.internal.md|Tadzhikistan_Territories.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.protect.md|Tadzhikistan_Territories.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.private.md|Tadzhikistan_Territories.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.personal.md|Tadzhikistan_Territories.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.secret.md|Tadzhikistan_Territories.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.internal|Tadzhikistan_Territories.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.protect|Tadzhikistan_Territories.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.private|Tadzhikistan_Territories.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.personal|Tadzhikistan_Territories.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.secret|Tadzhikistan_Territories.secret]] 
 

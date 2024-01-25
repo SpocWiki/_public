@@ -41,9 +41,9 @@ markerFolder: ./Adana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Adana.md|Adana]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Adana.internal.md|Adana.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Adana.protect.md|Adana.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Adana.private.md|Adana.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Adana.personal.md|Adana.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Adana.secret.md|Adana.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Adana.internal|Adana.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Adana.protect|Adana.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Adana.private|Adana.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Adana.personal|Adana.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Adana.secret|Adana.secret]] 
 

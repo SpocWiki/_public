@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Northampton.md|Northampton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Northampton.internal.md|Northampton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Northampton.protect.md|Northampton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Northampton.private.md|Northampton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Northampton.personal.md|Northampton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Northampton.secret.md|Northampton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Northampton.internal|Northampton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Northampton.protect|Northampton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Northampton.private|Northampton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Northampton.personal|Northampton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Northampton.secret|Northampton.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Tây_Ninh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.md|Tây_Ninh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.internal.md|Tây_Ninh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.protect.md|Tây_Ninh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.private.md|Tây_Ninh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.personal.md|Tây_Ninh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.secret.md|Tây_Ninh.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.internal|Tây_Ninh.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.protect|Tây_Ninh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.private|Tây_Ninh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.personal|Tây_Ninh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Tây_Ninh.secret|Tây_Ninh.secret]] 
 

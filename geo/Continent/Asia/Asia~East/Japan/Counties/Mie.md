@@ -41,9 +41,9 @@ markerFolder: ./Mie/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.md|Mie]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.internal.md|Mie.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.protect.md|Mie.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.private.md|Mie.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.personal.md|Mie.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.secret.md|Mie.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.internal|Mie.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.protect|Mie.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.private|Mie.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.personal|Mie.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.secret|Mie.secret]] 
 

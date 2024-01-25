@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Romorantin.md|Romorantin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Romorantin.internal.md|Romorantin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Romorantin.protect.md|Romorantin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Romorantin.private.md|Romorantin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Romorantin.personal.md|Romorantin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Romorantin.secret.md|Romorantin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Romorantin.internal|Romorantin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Romorantin.protect|Romorantin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Romorantin.private|Romorantin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Romorantin.personal|Romorantin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Romorantin.secret|Romorantin.secret]] 

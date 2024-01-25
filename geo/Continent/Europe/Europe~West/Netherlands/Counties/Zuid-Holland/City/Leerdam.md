@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Leerdam.md|Leerdam]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Leerdam.internal.md|Leerdam.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Leerdam.protect.md|Leerdam.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Leerdam.private.md|Leerdam.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Leerdam.personal.md|Leerdam.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Leerdam.secret.md|Leerdam.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Leerdam.internal|Leerdam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Leerdam.protect|Leerdam.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Leerdam.private|Leerdam.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Leerdam.personal|Leerdam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Leerdam.secret|Leerdam.secret]] 

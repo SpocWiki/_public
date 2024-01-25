@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Koberg.md|Koberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Koberg.internal.md|Koberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Koberg.protect.md|Koberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Koberg.private.md|Koberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Koberg.personal.md|Koberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Koberg.secret.md|Koberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Koberg.internal|Koberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Koberg.protect|Koberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Koberg.private|Koberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Koberg.personal|Koberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Koberg.secret|Koberg.secret]] 

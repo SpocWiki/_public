@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Clarahof.md|Clarahof]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Clarahof.internal.md|Clarahof.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Clarahof.protect.md|Clarahof.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Clarahof.private.md|Clarahof.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Clarahof.personal.md|Clarahof.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Clarahof.secret.md|Clarahof.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Clarahof.internal|Clarahof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Clarahof.protect|Clarahof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Clarahof.private|Clarahof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Clarahof.personal|Clarahof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Clarahof.secret|Clarahof.secret]] 

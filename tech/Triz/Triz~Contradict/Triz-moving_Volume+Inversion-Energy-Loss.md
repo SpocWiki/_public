@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Inversion-Energy-Loss]
 [SpocWebEntityId::23241]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.md|Triz-moving_Volume+Inversion-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.internal.md|Triz-moving_Volume+Inversion-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.protect.md|Triz-moving_Volume+Inversion-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.private.md|Triz-moving_Volume+Inversion-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.personal.md|Triz-moving_Volume+Inversion-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.secret.md|Triz-moving_Volume+Inversion-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.internal|Triz-moving_Volume+Inversion-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.protect|Triz-moving_Volume+Inversion-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.private|Triz-moving_Volume+Inversion-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.personal|Triz-moving_Volume+Inversion-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Energy-Loss.secret|Triz-moving_Volume+Inversion-Energy-Loss.secret]] 

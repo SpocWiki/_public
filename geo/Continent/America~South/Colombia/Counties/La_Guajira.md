@@ -41,9 +41,9 @@ markerFolder: ./La_Guajira/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/La_Guajira.md|La_Guajira]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/La_Guajira.internal.md|La_Guajira.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/La_Guajira.protect.md|La_Guajira.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/La_Guajira.private.md|La_Guajira.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/La_Guajira.personal.md|La_Guajira.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/La_Guajira.secret.md|La_Guajira.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/La_Guajira.internal|La_Guajira.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/La_Guajira.protect|La_Guajira.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/La_Guajira.private|La_Guajira.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/La_Guajira.personal|La_Guajira.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/La_Guajira.secret|La_Guajira.secret]] 
 

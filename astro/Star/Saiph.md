@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Saiph.md|Saiph]] 
-- [[../../../_internal/astro/Star/Saiph.internal.md|Saiph.internal]] 
-- [[../../../_protect/astro/Star/Saiph.protect.md|Saiph.protect]] 
-- [[../../../_private/astro/Star/Saiph.private.md|Saiph.private]] 
-- [[../../../_personal/astro/Star/Saiph.personal.md|Saiph.personal]] 
-- [[../../../_secret/astro/Star/Saiph.secret.md|Saiph.secret]] 
+- [[../../../_internal/astro/Star/Saiph.internal|Saiph.internal]] 
+- [[../../../_protect/astro/Star/Saiph.protect|Saiph.protect]] 
+- [[../../../_private/astro/Star/Saiph.private|Saiph.private]] 
+- [[../../../_personal/astro/Star/Saiph.personal|Saiph.personal]] 
+- [[../../../_secret/astro/Star/Saiph.secret|Saiph.secret]] 

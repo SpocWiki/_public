@@ -41,9 +41,9 @@ markerFolder: ./Conakry/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Conakry.md|Conakry]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Conakry.internal.md|Conakry.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Conakry.protect.md|Conakry.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Conakry.private.md|Conakry.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Conakry.personal.md|Conakry.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Conakry.secret.md|Conakry.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Conakry.internal|Conakry.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Conakry.protect|Conakry.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Conakry.private|Conakry.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Conakry.personal|Conakry.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Conakry.secret|Conakry.secret]] 
 

@@ -43,7 +43,7 @@ markerFolder: ./Congo~Kinshasa//
 ## Confidential Links & Embeds: 
 - [[Congo~Kinshasa|Congo~Kinshasa]] 
 - [[../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa.internal|Congo~Kinshasa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa.protect.md|Congo~Kinshasa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa.private.md|Congo~Kinshasa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa.personal.md|Congo~Kinshasa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa.secret.md|Congo~Kinshasa.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa.protect|Congo~Kinshasa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa.private|Congo~Kinshasa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa.personal|Congo~Kinshasa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa.secret|Congo~Kinshasa.secret]] 

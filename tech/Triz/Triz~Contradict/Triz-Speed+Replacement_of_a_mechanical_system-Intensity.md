@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Replacement_of_a_mechanical_system-Intensity]
 [SpocWebEntityId::23380]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.md|Triz-Speed+Replacement_of_a_mechanical_system-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.internal.md|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.protect.md|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.private.md|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.personal.md|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.secret.md|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.internal|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.protect|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.private|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.personal|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Intensity.secret|Triz-Speed+Replacement_of_a_mechanical_system-Intensity.secret]] 

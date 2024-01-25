@@ -41,9 +41,9 @@ markerFolder: ./Saint_Patrick/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.md|Saint_Patrick]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.internal.md|Saint_Patrick.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.protect.md|Saint_Patrick.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.private.md|Saint_Patrick.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.personal.md|Saint_Patrick.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.secret.md|Saint_Patrick.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.internal|Saint_Patrick.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.protect|Saint_Patrick.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.private|Saint_Patrick.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.personal|Saint_Patrick.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Patrick.secret|Saint_Patrick.secret]] 
 

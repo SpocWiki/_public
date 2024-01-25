@@ -41,9 +41,9 @@ markerFolder: ./Misiones/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Misiones.md|Misiones]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Misiones.internal.md|Misiones.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Misiones.protect.md|Misiones.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Misiones.private.md|Misiones.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Misiones.personal.md|Misiones.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Misiones.secret.md|Misiones.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Misiones.internal|Misiones.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Misiones.protect|Misiones.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Misiones.private|Misiones.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Misiones.personal|Misiones.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Misiones.secret|Misiones.secret]] 
 

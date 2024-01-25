@@ -41,9 +41,9 @@ markerFolder: ./Garkalnes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Garkalnes.md|Garkalnes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Garkalnes.internal.md|Garkalnes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Garkalnes.protect.md|Garkalnes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Garkalnes.private.md|Garkalnes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Garkalnes.personal.md|Garkalnes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Garkalnes.secret.md|Garkalnes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Garkalnes.internal|Garkalnes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Garkalnes.protect|Garkalnes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Garkalnes.private|Garkalnes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Garkalnes.personal|Garkalnes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Garkalnes.secret|Garkalnes.secret]] 
 

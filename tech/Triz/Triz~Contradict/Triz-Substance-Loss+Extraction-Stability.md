@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Extraction-Stability]
 [SpocWebEntityId::24834]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.md|Triz-Substance-Loss+Extraction-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.internal.md|Triz-Substance-Loss+Extraction-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.protect.md|Triz-Substance-Loss+Extraction-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.private.md|Triz-Substance-Loss+Extraction-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.personal.md|Triz-Substance-Loss+Extraction-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.secret.md|Triz-Substance-Loss+Extraction-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.internal|Triz-Substance-Loss+Extraction-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.protect|Triz-Substance-Loss+Extraction-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.private|Triz-Substance-Loss+Extraction-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.personal|Triz-Substance-Loss+Extraction-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Stability.secret|Triz-Substance-Loss+Extraction-Stability.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Cunene/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Cunene.md|Cunene]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Cunene.internal.md|Cunene.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Cunene.protect.md|Cunene.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Cunene.private.md|Cunene.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Cunene.personal.md|Cunene.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Cunene.secret.md|Cunene.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Cunene.internal|Cunene.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Cunene.protect|Cunene.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Cunene.private|Cunene.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Cunene.personal|Cunene.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Cunene.secret|Cunene.secret]] 
 

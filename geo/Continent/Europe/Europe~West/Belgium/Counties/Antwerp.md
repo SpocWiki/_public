@@ -41,11 +41,11 @@ markerFolder: ./Antwerp/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Antwerp.md|Antwerp]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Antwerp.internal.md|Antwerp.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Antwerp.protect.md|Antwerp.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Antwerp.private.md|Antwerp.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Antwerp.personal.md|Antwerp.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Antwerp.secret.md|Antwerp.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Antwerp.internal|Antwerp.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Antwerp.protect|Antwerp.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Antwerp.private|Antwerp.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Antwerp.personal|Antwerp.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Antwerp.secret|Antwerp.secret]] 
 
 
 ```leaflet

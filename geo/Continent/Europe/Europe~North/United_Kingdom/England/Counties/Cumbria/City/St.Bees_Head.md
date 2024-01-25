@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.md|St.Bees_Head]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.internal.md|St.Bees_Head.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.protect.md|St.Bees_Head.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.private.md|St.Bees_Head.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.personal.md|St.Bees_Head.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.secret.md|St.Bees_Head.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.internal|St.Bees_Head.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.protect|St.Bees_Head.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.private|St.Bees_Head.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.personal|St.Bees_Head.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.secret|St.Bees_Head.secret]] 

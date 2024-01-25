@@ -41,9 +41,9 @@ markerFolder: ./Apure/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Apure.md|Apure]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Apure.internal.md|Apure.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Apure.protect.md|Apure.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Apure.private.md|Apure.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Apure.personal.md|Apure.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Apure.secret.md|Apure.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Apure.internal|Apure.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Apure.protect|Apure.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Apure.private|Apure.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Apure.personal|Apure.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Apure.secret|Apure.secret]] 
 

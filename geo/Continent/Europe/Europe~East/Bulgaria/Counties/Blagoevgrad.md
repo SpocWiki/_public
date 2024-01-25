@@ -41,9 +41,9 @@ markerFolder: ./Blagoevgrad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.md|Blagoevgrad]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.internal.md|Blagoevgrad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.protect.md|Blagoevgrad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.private.md|Blagoevgrad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.personal.md|Blagoevgrad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.secret.md|Blagoevgrad.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.internal|Blagoevgrad.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.protect|Blagoevgrad.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.private|Blagoevgrad.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.personal|Blagoevgrad.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.secret|Blagoevgrad.secret]] 
 

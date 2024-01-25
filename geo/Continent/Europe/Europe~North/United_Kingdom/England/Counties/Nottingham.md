@@ -41,9 +41,9 @@ markerFolder: ./Nottingham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.md|Nottingham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.internal.md|Nottingham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.protect.md|Nottingham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.private.md|Nottingham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.personal.md|Nottingham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.secret.md|Nottingham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.internal|Nottingham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.protect|Nottingham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.private|Nottingham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.personal|Nottingham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Nottingham.secret|Nottingham.secret]] 
 

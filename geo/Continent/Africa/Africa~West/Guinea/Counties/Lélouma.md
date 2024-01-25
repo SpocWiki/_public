@@ -41,9 +41,9 @@ markerFolder: ./Lélouma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Lélouma.md|Lélouma]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Lélouma.internal.md|Lélouma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Lélouma.protect.md|Lélouma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Lélouma.private.md|Lélouma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Lélouma.personal.md|Lélouma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Lélouma.secret.md|Lélouma.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Lélouma.internal|Lélouma.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Lélouma.protect|Lélouma.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Lélouma.private|Lélouma.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Lélouma.personal|Lélouma.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Lélouma.secret|Lélouma.secret]] 
 

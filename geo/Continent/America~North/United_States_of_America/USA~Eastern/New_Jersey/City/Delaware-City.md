@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.md|Delaware-City]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.internal.md|Delaware-City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.protect.md|Delaware-City.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.private.md|Delaware-City.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.personal.md|Delaware-City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.secret.md|Delaware-City.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.internal|Delaware-City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.protect|Delaware-City.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.private|Delaware-City.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.personal|Delaware-City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.secret|Delaware-City.secret]] 

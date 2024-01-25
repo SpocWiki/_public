@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Prior_action-Energy-Loss]
 [SpocWebEntityId::24953]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.md|Triz-Information-Loss+Prior_action-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.internal.md|Triz-Information-Loss+Prior_action-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.protect.md|Triz-Information-Loss+Prior_action-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.private.md|Triz-Information-Loss+Prior_action-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.personal.md|Triz-Information-Loss+Prior_action-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.secret.md|Triz-Information-Loss+Prior_action-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.internal|Triz-Information-Loss+Prior_action-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.protect|Triz-Information-Loss+Prior_action-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.private|Triz-Information-Loss+Prior_action-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.personal|Triz-Information-Loss+Prior_action-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-Energy-Loss.secret|Triz-Information-Loss+Prior_action-Energy-Loss.secret]] 

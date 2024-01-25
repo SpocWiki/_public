@@ -41,9 +41,9 @@ markerFolder: ./Tongatapu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Tonga/Counties/Tongatapu.md|Tongatapu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Tonga/Counties/Tongatapu.internal.md|Tongatapu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Tonga/Counties/Tongatapu.protect.md|Tongatapu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Tonga/Counties/Tongatapu.private.md|Tongatapu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Tonga/Counties/Tongatapu.personal.md|Tongatapu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Tonga/Counties/Tongatapu.secret.md|Tongatapu.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Tonga/Counties/Tongatapu.internal|Tongatapu.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Tonga/Counties/Tongatapu.protect|Tongatapu.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Tonga/Counties/Tongatapu.private|Tongatapu.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Tonga/Counties/Tongatapu.personal|Tongatapu.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Tonga/Counties/Tongatapu.secret|Tongatapu.secret]] 
 

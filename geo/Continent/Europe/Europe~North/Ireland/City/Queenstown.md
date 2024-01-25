@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Queenstown.md|Queenstown]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Queenstown.internal.md|Queenstown.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Queenstown.protect.md|Queenstown.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Queenstown.private.md|Queenstown.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Queenstown.personal.md|Queenstown.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Queenstown.secret.md|Queenstown.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Queenstown.internal|Queenstown.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Queenstown.protect|Queenstown.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Queenstown.private|Queenstown.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Queenstown.personal|Queenstown.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Queenstown.secret|Queenstown.secret]] 

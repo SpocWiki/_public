@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Rovereto.md|Rovereto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovereto.internal.md|Rovereto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovereto.protect.md|Rovereto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rovereto.private.md|Rovereto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovereto.personal.md|Rovereto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovereto.secret.md|Rovereto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovereto.internal|Rovereto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovereto.protect|Rovereto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rovereto.private|Rovereto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovereto.personal|Rovereto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovereto.secret|Rovereto.secret]] 

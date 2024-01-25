@@ -41,9 +41,9 @@ markerFolder: ./Nuvara_Ĕliya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.md|Nuvara_Ĕliya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.internal.md|Nuvara_Ĕliya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.protect.md|Nuvara_Ĕliya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.private.md|Nuvara_Ĕliya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.personal.md|Nuvara_Ĕliya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.secret.md|Nuvara_Ĕliya.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.internal|Nuvara_Ĕliya.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.protect|Nuvara_Ĕliya.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.private|Nuvara_Ĕliya.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.personal|Nuvara_Ĕliya.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Nuvara_Ĕliya.secret|Nuvara_Ĕliya.secret]] 
 

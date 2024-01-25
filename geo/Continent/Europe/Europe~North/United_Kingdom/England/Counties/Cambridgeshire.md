@@ -41,9 +41,9 @@ markerFolder: ./Cambridgeshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.md|Cambridgeshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.internal.md|Cambridgeshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.protect.md|Cambridgeshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.private.md|Cambridgeshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.personal.md|Cambridgeshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.secret.md|Cambridgeshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.internal|Cambridgeshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.protect|Cambridgeshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.private|Cambridgeshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.personal|Cambridgeshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.secret|Cambridgeshire.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Guarda.md|Guarda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Guarda.internal.md|Guarda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Guarda.protect.md|Guarda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Guarda.private.md|Guarda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Guarda.personal.md|Guarda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Guarda.secret.md|Guarda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Guarda.internal|Guarda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Guarda.protect|Guarda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Guarda.private|Guarda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Guarda.personal|Guarda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Guarda.secret|Guarda.secret]] 

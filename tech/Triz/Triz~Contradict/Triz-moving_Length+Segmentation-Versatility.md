@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Segmentation-Versatility]
 [SpocWebEntityId::22899]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.md|Triz-moving_Length+Segmentation-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.internal.md|Triz-moving_Length+Segmentation-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.protect.md|Triz-moving_Length+Segmentation-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.private.md|Triz-moving_Length+Segmentation-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.personal.md|Triz-moving_Length+Segmentation-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.secret.md|Triz-moving_Length+Segmentation-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.internal|Triz-moving_Length+Segmentation-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.protect|Triz-moving_Length+Segmentation-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.private|Triz-moving_Length+Segmentation-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.personal|Triz-moving_Length+Segmentation-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Versatility.secret|Triz-moving_Length+Segmentation-Versatility.secret]] 

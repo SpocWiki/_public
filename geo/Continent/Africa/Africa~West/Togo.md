@@ -140,7 +140,7 @@ markerFolder: ./Togo//
 ## Confidential Links & Embeds: 
 - [[Togo|Togo]] 
 - [[../../../../../_internal/geo/Continent/Africa/Togo.internal|Togo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Togo.protect.md|Togo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Togo.private.md|Togo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Togo.personal.md|Togo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Togo.secret.md|Togo.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Togo.protect|Togo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Togo.private|Togo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Togo.personal|Togo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Togo.secret|Togo.secret]] 

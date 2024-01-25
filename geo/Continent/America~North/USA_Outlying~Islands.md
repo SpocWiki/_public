@@ -125,8 +125,8 @@ markerFolder: ./USA_Outlying~Islands/
 
 ## Confidential Links & Embeds: 
 -[[USA_Outlying~Islands|USA_Outlying~Islands]]] 
-- [[../../../../_internal/geo/Continent/North-America/USA_Outlying~Islands.internal.md|USA_Outlying~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/North-America/USA_Outlying~Islands.protect.md|USA_Outlying~Islands.protect]] 
-- [[../../../../_private/geo/Continent/North-America/USA_Outlying~Islands.private.md|USA_Outlying~Islands.private]] 
-- [[../../../../_personal/geo/Continent/North-America/USA_Outlying~Islands.personal.md|USA_Outlying~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/North-America/USA_Outlying~Islands.secret.md|USA_Outlying~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/North-America/USA_Outlying~Islands.internal|USA_Outlying~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/USA_Outlying~Islands.protect|USA_Outlying~Islands.protect]] 
+- [[../../../../_private/geo/Continent/North-America/USA_Outlying~Islands.private|USA_Outlying~Islands.private]] 
+- [[../../../../_personal/geo/Continent/North-America/USA_Outlying~Islands.personal|USA_Outlying~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/USA_Outlying~Islands.secret|USA_Outlying~Islands.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Al_Hudaydah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.md|Al_Hudaydah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.internal.md|Al_Hudaydah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.protect.md|Al_Hudaydah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.private.md|Al_Hudaydah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.personal.md|Al_Hudaydah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.secret.md|Al_Hudaydah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.internal|Al_Hudaydah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.protect|Al_Hudaydah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.private|Al_Hudaydah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.personal|Al_Hudaydah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.secret|Al_Hudaydah.secret]] 
 

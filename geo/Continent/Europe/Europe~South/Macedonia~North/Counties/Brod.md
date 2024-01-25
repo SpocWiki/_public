@@ -41,9 +41,9 @@ markerFolder: ./Brod/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Brod.md|Brod]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Brod.internal.md|Brod.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Brod.protect.md|Brod.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Brod.private.md|Brod.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Brod.personal.md|Brod.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Brod.secret.md|Brod.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Brod.internal|Brod.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Brod.protect|Brod.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Brod.private|Brod.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Brod.personal|Brod.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Brod.secret|Brod.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Dundalk.md|Dundalk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Dundalk.internal.md|Dundalk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Dundalk.protect.md|Dundalk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Dundalk.private.md|Dundalk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Dundalk.personal.md|Dundalk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Dundalk.secret.md|Dundalk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Dundalk.internal|Dundalk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Dundalk.protect|Dundalk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Dundalk.private|Dundalk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Dundalk.personal|Dundalk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Dundalk.secret|Dundalk.secret]] 

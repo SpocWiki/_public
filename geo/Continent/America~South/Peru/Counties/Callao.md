@@ -41,9 +41,9 @@ markerFolder: ./Callao/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Callao.md|Callao]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Callao.internal.md|Callao.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Callao.protect.md|Callao.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Callao.private.md|Callao.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Callao.personal.md|Callao.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Callao.secret.md|Callao.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Callao.internal|Callao.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Callao.protect|Callao.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Callao.private|Callao.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Callao.personal|Callao.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Callao.secret|Callao.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Racha-Lechkhumi-Kvemo_Svaneti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.md|Racha-Lechkhumi-Kvemo_Svaneti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.internal.md|Racha-Lechkhumi-Kvemo_Svaneti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.protect.md|Racha-Lechkhumi-Kvemo_Svaneti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.private.md|Racha-Lechkhumi-Kvemo_Svaneti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.personal.md|Racha-Lechkhumi-Kvemo_Svaneti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.secret.md|Racha-Lechkhumi-Kvemo_Svaneti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.internal|Racha-Lechkhumi-Kvemo_Svaneti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.protect|Racha-Lechkhumi-Kvemo_Svaneti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.private|Racha-Lechkhumi-Kvemo_Svaneti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.personal|Racha-Lechkhumi-Kvemo_Svaneti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Racha-Lechkhumi-Kvemo_Svaneti.secret|Racha-Lechkhumi-Kvemo_Svaneti.secret]] 
 

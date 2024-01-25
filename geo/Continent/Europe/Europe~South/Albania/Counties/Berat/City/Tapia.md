@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Tapia.md|Tapia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Tapia.internal.md|Tapia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Tapia.protect.md|Tapia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Tapia.private.md|Tapia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Tapia.personal.md|Tapia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Tapia.secret.md|Tapia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Tapia.internal|Tapia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Tapia.protect|Tapia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Tapia.private|Tapia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Tapia.personal|Tapia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Tapia.secret|Tapia.secret]] 

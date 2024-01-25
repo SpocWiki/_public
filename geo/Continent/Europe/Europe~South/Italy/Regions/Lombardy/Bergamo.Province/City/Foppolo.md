@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Foppolo.md|Foppolo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Foppolo.internal.md|Foppolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Foppolo.protect.md|Foppolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Foppolo.private.md|Foppolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Foppolo.personal.md|Foppolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Foppolo.secret.md|Foppolo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Foppolo.internal|Foppolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Foppolo.protect|Foppolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Foppolo.private|Foppolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Foppolo.personal|Foppolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Foppolo.secret|Foppolo.secret]] 

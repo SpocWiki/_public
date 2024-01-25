@@ -41,9 +41,9 @@ markerFolder: ./Santa_Bárbara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.md|Santa_Bárbara]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.internal.md|Santa_Bárbara.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.protect.md|Santa_Bárbara.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.private.md|Santa_Bárbara.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.personal.md|Santa_Bárbara.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.secret.md|Santa_Bárbara.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.internal|Santa_Bárbara.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.protect|Santa_Bárbara.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.private|Santa_Bárbara.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.personal|Santa_Bárbara.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Santa_Bárbara.secret|Santa_Bárbara.secret]] 
 

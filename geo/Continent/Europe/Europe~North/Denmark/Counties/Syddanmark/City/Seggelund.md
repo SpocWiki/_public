@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Seggelund.md|Seggelund]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Seggelund.internal.md|Seggelund.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Seggelund.protect.md|Seggelund.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Seggelund.private.md|Seggelund.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Seggelund.personal.md|Seggelund.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Seggelund.secret.md|Seggelund.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Seggelund.internal|Seggelund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Seggelund.protect|Seggelund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Seggelund.private|Seggelund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Seggelund.personal|Seggelund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Seggelund.secret|Seggelund.secret]] 

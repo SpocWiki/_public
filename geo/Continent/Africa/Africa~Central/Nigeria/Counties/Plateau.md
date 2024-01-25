@@ -41,9 +41,9 @@ markerFolder: ./Plateau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Plateau.md|Plateau]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Plateau.internal.md|Plateau.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Plateau.protect.md|Plateau.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Plateau.private.md|Plateau.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Plateau.personal.md|Plateau.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Plateau.secret.md|Plateau.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Plateau.internal|Plateau.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Plateau.protect|Plateau.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Plateau.private|Plateau.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Plateau.personal|Plateau.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Plateau.secret|Plateau.secret]] 
 

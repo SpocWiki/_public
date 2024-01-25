@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Hannoversch_Muenden|Hannoversch_Muenden]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.internal.md|Hannoversch_Muenden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.protect.md|Hannoversch_Muenden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.private.md|Hannoversch_Muenden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.personal.md|Hannoversch_Muenden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.secret.md|Hannoversch_Muenden.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.internal|Hannoversch_Muenden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.protect|Hannoversch_Muenden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.private|Hannoversch_Muenden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.personal|Hannoversch_Muenden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.secret|Hannoversch_Muenden.secret]] 

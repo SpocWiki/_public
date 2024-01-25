@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Dynamicity-Shape]
 [SpocWebEntityId::23638]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.md|Triz-Stress+Dynamicity-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.internal.md|Triz-Stress+Dynamicity-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.protect.md|Triz-Stress+Dynamicity-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.private.md|Triz-Stress+Dynamicity-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.personal.md|Triz-Stress+Dynamicity-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.secret.md|Triz-Stress+Dynamicity-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.internal|Triz-Stress+Dynamicity-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.protect|Triz-Stress+Dynamicity-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.private|Triz-Stress+Dynamicity-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.personal|Triz-Stress+Dynamicity-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Dynamicity-Shape.secret|Triz-Stress+Dynamicity-Shape.secret]] 

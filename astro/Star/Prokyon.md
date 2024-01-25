@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Prokyon.md|Prokyon]] 
-- [[../../../_internal/astro/Star/Prokyon.internal.md|Prokyon.internal]] 
-- [[../../../_protect/astro/Star/Prokyon.protect.md|Prokyon.protect]] 
-- [[../../../_private/astro/Star/Prokyon.private.md|Prokyon.private]] 
-- [[../../../_personal/astro/Star/Prokyon.personal.md|Prokyon.personal]] 
-- [[../../../_secret/astro/Star/Prokyon.secret.md|Prokyon.secret]] 
+- [[../../../_internal/astro/Star/Prokyon.internal|Prokyon.internal]] 
+- [[../../../_protect/astro/Star/Prokyon.protect|Prokyon.protect]] 
+- [[../../../_private/astro/Star/Prokyon.private|Prokyon.private]] 
+- [[../../../_personal/astro/Star/Prokyon.personal|Prokyon.personal]] 
+- [[../../../_secret/astro/Star/Prokyon.secret|Prokyon.secret]] 

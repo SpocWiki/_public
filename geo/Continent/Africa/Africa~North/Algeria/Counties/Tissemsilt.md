@@ -41,9 +41,9 @@ markerFolder: ./Tissemsilt/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tissemsilt.md|Tissemsilt]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tissemsilt.internal.md|Tissemsilt.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tissemsilt.protect.md|Tissemsilt.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tissemsilt.private.md|Tissemsilt.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tissemsilt.personal.md|Tissemsilt.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tissemsilt.secret.md|Tissemsilt.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tissemsilt.internal|Tissemsilt.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tissemsilt.protect|Tissemsilt.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tissemsilt.private|Tissemsilt.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tissemsilt.personal|Tissemsilt.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tissemsilt.secret|Tissemsilt.secret]] 
 

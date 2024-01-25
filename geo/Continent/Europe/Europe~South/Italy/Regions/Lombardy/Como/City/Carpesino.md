@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Carpesino.md|Carpesino]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Carpesino.internal.md|Carpesino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Carpesino.protect.md|Carpesino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Carpesino.private.md|Carpesino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Carpesino.personal.md|Carpesino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Carpesino.secret.md|Carpesino.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Carpesino.internal|Carpesino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Carpesino.protect|Carpesino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Carpesino.private|Carpesino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Carpesino.personal|Carpesino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Carpesino.secret|Carpesino.secret]] 

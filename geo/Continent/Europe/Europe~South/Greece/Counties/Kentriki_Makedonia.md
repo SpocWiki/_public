@@ -41,9 +41,9 @@ markerFolder: ./Kentriki_Makedonia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.md|Kentriki_Makedonia]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.internal.md|Kentriki_Makedonia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.protect.md|Kentriki_Makedonia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.private.md|Kentriki_Makedonia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.personal.md|Kentriki_Makedonia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.secret.md|Kentriki_Makedonia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.internal|Kentriki_Makedonia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.protect|Kentriki_Makedonia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.private|Kentriki_Makedonia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.personal|Kentriki_Makedonia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Kentriki_Makedonia.secret|Kentriki_Makedonia.secret]] 
 

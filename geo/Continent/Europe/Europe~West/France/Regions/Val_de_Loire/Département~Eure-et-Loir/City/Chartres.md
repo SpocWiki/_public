@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chartres.md|Chartres]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chartres.internal.md|Chartres.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chartres.protect.md|Chartres.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chartres.private.md|Chartres.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chartres.personal.md|Chartres.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chartres.secret.md|Chartres.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chartres.internal|Chartres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chartres.protect|Chartres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chartres.private|Chartres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chartres.personal|Chartres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chartres.secret|Chartres.secret]] 

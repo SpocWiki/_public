@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Troitzk.md|Troitzk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troitzk.internal.md|Troitzk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troitzk.protect.md|Troitzk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troitzk.private.md|Troitzk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troitzk.personal.md|Troitzk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troitzk.secret.md|Troitzk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troitzk.internal|Troitzk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troitzk.protect|Troitzk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troitzk.private|Troitzk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troitzk.personal|Troitzk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troitzk.secret|Troitzk.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Inversion-Strength]
 [SpocWebEntityId::26331]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.md|Triz-Complexity+Inversion-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.internal.md|Triz-Complexity+Inversion-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.protect.md|Triz-Complexity+Inversion-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.private.md|Triz-Complexity+Inversion-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.personal.md|Triz-Complexity+Inversion-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.secret.md|Triz-Complexity+Inversion-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.internal|Triz-Complexity+Inversion-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.protect|Triz-Complexity+Inversion-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.private|Triz-Complexity+Inversion-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.personal|Triz-Complexity+Inversion-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.secret|Triz-Complexity+Inversion-Strength.secret]] 

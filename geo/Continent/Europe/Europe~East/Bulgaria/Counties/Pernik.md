@@ -41,9 +41,9 @@ markerFolder: ./Pernik/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Pernik.md|Pernik]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Pernik.internal.md|Pernik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Pernik.protect.md|Pernik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Pernik.private.md|Pernik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Pernik.personal.md|Pernik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Pernik.secret.md|Pernik.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Pernik.internal|Pernik.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Pernik.protect|Pernik.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Pernik.private|Pernik.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Pernik.personal|Pernik.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Pernik.secret|Pernik.secret]] 
 

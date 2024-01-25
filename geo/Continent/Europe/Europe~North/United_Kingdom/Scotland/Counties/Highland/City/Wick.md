@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wick.md|Wick]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wick.internal.md|Wick.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wick.protect.md|Wick.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wick.private.md|Wick.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wick.personal.md|Wick.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wick.secret.md|Wick.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wick.internal|Wick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wick.protect|Wick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wick.private|Wick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wick.personal|Wick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wick.secret|Wick.secret]] 

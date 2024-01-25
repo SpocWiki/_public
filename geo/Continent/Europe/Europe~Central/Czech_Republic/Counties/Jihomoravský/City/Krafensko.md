@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krafensko.md|Krafensko]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krafensko.internal.md|Krafensko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krafensko.protect.md|Krafensko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krafensko.private.md|Krafensko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krafensko.personal.md|Krafensko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krafensko.secret.md|Krafensko.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krafensko.internal|Krafensko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krafensko.protect|Krafensko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krafensko.private|Krafensko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krafensko.personal|Krafensko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krafensko.secret|Krafensko.secret]] 

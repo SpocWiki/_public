@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Magnitogorsk.md|Magnitogorsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Magnitogorsk.internal.md|Magnitogorsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Magnitogorsk.protect.md|Magnitogorsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Magnitogorsk.private.md|Magnitogorsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Magnitogorsk.personal.md|Magnitogorsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Magnitogorsk.secret.md|Magnitogorsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Magnitogorsk.internal|Magnitogorsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Magnitogorsk.protect|Magnitogorsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Magnitogorsk.private|Magnitogorsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Magnitogorsk.personal|Magnitogorsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Magnitogorsk.secret|Magnitogorsk.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Gannert.md|Gannert]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gannert.internal.md|Gannert.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gannert.protect.md|Gannert.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Gannert.private.md|Gannert.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gannert.personal.md|Gannert.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gannert.secret.md|Gannert.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gannert.internal|Gannert.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gannert.protect|Gannert.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Gannert.private|Gannert.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gannert.personal|Gannert.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gannert.secret|Gannert.secret]] 

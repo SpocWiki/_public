@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Spheroidality-moving_Length]
 [SpocWebEntityId::23371]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Spheroidality]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.md|Triz-Speed+Spheroidality-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.internal.md|Triz-Speed+Spheroidality-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.protect.md|Triz-Speed+Spheroidality-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.private.md|Triz-Speed+Spheroidality-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.personal.md|Triz-Speed+Spheroidality-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.secret.md|Triz-Speed+Spheroidality-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.internal|Triz-Speed+Spheroidality-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.protect|Triz-Speed+Spheroidality-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.private|Triz-Speed+Spheroidality-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.personal|Triz-Speed+Spheroidality-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Spheroidality-moving_Length.secret|Triz-Speed+Spheroidality-moving_Length.secret]] 

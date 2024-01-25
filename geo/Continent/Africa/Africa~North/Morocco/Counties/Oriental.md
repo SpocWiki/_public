@@ -41,9 +41,9 @@ markerFolder: ./Oriental/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Oriental.md|Oriental]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Oriental.internal.md|Oriental.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Oriental.protect.md|Oriental.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Oriental.private.md|Oriental.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Oriental.personal.md|Oriental.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Oriental.secret.md|Oriental.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Oriental.internal|Oriental.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Oriental.protect|Oriental.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Oriental.private|Oriental.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Oriental.personal|Oriental.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Oriental.secret|Oriental.secret]] 
 

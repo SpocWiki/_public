@@ -41,9 +41,9 @@ markerFolder: ./Neno/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Neno.md|Neno]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Neno.internal.md|Neno.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Neno.protect.md|Neno.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Neno.private.md|Neno.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Neno.personal.md|Neno.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Neno.secret.md|Neno.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Neno.internal|Neno.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Neno.protect|Neno.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Neno.private|Neno.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Neno.personal|Neno.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Neno.secret|Neno.secret]] 
 

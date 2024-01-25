@@ -133,8 +133,8 @@ markerFolder: ./Anguilla/
 
 ## Confidential Links & Embeds: 
 - [[Anguilla|Anguilla]] 
-- [[../../../../_internal/geo/Continent/South-America/Anguilla.internal.md|Anguilla.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Anguilla.protect.md|Anguilla.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Anguilla.private.md|Anguilla.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Anguilla.personal.md|Anguilla.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Anguilla.secret.md|Anguilla.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Anguilla.internal|Anguilla.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Anguilla.protect|Anguilla.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Anguilla.private|Anguilla.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Anguilla.personal|Anguilla.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Anguilla.secret|Anguilla.secret]] 

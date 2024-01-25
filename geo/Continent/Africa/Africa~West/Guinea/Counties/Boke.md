@@ -41,9 +41,9 @@ markerFolder: ./Boke/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Boke.md|Boke]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Boke.internal.md|Boke.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Boke.protect.md|Boke.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Boke.private.md|Boke.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Boke.personal.md|Boke.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Boke.secret.md|Boke.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Boke.internal|Boke.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Boke.protect|Boke.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Boke.private|Boke.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Boke.personal|Boke.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Boke.secret|Boke.secret]] 
 

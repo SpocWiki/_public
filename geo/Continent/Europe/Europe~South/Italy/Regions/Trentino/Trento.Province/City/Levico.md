@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Levico.md|Levico]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Levico.internal.md|Levico.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Levico.protect.md|Levico.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Levico.private.md|Levico.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Levico.personal.md|Levico.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Levico.secret.md|Levico.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Levico.internal|Levico.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Levico.protect|Levico.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Levico.private|Levico.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Levico.personal|Levico.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Levico.secret|Levico.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaesteras.md|Vaesteras]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaesteras.internal.md|Vaesteras.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaesteras.protect.md|Vaesteras.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaesteras.private.md|Vaesteras.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaesteras.personal.md|Vaesteras.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaesteras.secret.md|Vaesteras.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaesteras.internal|Vaesteras.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaesteras.protect|Vaesteras.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaesteras.private|Vaesteras.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaesteras.personal|Vaesteras.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaesteras.secret|Vaesteras.secret]] 

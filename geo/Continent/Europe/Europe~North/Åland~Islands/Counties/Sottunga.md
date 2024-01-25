@@ -41,9 +41,9 @@ markerFolder: ./Sottunga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.md|Sottunga]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.internal.md|Sottunga.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.protect.md|Sottunga.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.private.md|Sottunga.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.personal.md|Sottunga.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.secret.md|Sottunga.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.internal|Sottunga.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.protect|Sottunga.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.private|Sottunga.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.personal|Sottunga.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Sottunga.secret|Sottunga.secret]] 
 

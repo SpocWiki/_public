@@ -41,9 +41,9 @@ markerFolder: ./Szabolcs-Szatmár-Bereg/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.md|Szabolcs-Szatmár-Bereg]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.internal.md|Szabolcs-Szatmár-Bereg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.protect.md|Szabolcs-Szatmár-Bereg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.private.md|Szabolcs-Szatmár-Bereg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.personal.md|Szabolcs-Szatmár-Bereg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.secret.md|Szabolcs-Szatmár-Bereg.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.internal|Szabolcs-Szatmár-Bereg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.protect|Szabolcs-Szatmár-Bereg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.private|Szabolcs-Szatmár-Bereg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.personal|Szabolcs-Szatmár-Bereg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szabolcs-Szatmár-Bereg.secret|Szabolcs-Szatmár-Bereg.secret]] 
 

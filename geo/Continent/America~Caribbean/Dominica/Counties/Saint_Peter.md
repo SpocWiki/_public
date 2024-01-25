@@ -41,9 +41,9 @@ markerFolder: ./Saint_Peter/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.md|Saint_Peter]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.internal.md|Saint_Peter.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.protect.md|Saint_Peter.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.private.md|Saint_Peter.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.personal.md|Saint_Peter.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.secret.md|Saint_Peter.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.internal|Saint_Peter.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.protect|Saint_Peter.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.private|Saint_Peter.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.personal|Saint_Peter.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Peter.secret|Saint_Peter.secret]] 
 

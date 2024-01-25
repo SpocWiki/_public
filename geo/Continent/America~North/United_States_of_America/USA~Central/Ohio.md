@@ -36,8 +36,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Ohio.md|Ohio]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio.internal.md|Ohio.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio.protect.md|Ohio.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio.private.md|Ohio.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio.personal.md|Ohio.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio.secret.md|Ohio.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio.internal|Ohio.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio.protect|Ohio.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio.private|Ohio.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio.personal|Ohio.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio.secret|Ohio.secret]] 

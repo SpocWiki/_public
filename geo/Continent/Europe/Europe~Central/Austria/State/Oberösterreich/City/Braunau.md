@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Braunau.md|Braunau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Braunau.internal.md|Braunau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Braunau.protect.md|Braunau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Braunau.private.md|Braunau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Braunau.personal.md|Braunau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Braunau.secret.md|Braunau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Braunau.internal|Braunau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Braunau.protect|Braunau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Braunau.private|Braunau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Braunau.personal|Braunau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Braunau.secret|Braunau.secret]] 

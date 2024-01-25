@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Bolvi.md|Bolvi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bolvi.internal.md|Bolvi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bolvi.protect.md|Bolvi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bolvi.private.md|Bolvi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bolvi.personal.md|Bolvi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bolvi.secret.md|Bolvi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bolvi.internal|Bolvi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bolvi.protect|Bolvi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bolvi.private|Bolvi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bolvi.personal|Bolvi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bolvi.secret|Bolvi.secret]] 

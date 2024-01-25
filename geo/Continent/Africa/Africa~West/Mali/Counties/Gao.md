@@ -41,9 +41,9 @@ markerFolder: ./Gao/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mali/Counties/Gao.md|Gao]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Gao.internal.md|Gao.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Gao.protect.md|Gao.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Gao.private.md|Gao.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Gao.personal.md|Gao.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Gao.secret.md|Gao.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Gao.internal|Gao.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Gao.protect|Gao.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Gao.private|Gao.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Gao.personal|Gao.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Gao.secret|Gao.secret]] 
 

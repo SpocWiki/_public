@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Convert_harm_into_benefit-affected_harm]
 [SpocWebEntityId::24668]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.md|Triz-Power+Convert_harm_into_benefit-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.internal.md|Triz-Power+Convert_harm_into_benefit-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.protect.md|Triz-Power+Convert_harm_into_benefit-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.private.md|Triz-Power+Convert_harm_into_benefit-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.personal.md|Triz-Power+Convert_harm_into_benefit-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.secret.md|Triz-Power+Convert_harm_into_benefit-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.internal|Triz-Power+Convert_harm_into_benefit-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.protect|Triz-Power+Convert_harm_into_benefit-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.private|Triz-Power+Convert_harm_into_benefit-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.personal|Triz-Power+Convert_harm_into_benefit-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-affected_harm.secret|Triz-Power+Convert_harm_into_benefit-affected_harm.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Butel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Butel.md|Butel]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Butel.internal.md|Butel.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Butel.protect.md|Butel.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Butel.private.md|Butel.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Butel.personal.md|Butel.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Butel.secret.md|Butel.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Butel.internal|Butel.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Butel.protect|Butel.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Butel.private|Butel.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Butel.personal|Butel.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Butel.secret|Butel.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Teramo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.md|Teramo]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.internal.md|Teramo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.protect.md|Teramo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.private.md|Teramo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.personal.md|Teramo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.secret.md|Teramo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.internal|Teramo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.protect|Teramo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.private|Teramo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.personal|Teramo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Abruzzo/Teramo.secret|Teramo.secret]] 
 

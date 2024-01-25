@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Heiden.md|Heiden]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Heiden.internal.md|Heiden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Heiden.protect.md|Heiden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Heiden.private.md|Heiden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Heiden.personal.md|Heiden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Heiden.secret.md|Heiden.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Heiden.internal|Heiden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Heiden.protect|Heiden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Heiden.private|Heiden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Heiden.personal|Heiden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Heiden.secret|Heiden.secret]] 

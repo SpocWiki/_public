@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Roscoff.md|Roscoff]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Roscoff.internal.md|Roscoff.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Roscoff.protect.md|Roscoff.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Roscoff.private.md|Roscoff.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Roscoff.personal.md|Roscoff.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Roscoff.secret.md|Roscoff.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Roscoff.internal|Roscoff.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Roscoff.protect|Roscoff.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Roscoff.private|Roscoff.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Roscoff.personal|Roscoff.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Roscoff.secret|Roscoff.secret]] 

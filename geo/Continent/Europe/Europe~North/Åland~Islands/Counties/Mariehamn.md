@@ -41,9 +41,9 @@ markerFolder: ./Mariehamn/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.md|Mariehamn]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.internal.md|Mariehamn.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.protect.md|Mariehamn.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.private.md|Mariehamn.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.personal.md|Mariehamn.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.secret.md|Mariehamn.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.internal|Mariehamn.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.protect|Mariehamn.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.private|Mariehamn.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.personal|Mariehamn.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Mariehamn.secret|Mariehamn.secret]] 
 

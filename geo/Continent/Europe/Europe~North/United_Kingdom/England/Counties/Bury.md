@@ -41,9 +41,9 @@ markerFolder: ./Bury/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.md|Bury]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.internal.md|Bury.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.protect.md|Bury.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.private.md|Bury.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.personal.md|Bury.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.secret.md|Bury.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.internal|Bury.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.protect|Bury.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.private|Bury.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.personal|Bury.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Bury.secret|Bury.secret]] 
 

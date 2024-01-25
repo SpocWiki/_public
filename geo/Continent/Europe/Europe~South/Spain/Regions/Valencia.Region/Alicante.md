@@ -41,9 +41,9 @@ markerFolder: ./Alicante/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.md|Alicante]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.internal.md|Alicante.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.protect.md|Alicante.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.private.md|Alicante.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.personal.md|Alicante.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.secret.md|Alicante.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.internal|Alicante.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.protect|Alicante.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.private|Alicante.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.personal|Alicante.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Valencia/Alicante.secret|Alicante.secret]] 
 

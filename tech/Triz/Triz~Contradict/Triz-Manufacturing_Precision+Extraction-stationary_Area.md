@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Extraction-stationary_Area]
 [SpocWebEntityId::25498]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.md|Triz-Manufacturing_Precision+Extraction-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.internal.md|Triz-Manufacturing_Precision+Extraction-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.protect.md|Triz-Manufacturing_Precision+Extraction-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.private.md|Triz-Manufacturing_Precision+Extraction-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.personal.md|Triz-Manufacturing_Precision+Extraction-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.secret.md|Triz-Manufacturing_Precision+Extraction-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.internal|Triz-Manufacturing_Precision+Extraction-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.protect|Triz-Manufacturing_Precision+Extraction-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.private|Triz-Manufacturing_Precision+Extraction-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.personal|Triz-Manufacturing_Precision+Extraction-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-stationary_Area.secret|Triz-Manufacturing_Precision+Extraction-stationary_Area.secret]] 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Pictoris-1.md|Pictoris-1]] 
-- [[../../../_internal/astro/Star/Pictoris-1.internal.md|Pictoris-1.internal]] 
-- [[../../../_protect/astro/Star/Pictoris-1.protect.md|Pictoris-1.protect]] 
-- [[../../../_private/astro/Star/Pictoris-1.private.md|Pictoris-1.private]] 
-- [[../../../_personal/astro/Star/Pictoris-1.personal.md|Pictoris-1.personal]] 
-- [[../../../_secret/astro/Star/Pictoris-1.secret.md|Pictoris-1.secret]] 
+- [[../../../_internal/astro/Star/Pictoris-1.internal|Pictoris-1.internal]] 
+- [[../../../_protect/astro/Star/Pictoris-1.protect|Pictoris-1.protect]] 
+- [[../../../_private/astro/Star/Pictoris-1.private|Pictoris-1.private]] 
+- [[../../../_personal/astro/Star/Pictoris-1.personal|Pictoris-1.personal]] 
+- [[../../../_secret/astro/Star/Pictoris-1.secret|Pictoris-1.secret]] 

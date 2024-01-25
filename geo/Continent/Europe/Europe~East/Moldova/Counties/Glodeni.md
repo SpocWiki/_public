@@ -41,9 +41,9 @@ markerFolder: ./Glodeni/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Glodeni.md|Glodeni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Glodeni.internal.md|Glodeni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Glodeni.protect.md|Glodeni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Glodeni.private.md|Glodeni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Glodeni.personal.md|Glodeni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Glodeni.secret.md|Glodeni.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Glodeni.internal|Glodeni.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Glodeni.protect|Glodeni.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Glodeni.private|Glodeni.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Glodeni.personal|Glodeni.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Glodeni.secret|Glodeni.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Tylicz.md|Tylicz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tylicz.internal.md|Tylicz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tylicz.protect.md|Tylicz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tylicz.private.md|Tylicz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tylicz.personal.md|Tylicz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tylicz.secret.md|Tylicz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tylicz.internal|Tylicz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tylicz.protect|Tylicz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tylicz.private|Tylicz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tylicz.personal|Tylicz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tylicz.secret|Tylicz.secret]] 

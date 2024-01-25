@@ -41,9 +41,9 @@ markerFolder: ./Tunapuna_Piarco/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.md|Tunapuna_Piarco]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.internal.md|Tunapuna_Piarco.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.protect.md|Tunapuna_Piarco.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.private.md|Tunapuna_Piarco.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.personal.md|Tunapuna_Piarco.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.secret.md|Tunapuna_Piarco.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.internal|Tunapuna_Piarco.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.protect|Tunapuna_Piarco.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.private|Tunapuna_Piarco.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.personal|Tunapuna_Piarco.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.secret|Tunapuna_Piarco.secret]] 
 

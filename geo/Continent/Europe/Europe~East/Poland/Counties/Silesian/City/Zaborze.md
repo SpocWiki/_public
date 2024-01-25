@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zaborze.md|Zaborze]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zaborze.internal.md|Zaborze.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zaborze.protect.md|Zaborze.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zaborze.private.md|Zaborze.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zaborze.personal.md|Zaborze.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zaborze.secret.md|Zaborze.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zaborze.internal|Zaborze.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zaborze.protect|Zaborze.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zaborze.private|Zaborze.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zaborze.personal|Zaborze.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zaborze.secret|Zaborze.secret]] 

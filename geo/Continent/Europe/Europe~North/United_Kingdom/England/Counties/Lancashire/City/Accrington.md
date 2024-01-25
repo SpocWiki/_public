@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Accrington.md|Accrington]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Accrington.internal.md|Accrington.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Accrington.protect.md|Accrington.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Accrington.private.md|Accrington.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Accrington.personal.md|Accrington.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Accrington.secret.md|Accrington.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Accrington.internal|Accrington.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Accrington.protect|Accrington.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Accrington.private|Accrington.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Accrington.personal|Accrington.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Accrington.secret|Accrington.secret]] 

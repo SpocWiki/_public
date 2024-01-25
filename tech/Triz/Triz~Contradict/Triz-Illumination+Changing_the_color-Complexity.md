@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Changing_the_color-Complexity]
 [SpocWebEntityId::24430]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.md|Triz-Illumination+Changing_the_color-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.internal.md|Triz-Illumination+Changing_the_color-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.protect.md|Triz-Illumination+Changing_the_color-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.private.md|Triz-Illumination+Changing_the_color-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.personal.md|Triz-Illumination+Changing_the_color-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.secret.md|Triz-Illumination+Changing_the_color-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.internal|Triz-Illumination+Changing_the_color-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.protect|Triz-Illumination+Changing_the_color-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.private|Triz-Illumination+Changing_the_color-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.personal|Triz-Illumination+Changing_the_color-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.secret|Triz-Illumination+Changing_the_color-Complexity.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Leeds.md|Leeds]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leeds.internal.md|Leeds.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leeds.protect.md|Leeds.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leeds.private.md|Leeds.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leeds.personal.md|Leeds.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leeds.secret.md|Leeds.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leeds.internal|Leeds.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leeds.protect|Leeds.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leeds.private|Leeds.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leeds.personal|Leeds.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leeds.secret|Leeds.secret]] 

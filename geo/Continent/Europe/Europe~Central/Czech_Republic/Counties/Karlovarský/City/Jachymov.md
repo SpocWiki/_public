@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jachymov.md|Jachymov]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jachymov.internal.md|Jachymov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jachymov.protect.md|Jachymov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jachymov.private.md|Jachymov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jachymov.personal.md|Jachymov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jachymov.secret.md|Jachymov.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jachymov.internal|Jachymov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jachymov.protect|Jachymov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jachymov.private|Jachymov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jachymov.personal|Jachymov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jachymov.secret|Jachymov.secret]] 

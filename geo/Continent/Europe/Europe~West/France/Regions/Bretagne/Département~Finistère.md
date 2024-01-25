@@ -41,9 +41,9 @@ markerFolder: ./Département~Finistère/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.md|Département~Finistère]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.internal.md|Département~Finistère.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.protect.md|Département~Finistère.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.private.md|Département~Finistère.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.personal.md|Département~Finistère.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.secret.md|Département~Finistère.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.internal|Département~Finistère.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.protect|Département~Finistère.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.private|Département~Finistère.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.personal|Département~Finistère.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bretagne/Département~Finistère.secret|Département~Finistère.secret]] 
 

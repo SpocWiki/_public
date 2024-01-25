@@ -41,9 +41,9 @@ markerFolder: ./Solomon~Islands~Central/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.md|Solomon~Islands~Central]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.internal.md|Solomon~Islands~Central.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.protect.md|Solomon~Islands~Central.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.private.md|Solomon~Islands~Central.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.personal.md|Solomon~Islands~Central.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.secret.md|Solomon~Islands~Central.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.internal|Solomon~Islands~Central.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.protect|Solomon~Islands~Central.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.private|Solomon~Islands~Central.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.personal|Solomon~Islands~Central.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.secret|Solomon~Islands~Central.secret]] 
 

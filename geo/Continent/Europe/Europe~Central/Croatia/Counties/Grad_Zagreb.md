@@ -41,9 +41,9 @@ markerFolder: ./Grad_Zagreb/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.md|Grad_Zagreb]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.internal.md|Grad_Zagreb.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.protect.md|Grad_Zagreb.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.private.md|Grad_Zagreb.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.personal.md|Grad_Zagreb.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.secret.md|Grad_Zagreb.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.internal|Grad_Zagreb.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.protect|Grad_Zagreb.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.private|Grad_Zagreb.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.personal|Grad_Zagreb.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Grad_Zagreb.secret|Grad_Zagreb.secret]] 
 

@@ -25,8 +25,8 @@ Instead of using rectilinear parts, surfaces, or forms, use curvilinear ones; mo
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-curved-shape.md|Triz-curved-shape]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-curved-shape.internal.md|Triz-curved-shape.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-curved-shape.protect.md|Triz-curved-shape.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-curved-shape.private.md|Triz-curved-shape.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-curved-shape.personal.md|Triz-curved-shape.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-curved-shape.secret.md|Triz-curved-shape.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-curved-shape.internal|Triz-curved-shape.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-curved-shape.protect|Triz-curved-shape.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-curved-shape.private|Triz-curved-shape.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-curved-shape.personal|Triz-curved-shape.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-curved-shape.secret|Triz-curved-shape.secret]] 

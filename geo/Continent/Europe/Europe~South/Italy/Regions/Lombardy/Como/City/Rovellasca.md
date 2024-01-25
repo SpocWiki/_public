@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Rovellasca.md|Rovellasca]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovellasca.internal.md|Rovellasca.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovellasca.protect.md|Rovellasca.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rovellasca.private.md|Rovellasca.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovellasca.personal.md|Rovellasca.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovellasca.secret.md|Rovellasca.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovellasca.internal|Rovellasca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovellasca.protect|Rovellasca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rovellasca.private|Rovellasca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovellasca.personal|Rovellasca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovellasca.secret|Rovellasca.secret]] 

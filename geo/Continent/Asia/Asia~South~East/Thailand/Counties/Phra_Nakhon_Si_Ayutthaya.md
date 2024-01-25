@@ -41,9 +41,9 @@ markerFolder: ./Phra_Nakhon_Si_Ayutthaya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.md|Phra_Nakhon_Si_Ayutthaya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.internal.md|Phra_Nakhon_Si_Ayutthaya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.protect.md|Phra_Nakhon_Si_Ayutthaya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.private.md|Phra_Nakhon_Si_Ayutthaya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.personal.md|Phra_Nakhon_Si_Ayutthaya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.secret.md|Phra_Nakhon_Si_Ayutthaya.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.internal|Phra_Nakhon_Si_Ayutthaya.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.protect|Phra_Nakhon_Si_Ayutthaya.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.private|Phra_Nakhon_Si_Ayutthaya.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.personal|Phra_Nakhon_Si_Ayutthaya.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.secret|Phra_Nakhon_Si_Ayutthaya.secret]] 
 

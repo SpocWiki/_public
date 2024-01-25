@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Junglinster.md|Junglinster]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Junglinster.internal.md|Junglinster.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Junglinster.protect.md|Junglinster.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Junglinster.private.md|Junglinster.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Junglinster.personal.md|Junglinster.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Junglinster.secret.md|Junglinster.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Junglinster.internal|Junglinster.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Junglinster.protect|Junglinster.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Junglinster.private|Junglinster.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Junglinster.personal|Junglinster.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Junglinster.secret|Junglinster.secret]] 

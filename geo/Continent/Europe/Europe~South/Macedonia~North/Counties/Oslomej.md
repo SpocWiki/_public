@@ -41,9 +41,9 @@ markerFolder: ./Oslomej/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.md|Oslomej]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.internal.md|Oslomej.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.protect.md|Oslomej.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.private.md|Oslomej.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.personal.md|Oslomej.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.secret.md|Oslomej.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.internal|Oslomej.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.protect|Oslomej.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.private|Oslomej.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.personal|Oslomej.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.secret|Oslomej.secret]] 
 

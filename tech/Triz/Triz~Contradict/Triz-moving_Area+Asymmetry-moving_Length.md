@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Asymmetry-moving_Length]
 [SpocWebEntityId::23000]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.md|Triz-moving_Area+Asymmetry-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.internal.md|Triz-moving_Area+Asymmetry-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.protect.md|Triz-moving_Area+Asymmetry-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.private.md|Triz-moving_Area+Asymmetry-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.personal.md|Triz-moving_Area+Asymmetry-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.secret.md|Triz-moving_Area+Asymmetry-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.internal|Triz-moving_Area+Asymmetry-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.protect|Triz-moving_Area+Asymmetry-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.private|Triz-moving_Area+Asymmetry-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.personal|Triz-moving_Area+Asymmetry-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-moving_Length.secret|Triz-moving_Area+Asymmetry-moving_Length.secret]] 

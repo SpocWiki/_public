@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Thiers.md|Thiers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Thiers.internal.md|Thiers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Thiers.protect.md|Thiers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Thiers.private.md|Thiers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Thiers.personal.md|Thiers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Thiers.secret.md|Thiers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Thiers.internal|Thiers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Thiers.protect|Thiers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Thiers.private|Thiers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Thiers.personal|Thiers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Thiers.secret|Thiers.secret]] 

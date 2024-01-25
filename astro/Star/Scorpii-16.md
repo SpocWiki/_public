@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Scorpii-16.md|Scorpii-16]] 
-- [[../../../_internal/astro/Star/Scorpii-16.internal.md|Scorpii-16.internal]] 
-- [[../../../_protect/astro/Star/Scorpii-16.protect.md|Scorpii-16.protect]] 
-- [[../../../_private/astro/Star/Scorpii-16.private.md|Scorpii-16.private]] 
-- [[../../../_personal/astro/Star/Scorpii-16.personal.md|Scorpii-16.personal]] 
-- [[../../../_secret/astro/Star/Scorpii-16.secret.md|Scorpii-16.secret]] 
+- [[../../../_internal/astro/Star/Scorpii-16.internal|Scorpii-16.internal]] 
+- [[../../../_protect/astro/Star/Scorpii-16.protect|Scorpii-16.protect]] 
+- [[../../../_private/astro/Star/Scorpii-16.private|Scorpii-16.private]] 
+- [[../../../_personal/astro/Star/Scorpii-16.personal|Scorpii-16.personal]] 
+- [[../../../_secret/astro/Star/Scorpii-16.secret|Scorpii-16.secret]] 

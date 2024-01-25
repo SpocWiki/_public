@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bedretto.md|Bedretto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bedretto.internal.md|Bedretto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bedretto.protect.md|Bedretto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bedretto.private.md|Bedretto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bedretto.personal.md|Bedretto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bedretto.secret.md|Bedretto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bedretto.internal|Bedretto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bedretto.protect|Bedretto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bedretto.private|Bedretto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bedretto.personal|Bedretto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bedretto.secret|Bedretto.secret]] 

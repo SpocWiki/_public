@@ -137,7 +137,7 @@ markerFolder: ./Cameroon//
 ## Confidential Links & Embeds: 
 - [[Cameroon|Cameroon]] 
 - [[../../../../../_internal/geo/Continent/Africa/Cameroon.internal|Cameroon.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon.protect.md|Cameroon.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon.private.md|Cameroon.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon.personal.md|Cameroon.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon.secret.md|Cameroon.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Cameroon.protect|Cameroon.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cameroon.private|Cameroon.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cameroon.personal|Cameroon.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cameroon.secret|Cameroon.secret]] 

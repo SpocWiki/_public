@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sysmae.md|Sysmae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sysmae.internal.md|Sysmae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sysmae.protect.md|Sysmae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sysmae.private.md|Sysmae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sysmae.personal.md|Sysmae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sysmae.secret.md|Sysmae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sysmae.internal|Sysmae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sysmae.protect|Sysmae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sysmae.private|Sysmae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sysmae.personal|Sysmae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sysmae.secret|Sysmae.secret]] 

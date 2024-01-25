@@ -26,8 +26,8 @@ Use rollers, balls, spirals, domes.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-use-balls.md|Triz-use-balls]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-use-balls.internal.md|Triz-use-balls.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-use-balls.protect.md|Triz-use-balls.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-use-balls.private.md|Triz-use-balls.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-use-balls.personal.md|Triz-use-balls.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-use-balls.secret.md|Triz-use-balls.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-use-balls.internal|Triz-use-balls.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-use-balls.protect|Triz-use-balls.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-use-balls.private|Triz-use-balls.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-use-balls.personal|Triz-use-balls.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-use-balls.secret|Triz-use-balls.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gross-Stanglau.md|Gross-Stanglau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gross-Stanglau.internal.md|Gross-Stanglau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gross-Stanglau.protect.md|Gross-Stanglau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gross-Stanglau.private.md|Gross-Stanglau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gross-Stanglau.personal.md|Gross-Stanglau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gross-Stanglau.secret.md|Gross-Stanglau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gross-Stanglau.internal|Gross-Stanglau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gross-Stanglau.protect|Gross-Stanglau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gross-Stanglau.private|Gross-Stanglau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gross-Stanglau.personal|Gross-Stanglau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gross-Stanglau.secret|Gross-Stanglau.secret]] 

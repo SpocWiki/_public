@@ -41,9 +41,9 @@ markerFolder: ./Hartlepool/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.md|Hartlepool]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.internal.md|Hartlepool.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.protect.md|Hartlepool.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.private.md|Hartlepool.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.personal.md|Hartlepool.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.secret.md|Hartlepool.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.internal|Hartlepool.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.protect|Hartlepool.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.private|Hartlepool.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.personal|Hartlepool.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Hartlepool.secret|Hartlepool.secret]] 
 

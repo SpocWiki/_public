@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.md|Jessnitz~Lausitz]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.internal.md|Jessnitz~Lausitz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.protect.md|Jessnitz~Lausitz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.private.md|Jessnitz~Lausitz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.personal.md|Jessnitz~Lausitz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.secret.md|Jessnitz~Lausitz.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.internal|Jessnitz~Lausitz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.protect|Jessnitz~Lausitz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.private|Jessnitz~Lausitz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.personal|Jessnitz~Lausitz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.secret|Jessnitz~Lausitz.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Šentjur_pri_Celju/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.md|Šentjur_pri_Celju]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.internal.md|Šentjur_pri_Celju.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.protect.md|Šentjur_pri_Celju.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.private.md|Šentjur_pri_Celju.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.personal.md|Šentjur_pri_Celju.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.secret.md|Šentjur_pri_Celju.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.internal|Šentjur_pri_Celju.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.protect|Šentjur_pri_Celju.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.private|Šentjur_pri_Celju.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.personal|Šentjur_pri_Celju.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Šentjur_pri_Celju.secret|Šentjur_pri_Celju.secret]] 
 

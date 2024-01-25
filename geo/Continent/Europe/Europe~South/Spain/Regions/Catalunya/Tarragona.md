@@ -41,9 +41,9 @@ markerFolder: ./Tarragona/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.md|Tarragona]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.internal.md|Tarragona.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.protect.md|Tarragona.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.private.md|Tarragona.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.personal.md|Tarragona.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.secret.md|Tarragona.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.internal|Tarragona.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.protect|Tarragona.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.private|Tarragona.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.personal|Tarragona.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Catalunya/Tarragona.secret|Tarragona.secret]] 
 

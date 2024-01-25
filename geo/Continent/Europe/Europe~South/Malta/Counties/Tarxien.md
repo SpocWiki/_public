@@ -41,9 +41,9 @@ markerFolder: ./Tarxien/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Tarxien.md|Tarxien]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Tarxien.internal.md|Tarxien.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Tarxien.protect.md|Tarxien.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Tarxien.private.md|Tarxien.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Tarxien.personal.md|Tarxien.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Tarxien.secret.md|Tarxien.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Tarxien.internal|Tarxien.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Tarxien.protect|Tarxien.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Tarxien.private|Tarxien.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Tarxien.personal|Tarxien.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Tarxien.secret|Tarxien.secret]] 
 

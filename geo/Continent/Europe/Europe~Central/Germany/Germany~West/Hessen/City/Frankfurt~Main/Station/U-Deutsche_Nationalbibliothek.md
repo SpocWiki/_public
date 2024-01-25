@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[U-Deutsche_Nationalbibliothek|U-Deutsche_Nationalbibliothek]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.internal.md|U-Deutsche_Nationalbibliothek.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.protect.md|U-Deutsche_Nationalbibliothek.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.private.md|U-Deutsche_Nationalbibliothek.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.personal.md|U-Deutsche_Nationalbibliothek.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.secret.md|U-Deutsche_Nationalbibliothek.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.internal|U-Deutsche_Nationalbibliothek.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.protect|U-Deutsche_Nationalbibliothek.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.private|U-Deutsche_Nationalbibliothek.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.personal|U-Deutsche_Nationalbibliothek.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.secret|U-Deutsche_Nationalbibliothek.secret]] 

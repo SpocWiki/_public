@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Prior_counteracion-stationary_Length]
 [SpocWebEntityId::24236]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Prior_counteracion]]]
-- [con::[[Triz-stationary_Length]]]
+- [#has_/Cons :: [[Triz-stationary_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.md|Triz-Temperature+Prior_counteracion-stationary_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.internal.md|Triz-Temperature+Prior_counteracion-stationary_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.protect.md|Triz-Temperature+Prior_counteracion-stationary_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.private.md|Triz-Temperature+Prior_counteracion-stationary_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.personal.md|Triz-Temperature+Prior_counteracion-stationary_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.secret.md|Triz-Temperature+Prior_counteracion-stationary_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.internal|Triz-Temperature+Prior_counteracion-stationary_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.protect|Triz-Temperature+Prior_counteracion-stationary_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.private|Triz-Temperature+Prior_counteracion-stationary_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.personal|Triz-Temperature+Prior_counteracion-stationary_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-stationary_Length.secret|Triz-Temperature+Prior_counteracion-stationary_Length.secret]] 

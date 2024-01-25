@@ -36,8 +36,8 @@ markerFolder: ./ANTARCTIC_FISHERIES/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.md|ANTARCTIC_FISHERIES]] 
-- [[../../../../_internal/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.internal.md|ANTARCTIC_FISHERIES.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.protect.md|ANTARCTIC_FISHERIES.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.private.md|ANTARCTIC_FISHERIES.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.personal.md|ANTARCTIC_FISHERIES.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.secret.md|ANTARCTIC_FISHERIES.secret]] 
+- [[../../../../_internal/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.internal|ANTARCTIC_FISHERIES.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.protect|ANTARCTIC_FISHERIES.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.private|ANTARCTIC_FISHERIES.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.personal|ANTARCTIC_FISHERIES.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.secret|ANTARCTIC_FISHERIES.secret]] 

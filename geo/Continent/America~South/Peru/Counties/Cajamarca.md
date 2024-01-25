@@ -41,9 +41,9 @@ markerFolder: ./Cajamarca/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Cajamarca.md|Cajamarca]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Cajamarca.internal.md|Cajamarca.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Cajamarca.protect.md|Cajamarca.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Cajamarca.private.md|Cajamarca.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Cajamarca.personal.md|Cajamarca.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Cajamarca.secret.md|Cajamarca.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Cajamarca.internal|Cajamarca.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Cajamarca.protect|Cajamarca.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Cajamarca.private|Cajamarca.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Cajamarca.personal|Cajamarca.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Cajamarca.secret|Cajamarca.secret]] 
 

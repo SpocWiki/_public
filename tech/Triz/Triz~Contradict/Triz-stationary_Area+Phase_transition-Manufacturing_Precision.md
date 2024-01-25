@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Phase_transition-Manufacturing_Precision]
 [SpocWebEntityId::23161]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.md|Triz-stationary_Area+Phase_transition-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.internal.md|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.protect.md|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.private.md|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.personal.md|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.secret.md|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.internal|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.protect|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.private|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.personal|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Manufacturing_Precision.secret|Triz-stationary_Area+Phase_transition-Manufacturing_Precision.secret]] 

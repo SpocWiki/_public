@@ -41,9 +41,9 @@ markerFolder: ./Limón/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Costa_Rica/Counties/Limón.md|Limón]] 
-- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Limón.internal.md|Limón.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Limón.protect.md|Limón.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Limón.private.md|Limón.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Limón.personal.md|Limón.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Limón.secret.md|Limón.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Limón.internal|Limón.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Limón.protect|Limón.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Limón.private|Limón.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Limón.personal|Limón.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Limón.secret|Limón.secret]] 
 

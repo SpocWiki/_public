@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Partial,_overdone,_or_excessive_action-Versatility]
 [SpocWebEntityId::23175]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.md|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.internal.md|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.protect.md|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.private.md|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.personal.md|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.secret.md|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.internal|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.protect|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.private|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.personal|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.secret|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.secret]] 

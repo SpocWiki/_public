@@ -41,9 +41,9 @@ markerFolder: ./Damascus/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.md|Damascus]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.internal.md|Damascus.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.protect.md|Damascus.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.private.md|Damascus.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.personal.md|Damascus.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.secret.md|Damascus.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.internal|Damascus.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.protect|Damascus.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.private|Damascus.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.personal|Damascus.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.secret|Damascus.secret]] 
 

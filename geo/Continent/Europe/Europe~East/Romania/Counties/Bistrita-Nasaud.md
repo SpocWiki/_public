@@ -41,9 +41,9 @@ markerFolder: ./Bistrita-Nasaud/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.md|Bistrita-Nasaud]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.internal.md|Bistrita-Nasaud.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.protect.md|Bistrita-Nasaud.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.private.md|Bistrita-Nasaud.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.personal.md|Bistrita-Nasaud.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.secret.md|Bistrita-Nasaud.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.internal|Bistrita-Nasaud.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.protect|Bistrita-Nasaud.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.private|Bistrita-Nasaud.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.personal|Bistrita-Nasaud.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.secret|Bistrita-Nasaud.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.md|West_Hartlepool]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.internal.md|West_Hartlepool.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.protect.md|West_Hartlepool.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.private.md|West_Hartlepool.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.personal.md|West_Hartlepool.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.secret.md|West_Hartlepool.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.internal|West_Hartlepool.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.protect|West_Hartlepool.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.private|West_Hartlepool.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.personal|West_Hartlepool.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.secret|West_Hartlepool.secret]] 

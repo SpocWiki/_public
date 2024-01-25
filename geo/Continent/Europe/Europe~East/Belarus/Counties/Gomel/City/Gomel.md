@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gomel.md|Gomel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gomel.internal.md|Gomel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gomel.protect.md|Gomel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gomel.private.md|Gomel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gomel.personal.md|Gomel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gomel.secret.md|Gomel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gomel.internal|Gomel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gomel.protect|Gomel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gomel.private|Gomel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gomel.personal|Gomel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gomel.secret|Gomel.secret]] 

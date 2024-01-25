@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy]
 [SpocWebEntityId::23436]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.md|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal.md|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect.md|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.private.md|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal.md|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret.md|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.private|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret|Triz-Speed+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret]] 

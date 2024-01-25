@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Inert_environment-moving_Length]
 [SpocWebEntityId::24798]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.md|Triz-Substance-Loss+Inert_environment-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.internal.md|Triz-Substance-Loss+Inert_environment-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.protect.md|Triz-Substance-Loss+Inert_environment-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.private.md|Triz-Substance-Loss+Inert_environment-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.personal.md|Triz-Substance-Loss+Inert_environment-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.secret.md|Triz-Substance-Loss+Inert_environment-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.internal|Triz-Substance-Loss+Inert_environment-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.protect|Triz-Substance-Loss+Inert_environment-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.private|Triz-Substance-Loss+Inert_environment-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.personal|Triz-Substance-Loss+Inert_environment-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-moving_Length.secret|Triz-Substance-Loss+Inert_environment-moving_Length.secret]] 

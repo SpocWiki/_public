@@ -41,9 +41,9 @@ markerFolder: ./Irian_Jaya_Barat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.md|Irian_Jaya_Barat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.internal.md|Irian_Jaya_Barat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.protect.md|Irian_Jaya_Barat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.private.md|Irian_Jaya_Barat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.personal.md|Irian_Jaya_Barat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.secret.md|Irian_Jaya_Barat.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.internal|Irian_Jaya_Barat.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.protect|Irian_Jaya_Barat.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.private|Irian_Jaya_Barat.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.personal|Irian_Jaya_Barat.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Irian_Jaya_Barat.secret|Irian_Jaya_Barat.secret]] 
 

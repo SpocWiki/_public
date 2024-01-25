@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Grus.md|Zodiac~Grus]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Grus.internal.md|Zodiac~Grus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Grus.protect.md|Zodiac~Grus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Grus.private.md|Zodiac~Grus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Grus.personal.md|Zodiac~Grus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Grus.secret.md|Zodiac~Grus.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Grus.internal|Zodiac~Grus.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Grus.protect|Zodiac~Grus.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Grus.private|Zodiac~Grus.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Grus.personal|Zodiac~Grus.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Grus.secret|Zodiac~Grus.secret]] 

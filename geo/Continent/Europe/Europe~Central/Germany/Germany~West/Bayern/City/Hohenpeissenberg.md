@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Hohenpeissenberg|Hohenpeissenberg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.internal.md|Hohenpeissenberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.protect.md|Hohenpeissenberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.private.md|Hohenpeissenberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.personal.md|Hohenpeissenberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.secret.md|Hohenpeissenberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.internal|Hohenpeissenberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.protect|Hohenpeissenberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.private|Hohenpeissenberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.personal|Hohenpeissenberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.secret|Hohenpeissenberg.secret]] 

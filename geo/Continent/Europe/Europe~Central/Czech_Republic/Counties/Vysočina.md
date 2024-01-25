@@ -41,9 +41,9 @@ markerFolder: ./Vysočina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.md|Vysočina]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.internal.md|Vysočina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.protect.md|Vysočina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.private.md|Vysočina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.personal.md|Vysočina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.secret.md|Vysočina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.internal|Vysočina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.protect|Vysočina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.private|Vysočina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.personal|Vysočina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Vysočina.secret|Vysočina.secret]] 
 

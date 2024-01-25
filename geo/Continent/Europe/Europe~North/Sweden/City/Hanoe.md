@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hanoe.md|Hanoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hanoe.internal.md|Hanoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hanoe.protect.md|Hanoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hanoe.private.md|Hanoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hanoe.personal.md|Hanoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hanoe.secret.md|Hanoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hanoe.internal|Hanoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hanoe.protect|Hanoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hanoe.private|Hanoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hanoe.personal|Hanoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hanoe.secret|Hanoe.secret]] 

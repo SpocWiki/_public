@@ -41,9 +41,9 @@ markerFolder: ./Mayaguana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.md|Mayaguana]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.internal.md|Mayaguana.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.protect.md|Mayaguana.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.private.md|Mayaguana.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.personal.md|Mayaguana.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.secret.md|Mayaguana.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.internal|Mayaguana.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.protect|Mayaguana.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.private|Mayaguana.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.personal|Mayaguana.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Mayaguana.secret|Mayaguana.secret]] 
 

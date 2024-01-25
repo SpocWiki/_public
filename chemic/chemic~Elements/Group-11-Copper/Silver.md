@@ -37,8 +37,8 @@ SpocWebEntityId: 17799
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-11-Copper/Silver.md|Silver]] 
-- [[../../../../_internal/chemic/Elements/Group-11-Copper/Silver.internal.md|Silver.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-11-Copper/Silver.protect.md|Silver.protect]] 
-- [[../../../../_private/chemic/Elements/Group-11-Copper/Silver.private.md|Silver.private]] 
-- [[../../../../_personal/chemic/Elements/Group-11-Copper/Silver.personal.md|Silver.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-11-Copper/Silver.secret.md|Silver.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-11-Copper/Silver.internal|Silver.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-11-Copper/Silver.protect|Silver.protect]] 
+- [[../../../../_private/chemic/Elements/Group-11-Copper/Silver.private|Silver.private]] 
+- [[../../../../_personal/chemic/Elements/Group-11-Copper/Silver.personal|Silver.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-11-Copper/Silver.secret|Silver.secret]] 

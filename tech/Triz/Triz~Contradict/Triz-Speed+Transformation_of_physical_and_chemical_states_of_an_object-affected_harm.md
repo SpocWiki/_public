@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm]
 [SpocWebEntityId::23446]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.md|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.internal.md|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.protect.md|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.private.md|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.personal.md|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.secret.md|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.internal|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.protect|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.private|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.personal|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.secret|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.secret]] 

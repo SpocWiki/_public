@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rosenfelde.md|Rosenfelde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rosenfelde.internal.md|Rosenfelde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rosenfelde.protect.md|Rosenfelde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rosenfelde.private.md|Rosenfelde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rosenfelde.personal.md|Rosenfelde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rosenfelde.secret.md|Rosenfelde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rosenfelde.internal|Rosenfelde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rosenfelde.protect|Rosenfelde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rosenfelde.private|Rosenfelde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rosenfelde.personal|Rosenfelde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rosenfelde.secret|Rosenfelde.secret]] 

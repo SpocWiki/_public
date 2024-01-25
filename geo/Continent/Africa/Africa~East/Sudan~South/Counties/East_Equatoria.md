@@ -41,9 +41,9 @@ markerFolder: ./East_Equatoria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.md|East_Equatoria]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.internal.md|East_Equatoria.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.protect.md|East_Equatoria.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.private.md|East_Equatoria.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.personal.md|East_Equatoria.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.secret.md|East_Equatoria.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.internal|East_Equatoria.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.protect|East_Equatoria.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.private|East_Equatoria.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.personal|East_Equatoria.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/East_Equatoria.secret|East_Equatoria.secret]] 
 

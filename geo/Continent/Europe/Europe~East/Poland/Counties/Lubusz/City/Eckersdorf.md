@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Eckersdorf.md|Eckersdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Eckersdorf.internal.md|Eckersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Eckersdorf.protect.md|Eckersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Eckersdorf.private.md|Eckersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Eckersdorf.personal.md|Eckersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Eckersdorf.secret.md|Eckersdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Eckersdorf.internal|Eckersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Eckersdorf.protect|Eckersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Eckersdorf.private|Eckersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Eckersdorf.personal|Eckersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Eckersdorf.secret|Eckersdorf.secret]] 

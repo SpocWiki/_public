@@ -41,9 +41,9 @@ markerFolder: ./Cañar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Cañar.md|Cañar]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Cañar.internal.md|Cañar.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Cañar.protect.md|Cañar.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Cañar.private.md|Cañar.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Cañar.personal.md|Cañar.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Cañar.secret.md|Cañar.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Cañar.internal|Cañar.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Cañar.protect|Cañar.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Cañar.private|Cañar.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Cañar.personal|Cañar.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Cañar.secret|Cañar.secret]] 
 

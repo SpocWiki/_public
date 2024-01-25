@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Tongres.md|Tongres]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Tongres.internal.md|Tongres.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Tongres.protect.md|Tongres.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Tongres.private.md|Tongres.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Tongres.personal.md|Tongres.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Tongres.secret.md|Tongres.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Tongres.internal|Tongres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Tongres.protect|Tongres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Tongres.private|Tongres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Tongres.personal|Tongres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Tongres.secret|Tongres.secret]] 

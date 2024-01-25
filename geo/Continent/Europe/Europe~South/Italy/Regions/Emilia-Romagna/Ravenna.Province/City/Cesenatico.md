@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cesenatico.md|Cesenatico]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cesenatico.internal.md|Cesenatico.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cesenatico.protect.md|Cesenatico.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cesenatico.private.md|Cesenatico.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cesenatico.personal.md|Cesenatico.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cesenatico.secret.md|Cesenatico.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cesenatico.internal|Cesenatico.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cesenatico.protect|Cesenatico.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cesenatico.private|Cesenatico.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cesenatico.personal|Cesenatico.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cesenatico.secret|Cesenatico.secret]] 

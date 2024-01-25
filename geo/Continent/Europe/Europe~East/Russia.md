@@ -157,8 +157,8 @@ markerFolder: ./Russia////
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Russia.md|Russia]] 
-- [[../../../../_internal/geo/Continent/Europe/Russia.internal.md|Russia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Russia.protect.md|Russia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Russia.private.md|Russia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Russia.personal.md|Russia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Russia.secret.md|Russia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Russia.internal|Russia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Russia.protect|Russia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Russia.private|Russia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Russia.personal|Russia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Russia.secret|Russia.secret]] 

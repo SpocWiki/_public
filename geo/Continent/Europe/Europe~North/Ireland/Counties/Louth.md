@@ -41,9 +41,9 @@ markerFolder: ./Louth/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Louth.md|Louth]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Louth.internal.md|Louth.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Louth.protect.md|Louth.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Louth.private.md|Louth.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Louth.personal.md|Louth.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Louth.secret.md|Louth.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Louth.internal|Louth.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Louth.protect|Louth.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Louth.private|Louth.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Louth.personal|Louth.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Louth.secret|Louth.secret]] 
 

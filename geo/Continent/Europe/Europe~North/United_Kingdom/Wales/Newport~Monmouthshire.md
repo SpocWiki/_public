@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.md|Newport~Monmouthshire]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.internal.md|Newport~Monmouthshire.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.protect.md|Newport~Monmouthshire.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.private.md|Newport~Monmouthshire.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.personal.md|Newport~Monmouthshire.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.secret.md|Newport~Monmouthshire.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.internal|Newport~Monmouthshire.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.protect|Newport~Monmouthshire.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.private|Newport~Monmouthshire.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.personal|Newport~Monmouthshire.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.secret|Newport~Monmouthshire.secret]] 

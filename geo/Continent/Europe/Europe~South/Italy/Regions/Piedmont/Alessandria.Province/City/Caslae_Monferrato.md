@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Caslae_Monferrato.md|Caslae_Monferrato]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Caslae_Monferrato.internal.md|Caslae_Monferrato.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Caslae_Monferrato.protect.md|Caslae_Monferrato.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Caslae_Monferrato.private.md|Caslae_Monferrato.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Caslae_Monferrato.personal.md|Caslae_Monferrato.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Caslae_Monferrato.secret.md|Caslae_Monferrato.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Caslae_Monferrato.internal|Caslae_Monferrato.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Caslae_Monferrato.protect|Caslae_Monferrato.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Caslae_Monferrato.private|Caslae_Monferrato.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Caslae_Monferrato.personal|Caslae_Monferrato.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Caslae_Monferrato.secret|Caslae_Monferrato.secret]] 

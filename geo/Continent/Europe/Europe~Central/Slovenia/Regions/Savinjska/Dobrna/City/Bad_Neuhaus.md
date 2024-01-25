@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.md|Bad_Neuhaus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.internal.md|Bad_Neuhaus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.protect.md|Bad_Neuhaus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.private.md|Bad_Neuhaus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.personal.md|Bad_Neuhaus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.secret.md|Bad_Neuhaus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.internal|Bad_Neuhaus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.protect|Bad_Neuhaus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.private|Bad_Neuhaus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.personal|Bad_Neuhaus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.secret|Bad_Neuhaus.secret]] 

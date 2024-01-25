@@ -135,7 +135,7 @@ markerFolder: ./Saudi_Arabia/
 ## Confidential Links & Embeds: 
 -[[Saudi_Arabia|Saudi_Arabia]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Saudi_Arabia.internal|Saudi_Arabia.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Saudi_Arabia.protect.md|Saudi_Arabia.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Saudi_Arabia.private.md|Saudi_Arabia.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Saudi_Arabia.personal.md|Saudi_Arabia.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Saudi_Arabia.secret.md|Saudi_Arabia.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Saudi_Arabia.protect|Saudi_Arabia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Saudi_Arabia.private|Saudi_Arabia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Saudi_Arabia.personal|Saudi_Arabia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Saudi_Arabia.secret|Saudi_Arabia.secret]] 

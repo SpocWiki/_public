@@ -41,9 +41,9 @@ markerFolder: ./Syddanmark/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Denmark/Counties/Syddanmark.md|Syddanmark]] 
-- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Syddanmark.internal.md|Syddanmark.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Syddanmark.protect.md|Syddanmark.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Syddanmark.private.md|Syddanmark.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Syddanmark.personal.md|Syddanmark.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Syddanmark.secret.md|Syddanmark.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Syddanmark.internal|Syddanmark.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Syddanmark.protect|Syddanmark.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Syddanmark.private|Syddanmark.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Syddanmark.personal|Syddanmark.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Syddanmark.secret|Syddanmark.secret]] 
 

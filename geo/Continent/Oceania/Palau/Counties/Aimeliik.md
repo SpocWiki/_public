@@ -41,9 +41,9 @@ markerFolder: ./Aimeliik/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Aimeliik.md|Aimeliik]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Aimeliik.internal.md|Aimeliik.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Aimeliik.protect.md|Aimeliik.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Aimeliik.private.md|Aimeliik.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Aimeliik.personal.md|Aimeliik.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Aimeliik.secret.md|Aimeliik.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Aimeliik.internal|Aimeliik.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Aimeliik.protect|Aimeliik.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Aimeliik.private|Aimeliik.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Aimeliik.personal|Aimeliik.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Aimeliik.secret|Aimeliik.secret]] 
 

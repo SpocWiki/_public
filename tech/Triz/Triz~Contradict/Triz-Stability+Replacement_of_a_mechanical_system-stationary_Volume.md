@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Replacement_of_a_mechanical_system-stationary_Volume]
 [SpocWebEntityId::23849]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.md|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.internal.md|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.protect.md|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.private.md|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.personal.md|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.secret.md|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.internal|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.protect|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.private|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.personal|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.secret|Triz-Stability+Replacement_of_a_mechanical_system-stationary_Volume.secret]] 

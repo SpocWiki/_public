@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Venedig=Venecia.md|Venedig=Venecia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Venedig=Venecia.internal.md|Venedig=Venecia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Venedig=Venecia.protect.md|Venedig=Venecia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Venedig=Venecia.private.md|Venedig=Venecia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Venedig=Venecia.personal.md|Venedig=Venecia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Venedig=Venecia.secret.md|Venedig=Venecia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Venedig=Venecia.internal|Venedig=Venecia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Venedig=Venecia.protect|Venedig=Venecia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Venedig=Venecia.private|Venedig=Venecia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Venedig=Venecia.personal|Venedig=Venecia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Venedig=Venecia.secret|Venedig=Venecia.secret]] 

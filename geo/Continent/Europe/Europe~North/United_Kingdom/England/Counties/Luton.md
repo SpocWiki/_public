@@ -41,9 +41,9 @@ markerFolder: ./Luton/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.md|Luton]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.internal.md|Luton.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.protect.md|Luton.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.private.md|Luton.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.personal.md|Luton.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.secret.md|Luton.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.internal|Luton.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.protect|Luton.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.private|Luton.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.personal|Luton.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Luton.secret|Luton.secret]] 
 

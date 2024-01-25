@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kruunupyy.md|Kruunupyy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kruunupyy.internal.md|Kruunupyy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kruunupyy.protect.md|Kruunupyy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kruunupyy.private.md|Kruunupyy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kruunupyy.personal.md|Kruunupyy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kruunupyy.secret.md|Kruunupyy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kruunupyy.internal|Kruunupyy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kruunupyy.protect|Kruunupyy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kruunupyy.private|Kruunupyy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kruunupyy.personal|Kruunupyy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kruunupyy.secret|Kruunupyy.secret]] 

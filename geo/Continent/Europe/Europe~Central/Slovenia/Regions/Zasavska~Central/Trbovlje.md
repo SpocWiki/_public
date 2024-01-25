@@ -41,9 +41,9 @@ markerFolder: ./Trbovlje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.md|Trbovlje]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.internal.md|Trbovlje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.protect.md|Trbovlje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.private.md|Trbovlje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.personal.md|Trbovlje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.secret.md|Trbovlje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.internal|Trbovlje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.protect|Trbovlje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.private|Trbovlje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.personal|Trbovlje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Trbovlje.secret|Trbovlje.secret]] 
 

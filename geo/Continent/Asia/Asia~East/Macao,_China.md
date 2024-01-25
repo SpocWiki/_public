@@ -37,7 +37,7 @@ markerFolder: ./Macao,_China/
 ## Confidential Links & Embeds: 
 -[[Macao,_China|Macao,_China]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Macao,_China.internal|Macao,_China.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Macao,_China.protect.md|Macao,_China.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Macao,_China.private.md|Macao,_China.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Macao,_China.personal.md|Macao,_China.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Macao,_China.secret.md|Macao,_China.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Macao,_China.protect|Macao,_China.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Macao,_China.private|Macao,_China.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Macao,_China.personal|Macao,_China.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Macao,_China.secret|Macao,_China.secret]] 

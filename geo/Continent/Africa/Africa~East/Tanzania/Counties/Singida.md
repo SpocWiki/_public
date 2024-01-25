@@ -41,9 +41,9 @@ markerFolder: ./Singida/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Singida.md|Singida]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Singida.internal.md|Singida.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Singida.protect.md|Singida.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Singida.private.md|Singida.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Singida.personal.md|Singida.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Singida.secret.md|Singida.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Singida.internal|Singida.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Singida.protect|Singida.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Singida.private|Singida.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Singida.personal|Singida.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Singida.secret|Singida.secret]] 
 

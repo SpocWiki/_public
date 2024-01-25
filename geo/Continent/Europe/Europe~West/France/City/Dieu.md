@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Dieu.md|Dieu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dieu.internal.md|Dieu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dieu.protect.md|Dieu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Dieu.private.md|Dieu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dieu.personal.md|Dieu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dieu.secret.md|Dieu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dieu.internal|Dieu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dieu.protect|Dieu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Dieu.private|Dieu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dieu.personal|Dieu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dieu.secret|Dieu.secret]] 

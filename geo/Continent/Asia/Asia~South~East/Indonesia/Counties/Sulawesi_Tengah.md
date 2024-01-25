@@ -41,9 +41,9 @@ markerFolder: ./Sulawesi_Tengah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.md|Sulawesi_Tengah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.internal.md|Sulawesi_Tengah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.protect.md|Sulawesi_Tengah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.private.md|Sulawesi_Tengah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.personal.md|Sulawesi_Tengah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.secret.md|Sulawesi_Tengah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.internal|Sulawesi_Tengah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.protect|Sulawesi_Tengah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.private|Sulawesi_Tengah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.personal|Sulawesi_Tengah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.secret|Sulawesi_Tengah.secret]] 
 

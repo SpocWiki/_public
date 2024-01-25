@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Koenigszelt.md|Koenigszelt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koenigszelt.internal.md|Koenigszelt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koenigszelt.protect.md|Koenigszelt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koenigszelt.private.md|Koenigszelt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koenigszelt.personal.md|Koenigszelt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koenigszelt.secret.md|Koenigszelt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koenigszelt.internal|Koenigszelt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koenigszelt.protect|Koenigszelt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koenigszelt.private|Koenigszelt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koenigszelt.personal|Koenigszelt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koenigszelt.secret|Koenigszelt.secret]] 

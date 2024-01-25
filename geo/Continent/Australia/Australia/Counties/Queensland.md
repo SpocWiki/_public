@@ -41,9 +41,9 @@ markerFolder: ./Queensland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/Australia/Counties/Queensland.md|Queensland]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Queensland.internal.md|Queensland.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Queensland.protect.md|Queensland.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Queensland.private.md|Queensland.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Queensland.personal.md|Queensland.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Queensland.secret.md|Queensland.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Queensland.internal|Queensland.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Queensland.protect|Queensland.protect]] 
+- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Queensland.private|Queensland.private]] 
+- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Queensland.personal|Queensland.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Queensland.secret|Queensland.secret]] 
 

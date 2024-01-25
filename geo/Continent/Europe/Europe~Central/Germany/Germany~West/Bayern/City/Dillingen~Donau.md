@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Dillingen~Donau|Dillingen~Donau]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.internal.md|Dillingen~Donau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.protect.md|Dillingen~Donau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.private.md|Dillingen~Donau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.personal.md|Dillingen~Donau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.secret.md|Dillingen~Donau.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.internal|Dillingen~Donau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.protect|Dillingen~Donau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.private|Dillingen~Donau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.personal|Dillingen~Donau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dillingen~Donau.secret|Dillingen~Donau.secret]] 

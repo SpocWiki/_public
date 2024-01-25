@@ -41,9 +41,9 @@ markerFolder: ./Demir_Kapija/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.md|Demir_Kapija]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.internal.md|Demir_Kapija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.protect.md|Demir_Kapija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.private.md|Demir_Kapija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.personal.md|Demir_Kapija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.secret.md|Demir_Kapija.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.internal|Demir_Kapija.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.protect|Demir_Kapija.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.private|Demir_Kapija.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.personal|Demir_Kapija.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Demir_Kapija.secret|Demir_Kapija.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Leobschuetz.md|Leobschuetz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Leobschuetz.internal.md|Leobschuetz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Leobschuetz.protect.md|Leobschuetz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Leobschuetz.private.md|Leobschuetz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Leobschuetz.personal.md|Leobschuetz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Leobschuetz.secret.md|Leobschuetz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Leobschuetz.internal|Leobschuetz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Leobschuetz.protect|Leobschuetz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Leobschuetz.private|Leobschuetz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Leobschuetz.personal|Leobschuetz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Leobschuetz.secret|Leobschuetz.secret]] 

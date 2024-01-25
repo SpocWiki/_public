@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Dynamicity-Ease_of_operation]
 [SpocWebEntityId::26164]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.md|Triz-Ease_of_repair+Dynamicity-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.internal.md|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.protect.md|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.private.md|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.personal.md|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.secret.md|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.internal|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.protect|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.private|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.personal|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Ease_of_operation.secret|Triz-Ease_of_repair+Dynamicity-Ease_of_operation.secret]] 

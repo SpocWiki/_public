@@ -41,9 +41,9 @@ markerFolder: ./Boe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Boe.md|Boe]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Boe.internal.md|Boe.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Boe.protect.md|Boe.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Boe.private.md|Boe.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Boe.personal.md|Boe.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Boe.secret.md|Boe.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Boe.internal|Boe.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Boe.protect|Boe.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Boe.private|Boe.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Boe.personal|Boe.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Boe.secret|Boe.secret]] 
 

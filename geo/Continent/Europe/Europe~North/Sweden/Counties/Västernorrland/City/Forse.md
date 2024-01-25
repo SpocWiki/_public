@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Forse.md|Forse]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Forse.internal.md|Forse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Forse.protect.md|Forse.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Forse.private.md|Forse.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Forse.personal.md|Forse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Forse.secret.md|Forse.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Forse.internal|Forse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Forse.protect|Forse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Forse.private|Forse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Forse.personal|Forse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Forse.secret|Forse.secret]] 

@@ -17,8 +17,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Circinus.md|Zodiac~Circinus]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Circinus.internal.md|Zodiac~Circinus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Circinus.protect.md|Zodiac~Circinus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Circinus.private.md|Zodiac~Circinus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Circinus.personal.md|Zodiac~Circinus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Circinus.secret.md|Zodiac~Circinus.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Circinus.internal|Zodiac~Circinus.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Circinus.protect|Zodiac~Circinus.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Circinus.private|Zodiac~Circinus.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Circinus.personal|Zodiac~Circinus.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Circinus.secret|Zodiac~Circinus.secret]] 

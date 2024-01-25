@@ -41,9 +41,9 @@ markerFolder: ./Département~Gard/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Occitanie/Département~Gard.md|Département~Gard]] 
-- [[../../../../_internal/geo/Continent/egions/Occitanie/Département~Gard.internal.md|Département~Gard.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Occitanie/Département~Gard.protect.md|Département~Gard.protect]] 
-- [[../../../../_private/geo/Continent/egions/Occitanie/Département~Gard.private.md|Département~Gard.private]] 
-- [[../../../../_personal/geo/Continent/egions/Occitanie/Département~Gard.personal.md|Département~Gard.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Occitanie/Département~Gard.secret.md|Département~Gard.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Occitanie/Département~Gard.internal|Département~Gard.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Occitanie/Département~Gard.protect|Département~Gard.protect]] 
+- [[../../../../_private/geo/Continent/egions/Occitanie/Département~Gard.private|Département~Gard.private]] 
+- [[../../../../_personal/geo/Continent/egions/Occitanie/Département~Gard.personal|Département~Gard.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Occitanie/Département~Gard.secret|Département~Gard.secret]] 
 

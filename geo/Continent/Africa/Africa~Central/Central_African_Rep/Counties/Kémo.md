@@ -41,9 +41,9 @@ markerFolder: ./Kémo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.md|Kémo]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.internal.md|Kémo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.protect.md|Kémo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.private.md|Kémo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.personal.md|Kémo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.secret.md|Kémo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.internal|Kémo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.protect|Kémo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.private|Kémo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.personal|Kémo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.secret|Kémo.secret]] 
 

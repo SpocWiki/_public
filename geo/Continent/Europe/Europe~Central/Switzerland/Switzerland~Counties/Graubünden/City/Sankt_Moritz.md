@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.md|Sankt_Moritz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.internal.md|Sankt_Moritz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.protect.md|Sankt_Moritz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.private.md|Sankt_Moritz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.personal.md|Sankt_Moritz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.secret.md|Sankt_Moritz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.internal|Sankt_Moritz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.protect|Sankt_Moritz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.private|Sankt_Moritz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.personal|Sankt_Moritz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.secret|Sankt_Moritz.secret]] 

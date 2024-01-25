@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sorquitten.md|Sorquitten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sorquitten.internal.md|Sorquitten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sorquitten.protect.md|Sorquitten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sorquitten.private.md|Sorquitten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sorquitten.personal.md|Sorquitten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sorquitten.secret.md|Sorquitten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sorquitten.internal|Sorquitten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sorquitten.protect|Sorquitten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sorquitten.private|Sorquitten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sorquitten.personal|Sorquitten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sorquitten.secret|Sorquitten.secret]] 

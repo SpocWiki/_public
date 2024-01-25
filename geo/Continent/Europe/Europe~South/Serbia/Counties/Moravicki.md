@@ -41,9 +41,9 @@ markerFolder: ./Moravicki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Moravicki.md|Moravicki]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Moravicki.internal.md|Moravicki.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Moravicki.protect.md|Moravicki.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Moravicki.private.md|Moravicki.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Moravicki.personal.md|Moravicki.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Moravicki.secret.md|Moravicki.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Moravicki.internal|Moravicki.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Moravicki.protect|Moravicki.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Moravicki.private|Moravicki.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Moravicki.personal|Moravicki.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Moravicki.secret|Moravicki.secret]] 
 

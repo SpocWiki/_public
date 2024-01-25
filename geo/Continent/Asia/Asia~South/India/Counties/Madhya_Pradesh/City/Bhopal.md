@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/India/City/Bhopal.md|Bhopal]] 
-- [[../../../../../../_internal/geo/Continent/Asia/India/City/Bhopal.internal.md|Bhopal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/India/City/Bhopal.protect.md|Bhopal.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/India/City/Bhopal.private.md|Bhopal.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/India/City/Bhopal.personal.md|Bhopal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/India/City/Bhopal.secret.md|Bhopal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Bhopal.internal|Bhopal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Bhopal.protect|Bhopal.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Bhopal.private|Bhopal.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Bhopal.personal|Bhopal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Bhopal.secret|Bhopal.secret]] 

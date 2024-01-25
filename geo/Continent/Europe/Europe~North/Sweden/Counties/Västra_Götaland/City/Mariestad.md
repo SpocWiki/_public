@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Mariestad.md|Mariestad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Mariestad.internal.md|Mariestad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Mariestad.protect.md|Mariestad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Mariestad.private.md|Mariestad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Mariestad.personal.md|Mariestad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Mariestad.secret.md|Mariestad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Mariestad.internal|Mariestad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Mariestad.protect|Mariestad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Mariestad.private|Mariestad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Mariestad.personal|Mariestad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Mariestad.secret|Mariestad.secret]] 

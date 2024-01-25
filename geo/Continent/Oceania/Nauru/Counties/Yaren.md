@@ -41,9 +41,9 @@ markerFolder: ./Yaren/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Yaren.md|Yaren]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Yaren.internal.md|Yaren.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Yaren.protect.md|Yaren.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Yaren.private.md|Yaren.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Yaren.personal.md|Yaren.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Yaren.secret.md|Yaren.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Yaren.internal|Yaren.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Yaren.protect|Yaren.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Yaren.private|Yaren.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Yaren.personal|Yaren.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Yaren.secret|Yaren.secret]] 
 

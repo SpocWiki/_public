@@ -41,9 +41,9 @@ markerFolder: ./Vratsa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Vratsa.md|Vratsa]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Vratsa.internal.md|Vratsa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Vratsa.protect.md|Vratsa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Vratsa.private.md|Vratsa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Vratsa.personal.md|Vratsa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Vratsa.secret.md|Vratsa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Vratsa.internal|Vratsa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Vratsa.protect|Vratsa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Vratsa.private|Vratsa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Vratsa.personal|Vratsa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Vratsa.secret|Vratsa.secret]] 
 

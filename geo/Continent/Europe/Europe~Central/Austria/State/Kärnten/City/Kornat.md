@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kornat.md|Kornat]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kornat.internal.md|Kornat.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kornat.protect.md|Kornat.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kornat.private.md|Kornat.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kornat.personal.md|Kornat.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kornat.secret.md|Kornat.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kornat.internal|Kornat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kornat.protect|Kornat.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kornat.private|Kornat.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kornat.personal|Kornat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kornat.secret|Kornat.secret]] 

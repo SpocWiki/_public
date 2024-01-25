@@ -41,9 +41,9 @@ markerFolder: ./Cacheu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.md|Cacheu]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.internal.md|Cacheu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.protect.md|Cacheu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.private.md|Cacheu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.personal.md|Cacheu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.secret.md|Cacheu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.internal|Cacheu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.protect|Cacheu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.private|Cacheu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.personal|Cacheu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.secret|Cacheu.secret]] 
 

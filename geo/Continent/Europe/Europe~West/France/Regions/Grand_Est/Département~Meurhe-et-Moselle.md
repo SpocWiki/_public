@@ -41,9 +41,9 @@ markerFolder: ./Département~Meurhe-et-Moselle/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.md|Département~Meurhe-et-Moselle]] 
-- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.internal.md|Département~Meurhe-et-Moselle.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.protect.md|Département~Meurhe-et-Moselle.protect]] 
-- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.private.md|Département~Meurhe-et-Moselle.private]] 
-- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.personal.md|Département~Meurhe-et-Moselle.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.secret.md|Département~Meurhe-et-Moselle.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.internal|Département~Meurhe-et-Moselle.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.protect|Département~Meurhe-et-Moselle.protect]] 
+- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.private|Département~Meurhe-et-Moselle.private]] 
+- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.personal|Département~Meurhe-et-Moselle.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.secret|Département~Meurhe-et-Moselle.secret]] 
 

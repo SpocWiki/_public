@@ -41,9 +41,9 @@ markerFolder: ./Dabola/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Dabola.md|Dabola]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dabola.internal.md|Dabola.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dabola.protect.md|Dabola.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Dabola.private.md|Dabola.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dabola.personal.md|Dabola.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dabola.secret.md|Dabola.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dabola.internal|Dabola.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dabola.protect|Dabola.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Dabola.private|Dabola.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dabola.personal|Dabola.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dabola.secret|Dabola.secret]] 
 

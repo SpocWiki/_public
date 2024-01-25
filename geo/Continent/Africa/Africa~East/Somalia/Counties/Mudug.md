@@ -41,9 +41,9 @@ markerFolder: ./Mudug/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Mudug.md|Mudug]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Mudug.internal.md|Mudug.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Mudug.protect.md|Mudug.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Mudug.private.md|Mudug.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Mudug.personal.md|Mudug.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Mudug.secret.md|Mudug.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Mudug.internal|Mudug.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Mudug.protect|Mudug.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Mudug.private|Mudug.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Mudug.personal|Mudug.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Mudug.secret|Mudug.secret]] 
 

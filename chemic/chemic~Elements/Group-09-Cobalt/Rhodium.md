@@ -39,8 +39,8 @@ SpocWebEntityId: 21943
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-09-Cobalt/Rhodium.md|Rhodium]] 
-- [[../../../../_internal/chemic/Elements/Group-09-Cobalt/Rhodium.internal.md|Rhodium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-09-Cobalt/Rhodium.protect.md|Rhodium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-09-Cobalt/Rhodium.private.md|Rhodium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-09-Cobalt/Rhodium.personal.md|Rhodium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-09-Cobalt/Rhodium.secret.md|Rhodium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-09-Cobalt/Rhodium.internal|Rhodium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-09-Cobalt/Rhodium.protect|Rhodium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-09-Cobalt/Rhodium.private|Rhodium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-09-Cobalt/Rhodium.personal|Rhodium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-09-Cobalt/Rhodium.secret|Rhodium.secret]] 

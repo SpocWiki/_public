@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Segmentation-Shape]
 [SpocWebEntityId::26100]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.md|Triz-Ease_of_repair+Segmentation-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.internal.md|Triz-Ease_of_repair+Segmentation-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.protect.md|Triz-Ease_of_repair+Segmentation-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.private.md|Triz-Ease_of_repair+Segmentation-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.personal.md|Triz-Ease_of_repair+Segmentation-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.secret.md|Triz-Ease_of_repair+Segmentation-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.internal|Triz-Ease_of_repair+Segmentation-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.protect|Triz-Ease_of_repair+Segmentation-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.private|Triz-Ease_of_repair+Segmentation-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.personal|Triz-Ease_of_repair+Segmentation-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.secret|Triz-Ease_of_repair+Segmentation-Shape.secret]] 

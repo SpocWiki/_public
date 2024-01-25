@@ -38,8 +38,8 @@ FROM [[]]
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../[[Sub~Bayswater|Sub~Bayswater]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.internal.md|Sub~Bayswater.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.protect.md|Sub~Bayswater.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.private.md|Sub~Bayswater.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.personal.md|Sub~Bayswater.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.secret.md|Sub~Bayswater.secret]] 
+- [[../../[[Sub~Bayswater|Sub~Bayswater]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.internal|Sub~Bayswater.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.protect|Sub~Bayswater.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.private|Sub~Bayswater.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.personal|Sub~Bayswater.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.secret|Sub~Bayswater.secret]] 

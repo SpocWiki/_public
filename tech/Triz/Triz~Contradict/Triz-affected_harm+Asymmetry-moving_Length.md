@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Asymmetry-moving_Length]
 [SpocWebEntityId::25587]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.md|Triz-affected_harm+Asymmetry-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.internal.md|Triz-affected_harm+Asymmetry-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.protect.md|Triz-affected_harm+Asymmetry-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.private.md|Triz-affected_harm+Asymmetry-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.personal.md|Triz-affected_harm+Asymmetry-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.secret.md|Triz-affected_harm+Asymmetry-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.internal|Triz-affected_harm+Asymmetry-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.protect|Triz-affected_harm+Asymmetry-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.private|Triz-affected_harm+Asymmetry-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.personal|Triz-affected_harm+Asymmetry-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Asymmetry-moving_Length.secret|Triz-affected_harm+Asymmetry-moving_Length.secret]] 

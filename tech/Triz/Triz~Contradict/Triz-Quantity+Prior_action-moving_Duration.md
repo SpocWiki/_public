@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Prior_action-moving_Duration]
 [SpocWebEntityId::25156]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.md|Triz-Quantity+Prior_action-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.internal.md|Triz-Quantity+Prior_action-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.protect.md|Triz-Quantity+Prior_action-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.private.md|Triz-Quantity+Prior_action-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.personal.md|Triz-Quantity+Prior_action-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.secret.md|Triz-Quantity+Prior_action-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.internal|Triz-Quantity+Prior_action-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.protect|Triz-Quantity+Prior_action-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.private|Triz-Quantity+Prior_action-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.personal|Triz-Quantity+Prior_action-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Prior_action-moving_Duration.secret|Triz-Quantity+Prior_action-moving_Duration.secret]] 

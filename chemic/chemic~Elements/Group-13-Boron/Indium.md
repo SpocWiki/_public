@@ -37,8 +37,8 @@ SpocWebEntityId: 21946
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-13-Boron/Indium.md|Indium]] 
-- [[../../../../_internal/chemic/Elements/Group-13-Boron/Indium.internal.md|Indium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-13-Boron/Indium.protect.md|Indium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-13-Boron/Indium.private.md|Indium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-13-Boron/Indium.personal.md|Indium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-13-Boron/Indium.secret.md|Indium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-13-Boron/Indium.internal|Indium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-13-Boron/Indium.protect|Indium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-13-Boron/Indium.private|Indium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-13-Boron/Indium.personal|Indium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-13-Boron/Indium.secret|Indium.secret]] 

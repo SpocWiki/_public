@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bellshill.md|Bellshill]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bellshill.internal.md|Bellshill.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bellshill.protect.md|Bellshill.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bellshill.private.md|Bellshill.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bellshill.personal.md|Bellshill.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bellshill.secret.md|Bellshill.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bellshill.internal|Bellshill.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bellshill.protect|Bellshill.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bellshill.private|Bellshill.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bellshill.personal|Bellshill.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bellshill.secret|Bellshill.secret]] 

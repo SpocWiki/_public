@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Suursaari.md|Suursaari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Suursaari.internal.md|Suursaari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Suursaari.protect.md|Suursaari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Suursaari.private.md|Suursaari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Suursaari.personal.md|Suursaari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Suursaari.secret.md|Suursaari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Suursaari.internal|Suursaari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Suursaari.protect|Suursaari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Suursaari.private|Suursaari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Suursaari.personal|Suursaari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Suursaari.secret|Suursaari.secret]] 

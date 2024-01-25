@@ -41,9 +41,9 @@ markerFolder: ./Marsa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Marsa.md|Marsa]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Marsa.internal.md|Marsa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Marsa.protect.md|Marsa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Marsa.private.md|Marsa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Marsa.personal.md|Marsa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Marsa.secret.md|Marsa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Marsa.internal|Marsa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Marsa.protect|Marsa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Marsa.private|Marsa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Marsa.personal|Marsa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Marsa.secret|Marsa.secret]] 
 

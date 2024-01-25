@@ -41,9 +41,9 @@ markerFolder: ./Żurrieq/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Żurrieq.md|Żurrieq]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Żurrieq.internal.md|Żurrieq.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Żurrieq.protect.md|Żurrieq.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Żurrieq.private.md|Żurrieq.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Żurrieq.personal.md|Żurrieq.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Żurrieq.secret.md|Żurrieq.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Żurrieq.internal|Żurrieq.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Żurrieq.protect|Żurrieq.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Żurrieq.private|Żurrieq.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Żurrieq.personal|Żurrieq.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Żurrieq.secret|Żurrieq.secret]] 
 

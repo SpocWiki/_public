@@ -41,9 +41,9 @@ markerFolder: ./State~Nunavut/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/Canada/State/State~Nunavut.md|State~Nunavut]] 
-- [[../../../../_internal/geo/Continent/America~North/Canada/State/State~Nunavut.internal.md|State~Nunavut.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Canada/State/State~Nunavut.protect.md|State~Nunavut.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Canada/State/State~Nunavut.private.md|State~Nunavut.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Canada/State/State~Nunavut.personal.md|State~Nunavut.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Canada/State/State~Nunavut.secret.md|State~Nunavut.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/Canada/State/State~Nunavut.internal|State~Nunavut.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/Canada/State/State~Nunavut.protect|State~Nunavut.protect]] 
+- [[../../../../_private/geo/Continent/America~North/Canada/State/State~Nunavut.private|State~Nunavut.private]] 
+- [[../../../../_personal/geo/Continent/America~North/Canada/State/State~Nunavut.personal|State~Nunavut.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/Canada/State/State~Nunavut.secret|State~Nunavut.secret]] 
 

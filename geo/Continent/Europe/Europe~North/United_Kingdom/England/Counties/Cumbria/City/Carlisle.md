@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Carlisle.md|Carlisle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Carlisle.internal.md|Carlisle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Carlisle.protect.md|Carlisle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Carlisle.private.md|Carlisle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Carlisle.personal.md|Carlisle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Carlisle.secret.md|Carlisle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Carlisle.internal|Carlisle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Carlisle.protect|Carlisle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Carlisle.private|Carlisle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Carlisle.personal|Carlisle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Carlisle.secret|Carlisle.secret]] 

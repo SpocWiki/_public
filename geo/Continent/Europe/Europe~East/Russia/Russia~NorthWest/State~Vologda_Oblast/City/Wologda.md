@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wologda.md|Wologda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wologda.internal.md|Wologda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wologda.protect.md|Wologda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wologda.private.md|Wologda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wologda.personal.md|Wologda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wologda.secret.md|Wologda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wologda.internal|Wologda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wologda.protect|Wologda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wologda.private|Wologda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wologda.personal|Wologda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wologda.secret|Wologda.secret]] 

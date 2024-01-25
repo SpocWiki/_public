@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Thermal_expansion-Stress]
 [SpocWebEntityId::25863]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.md|Triz-Ease_of_manufacture+Thermal_expansion-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.internal.md|Triz-Ease_of_manufacture+Thermal_expansion-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.protect.md|Triz-Ease_of_manufacture+Thermal_expansion-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.private.md|Triz-Ease_of_manufacture+Thermal_expansion-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.personal.md|Triz-Ease_of_manufacture+Thermal_expansion-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.secret.md|Triz-Ease_of_manufacture+Thermal_expansion-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.internal|Triz-Ease_of_manufacture+Thermal_expansion-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.protect|Triz-Ease_of_manufacture+Thermal_expansion-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.private|Triz-Ease_of_manufacture+Thermal_expansion-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.personal|Triz-Ease_of_manufacture+Thermal_expansion-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Thermal_expansion-Stress.secret|Triz-Ease_of_manufacture+Thermal_expansion-Stress.secret]] 

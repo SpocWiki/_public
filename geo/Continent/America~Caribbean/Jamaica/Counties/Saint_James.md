@@ -41,9 +41,9 @@ markerFolder: ./Saint_James/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.md|Saint_James]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.internal.md|Saint_James.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.protect.md|Saint_James.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.private.md|Saint_James.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.personal.md|Saint_James.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.secret.md|Saint_James.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.internal|Saint_James.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.protect|Saint_James.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.private|Saint_James.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.personal|Saint_James.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_James.secret|Saint_James.secret]] 
 

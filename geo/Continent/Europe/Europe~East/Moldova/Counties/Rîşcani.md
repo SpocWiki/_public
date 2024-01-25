@@ -41,9 +41,9 @@ markerFolder: ./Rîşcani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Rîşcani.md|Rîşcani]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Rîşcani.internal.md|Rîşcani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Rîşcani.protect.md|Rîşcani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Rîşcani.private.md|Rîşcani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Rîşcani.personal.md|Rîşcani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Rîşcani.secret.md|Rîşcani.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Rîşcani.internal|Rîşcani.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Rîşcani.protect|Rîşcani.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Rîşcani.private|Rîşcani.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Rîşcani.personal|Rîşcani.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Rîşcani.secret|Rîşcani.secret]] 
 

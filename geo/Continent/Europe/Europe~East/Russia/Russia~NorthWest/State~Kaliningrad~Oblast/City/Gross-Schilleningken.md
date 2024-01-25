@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gross-Schilleningken.md|Gross-Schilleningken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gross-Schilleningken.internal.md|Gross-Schilleningken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gross-Schilleningken.protect.md|Gross-Schilleningken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gross-Schilleningken.private.md|Gross-Schilleningken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gross-Schilleningken.personal.md|Gross-Schilleningken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gross-Schilleningken.secret.md|Gross-Schilleningken.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gross-Schilleningken.internal|Gross-Schilleningken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gross-Schilleningken.protect|Gross-Schilleningken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gross-Schilleningken.private|Gross-Schilleningken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gross-Schilleningken.personal|Gross-Schilleningken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gross-Schilleningken.secret|Gross-Schilleningken.secret]] 

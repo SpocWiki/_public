@@ -41,9 +41,9 @@ markerFolder: ./South_West/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.md|South_West]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.internal.md|South_West.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.protect.md|South_West.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.private.md|South_West.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.personal.md|South_West.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.secret.md|South_West.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.internal|South_West.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.protect|South_West.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.private|South_West.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.personal|South_West.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.secret|South_West.secret]] 
 

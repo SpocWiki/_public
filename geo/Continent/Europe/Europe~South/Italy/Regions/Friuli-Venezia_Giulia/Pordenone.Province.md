@@ -41,9 +41,9 @@ markerFolder: ./Pordenone.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.md|Pordenone.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.internal.md|Pordenone.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.protect.md|Pordenone.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.private.md|Pordenone.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.personal.md|Pordenone.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.secret.md|Pordenone.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.internal|Pordenone.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.protect|Pordenone.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.private|Pordenone.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.personal|Pordenone.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Pordenone.Province.secret|Pordenone.Province.secret]] 
 

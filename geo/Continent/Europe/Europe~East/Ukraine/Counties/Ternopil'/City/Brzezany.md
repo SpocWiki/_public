@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Brzezany.md|Brzezany]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Brzezany.internal.md|Brzezany.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Brzezany.protect.md|Brzezany.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Brzezany.private.md|Brzezany.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Brzezany.personal.md|Brzezany.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Brzezany.secret.md|Brzezany.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Brzezany.internal|Brzezany.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Brzezany.protect|Brzezany.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Brzezany.private|Brzezany.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Brzezany.personal|Brzezany.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Brzezany.secret|Brzezany.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Västra_Götaland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.md|Västra_Götaland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.internal.md|Västra_Götaland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.protect.md|Västra_Götaland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.private.md|Västra_Götaland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.personal.md|Västra_Götaland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.secret.md|Västra_Götaland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.internal|Västra_Götaland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.protect|Västra_Götaland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.private|Västra_Götaland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.personal|Västra_Götaland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Västra_Götaland.secret|Västra_Götaland.secret]] 
 

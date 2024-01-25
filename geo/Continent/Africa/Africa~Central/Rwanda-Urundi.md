@@ -37,7 +37,7 @@ markerFolder: ./Rwanda-Urundi/
 ## Confidential Links & Embeds: 
 -[[Rwanda-Urundi|Rwanda-Urundi]]] 
 -[[../../../../../_internal/geo/Continent/Africa/Rwanda-Urundi.internal|Rwanda-Urundi.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Rwanda-Urundi.protect.md|Rwanda-Urundi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Rwanda-Urundi.private.md|Rwanda-Urundi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Rwanda-Urundi.personal.md|Rwanda-Urundi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Rwanda-Urundi.secret.md|Rwanda-Urundi.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Rwanda-Urundi.protect|Rwanda-Urundi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Rwanda-Urundi.private|Rwanda-Urundi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Rwanda-Urundi.personal|Rwanda-Urundi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Rwanda-Urundi.secret|Rwanda-Urundi.secret]] 

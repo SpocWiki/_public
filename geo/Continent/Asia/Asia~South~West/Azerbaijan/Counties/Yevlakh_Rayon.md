@@ -41,9 +41,9 @@ markerFolder: ./Yevlakh_Rayon/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.md|Yevlakh_Rayon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.internal.md|Yevlakh_Rayon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.protect.md|Yevlakh_Rayon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.private.md|Yevlakh_Rayon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.personal.md|Yevlakh_Rayon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.secret.md|Yevlakh_Rayon.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.internal|Yevlakh_Rayon.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.protect|Yevlakh_Rayon.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.private|Yevlakh_Rayon.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.personal|Yevlakh_Rayon.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.secret|Yevlakh_Rayon.secret]] 
 

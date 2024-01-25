@@ -41,9 +41,9 @@ markerFolder: ./Saltvik/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.md|Saltvik]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.internal.md|Saltvik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.protect.md|Saltvik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.private.md|Saltvik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.personal.md|Saltvik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.secret.md|Saltvik.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.internal|Saltvik.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.protect|Saltvik.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.private|Saltvik.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.personal|Saltvik.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.secret|Saltvik.secret]] 
 

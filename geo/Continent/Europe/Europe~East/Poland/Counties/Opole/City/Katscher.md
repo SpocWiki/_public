@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Katscher.md|Katscher]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Katscher.internal.md|Katscher.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Katscher.protect.md|Katscher.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Katscher.private.md|Katscher.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Katscher.personal.md|Katscher.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Katscher.secret.md|Katscher.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Katscher.internal|Katscher.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Katscher.protect|Katscher.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Katscher.private|Katscher.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Katscher.personal|Katscher.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Katscher.secret|Katscher.secret]] 

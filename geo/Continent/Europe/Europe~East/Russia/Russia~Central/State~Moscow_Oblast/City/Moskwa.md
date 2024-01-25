@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Moskwa.md|Moskwa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Moskwa.internal.md|Moskwa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Moskwa.protect.md|Moskwa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Moskwa.private.md|Moskwa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Moskwa.personal.md|Moskwa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Moskwa.secret.md|Moskwa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Moskwa.internal|Moskwa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Moskwa.protect|Moskwa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Moskwa.private|Moskwa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Moskwa.personal|Moskwa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Moskwa.secret|Moskwa.secret]] 

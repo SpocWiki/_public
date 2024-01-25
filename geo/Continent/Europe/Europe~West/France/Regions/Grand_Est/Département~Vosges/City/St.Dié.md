@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Dié.md|St.Dié]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Dié.internal.md|St.Dié.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Dié.protect.md|St.Dié.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Dié.private.md|St.Dié.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Dié.personal.md|St.Dié.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Dié.secret.md|St.Dié.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Dié.internal|St.Dié.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Dié.protect|St.Dié.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Dié.private|St.Dié.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Dié.personal|St.Dié.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Dié.secret|St.Dié.secret]] 

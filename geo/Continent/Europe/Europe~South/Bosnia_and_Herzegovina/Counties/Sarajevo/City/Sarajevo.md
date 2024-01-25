@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.md|Sarajevo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.internal.md|Sarajevo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.protect.md|Sarajevo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.private.md|Sarajevo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.personal.md|Sarajevo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.secret.md|Sarajevo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.internal|Sarajevo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.protect|Sarajevo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.private|Sarajevo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.personal|Sarajevo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.secret|Sarajevo.secret]] 

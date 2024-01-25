@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Aidos.md|Aidos]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Aidos.internal.md|Aidos.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Aidos.protect.md|Aidos.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Aidos.private.md|Aidos.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Aidos.personal.md|Aidos.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Aidos.secret.md|Aidos.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Aidos.internal|Aidos.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Aidos.protect|Aidos.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Aidos.private|Aidos.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Aidos.personal|Aidos.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Aidos.secret|Aidos.secret]] 

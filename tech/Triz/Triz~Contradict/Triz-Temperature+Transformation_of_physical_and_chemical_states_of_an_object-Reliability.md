@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability]
 [SpocWebEntityId::24309]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.md|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal.md|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect.md|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private.md|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal.md|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret.md|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret]] 

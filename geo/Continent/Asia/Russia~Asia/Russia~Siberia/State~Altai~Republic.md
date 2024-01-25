@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Altai~Republic|State~Altai~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Altai~Republic.internal|State~Altai~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Altai~Republic.protect.md|State~Altai~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Altai~Republic.private.md|State~Altai~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Altai~Republic.personal.md|State~Altai~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Altai~Republic.secret.md|State~Altai~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Altai~Republic.protect|State~Altai~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Altai~Republic.private|State~Altai~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Altai~Republic.personal|State~Altai~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Altai~Republic.secret|State~Altai~Republic.secret]] 

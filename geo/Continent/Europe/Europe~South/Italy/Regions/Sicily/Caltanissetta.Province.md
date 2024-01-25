@@ -41,9 +41,9 @@ markerFolder: ./Caltanissetta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.md|Caltanissetta]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.internal.md|Caltanissetta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.protect.md|Caltanissetta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.private.md|Caltanissetta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.personal.md|Caltanissetta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.secret.md|Caltanissetta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.internal|Caltanissetta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.protect|Caltanissetta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.private|Caltanissetta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.personal|Caltanissetta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sicily/Caltanissetta.secret|Caltanissetta.secret]] 
 

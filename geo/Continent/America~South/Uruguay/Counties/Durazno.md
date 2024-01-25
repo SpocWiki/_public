@@ -41,9 +41,9 @@ markerFolder: ./Durazno/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Durazno.md|Durazno]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Durazno.internal.md|Durazno.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Durazno.protect.md|Durazno.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Durazno.private.md|Durazno.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Durazno.personal.md|Durazno.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Durazno.secret.md|Durazno.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Durazno.internal|Durazno.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Durazno.protect|Durazno.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Durazno.private|Durazno.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Durazno.personal|Durazno.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Durazno.secret|Durazno.secret]] 
 

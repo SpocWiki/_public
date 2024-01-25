@@ -41,9 +41,9 @@ markerFolder: ./Merseyside/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.md|Merseyside]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.internal.md|Merseyside.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.protect.md|Merseyside.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.private.md|Merseyside.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.personal.md|Merseyside.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.secret.md|Merseyside.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.internal|Merseyside.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.protect|Merseyside.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.private|Merseyside.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.personal|Merseyside.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Merseyside.secret|Merseyside.secret]] 
 

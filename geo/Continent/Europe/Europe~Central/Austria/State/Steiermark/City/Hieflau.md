@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hieflau.md|Hieflau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hieflau.internal.md|Hieflau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hieflau.protect.md|Hieflau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hieflau.private.md|Hieflau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hieflau.personal.md|Hieflau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hieflau.secret.md|Hieflau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hieflau.internal|Hieflau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hieflau.protect|Hieflau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hieflau.private|Hieflau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hieflau.personal|Hieflau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hieflau.secret|Hieflau.secret]] 

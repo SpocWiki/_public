@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Clydebank.md|Clydebank]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Clydebank.internal.md|Clydebank.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Clydebank.protect.md|Clydebank.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Clydebank.private.md|Clydebank.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Clydebank.personal.md|Clydebank.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Clydebank.secret.md|Clydebank.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Clydebank.internal|Clydebank.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Clydebank.protect|Clydebank.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Clydebank.private|Clydebank.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Clydebank.personal|Clydebank.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Clydebank.secret|Clydebank.secret]] 

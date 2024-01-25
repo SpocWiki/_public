@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Haisenhaus.md|Haisenhaus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Haisenhaus.internal.md|Haisenhaus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Haisenhaus.protect.md|Haisenhaus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Haisenhaus.private.md|Haisenhaus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Haisenhaus.personal.md|Haisenhaus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Haisenhaus.secret.md|Haisenhaus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Haisenhaus.internal|Haisenhaus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Haisenhaus.protect|Haisenhaus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Haisenhaus.private|Haisenhaus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Haisenhaus.personal|Haisenhaus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Haisenhaus.secret|Haisenhaus.secret]] 

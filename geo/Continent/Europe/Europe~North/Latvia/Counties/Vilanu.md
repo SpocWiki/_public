@@ -41,9 +41,9 @@ markerFolder: ./Vilanu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Vilanu.md|Vilanu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Vilanu.internal.md|Vilanu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Vilanu.protect.md|Vilanu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Vilanu.private.md|Vilanu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Vilanu.personal.md|Vilanu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Vilanu.secret.md|Vilanu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Vilanu.internal|Vilanu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Vilanu.protect|Vilanu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Vilanu.private|Vilanu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Vilanu.personal|Vilanu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Vilanu.secret|Vilanu.secret]] 
 

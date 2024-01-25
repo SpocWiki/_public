@@ -41,9 +41,9 @@ markerFolder: ./Kildare/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Kildare.md|Kildare]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Kildare.internal.md|Kildare.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Kildare.protect.md|Kildare.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Kildare.private.md|Kildare.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Kildare.personal.md|Kildare.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Kildare.secret.md|Kildare.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Kildare.internal|Kildare.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Kildare.protect|Kildare.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Kildare.private|Kildare.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Kildare.personal|Kildare.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Kildare.secret|Kildare.secret]] 
 

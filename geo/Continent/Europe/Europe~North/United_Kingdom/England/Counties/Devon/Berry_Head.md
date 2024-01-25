@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Berry_Head.md|Berry_Head]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Berry_Head.internal.md|Berry_Head.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Berry_Head.protect.md|Berry_Head.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Berry_Head.private.md|Berry_Head.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Berry_Head.personal.md|Berry_Head.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Berry_Head.secret.md|Berry_Head.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Berry_Head.internal|Berry_Head.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Berry_Head.protect|Berry_Head.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Berry_Head.private|Berry_Head.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Berry_Head.personal|Berry_Head.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Berry_Head.secret|Berry_Head.secret]] 

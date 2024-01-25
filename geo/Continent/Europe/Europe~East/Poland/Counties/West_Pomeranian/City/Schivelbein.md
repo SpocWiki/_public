@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schivelbein.md|Schivelbein]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schivelbein.internal.md|Schivelbein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schivelbein.protect.md|Schivelbein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schivelbein.private.md|Schivelbein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schivelbein.personal.md|Schivelbein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schivelbein.secret.md|Schivelbein.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schivelbein.internal|Schivelbein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schivelbein.protect|Schivelbein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schivelbein.private|Schivelbein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schivelbein.personal|Schivelbein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schivelbein.secret|Schivelbein.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Alpes-de-Haute-Provence/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.md|Département~Alpes-de-Haute-Provence]] 
-- [[../../../../_internal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.internal.md|Département~Alpes-de-Haute-Provence.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.protect.md|Département~Alpes-de-Haute-Provence.protect]] 
-- [[../../../../_private/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.private.md|Département~Alpes-de-Haute-Provence.private]] 
-- [[../../../../_personal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.personal.md|Département~Alpes-de-Haute-Provence.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.secret.md|Département~Alpes-de-Haute-Provence.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.internal|Département~Alpes-de-Haute-Provence.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.protect|Département~Alpes-de-Haute-Provence.protect]] 
+- [[../../../../_private/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.private|Département~Alpes-de-Haute-Provence.private]] 
+- [[../../../../_personal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.personal|Département~Alpes-de-Haute-Provence.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.secret|Département~Alpes-de-Haute-Provence.secret]] 
 

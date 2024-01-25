@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Rotenburg~Wuemme|Rotenburg~Wuemme]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.internal.md|Rotenburg~Wuemme.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.protect.md|Rotenburg~Wuemme.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.private.md|Rotenburg~Wuemme.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.personal.md|Rotenburg~Wuemme.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.secret.md|Rotenburg~Wuemme.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.internal|Rotenburg~Wuemme.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.protect|Rotenburg~Wuemme.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.private|Rotenburg~Wuemme.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.personal|Rotenburg~Wuemme.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.secret|Rotenburg~Wuemme.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Anholt.md|Anholt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Anholt.internal.md|Anholt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Anholt.protect.md|Anholt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Anholt.private.md|Anholt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Anholt.personal.md|Anholt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Anholt.secret.md|Anholt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Anholt.internal|Anholt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Anholt.protect|Anholt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Anholt.private|Anholt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Anholt.personal|Anholt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Anholt.secret|Anholt.secret]] 

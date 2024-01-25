@@ -41,9 +41,9 @@ markerFolder: ./Neuchâtel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.md|Neuchâtel]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.internal.md|Neuchâtel.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.protect.md|Neuchâtel.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.private.md|Neuchâtel.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.personal.md|Neuchâtel.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.secret.md|Neuchâtel.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.internal|Neuchâtel.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.protect|Neuchâtel.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.private|Neuchâtel.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.personal|Neuchâtel.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Neuchâtel.secret|Neuchâtel.secret]] 
 

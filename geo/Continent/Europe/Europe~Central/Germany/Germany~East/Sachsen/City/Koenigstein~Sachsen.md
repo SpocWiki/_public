@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.md|Koenigstein~Sachsen]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.internal.md|Koenigstein~Sachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.protect.md|Koenigstein~Sachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.private.md|Koenigstein~Sachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.personal.md|Koenigstein~Sachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.secret.md|Koenigstein~Sachsen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.internal|Koenigstein~Sachsen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.protect|Koenigstein~Sachsen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.private|Koenigstein~Sachsen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.personal|Koenigstein~Sachsen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.secret|Koenigstein~Sachsen.secret]] 

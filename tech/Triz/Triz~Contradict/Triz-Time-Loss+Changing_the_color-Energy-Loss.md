@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Changing_the_color-Energy-Loss]
 [SpocWebEntityId::25057]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.md|Triz-Time-Loss+Changing_the_color-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.internal.md|Triz-Time-Loss+Changing_the_color-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.protect.md|Triz-Time-Loss+Changing_the_color-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.private.md|Triz-Time-Loss+Changing_the_color-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.personal.md|Triz-Time-Loss+Changing_the_color-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.secret.md|Triz-Time-Loss+Changing_the_color-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.internal|Triz-Time-Loss+Changing_the_color-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.protect|Triz-Time-Loss+Changing_the_color-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.private|Triz-Time-Loss+Changing_the_color-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.personal|Triz-Time-Loss+Changing_the_color-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Energy-Loss.secret|Triz-Time-Loss+Changing_the_color-Energy-Loss.secret]] 

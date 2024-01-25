@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Nowógrodék.md|Nowógrodék]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nowógrodék.internal.md|Nowógrodék.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nowógrodék.protect.md|Nowógrodék.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nowógrodék.private.md|Nowógrodék.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nowógrodék.personal.md|Nowógrodék.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nowógrodék.secret.md|Nowógrodék.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nowógrodék.internal|Nowógrodék.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nowógrodék.protect|Nowógrodék.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nowógrodék.private|Nowógrodék.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nowógrodék.personal|Nowógrodék.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nowógrodék.secret|Nowógrodék.secret]] 

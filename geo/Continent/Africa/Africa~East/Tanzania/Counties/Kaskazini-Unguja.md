@@ -41,9 +41,9 @@ markerFolder: ./Kaskazini-Unguja/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.md|Kaskazini-Unguja]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.internal.md|Kaskazini-Unguja.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.protect.md|Kaskazini-Unguja.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.private.md|Kaskazini-Unguja.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.personal.md|Kaskazini-Unguja.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.secret.md|Kaskazini-Unguja.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.internal|Kaskazini-Unguja.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.protect|Kaskazini-Unguja.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.private|Kaskazini-Unguja.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.personal|Kaskazini-Unguja.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.secret|Kaskazini-Unguja.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Ascoli_Piceno.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.md|Ascoli_Piceno.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.internal.md|Ascoli_Piceno.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.protect.md|Ascoli_Piceno.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.private.md|Ascoli_Piceno.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.personal.md|Ascoli_Piceno.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.secret.md|Ascoli_Piceno.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.internal|Ascoli_Piceno.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.protect|Ascoli_Piceno.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.private|Ascoli_Piceno.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.personal|Ascoli_Piceno.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Marche/Ascoli_Piceno.Province.secret|Ascoli_Piceno.Province.secret]] 
 

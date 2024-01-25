@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Papa.md|Papa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Papa.internal.md|Papa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Papa.protect.md|Papa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Papa.private.md|Papa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Papa.personal.md|Papa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Papa.secret.md|Papa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Papa.internal|Papa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Papa.protect|Papa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Papa.private|Papa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Papa.personal|Papa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Papa.secret|Papa.secret]] 

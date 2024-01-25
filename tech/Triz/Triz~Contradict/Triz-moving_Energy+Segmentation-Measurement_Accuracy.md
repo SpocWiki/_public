@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Segmentation-Measurement_Accuracy]
 [SpocWebEntityId::24508]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.md|Triz-moving_Energy+Segmentation-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.internal.md|Triz-moving_Energy+Segmentation-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.protect.md|Triz-moving_Energy+Segmentation-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.private.md|Triz-moving_Energy+Segmentation-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.personal.md|Triz-moving_Energy+Segmentation-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.secret.md|Triz-moving_Energy+Segmentation-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.internal|Triz-moving_Energy+Segmentation-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.protect|Triz-moving_Energy+Segmentation-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.private|Triz-moving_Energy+Segmentation-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.personal|Triz-moving_Energy+Segmentation-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Segmentation-Measurement_Accuracy.secret|Triz-moving_Energy+Segmentation-Measurement_Accuracy.secret]] 

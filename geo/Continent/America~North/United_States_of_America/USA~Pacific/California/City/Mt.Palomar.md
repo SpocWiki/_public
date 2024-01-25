@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.md|Mt.Palomar]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.internal.md|Mt.Palomar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.protect.md|Mt.Palomar.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.private.md|Mt.Palomar.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.personal.md|Mt.Palomar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.secret.md|Mt.Palomar.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.internal|Mt.Palomar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.protect|Mt.Palomar.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.private|Mt.Palomar.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.personal|Mt.Palomar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.secret|Mt.Palomar.secret]] 

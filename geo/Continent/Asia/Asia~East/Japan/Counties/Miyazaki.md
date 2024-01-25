@@ -41,9 +41,9 @@ markerFolder: ./Miyazaki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.md|Miyazaki]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.internal.md|Miyazaki.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.protect.md|Miyazaki.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.private.md|Miyazaki.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.personal.md|Miyazaki.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.secret.md|Miyazaki.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.internal|Miyazaki.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.protect|Miyazaki.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.private|Miyazaki.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.personal|Miyazaki.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Miyazaki.secret|Miyazaki.secret]] 
 

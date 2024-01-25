@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Lyngdal.md|Lyngdal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Lyngdal.internal.md|Lyngdal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Lyngdal.protect.md|Lyngdal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Lyngdal.private.md|Lyngdal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Lyngdal.personal.md|Lyngdal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Lyngdal.secret.md|Lyngdal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Lyngdal.internal|Lyngdal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Lyngdal.protect|Lyngdal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Lyngdal.private|Lyngdal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Lyngdal.personal|Lyngdal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Lyngdal.secret|Lyngdal.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Utajaervi~Juor..md|Utajaervi~Juor.]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Utajaervi~Juor..internal.md|Utajaervi~Juor..internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Utajaervi~Juor..protect.md|Utajaervi~Juor..protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Utajaervi~Juor..private.md|Utajaervi~Juor..private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Utajaervi~Juor..personal.md|Utajaervi~Juor..personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Utajaervi~Juor..secret.md|Utajaervi~Juor..secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Utajaervi~Juor..internal|Utajaervi~Juor..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Utajaervi~Juor..protect|Utajaervi~Juor..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Utajaervi~Juor..private|Utajaervi~Juor..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Utajaervi~Juor..personal|Utajaervi~Juor..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Utajaervi~Juor..secret|Utajaervi~Juor..secret]] 

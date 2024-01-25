@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Neustadt~Waldnaab|Neustadt~Waldnaab]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.internal.md|Neustadt~Waldnaab.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.protect.md|Neustadt~Waldnaab.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.private.md|Neustadt~Waldnaab.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.personal.md|Neustadt~Waldnaab.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.secret.md|Neustadt~Waldnaab.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.internal|Neustadt~Waldnaab.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.protect|Neustadt~Waldnaab.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.private|Neustadt~Waldnaab.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.personal|Neustadt~Waldnaab.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.secret|Neustadt~Waldnaab.secret]] 

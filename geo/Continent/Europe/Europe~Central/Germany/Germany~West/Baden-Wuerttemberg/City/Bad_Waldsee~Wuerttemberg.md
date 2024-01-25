@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bad_Waldsee~Wuerttemberg|Bad_Waldsee~Wuerttemberg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.internal.md|Bad_Waldsee~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.protect.md|Bad_Waldsee~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.private.md|Bad_Waldsee~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.personal.md|Bad_Waldsee~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.secret.md|Bad_Waldsee~Wuerttemberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.internal|Bad_Waldsee~Wuerttemberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.protect|Bad_Waldsee~Wuerttemberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.private|Bad_Waldsee~Wuerttemberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.personal|Bad_Waldsee~Wuerttemberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Waldsee~Wuerttemberg.secret|Bad_Waldsee~Wuerttemberg.secret]] 

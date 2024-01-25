@@ -41,9 +41,9 @@ markerFolder: ./Thimphu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.md|Thimphu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.internal.md|Thimphu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.protect.md|Thimphu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.private.md|Thimphu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.personal.md|Thimphu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.secret.md|Thimphu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.internal|Thimphu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.protect|Thimphu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.private|Thimphu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.personal|Thimphu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.secret|Thimphu.secret]] 
 

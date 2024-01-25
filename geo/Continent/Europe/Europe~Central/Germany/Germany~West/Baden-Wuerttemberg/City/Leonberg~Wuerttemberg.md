@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Leonberg~Wuerttemberg|Leonberg~Wuerttemberg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.internal.md|Leonberg~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.protect.md|Leonberg~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.private.md|Leonberg~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.personal.md|Leonberg~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.secret.md|Leonberg~Wuerttemberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.internal|Leonberg~Wuerttemberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.protect|Leonberg~Wuerttemberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.private|Leonberg~Wuerttemberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.personal|Leonberg~Wuerttemberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.secret|Leonberg~Wuerttemberg.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Lubhahn.md|Lubhahn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Lubhahn.internal.md|Lubhahn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Lubhahn.protect.md|Lubhahn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Lubhahn.private.md|Lubhahn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Lubhahn.personal.md|Lubhahn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Lubhahn.secret.md|Lubhahn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Lubhahn.internal|Lubhahn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Lubhahn.protect|Lubhahn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Lubhahn.private|Lubhahn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Lubhahn.personal|Lubhahn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Lubhahn.secret|Lubhahn.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Moerbylanga.md|Moerbylanga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Moerbylanga.internal.md|Moerbylanga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Moerbylanga.protect.md|Moerbylanga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Moerbylanga.private.md|Moerbylanga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Moerbylanga.personal.md|Moerbylanga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Moerbylanga.secret.md|Moerbylanga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Moerbylanga.internal|Moerbylanga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Moerbylanga.protect|Moerbylanga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Moerbylanga.private|Moerbylanga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Moerbylanga.personal|Moerbylanga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Moerbylanga.secret|Moerbylanga.secret]] 

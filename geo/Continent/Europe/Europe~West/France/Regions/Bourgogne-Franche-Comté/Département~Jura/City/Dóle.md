@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Dóle.md|Dóle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dóle.internal.md|Dóle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dóle.protect.md|Dóle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Dóle.private.md|Dóle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dóle.personal.md|Dóle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dóle.secret.md|Dóle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dóle.internal|Dóle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dóle.protect|Dóle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Dóle.private|Dóle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dóle.personal|Dóle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dóle.secret|Dóle.secret]] 

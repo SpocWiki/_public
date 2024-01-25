@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Libochovon.md|Libochovon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Libochovon.internal.md|Libochovon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Libochovon.protect.md|Libochovon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Libochovon.private.md|Libochovon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Libochovon.personal.md|Libochovon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Libochovon.secret.md|Libochovon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Libochovon.internal|Libochovon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Libochovon.protect|Libochovon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Libochovon.private|Libochovon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Libochovon.personal|Libochovon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Libochovon.secret|Libochovon.secret]] 

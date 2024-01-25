@@ -136,7 +136,7 @@ markerFolder: ./Mali//
 ## Confidential Links & Embeds: 
 - [[Mali|Mali]] 
 - [[../../../../../_internal/geo/Continent/Africa/Mali.internal|Mali.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali.protect.md|Mali.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali.private.md|Mali.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali.personal.md|Mali.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali.secret.md|Mali.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali.protect|Mali.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali.private|Mali.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali.personal|Mali.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali.secret|Mali.secret]] 

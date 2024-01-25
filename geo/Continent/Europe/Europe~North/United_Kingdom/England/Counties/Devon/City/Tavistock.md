@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tavistock.md|Tavistock]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tavistock.internal.md|Tavistock.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tavistock.protect.md|Tavistock.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tavistock.private.md|Tavistock.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tavistock.personal.md|Tavistock.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tavistock.secret.md|Tavistock.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tavistock.internal|Tavistock.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tavistock.protect|Tavistock.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tavistock.private|Tavistock.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tavistock.personal|Tavistock.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tavistock.secret|Tavistock.secret]] 

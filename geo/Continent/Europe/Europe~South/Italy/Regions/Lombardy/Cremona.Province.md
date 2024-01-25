@@ -41,9 +41,9 @@ markerFolder: ./Cremona.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.md|Cremona.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.internal.md|Cremona.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.protect.md|Cremona.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.private.md|Cremona.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.personal.md|Cremona.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.secret.md|Cremona.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.internal|Cremona.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.protect|Cremona.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.private|Cremona.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.personal|Cremona.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Cremona.Province.secret|Cremona.Province.secret]] 
 

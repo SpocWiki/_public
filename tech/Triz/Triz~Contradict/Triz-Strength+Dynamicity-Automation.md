@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Dynamicity-Automation]
 [SpocWebEntityId::24061]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.md|Triz-Strength+Dynamicity-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.internal.md|Triz-Strength+Dynamicity-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.protect.md|Triz-Strength+Dynamicity-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.private.md|Triz-Strength+Dynamicity-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.personal.md|Triz-Strength+Dynamicity-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.secret.md|Triz-Strength+Dynamicity-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.internal|Triz-Strength+Dynamicity-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.protect|Triz-Strength+Dynamicity-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.private|Triz-Strength+Dynamicity-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.personal|Triz-Strength+Dynamicity-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.secret|Triz-Strength+Dynamicity-Automation.secret]] 

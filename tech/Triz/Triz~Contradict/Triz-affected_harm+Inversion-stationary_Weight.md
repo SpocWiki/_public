@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Inversion-stationary_Weight]
 [SpocWebEntityId::25582]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.md|Triz-affected_harm+Inversion-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.internal.md|Triz-affected_harm+Inversion-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.protect.md|Triz-affected_harm+Inversion-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.private.md|Triz-affected_harm+Inversion-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.personal.md|Triz-affected_harm+Inversion-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.secret.md|Triz-affected_harm+Inversion-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.internal|Triz-affected_harm+Inversion-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.protect|Triz-affected_harm+Inversion-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.private|Triz-affected_harm+Inversion-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.personal|Triz-affected_harm+Inversion-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Inversion-stationary_Weight.secret|Triz-affected_harm+Inversion-stationary_Weight.secret]] 

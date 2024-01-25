@@ -41,9 +41,9 @@ markerFolder: ./Emberá/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Emberá.md|Emberá]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Emberá.internal.md|Emberá.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Emberá.protect.md|Emberá.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Emberá.private.md|Emberá.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Emberá.personal.md|Emberá.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Emberá.secret.md|Emberá.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Emberá.internal|Emberá.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Emberá.protect|Emberá.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Emberá.private|Emberá.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Emberá.personal|Emberá.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Emberá.secret|Emberá.secret]] 
 

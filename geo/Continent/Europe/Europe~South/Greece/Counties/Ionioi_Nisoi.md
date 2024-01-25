@@ -41,9 +41,9 @@ markerFolder: ./Ionioi_Nisoi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.md|Ionioi_Nisoi]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.internal.md|Ionioi_Nisoi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.protect.md|Ionioi_Nisoi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.private.md|Ionioi_Nisoi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.personal.md|Ionioi_Nisoi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.secret.md|Ionioi_Nisoi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.internal|Ionioi_Nisoi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.protect|Ionioi_Nisoi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.private|Ionioi_Nisoi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.personal|Ionioi_Nisoi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Ionioi_Nisoi.secret|Ionioi_Nisoi.secret]] 
 

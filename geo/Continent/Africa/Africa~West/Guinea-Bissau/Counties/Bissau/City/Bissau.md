@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/City/Bissau.md|Bissau]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/City/Bissau.internal.md|Bissau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/City/Bissau.protect.md|Bissau.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/City/Bissau.private.md|Bissau.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/City/Bissau.personal.md|Bissau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/City/Bissau.secret.md|Bissau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/City/Bissau.internal|Bissau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/City/Bissau.protect|Bissau.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/City/Bissau.private|Bissau.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/City/Bissau.personal|Bissau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/City/Bissau.secret|Bissau.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.md|Annapolis]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.internal.md|Annapolis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.protect.md|Annapolis.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.private.md|Annapolis.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.personal.md|Annapolis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.secret.md|Annapolis.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.internal|Annapolis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.protect|Annapolis.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.private|Annapolis.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.personal|Annapolis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.secret|Annapolis.secret]] 

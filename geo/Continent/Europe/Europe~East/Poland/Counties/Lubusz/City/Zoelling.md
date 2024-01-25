@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zoelling.md|Zoelling]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zoelling.internal.md|Zoelling.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zoelling.protect.md|Zoelling.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zoelling.private.md|Zoelling.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zoelling.personal.md|Zoelling.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zoelling.secret.md|Zoelling.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zoelling.internal|Zoelling.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zoelling.protect|Zoelling.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zoelling.private|Zoelling.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zoelling.personal|Zoelling.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zoelling.secret|Zoelling.secret]] 

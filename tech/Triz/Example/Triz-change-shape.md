@@ -18,8 +18,8 @@ Change from circular O-rings to oval cross-section to specialized shapes to impr
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-change-shape.md|Triz-change-shape]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-change-shape.internal.md|Triz-change-shape.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-change-shape.protect.md|Triz-change-shape.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-change-shape.private.md|Triz-change-shape.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-change-shape.personal.md|Triz-change-shape.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-change-shape.secret.md|Triz-change-shape.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-change-shape.internal|Triz-change-shape.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-change-shape.protect|Triz-change-shape.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-change-shape.private|Triz-change-shape.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-change-shape.personal|Triz-change-shape.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-change-shape.secret|Triz-change-shape.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Yoobsu.md|Yoobsu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yoobsu.internal.md|Yoobsu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yoobsu.protect.md|Yoobsu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yoobsu.private.md|Yoobsu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Yoobsu.personal.md|Yoobsu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Yoobsu.secret.md|Yoobsu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yoobsu.internal|Yoobsu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yoobsu.protect|Yoobsu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yoobsu.private|Yoobsu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Yoobsu.personal|Yoobsu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Yoobsu.secret|Yoobsu.secret]] 

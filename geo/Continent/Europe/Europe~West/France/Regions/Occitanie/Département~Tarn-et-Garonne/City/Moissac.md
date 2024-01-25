@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Moissac.md|Moissac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Moissac.internal.md|Moissac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Moissac.protect.md|Moissac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Moissac.private.md|Moissac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Moissac.personal.md|Moissac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Moissac.secret.md|Moissac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Moissac.internal|Moissac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Moissac.protect|Moissac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Moissac.private|Moissac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Moissac.personal|Moissac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Moissac.secret|Moissac.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Changing_the_color-Power]
 [SpocWebEntityId::23891]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.md|Triz-Stability+Changing_the_color-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.internal.md|Triz-Stability+Changing_the_color-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.protect.md|Triz-Stability+Changing_the_color-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.private.md|Triz-Stability+Changing_the_color-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.personal.md|Triz-Stability+Changing_the_color-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.secret.md|Triz-Stability+Changing_the_color-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.internal|Triz-Stability+Changing_the_color-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.protect|Triz-Stability+Changing_the_color-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.private|Triz-Stability+Changing_the_color-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.personal|Triz-Stability+Changing_the_color-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.secret|Triz-Stability+Changing_the_color-Power.secret]] 

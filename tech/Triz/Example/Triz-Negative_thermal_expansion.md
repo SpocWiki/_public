@@ -18,8 +18,8 @@ Water expands when frozen, unlike most other Liquids. Hannibal is reputed to hav
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Negative_thermal_expansion.md|Triz-Negative_thermal_expansion]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Negative_thermal_expansion.internal.md|Triz-Negative_thermal_expansion.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Negative_thermal_expansion.protect.md|Triz-Negative_thermal_expansion.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Negative_thermal_expansion.private.md|Triz-Negative_thermal_expansion.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Negative_thermal_expansion.personal.md|Triz-Negative_thermal_expansion.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Negative_thermal_expansion.secret.md|Triz-Negative_thermal_expansion.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Negative_thermal_expansion.internal|Triz-Negative_thermal_expansion.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Negative_thermal_expansion.protect|Triz-Negative_thermal_expansion.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Negative_thermal_expansion.private|Triz-Negative_thermal_expansion.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Negative_thermal_expansion.personal|Triz-Negative_thermal_expansion.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Negative_thermal_expansion.secret|Triz-Negative_thermal_expansion.secret]] 

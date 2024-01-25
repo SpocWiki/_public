@@ -127,8 +127,8 @@ markerFolder: ./Guernsey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Guernsey.md|Guernsey]] 
-- [[../../../../_internal/geo/Continent/Europe/Guernsey.internal.md|Guernsey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Guernsey.protect.md|Guernsey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Guernsey.private.md|Guernsey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Guernsey.personal.md|Guernsey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Guernsey.secret.md|Guernsey.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Guernsey.internal|Guernsey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Guernsey.protect|Guernsey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Guernsey.private|Guernsey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Guernsey.personal|Guernsey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Guernsey.secret|Guernsey.secret]] 

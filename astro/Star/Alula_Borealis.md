@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alula_Borealis.md|Alula_Borealis]] 
-- [[../../../_internal/astro/Star/Alula_Borealis.internal.md|Alula_Borealis.internal]] 
-- [[../../../_protect/astro/Star/Alula_Borealis.protect.md|Alula_Borealis.protect]] 
-- [[../../../_private/astro/Star/Alula_Borealis.private.md|Alula_Borealis.private]] 
-- [[../../../_personal/astro/Star/Alula_Borealis.personal.md|Alula_Borealis.personal]] 
-- [[../../../_secret/astro/Star/Alula_Borealis.secret.md|Alula_Borealis.secret]]
+- [[../../../_internal/astro/Star/Alula_Borealis.internal|Alula_Borealis.internal]] 
+- [[../../../_protect/astro/Star/Alula_Borealis.protect|Alula_Borealis.protect]] 
+- [[../../../_private/astro/Star/Alula_Borealis.private|Alula_Borealis.private]] 
+- [[../../../_personal/astro/Star/Alula_Borealis.personal|Alula_Borealis.personal]] 
+- [[../../../_secret/astro/Star/Alula_Borealis.secret|Alula_Borealis.secret]]
 

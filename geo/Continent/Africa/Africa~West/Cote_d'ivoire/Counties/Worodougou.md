@@ -41,9 +41,9 @@ markerFolder: ./Worodougou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.md|Worodougou]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.internal.md|Worodougou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.protect.md|Worodougou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.private.md|Worodougou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.personal.md|Worodougou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.secret.md|Worodougou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.internal|Worodougou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.protect|Worodougou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.private|Worodougou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.personal|Worodougou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.secret|Worodougou.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ivanovo.md|Ivanovo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ivanovo.internal.md|Ivanovo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ivanovo.protect.md|Ivanovo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ivanovo.private.md|Ivanovo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ivanovo.personal.md|Ivanovo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ivanovo.secret.md|Ivanovo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ivanovo.internal|Ivanovo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ivanovo.protect|Ivanovo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ivanovo.private|Ivanovo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ivanovo.personal|Ivanovo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ivanovo.secret|Ivanovo.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southampton.md|Southampton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southampton.internal.md|Southampton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southampton.protect.md|Southampton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southampton.private.md|Southampton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southampton.personal.md|Southampton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southampton.secret.md|Southampton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southampton.internal|Southampton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southampton.protect|Southampton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southampton.private|Southampton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southampton.personal|Southampton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southampton.secret|Southampton.secret]] 

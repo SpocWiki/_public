@@ -41,9 +41,9 @@ markerFolder: ./Département~Pas-de-Calais/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.md|Département~Pas-de-Calais]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.internal.md|Département~Pas-de-Calais.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.protect.md|Département~Pas-de-Calais.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.private.md|Département~Pas-de-Calais.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.personal.md|Département~Pas-de-Calais.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.secret.md|Département~Pas-de-Calais.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.internal|Département~Pas-de-Calais.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.protect|Département~Pas-de-Calais.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.private|Département~Pas-de-Calais.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.personal|Département~Pas-de-Calais.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Pas-de-Calais.secret|Département~Pas-de-Calais.secret]] 
 

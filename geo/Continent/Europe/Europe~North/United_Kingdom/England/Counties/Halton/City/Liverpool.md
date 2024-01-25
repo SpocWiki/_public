@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Liverpool.md|Liverpool]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Liverpool.internal.md|Liverpool.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Liverpool.protect.md|Liverpool.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Liverpool.private.md|Liverpool.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Liverpool.personal.md|Liverpool.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Liverpool.secret.md|Liverpool.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Liverpool.internal|Liverpool.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Liverpool.protect|Liverpool.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Liverpool.private|Liverpool.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Liverpool.personal|Liverpool.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Liverpool.secret|Liverpool.secret]] 

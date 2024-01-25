@@ -41,9 +41,9 @@ markerFolder: ./Kraslavas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Kraslavas.md|Kraslavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kraslavas.internal.md|Kraslavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kraslavas.protect.md|Kraslavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kraslavas.private.md|Kraslavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kraslavas.personal.md|Kraslavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kraslavas.secret.md|Kraslavas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kraslavas.internal|Kraslavas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kraslavas.protect|Kraslavas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kraslavas.private|Kraslavas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kraslavas.personal|Kraslavas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kraslavas.secret|Kraslavas.secret]] 
 

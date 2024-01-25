@@ -41,9 +41,9 @@ markerFolder: ./Davao_del_Sur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.md|Davao_del_Sur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.internal.md|Davao_del_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.protect.md|Davao_del_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.private.md|Davao_del_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.personal.md|Davao_del_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.secret.md|Davao_del_Sur.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.internal|Davao_del_Sur.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.protect|Davao_del_Sur.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.private|Davao_del_Sur.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.personal|Davao_del_Sur.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.secret|Davao_del_Sur.secret]] 
 

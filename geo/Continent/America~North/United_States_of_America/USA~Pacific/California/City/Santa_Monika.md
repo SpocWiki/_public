@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.md|Santa_Monika]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.internal.md|Santa_Monika.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.protect.md|Santa_Monika.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.private.md|Santa_Monika.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.personal.md|Santa_Monika.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.secret.md|Santa_Monika.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.internal|Santa_Monika.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.protect|Santa_Monika.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.private|Santa_Monika.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.personal|Santa_Monika.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.secret|Santa_Monika.secret]] 

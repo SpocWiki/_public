@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Caserta.City.md|Caserta.City]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Caserta.City.internal.md|Caserta.City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Caserta.City.protect.md|Caserta.City.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Caserta.City.private.md|Caserta.City.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Caserta.City.personal.md|Caserta.City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Caserta.City.secret.md|Caserta.City.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Caserta.City.internal|Caserta.City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Caserta.City.protect|Caserta.City.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Caserta.City.private|Caserta.City.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Caserta.City.personal|Caserta.City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Caserta.City.secret|Caserta.City.secret]] 

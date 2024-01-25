@@ -41,9 +41,9 @@ markerFolder: ./Thurrock/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.md|Thurrock]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.internal.md|Thurrock.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.protect.md|Thurrock.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.private.md|Thurrock.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.personal.md|Thurrock.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.secret.md|Thurrock.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.internal|Thurrock.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.protect|Thurrock.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.private|Thurrock.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.personal|Thurrock.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Thurrock.secret|Thurrock.secret]] 
 

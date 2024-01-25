@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Fischhausen.md|Fischhausen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Fischhausen.internal.md|Fischhausen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Fischhausen.protect.md|Fischhausen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Fischhausen.private.md|Fischhausen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Fischhausen.personal.md|Fischhausen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Fischhausen.secret.md|Fischhausen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Fischhausen.internal|Fischhausen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Fischhausen.protect|Fischhausen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Fischhausen.private|Fischhausen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Fischhausen.personal|Fischhausen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Fischhausen.secret|Fischhausen.secret]] 

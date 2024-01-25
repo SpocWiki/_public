@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Lannaskede.md|Lannaskede]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lannaskede.internal.md|Lannaskede.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lannaskede.protect.md|Lannaskede.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lannaskede.private.md|Lannaskede.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lannaskede.personal.md|Lannaskede.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lannaskede.secret.md|Lannaskede.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lannaskede.internal|Lannaskede.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lannaskede.protect|Lannaskede.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lannaskede.private|Lannaskede.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lannaskede.personal|Lannaskede.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lannaskede.secret|Lannaskede.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Piano_di_Sorento.md|Piano_di_Sorento]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piano_di_Sorento.internal.md|Piano_di_Sorento.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piano_di_Sorento.protect.md|Piano_di_Sorento.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piano_di_Sorento.private.md|Piano_di_Sorento.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piano_di_Sorento.personal.md|Piano_di_Sorento.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piano_di_Sorento.secret.md|Piano_di_Sorento.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piano_di_Sorento.internal|Piano_di_Sorento.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piano_di_Sorento.protect|Piano_di_Sorento.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piano_di_Sorento.private|Piano_di_Sorento.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piano_di_Sorento.personal|Piano_di_Sorento.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piano_di_Sorento.secret|Piano_di_Sorento.secret]] 

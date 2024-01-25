@@ -41,9 +41,9 @@ markerFolder: ./Krško/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.md|Krško]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.internal.md|Krško.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.protect.md|Krško.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.private.md|Krško.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.personal.md|Krško.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.secret.md|Krško.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.internal|Krško.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.protect|Krško.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.private|Krško.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.personal|Krško.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Krško.secret|Krško.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Koror/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Koror.md|Koror]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Koror.internal.md|Koror.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Koror.protect.md|Koror.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Koror.private.md|Koror.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Koror.personal.md|Koror.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Koror.secret.md|Koror.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Koror.internal|Koror.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Koror.protect|Koror.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Koror.private|Koror.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Koror.personal|Koror.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Koror.secret|Koror.secret]] 
 

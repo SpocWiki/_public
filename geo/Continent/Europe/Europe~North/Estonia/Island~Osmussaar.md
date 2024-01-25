@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Island~Osmussaar|Island~Osmussaar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Osmussaar.internal.md|Osmussaar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Osmussaar.protect.md|Osmussaar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Osmussaar.private.md|Osmussaar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Osmussaar.personal.md|Osmussaar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Osmussaar.secret.md|Osmussaar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Osmussaar.internal|Osmussaar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Osmussaar.protect|Osmussaar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Osmussaar.private|Osmussaar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Osmussaar.personal|Osmussaar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Osmussaar.secret|Osmussaar.secret]] 

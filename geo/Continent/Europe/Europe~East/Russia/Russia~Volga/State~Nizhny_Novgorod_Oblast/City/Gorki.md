@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gorki.md|Gorki]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gorki.internal.md|Gorki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gorki.protect.md|Gorki.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gorki.private.md|Gorki.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gorki.personal.md|Gorki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gorki.secret.md|Gorki.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gorki.internal|Gorki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gorki.protect|Gorki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gorki.private|Gorki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gorki.personal|Gorki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gorki.secret|Gorki.secret]] 

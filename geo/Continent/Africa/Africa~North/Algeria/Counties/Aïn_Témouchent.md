@@ -41,9 +41,9 @@ markerFolder: ./Aïn_Témouchent/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.md|Aïn_Témouchent]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.internal.md|Aïn_Témouchent.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.protect.md|Aïn_Témouchent.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.private.md|Aïn_Témouchent.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.personal.md|Aïn_Témouchent.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.secret.md|Aïn_Témouchent.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.internal|Aïn_Témouchent.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.protect|Aïn_Témouchent.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.private|Aïn_Témouchent.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.personal|Aïn_Témouchent.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.secret|Aïn_Témouchent.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Santarem.md|Santarem]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Santarem.internal.md|Santarem.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Santarem.protect.md|Santarem.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Santarem.private.md|Santarem.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Santarem.personal.md|Santarem.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Santarem.secret.md|Santarem.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Santarem.internal|Santarem.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Santarem.protect|Santarem.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Santarem.private|Santarem.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Santarem.personal|Santarem.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Santarem.secret|Santarem.secret]] 

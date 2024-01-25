@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cremella.md|Cremella]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cremella.internal.md|Cremella.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cremella.protect.md|Cremella.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cremella.private.md|Cremella.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cremella.personal.md|Cremella.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cremella.secret.md|Cremella.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cremella.internal|Cremella.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cremella.protect|Cremella.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cremella.private|Cremella.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cremella.personal|Cremella.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cremella.secret|Cremella.secret]] 

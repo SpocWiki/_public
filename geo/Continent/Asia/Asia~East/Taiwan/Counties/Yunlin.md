@@ -41,9 +41,9 @@ markerFolder: ./Yunlin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.md|Yunlin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.internal.md|Yunlin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.protect.md|Yunlin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.private.md|Yunlin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.personal.md|Yunlin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.secret.md|Yunlin.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.internal|Yunlin.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.protect|Yunlin.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.private|Yunlin.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.personal|Yunlin.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.secret|Yunlin.secret]] 
 

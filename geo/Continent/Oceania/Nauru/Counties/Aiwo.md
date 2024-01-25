@@ -41,9 +41,9 @@ markerFolder: ./Aiwo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Aiwo.md|Aiwo]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Aiwo.internal.md|Aiwo.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Aiwo.protect.md|Aiwo.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Aiwo.private.md|Aiwo.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Aiwo.personal.md|Aiwo.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Aiwo.secret.md|Aiwo.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Aiwo.internal|Aiwo.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Aiwo.protect|Aiwo.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Aiwo.private|Aiwo.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Aiwo.personal|Aiwo.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Aiwo.secret|Aiwo.secret]] 
 

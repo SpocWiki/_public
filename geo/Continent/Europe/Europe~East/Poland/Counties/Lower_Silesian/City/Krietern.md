@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Krietern.md|Krietern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krietern.internal.md|Krietern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krietern.protect.md|Krietern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krietern.private.md|Krietern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krietern.personal.md|Krietern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krietern.secret.md|Krietern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krietern.internal|Krietern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krietern.protect|Krietern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krietern.private|Krietern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krietern.personal|Krietern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krietern.secret|Krietern.secret]] 

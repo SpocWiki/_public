@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pello.md|Pello]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pello.internal.md|Pello.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pello.protect.md|Pello.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pello.private.md|Pello.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pello.personal.md|Pello.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pello.secret.md|Pello.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pello.internal|Pello.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pello.protect|Pello.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pello.private|Pello.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pello.personal|Pello.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pello.secret|Pello.secret]] 

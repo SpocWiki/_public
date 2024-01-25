@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Montfort.md|Montfort]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montfort.internal.md|Montfort.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montfort.protect.md|Montfort.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Montfort.private.md|Montfort.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montfort.personal.md|Montfort.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montfort.secret.md|Montfort.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montfort.internal|Montfort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montfort.protect|Montfort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montfort.private|Montfort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montfort.personal|Montfort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montfort.secret|Montfort.secret]] 

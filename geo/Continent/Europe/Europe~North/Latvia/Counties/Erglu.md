@@ -41,9 +41,9 @@ markerFolder: ./Erglu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Erglu.md|Erglu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Erglu.internal.md|Erglu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Erglu.protect.md|Erglu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Erglu.private.md|Erglu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Erglu.personal.md|Erglu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Erglu.secret.md|Erglu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Erglu.internal|Erglu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Erglu.protect|Erglu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Erglu.private|Erglu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Erglu.personal|Erglu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Erglu.secret|Erglu.secret]] 
 

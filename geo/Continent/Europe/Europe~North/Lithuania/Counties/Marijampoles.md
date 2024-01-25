@@ -41,9 +41,9 @@ markerFolder: ./Marijampoles/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Marijampoles.md|Marijampoles]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Marijampoles.internal.md|Marijampoles.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Marijampoles.protect.md|Marijampoles.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Marijampoles.private.md|Marijampoles.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Marijampoles.personal.md|Marijampoles.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Marijampoles.secret.md|Marijampoles.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Marijampoles.internal|Marijampoles.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Marijampoles.protect|Marijampoles.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Marijampoles.private|Marijampoles.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Marijampoles.personal|Marijampoles.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Marijampoles.secret|Marijampoles.secret]] 
 

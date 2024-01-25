@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Hadersleben.md|Hadersleben]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Hadersleben.internal.md|Hadersleben.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Hadersleben.protect.md|Hadersleben.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Hadersleben.private.md|Hadersleben.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Hadersleben.personal.md|Hadersleben.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Hadersleben.secret.md|Hadersleben.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Hadersleben.internal|Hadersleben.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Hadersleben.protect|Hadersleben.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Hadersleben.private|Hadersleben.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Hadersleben.personal|Hadersleben.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Hadersleben.secret|Hadersleben.secret]] 

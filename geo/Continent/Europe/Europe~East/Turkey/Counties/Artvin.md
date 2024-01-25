@@ -41,9 +41,9 @@ markerFolder: ./Artvin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Artvin.md|Artvin]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Artvin.internal.md|Artvin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Artvin.protect.md|Artvin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Artvin.private.md|Artvin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Artvin.personal.md|Artvin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Artvin.secret.md|Artvin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Artvin.internal|Artvin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Artvin.protect|Artvin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Artvin.private|Artvin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Artvin.personal|Artvin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Artvin.secret|Artvin.secret]] 
 

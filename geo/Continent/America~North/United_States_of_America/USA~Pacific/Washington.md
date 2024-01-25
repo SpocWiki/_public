@@ -38,8 +38,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Washington.md|Washington]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington.internal.md|Washington.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington.protect.md|Washington.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington.private.md|Washington.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington.personal.md|Washington.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington.secret.md|Washington.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington.internal|Washington.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington.protect|Washington.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington.private|Washington.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington.personal|Washington.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington.secret|Washington.secret]] 

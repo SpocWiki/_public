@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Liperi.md|Liperi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Liperi.internal.md|Liperi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Liperi.protect.md|Liperi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Liperi.private.md|Liperi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Liperi.personal.md|Liperi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Liperi.secret.md|Liperi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Liperi.internal|Liperi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Liperi.protect|Liperi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Liperi.private|Liperi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Liperi.personal|Liperi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Liperi.secret|Liperi.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Rundales/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Rundales.md|Rundales]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rundales.internal.md|Rundales.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rundales.protect.md|Rundales.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rundales.private.md|Rundales.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rundales.personal.md|Rundales.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rundales.secret.md|Rundales.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rundales.internal|Rundales.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rundales.protect|Rundales.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rundales.private|Rundales.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rundales.personal|Rundales.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rundales.secret|Rundales.secret]] 
 

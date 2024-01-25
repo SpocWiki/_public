@@ -41,9 +41,9 @@ markerFolder: ./Département~Hauts-de-Seine/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.md|Département~Hauts-de-Seine]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.internal.md|Département~Hauts-de-Seine.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.protect.md|Département~Hauts-de-Seine.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.private.md|Département~Hauts-de-Seine.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.personal.md|Département~Hauts-de-Seine.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.secret.md|Département~Hauts-de-Seine.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.internal|Département~Hauts-de-Seine.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.protect|Département~Hauts-de-Seine.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.private|Département~Hauts-de-Seine.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.personal|Département~Hauts-de-Seine.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Hauts-de-Seine.secret|Département~Hauts-de-Seine.secret]] 
 

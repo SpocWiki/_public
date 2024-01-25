@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Umago.md|Umago]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Umago.internal.md|Umago.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Umago.protect.md|Umago.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Umago.private.md|Umago.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Umago.personal.md|Umago.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Umago.secret.md|Umago.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Umago.internal|Umago.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Umago.protect|Umago.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Umago.private|Umago.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Umago.personal|Umago.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Umago.secret|Umago.secret]] 

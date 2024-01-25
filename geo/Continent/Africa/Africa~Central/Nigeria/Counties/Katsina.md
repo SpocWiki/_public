@@ -41,9 +41,9 @@ markerFolder: ./Katsina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Katsina.md|Katsina]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Katsina.internal.md|Katsina.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Katsina.protect.md|Katsina.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Katsina.private.md|Katsina.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Katsina.personal.md|Katsina.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Katsina.secret.md|Katsina.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Katsina.internal|Katsina.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Katsina.protect|Katsina.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Katsina.private|Katsina.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Katsina.personal|Katsina.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Katsina.secret|Katsina.secret]] 
 

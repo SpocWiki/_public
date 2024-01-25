@@ -41,9 +41,9 @@ markerFolder: ./Sannat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Sannat.md|Sannat]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Sannat.internal.md|Sannat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Sannat.protect.md|Sannat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Sannat.private.md|Sannat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Sannat.personal.md|Sannat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Sannat.secret.md|Sannat.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Sannat.internal|Sannat.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Sannat.protect|Sannat.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Sannat.private|Sannat.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Sannat.personal|Sannat.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Sannat.secret|Sannat.secret]] 
 

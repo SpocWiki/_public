@@ -41,9 +41,9 @@ markerFolder: ./Le_Kef/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Le_Kef.md|Le_Kef]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Le_Kef.internal.md|Le_Kef.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Le_Kef.protect.md|Le_Kef.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Le_Kef.private.md|Le_Kef.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Le_Kef.personal.md|Le_Kef.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Le_Kef.secret.md|Le_Kef.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Le_Kef.internal|Le_Kef.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Le_Kef.protect|Le_Kef.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Le_Kef.private|Le_Kef.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Le_Kef.personal|Le_Kef.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Le_Kef.secret|Le_Kef.secret]] 
 

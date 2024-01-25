@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Memmelsdorf~Oberfranken|Memmelsdorf~Oberfranken]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.internal.md|Memmelsdorf~Oberfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.protect.md|Memmelsdorf~Oberfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.private.md|Memmelsdorf~Oberfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.personal.md|Memmelsdorf~Oberfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.secret.md|Memmelsdorf~Oberfranken.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.internal|Memmelsdorf~Oberfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.protect|Memmelsdorf~Oberfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.private|Memmelsdorf~Oberfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.personal|Memmelsdorf~Oberfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.secret|Memmelsdorf~Oberfranken.secret]] 

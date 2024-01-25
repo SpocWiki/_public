@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Inversion-Reliability]
 [SpocWebEntityId::26365]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.md|Triz-Complexity+Inversion-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.internal.md|Triz-Complexity+Inversion-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.protect.md|Triz-Complexity+Inversion-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.private.md|Triz-Complexity+Inversion-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.personal.md|Triz-Complexity+Inversion-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.secret.md|Triz-Complexity+Inversion-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.internal|Triz-Complexity+Inversion-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.protect|Triz-Complexity+Inversion-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.private|Triz-Complexity+Inversion-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.personal|Triz-Complexity+Inversion-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.secret|Triz-Complexity+Inversion-Reliability.secret]] 

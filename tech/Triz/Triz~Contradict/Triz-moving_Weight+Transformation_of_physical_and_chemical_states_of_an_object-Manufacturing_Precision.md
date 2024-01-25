@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision]
 [SpocWebEntityId::22653]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.md|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.internal.md|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.protect.md|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.private.md|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.personal.md|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.secret.md|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.internal|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.protect|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.private|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.personal|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.secret|Triz-moving_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Manufacturing_Precision.secret]] 

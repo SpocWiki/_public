@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Equuleus.md|Zodiac~Equuleus]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Equuleus.internal.md|Zodiac~Equuleus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Equuleus.protect.md|Zodiac~Equuleus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Equuleus.private.md|Zodiac~Equuleus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Equuleus.personal.md|Zodiac~Equuleus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Equuleus.secret.md|Zodiac~Equuleus.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Equuleus.internal|Zodiac~Equuleus.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Equuleus.protect|Zodiac~Equuleus.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Equuleus.private|Zodiac~Equuleus.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Equuleus.personal|Zodiac~Equuleus.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Equuleus.secret|Zodiac~Equuleus.secret]] 

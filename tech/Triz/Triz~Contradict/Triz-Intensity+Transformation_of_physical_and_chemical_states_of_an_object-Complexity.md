@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity]
 [SpocWebEntityId::23589]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.personal.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.secret.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.personal|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.secret|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.secret]] 

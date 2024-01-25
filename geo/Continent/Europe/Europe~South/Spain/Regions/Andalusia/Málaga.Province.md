@@ -41,9 +41,9 @@ markerFolder: ./Málaga.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.md|Málaga.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.internal.md|Málaga.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.protect.md|Málaga.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.private.md|Málaga.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.personal.md|Málaga.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.secret.md|Málaga.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.internal|Málaga.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.protect|Málaga.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.private|Málaga.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.personal|Málaga.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Málaga.Province.secret|Málaga.Province.secret]] 
 

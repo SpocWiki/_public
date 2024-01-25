@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.md|Dallas]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.internal.md|Dallas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.protect.md|Dallas.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.private.md|Dallas.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.personal.md|Dallas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.secret.md|Dallas.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.internal|Dallas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.protect|Dallas.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.private|Dallas.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.personal|Dallas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.secret|Dallas.secret]] 

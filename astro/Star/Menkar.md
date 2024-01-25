@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Menkar.md|Menkar]] 
-- [[../../../_internal/astro/Star/Menkar.internal.md|Menkar.internal]] 
-- [[../../../_protect/astro/Star/Menkar.protect.md|Menkar.protect]] 
-- [[../../../_private/astro/Star/Menkar.private.md|Menkar.private]] 
-- [[../../../_personal/astro/Star/Menkar.personal.md|Menkar.personal]] 
-- [[../../../_secret/astro/Star/Menkar.secret.md|Menkar.secret]] 
+- [[../../../_internal/astro/Star/Menkar.internal|Menkar.internal]] 
+- [[../../../_protect/astro/Star/Menkar.protect|Menkar.protect]] 
+- [[../../../_private/astro/Star/Menkar.private|Menkar.private]] 
+- [[../../../_personal/astro/Star/Menkar.personal|Menkar.personal]] 
+- [[../../../_secret/astro/Star/Menkar.secret|Menkar.secret]] 

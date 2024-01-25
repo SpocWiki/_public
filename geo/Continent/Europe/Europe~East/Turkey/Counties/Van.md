@@ -41,9 +41,9 @@ markerFolder: ./Van/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Van.md|Van]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Van.internal.md|Van.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Van.protect.md|Van.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Van.private.md|Van.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Van.personal.md|Van.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Van.secret.md|Van.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Van.internal|Van.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Van.protect|Van.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Van.private|Van.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Van.personal|Van.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Van.secret|Van.secret]] 
 

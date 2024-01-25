@@ -41,9 +41,9 @@ markerFolder: ./Vieux_Fort/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.md|Vieux_Fort]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.internal.md|Vieux_Fort.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.protect.md|Vieux_Fort.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.private.md|Vieux_Fort.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.personal.md|Vieux_Fort.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.secret.md|Vieux_Fort.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.internal|Vieux_Fort.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.protect|Vieux_Fort.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.private|Vieux_Fort.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.personal|Vieux_Fort.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Vieux_Fort.secret|Vieux_Fort.secret]] 
 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Capricorni-3.md|Capricorni-3]] 
-- [[../../../_internal/astro/Star/Capricorni-3.internal.md|Capricorni-3.internal]] 
-- [[../../../_protect/astro/Star/Capricorni-3.protect.md|Capricorni-3.protect]] 
-- [[../../../_private/astro/Star/Capricorni-3.private.md|Capricorni-3.private]] 
-- [[../../../_personal/astro/Star/Capricorni-3.personal.md|Capricorni-3.personal]] 
-- [[../../../_secret/astro/Star/Capricorni-3.secret.md|Capricorni-3.secret]]
+- [[../../../_internal/astro/Star/Capricorni-3.internal|Capricorni-3.internal]] 
+- [[../../../_protect/astro/Star/Capricorni-3.protect|Capricorni-3.protect]] 
+- [[../../../_private/astro/Star/Capricorni-3.private|Capricorni-3.private]] 
+- [[../../../_personal/astro/Star/Capricorni-3.personal|Capricorni-3.personal]] 
+- [[../../../_secret/astro/Star/Capricorni-3.secret|Capricorni-3.secret]]
 

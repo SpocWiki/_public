@@ -41,9 +41,9 @@ markerFolder: ./Giresun/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Giresun.md|Giresun]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Giresun.internal.md|Giresun.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Giresun.protect.md|Giresun.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Giresun.private.md|Giresun.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Giresun.personal.md|Giresun.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Giresun.secret.md|Giresun.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Giresun.internal|Giresun.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Giresun.protect|Giresun.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Giresun.private|Giresun.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Giresun.personal|Giresun.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Giresun.secret|Giresun.secret]] 
 

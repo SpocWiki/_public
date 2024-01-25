@@ -41,9 +41,9 @@ markerFolder: ./Bromley/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.md|Bromley]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.internal.md|Bromley.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.protect.md|Bromley.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.private.md|Bromley.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.personal.md|Bromley.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.secret.md|Bromley.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.internal|Bromley.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.protect|Bromley.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.private|Bromley.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.personal|Bromley.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.secret|Bromley.secret]] 
 

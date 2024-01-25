@@ -18,8 +18,8 @@ Handle of a toothbrush contains toothpaste
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Tool-reservoir.md|Triz-Tool-reservoir]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Tool-reservoir.internal.md|Triz-Tool-reservoir.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Tool-reservoir.protect.md|Triz-Tool-reservoir.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Tool-reservoir.private.md|Triz-Tool-reservoir.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Tool-reservoir.personal.md|Triz-Tool-reservoir.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Tool-reservoir.secret.md|Triz-Tool-reservoir.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Tool-reservoir.internal|Triz-Tool-reservoir.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Tool-reservoir.protect|Triz-Tool-reservoir.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Tool-reservoir.private|Triz-Tool-reservoir.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Tool-reservoir.personal|Triz-Tool-reservoir.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Tool-reservoir.secret|Triz-Tool-reservoir.secret]] 

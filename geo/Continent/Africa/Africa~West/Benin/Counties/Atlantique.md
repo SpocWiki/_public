@@ -41,9 +41,9 @@ markerFolder: ./Atlantique/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Benin/Counties/Atlantique.md|Atlantique]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Atlantique.internal.md|Atlantique.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Atlantique.protect.md|Atlantique.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Atlantique.private.md|Atlantique.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Atlantique.personal.md|Atlantique.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Atlantique.secret.md|Atlantique.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Atlantique.internal|Atlantique.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Atlantique.protect|Atlantique.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Atlantique.private|Atlantique.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Atlantique.personal|Atlantique.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Atlantique.secret|Atlantique.secret]] 
 

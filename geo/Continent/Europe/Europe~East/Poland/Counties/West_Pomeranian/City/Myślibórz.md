@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Myślibórz.md|Myślibórz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Myślibórz.internal.md|Myślibórz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Myślibórz.protect.md|Myślibórz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Myślibórz.private.md|Myślibórz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Myślibórz.personal.md|Myślibórz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Myślibórz.secret.md|Myślibórz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Myślibórz.internal|Myślibórz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Myślibórz.protect|Myślibórz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Myślibórz.private|Myślibórz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Myślibórz.personal|Myślibórz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Myślibórz.secret|Myślibórz.secret]] 

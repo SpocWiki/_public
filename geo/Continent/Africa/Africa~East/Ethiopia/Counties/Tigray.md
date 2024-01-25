@@ -41,9 +41,9 @@ markerFolder: ./Tigray/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Tigray.md|Tigray]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Tigray.internal.md|Tigray.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Tigray.protect.md|Tigray.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Tigray.private.md|Tigray.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Tigray.personal.md|Tigray.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Tigray.secret.md|Tigray.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Tigray.internal|Tigray.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Tigray.protect|Tigray.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Tigray.private|Tigray.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Tigray.personal|Tigray.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Tigray.secret|Tigray.secret]] 
 

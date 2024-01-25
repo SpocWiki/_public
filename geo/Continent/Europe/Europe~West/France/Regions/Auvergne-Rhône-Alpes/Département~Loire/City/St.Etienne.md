@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Etienne.md|St.Etienne]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Etienne.internal.md|St.Etienne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Etienne.protect.md|St.Etienne.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Etienne.private.md|St.Etienne.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Etienne.personal.md|St.Etienne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Etienne.secret.md|St.Etienne.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Etienne.internal|St.Etienne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Etienne.protect|St.Etienne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Etienne.private|St.Etienne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Etienne.personal|St.Etienne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Etienne.secret|St.Etienne.secret]] 

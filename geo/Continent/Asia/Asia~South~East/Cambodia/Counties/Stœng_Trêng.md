@@ -41,9 +41,9 @@ markerFolder: ./Stœng_Trêng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.md|Stœng_Trêng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.internal.md|Stœng_Trêng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.protect.md|Stœng_Trêng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.private.md|Stœng_Trêng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.personal.md|Stœng_Trêng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.secret.md|Stœng_Trêng.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.internal|Stœng_Trêng.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.protect|Stœng_Trêng.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.private|Stœng_Trêng.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.personal|Stœng_Trêng.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Stœng_Trêng.secret|Stœng_Trêng.secret]] 
 

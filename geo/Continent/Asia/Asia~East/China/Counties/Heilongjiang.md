@@ -41,9 +41,9 @@ markerFolder: ./Heilongjiang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.md|Heilongjiang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.internal.md|Heilongjiang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.protect.md|Heilongjiang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.private.md|Heilongjiang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.personal.md|Heilongjiang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.secret.md|Heilongjiang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.internal|Heilongjiang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.protect|Heilongjiang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.private|Heilongjiang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.personal|Heilongjiang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Heilongjiang.secret|Heilongjiang.secret]] 
 

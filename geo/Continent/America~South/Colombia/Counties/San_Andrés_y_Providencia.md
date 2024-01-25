@@ -41,9 +41,9 @@ markerFolder: ./San_Andrés_y_Providencia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.md|San_Andrés_y_Providencia]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.internal.md|San_Andrés_y_Providencia.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.protect.md|San_Andrés_y_Providencia.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.private.md|San_Andrés_y_Providencia.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.personal.md|San_Andrés_y_Providencia.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.secret.md|San_Andrés_y_Providencia.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.internal|San_Andrés_y_Providencia.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.protect|San_Andrés_y_Providencia.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.private|San_Andrés_y_Providencia.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.personal|San_Andrés_y_Providencia.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/San_Andrés_y_Providencia.secret|San_Andrés_y_Providencia.secret]] 
 

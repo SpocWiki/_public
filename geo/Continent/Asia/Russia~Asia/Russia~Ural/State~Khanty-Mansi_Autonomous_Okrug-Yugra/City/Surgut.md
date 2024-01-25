@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Surgut.md|Surgut]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Surgut.internal.md|Surgut.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Surgut.protect.md|Surgut.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Surgut.private.md|Surgut.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Surgut.personal.md|Surgut.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Surgut.secret.md|Surgut.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Surgut.internal|Surgut.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Surgut.protect|Surgut.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Surgut.private|Surgut.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Surgut.personal|Surgut.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Surgut.secret|Surgut.secret]] 

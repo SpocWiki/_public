@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Besancon.md|Besancon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Besancon.internal.md|Besancon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Besancon.protect.md|Besancon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Besancon.private.md|Besancon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Besancon.personal.md|Besancon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Besancon.secret.md|Besancon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Besancon.internal|Besancon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Besancon.protect|Besancon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Besancon.private|Besancon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Besancon.personal|Besancon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Besancon.secret|Besancon.secret]] 

@@ -18,8 +18,8 @@ Use Laser Pulses to process Material and Surfaces without affecting it. (also Pr
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Laser_Pulses.md|Triz-Laser_Pulses]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Laser_Pulses.internal.md|Triz-Laser_Pulses.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Laser_Pulses.protect.md|Triz-Laser_Pulses.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Laser_Pulses.private.md|Triz-Laser_Pulses.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Laser_Pulses.personal.md|Triz-Laser_Pulses.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Laser_Pulses.secret.md|Triz-Laser_Pulses.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Laser_Pulses.internal|Triz-Laser_Pulses.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Laser_Pulses.protect|Triz-Laser_Pulses.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Laser_Pulses.private|Triz-Laser_Pulses.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Laser_Pulses.personal|Triz-Laser_Pulses.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Laser_Pulses.secret|Triz-Laser_Pulses.secret]] 

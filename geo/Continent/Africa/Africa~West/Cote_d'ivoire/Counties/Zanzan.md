@@ -41,9 +41,9 @@ markerFolder: ./Zanzan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.md|Zanzan]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.internal.md|Zanzan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.protect.md|Zanzan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.private.md|Zanzan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.personal.md|Zanzan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.secret.md|Zanzan.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.internal|Zanzan.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.protect|Zanzan.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.private|Zanzan.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.personal|Zanzan.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.secret|Zanzan.secret]] 
 

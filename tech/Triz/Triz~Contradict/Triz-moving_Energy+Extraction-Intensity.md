@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Extraction-Intensity]
 [SpocWebEntityId::24457]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.md|Triz-moving_Energy+Extraction-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.internal.md|Triz-moving_Energy+Extraction-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.protect.md|Triz-moving_Energy+Extraction-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.private.md|Triz-moving_Energy+Extraction-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.personal.md|Triz-moving_Energy+Extraction-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.secret.md|Triz-moving_Energy+Extraction-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.internal|Triz-moving_Energy+Extraction-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.protect|Triz-moving_Energy+Extraction-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.private|Triz-moving_Energy+Extraction-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.personal|Triz-moving_Energy+Extraction-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Intensity.secret|Triz-moving_Energy+Extraction-Intensity.secret]] 

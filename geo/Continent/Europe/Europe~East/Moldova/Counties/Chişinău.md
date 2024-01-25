@@ -41,9 +41,9 @@ markerFolder: ./Chişinău/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Chişinău.md|Chişinău]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Chişinău.internal.md|Chişinău.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Chişinău.protect.md|Chişinău.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Chişinău.private.md|Chişinău.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Chişinău.personal.md|Chişinău.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Chişinău.secret.md|Chişinău.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Chişinău.internal|Chişinău.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Chişinău.protect|Chişinău.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Chişinău.private|Chişinău.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Chişinău.personal|Chişinău.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Chişinău.secret|Chişinău.secret]] 
 

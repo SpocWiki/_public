@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Novadoniskaia.md|Novadoniskaia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Novadoniskaia.internal.md|Novadoniskaia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Novadoniskaia.protect.md|Novadoniskaia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Novadoniskaia.private.md|Novadoniskaia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Novadoniskaia.personal.md|Novadoniskaia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Novadoniskaia.secret.md|Novadoniskaia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Novadoniskaia.internal|Novadoniskaia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Novadoniskaia.protect|Novadoniskaia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Novadoniskaia.private|Novadoniskaia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Novadoniskaia.personal|Novadoniskaia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Novadoniskaia.secret|Novadoniskaia.secret]] 

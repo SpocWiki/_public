@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sulkava.md|Sulkava]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sulkava.internal.md|Sulkava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sulkava.protect.md|Sulkava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sulkava.private.md|Sulkava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sulkava.personal.md|Sulkava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sulkava.secret.md|Sulkava.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sulkava.internal|Sulkava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sulkava.protect|Sulkava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sulkava.private|Sulkava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sulkava.personal|Sulkava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sulkava.secret|Sulkava.secret]] 

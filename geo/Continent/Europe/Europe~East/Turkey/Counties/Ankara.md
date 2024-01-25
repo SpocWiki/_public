@@ -41,9 +41,9 @@ markerFolder: ./Ankara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Ankara.md|Ankara]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Ankara.internal.md|Ankara.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Ankara.protect.md|Ankara.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Ankara.private.md|Ankara.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Ankara.personal.md|Ankara.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Ankara.secret.md|Ankara.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Ankara.internal|Ankara.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Ankara.protect|Ankara.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Ankara.private|Ankara.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Ankara.personal|Ankara.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Ankara.secret|Ankara.secret]] 
 

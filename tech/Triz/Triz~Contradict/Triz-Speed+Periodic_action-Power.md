@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Periodic_action-Power]
 [SpocWebEntityId::23414]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.md|Triz-Speed+Periodic_action-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.internal.md|Triz-Speed+Periodic_action-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.protect.md|Triz-Speed+Periodic_action-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.private.md|Triz-Speed+Periodic_action-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.personal.md|Triz-Speed+Periodic_action-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.secret.md|Triz-Speed+Periodic_action-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.internal|Triz-Speed+Periodic_action-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.protect|Triz-Speed+Periodic_action-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.private|Triz-Speed+Periodic_action-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.personal|Triz-Speed+Periodic_action-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Periodic_action-Power.secret|Triz-Speed+Periodic_action-Power.secret]] 

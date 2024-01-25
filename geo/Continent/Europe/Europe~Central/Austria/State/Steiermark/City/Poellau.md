@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Poellau.md|Poellau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Poellau.internal.md|Poellau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Poellau.protect.md|Poellau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Poellau.private.md|Poellau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Poellau.personal.md|Poellau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Poellau.secret.md|Poellau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Poellau.internal|Poellau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Poellau.protect|Poellau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Poellau.private|Poellau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Poellau.personal|Poellau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Poellau.secret|Poellau.secret]] 

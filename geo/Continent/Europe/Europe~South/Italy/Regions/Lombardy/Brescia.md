@@ -41,11 +41,11 @@ markerFolder: ./Brescia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.md|Brescia]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.internal.md|Brescia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.protect.md|Brescia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.private.md|Brescia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.personal.md|Brescia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.secret.md|Brescia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.internal|Brescia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.protect|Brescia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.private|Brescia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.personal|Brescia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Brescia.secret|Brescia.secret]] 
 
 
 ```leaflet

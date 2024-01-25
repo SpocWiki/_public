@@ -41,9 +41,9 @@ markerFolder: ./Šmartno_in_Litiji/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.md|Šmartno_in_Litiji]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.internal.md|Šmartno_in_Litiji.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.protect.md|Šmartno_in_Litiji.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.private.md|Šmartno_in_Litiji.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.personal.md|Šmartno_in_Litiji.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.secret.md|Šmartno_in_Litiji.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.internal|Šmartno_in_Litiji.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.protect|Šmartno_in_Litiji.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.private|Šmartno_in_Litiji.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.personal|Šmartno_in_Litiji.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Osrednje_slovenska~Central/Šmartno_in_Litiji.secret|Šmartno_in_Litiji.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Surigao_del_Sur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.md|Surigao_del_Sur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.internal.md|Surigao_del_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.protect.md|Surigao_del_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.private.md|Surigao_del_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.personal.md|Surigao_del_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.secret.md|Surigao_del_Sur.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.internal|Surigao_del_Sur.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.protect|Surigao_del_Sur.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.private|Surigao_del_Sur.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.personal|Surigao_del_Sur.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.secret|Surigao_del_Sur.secret]] 
 

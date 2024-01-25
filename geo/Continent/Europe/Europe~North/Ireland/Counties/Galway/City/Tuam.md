@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Tuam.md|Tuam]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tuam.internal.md|Tuam.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tuam.protect.md|Tuam.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Tuam.private.md|Tuam.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tuam.personal.md|Tuam.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tuam.secret.md|Tuam.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tuam.internal|Tuam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tuam.protect|Tuam.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Tuam.private|Tuam.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tuam.personal|Tuam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tuam.secret|Tuam.secret]] 

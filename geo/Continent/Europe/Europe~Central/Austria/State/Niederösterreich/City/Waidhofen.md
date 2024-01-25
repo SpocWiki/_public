@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Waidhofen.md|Waidhofen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Waidhofen.internal.md|Waidhofen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Waidhofen.protect.md|Waidhofen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Waidhofen.private.md|Waidhofen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Waidhofen.personal.md|Waidhofen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Waidhofen.secret.md|Waidhofen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Waidhofen.internal|Waidhofen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Waidhofen.protect|Waidhofen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Waidhofen.private|Waidhofen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Waidhofen.personal|Waidhofen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Waidhofen.secret|Waidhofen.secret]] 

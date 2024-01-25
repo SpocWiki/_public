@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Weymouth.md|Weymouth]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Weymouth.internal.md|Weymouth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Weymouth.protect.md|Weymouth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Weymouth.private.md|Weymouth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Weymouth.personal.md|Weymouth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Weymouth.secret.md|Weymouth.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Weymouth.internal|Weymouth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Weymouth.protect|Weymouth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Weymouth.private|Weymouth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Weymouth.personal|Weymouth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Weymouth.secret|Weymouth.secret]] 

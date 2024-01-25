@@ -41,9 +41,9 @@ markerFolder: ./Zamboanga_del_Norte/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.md|Zamboanga_del_Norte]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.internal.md|Zamboanga_del_Norte.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.protect.md|Zamboanga_del_Norte.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.private.md|Zamboanga_del_Norte.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.personal.md|Zamboanga_del_Norte.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.secret.md|Zamboanga_del_Norte.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.internal|Zamboanga_del_Norte.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.protect|Zamboanga_del_Norte.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.private|Zamboanga_del_Norte.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.personal|Zamboanga_del_Norte.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.secret|Zamboanga_del_Norte.secret]] 
 

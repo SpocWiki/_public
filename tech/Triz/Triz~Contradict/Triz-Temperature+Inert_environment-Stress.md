@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Inert_environment-Stress]
 [SpocWebEntityId::24259]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.md|Triz-Temperature+Inert_environment-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.internal.md|Triz-Temperature+Inert_environment-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.protect.md|Triz-Temperature+Inert_environment-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.private.md|Triz-Temperature+Inert_environment-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.personal.md|Triz-Temperature+Inert_environment-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.secret.md|Triz-Temperature+Inert_environment-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.internal|Triz-Temperature+Inert_environment-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.protect|Triz-Temperature+Inert_environment-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.private|Triz-Temperature+Inert_environment-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.personal|Triz-Temperature+Inert_environment-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.secret|Triz-Temperature+Inert_environment-Stress.secret]] 

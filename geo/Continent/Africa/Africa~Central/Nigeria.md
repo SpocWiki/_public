@@ -139,7 +139,7 @@ markerFolder: ./Nigeria//
 ## Confidential Links & Embeds: 
 -[[Nigeria|Nigeria]]] 
 -[[../../../../../_internal/geo/Continent/Africa/Nigeria.internal|Nigeria.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria.protect.md|Nigeria.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria.private.md|Nigeria.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria.personal.md|Nigeria.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria.secret.md|Nigeria.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria.protect|Nigeria.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria.private|Nigeria.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria.personal|Nigeria.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria.secret|Nigeria.secret]] 

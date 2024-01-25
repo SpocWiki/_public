@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Timisoara.md|Timisoara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Timisoara.internal.md|Timisoara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Timisoara.protect.md|Timisoara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Timisoara.private.md|Timisoara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Timisoara.personal.md|Timisoara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Timisoara.secret.md|Timisoara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Timisoara.internal|Timisoara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Timisoara.protect|Timisoara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Timisoara.private|Timisoara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Timisoara.personal|Timisoara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Timisoara.secret|Timisoara.secret]] 

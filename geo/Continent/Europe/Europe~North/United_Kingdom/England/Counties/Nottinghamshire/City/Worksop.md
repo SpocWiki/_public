@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Worksop.md|Worksop]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Worksop.internal.md|Worksop.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Worksop.protect.md|Worksop.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Worksop.private.md|Worksop.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Worksop.personal.md|Worksop.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Worksop.secret.md|Worksop.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Worksop.internal|Worksop.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Worksop.protect|Worksop.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Worksop.private|Worksop.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Worksop.personal|Worksop.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Worksop.secret|Worksop.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Vientiane_[prefecture]/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].md|Vientiane_[prefecture]]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].internal.md|Vientiane_[prefecture].internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].protect.md|Vientiane_[prefecture].protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].private.md|Vientiane_[prefecture].private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].personal.md|Vientiane_[prefecture].personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].secret.md|Vientiane_[prefecture].secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].internal|Vientiane_[prefecture].internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].protect|Vientiane_[prefecture].protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].private|Vientiane_[prefecture].private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].personal|Vientiane_[prefecture].personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Vientiane_[prefecture].secret|Vientiane_[prefecture].secret]] 
 

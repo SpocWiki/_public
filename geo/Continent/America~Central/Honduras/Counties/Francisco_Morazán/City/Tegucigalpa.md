@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Honduras/City/Tegucigalpa.md|Tegucigalpa]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Honduras/City/Tegucigalpa.internal.md|Tegucigalpa.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Honduras/City/Tegucigalpa.protect.md|Tegucigalpa.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Honduras/City/Tegucigalpa.private.md|Tegucigalpa.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Honduras/City/Tegucigalpa.personal.md|Tegucigalpa.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Honduras/City/Tegucigalpa.secret.md|Tegucigalpa.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Honduras/City/Tegucigalpa.internal|Tegucigalpa.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Honduras/City/Tegucigalpa.protect|Tegucigalpa.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Honduras/City/Tegucigalpa.private|Tegucigalpa.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Honduras/City/Tegucigalpa.personal|Tegucigalpa.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Honduras/City/Tegucigalpa.secret|Tegucigalpa.secret]] 

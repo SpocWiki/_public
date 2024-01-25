@@ -41,9 +41,9 @@ markerFolder: ./Zhejiang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.md|Zhejiang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.internal.md|Zhejiang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.protect.md|Zhejiang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.private.md|Zhejiang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.personal.md|Zhejiang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.secret.md|Zhejiang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.internal|Zhejiang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.protect|Zhejiang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.private|Zhejiang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.personal|Zhejiang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.secret|Zhejiang.secret]] 
 

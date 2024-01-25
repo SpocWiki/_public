@@ -41,9 +41,9 @@ markerFolder: ./Kymenlaakso/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland/Counties/Kymenlaakso.md|Kymenlaakso]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Kymenlaakso.internal.md|Kymenlaakso.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Kymenlaakso.protect.md|Kymenlaakso.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Kymenlaakso.private.md|Kymenlaakso.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Kymenlaakso.personal.md|Kymenlaakso.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Kymenlaakso.secret.md|Kymenlaakso.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Kymenlaakso.internal|Kymenlaakso.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Kymenlaakso.protect|Kymenlaakso.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Kymenlaakso.private|Kymenlaakso.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Kymenlaakso.personal|Kymenlaakso.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Kymenlaakso.secret|Kymenlaakso.secret]] 
 

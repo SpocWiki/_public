@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Self-service-Manufacturing_Precision]
 [SpocWebEntityId::23262]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.md|Triz-moving_Volume+Self-service-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.internal.md|Triz-moving_Volume+Self-service-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.protect.md|Triz-moving_Volume+Self-service-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.private.md|Triz-moving_Volume+Self-service-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.personal.md|Triz-moving_Volume+Self-service-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.secret.md|Triz-moving_Volume+Self-service-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.internal|Triz-moving_Volume+Self-service-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.protect|Triz-moving_Volume+Self-service-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.private|Triz-moving_Volume+Self-service-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.personal|Triz-moving_Volume+Self-service-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Self-service-Manufacturing_Precision.secret|Triz-moving_Volume+Self-service-Manufacturing_Precision.secret]] 

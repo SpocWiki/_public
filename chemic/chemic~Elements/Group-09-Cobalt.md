@@ -18,8 +18,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-09-Cobalt.md|Group-09-Cobalt]] 
-- [[../../../_internal/chemic/Elements/Group-09-Cobalt.internal.md|Group-09-Cobalt.internal]] 
-- [[../../../_protect/chemic/Elements/Group-09-Cobalt.protect.md|Group-09-Cobalt.protect]] 
-- [[../../../_private/chemic/Elements/Group-09-Cobalt.private.md|Group-09-Cobalt.private]] 
-- [[../../../_personal/chemic/Elements/Group-09-Cobalt.personal.md|Group-09-Cobalt.personal]] 
-- [[../../../_secret/chemic/Elements/Group-09-Cobalt.secret.md|Group-09-Cobalt.secret]] 
+- [[../../../_internal/chemic/Elements/Group-09-Cobalt.internal|Group-09-Cobalt.internal]] 
+- [[../../../_protect/chemic/Elements/Group-09-Cobalt.protect|Group-09-Cobalt.protect]] 
+- [[../../../_private/chemic/Elements/Group-09-Cobalt.private|Group-09-Cobalt.private]] 
+- [[../../../_personal/chemic/Elements/Group-09-Cobalt.personal|Group-09-Cobalt.personal]] 
+- [[../../../_secret/chemic/Elements/Group-09-Cobalt.secret|Group-09-Cobalt.secret]] 

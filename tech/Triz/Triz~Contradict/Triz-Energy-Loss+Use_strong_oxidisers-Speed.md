@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Use_strong_oxidisers-Speed]
 [SpocWebEntityId::24729]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.md|Triz-Energy-Loss+Use_strong_oxidisers-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.internal.md|Triz-Energy-Loss+Use_strong_oxidisers-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.protect.md|Triz-Energy-Loss+Use_strong_oxidisers-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.private.md|Triz-Energy-Loss+Use_strong_oxidisers-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.personal.md|Triz-Energy-Loss+Use_strong_oxidisers-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.secret.md|Triz-Energy-Loss+Use_strong_oxidisers-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.internal|Triz-Energy-Loss+Use_strong_oxidisers-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.protect|Triz-Energy-Loss+Use_strong_oxidisers-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.private|Triz-Energy-Loss+Use_strong_oxidisers-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.personal|Triz-Energy-Loss+Use_strong_oxidisers-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.secret|Triz-Energy-Loss+Use_strong_oxidisers-Speed.secret]] 

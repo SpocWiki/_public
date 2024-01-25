@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.md|Reichenbach~Niederschlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.internal.md|Reichenbach~Niederschlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.protect.md|Reichenbach~Niederschlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.private.md|Reichenbach~Niederschlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.personal.md|Reichenbach~Niederschlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.secret.md|Reichenbach~Niederschlesien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.internal|Reichenbach~Niederschlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.protect|Reichenbach~Niederschlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.private|Reichenbach~Niederschlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.personal|Reichenbach~Niederschlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Reichenbach~Niederschlesien.secret|Reichenbach~Niederschlesien.secret]] 

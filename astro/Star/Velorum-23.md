@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Velorum-23.md|Velorum-23]] 
-- [[../../../_internal/astro/Star/Velorum-23.internal.md|Velorum-23.internal]] 
-- [[../../../_protect/astro/Star/Velorum-23.protect.md|Velorum-23.protect]] 
-- [[../../../_private/astro/Star/Velorum-23.private.md|Velorum-23.private]] 
-- [[../../../_personal/astro/Star/Velorum-23.personal.md|Velorum-23.personal]] 
-- [[../../../_secret/astro/Star/Velorum-23.secret.md|Velorum-23.secret]] 
+- [[../../../_internal/astro/Star/Velorum-23.internal|Velorum-23.internal]] 
+- [[../../../_protect/astro/Star/Velorum-23.protect|Velorum-23.protect]] 
+- [[../../../_private/astro/Star/Velorum-23.private|Velorum-23.private]] 
+- [[../../../_personal/astro/Star/Velorum-23.personal|Velorum-23.personal]] 
+- [[../../../_secret/astro/Star/Velorum-23.secret|Velorum-23.secret]] 

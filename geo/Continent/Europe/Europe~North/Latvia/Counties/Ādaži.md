@@ -41,9 +41,9 @@ markerFolder: ./Ādaži/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ādaži.md|Ādaži]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ādaži.internal.md|Ādaži.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ādaži.protect.md|Ādaži.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ādaži.private.md|Ādaži.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ādaži.personal.md|Ādaži.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ādaži.secret.md|Ādaži.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ādaži.internal|Ādaži.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ādaži.protect|Ādaži.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ādaži.private|Ādaži.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ādaži.personal|Ādaži.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ādaži.secret|Ādaži.secret]] 
 

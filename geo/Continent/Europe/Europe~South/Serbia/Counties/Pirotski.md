@@ -41,9 +41,9 @@ markerFolder: ./Pirotski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Pirotski.md|Pirotski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Pirotski.internal.md|Pirotski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Pirotski.protect.md|Pirotski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Pirotski.private.md|Pirotski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Pirotski.personal.md|Pirotski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Pirotski.secret.md|Pirotski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Pirotski.internal|Pirotski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Pirotski.protect|Pirotski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Pirotski.private|Pirotski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Pirotski.personal|Pirotski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Pirotski.secret|Pirotski.secret]] 
 

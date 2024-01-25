@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Esbjerg.md|Esbjerg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Esbjerg.internal.md|Esbjerg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Esbjerg.protect.md|Esbjerg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Esbjerg.private.md|Esbjerg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Esbjerg.personal.md|Esbjerg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Esbjerg.secret.md|Esbjerg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Esbjerg.internal|Esbjerg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Esbjerg.protect|Esbjerg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Esbjerg.private|Esbjerg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Esbjerg.personal|Esbjerg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Esbjerg.secret|Esbjerg.secret]] 

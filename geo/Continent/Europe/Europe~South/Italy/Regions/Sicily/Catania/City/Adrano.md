@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Adrano.md|Adrano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Adrano.internal.md|Adrano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Adrano.protect.md|Adrano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Adrano.private.md|Adrano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Adrano.personal.md|Adrano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Adrano.secret.md|Adrano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Adrano.internal|Adrano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Adrano.protect|Adrano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Adrano.private|Adrano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Adrano.personal|Adrano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Adrano.secret|Adrano.secret]] 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Lacertae-2.md|Lacertae-2]] 
-- [[../../../_internal/astro/Star/Lacertae-2.internal.md|Lacertae-2.internal]] 
-- [[../../../_protect/astro/Star/Lacertae-2.protect.md|Lacertae-2.protect]] 
-- [[../../../_private/astro/Star/Lacertae-2.private.md|Lacertae-2.private]] 
-- [[../../../_personal/astro/Star/Lacertae-2.personal.md|Lacertae-2.personal]] 
-- [[../../../_secret/astro/Star/Lacertae-2.secret.md|Lacertae-2.secret]]
+- [[../../../_internal/astro/Star/Lacertae-2.internal|Lacertae-2.internal]] 
+- [[../../../_protect/astro/Star/Lacertae-2.protect|Lacertae-2.protect]] 
+- [[../../../_private/astro/Star/Lacertae-2.private|Lacertae-2.private]] 
+- [[../../../_personal/astro/Star/Lacertae-2.personal|Lacertae-2.personal]] 
+- [[../../../_secret/astro/Star/Lacertae-2.secret|Lacertae-2.secret]]
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lubsko.md|Lubsko]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lubsko.internal.md|Lubsko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lubsko.protect.md|Lubsko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lubsko.private.md|Lubsko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lubsko.personal.md|Lubsko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lubsko.secret.md|Lubsko.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lubsko.internal|Lubsko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lubsko.protect|Lubsko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lubsko.private|Lubsko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lubsko.personal|Lubsko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lubsko.secret|Lubsko.secret]] 

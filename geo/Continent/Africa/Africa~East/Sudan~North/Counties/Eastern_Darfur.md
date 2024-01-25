@@ -41,9 +41,9 @@ markerFolder: ./Eastern_Darfur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.md|Eastern_Darfur]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.internal.md|Eastern_Darfur.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.protect.md|Eastern_Darfur.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.private.md|Eastern_Darfur.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.personal.md|Eastern_Darfur.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.secret.md|Eastern_Darfur.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.internal|Eastern_Darfur.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.protect|Eastern_Darfur.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.private|Eastern_Darfur.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.personal|Eastern_Darfur.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.secret|Eastern_Darfur.secret]] 
 

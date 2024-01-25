@@ -41,9 +41,9 @@ markerFolder: ./Kitgum/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kitgum.md|Kitgum]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kitgum.internal.md|Kitgum.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kitgum.protect.md|Kitgum.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kitgum.private.md|Kitgum.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kitgum.personal.md|Kitgum.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kitgum.secret.md|Kitgum.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kitgum.internal|Kitgum.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kitgum.protect|Kitgum.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kitgum.private|Kitgum.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kitgum.personal|Kitgum.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kitgum.secret|Kitgum.secret]] 
 

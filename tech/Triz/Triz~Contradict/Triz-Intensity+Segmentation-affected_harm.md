@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Segmentation-affected_harm]
 [SpocWebEntityId::23565]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.md|Triz-Intensity+Segmentation-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.internal.md|Triz-Intensity+Segmentation-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.protect.md|Triz-Intensity+Segmentation-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.private.md|Triz-Intensity+Segmentation-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.personal.md|Triz-Intensity+Segmentation-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.secret.md|Triz-Intensity+Segmentation-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.internal|Triz-Intensity+Segmentation-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.protect|Triz-Intensity+Segmentation-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.private|Triz-Intensity+Segmentation-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.personal|Triz-Intensity+Segmentation-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Segmentation-affected_harm.secret|Triz-Intensity+Segmentation-affected_harm.secret]] 

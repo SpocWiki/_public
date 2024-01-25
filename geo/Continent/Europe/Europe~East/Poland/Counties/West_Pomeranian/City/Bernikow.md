@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Bernikow.md|Bernikow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Bernikow.internal.md|Bernikow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Bernikow.protect.md|Bernikow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Bernikow.private.md|Bernikow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Bernikow.personal.md|Bernikow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Bernikow.secret.md|Bernikow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Bernikow.internal|Bernikow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Bernikow.protect|Bernikow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Bernikow.private|Bernikow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Bernikow.personal|Bernikow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Bernikow.secret|Bernikow.secret]] 

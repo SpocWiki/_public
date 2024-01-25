@@ -135,7 +135,7 @@ markerFolder: ./Gabon//
 ## Confidential Links & Embeds: 
 - [[Gabon|Gabon]] 
 - [[../../../../../_internal/geo/Continent/Africa/Gabon.internal|Gabon.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gabon.protect.md|Gabon.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gabon.private.md|Gabon.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gabon.personal.md|Gabon.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gabon.secret.md|Gabon.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Gabon.protect|Gabon.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gabon.private|Gabon.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gabon.personal|Gabon.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gabon.secret|Gabon.secret]] 

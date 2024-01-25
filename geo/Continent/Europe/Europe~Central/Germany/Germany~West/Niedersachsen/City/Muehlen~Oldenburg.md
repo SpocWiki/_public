@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Muehlen~Oldenburg|Muehlen~Oldenburg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.internal.md|Muehlen~Oldenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.protect.md|Muehlen~Oldenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.private.md|Muehlen~Oldenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.personal.md|Muehlen~Oldenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.secret.md|Muehlen~Oldenburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.internal|Muehlen~Oldenburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.protect|Muehlen~Oldenburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.private|Muehlen~Oldenburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.personal|Muehlen~Oldenburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.secret|Muehlen~Oldenburg.secret]] 

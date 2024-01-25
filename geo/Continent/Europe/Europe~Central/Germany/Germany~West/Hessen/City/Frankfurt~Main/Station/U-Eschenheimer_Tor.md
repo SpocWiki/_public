@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[U-Eschenheimer_Tor|U-Eschenheimer_Tor]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.internal.md|U-Eschenheimer_Tor.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.protect.md|U-Eschenheimer_Tor.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.private.md|U-Eschenheimer_Tor.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.personal.md|U-Eschenheimer_Tor.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.secret.md|U-Eschenheimer_Tor.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.internal|U-Eschenheimer_Tor.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.protect|U-Eschenheimer_Tor.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.private|U-Eschenheimer_Tor.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.personal|U-Eschenheimer_Tor.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.secret|U-Eschenheimer_Tor.secret]] 

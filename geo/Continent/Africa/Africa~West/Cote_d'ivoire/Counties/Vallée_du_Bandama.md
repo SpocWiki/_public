@@ -41,9 +41,9 @@ markerFolder: ./Vallée_du_Bandama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.md|Vallée_du_Bandama]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.internal.md|Vallée_du_Bandama.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.protect.md|Vallée_du_Bandama.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.private.md|Vallée_du_Bandama.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.personal.md|Vallée_du_Bandama.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.secret.md|Vallée_du_Bandama.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.internal|Vallée_du_Bandama.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.protect|Vallée_du_Bandama.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.private|Vallée_du_Bandama.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.personal|Vallée_du_Bandama.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.secret|Vallée_du_Bandama.secret]] 
 

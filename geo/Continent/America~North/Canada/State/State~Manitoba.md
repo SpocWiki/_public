@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 - [[State~Manitoba|State~Manitoba]] 
 - [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~Manitoba.internal|State~Manitoba.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Manitoba.protect.md|State~Manitoba.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Manitoba.private.md|State~Manitoba.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Manitoba.personal.md|State~Manitoba.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Manitoba.secret.md|State~Manitoba.secret]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Manitoba.protect|State~Manitoba.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Manitoba.private|State~Manitoba.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Manitoba.personal|State~Manitoba.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Manitoba.secret|State~Manitoba.secret]] 

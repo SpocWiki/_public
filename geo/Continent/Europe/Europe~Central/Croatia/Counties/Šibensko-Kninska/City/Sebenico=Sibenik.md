@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.md|Sebenico=Sibenik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.internal.md|Sebenico=Sibenik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.protect.md|Sebenico=Sibenik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.private.md|Sebenico=Sibenik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.personal.md|Sebenico=Sibenik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.secret.md|Sebenico=Sibenik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.internal|Sebenico=Sibenik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.protect|Sebenico=Sibenik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.private|Sebenico=Sibenik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.personal|Sebenico=Sibenik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.secret|Sebenico=Sibenik.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Paysandú/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Paysandú.md|Paysandú]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Paysandú.internal.md|Paysandú.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Paysandú.protect.md|Paysandú.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Paysandú.private.md|Paysandú.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Paysandú.personal.md|Paysandú.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Paysandú.secret.md|Paysandú.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Paysandú.internal|Paysandú.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Paysandú.protect|Paysandú.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Paysandú.private|Paysandú.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Paysandú.personal|Paysandú.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Paysandú.secret|Paysandú.secret]] 
 

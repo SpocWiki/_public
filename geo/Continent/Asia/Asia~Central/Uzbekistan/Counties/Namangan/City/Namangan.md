@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Namangan.md|Namangan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Namangan.internal.md|Namangan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Namangan.protect.md|Namangan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Namangan.private.md|Namangan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Namangan.personal.md|Namangan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Namangan.secret.md|Namangan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Namangan.internal|Namangan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Namangan.protect|Namangan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Namangan.private|Namangan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Namangan.personal|Namangan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Namangan.secret|Namangan.secret]] 

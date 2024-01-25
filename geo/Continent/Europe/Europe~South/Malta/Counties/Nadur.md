@@ -41,9 +41,9 @@ markerFolder: ./Nadur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Nadur.md|Nadur]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Nadur.internal.md|Nadur.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Nadur.protect.md|Nadur.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Nadur.private.md|Nadur.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Nadur.personal.md|Nadur.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Nadur.secret.md|Nadur.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Nadur.internal|Nadur.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Nadur.protect|Nadur.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Nadur.private|Nadur.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Nadur.personal|Nadur.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Nadur.secret|Nadur.secret]] 
 

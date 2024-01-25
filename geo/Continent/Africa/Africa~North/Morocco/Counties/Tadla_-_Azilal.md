@@ -41,9 +41,9 @@ markerFolder: ./Tadla_-_Azilal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.md|Tadla_-_Azilal]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.internal.md|Tadla_-_Azilal.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.protect.md|Tadla_-_Azilal.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.private.md|Tadla_-_Azilal.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.personal.md|Tadla_-_Azilal.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.secret.md|Tadla_-_Azilal.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.internal|Tadla_-_Azilal.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.protect|Tadla_-_Azilal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.private|Tadla_-_Azilal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.personal|Tadla_-_Azilal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.secret|Tadla_-_Azilal.secret]] 
 

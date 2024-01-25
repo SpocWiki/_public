@@ -41,9 +41,9 @@ markerFolder: ./Benghazi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Benghazi.md|Benghazi]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Benghazi.internal.md|Benghazi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Benghazi.protect.md|Benghazi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Benghazi.private.md|Benghazi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Benghazi.personal.md|Benghazi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Benghazi.secret.md|Benghazi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Benghazi.internal|Benghazi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Benghazi.protect|Benghazi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Benghazi.private|Benghazi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Benghazi.personal|Benghazi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Benghazi.secret|Benghazi.secret]] 
 

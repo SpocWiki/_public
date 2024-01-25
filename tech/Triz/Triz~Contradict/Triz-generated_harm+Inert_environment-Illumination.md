@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Inert_environment-Illumination]
 [SpocWebEntityId::25778]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.md|Triz-generated_harm+Inert_environment-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.internal.md|Triz-generated_harm+Inert_environment-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.protect.md|Triz-generated_harm+Inert_environment-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.private.md|Triz-generated_harm+Inert_environment-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.personal.md|Triz-generated_harm+Inert_environment-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.secret.md|Triz-generated_harm+Inert_environment-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.internal|Triz-generated_harm+Inert_environment-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.protect|Triz-generated_harm+Inert_environment-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.private|Triz-generated_harm+Inert_environment-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.personal|Triz-generated_harm+Inert_environment-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.secret|Triz-generated_harm+Inert_environment-Illumination.secret]] 

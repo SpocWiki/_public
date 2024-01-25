@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Leysin.md|Leysin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Leysin.internal.md|Leysin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Leysin.protect.md|Leysin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Leysin.private.md|Leysin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Leysin.personal.md|Leysin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Leysin.secret.md|Leysin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Leysin.internal|Leysin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Leysin.protect|Leysin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Leysin.private|Leysin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Leysin.personal|Leysin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Leysin.secret|Leysin.secret]] 

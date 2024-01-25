@@ -134,8 +134,8 @@ markerFolder: ./Greece////
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece.md|Greece]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece.internal.md|Greece.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece.protect.md|Greece.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece.private.md|Greece.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece.personal.md|Greece.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece.secret.md|Greece.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece.internal|Greece.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece.protect|Greece.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece.private|Greece.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece.personal|Greece.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece.secret|Greece.secret]] 

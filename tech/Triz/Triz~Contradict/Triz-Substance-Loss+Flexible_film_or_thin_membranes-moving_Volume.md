@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume]
 [SpocWebEntityId::24812]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.md|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.internal.md|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.protect.md|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.private.md|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.personal.md|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.secret.md|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.internal|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.protect|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.private|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.personal|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.secret|Triz-Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume.secret]] 

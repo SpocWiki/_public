@@ -41,9 +41,9 @@ markerFolder: ./Puntarenas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.md|Puntarenas]] 
-- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.internal.md|Puntarenas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.protect.md|Puntarenas.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.private.md|Puntarenas.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.personal.md|Puntarenas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.secret.md|Puntarenas.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.internal|Puntarenas.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.protect|Puntarenas.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.private|Puntarenas.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.personal|Puntarenas.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Puntarenas.secret|Puntarenas.secret]] 
 

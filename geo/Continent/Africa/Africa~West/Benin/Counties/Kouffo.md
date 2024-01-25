@@ -41,9 +41,9 @@ markerFolder: ./Kouffo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Benin/Counties/Kouffo.md|Kouffo]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Kouffo.internal.md|Kouffo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Kouffo.protect.md|Kouffo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Kouffo.private.md|Kouffo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Kouffo.personal.md|Kouffo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Kouffo.secret.md|Kouffo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Kouffo.internal|Kouffo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Kouffo.protect|Kouffo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Kouffo.private|Kouffo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Kouffo.personal|Kouffo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Kouffo.secret|Kouffo.secret]] 
 

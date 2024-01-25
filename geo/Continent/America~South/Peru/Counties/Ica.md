@@ -41,9 +41,9 @@ markerFolder: ./Ica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Ica.md|Ica]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Ica.internal.md|Ica.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Ica.protect.md|Ica.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Ica.private.md|Ica.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Ica.personal.md|Ica.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Ica.secret.md|Ica.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Ica.internal|Ica.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Ica.protect|Ica.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Ica.private|Ica.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Ica.personal|Ica.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Ica.secret|Ica.secret]] 
 

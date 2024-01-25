@@ -41,9 +41,9 @@ markerFolder: ./Kaduna/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kaduna.md|Kaduna]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kaduna.internal.md|Kaduna.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kaduna.protect.md|Kaduna.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kaduna.private.md|Kaduna.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kaduna.personal.md|Kaduna.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kaduna.secret.md|Kaduna.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kaduna.internal|Kaduna.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kaduna.protect|Kaduna.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kaduna.private|Kaduna.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kaduna.personal|Kaduna.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kaduna.secret|Kaduna.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Suraz.md|Suraz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Suraz.internal.md|Suraz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Suraz.protect.md|Suraz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Suraz.private.md|Suraz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Suraz.personal.md|Suraz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Suraz.secret.md|Suraz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Suraz.internal|Suraz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Suraz.protect|Suraz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Suraz.private|Suraz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Suraz.personal|Suraz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Suraz.secret|Suraz.secret]] 

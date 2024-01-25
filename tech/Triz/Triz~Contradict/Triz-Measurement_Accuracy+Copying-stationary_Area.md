@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Copying-stationary_Area]
 [SpocWebEntityId::25378]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.md|Triz-Measurement_Accuracy+Copying-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.internal.md|Triz-Measurement_Accuracy+Copying-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.protect.md|Triz-Measurement_Accuracy+Copying-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.private.md|Triz-Measurement_Accuracy+Copying-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.personal.md|Triz-Measurement_Accuracy+Copying-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.secret.md|Triz-Measurement_Accuracy+Copying-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.internal|Triz-Measurement_Accuracy+Copying-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.protect|Triz-Measurement_Accuracy+Copying-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.private|Triz-Measurement_Accuracy+Copying-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.personal|Triz-Measurement_Accuracy+Copying-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-stationary_Area.secret|Triz-Measurement_Accuracy+Copying-stationary_Area.secret]] 

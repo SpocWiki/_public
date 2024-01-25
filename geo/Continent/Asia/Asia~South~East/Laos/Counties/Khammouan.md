@@ -41,9 +41,9 @@ markerFolder: ./Khammouan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.md|Khammouan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.internal.md|Khammouan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.protect.md|Khammouan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.private.md|Khammouan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.personal.md|Khammouan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.secret.md|Khammouan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.internal|Khammouan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.protect|Khammouan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.private|Khammouan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.personal|Khammouan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Khammouan.secret|Khammouan.secret]] 
 

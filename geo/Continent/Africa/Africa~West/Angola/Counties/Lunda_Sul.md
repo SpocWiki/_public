@@ -41,9 +41,9 @@ markerFolder: ./Lunda_Sul/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Lunda_Sul.md|Lunda_Sul]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Lunda_Sul.internal.md|Lunda_Sul.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Lunda_Sul.protect.md|Lunda_Sul.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Lunda_Sul.private.md|Lunda_Sul.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Lunda_Sul.personal.md|Lunda_Sul.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Lunda_Sul.secret.md|Lunda_Sul.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Lunda_Sul.internal|Lunda_Sul.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Lunda_Sul.protect|Lunda_Sul.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Lunda_Sul.private|Lunda_Sul.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Lunda_Sul.personal|Lunda_Sul.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Lunda_Sul.secret|Lunda_Sul.secret]] 
 

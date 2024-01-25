@@ -41,9 +41,9 @@ markerFolder: ./Voreio_Aigaio/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.md|Voreio_Aigaio]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.internal.md|Voreio_Aigaio.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.protect.md|Voreio_Aigaio.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.private.md|Voreio_Aigaio.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.personal.md|Voreio_Aigaio.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.secret.md|Voreio_Aigaio.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.internal|Voreio_Aigaio.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.protect|Voreio_Aigaio.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.private|Voreio_Aigaio.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.personal|Voreio_Aigaio.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.secret|Voreio_Aigaio.secret]] 
 

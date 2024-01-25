@@ -18,8 +18,8 @@ Cut Plastic faster than Heat can propagate in the Material, to avoid deforming t
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-adiabatic_Operation.md|Triz-adiabatic_Operation]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-adiabatic_Operation.internal.md|Triz-adiabatic_Operation.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-adiabatic_Operation.protect.md|Triz-adiabatic_Operation.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-adiabatic_Operation.private.md|Triz-adiabatic_Operation.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-adiabatic_Operation.personal.md|Triz-adiabatic_Operation.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-adiabatic_Operation.secret.md|Triz-adiabatic_Operation.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-adiabatic_Operation.internal|Triz-adiabatic_Operation.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-adiabatic_Operation.protect|Triz-adiabatic_Operation.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-adiabatic_Operation.private|Triz-adiabatic_Operation.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-adiabatic_Operation.personal|Triz-adiabatic_Operation.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-adiabatic_Operation.secret|Triz-adiabatic_Operation.secret]] 

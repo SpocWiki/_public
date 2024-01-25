@@ -132,8 +132,8 @@ markerFolder: ./Bahamas/
 
 ## Confidential Links & Embeds: 
 - [[Bahamas|Bahamas]] 
-- [[../../../../_internal/geo/Continent/South-America/Bahamas.internal.md|Bahamas.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Bahamas.protect.md|Bahamas.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Bahamas.private.md|Bahamas.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Bahamas.personal.md|Bahamas.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Bahamas.secret.md|Bahamas.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Bahamas.internal|Bahamas.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Bahamas.protect|Bahamas.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Bahamas.private|Bahamas.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Bahamas.personal|Bahamas.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Bahamas.secret|Bahamas.secret]] 

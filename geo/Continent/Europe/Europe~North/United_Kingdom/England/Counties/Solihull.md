@@ -41,9 +41,9 @@ markerFolder: ./Solihull/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.md|Solihull]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.internal.md|Solihull.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.protect.md|Solihull.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.private.md|Solihull.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.personal.md|Solihull.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.secret.md|Solihull.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.internal|Solihull.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.protect|Solihull.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.private|Solihull.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.personal|Solihull.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.secret|Solihull.secret]] 
 

@@ -34,8 +34,8 @@ SpocWebEntityId: 21936
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Strontium.md|Strontium]] 
-- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.internal.md|Strontium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Strontium.protect.md|Strontium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Strontium.private.md|Strontium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.personal.md|Strontium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Strontium.secret.md|Strontium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]] 

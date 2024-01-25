@@ -41,9 +41,9 @@ markerFolder: ./Département~Ardennes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Grand_Est/Département~Ardennes.md|Département~Ardennes]] 
-- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Ardennes.internal.md|Département~Ardennes.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Ardennes.protect.md|Département~Ardennes.protect]] 
-- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Ardennes.private.md|Département~Ardennes.private]] 
-- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Ardennes.personal.md|Département~Ardennes.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Ardennes.secret.md|Département~Ardennes.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Ardennes.internal|Département~Ardennes.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Ardennes.protect|Département~Ardennes.protect]] 
+- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Ardennes.private|Département~Ardennes.private]] 
+- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Ardennes.personal|Département~Ardennes.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Ardennes.secret|Département~Ardennes.secret]] 
 

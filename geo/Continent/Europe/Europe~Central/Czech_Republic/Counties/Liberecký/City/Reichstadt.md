@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Reichstadt.md|Reichstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Reichstadt.internal.md|Reichstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Reichstadt.protect.md|Reichstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Reichstadt.private.md|Reichstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Reichstadt.personal.md|Reichstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Reichstadt.secret.md|Reichstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Reichstadt.internal|Reichstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Reichstadt.protect|Reichstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Reichstadt.private|Reichstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Reichstadt.personal|Reichstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Reichstadt.secret|Reichstadt.secret]] 

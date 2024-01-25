@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.md|Kirkcaldy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.internal.md|Kirkcaldy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.protect.md|Kirkcaldy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.private.md|Kirkcaldy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.personal.md|Kirkcaldy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.secret.md|Kirkcaldy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.internal|Kirkcaldy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.protect|Kirkcaldy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.private|Kirkcaldy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.personal|Kirkcaldy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.secret|Kirkcaldy.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Laâyoune_-_Boujdour_-_Sakia_El_Hamra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.md|Laâyoune_-_Boujdour_-_Sakia_El_Hamra]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.internal.md|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.protect.md|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.private.md|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.personal.md|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.secret.md|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.internal|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.protect|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.private|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.personal|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.secret|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.secret]] 
 

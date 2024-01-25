@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kestilae.md|Kestilae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kestilae.internal.md|Kestilae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kestilae.protect.md|Kestilae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kestilae.private.md|Kestilae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kestilae.personal.md|Kestilae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kestilae.secret.md|Kestilae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kestilae.internal|Kestilae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kestilae.protect|Kestilae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kestilae.private|Kestilae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kestilae.personal|Kestilae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kestilae.secret|Kestilae.secret]] 

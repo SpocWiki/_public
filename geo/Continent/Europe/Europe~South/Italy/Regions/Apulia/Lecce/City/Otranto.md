@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Otranto.md|Otranto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Otranto.internal.md|Otranto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Otranto.protect.md|Otranto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Otranto.private.md|Otranto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Otranto.personal.md|Otranto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Otranto.secret.md|Otranto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Otranto.internal|Otranto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Otranto.protect|Otranto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Otranto.private|Otranto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Otranto.personal|Otranto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Otranto.secret|Otranto.secret]] 

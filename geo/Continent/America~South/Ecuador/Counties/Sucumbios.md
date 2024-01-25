@@ -41,9 +41,9 @@ markerFolder: ./Sucumbios/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Sucumbios.md|Sucumbios]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Sucumbios.internal.md|Sucumbios.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Sucumbios.protect.md|Sucumbios.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Sucumbios.private.md|Sucumbios.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Sucumbios.personal.md|Sucumbios.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Sucumbios.secret.md|Sucumbios.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Sucumbios.internal|Sucumbios.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Sucumbios.protect|Sucumbios.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Sucumbios.private|Sucumbios.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Sucumbios.personal|Sucumbios.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Sucumbios.secret|Sucumbios.secret]] 
 

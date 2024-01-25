@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Komi~Republic|State~Komi~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Komi~Republic.internal|State~Komi~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Komi~Republic.protect.md|State~Komi~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Komi~Republic.private.md|State~Komi~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Komi~Republic.personal.md|State~Komi~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Komi~Republic.secret.md|State~Komi~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Komi~Republic.protect|State~Komi~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Komi~Republic.private|State~Komi~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Komi~Republic.personal|State~Komi~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Komi~Republic.secret|State~Komi~Republic.secret]] 

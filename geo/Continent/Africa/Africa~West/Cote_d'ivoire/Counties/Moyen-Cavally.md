@@ -41,9 +41,9 @@ markerFolder: ./Moyen-Cavally/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.md|Moyen-Cavally]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.internal.md|Moyen-Cavally.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.protect.md|Moyen-Cavally.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.private.md|Moyen-Cavally.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.personal.md|Moyen-Cavally.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.secret.md|Moyen-Cavally.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.internal|Moyen-Cavally.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.protect|Moyen-Cavally.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.private|Moyen-Cavally.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.personal|Moyen-Cavally.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.secret|Moyen-Cavally.secret]] 
 

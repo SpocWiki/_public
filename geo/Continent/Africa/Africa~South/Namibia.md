@@ -139,7 +139,7 @@ markerFolder: ./Namibia//
 ## Confidential Links & Embeds: 
 - [[Namibia|Namibia]] 
 - [[../../../../../_internal/geo/Continent/Africa/Namibia.internal|Namibia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia.protect.md|Namibia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia.private.md|Namibia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia.personal.md|Namibia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia.secret.md|Namibia.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Namibia.protect|Namibia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Namibia.private|Namibia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Namibia.personal|Namibia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Namibia.secret|Namibia.secret]] 

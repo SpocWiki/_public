@@ -41,9 +41,9 @@ markerFolder: ./Atlántida/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Atlántida.md|Atlántida]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Atlántida.internal.md|Atlántida.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Atlántida.protect.md|Atlántida.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Atlántida.private.md|Atlántida.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Atlántida.personal.md|Atlántida.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Atlántida.secret.md|Atlántida.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Atlántida.internal|Atlántida.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Atlántida.protect|Atlántida.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Atlántida.private|Atlántida.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Atlántida.personal|Atlántida.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Atlántida.secret|Atlántida.secret]] 
 

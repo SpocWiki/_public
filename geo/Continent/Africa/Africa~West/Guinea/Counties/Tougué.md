@@ -41,9 +41,9 @@ markerFolder: ./Tougué/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Tougué.md|Tougué]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Tougué.internal.md|Tougué.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Tougué.protect.md|Tougué.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Tougué.private.md|Tougué.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Tougué.personal.md|Tougué.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Tougué.secret.md|Tougué.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Tougué.internal|Tougué.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Tougué.protect|Tougué.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Tougué.private|Tougué.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Tougué.personal|Tougué.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Tougué.secret|Tougué.secret]] 
 

@@ -18,8 +18,8 @@ Adjustable steering wheel (or Seat, or Back Support, or Mirror Position...)
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Adjustable_Controls.md|Triz-Adjustable_Controls]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Adjustable_Controls.internal.md|Triz-Adjustable_Controls.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Adjustable_Controls.protect.md|Triz-Adjustable_Controls.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Adjustable_Controls.private.md|Triz-Adjustable_Controls.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Adjustable_Controls.personal.md|Triz-Adjustable_Controls.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Adjustable_Controls.secret.md|Triz-Adjustable_Controls.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Adjustable_Controls.internal|Triz-Adjustable_Controls.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Adjustable_Controls.protect|Triz-Adjustable_Controls.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Adjustable_Controls.private|Triz-Adjustable_Controls.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Adjustable_Controls.personal|Triz-Adjustable_Controls.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Adjustable_Controls.secret|Triz-Adjustable_Controls.secret]] 

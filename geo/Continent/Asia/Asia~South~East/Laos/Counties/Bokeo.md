@@ -41,9 +41,9 @@ markerFolder: ./Bokeo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.md|Bokeo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.internal.md|Bokeo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.protect.md|Bokeo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.private.md|Bokeo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.personal.md|Bokeo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.secret.md|Bokeo.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.internal|Bokeo.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.protect|Bokeo.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.private|Bokeo.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.personal|Bokeo.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.secret|Bokeo.secret]] 
 

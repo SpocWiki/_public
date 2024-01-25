@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mozyr.md|Mozyr]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mozyr.internal.md|Mozyr.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mozyr.protect.md|Mozyr.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mozyr.private.md|Mozyr.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mozyr.personal.md|Mozyr.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mozyr.secret.md|Mozyr.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mozyr.internal|Mozyr.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mozyr.protect|Mozyr.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mozyr.private|Mozyr.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mozyr.personal|Mozyr.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mozyr.secret|Mozyr.secret]] 

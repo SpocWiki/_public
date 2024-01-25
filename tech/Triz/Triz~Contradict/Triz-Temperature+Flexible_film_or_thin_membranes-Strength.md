@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Flexible_film_or_thin_membranes-Strength]
 [SpocWebEntityId::24270]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.md|Triz-Temperature+Flexible_film_or_thin_membranes-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.internal.md|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.protect.md|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.private.md|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.personal.md|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.secret.md|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.internal|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.protect|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.private|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.personal|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Strength.secret|Triz-Temperature+Flexible_film_or_thin_membranes-Strength.secret]] 

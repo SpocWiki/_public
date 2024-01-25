@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Mühlhausen~Oberfranken|Mühlhausen~Oberfranken]]
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.internal.md|Mühlhausen~Oberfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.protect.md|Mühlhausen~Oberfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.private.md|Mühlhausen~Oberfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.personal.md|Mühlhausen~Oberfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.secret.md|Mühlhausen~Oberfranken.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.internal|Mühlhausen~Oberfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.protect|Mühlhausen~Oberfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.private|Mühlhausen~Oberfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.personal|Mühlhausen~Oberfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mühlhausen~Oberfranken.secret|Mühlhausen~Oberfranken.secret]] 

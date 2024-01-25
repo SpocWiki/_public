@@ -135,8 +135,8 @@ markerFolder: ./Paraguay/
 
 ## Confidential Links & Embeds: 
 - [[Paraguay|Paraguay]] 
-- [[../../../../_internal/geo/Continent/South-America/Paraguay.internal.md|Paraguay.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Paraguay.protect.md|Paraguay.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Paraguay.private.md|Paraguay.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Paraguay.personal.md|Paraguay.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Paraguay.secret.md|Paraguay.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Paraguay.internal|Paraguay.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Paraguay.protect|Paraguay.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Paraguay.private|Paraguay.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Paraguay.personal|Paraguay.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Paraguay.secret|Paraguay.secret]] 

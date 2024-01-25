@@ -41,9 +41,9 @@ markerFolder: ./Perugia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.md|Perugia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.internal.md|Perugia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.protect.md|Perugia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.private.md|Perugia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.personal.md|Perugia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.secret.md|Perugia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.internal|Perugia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.protect|Perugia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.private|Perugia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.personal|Perugia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Umbria/Perugia.Province.secret|Perugia.Province.secret]] 
 

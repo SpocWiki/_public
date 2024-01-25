@@ -41,9 +41,9 @@ markerFolder: ./Scottish_Borders/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.md|Scottish_Borders]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.internal.md|Scottish_Borders.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.protect.md|Scottish_Borders.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.private.md|Scottish_Borders.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.personal.md|Scottish_Borders.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.secret.md|Scottish_Borders.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.internal|Scottish_Borders.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.protect|Scottish_Borders.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.private|Scottish_Borders.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.personal|Scottish_Borders.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.secret|Scottish_Borders.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Kaberamaido/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kaberamaido.md|Kaberamaido]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kaberamaido.internal.md|Kaberamaido.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kaberamaido.protect.md|Kaberamaido.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kaberamaido.private.md|Kaberamaido.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kaberamaido.personal.md|Kaberamaido.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kaberamaido.secret.md|Kaberamaido.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kaberamaido.internal|Kaberamaido.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kaberamaido.protect|Kaberamaido.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kaberamaido.private|Kaberamaido.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kaberamaido.personal|Kaberamaido.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kaberamaido.secret|Kaberamaido.secret]] 
 

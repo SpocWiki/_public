@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Karlsuando.md|Karlsuando]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlsuando.internal.md|Karlsuando.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlsuando.protect.md|Karlsuando.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlsuando.private.md|Karlsuando.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlsuando.personal.md|Karlsuando.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlsuando.secret.md|Karlsuando.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlsuando.internal|Karlsuando.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlsuando.protect|Karlsuando.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlsuando.private|Karlsuando.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlsuando.personal|Karlsuando.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlsuando.secret|Karlsuando.secret]] 

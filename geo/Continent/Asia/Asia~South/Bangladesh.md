@@ -134,7 +134,7 @@ markerFolder: ./Bangladesh/
 ## Confidential Links & Embeds: 
 -[[Bangladesh|Bangladesh]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Bangladesh.internal|Bangladesh.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Bangladesh.protect.md|Bangladesh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Bangladesh.private.md|Bangladesh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Bangladesh.personal.md|Bangladesh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Bangladesh.secret.md|Bangladesh.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Bangladesh.protect|Bangladesh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Bangladesh.private|Bangladesh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Bangladesh.personal|Bangladesh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Bangladesh.secret|Bangladesh.secret]] 

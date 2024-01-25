@@ -17,8 +17,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Caelum.md|Zodiac~Caelum]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Caelum.internal.md|Zodiac~Caelum.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Caelum.protect.md|Zodiac~Caelum.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Caelum.private.md|Zodiac~Caelum.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Caelum.personal.md|Zodiac~Caelum.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Caelum.secret.md|Zodiac~Caelum.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Caelum.internal|Zodiac~Caelum.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Caelum.protect|Zodiac~Caelum.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Caelum.private|Zodiac~Caelum.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Caelum.personal|Zodiac~Caelum.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Caelum.secret|Zodiac~Caelum.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Maykop.md|Maykop]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Maykop.internal.md|Maykop.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Maykop.protect.md|Maykop.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Maykop.private.md|Maykop.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Maykop.personal.md|Maykop.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Maykop.secret.md|Maykop.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Maykop.internal|Maykop.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Maykop.protect|Maykop.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Maykop.private|Maykop.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Maykop.personal|Maykop.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Maykop.secret|Maykop.secret]] 

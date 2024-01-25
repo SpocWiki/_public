@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Algeria/City/Algier=Algiers.md|Algier=Algiers]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/City/Algier=Algiers.internal.md|Algier=Algiers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/City/Algier=Algiers.protect.md|Algier=Algiers.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/City/Algier=Algiers.private.md|Algier=Algiers.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/City/Algier=Algiers.personal.md|Algier=Algiers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/City/Algier=Algiers.secret.md|Algier=Algiers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/City/Algier=Algiers.internal|Algier=Algiers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/City/Algier=Algiers.protect|Algier=Algiers.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/City/Algier=Algiers.private|Algier=Algiers.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/City/Algier=Algiers.personal|Algier=Algiers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/City/Algier=Algiers.secret|Algier=Algiers.secret]] 

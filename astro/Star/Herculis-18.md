@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Herculis-18.md|Herculis-18]] 
-- [[../../../_internal/astro/Star/Herculis-18.internal.md|Herculis-18.internal]] 
-- [[../../../_protect/astro/Star/Herculis-18.protect.md|Herculis-18.protect]] 
-- [[../../../_private/astro/Star/Herculis-18.private.md|Herculis-18.private]] 
-- [[../../../_personal/astro/Star/Herculis-18.personal.md|Herculis-18.personal]] 
-- [[../../../_secret/astro/Star/Herculis-18.secret.md|Herculis-18.secret]]
+- [[../../../_internal/astro/Star/Herculis-18.internal|Herculis-18.internal]] 
+- [[../../../_protect/astro/Star/Herculis-18.protect|Herculis-18.protect]] 
+- [[../../../_private/astro/Star/Herculis-18.private|Herculis-18.private]] 
+- [[../../../_personal/astro/Star/Herculis-18.personal|Herculis-18.personal]] 
+- [[../../../_secret/astro/Star/Herculis-18.secret|Herculis-18.secret]]
 

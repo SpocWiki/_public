@@ -41,9 +41,9 @@ markerFolder: ./Madeira/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Madeira.md|Madeira]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Madeira.internal.md|Madeira.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Madeira.protect.md|Madeira.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Madeira.private.md|Madeira.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Madeira.personal.md|Madeira.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Madeira.secret.md|Madeira.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Madeira.internal|Madeira.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Madeira.protect|Madeira.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Madeira.private|Madeira.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Madeira.personal|Madeira.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Madeira.secret|Madeira.secret]] 
 

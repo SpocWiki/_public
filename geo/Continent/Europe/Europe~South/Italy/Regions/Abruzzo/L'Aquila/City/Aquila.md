@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Aquila.md|Aquila]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Aquila.internal.md|Aquila.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Aquila.protect.md|Aquila.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Aquila.private.md|Aquila.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Aquila.personal.md|Aquila.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Aquila.secret.md|Aquila.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Aquila.internal|Aquila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Aquila.protect|Aquila.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Aquila.private|Aquila.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Aquila.personal|Aquila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Aquila.secret|Aquila.secret]] 

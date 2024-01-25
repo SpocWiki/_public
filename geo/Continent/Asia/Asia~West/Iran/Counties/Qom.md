@@ -41,9 +41,9 @@ markerFolder: ./Qom/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.md|Qom]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.internal.md|Qom.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.protect.md|Qom.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.private.md|Qom.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.personal.md|Qom.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.secret.md|Qom.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.internal|Qom.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.protect|Qom.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.private|Qom.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.personal|Qom.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.secret|Qom.secret]] 
 

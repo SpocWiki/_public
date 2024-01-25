@@ -135,8 +135,8 @@ markerFolder: ./Poland//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland.md|Poland]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland.internal.md|Poland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland.protect.md|Poland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland.private.md|Poland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland.personal.md|Poland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland.secret.md|Poland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland.internal|Poland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland.protect|Poland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland.private|Poland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland.personal|Poland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland.secret|Poland.secret]] 

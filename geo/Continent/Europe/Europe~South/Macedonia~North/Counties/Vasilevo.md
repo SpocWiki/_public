@@ -41,9 +41,9 @@ markerFolder: ./Vasilevo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.md|Vasilevo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.internal.md|Vasilevo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.protect.md|Vasilevo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.private.md|Vasilevo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.personal.md|Vasilevo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.secret.md|Vasilevo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.internal|Vasilevo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.protect|Vasilevo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.private|Vasilevo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.personal|Vasilevo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vasilevo.secret|Vasilevo.secret]] 
 

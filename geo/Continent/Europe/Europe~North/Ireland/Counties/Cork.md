@@ -41,9 +41,9 @@ markerFolder: ./Cork/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Cork.md|Cork]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Cork.internal.md|Cork.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Cork.protect.md|Cork.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Cork.private.md|Cork.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Cork.personal.md|Cork.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Cork.secret.md|Cork.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Cork.internal|Cork.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Cork.protect|Cork.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Cork.private|Cork.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Cork.personal|Cork.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Cork.secret|Cork.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Local_quality-moving_Duration]
 [SpocWebEntityId::23399]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.md|Triz-Speed+Local_quality-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.internal.md|Triz-Speed+Local_quality-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.protect.md|Triz-Speed+Local_quality-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.private.md|Triz-Speed+Local_quality-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.personal.md|Triz-Speed+Local_quality-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.secret.md|Triz-Speed+Local_quality-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.internal|Triz-Speed+Local_quality-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.protect|Triz-Speed+Local_quality-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.private|Triz-Speed+Local_quality-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.personal|Triz-Speed+Local_quality-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Local_quality-moving_Duration.secret|Triz-Speed+Local_quality-moving_Duration.secret]] 

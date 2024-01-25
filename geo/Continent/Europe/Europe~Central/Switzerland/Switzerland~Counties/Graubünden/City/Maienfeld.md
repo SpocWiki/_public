@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Maienfeld.md|Maienfeld]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Maienfeld.internal.md|Maienfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Maienfeld.protect.md|Maienfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Maienfeld.private.md|Maienfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Maienfeld.personal.md|Maienfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Maienfeld.secret.md|Maienfeld.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Maienfeld.internal|Maienfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Maienfeld.protect|Maienfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Maienfeld.private|Maienfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Maienfeld.personal|Maienfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Maienfeld.secret|Maienfeld.secret]] 

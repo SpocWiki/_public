@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Composite_materials-Stress]
 [SpocWebEntityId::22593]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.md|Triz-moving_Weight+Composite_materials-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.internal.md|Triz-moving_Weight+Composite_materials-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.protect.md|Triz-moving_Weight+Composite_materials-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.private.md|Triz-moving_Weight+Composite_materials-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.personal.md|Triz-moving_Weight+Composite_materials-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.secret.md|Triz-moving_Weight+Composite_materials-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.internal|Triz-moving_Weight+Composite_materials-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.protect|Triz-moving_Weight+Composite_materials-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.private|Triz-moving_Weight+Composite_materials-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.personal|Triz-moving_Weight+Composite_materials-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Stress.secret|Triz-moving_Weight+Composite_materials-Stress.secret]] 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Pyxidis-2.md|Pyxidis-2]] 
-- [[../../../_internal/astro/Star/Pyxidis-2.internal.md|Pyxidis-2.internal]] 
-- [[../../../_protect/astro/Star/Pyxidis-2.protect.md|Pyxidis-2.protect]] 
-- [[../../../_private/astro/Star/Pyxidis-2.private.md|Pyxidis-2.private]] 
-- [[../../../_personal/astro/Star/Pyxidis-2.personal.md|Pyxidis-2.personal]] 
-- [[../../../_secret/astro/Star/Pyxidis-2.secret.md|Pyxidis-2.secret]] 
+- [[../../../_internal/astro/Star/Pyxidis-2.internal|Pyxidis-2.internal]] 
+- [[../../../_protect/astro/Star/Pyxidis-2.protect|Pyxidis-2.protect]] 
+- [[../../../_private/astro/Star/Pyxidis-2.private|Pyxidis-2.private]] 
+- [[../../../_personal/astro/Star/Pyxidis-2.personal|Pyxidis-2.personal]] 
+- [[../../../_secret/astro/Star/Pyxidis-2.secret|Pyxidis-2.secret]] 

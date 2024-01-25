@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Mirach.md|Mirach]] 
-- [[../../../_internal/astro/Star/Mirach.internal.md|Mirach.internal]] 
-- [[../../../_protect/astro/Star/Mirach.protect.md|Mirach.protect]] 
-- [[../../../_private/astro/Star/Mirach.private.md|Mirach.private]] 
-- [[../../../_personal/astro/Star/Mirach.personal.md|Mirach.personal]] 
-- [[../../../_secret/astro/Star/Mirach.secret.md|Mirach.secret]] 
+- [[../../../_internal/astro/Star/Mirach.internal|Mirach.internal]] 
+- [[../../../_protect/astro/Star/Mirach.protect|Mirach.protect]] 
+- [[../../../_private/astro/Star/Mirach.private|Mirach.private]] 
+- [[../../../_personal/astro/Star/Mirach.personal|Mirach.personal]] 
+- [[../../../_secret/astro/Star/Mirach.secret|Mirach.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Cabinda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Cabinda.md|Cabinda]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Cabinda.internal.md|Cabinda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Cabinda.protect.md|Cabinda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Cabinda.private.md|Cabinda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Cabinda.personal.md|Cabinda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Cabinda.secret.md|Cabinda.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Cabinda.internal|Cabinda.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Cabinda.protect|Cabinda.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Cabinda.private|Cabinda.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Cabinda.personal|Cabinda.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Cabinda.secret|Cabinda.secret]] 
 

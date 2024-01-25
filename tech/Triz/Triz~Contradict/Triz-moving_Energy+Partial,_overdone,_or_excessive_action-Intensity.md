@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Partial,_overdone,_or_excessive_action-Intensity]
 [SpocWebEntityId::24454]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.internal.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.protect.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.private.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.personal.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.secret.md|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.internal|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.protect|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.private|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.personal|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.secret|Triz-moving_Energy+Partial,_overdone,_or_excessive_action-Intensity.secret]] 

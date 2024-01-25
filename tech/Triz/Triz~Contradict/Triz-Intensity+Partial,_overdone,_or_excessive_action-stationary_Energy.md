@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy]
 [SpocWebEntityId::23533]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-stationary_Energy]]]
+- [#has_/Cons :: [[Triz-stationary_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.md|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.internal.md|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.protect.md|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.private.md|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.personal.md|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.secret.md|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.internal|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.protect|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.private|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.personal|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.secret|Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.secret]] 

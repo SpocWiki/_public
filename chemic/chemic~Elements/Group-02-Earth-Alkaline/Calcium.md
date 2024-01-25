@@ -36,8 +36,8 @@ SpocWebEntityId: 21921
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Calcium.md|Calcium]] 
-- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.internal.md|Calcium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Calcium.protect.md|Calcium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Calcium.private.md|Calcium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.personal.md|Calcium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Calcium.secret.md|Calcium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.internal|Calcium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Calcium.protect|Calcium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Calcium.private|Calcium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.personal|Calcium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Calcium.secret|Calcium.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Marano.md|Marano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Marano.internal.md|Marano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Marano.protect.md|Marano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Marano.private.md|Marano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Marano.personal.md|Marano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Marano.secret.md|Marano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Marano.internal|Marano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Marano.protect|Marano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Marano.private|Marano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Marano.personal|Marano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Marano.secret|Marano.secret]] 

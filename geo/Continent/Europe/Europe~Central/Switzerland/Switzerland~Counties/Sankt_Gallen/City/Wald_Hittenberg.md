@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.md|Wald_Hittenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.internal.md|Wald_Hittenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.protect.md|Wald_Hittenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.private.md|Wald_Hittenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.personal.md|Wald_Hittenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.secret.md|Wald_Hittenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.internal|Wald_Hittenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.protect|Wald_Hittenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.private|Wald_Hittenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.personal|Wald_Hittenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.secret|Wald_Hittenberg.secret]] 

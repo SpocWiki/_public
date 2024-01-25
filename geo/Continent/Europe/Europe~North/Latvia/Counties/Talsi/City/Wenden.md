@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wenden.md|Wenden]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wenden.internal.md|Wenden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wenden.protect.md|Wenden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wenden.private.md|Wenden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wenden.personal.md|Wenden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wenden.secret.md|Wenden.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wenden.internal|Wenden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wenden.protect|Wenden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wenden.private|Wenden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wenden.personal|Wenden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wenden.secret|Wenden.secret]] 

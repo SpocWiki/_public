@@ -41,9 +41,9 @@ markerFolder: ./Carabobo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Carabobo.md|Carabobo]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Carabobo.internal.md|Carabobo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Carabobo.protect.md|Carabobo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Carabobo.private.md|Carabobo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Carabobo.personal.md|Carabobo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Carabobo.secret.md|Carabobo.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Carabobo.internal|Carabobo.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Carabobo.protect|Carabobo.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Carabobo.private|Carabobo.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Carabobo.personal|Carabobo.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Carabobo.secret|Carabobo.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Souss_-_Massa_-_Draâ/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.md|Souss_-_Massa_-_Draâ]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.internal.md|Souss_-_Massa_-_Draâ.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.protect.md|Souss_-_Massa_-_Draâ.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.private.md|Souss_-_Massa_-_Draâ.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.personal.md|Souss_-_Massa_-_Draâ.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.secret.md|Souss_-_Massa_-_Draâ.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.internal|Souss_-_Massa_-_Draâ.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.protect|Souss_-_Massa_-_Draâ.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.private|Souss_-_Massa_-_Draâ.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.personal|Souss_-_Massa_-_Draâ.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Souss_-_Massa_-_Draâ.secret|Souss_-_Massa_-_Draâ.secret]] 
 

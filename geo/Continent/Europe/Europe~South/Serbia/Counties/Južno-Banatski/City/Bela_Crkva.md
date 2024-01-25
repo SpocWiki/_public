@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.md|Bela_Crkva]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.internal.md|Bela_Crkva.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.protect.md|Bela_Crkva.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.private.md|Bela_Crkva.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.personal.md|Bela_Crkva.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.secret.md|Bela_Crkva.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.internal|Bela_Crkva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.protect|Bela_Crkva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.private|Bela_Crkva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.personal|Bela_Crkva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Bela_Crkva.secret|Bela_Crkva.secret]] 

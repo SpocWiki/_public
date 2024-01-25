@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.md|Philadelphia]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.internal.md|Philadelphia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.protect.md|Philadelphia.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.private.md|Philadelphia.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.personal.md|Philadelphia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.secret.md|Philadelphia.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.internal|Philadelphia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.protect|Philadelphia.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.private|Philadelphia.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.personal|Philadelphia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.secret|Philadelphia.secret]] 

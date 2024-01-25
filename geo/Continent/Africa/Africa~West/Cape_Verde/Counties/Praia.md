@@ -41,9 +41,9 @@ markerFolder: ./Praia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Praia.md|Praia]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Praia.internal.md|Praia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Praia.protect.md|Praia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Praia.private.md|Praia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Praia.personal.md|Praia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Praia.secret.md|Praia.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Praia.internal|Praia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Praia.protect|Praia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Praia.private|Praia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Praia.personal|Praia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Praia.secret|Praia.secret]] 
 

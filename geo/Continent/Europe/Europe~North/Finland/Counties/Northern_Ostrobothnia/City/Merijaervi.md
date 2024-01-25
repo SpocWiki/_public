@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Merijaervi.md|Merijaervi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Merijaervi.internal.md|Merijaervi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Merijaervi.protect.md|Merijaervi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Merijaervi.private.md|Merijaervi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Merijaervi.personal.md|Merijaervi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Merijaervi.secret.md|Merijaervi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Merijaervi.internal|Merijaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Merijaervi.protect|Merijaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Merijaervi.private|Merijaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Merijaervi.personal|Merijaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Merijaervi.secret|Merijaervi.secret]] 

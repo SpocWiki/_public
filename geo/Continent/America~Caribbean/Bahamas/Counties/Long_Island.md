@@ -41,9 +41,9 @@ markerFolder: ./Long_Island/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.md|Long_Island]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.internal.md|Long_Island.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.protect.md|Long_Island.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.private.md|Long_Island.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.personal.md|Long_Island.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.secret.md|Long_Island.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.internal|Long_Island.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.protect|Long_Island.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.private|Long_Island.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.personal|Long_Island.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Long_Island.secret|Long_Island.secret]] 
 

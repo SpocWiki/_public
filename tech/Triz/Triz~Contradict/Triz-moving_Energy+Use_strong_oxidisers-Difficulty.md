@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Use_strong_oxidisers-Difficulty]
 [SpocWebEntityId::24535]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.md|Triz-moving_Energy+Use_strong_oxidisers-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.internal.md|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.protect.md|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.private.md|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.personal.md|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.secret.md|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.internal|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.protect|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.private|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.personal|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.secret|Triz-moving_Energy+Use_strong_oxidisers-Difficulty.secret]] 

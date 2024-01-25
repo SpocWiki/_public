@@ -41,9 +41,9 @@ markerFolder: ./Chernihiv/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Chernihiv.md|Chernihiv]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Chernihiv.internal.md|Chernihiv.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Chernihiv.protect.md|Chernihiv.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Chernihiv.private.md|Chernihiv.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Chernihiv.personal.md|Chernihiv.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Chernihiv.secret.md|Chernihiv.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Chernihiv.internal|Chernihiv.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Chernihiv.protect|Chernihiv.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Chernihiv.private|Chernihiv.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Chernihiv.personal|Chernihiv.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Chernihiv.secret|Chernihiv.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southport.md|Southport]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southport.internal.md|Southport.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southport.protect.md|Southport.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southport.private.md|Southport.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southport.personal.md|Southport.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southport.secret.md|Southport.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southport.internal|Southport.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southport.protect|Southport.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southport.private|Southport.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southport.personal|Southport.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southport.secret|Southport.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.md|Scarl=S-charl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.internal.md|Scarl=S-charl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.protect.md|Scarl=S-charl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.private.md|Scarl=S-charl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.personal.md|Scarl=S-charl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.secret.md|Scarl=S-charl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.internal|Scarl=S-charl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.protect|Scarl=S-charl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.private|Scarl=S-charl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.personal|Scarl=S-charl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.secret|Scarl=S-charl.secret]] 

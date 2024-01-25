@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.md|Osterode~Ostpommern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.internal.md|Osterode~Ostpommern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.protect.md|Osterode~Ostpommern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.private.md|Osterode~Ostpommern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.personal.md|Osterode~Ostpommern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.secret.md|Osterode~Ostpommern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.internal|Osterode~Ostpommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.protect|Osterode~Ostpommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.private|Osterode~Ostpommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.personal|Osterode~Ostpommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Osterode~Ostpommern.secret|Osterode~Ostpommern.secret]] 

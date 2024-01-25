@@ -133,8 +133,8 @@ markerFolder: ./Barbados/
 
 ## Confidential Links & Embeds: 
 - [[Barbados|Barbados]] 
-- [[../../../../_internal/geo/Continent/South-America/Barbados.internal.md|Barbados.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Barbados.protect.md|Barbados.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Barbados.private.md|Barbados.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Barbados.personal.md|Barbados.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Barbados.secret.md|Barbados.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Barbados.internal|Barbados.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Barbados.protect|Barbados.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Barbados.private|Barbados.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Barbados.personal|Barbados.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Barbados.secret|Barbados.secret]] 

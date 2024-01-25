@@ -137,7 +137,7 @@ markerFolder: ./Rwanda//
 ## Confidential Links & Embeds: 
 - [[Rwanda|Rwanda]] 
 - [[../../../../../_internal/geo/Continent/Africa/Rwanda.internal|Rwanda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Rwanda.protect.md|Rwanda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Rwanda.private.md|Rwanda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Rwanda.personal.md|Rwanda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Rwanda.secret.md|Rwanda.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Rwanda.protect|Rwanda.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Rwanda.private|Rwanda.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Rwanda.personal|Rwanda.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Rwanda.secret|Rwanda.secret]] 

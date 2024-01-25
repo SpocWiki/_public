@@ -41,9 +41,9 @@ markerFolder: ./Surt/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Surt.md|Surt]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Surt.internal.md|Surt.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Surt.protect.md|Surt.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Surt.private.md|Surt.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Surt.personal.md|Surt.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Surt.secret.md|Surt.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Surt.internal|Surt.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Surt.protect|Surt.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Surt.private|Surt.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Surt.personal|Surt.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Surt.secret|Surt.secret]] 
 

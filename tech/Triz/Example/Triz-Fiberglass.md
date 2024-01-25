@@ -18,8 +18,8 @@ Fiberglass Surfboards are lighter and more controllable and easier to form into 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Fiberglass.md|Triz-Fiberglass]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Fiberglass.internal.md|Triz-Fiberglass.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Fiberglass.protect.md|Triz-Fiberglass.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Fiberglass.private.md|Triz-Fiberglass.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Fiberglass.personal.md|Triz-Fiberglass.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Fiberglass.secret.md|Triz-Fiberglass.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Fiberglass.internal|Triz-Fiberglass.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Fiberglass.protect|Triz-Fiberglass.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Fiberglass.private|Triz-Fiberglass.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Fiberglass.personal|Triz-Fiberglass.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Fiberglass.secret|Triz-Fiberglass.secret]] 

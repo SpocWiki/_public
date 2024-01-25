@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kremsmuenster.md|Kremsmuenster]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kremsmuenster.internal.md|Kremsmuenster.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kremsmuenster.protect.md|Kremsmuenster.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kremsmuenster.private.md|Kremsmuenster.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kremsmuenster.personal.md|Kremsmuenster.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kremsmuenster.secret.md|Kremsmuenster.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kremsmuenster.internal|Kremsmuenster.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kremsmuenster.protect|Kremsmuenster.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kremsmuenster.private|Kremsmuenster.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kremsmuenster.personal|Kremsmuenster.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kremsmuenster.secret|Kremsmuenster.secret]] 

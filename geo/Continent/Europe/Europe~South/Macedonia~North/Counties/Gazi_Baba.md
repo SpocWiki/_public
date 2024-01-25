@@ -41,9 +41,9 @@ markerFolder: ./Gazi_Baba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.md|Gazi_Baba]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.internal.md|Gazi_Baba.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.protect.md|Gazi_Baba.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.private.md|Gazi_Baba.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.personal.md|Gazi_Baba.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.secret.md|Gazi_Baba.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.internal|Gazi_Baba.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.protect|Gazi_Baba.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.private|Gazi_Baba.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.personal|Gazi_Baba.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Gazi_Baba.secret|Gazi_Baba.secret]] 
 

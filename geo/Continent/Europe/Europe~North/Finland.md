@@ -133,8 +133,8 @@ markerFolder: ./Finland//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland.md|Finland]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland.internal.md|Finland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland.protect.md|Finland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland.private.md|Finland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland.personal.md|Finland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland.secret.md|Finland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland.internal|Finland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland.protect|Finland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland.private|Finland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland.personal|Finland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland.secret|Finland.secret]] 

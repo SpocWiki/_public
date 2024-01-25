@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkwall.md|Kirkwall]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkwall.internal.md|Kirkwall.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkwall.protect.md|Kirkwall.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkwall.private.md|Kirkwall.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkwall.personal.md|Kirkwall.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkwall.secret.md|Kirkwall.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkwall.internal|Kirkwall.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkwall.protect|Kirkwall.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkwall.private|Kirkwall.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkwall.personal|Kirkwall.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkwall.secret|Kirkwall.secret]] 

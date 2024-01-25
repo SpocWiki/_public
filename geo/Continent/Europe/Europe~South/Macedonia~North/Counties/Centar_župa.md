@@ -41,9 +41,9 @@ markerFolder: ./Centar_župa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.md|Centar_župa]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.internal.md|Centar_župa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.protect.md|Centar_župa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.private.md|Centar_župa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.personal.md|Centar_župa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.secret.md|Centar_župa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.internal|Centar_župa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.protect|Centar_župa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.private|Centar_župa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.personal|Centar_župa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Centar_župa.secret|Centar_župa.secret]] 
 

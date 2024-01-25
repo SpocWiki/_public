@@ -41,9 +41,9 @@ markerFolder: ./Olbia-Tempio/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.md|Olbia-Tempio]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.internal.md|Olbia-Tempio.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.protect.md|Olbia-Tempio.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.private.md|Olbia-Tempio.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.personal.md|Olbia-Tempio.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.secret.md|Olbia-Tempio.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.internal|Olbia-Tempio.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.protect|Olbia-Tempio.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.private|Olbia-Tempio.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.personal|Olbia-Tempio.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Olbia-Tempio.secret|Olbia-Tempio.secret]] 
 

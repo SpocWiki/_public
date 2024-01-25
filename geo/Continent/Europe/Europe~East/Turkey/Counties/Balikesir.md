@@ -41,9 +41,9 @@ markerFolder: ./Balikesir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Balikesir.md|Balikesir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Balikesir.internal.md|Balikesir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Balikesir.protect.md|Balikesir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Balikesir.private.md|Balikesir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Balikesir.personal.md|Balikesir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Balikesir.secret.md|Balikesir.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Balikesir.internal|Balikesir.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Balikesir.protect|Balikesir.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Balikesir.private|Balikesir.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Balikesir.personal|Balikesir.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Balikesir.secret|Balikesir.secret]] 
 

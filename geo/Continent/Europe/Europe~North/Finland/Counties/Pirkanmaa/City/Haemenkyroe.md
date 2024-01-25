@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Haemenkyroe.md|Haemenkyroe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Haemenkyroe.internal.md|Haemenkyroe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Haemenkyroe.protect.md|Haemenkyroe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Haemenkyroe.private.md|Haemenkyroe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Haemenkyroe.personal.md|Haemenkyroe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Haemenkyroe.secret.md|Haemenkyroe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Haemenkyroe.internal|Haemenkyroe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Haemenkyroe.protect|Haemenkyroe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Haemenkyroe.private|Haemenkyroe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Haemenkyroe.personal|Haemenkyroe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Haemenkyroe.secret|Haemenkyroe.secret]] 

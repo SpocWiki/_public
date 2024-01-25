@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Kravasta.md|Kravasta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Kravasta.internal.md|Kravasta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Kravasta.protect.md|Kravasta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Kravasta.private.md|Kravasta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Kravasta.personal.md|Kravasta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Kravasta.secret.md|Kravasta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Kravasta.internal|Kravasta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Kravasta.protect|Kravasta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Kravasta.private|Kravasta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Kravasta.personal|Kravasta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Kravasta.secret|Kravasta.secret]] 

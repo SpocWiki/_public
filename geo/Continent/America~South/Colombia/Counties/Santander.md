@@ -41,9 +41,9 @@ markerFolder: ./Santander/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Santander.md|Santander]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Santander.internal.md|Santander.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Santander.protect.md|Santander.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Santander.private.md|Santander.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Santander.personal.md|Santander.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Santander.secret.md|Santander.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Santander.internal|Santander.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Santander.protect|Santander.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Santander.private|Santander.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Santander.personal|Santander.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Santander.secret|Santander.secret]] 
 

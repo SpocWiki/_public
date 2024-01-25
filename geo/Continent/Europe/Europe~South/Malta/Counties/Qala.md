@@ -41,9 +41,9 @@ markerFolder: ./Qala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Qala.md|Qala]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Qala.internal.md|Qala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Qala.protect.md|Qala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Qala.private.md|Qala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Qala.personal.md|Qala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Qala.secret.md|Qala.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Qala.internal|Qala.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Qala.protect|Qala.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Qala.private|Qala.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Qala.personal|Qala.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Qala.secret|Qala.secret]] 
 

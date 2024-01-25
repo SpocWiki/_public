@@ -41,9 +41,9 @@ markerFolder: ./Département~Corrèze/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.md|Département~Corrèze]] 
-- [[../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.internal.md|Département~Corrèze.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.protect.md|Département~Corrèze.protect]] 
-- [[../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.private.md|Département~Corrèze.private]] 
-- [[../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.personal.md|Département~Corrèze.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.secret.md|Département~Corrèze.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.internal|Département~Corrèze.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.protect|Département~Corrèze.protect]] 
+- [[../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.private|Département~Corrèze.private]] 
+- [[../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.personal|Département~Corrèze.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.secret|Département~Corrèze.secret]] 
 

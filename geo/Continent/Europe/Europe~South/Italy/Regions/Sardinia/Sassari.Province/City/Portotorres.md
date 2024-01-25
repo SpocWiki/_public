@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Portotorres.md|Portotorres]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Portotorres.internal.md|Portotorres.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Portotorres.protect.md|Portotorres.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Portotorres.private.md|Portotorres.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Portotorres.personal.md|Portotorres.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Portotorres.secret.md|Portotorres.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Portotorres.internal|Portotorres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Portotorres.protect|Portotorres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Portotorres.private|Portotorres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Portotorres.personal|Portotorres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Portotorres.secret|Portotorres.secret]] 

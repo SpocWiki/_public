@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~New_Brunswick|State~New_Brunswick]]] 
 - [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~New_Brunswick.internal|State~New_Brunswick.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~New_Brunswick.protect.md|State~New_Brunswick.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~New_Brunswick.private.md|State~New_Brunswick.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~New_Brunswick.personal.md|State~New_Brunswick.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~New_Brunswick.secret.md|State~New_Brunswick.secret]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~New_Brunswick.protect|State~New_Brunswick.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~New_Brunswick.private|State~New_Brunswick.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~New_Brunswick.personal|State~New_Brunswick.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~New_Brunswick.secret|State~New_Brunswick.secret]] 

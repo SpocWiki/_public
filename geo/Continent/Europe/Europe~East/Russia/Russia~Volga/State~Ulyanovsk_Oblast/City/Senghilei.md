@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Senghilei.md|Senghilei]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Senghilei.internal.md|Senghilei.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Senghilei.protect.md|Senghilei.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Senghilei.private.md|Senghilei.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Senghilei.personal.md|Senghilei.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Senghilei.secret.md|Senghilei.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Senghilei.internal|Senghilei.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Senghilei.protect|Senghilei.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Senghilei.private|Senghilei.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Senghilei.personal|Senghilei.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Senghilei.secret|Senghilei.secret]] 

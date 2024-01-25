@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.md|Ehrenfriedersdorf]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.internal.md|Ehrenfriedersdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.protect.md|Ehrenfriedersdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.private.md|Ehrenfriedersdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.personal.md|Ehrenfriedersdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.secret.md|Ehrenfriedersdorf.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.internal|Ehrenfriedersdorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.protect|Ehrenfriedersdorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.private|Ehrenfriedersdorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.personal|Ehrenfriedersdorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.secret|Ehrenfriedersdorf.secret]] 

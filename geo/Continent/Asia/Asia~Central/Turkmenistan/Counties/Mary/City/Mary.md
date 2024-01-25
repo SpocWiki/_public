@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mary.md|Mary]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mary.internal.md|Mary.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mary.protect.md|Mary.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mary.private.md|Mary.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mary.personal.md|Mary.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mary.secret.md|Mary.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mary.internal|Mary.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mary.protect|Mary.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mary.private|Mary.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mary.personal|Mary.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mary.secret|Mary.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Manzini/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Swaziland/Counties/Manzini.md|Manzini]] 
-- [[../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Manzini.internal.md|Manzini.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Manzini.protect.md|Manzini.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Swaziland/Counties/Manzini.private.md|Manzini.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Manzini.personal.md|Manzini.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Manzini.secret.md|Manzini.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Manzini.internal|Manzini.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Manzini.protect|Manzini.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Swaziland/Counties/Manzini.private|Manzini.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Manzini.personal|Manzini.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Manzini.secret|Manzini.secret]] 
 

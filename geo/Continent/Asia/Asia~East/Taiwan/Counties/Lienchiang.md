@@ -41,9 +41,9 @@ markerFolder: ./Lienchiang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.md|Lienchiang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.internal.md|Lienchiang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.protect.md|Lienchiang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.private.md|Lienchiang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.personal.md|Lienchiang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.secret.md|Lienchiang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.internal|Lienchiang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.protect|Lienchiang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.private|Lienchiang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.personal|Lienchiang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Lienchiang.secret|Lienchiang.secret]] 
 

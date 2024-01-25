@@ -41,9 +41,9 @@ markerFolder: ./Táchira/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Táchira.md|Táchira]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Táchira.internal.md|Táchira.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Táchira.protect.md|Táchira.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Táchira.private.md|Táchira.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Táchira.personal.md|Táchira.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Táchira.secret.md|Táchira.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Táchira.internal|Táchira.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Táchira.protect|Táchira.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Táchira.private|Táchira.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Táchira.personal|Táchira.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Táchira.secret|Táchira.secret]] 
 

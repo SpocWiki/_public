@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Urluk.md|Urluk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Urluk.internal.md|Urluk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Urluk.protect.md|Urluk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Urluk.private.md|Urluk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Urluk.personal.md|Urluk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Urluk.secret.md|Urluk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Urluk.internal|Urluk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Urluk.protect|Urluk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Urluk.private|Urluk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Urluk.personal|Urluk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Urluk.secret|Urluk.secret]] 

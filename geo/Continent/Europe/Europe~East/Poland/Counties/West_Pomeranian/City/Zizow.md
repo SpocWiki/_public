@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zizow.md|Zizow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zizow.internal.md|Zizow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zizow.protect.md|Zizow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zizow.private.md|Zizow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zizow.personal.md|Zizow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zizow.secret.md|Zizow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zizow.internal|Zizow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zizow.protect|Zizow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zizow.private|Zizow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zizow.personal|Zizow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zizow.secret|Zizow.secret]] 

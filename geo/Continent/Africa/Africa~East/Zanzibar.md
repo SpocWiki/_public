@@ -37,7 +37,7 @@ markerFolder: ./Zanzibar/
 ## Confidential Links & Embeds: 
 -[[Zanzibar|Zanzibar]]] 
 -[[../../../../../_internal/geo/Continent/Africa/Zanzibar.internal|Zanzibar.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Zanzibar.protect.md|Zanzibar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zanzibar.private.md|Zanzibar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zanzibar.personal.md|Zanzibar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zanzibar.secret.md|Zanzibar.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Zanzibar.protect|Zanzibar.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zanzibar.private|Zanzibar.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zanzibar.personal|Zanzibar.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zanzibar.secret|Zanzibar.secret]] 

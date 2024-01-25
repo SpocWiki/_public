@@ -41,9 +41,9 @@ markerFolder: ./Ceuta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.md|Ceuta]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.internal.md|Ceuta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.protect.md|Ceuta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.private.md|Ceuta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.personal.md|Ceuta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.secret.md|Ceuta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.internal|Ceuta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.protect|Ceuta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.private|Ceuta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.personal|Ceuta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Ceuta.secret|Ceuta.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./L'Aquila/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.md|L'Aquila]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.internal.md|L'Aquila.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.protect.md|L'Aquila.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.private.md|L'Aquila.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.personal.md|L'Aquila.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.secret.md|L'Aquila.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.internal|L'Aquila.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.protect|L'Aquila.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.private|L'Aquila.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.personal|L'Aquila.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Abruzzo/L'Aquila.secret|L'Aquila.secret]] 
 

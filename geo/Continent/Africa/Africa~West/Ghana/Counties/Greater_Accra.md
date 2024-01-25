@@ -41,9 +41,9 @@ markerFolder: ./Greater_Accra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Greater_Accra.md|Greater_Accra]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Greater_Accra.internal.md|Greater_Accra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Greater_Accra.protect.md|Greater_Accra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Greater_Accra.private.md|Greater_Accra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Greater_Accra.personal.md|Greater_Accra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Greater_Accra.secret.md|Greater_Accra.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Greater_Accra.internal|Greater_Accra.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Greater_Accra.protect|Greater_Accra.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Greater_Accra.private|Greater_Accra.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Greater_Accra.personal|Greater_Accra.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Greater_Accra.secret|Greater_Accra.secret]] 
 

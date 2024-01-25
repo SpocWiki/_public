@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity]
 [SpocWebEntityId::25066]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.personal.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.secret.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.personal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.secret|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Orense.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.md|Orense.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.internal.md|Orense.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.protect.md|Orense.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.private.md|Orense.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.personal.md|Orense.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.secret.md|Orense.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.internal|Orense.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.protect|Orense.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.private|Orense.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.personal|Orense.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Galicia/Orense.Province.secret|Orense.Province.secret]] 
 

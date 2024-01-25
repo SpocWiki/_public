@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Phase_transition-Stress]
 [SpocWebEntityId::23119]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.md|Triz-stationary_Area+Phase_transition-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.internal.md|Triz-stationary_Area+Phase_transition-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.protect.md|Triz-stationary_Area+Phase_transition-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.private.md|Triz-stationary_Area+Phase_transition-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.personal.md|Triz-stationary_Area+Phase_transition-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.secret.md|Triz-stationary_Area+Phase_transition-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.internal|Triz-stationary_Area+Phase_transition-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.protect|Triz-stationary_Area+Phase_transition-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.private|Triz-stationary_Area+Phase_transition-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.personal|Triz-stationary_Area+Phase_transition-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Stress.secret|Triz-stationary_Area+Phase_transition-Stress.secret]] 

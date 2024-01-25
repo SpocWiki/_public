@@ -137,7 +137,7 @@ markerFolder: ./Tunisia//
 ## Confidential Links & Embeds: 
 - [[Tunisia|Tunisia]] 
 - [[../../../../../_internal/geo/Continent/Africa/Tunisia.internal|Tunisia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia.protect.md|Tunisia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia.private.md|Tunisia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia.personal.md|Tunisia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia.secret.md|Tunisia.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia.protect|Tunisia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia.private|Tunisia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia.personal|Tunisia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia.secret|Tunisia.secret]] 

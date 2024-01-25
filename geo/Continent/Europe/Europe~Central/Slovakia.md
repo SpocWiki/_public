@@ -135,8 +135,8 @@ markerFolder: ./Slovakia//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovakia.md|Slovakia]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovakia.internal.md|Slovakia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovakia.protect.md|Slovakia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovakia.private.md|Slovakia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovakia.personal.md|Slovakia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovakia.secret.md|Slovakia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovakia.internal|Slovakia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovakia.protect|Slovakia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovakia.private|Slovakia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovakia.personal|Slovakia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovakia.secret|Slovakia.secret]] 

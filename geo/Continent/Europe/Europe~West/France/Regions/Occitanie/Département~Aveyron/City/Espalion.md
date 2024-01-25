@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Espalion.md|Espalion]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Espalion.internal.md|Espalion.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Espalion.protect.md|Espalion.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Espalion.private.md|Espalion.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Espalion.personal.md|Espalion.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Espalion.secret.md|Espalion.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Espalion.internal|Espalion.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Espalion.protect|Espalion.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Espalion.private|Espalion.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Espalion.personal|Espalion.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Espalion.secret|Espalion.secret]] 

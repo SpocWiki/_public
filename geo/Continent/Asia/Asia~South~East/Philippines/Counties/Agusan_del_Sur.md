@@ -41,9 +41,9 @@ markerFolder: ./Agusan_del_Sur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.md|Agusan_del_Sur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.internal.md|Agusan_del_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.protect.md|Agusan_del_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.private.md|Agusan_del_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.personal.md|Agusan_del_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.secret.md|Agusan_del_Sur.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.internal|Agusan_del_Sur.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.protect|Agusan_del_Sur.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.private|Agusan_del_Sur.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.personal|Agusan_del_Sur.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.secret|Agusan_del_Sur.secret]] 
 

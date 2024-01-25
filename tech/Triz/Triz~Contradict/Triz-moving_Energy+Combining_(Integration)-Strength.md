@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Combining_(Integration)-Strength]
 [SpocWebEntityId::24468]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle:[[Triz-Combining(Integration)]]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.md|Triz-moving_Energy+Combining_(Integration)-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.internal.md|Triz-moving_Energy+Combining_(Integration)-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.protect.md|Triz-moving_Energy+Combining_(Integration)-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.private.md|Triz-moving_Energy+Combining_(Integration)-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.personal.md|Triz-moving_Energy+Combining_(Integration)-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.secret.md|Triz-moving_Energy+Combining_(Integration)-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.internal|Triz-moving_Energy+Combining_(Integration)-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.protect|Triz-moving_Energy+Combining_(Integration)-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.private|Triz-moving_Energy+Combining_(Integration)-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.personal|Triz-moving_Energy+Combining_(Integration)-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.secret|Triz-moving_Energy+Combining_(Integration)-Strength.secret]] 

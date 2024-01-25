@@ -41,9 +41,9 @@ markerFolder: ./Sidi_Bel_Abbès/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.md|Sidi_Bel_Abbès]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.internal.md|Sidi_Bel_Abbès.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.protect.md|Sidi_Bel_Abbès.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.private.md|Sidi_Bel_Abbès.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.personal.md|Sidi_Bel_Abbès.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.secret.md|Sidi_Bel_Abbès.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.internal|Sidi_Bel_Abbès.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.protect|Sidi_Bel_Abbès.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.private|Sidi_Bel_Abbès.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.personal|Sidi_Bel_Abbès.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.secret|Sidi_Bel_Abbès.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Husari.md|Husari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Husari.internal.md|Husari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Husari.protect.md|Husari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Husari.private.md|Husari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Husari.personal.md|Husari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Husari.secret.md|Husari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Husari.internal|Husari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Husari.protect|Husari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Husari.private|Husari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Husari.personal|Husari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Husari.secret|Husari.secret]] 

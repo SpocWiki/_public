@@ -41,9 +41,9 @@ markerFolder: ./Jiangsu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.md|Jiangsu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.internal.md|Jiangsu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.protect.md|Jiangsu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.private.md|Jiangsu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.personal.md|Jiangsu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.secret.md|Jiangsu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.internal|Jiangsu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.protect|Jiangsu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.private|Jiangsu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.personal|Jiangsu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.secret|Jiangsu.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hove.md|Hove]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hove.internal.md|Hove.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hove.protect.md|Hove.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hove.private.md|Hove.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hove.personal.md|Hove.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hove.secret.md|Hove.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hove.internal|Hove.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hove.protect|Hove.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hove.private|Hove.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hove.personal|Hove.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hove.secret|Hove.secret]] 

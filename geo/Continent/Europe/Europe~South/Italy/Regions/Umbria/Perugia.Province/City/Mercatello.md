@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mercatello.md|Mercatello]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mercatello.internal.md|Mercatello.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mercatello.protect.md|Mercatello.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mercatello.private.md|Mercatello.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mercatello.personal.md|Mercatello.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mercatello.secret.md|Mercatello.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mercatello.internal|Mercatello.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mercatello.protect|Mercatello.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mercatello.private|Mercatello.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mercatello.personal|Mercatello.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mercatello.secret|Mercatello.secret]] 

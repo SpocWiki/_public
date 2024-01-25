@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Modena.md|Modena]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Modena.internal.md|Modena.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Modena.protect.md|Modena.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Modena.private.md|Modena.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Modena.personal.md|Modena.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Modena.secret.md|Modena.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Modena.internal|Modena.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Modena.protect|Modena.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Modena.private|Modena.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Modena.personal|Modena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Modena.secret|Modena.secret]] 

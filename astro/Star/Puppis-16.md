@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Puppis-16.md|Puppis-16]] 
-- [[../../../_internal/astro/Star/Puppis-16.internal.md|Puppis-16.internal]] 
-- [[../../../_protect/astro/Star/Puppis-16.protect.md|Puppis-16.protect]] 
-- [[../../../_private/astro/Star/Puppis-16.private.md|Puppis-16.private]] 
-- [[../../../_personal/astro/Star/Puppis-16.personal.md|Puppis-16.personal]] 
-- [[../../../_secret/astro/Star/Puppis-16.secret.md|Puppis-16.secret]] 
+- [[../../../_internal/astro/Star/Puppis-16.internal|Puppis-16.internal]] 
+- [[../../../_protect/astro/Star/Puppis-16.protect|Puppis-16.protect]] 
+- [[../../../_private/astro/Star/Puppis-16.private|Puppis-16.private]] 
+- [[../../../_personal/astro/Star/Puppis-16.personal|Puppis-16.personal]] 
+- [[../../../_secret/astro/Star/Puppis-16.secret|Puppis-16.secret]] 

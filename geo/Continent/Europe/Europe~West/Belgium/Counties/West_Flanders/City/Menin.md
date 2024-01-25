@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Menin.md|Menin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Menin.internal.md|Menin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Menin.protect.md|Menin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Menin.private.md|Menin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Menin.personal.md|Menin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Menin.secret.md|Menin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Menin.internal|Menin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Menin.protect|Menin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Menin.private|Menin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Menin.personal|Menin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Menin.secret|Menin.secret]] 

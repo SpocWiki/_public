@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bohlschau.md|Bohlschau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bohlschau.internal.md|Bohlschau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bohlschau.protect.md|Bohlschau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bohlschau.private.md|Bohlschau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bohlschau.personal.md|Bohlschau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bohlschau.secret.md|Bohlschau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bohlschau.internal|Bohlschau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bohlschau.protect|Bohlschau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bohlschau.private|Bohlschau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bohlschau.personal|Bohlschau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bohlschau.secret|Bohlschau.secret]] 

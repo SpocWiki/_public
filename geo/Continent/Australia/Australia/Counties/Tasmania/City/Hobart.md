@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Australia/Australia/City/Hobart.md|Hobart]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Hobart.internal.md|Hobart.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Hobart.protect.md|Hobart.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Hobart.private.md|Hobart.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Hobart.personal.md|Hobart.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Hobart.secret.md|Hobart.secret]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Hobart.internal|Hobart.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Hobart.protect|Hobart.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Hobart.private|Hobart.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Hobart.personal|Hobart.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Hobart.secret|Hobart.secret]] 

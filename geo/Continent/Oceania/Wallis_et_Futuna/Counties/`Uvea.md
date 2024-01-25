@@ -41,9 +41,9 @@ markerFolder: ./`Uvea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.md|`Uvea]] 
-- [[../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.internal.md|`Uvea.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.protect.md|`Uvea.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.private.md|`Uvea.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.personal.md|`Uvea.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.secret.md|`Uvea.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.internal|`Uvea.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.protect|`Uvea.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.private|`Uvea.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.personal|`Uvea.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna/Counties/`Uvea.secret|`Uvea.secret]] 
 

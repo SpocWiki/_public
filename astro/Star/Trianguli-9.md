@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Trianguli-9.md|Trianguli-9]] 
-- [[../../../_internal/astro/Star/Trianguli-9.internal.md|Trianguli-9.internal]] 
-- [[../../../_protect/astro/Star/Trianguli-9.protect.md|Trianguli-9.protect]] 
-- [[../../../_private/astro/Star/Trianguli-9.private.md|Trianguli-9.private]] 
-- [[../../../_personal/astro/Star/Trianguli-9.personal.md|Trianguli-9.personal]] 
-- [[../../../_secret/astro/Star/Trianguli-9.secret.md|Trianguli-9.secret]] 
+- [[../../../_internal/astro/Star/Trianguli-9.internal|Trianguli-9.internal]] 
+- [[../../../_protect/astro/Star/Trianguli-9.protect|Trianguli-9.protect]] 
+- [[../../../_private/astro/Star/Trianguli-9.private|Trianguli-9.private]] 
+- [[../../../_personal/astro/Star/Trianguli-9.personal|Trianguli-9.personal]] 
+- [[../../../_secret/astro/Star/Trianguli-9.secret|Trianguli-9.secret]] 

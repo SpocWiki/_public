@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Glaswo.md|Glaswo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Glaswo.internal.md|Glaswo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Glaswo.protect.md|Glaswo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Glaswo.private.md|Glaswo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Glaswo.personal.md|Glaswo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Glaswo.secret.md|Glaswo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Glaswo.internal|Glaswo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Glaswo.protect|Glaswo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Glaswo.private|Glaswo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Glaswo.personal|Glaswo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Glaswo.secret|Glaswo.secret]] 

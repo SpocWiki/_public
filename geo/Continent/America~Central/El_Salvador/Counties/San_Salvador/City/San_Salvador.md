@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/El_Salvador/City/San_Salvador.md|San_Salvador]] 
-- [[../../../../../../_internal/geo/Continent/South-America/El_Salvador/City/San_Salvador.internal.md|San_Salvador.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/El_Salvador/City/San_Salvador.protect.md|San_Salvador.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/El_Salvador/City/San_Salvador.private.md|San_Salvador.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/El_Salvador/City/San_Salvador.personal.md|San_Salvador.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/El_Salvador/City/San_Salvador.secret.md|San_Salvador.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/El_Salvador/City/San_Salvador.internal|San_Salvador.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/El_Salvador/City/San_Salvador.protect|San_Salvador.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/El_Salvador/City/San_Salvador.private|San_Salvador.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/El_Salvador/City/San_Salvador.personal|San_Salvador.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/El_Salvador/City/San_Salvador.secret|San_Salvador.secret]] 

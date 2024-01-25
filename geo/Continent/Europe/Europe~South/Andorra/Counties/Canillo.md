@@ -41,9 +41,9 @@ markerFolder: ./Canillo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Andorra/Counties/Canillo.md|Canillo]] 
-- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Canillo.internal.md|Canillo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Canillo.protect.md|Canillo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Canillo.private.md|Canillo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Canillo.personal.md|Canillo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Canillo.secret.md|Canillo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Canillo.internal|Canillo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Canillo.protect|Canillo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Canillo.private|Canillo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Canillo.personal|Canillo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Canillo.secret|Canillo.secret]] 
 

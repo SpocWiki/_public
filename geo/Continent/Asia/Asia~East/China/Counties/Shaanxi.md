@@ -41,9 +41,9 @@ markerFolder: ./Shaanxi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.md|Shaanxi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.internal.md|Shaanxi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.protect.md|Shaanxi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.private.md|Shaanxi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.personal.md|Shaanxi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.secret.md|Shaanxi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.internal|Shaanxi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.protect|Shaanxi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.private|Shaanxi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.personal|Shaanxi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.secret|Shaanxi.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Verbano-Cusio-Ossola/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.md|Verbano-Cusio-Ossola]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.internal.md|Verbano-Cusio-Ossola.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.protect.md|Verbano-Cusio-Ossola.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.private.md|Verbano-Cusio-Ossola.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.personal.md|Verbano-Cusio-Ossola.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.secret.md|Verbano-Cusio-Ossola.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.internal|Verbano-Cusio-Ossola.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.protect|Verbano-Cusio-Ossola.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.private|Verbano-Cusio-Ossola.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.personal|Verbano-Cusio-Ossola.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Verbano-Cusio-Ossola.secret|Verbano-Cusio-Ossola.secret]] 
 

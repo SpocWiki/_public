@@ -41,9 +41,9 @@ markerFolder: ./Xiangkhoang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.md|Xiangkhoang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.internal.md|Xiangkhoang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.protect.md|Xiangkhoang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.private.md|Xiangkhoang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.personal.md|Xiangkhoang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.secret.md|Xiangkhoang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.internal|Xiangkhoang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.protect|Xiangkhoang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.private|Xiangkhoang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.personal|Xiangkhoang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xiangkhoang.secret|Xiangkhoang.secret]] 
 

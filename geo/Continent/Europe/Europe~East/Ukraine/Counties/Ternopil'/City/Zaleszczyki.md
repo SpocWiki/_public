@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zaleszczyki.md|Zaleszczyki]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zaleszczyki.internal.md|Zaleszczyki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zaleszczyki.protect.md|Zaleszczyki.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zaleszczyki.private.md|Zaleszczyki.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zaleszczyki.personal.md|Zaleszczyki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zaleszczyki.secret.md|Zaleszczyki.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zaleszczyki.internal|Zaleszczyki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zaleszczyki.protect|Zaleszczyki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zaleszczyki.private|Zaleszczyki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zaleszczyki.personal|Zaleszczyki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zaleszczyki.secret|Zaleszczyki.secret]] 

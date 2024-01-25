@@ -41,9 +41,9 @@ markerFolder: ./Kayes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mali/Counties/Kayes.md|Kayes]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Kayes.internal.md|Kayes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Kayes.protect.md|Kayes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Kayes.private.md|Kayes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Kayes.personal.md|Kayes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Kayes.secret.md|Kayes.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Kayes.internal|Kayes.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Kayes.protect|Kayes.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Kayes.private|Kayes.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Kayes.personal|Kayes.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Kayes.secret|Kayes.secret]] 
 

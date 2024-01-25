@@ -41,9 +41,9 @@ markerFolder: ./Veliko_Tarnovo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.md|Veliko_Tarnovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.internal.md|Veliko_Tarnovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.protect.md|Veliko_Tarnovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.private.md|Veliko_Tarnovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.personal.md|Veliko_Tarnovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.secret.md|Veliko_Tarnovo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.internal|Veliko_Tarnovo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.protect|Veliko_Tarnovo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.private|Veliko_Tarnovo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.personal|Veliko_Tarnovo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Veliko_Tarnovo.secret|Veliko_Tarnovo.secret]] 
 

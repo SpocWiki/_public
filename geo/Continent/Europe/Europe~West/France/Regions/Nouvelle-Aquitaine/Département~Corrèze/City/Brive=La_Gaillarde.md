@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Brive=La_Gaillarde.md|Brive=La_Gaillarde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Brive=La_Gaillarde.internal.md|Brive=La_Gaillarde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Brive=La_Gaillarde.protect.md|Brive=La_Gaillarde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Brive=La_Gaillarde.private.md|Brive=La_Gaillarde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Brive=La_Gaillarde.personal.md|Brive=La_Gaillarde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Brive=La_Gaillarde.secret.md|Brive=La_Gaillarde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Brive=La_Gaillarde.internal|Brive=La_Gaillarde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Brive=La_Gaillarde.protect|Brive=La_Gaillarde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Brive=La_Gaillarde.private|Brive=La_Gaillarde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Brive=La_Gaillarde.personal|Brive=La_Gaillarde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Brive=La_Gaillarde.secret|Brive=La_Gaillarde.secret]] 

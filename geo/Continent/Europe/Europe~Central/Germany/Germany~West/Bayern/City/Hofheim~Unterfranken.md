@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Hofheim~Unterfranken|Hofheim~Unterfranken]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.internal.md|Hofheim~Unterfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.protect.md|Hofheim~Unterfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.private.md|Hofheim~Unterfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.personal.md|Hofheim~Unterfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.secret.md|Hofheim~Unterfranken.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.internal|Hofheim~Unterfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.protect|Hofheim~Unterfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.private|Hofheim~Unterfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.personal|Hofheim~Unterfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.secret|Hofheim~Unterfranken.secret]] 

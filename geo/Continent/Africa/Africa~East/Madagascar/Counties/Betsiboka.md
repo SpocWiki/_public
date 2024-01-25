@@ -41,9 +41,9 @@ markerFolder: ./Betsiboka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Betsiboka.md|Betsiboka]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Betsiboka.internal.md|Betsiboka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Betsiboka.protect.md|Betsiboka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Betsiboka.private.md|Betsiboka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Betsiboka.personal.md|Betsiboka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Betsiboka.secret.md|Betsiboka.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Betsiboka.internal|Betsiboka.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Betsiboka.protect|Betsiboka.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Betsiboka.private|Betsiboka.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Betsiboka.personal|Betsiboka.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Betsiboka.secret|Betsiboka.secret]] 
 

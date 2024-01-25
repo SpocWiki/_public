@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.md|Wilkau~Westpommern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.internal.md|Wilkau~Westpommern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.protect.md|Wilkau~Westpommern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.private.md|Wilkau~Westpommern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.personal.md|Wilkau~Westpommern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.secret.md|Wilkau~Westpommern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.internal|Wilkau~Westpommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.protect|Wilkau~Westpommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.private|Wilkau~Westpommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.personal|Wilkau~Westpommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.secret|Wilkau~Westpommern.secret]] 

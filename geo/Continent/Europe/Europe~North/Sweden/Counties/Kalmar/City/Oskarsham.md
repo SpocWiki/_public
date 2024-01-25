@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Oskarsham.md|Oskarsham]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oskarsham.internal.md|Oskarsham.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oskarsham.protect.md|Oskarsham.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oskarsham.private.md|Oskarsham.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oskarsham.personal.md|Oskarsham.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oskarsham.secret.md|Oskarsham.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oskarsham.internal|Oskarsham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oskarsham.protect|Oskarsham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oskarsham.private|Oskarsham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oskarsham.personal|Oskarsham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oskarsham.secret|Oskarsham.secret]] 

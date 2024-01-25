@@ -41,9 +41,9 @@ markerFolder: ./Paracel_Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.md|Paracel_Islands]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.internal.md|Paracel_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.protect.md|Paracel_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.private.md|Paracel_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.personal.md|Paracel_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.secret.md|Paracel_Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.internal|Paracel_Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.protect|Paracel_Islands.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.private|Paracel_Islands.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.personal|Paracel_Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.secret|Paracel_Islands.secret]] 
 

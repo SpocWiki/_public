@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Deutsch-Lissa.md|Deutsch-Lissa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Deutsch-Lissa.internal.md|Deutsch-Lissa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Deutsch-Lissa.protect.md|Deutsch-Lissa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Deutsch-Lissa.private.md|Deutsch-Lissa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Deutsch-Lissa.personal.md|Deutsch-Lissa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Deutsch-Lissa.secret.md|Deutsch-Lissa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Deutsch-Lissa.internal|Deutsch-Lissa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Deutsch-Lissa.protect|Deutsch-Lissa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Deutsch-Lissa.private|Deutsch-Lissa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Deutsch-Lissa.personal|Deutsch-Lissa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Deutsch-Lissa.secret|Deutsch-Lissa.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Jämtland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Jämtland.md|Jämtland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Jämtland.internal.md|Jämtland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Jämtland.protect.md|Jämtland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Jämtland.private.md|Jämtland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Jämtland.personal.md|Jämtland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Jämtland.secret.md|Jämtland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Jämtland.internal|Jämtland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Jämtland.protect|Jämtland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Jämtland.private|Jämtland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Jämtland.personal|Jämtland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Jämtland.secret|Jämtland.secret]] 
 

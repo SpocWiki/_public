@@ -41,9 +41,9 @@ markerFolder: ./Negotino/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Negotino.md|Negotino]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Negotino.internal.md|Negotino.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Negotino.protect.md|Negotino.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Negotino.private.md|Negotino.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Negotino.personal.md|Negotino.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Negotino.secret.md|Negotino.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Negotino.internal|Negotino.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Negotino.protect|Negotino.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Negotino.private|Negotino.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Negotino.personal|Negotino.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Negotino.secret|Negotino.secret]] 
 

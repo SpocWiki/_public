@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Elena.md|Elena]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Elena.internal.md|Elena.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Elena.protect.md|Elena.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Elena.private.md|Elena.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Elena.personal.md|Elena.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Elena.secret.md|Elena.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Elena.internal|Elena.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Elena.protect|Elena.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Elena.private|Elena.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Elena.personal|Elena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Elena.secret|Elena.secret]] 

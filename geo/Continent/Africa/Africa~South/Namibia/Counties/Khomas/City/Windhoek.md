@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Namibia/City/Windhoek.md|Windhoek]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Namibia/City/Windhoek.internal.md|Windhoek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Namibia/City/Windhoek.protect.md|Windhoek.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Namibia/City/Windhoek.private.md|Windhoek.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Namibia/City/Windhoek.personal.md|Windhoek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Namibia/City/Windhoek.secret.md|Windhoek.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Namibia/City/Windhoek.internal|Windhoek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Namibia/City/Windhoek.protect|Windhoek.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Namibia/City/Windhoek.private|Windhoek.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Namibia/City/Windhoek.personal|Windhoek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Namibia/City/Windhoek.secret|Windhoek.secret]] 

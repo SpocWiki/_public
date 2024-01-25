@@ -41,9 +41,9 @@ markerFolder: ./Brunei_and_Muara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.md|Brunei_and_Muara]] 
-- [[../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.internal.md|Brunei_and_Muara.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.protect.md|Brunei_and_Muara.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.private.md|Brunei_and_Muara.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.personal.md|Brunei_and_Muara.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.secret.md|Brunei_and_Muara.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.internal|Brunei_and_Muara.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.protect|Brunei_and_Muara.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.private|Brunei_and_Muara.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.personal|Brunei_and_Muara.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.secret|Brunei_and_Muara.secret]] 
 

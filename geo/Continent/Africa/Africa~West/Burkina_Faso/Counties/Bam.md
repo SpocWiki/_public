@@ -41,9 +41,9 @@ markerFolder: ./Bam/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bam.md|Bam]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.internal.md|Bam.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bam.protect.md|Bam.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bam.private.md|Bam.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.personal.md|Bam.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bam.secret.md|Bam.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.internal|Bam.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bam.protect|Bam.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bam.private|Bam.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.personal|Bam.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bam.secret|Bam.secret]] 
 

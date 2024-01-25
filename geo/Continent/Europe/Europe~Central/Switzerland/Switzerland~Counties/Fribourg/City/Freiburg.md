@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Freiburg.md|Freiburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Freiburg.internal.md|Freiburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Freiburg.protect.md|Freiburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Freiburg.private.md|Freiburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Freiburg.personal.md|Freiburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Freiburg.secret.md|Freiburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Freiburg.internal|Freiburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Freiburg.protect|Freiburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Freiburg.private|Freiburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Freiburg.personal|Freiburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Freiburg.secret|Freiburg.secret]] 

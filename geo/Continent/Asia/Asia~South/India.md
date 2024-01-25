@@ -159,7 +159,7 @@ markerFolder: ./India/
 ## Confidential Links & Embeds: 
 -[[India|India]]] 
 -[[../../../../../_internal/geo/Continent/Asia/India.internal|India.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/India.protect.md|India.protect]] 
-- [[../../../../_private/geo/Continent/Asia/India.private.md|India.private]] 
-- [[../../../../_personal/geo/Continent/Asia/India.personal.md|India.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/India.secret.md|India.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/India.protect|India.protect]] 
+- [[../../../../_private/geo/Continent/Asia/India.private|India.private]] 
+- [[../../../../_personal/geo/Continent/Asia/India.personal|India.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/India.secret|India.secret]] 

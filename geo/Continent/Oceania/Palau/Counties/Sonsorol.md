@@ -41,9 +41,9 @@ markerFolder: ./Sonsorol/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Sonsorol.md|Sonsorol]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Sonsorol.internal.md|Sonsorol.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Sonsorol.protect.md|Sonsorol.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Sonsorol.private.md|Sonsorol.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Sonsorol.personal.md|Sonsorol.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Sonsorol.secret.md|Sonsorol.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Sonsorol.internal|Sonsorol.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Sonsorol.protect|Sonsorol.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Sonsorol.private|Sonsorol.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Sonsorol.personal|Sonsorol.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Sonsorol.secret|Sonsorol.secret]] 
 

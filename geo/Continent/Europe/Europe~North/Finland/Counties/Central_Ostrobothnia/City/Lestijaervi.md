@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lestijaervi.md|Lestijaervi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lestijaervi.internal.md|Lestijaervi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lestijaervi.protect.md|Lestijaervi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lestijaervi.private.md|Lestijaervi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lestijaervi.personal.md|Lestijaervi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lestijaervi.secret.md|Lestijaervi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lestijaervi.internal|Lestijaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lestijaervi.protect|Lestijaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lestijaervi.private|Lestijaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lestijaervi.personal|Lestijaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lestijaervi.secret|Lestijaervi.secret]] 

@@ -39,8 +39,8 @@ SpocWebEntityId: 21910
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Oxygen.md|Oxygen]] 
-- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Oxygen.internal.md|Oxygen.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Oxygen.protect.md|Oxygen.protect]] 
-- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Oxygen.private.md|Oxygen.private]] 
-- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Oxygen.personal.md|Oxygen.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Oxygen.secret.md|Oxygen.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Oxygen.internal|Oxygen.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Oxygen.protect|Oxygen.protect]] 
+- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Oxygen.private|Oxygen.private]] 
+- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Oxygen.personal|Oxygen.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Oxygen.secret|Oxygen.secret]] 

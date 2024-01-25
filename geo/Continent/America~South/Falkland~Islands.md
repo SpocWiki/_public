@@ -40,8 +40,8 @@ markerFolder: ./Falkland~Islands/
 
 ## Confidential Links & Embeds: 
 - [[Falkland~Islands|Falkland~Islands]] 
-- [[../../../../_internal/geo/Continent/South-America/Falkland~Islands.internal.md|Falkland~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Falkland~Islands.protect.md|Falkland~Islands.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Falkland~Islands.private.md|Falkland~Islands.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Falkland~Islands.personal.md|Falkland~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Falkland~Islands.secret.md|Falkland~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Falkland~Islands.internal|Falkland~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Falkland~Islands.protect|Falkland~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Falkland~Islands.private|Falkland~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Falkland~Islands.personal|Falkland~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Falkland~Islands.secret|Falkland~Islands.secret]] 

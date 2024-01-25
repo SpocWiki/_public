@@ -18,8 +18,8 @@ Make the Container out of the same Material as the Contents, to reduce chemical 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-same_Material-Container.md|Triz-same_Material-Container]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-same_Material-Container.internal.md|Triz-same_Material-Container.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-same_Material-Container.protect.md|Triz-same_Material-Container.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-same_Material-Container.private.md|Triz-same_Material-Container.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-same_Material-Container.personal.md|Triz-same_Material-Container.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-same_Material-Container.secret.md|Triz-same_Material-Container.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-same_Material-Container.internal|Triz-same_Material-Container.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-same_Material-Container.protect|Triz-same_Material-Container.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-same_Material-Container.private|Triz-same_Material-Container.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-same_Material-Container.personal|Triz-same_Material-Container.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-same_Material-Container.secret|Triz-same_Material-Container.secret]] 

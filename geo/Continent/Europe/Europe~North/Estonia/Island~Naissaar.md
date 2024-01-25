@@ -34,8 +34,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Island~Naissaar|Island~Naissaar]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nargoe.internal.md|Nargoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nargoe.protect.md|Nargoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nargoe.private.md|Nargoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nargoe.personal.md|Nargoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nargoe.secret.md|Nargoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nargoe.internal|Nargoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nargoe.protect|Nargoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nargoe.private|Nargoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nargoe.personal|Nargoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nargoe.secret|Nargoe.secret]] 

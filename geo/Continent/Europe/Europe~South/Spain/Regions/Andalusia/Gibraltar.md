@@ -41,9 +41,9 @@ markerFolder: ./Gibraltar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.md|Gibraltar]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.internal.md|Gibraltar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.protect.md|Gibraltar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.private.md|Gibraltar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.personal.md|Gibraltar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.secret.md|Gibraltar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.internal|Gibraltar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.protect|Gibraltar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.private|Gibraltar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.personal|Gibraltar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Gibraltar.secret|Gibraltar.secret]] 
 

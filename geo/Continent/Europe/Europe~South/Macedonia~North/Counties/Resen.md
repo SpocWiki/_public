@@ -41,9 +41,9 @@ markerFolder: ./Resen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Resen.md|Resen]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Resen.internal.md|Resen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Resen.protect.md|Resen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Resen.private.md|Resen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Resen.personal.md|Resen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Resen.secret.md|Resen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Resen.internal|Resen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Resen.protect|Resen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Resen.private|Resen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Resen.personal|Resen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Resen.secret|Resen.secret]] 
 

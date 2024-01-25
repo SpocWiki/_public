@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Strasnitz.md|Strasnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Strasnitz.internal.md|Strasnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Strasnitz.protect.md|Strasnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Strasnitz.private.md|Strasnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Strasnitz.personal.md|Strasnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Strasnitz.secret.md|Strasnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Strasnitz.internal|Strasnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Strasnitz.protect|Strasnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Strasnitz.private|Strasnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Strasnitz.personal|Strasnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Strasnitz.secret|Strasnitz.secret]] 

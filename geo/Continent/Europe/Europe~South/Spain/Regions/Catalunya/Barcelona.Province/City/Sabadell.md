@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Sabadell.md|Sabadell]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Sabadell.internal.md|Sabadell.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Sabadell.protect.md|Sabadell.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Sabadell.private.md|Sabadell.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Sabadell.personal.md|Sabadell.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Sabadell.secret.md|Sabadell.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Sabadell.internal|Sabadell.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Sabadell.protect|Sabadell.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Sabadell.private|Sabadell.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Sabadell.personal|Sabadell.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Sabadell.secret|Sabadell.secret]] 

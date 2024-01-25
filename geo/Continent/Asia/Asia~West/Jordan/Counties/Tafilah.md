@@ -41,9 +41,9 @@ markerFolder: ./Tafilah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.md|Tafilah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.internal.md|Tafilah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.protect.md|Tafilah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.private.md|Tafilah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.personal.md|Tafilah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.secret.md|Tafilah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.internal|Tafilah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.protect|Tafilah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.private|Tafilah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.personal|Tafilah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Tafilah.secret|Tafilah.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Tizi_Ouzou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.md|Tizi_Ouzou]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.internal.md|Tizi_Ouzou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.protect.md|Tizi_Ouzou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.private.md|Tizi_Ouzou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.personal.md|Tizi_Ouzou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.secret.md|Tizi_Ouzou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.internal|Tizi_Ouzou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.protect|Tizi_Ouzou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.private|Tizi_Ouzou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.personal|Tizi_Ouzou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.secret|Tizi_Ouzou.secret]] 
 

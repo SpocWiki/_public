@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Tragoss.md|Tragoss]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Tragoss.internal.md|Tragoss.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Tragoss.protect.md|Tragoss.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Tragoss.private.md|Tragoss.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Tragoss.personal.md|Tragoss.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Tragoss.secret.md|Tragoss.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Tragoss.internal|Tragoss.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Tragoss.protect|Tragoss.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Tragoss.private|Tragoss.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Tragoss.personal|Tragoss.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Tragoss.secret|Tragoss.secret]] 

@@ -33,8 +33,8 @@ SpocWebEntityId: 21938
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-04-Titanium/Zirconium.md|Zirconium]] 
-- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Zirconium.internal.md|Zirconium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Zirconium.protect.md|Zirconium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-04-Titanium/Zirconium.private.md|Zirconium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Zirconium.personal.md|Zirconium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Zirconium.secret.md|Zirconium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Zirconium.internal|Zirconium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Zirconium.protect|Zirconium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-04-Titanium/Zirconium.private|Zirconium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Zirconium.personal|Zirconium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Zirconium.secret|Zirconium.secret]] 

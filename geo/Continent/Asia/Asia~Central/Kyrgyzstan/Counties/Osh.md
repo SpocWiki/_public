@@ -41,9 +41,9 @@ markerFolder: ./Osh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.md|Osh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.internal.md|Osh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.protect.md|Osh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.private.md|Osh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.personal.md|Osh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.secret.md|Osh.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.internal|Osh.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.protect|Osh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.private|Osh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.personal|Osh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Osh.secret|Osh.secret]] 
 

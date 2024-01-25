@@ -41,9 +41,9 @@ markerFolder: ./Ferghana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.md|Ferghana]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.internal.md|Ferghana.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.protect.md|Ferghana.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.private.md|Ferghana.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.personal.md|Ferghana.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.secret.md|Ferghana.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.internal|Ferghana.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.protect|Ferghana.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.private|Ferghana.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.personal|Ferghana.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Ferghana.secret|Ferghana.secret]] 
 

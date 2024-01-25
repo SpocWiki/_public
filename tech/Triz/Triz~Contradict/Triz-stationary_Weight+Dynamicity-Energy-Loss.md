@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Dynamicity-Energy-Loss]
 [SpocWebEntityId::22749]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.md|Triz-stationary_Weight+Dynamicity-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.internal.md|Triz-stationary_Weight+Dynamicity-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.protect.md|Triz-stationary_Weight+Dynamicity-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.private.md|Triz-stationary_Weight+Dynamicity-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.personal.md|Triz-stationary_Weight+Dynamicity-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.secret.md|Triz-stationary_Weight+Dynamicity-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.internal|Triz-stationary_Weight+Dynamicity-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.protect|Triz-stationary_Weight+Dynamicity-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.private|Triz-stationary_Weight+Dynamicity-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.personal|Triz-stationary_Weight+Dynamicity-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Energy-Loss.secret|Triz-stationary_Weight+Dynamicity-Energy-Loss.secret]] 

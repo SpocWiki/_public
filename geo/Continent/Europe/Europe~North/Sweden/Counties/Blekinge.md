@@ -41,9 +41,9 @@ markerFolder: ./Blekinge/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Blekinge.md|Blekinge]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Blekinge.internal.md|Blekinge.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Blekinge.protect.md|Blekinge.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Blekinge.private.md|Blekinge.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Blekinge.personal.md|Blekinge.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Blekinge.secret.md|Blekinge.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Blekinge.internal|Blekinge.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Blekinge.protect|Blekinge.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Blekinge.private|Blekinge.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Blekinge.personal|Blekinge.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Blekinge.secret|Blekinge.secret]] 
 

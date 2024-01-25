@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Rejecting_and_regenerating_parts-Quantity]
 [SpocWebEntityId::24656]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.md|Triz-Power+Rejecting_and_regenerating_parts-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.internal.md|Triz-Power+Rejecting_and_regenerating_parts-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.protect.md|Triz-Power+Rejecting_and_regenerating_parts-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.private.md|Triz-Power+Rejecting_and_regenerating_parts-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.personal.md|Triz-Power+Rejecting_and_regenerating_parts-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.secret.md|Triz-Power+Rejecting_and_regenerating_parts-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.internal|Triz-Power+Rejecting_and_regenerating_parts-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.protect|Triz-Power+Rejecting_and_regenerating_parts-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.private|Triz-Power+Rejecting_and_regenerating_parts-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.personal|Triz-Power+Rejecting_and_regenerating_parts-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.secret|Triz-Power+Rejecting_and_regenerating_parts-Quantity.secret]] 

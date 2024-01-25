@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Hollola.md|Hollola]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hollola.internal.md|Hollola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hollola.protect.md|Hollola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hollola.private.md|Hollola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hollola.personal.md|Hollola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hollola.secret.md|Hollola.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hollola.internal|Hollola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hollola.protect|Hollola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hollola.private|Hollola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hollola.personal|Hollola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hollola.secret|Hollola.secret]] 

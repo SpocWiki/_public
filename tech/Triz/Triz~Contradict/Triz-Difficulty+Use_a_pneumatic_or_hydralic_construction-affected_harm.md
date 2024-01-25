@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm]
 [SpocWebEntityId::26512]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.internal.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.protect.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.private.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.personal.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.secret.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.internal|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.protect|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.private|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.personal|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.secret|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm.secret]] 

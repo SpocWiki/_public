@@ -130,8 +130,8 @@ markerFolder: ./Ireland//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland.md|Ireland]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland.internal.md|Ireland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland.protect.md|Ireland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland.private.md|Ireland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland.personal.md|Ireland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland.secret.md|Ireland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland.internal|Ireland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland.protect|Ireland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland.private|Ireland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland.personal|Ireland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland.secret|Ireland.secret]] 

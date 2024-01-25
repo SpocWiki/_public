@@ -41,9 +41,9 @@ markerFolder: ./Valletta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Valletta.md|Valletta]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Valletta.internal.md|Valletta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Valletta.protect.md|Valletta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Valletta.private.md|Valletta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Valletta.personal.md|Valletta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Valletta.secret.md|Valletta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Valletta.internal|Valletta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Valletta.protect|Valletta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Valletta.private|Valletta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Valletta.personal|Valletta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Valletta.secret|Valletta.secret]] 
 

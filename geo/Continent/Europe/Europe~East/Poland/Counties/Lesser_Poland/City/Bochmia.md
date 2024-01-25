@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bochmia.md|Bochmia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bochmia.internal.md|Bochmia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bochmia.protect.md|Bochmia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bochmia.private.md|Bochmia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bochmia.personal.md|Bochmia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bochmia.secret.md|Bochmia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bochmia.internal|Bochmia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bochmia.protect|Bochmia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bochmia.private|Bochmia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bochmia.personal|Bochmia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bochmia.secret|Bochmia.secret]] 

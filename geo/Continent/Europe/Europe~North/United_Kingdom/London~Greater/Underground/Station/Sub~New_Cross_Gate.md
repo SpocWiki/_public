@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.md|Sub~New_Cross_Gate]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.internal.md|Sub~New_Cross_Gate.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.protect.md|Sub~New_Cross_Gate.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.private.md|Sub~New_Cross_Gate.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.personal.md|Sub~New_Cross_Gate.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.secret.md|Sub~New_Cross_Gate.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.internal|Sub~New_Cross_Gate.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.protect|Sub~New_Cross_Gate.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.private|Sub~New_Cross_Gate.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.personal|Sub~New_Cross_Gate.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~New_Cross_Gate.secret|Sub~New_Cross_Gate.secret]] 

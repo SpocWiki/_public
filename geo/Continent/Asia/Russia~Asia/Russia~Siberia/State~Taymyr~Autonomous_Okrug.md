@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 [[State~Taymyr~Autonomous_Okrug|State~Taymyr~Autonomous_Okrug]]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.internal|State~Taymyr_Autonomous_Okrug.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.protect.md|State~Taymyr_Autonomous_Okrug.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.private.md|State~Taymyr_Autonomous_Okrug.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.personal.md|State~Taymyr_Autonomous_Okrug.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.secret.md|State~Taymyr_Autonomous_Okrug.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.protect|State~Taymyr_Autonomous_Okrug.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.private|State~Taymyr_Autonomous_Okrug.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.personal|State~Taymyr_Autonomous_Okrug.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.secret|State~Taymyr_Autonomous_Okrug.secret]] 

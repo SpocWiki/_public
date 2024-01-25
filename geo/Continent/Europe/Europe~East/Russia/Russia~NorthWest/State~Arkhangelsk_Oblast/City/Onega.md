@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Onega.md|Onega]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Onega.internal.md|Onega.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Onega.protect.md|Onega.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Onega.private.md|Onega.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Onega.personal.md|Onega.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Onega.secret.md|Onega.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Onega.internal|Onega.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Onega.protect|Onega.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Onega.private|Onega.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Onega.personal|Onega.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Onega.secret|Onega.secret]] 

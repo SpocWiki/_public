@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Segmentation-Shape]
 [SpocWebEntityId::23212]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.md|Triz-moving_Volume+Segmentation-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.internal.md|Triz-moving_Volume+Segmentation-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.protect.md|Triz-moving_Volume+Segmentation-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.private.md|Triz-moving_Volume+Segmentation-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.personal.md|Triz-moving_Volume+Segmentation-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.secret.md|Triz-moving_Volume+Segmentation-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.internal|Triz-moving_Volume+Segmentation-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.protect|Triz-moving_Volume+Segmentation-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.private|Triz-moving_Volume+Segmentation-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.personal|Triz-moving_Volume+Segmentation-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Shape.secret|Triz-moving_Volume+Segmentation-Shape.secret]] 

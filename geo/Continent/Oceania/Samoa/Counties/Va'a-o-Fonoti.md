@@ -41,9 +41,9 @@ markerFolder: ./Va'a-o-Fonoti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.md|Va'a-o-Fonoti]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.internal.md|Va'a-o-Fonoti.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.protect.md|Va'a-o-Fonoti.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.private.md|Va'a-o-Fonoti.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.personal.md|Va'a-o-Fonoti.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.secret.md|Va'a-o-Fonoti.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.internal|Va'a-o-Fonoti.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.protect|Va'a-o-Fonoti.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.private|Va'a-o-Fonoti.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.personal|Va'a-o-Fonoti.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.secret|Va'a-o-Fonoti.secret]] 
 

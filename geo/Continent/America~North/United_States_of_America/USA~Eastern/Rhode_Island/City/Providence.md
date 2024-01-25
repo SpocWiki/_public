@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.md|Providence]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.internal.md|Providence.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.protect.md|Providence.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.private.md|Providence.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.personal.md|Providence.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.secret.md|Providence.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.internal|Providence.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.protect|Providence.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.private|Providence.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.personal|Providence.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.secret|Providence.secret]] 

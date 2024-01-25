@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Raseiniai.md|Raseiniai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Raseiniai.internal.md|Raseiniai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Raseiniai.protect.md|Raseiniai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Raseiniai.private.md|Raseiniai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Raseiniai.personal.md|Raseiniai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Raseiniai.secret.md|Raseiniai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Raseiniai.internal|Raseiniai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Raseiniai.protect|Raseiniai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Raseiniai.private|Raseiniai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Raseiniai.personal|Raseiniai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Raseiniai.secret|Raseiniai.secret]] 

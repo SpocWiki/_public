@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Monocerotis-4.md|Monocerotis-4]] 
-- [[../../../_internal/astro/Star/Monocerotis-4.internal.md|Monocerotis-4.internal]] 
-- [[../../../_protect/astro/Star/Monocerotis-4.protect.md|Monocerotis-4.protect]] 
-- [[../../../_private/astro/Star/Monocerotis-4.private.md|Monocerotis-4.private]] 
-- [[../../../_personal/astro/Star/Monocerotis-4.personal.md|Monocerotis-4.personal]] 
-- [[../../../_secret/astro/Star/Monocerotis-4.secret.md|Monocerotis-4.secret]] 
+- [[../../../_internal/astro/Star/Monocerotis-4.internal|Monocerotis-4.internal]] 
+- [[../../../_protect/astro/Star/Monocerotis-4.protect|Monocerotis-4.protect]] 
+- [[../../../_private/astro/Star/Monocerotis-4.private|Monocerotis-4.private]] 
+- [[../../../_personal/astro/Star/Monocerotis-4.personal|Monocerotis-4.personal]] 
+- [[../../../_secret/astro/Star/Monocerotis-4.secret|Monocerotis-4.secret]] 

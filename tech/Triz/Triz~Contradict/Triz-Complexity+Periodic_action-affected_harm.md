@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Periodic_action-affected_harm]
 [SpocWebEntityId::26376]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.md|Triz-Complexity+Periodic_action-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.internal.md|Triz-Complexity+Periodic_action-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.protect.md|Triz-Complexity+Periodic_action-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.private.md|Triz-Complexity+Periodic_action-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.personal.md|Triz-Complexity+Periodic_action-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.secret.md|Triz-Complexity+Periodic_action-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.internal|Triz-Complexity+Periodic_action-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.protect|Triz-Complexity+Periodic_action-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.private|Triz-Complexity+Periodic_action-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.personal|Triz-Complexity+Periodic_action-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Periodic_action-affected_harm.secret|Triz-Complexity+Periodic_action-affected_harm.secret]] 

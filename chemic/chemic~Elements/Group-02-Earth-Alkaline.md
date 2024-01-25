@@ -20,8 +20,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-02-Earth-Alkaline.md|Group-02-Earth-Alkaline]] 
-- [[../../../_internal/chemic/Elements/Group-02-Earth-Alkaline.internal.md|Group-02-Earth-Alkaline.internal]] 
-- [[../../../_protect/chemic/Elements/Group-02-Earth-Alkaline.protect.md|Group-02-Earth-Alkaline.protect]] 
-- [[../../../_private/chemic/Elements/Group-02-Earth-Alkaline.private.md|Group-02-Earth-Alkaline.private]] 
-- [[../../../_personal/chemic/Elements/Group-02-Earth-Alkaline.personal.md|Group-02-Earth-Alkaline.personal]] 
-- [[../../../_secret/chemic/Elements/Group-02-Earth-Alkaline.secret.md|Group-02-Earth-Alkaline.secret]] 
+- [[../../../_internal/chemic/Elements/Group-02-Earth-Alkaline.internal|Group-02-Earth-Alkaline.internal]] 
+- [[../../../_protect/chemic/Elements/Group-02-Earth-Alkaline.protect|Group-02-Earth-Alkaline.protect]] 
+- [[../../../_private/chemic/Elements/Group-02-Earth-Alkaline.private|Group-02-Earth-Alkaline.private]] 
+- [[../../../_personal/chemic/Elements/Group-02-Earth-Alkaline.personal|Group-02-Earth-Alkaline.personal]] 
+- [[../../../_secret/chemic/Elements/Group-02-Earth-Alkaline.secret|Group-02-Earth-Alkaline.secret]] 

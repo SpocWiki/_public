@@ -41,9 +41,9 @@ markerFolder: ./Chandigarh/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.md|Chandigarh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.internal.md|Chandigarh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.protect.md|Chandigarh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.private.md|Chandigarh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.personal.md|Chandigarh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.secret.md|Chandigarh.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.internal|Chandigarh.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.protect|Chandigarh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.private|Chandigarh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.personal|Chandigarh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Chandigarh.secret|Chandigarh.secret]] 
 

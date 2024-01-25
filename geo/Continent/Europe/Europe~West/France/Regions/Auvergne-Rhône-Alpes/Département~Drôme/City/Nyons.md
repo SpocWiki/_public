@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Nyons.md|Nyons]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nyons.internal.md|Nyons.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nyons.protect.md|Nyons.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Nyons.private.md|Nyons.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nyons.personal.md|Nyons.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nyons.secret.md|Nyons.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nyons.internal|Nyons.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nyons.protect|Nyons.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nyons.private|Nyons.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nyons.personal|Nyons.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nyons.secret|Nyons.secret]] 

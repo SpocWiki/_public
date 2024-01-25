@@ -41,9 +41,9 @@ markerFolder: ./Balkan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.md|Balkan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.internal.md|Balkan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.protect.md|Balkan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.private.md|Balkan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.personal.md|Balkan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.secret.md|Balkan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.internal|Balkan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.protect|Balkan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.private|Balkan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.personal|Balkan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.secret|Balkan.secret]] 
 

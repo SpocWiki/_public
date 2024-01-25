@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tvaermiune.md|Tvaermiune]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tvaermiune.internal.md|Tvaermiune.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tvaermiune.protect.md|Tvaermiune.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tvaermiune.private.md|Tvaermiune.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tvaermiune.personal.md|Tvaermiune.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tvaermiune.secret.md|Tvaermiune.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tvaermiune.internal|Tvaermiune.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tvaermiune.protect|Tvaermiune.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tvaermiune.private|Tvaermiune.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tvaermiune.personal|Tvaermiune.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tvaermiune.secret|Tvaermiune.secret]] 

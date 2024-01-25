@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Toledo.md|Toledo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Toledo.internal.md|Toledo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Toledo.protect.md|Toledo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Toledo.private.md|Toledo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Toledo.personal.md|Toledo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Toledo.secret.md|Toledo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Toledo.internal|Toledo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Toledo.protect|Toledo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Toledo.private|Toledo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Toledo.personal|Toledo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Toledo.secret|Toledo.secret]] 

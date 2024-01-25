@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Replacement_of_a_mechanical_system-Intensity]
 [SpocWebEntityId::25268]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.md|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.internal.md|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.protect.md|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.private.md|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.personal.md|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.secret.md|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.internal|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.protect|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.private|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.personal|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.secret|Triz-Reliability+Replacement_of_a_mechanical_system-Intensity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Forécariah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Forécariah.md|Forécariah]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Forécariah.internal.md|Forécariah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Forécariah.protect.md|Forécariah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Forécariah.private.md|Forécariah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Forécariah.personal.md|Forécariah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Forécariah.secret.md|Forécariah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Forécariah.internal|Forécariah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Forécariah.protect|Forécariah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Forécariah.private|Forécariah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Forécariah.personal|Forécariah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Forécariah.secret|Forécariah.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Carlscrona.md|Carlscrona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Carlscrona.internal.md|Carlscrona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Carlscrona.protect.md|Carlscrona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Carlscrona.private.md|Carlscrona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Carlscrona.personal.md|Carlscrona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Carlscrona.secret.md|Carlscrona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Carlscrona.internal|Carlscrona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Carlscrona.protect|Carlscrona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Carlscrona.private|Carlscrona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Carlscrona.personal|Carlscrona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Carlscrona.secret|Carlscrona.secret]] 

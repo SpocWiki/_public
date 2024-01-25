@@ -41,9 +41,9 @@ markerFolder: ./Elbasan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Albania/Counties/Elbasan.md|Elbasan]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Elbasan.internal.md|Elbasan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Elbasan.protect.md|Elbasan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Elbasan.private.md|Elbasan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Elbasan.personal.md|Elbasan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Elbasan.secret.md|Elbasan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Elbasan.internal|Elbasan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Elbasan.protect|Elbasan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Elbasan.private|Elbasan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Elbasan.personal|Elbasan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Elbasan.secret|Elbasan.secret]] 
 

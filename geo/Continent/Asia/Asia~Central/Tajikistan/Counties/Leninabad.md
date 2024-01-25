@@ -41,9 +41,9 @@ markerFolder: ./Leninabad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.md|Leninabad]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.internal.md|Leninabad.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.protect.md|Leninabad.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.private.md|Leninabad.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.personal.md|Leninabad.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.secret.md|Leninabad.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.internal|Leninabad.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.protect|Leninabad.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.private|Leninabad.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.personal|Leninabad.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.secret|Leninabad.secret]] 
 

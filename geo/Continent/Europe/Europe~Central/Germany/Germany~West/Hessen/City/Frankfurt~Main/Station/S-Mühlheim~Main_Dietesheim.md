@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Mühlheim~Main_Dietesheim|S-Mühlheim~Main_Dietesheim]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.internal.md|S-Mühlheim~Main_Dietesheim.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.protect.md|S-Mühlheim~Main_Dietesheim.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.private.md|S-Mühlheim~Main_Dietesheim.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.personal.md|S-Mühlheim~Main_Dietesheim.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.secret.md|S-Mühlheim~Main_Dietesheim.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.internal|S-Mühlheim~Main_Dietesheim.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.protect|S-Mühlheim~Main_Dietesheim.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.private|S-Mühlheim~Main_Dietesheim.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.personal|S-Mühlheim~Main_Dietesheim.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.secret|S-Mühlheim~Main_Dietesheim.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Tovehult.md|Tovehult]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tovehult.internal.md|Tovehult.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tovehult.protect.md|Tovehult.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Tovehult.private.md|Tovehult.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tovehult.personal.md|Tovehult.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tovehult.secret.md|Tovehult.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tovehult.internal|Tovehult.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tovehult.protect|Tovehult.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Tovehult.private|Tovehult.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tovehult.personal|Tovehult.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tovehult.secret|Tovehult.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Periodic_action-Power]
 [SpocWebEntityId::24951]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.md|Triz-Information-Loss+Periodic_action-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.internal.md|Triz-Information-Loss+Periodic_action-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.protect.md|Triz-Information-Loss+Periodic_action-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.private.md|Triz-Information-Loss+Periodic_action-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.personal.md|Triz-Information-Loss+Periodic_action-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.secret.md|Triz-Information-Loss+Periodic_action-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.internal|Triz-Information-Loss+Periodic_action-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.protect|Triz-Information-Loss+Periodic_action-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.private|Triz-Information-Loss+Periodic_action-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.personal|Triz-Information-Loss+Periodic_action-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Periodic_action-Power.secret|Triz-Information-Loss+Periodic_action-Power.secret]] 

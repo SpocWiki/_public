@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::24019]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.md|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.internal.md|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.protect.md|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.private.md|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.personal.md|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.secret.md|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.internal|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.protect|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.private|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.personal|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.secret|Triz-Strength+Replacement_of_a_mechanical_system-Time-Loss.secret]] 

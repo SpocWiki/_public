@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Local_quality-Automation]
 [SpocWebEntityId::25710]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.md|Triz-affected_harm+Local_quality-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.internal.md|Triz-affected_harm+Local_quality-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.protect.md|Triz-affected_harm+Local_quality-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.private.md|Triz-affected_harm+Local_quality-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.personal.md|Triz-affected_harm+Local_quality-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.secret.md|Triz-affected_harm+Local_quality-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.internal|Triz-affected_harm+Local_quality-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.protect|Triz-affected_harm+Local_quality-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.private|Triz-affected_harm+Local_quality-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.personal|Triz-affected_harm+Local_quality-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.secret|Triz-affected_harm+Local_quality-Automation.secret]] 

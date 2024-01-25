@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lublinitz.md|Lublinitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lublinitz.internal.md|Lublinitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lublinitz.protect.md|Lublinitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lublinitz.private.md|Lublinitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lublinitz.personal.md|Lublinitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lublinitz.secret.md|Lublinitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lublinitz.internal|Lublinitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lublinitz.protect|Lublinitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lublinitz.private|Lublinitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lublinitz.personal|Lublinitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lublinitz.secret|Lublinitz.secret]] 

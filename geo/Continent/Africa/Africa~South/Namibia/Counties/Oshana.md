@@ -41,9 +41,9 @@ markerFolder: ./Oshana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Oshana.md|Oshana]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Oshana.internal.md|Oshana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Oshana.protect.md|Oshana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Oshana.private.md|Oshana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Oshana.personal.md|Oshana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Oshana.secret.md|Oshana.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Oshana.internal|Oshana.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Oshana.protect|Oshana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Oshana.private|Oshana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Oshana.personal|Oshana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Oshana.secret|Oshana.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Oelandsmandde.md|Oelandsmandde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oelandsmandde.internal.md|Oelandsmandde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oelandsmandde.protect.md|Oelandsmandde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oelandsmandde.private.md|Oelandsmandde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oelandsmandde.personal.md|Oelandsmandde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oelandsmandde.secret.md|Oelandsmandde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oelandsmandde.internal|Oelandsmandde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oelandsmandde.protect|Oelandsmandde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oelandsmandde.private|Oelandsmandde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oelandsmandde.personal|Oelandsmandde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oelandsmandde.secret|Oelandsmandde.secret]] 

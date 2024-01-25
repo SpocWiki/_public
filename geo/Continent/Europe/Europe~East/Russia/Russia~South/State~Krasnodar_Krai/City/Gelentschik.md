@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gelentschik.md|Gelentschik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gelentschik.internal.md|Gelentschik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gelentschik.protect.md|Gelentschik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gelentschik.private.md|Gelentschik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gelentschik.personal.md|Gelentschik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gelentschik.secret.md|Gelentschik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gelentschik.internal|Gelentschik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gelentschik.protect|Gelentschik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gelentschik.private|Gelentschik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gelentschik.personal|Gelentschik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gelentschik.secret|Gelentschik.secret]] 

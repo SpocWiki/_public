@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Taivalkoski.md|Taivalkoski]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Taivalkoski.internal.md|Taivalkoski.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Taivalkoski.protect.md|Taivalkoski.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Taivalkoski.private.md|Taivalkoski.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Taivalkoski.personal.md|Taivalkoski.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Taivalkoski.secret.md|Taivalkoski.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Taivalkoski.internal|Taivalkoski.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Taivalkoski.protect|Taivalkoski.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Taivalkoski.private|Taivalkoski.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Taivalkoski.personal|Taivalkoski.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Taivalkoski.secret|Taivalkoski.secret]] 

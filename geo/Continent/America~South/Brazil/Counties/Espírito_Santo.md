@@ -41,9 +41,9 @@ markerFolder: ./Espírito_Santo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.md|Espírito_Santo]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.internal.md|Espírito_Santo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.protect.md|Espírito_Santo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.private.md|Espírito_Santo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.personal.md|Espírito_Santo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.secret.md|Espírito_Santo.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.internal|Espírito_Santo.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.protect|Espírito_Santo.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.private|Espírito_Santo.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.personal|Espírito_Santo.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Espírito_Santo.secret|Espírito_Santo.secret]] 
 

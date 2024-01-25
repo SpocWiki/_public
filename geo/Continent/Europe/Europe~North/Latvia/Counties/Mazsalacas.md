@@ -41,9 +41,9 @@ markerFolder: ./Mazsalacas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Mazsalacas.md|Mazsalacas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Mazsalacas.internal.md|Mazsalacas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Mazsalacas.protect.md|Mazsalacas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Mazsalacas.private.md|Mazsalacas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Mazsalacas.personal.md|Mazsalacas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Mazsalacas.secret.md|Mazsalacas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Mazsalacas.internal|Mazsalacas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Mazsalacas.protect|Mazsalacas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Mazsalacas.private|Mazsalacas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Mazsalacas.personal|Mazsalacas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Mazsalacas.secret|Mazsalacas.secret]] 
 

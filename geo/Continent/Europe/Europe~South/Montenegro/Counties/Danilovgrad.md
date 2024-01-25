@@ -41,9 +41,9 @@ markerFolder: ./Danilovgrad/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.md|Danilovgrad]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.internal.md|Danilovgrad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.protect.md|Danilovgrad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.private.md|Danilovgrad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.personal.md|Danilovgrad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.secret.md|Danilovgrad.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.internal|Danilovgrad.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.protect|Danilovgrad.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.private|Danilovgrad.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.personal|Danilovgrad.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Danilovgrad.secret|Danilovgrad.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Salgótarján/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Salgótarján.md|Salgótarján]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Salgótarján.internal.md|Salgótarján.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Salgótarján.protect.md|Salgótarján.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Salgótarján.private.md|Salgótarján.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Salgótarján.personal.md|Salgótarján.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Salgótarján.secret.md|Salgótarján.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Salgótarján.internal|Salgótarján.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Salgótarján.protect|Salgótarján.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Salgótarján.private|Salgótarján.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Salgótarján.personal|Salgótarján.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Salgótarján.secret|Salgótarján.secret]] 
 

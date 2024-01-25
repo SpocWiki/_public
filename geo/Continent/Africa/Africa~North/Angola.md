@@ -134,7 +134,7 @@ markerFolder: ./Angola//
 ## Confidential Links & Embeds: 
 - [[Angola|Angola]] 
 - [[../../../../../_internal/geo/Continent/Africa/Angola.internal|Angola.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola.protect.md|Angola.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola.private.md|Angola.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola.personal.md|Angola.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola.secret.md|Angola.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola.protect|Angola.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola.private|Angola.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola.personal|Angola.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola.secret|Angola.secret]] 

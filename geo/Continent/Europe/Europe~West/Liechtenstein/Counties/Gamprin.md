@@ -41,9 +41,9 @@ markerFolder: ./Gamprin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.md|Gamprin]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.internal.md|Gamprin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.protect.md|Gamprin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.private.md|Gamprin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.personal.md|Gamprin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.secret.md|Gamprin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.internal|Gamprin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.protect|Gamprin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.private|Gamprin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.personal|Gamprin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Gamprin.secret|Gamprin.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Limerick/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Limerick.md|Limerick]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Limerick.internal.md|Limerick.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Limerick.protect.md|Limerick.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Limerick.private.md|Limerick.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Limerick.personal.md|Limerick.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Limerick.secret.md|Limerick.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Limerick.internal|Limerick.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Limerick.protect|Limerick.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Limerick.private|Limerick.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Limerick.personal|Limerick.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Limerick.secret|Limerick.secret]] 
 

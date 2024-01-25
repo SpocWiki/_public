@@ -41,9 +41,9 @@ markerFolder: ./Asunción/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Asunción.md|Asunción]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Asunción.internal.md|Asunción.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Asunción.protect.md|Asunción.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Asunción.private.md|Asunción.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Asunción.personal.md|Asunción.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Asunción.secret.md|Asunción.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Asunción.internal|Asunción.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Asunción.protect|Asunción.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Asunción.private|Asunción.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Asunción.personal|Asunción.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Asunción.secret|Asunción.secret]] 
 

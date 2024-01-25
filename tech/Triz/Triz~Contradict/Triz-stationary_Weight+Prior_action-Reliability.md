@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Prior_action-Reliability]
 [SpocWebEntityId::22765]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.md|Triz-stationary_Weight+Prior_action-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.internal.md|Triz-stationary_Weight+Prior_action-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.protect.md|Triz-stationary_Weight+Prior_action-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.private.md|Triz-stationary_Weight+Prior_action-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.personal.md|Triz-stationary_Weight+Prior_action-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.secret.md|Triz-stationary_Weight+Prior_action-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.internal|Triz-stationary_Weight+Prior_action-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.protect|Triz-stationary_Weight+Prior_action-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.private|Triz-stationary_Weight+Prior_action-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.personal|Triz-stationary_Weight+Prior_action-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Reliability.secret|Triz-stationary_Weight+Prior_action-Reliability.secret]] 

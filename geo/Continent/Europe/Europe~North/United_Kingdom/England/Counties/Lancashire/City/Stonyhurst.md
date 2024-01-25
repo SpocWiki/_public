@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.md|Stonyhurst]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.internal.md|Stonyhurst.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.protect.md|Stonyhurst.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.private.md|Stonyhurst.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.personal.md|Stonyhurst.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.secret.md|Stonyhurst.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.internal|Stonyhurst.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.protect|Stonyhurst.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.private|Stonyhurst.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.personal|Stonyhurst.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stonyhurst.secret|Stonyhurst.secret]] 

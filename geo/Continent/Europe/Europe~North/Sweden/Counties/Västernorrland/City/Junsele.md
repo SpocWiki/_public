@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Junsele.md|Junsele]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Junsele.internal.md|Junsele.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Junsele.protect.md|Junsele.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Junsele.private.md|Junsele.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Junsele.personal.md|Junsele.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Junsele.secret.md|Junsele.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Junsele.internal|Junsele.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Junsele.protect|Junsele.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Junsele.private|Junsele.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Junsele.personal|Junsele.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Junsele.secret|Junsele.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Al_Qahirah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.md|Al_Qahirah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.internal.md|Al_Qahirah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.protect.md|Al_Qahirah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.private.md|Al_Qahirah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.personal.md|Al_Qahirah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.secret.md|Al_Qahirah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.internal|Al_Qahirah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.protect|Al_Qahirah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.private|Al_Qahirah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.personal|Al_Qahirah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.secret|Al_Qahirah.secret]] 
 

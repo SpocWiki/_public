@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision]
 [SpocWebEntityId::26602]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.md|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal.md|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect.md|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.private.md|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.personal.md|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.secret.md|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.private|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.personal|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.secret|Triz-Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision.secret]] 

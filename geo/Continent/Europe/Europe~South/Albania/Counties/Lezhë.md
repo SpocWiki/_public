@@ -41,9 +41,9 @@ markerFolder: ./Lezhë/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Albania/Counties/Lezhë.md|Lezhë]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Lezhë.internal.md|Lezhë.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Lezhë.protect.md|Lezhë.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Lezhë.private.md|Lezhë.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Lezhë.personal.md|Lezhë.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Lezhë.secret.md|Lezhë.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Lezhë.internal|Lezhë.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Lezhë.protect|Lezhë.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Lezhë.private|Lezhë.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Lezhë.personal|Lezhë.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Lezhë.secret|Lezhë.secret]] 
 

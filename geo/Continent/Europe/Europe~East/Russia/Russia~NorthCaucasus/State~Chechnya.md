@@ -41,9 +41,9 @@ markerFolder: ./State~Chechnya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.md|State~Chechnya]] 
-- [[../../../../_internal/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.internal.md|State~Chechnya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.protect.md|State~Chechnya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.private.md|State~Chechnya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.personal.md|State~Chechnya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.secret.md|State~Chechnya.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.internal|State~Chechnya.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.protect|State~Chechnya.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.private|State~Chechnya.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.personal|State~Chechnya.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.secret|State~Chechnya.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Periodic_action-Intensity]
 [SpocWebEntityId::24367]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.md|Triz-Illumination+Periodic_action-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.internal.md|Triz-Illumination+Periodic_action-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.protect.md|Triz-Illumination+Periodic_action-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.private.md|Triz-Illumination+Periodic_action-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.personal.md|Triz-Illumination+Periodic_action-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.secret.md|Triz-Illumination+Periodic_action-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.internal|Triz-Illumination+Periodic_action-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.protect|Triz-Illumination+Periodic_action-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.private|Triz-Illumination+Periodic_action-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.personal|Triz-Illumination+Periodic_action-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Intensity.secret|Triz-Illumination+Periodic_action-Intensity.secret]] 

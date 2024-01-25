@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hawick.md|Hawick]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hawick.internal.md|Hawick.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hawick.protect.md|Hawick.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hawick.private.md|Hawick.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hawick.personal.md|Hawick.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hawick.secret.md|Hawick.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hawick.internal|Hawick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hawick.protect|Hawick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hawick.private|Hawick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hawick.personal|Hawick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hawick.secret|Hawick.secret]] 

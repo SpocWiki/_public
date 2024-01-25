@@ -41,9 +41,9 @@ markerFolder: ./South_Chungcheong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.md|South_Chungcheong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.internal.md|South_Chungcheong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.protect.md|South_Chungcheong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.private.md|South_Chungcheong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.personal.md|South_Chungcheong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.secret.md|South_Chungcheong.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.internal|South_Chungcheong.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.protect|South_Chungcheong.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.private|South_Chungcheong.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.personal|South_Chungcheong.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.secret|South_Chungcheong.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Continuity_of_useful_action-moving_Volume]
 [SpocWebEntityId::25131]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Continuity_of_useful_action]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.md|Triz-Quantity+Continuity_of_useful_action-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.internal.md|Triz-Quantity+Continuity_of_useful_action-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.protect.md|Triz-Quantity+Continuity_of_useful_action-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.private.md|Triz-Quantity+Continuity_of_useful_action-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.personal.md|Triz-Quantity+Continuity_of_useful_action-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.secret.md|Triz-Quantity+Continuity_of_useful_action-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.internal|Triz-Quantity+Continuity_of_useful_action-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.protect|Triz-Quantity+Continuity_of_useful_action-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.private|Triz-Quantity+Continuity_of_useful_action-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.personal|Triz-Quantity+Continuity_of_useful_action-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.secret|Triz-Quantity+Continuity_of_useful_action-moving_Volume.secret]] 

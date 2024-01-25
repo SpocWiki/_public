@@ -41,9 +41,9 @@ markerFolder: ./Stereá_Elláda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.md|Stereá_Elláda]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.internal.md|Stereá_Elláda.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.protect.md|Stereá_Elláda.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.private.md|Stereá_Elláda.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.personal.md|Stereá_Elláda.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.secret.md|Stereá_Elláda.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.internal|Stereá_Elláda.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.protect|Stereá_Elláda.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.private|Stereá_Elláda.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.personal|Stereá_Elláda.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.secret|Stereá_Elláda.secret]] 
 

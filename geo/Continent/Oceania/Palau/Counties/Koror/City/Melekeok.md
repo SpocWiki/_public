@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Palau/City/Melekeok.md|Melekeok]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Palau/City/Melekeok.internal.md|Melekeok.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Palau/City/Melekeok.protect.md|Melekeok.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Palau/City/Melekeok.private.md|Melekeok.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Palau/City/Melekeok.personal.md|Melekeok.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Palau/City/Melekeok.secret.md|Melekeok.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/City/Melekeok.internal|Melekeok.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/City/Melekeok.protect|Melekeok.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/City/Melekeok.private|Melekeok.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/City/Melekeok.personal|Melekeok.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/City/Melekeok.secret|Melekeok.secret]] 

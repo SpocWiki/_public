@@ -139,8 +139,8 @@ markerFolder: ./Bolivia/
 
 ## Confidential Links & Embeds: 
 - [[Bolivia|Bolivia]] 
-- [[../../../../_internal/geo/Continent/South-America/Bolivia.internal.md|Bolivia.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Bolivia.protect.md|Bolivia.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Bolivia.private.md|Bolivia.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Bolivia.personal.md|Bolivia.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Bolivia.secret.md|Bolivia.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Bolivia.internal|Bolivia.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Bolivia.protect|Bolivia.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Bolivia.private|Bolivia.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Bolivia.personal|Bolivia.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Bolivia.secret|Bolivia.secret]] 

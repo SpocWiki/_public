@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Local_quality-Reliability]
 [SpocWebEntityId::24310]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.md|Triz-Temperature+Local_quality-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.internal.md|Triz-Temperature+Local_quality-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.protect.md|Triz-Temperature+Local_quality-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.private.md|Triz-Temperature+Local_quality-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.personal.md|Triz-Temperature+Local_quality-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.secret.md|Triz-Temperature+Local_quality-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.internal|Triz-Temperature+Local_quality-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.protect|Triz-Temperature+Local_quality-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.private|Triz-Temperature+Local_quality-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.personal|Triz-Temperature+Local_quality-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Local_quality-Reliability.secret|Triz-Temperature+Local_quality-Reliability.secret]] 

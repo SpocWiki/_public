@@ -41,9 +41,9 @@ markerFolder: ./Fier/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Albania/Counties/Fier.md|Fier]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Fier.internal.md|Fier.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Fier.protect.md|Fier.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Fier.private.md|Fier.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Fier.personal.md|Fier.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Fier.secret.md|Fier.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Fier.internal|Fier.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Fier.protect|Fier.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Fier.private|Fier.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Fier.personal|Fier.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Fier.secret|Fier.secret]] 
 

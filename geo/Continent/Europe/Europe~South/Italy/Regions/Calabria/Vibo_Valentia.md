@@ -41,9 +41,9 @@ markerFolder: ./Vibo_Valentia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.md|Vibo_Valentia]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.internal.md|Vibo_Valentia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.protect.md|Vibo_Valentia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.private.md|Vibo_Valentia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.personal.md|Vibo_Valentia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.secret.md|Vibo_Valentia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.internal|Vibo_Valentia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.protect|Vibo_Valentia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.private|Vibo_Valentia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.personal|Vibo_Valentia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Calabria/Vibo_Valentia.secret|Vibo_Valentia.secret]] 
 

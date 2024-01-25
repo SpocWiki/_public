@@ -41,9 +41,9 @@ markerFolder: ./Južno-Banatski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.md|Južno-Banatski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.internal.md|Južno-Banatski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.protect.md|Južno-Banatski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.private.md|Južno-Banatski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.personal.md|Južno-Banatski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.secret.md|Južno-Banatski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.internal|Južno-Banatski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.protect|Južno-Banatski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.private|Južno-Banatski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.personal|Južno-Banatski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Južno-Banatski.secret|Južno-Banatski.secret]] 
 

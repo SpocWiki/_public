@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Helens.md|St.Helens]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Helens.internal.md|St.Helens.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Helens.protect.md|St.Helens.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Helens.private.md|St.Helens.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Helens.personal.md|St.Helens.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Helens.secret.md|St.Helens.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Helens.internal|St.Helens.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Helens.protect|St.Helens.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Helens.private|St.Helens.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Helens.personal|St.Helens.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Helens.secret|St.Helens.secret]] 

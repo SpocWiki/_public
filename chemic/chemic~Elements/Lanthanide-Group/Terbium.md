@@ -40,8 +40,8 @@ SpocWebEntityId: 21961
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Terbium.md|Terbium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Terbium.internal.md|Terbium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Terbium.protect.md|Terbium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Terbium.private.md|Terbium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Terbium.personal.md|Terbium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Terbium.secret.md|Terbium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Terbium.internal|Terbium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Terbium.protect|Terbium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Terbium.private|Terbium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Terbium.personal|Terbium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Terbium.secret|Terbium.secret]] 

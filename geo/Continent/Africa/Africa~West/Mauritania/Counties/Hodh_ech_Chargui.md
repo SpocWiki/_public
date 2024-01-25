@@ -41,9 +41,9 @@ markerFolder: ./Hodh_ech_Chargui/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.md|Hodh_ech_Chargui]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.internal.md|Hodh_ech_Chargui.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.protect.md|Hodh_ech_Chargui.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.private.md|Hodh_ech_Chargui.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.personal.md|Hodh_ech_Chargui.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.secret.md|Hodh_ech_Chargui.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.internal|Hodh_ech_Chargui.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.protect|Hodh_ech_Chargui.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.private|Hodh_ech_Chargui.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.personal|Hodh_ech_Chargui.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.secret|Hodh_ech_Chargui.secret]] 
 

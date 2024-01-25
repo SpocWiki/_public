@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szolnok.md|Szolnok]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szolnok.internal.md|Szolnok.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szolnok.protect.md|Szolnok.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szolnok.private.md|Szolnok.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szolnok.personal.md|Szolnok.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szolnok.secret.md|Szolnok.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szolnok.internal|Szolnok.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szolnok.protect|Szolnok.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szolnok.private|Szolnok.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szolnok.personal|Szolnok.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szolnok.secret|Szolnok.secret]] 

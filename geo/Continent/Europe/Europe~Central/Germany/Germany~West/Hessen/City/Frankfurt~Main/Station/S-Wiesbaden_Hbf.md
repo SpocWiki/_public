@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Wiesbaden_Hbf|S-Wiesbaden_Hbf]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.internal.md|S-Wiesbaden_Hbf.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.protect.md|S-Wiesbaden_Hbf.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.private.md|S-Wiesbaden_Hbf.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.personal.md|S-Wiesbaden_Hbf.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.secret.md|S-Wiesbaden_Hbf.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.internal|S-Wiesbaden_Hbf.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.protect|S-Wiesbaden_Hbf.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.private|S-Wiesbaden_Hbf.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.personal|S-Wiesbaden_Hbf.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Hbf.secret|S-Wiesbaden_Hbf.secret]] 

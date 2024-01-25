@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.md|Dnjepropetrowsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.internal.md|Dnjepropetrowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.protect.md|Dnjepropetrowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.private.md|Dnjepropetrowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.personal.md|Dnjepropetrowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.secret.md|Dnjepropetrowsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.internal|Dnjepropetrowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.protect|Dnjepropetrowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.private|Dnjepropetrowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.personal|Dnjepropetrowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.secret|Dnjepropetrowsk.secret]] 

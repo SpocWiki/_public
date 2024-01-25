@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.md|Stawropol=Voroshilovsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.internal.md|Stawropol=Voroshilovsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.protect.md|Stawropol=Voroshilovsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.private.md|Stawropol=Voroshilovsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.personal.md|Stawropol=Voroshilovsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.secret.md|Stawropol=Voroshilovsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.internal|Stawropol=Voroshilovsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.protect|Stawropol=Voroshilovsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.private|Stawropol=Voroshilovsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.personal|Stawropol=Voroshilovsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stawropol=Voroshilovsk.secret|Stawropol=Voroshilovsk.secret]] 

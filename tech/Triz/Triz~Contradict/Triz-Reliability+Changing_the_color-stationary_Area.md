@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Changing_the_color-stationary_Area]
 [SpocWebEntityId::25252]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.md|Triz-Reliability+Changing_the_color-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.internal.md|Triz-Reliability+Changing_the_color-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.protect.md|Triz-Reliability+Changing_the_color-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.private.md|Triz-Reliability+Changing_the_color-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.personal.md|Triz-Reliability+Changing_the_color-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.secret.md|Triz-Reliability+Changing_the_color-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.internal|Triz-Reliability+Changing_the_color-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.protect|Triz-Reliability+Changing_the_color-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.private|Triz-Reliability+Changing_the_color-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.personal|Triz-Reliability+Changing_the_color-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-stationary_Area.secret|Triz-Reliability+Changing_the_color-stationary_Area.secret]] 

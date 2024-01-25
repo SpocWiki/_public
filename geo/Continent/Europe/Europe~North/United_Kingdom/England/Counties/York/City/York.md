@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/York.md|York]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/York.internal.md|York.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/York.protect.md|York.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/York.private.md|York.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/York.personal.md|York.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/York.secret.md|York.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/York.internal|York.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/York.protect|York.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/York.private|York.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/York.personal|York.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/York.secret|York.secret]] 

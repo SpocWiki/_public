@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Yarm.md|Yarm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Yarm.internal.md|Yarm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Yarm.protect.md|Yarm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Yarm.private.md|Yarm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Yarm.personal.md|Yarm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Yarm.secret.md|Yarm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Yarm.internal|Yarm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Yarm.protect|Yarm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Yarm.private|Yarm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Yarm.personal|Yarm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Yarm.secret|Yarm.secret]] 

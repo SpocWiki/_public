@@ -37,7 +37,7 @@ markerFolder: ./Ryukyu_Islands/
 ## Confidential Links & Embeds: 
 -[[Ryukyu~Islands|Ryukyu~Islands]]] 
 -[[../../../../../../_internal/geo/Continent/Asia/Ryukyu~Islands.internal|Ryukyu~Islands.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Ryukyu~Islands.protect.md|Ryukyu~Islands.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Ryukyu~Islands.private.md|Ryukyu~Islands.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Ryukyu~Islands.personal.md|Ryukyu~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Ryukyu~Islands.secret.md|Ryukyu~Islands.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Ryukyu~Islands.protect|Ryukyu~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Ryukyu~Islands.private|Ryukyu~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Ryukyu~Islands.personal|Ryukyu~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Ryukyu~Islands.secret|Ryukyu~Islands.secret]] 

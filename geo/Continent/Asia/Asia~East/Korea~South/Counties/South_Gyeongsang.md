@@ -41,9 +41,9 @@ markerFolder: ./South_Gyeongsang/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.md|South_Gyeongsang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.internal.md|South_Gyeongsang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.protect.md|South_Gyeongsang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.private.md|South_Gyeongsang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.personal.md|South_Gyeongsang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.secret.md|South_Gyeongsang.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.internal|South_Gyeongsang.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.protect|South_Gyeongsang.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.private|South_Gyeongsang.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.personal|South_Gyeongsang.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.secret|South_Gyeongsang.secret]] 
 

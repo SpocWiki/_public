@@ -41,9 +41,9 @@ markerFolder: ./Västmanland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Västmanland.md|Västmanland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Västmanland.internal.md|Västmanland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Västmanland.protect.md|Västmanland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Västmanland.private.md|Västmanland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Västmanland.personal.md|Västmanland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Västmanland.secret.md|Västmanland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Västmanland.internal|Västmanland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Västmanland.protect|Västmanland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Västmanland.private|Västmanland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Västmanland.personal|Västmanland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Västmanland.secret|Västmanland.secret]] 
 

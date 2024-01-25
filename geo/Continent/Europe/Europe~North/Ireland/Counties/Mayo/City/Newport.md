@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Newport.md|Newport]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Newport.internal.md|Newport.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Newport.protect.md|Newport.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Newport.private.md|Newport.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Newport.personal.md|Newport.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Newport.secret.md|Newport.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Newport.internal|Newport.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Newport.protect|Newport.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Newport.private|Newport.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Newport.personal|Newport.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Newport.secret|Newport.secret]] 

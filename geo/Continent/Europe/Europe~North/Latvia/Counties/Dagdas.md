@@ -41,9 +41,9 @@ markerFolder: ./Dagdas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Dagdas.md|Dagdas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Dagdas.internal.md|Dagdas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Dagdas.protect.md|Dagdas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Dagdas.private.md|Dagdas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Dagdas.personal.md|Dagdas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Dagdas.secret.md|Dagdas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Dagdas.internal|Dagdas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Dagdas.protect|Dagdas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Dagdas.private|Dagdas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Dagdas.personal|Dagdas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Dagdas.secret|Dagdas.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Salamanca.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.md|Salamanca.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.internal.md|Salamanca.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.protect.md|Salamanca.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.private.md|Salamanca.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.personal.md|Salamanca.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.secret.md|Salamanca.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.internal|Salamanca.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.protect|Salamanca.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.private|Salamanca.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.personal|Salamanca.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Salamanca.Province.secret|Salamanca.Province.secret]] 
 

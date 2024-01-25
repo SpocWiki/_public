@@ -41,9 +41,9 @@ markerFolder: ./Prachin_Buri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.md|Prachin_Buri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.internal.md|Prachin_Buri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.protect.md|Prachin_Buri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.private.md|Prachin_Buri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.personal.md|Prachin_Buri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.secret.md|Prachin_Buri.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.internal|Prachin_Buri.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.protect|Prachin_Buri.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.private|Prachin_Buri.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.personal|Prachin_Buri.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachin_Buri.secret|Prachin_Buri.secret]] 
 

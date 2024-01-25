@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Beafort.md|Beafort]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Beafort.internal.md|Beafort.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Beafort.protect.md|Beafort.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Beafort.private.md|Beafort.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Beafort.personal.md|Beafort.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Beafort.secret.md|Beafort.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Beafort.internal|Beafort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Beafort.protect|Beafort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Beafort.private|Beafort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Beafort.personal|Beafort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Beafort.secret|Beafort.secret]] 

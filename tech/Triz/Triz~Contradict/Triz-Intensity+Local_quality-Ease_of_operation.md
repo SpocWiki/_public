@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Local_quality-Ease_of_operation]
 [SpocWebEntityId::23579]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.md|Triz-Intensity+Local_quality-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.internal.md|Triz-Intensity+Local_quality-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.protect.md|Triz-Intensity+Local_quality-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.private.md|Triz-Intensity+Local_quality-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.personal.md|Triz-Intensity+Local_quality-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.secret.md|Triz-Intensity+Local_quality-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.internal|Triz-Intensity+Local_quality-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.protect|Triz-Intensity+Local_quality-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.private|Triz-Intensity+Local_quality-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.personal|Triz-Intensity+Local_quality-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Local_quality-Ease_of_operation.secret|Triz-Intensity+Local_quality-Ease_of_operation.secret]] 

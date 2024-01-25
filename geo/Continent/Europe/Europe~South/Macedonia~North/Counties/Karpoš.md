@@ -41,9 +41,9 @@ markerFolder: ./Karpoš/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.md|Karpoš]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.internal.md|Karpoš.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.protect.md|Karpoš.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.private.md|Karpoš.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.personal.md|Karpoš.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.secret.md|Karpoš.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.internal|Karpoš.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.protect|Karpoš.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.private|Karpoš.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.personal|Karpoš.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Karpoš.secret|Karpoš.secret]] 
 

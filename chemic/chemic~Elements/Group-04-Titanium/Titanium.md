@@ -35,8 +35,8 @@ SpocWebEntityId: 13522
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-04-Titanium/Titanium.md|Titanium]] 
-- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Titanium.internal.md|Titanium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Titanium.protect.md|Titanium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-04-Titanium/Titanium.private.md|Titanium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Titanium.personal.md|Titanium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Titanium.secret.md|Titanium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Titanium.internal|Titanium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Titanium.protect|Titanium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-04-Titanium/Titanium.private|Titanium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Titanium.personal|Titanium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Titanium.secret|Titanium.secret]] 

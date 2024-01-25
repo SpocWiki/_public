@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Assake.md|Assake]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Assake.internal.md|Assake.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Assake.protect.md|Assake.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Assake.private.md|Assake.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Assake.personal.md|Assake.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Assake.secret.md|Assake.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Assake.internal|Assake.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Assake.protect|Assake.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Assake.private|Assake.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Assake.personal|Assake.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Assake.secret|Assake.secret]] 

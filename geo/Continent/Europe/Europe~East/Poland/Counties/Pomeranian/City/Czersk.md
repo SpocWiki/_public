@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Czersk.md|Czersk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Czersk.internal.md|Czersk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Czersk.protect.md|Czersk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Czersk.private.md|Czersk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Czersk.personal.md|Czersk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Czersk.secret.md|Czersk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Czersk.internal|Czersk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Czersk.protect|Czersk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Czersk.private|Czersk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Czersk.personal|Czersk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Czersk.secret|Czersk.secret]] 

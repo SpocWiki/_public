@@ -41,9 +41,9 @@ markerFolder: ./Catamarca/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Catamarca.md|Catamarca]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Catamarca.internal.md|Catamarca.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Catamarca.protect.md|Catamarca.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Catamarca.private.md|Catamarca.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Catamarca.personal.md|Catamarca.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Catamarca.secret.md|Catamarca.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Catamarca.internal|Catamarca.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Catamarca.protect|Catamarca.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Catamarca.private|Catamarca.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Catamarca.personal|Catamarca.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Catamarca.secret|Catamarca.secret]] 
 

@@ -39,8 +39,8 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).md|Sub~Shepherd's_Bush_(C)]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).internal.md|Sub~Shepherd's_Bush_(C).internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).protect.md|Sub~Shepherd's_Bush_(C).protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).private.md|Sub~Shepherd's_Bush_(C).private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).personal.md|Sub~Shepherd's_Bush_(C).personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).secret.md|Sub~Shepherd's_Bush_(C).secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).internal|Sub~Shepherd's_Bush_(C).internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).protect|Sub~Shepherd's_Bush_(C).protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).private|Sub~Shepherd's_Bush_(C).private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).personal|Sub~Shepherd's_Bush_(C).personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(C).secret|Sub~Shepherd's_Bush_(C).secret]] 

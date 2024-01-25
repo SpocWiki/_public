@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Landeshut.md|Landeshut]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Landeshut.internal.md|Landeshut.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Landeshut.protect.md|Landeshut.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Landeshut.private.md|Landeshut.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Landeshut.personal.md|Landeshut.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Landeshut.secret.md|Landeshut.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Landeshut.internal|Landeshut.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Landeshut.protect|Landeshut.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Landeshut.private|Landeshut.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Landeshut.personal|Landeshut.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Landeshut.secret|Landeshut.secret]] 

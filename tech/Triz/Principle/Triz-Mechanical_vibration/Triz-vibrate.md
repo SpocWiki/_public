@@ -28,8 +28,8 @@ Cause an object to oscillate or vibrate.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-vibrate.md|Triz-vibrate]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-vibrate.internal.md|Triz-vibrate.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-vibrate.protect.md|Triz-vibrate.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-vibrate.private.md|Triz-vibrate.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-vibrate.personal.md|Triz-vibrate.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-vibrate.secret.md|Triz-vibrate.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-vibrate.internal|Triz-vibrate.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-vibrate.protect|Triz-vibrate.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-vibrate.private|Triz-vibrate.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-vibrate.personal|Triz-vibrate.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-vibrate.secret|Triz-vibrate.secret]] 

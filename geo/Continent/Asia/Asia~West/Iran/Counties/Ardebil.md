@@ -41,9 +41,9 @@ markerFolder: ./Ardebil/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.md|Ardebil]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.internal.md|Ardebil.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.protect.md|Ardebil.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.private.md|Ardebil.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.personal.md|Ardebil.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.secret.md|Ardebil.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.internal|Ardebil.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.protect|Ardebil.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.private|Ardebil.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.personal|Ardebil.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.secret|Ardebil.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Tuchola.md|Tuchola]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tuchola.internal.md|Tuchola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tuchola.protect.md|Tuchola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tuchola.private.md|Tuchola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tuchola.personal.md|Tuchola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tuchola.secret.md|Tuchola.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tuchola.internal|Tuchola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tuchola.protect|Tuchola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tuchola.private|Tuchola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tuchola.personal|Tuchola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tuchola.secret|Tuchola.secret]] 

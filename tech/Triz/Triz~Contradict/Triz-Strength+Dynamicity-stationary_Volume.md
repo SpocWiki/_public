@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Dynamicity-stationary_Volume]
 [SpocWebEntityId::23976]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.md|Triz-Strength+Dynamicity-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.internal.md|Triz-Strength+Dynamicity-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.protect.md|Triz-Strength+Dynamicity-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.private.md|Triz-Strength+Dynamicity-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.personal.md|Triz-Strength+Dynamicity-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.secret.md|Triz-Strength+Dynamicity-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.internal|Triz-Strength+Dynamicity-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.protect|Triz-Strength+Dynamicity-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.private|Triz-Strength+Dynamicity-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.personal|Triz-Strength+Dynamicity-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Volume.secret|Triz-Strength+Dynamicity-stationary_Volume.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Fukuoka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.md|Fukuoka]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.internal.md|Fukuoka.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.protect.md|Fukuoka.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.private.md|Fukuoka.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.personal.md|Fukuoka.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.secret.md|Fukuoka.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.internal|Fukuoka.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.protect|Fukuoka.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.private|Fukuoka.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.personal|Fukuoka.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.secret|Fukuoka.secret]] 
 

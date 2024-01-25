@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Latisana.md|Latisana]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Latisana.internal.md|Latisana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Latisana.protect.md|Latisana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Latisana.private.md|Latisana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Latisana.personal.md|Latisana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Latisana.secret.md|Latisana.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Latisana.internal|Latisana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Latisana.protect|Latisana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Latisana.private|Latisana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Latisana.personal|Latisana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Latisana.secret|Latisana.secret]] 

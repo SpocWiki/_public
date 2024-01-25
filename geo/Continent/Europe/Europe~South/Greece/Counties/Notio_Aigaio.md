@@ -41,9 +41,9 @@ markerFolder: ./Notio_Aigaio/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.md|Notio_Aigaio]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.internal.md|Notio_Aigaio.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.protect.md|Notio_Aigaio.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.private.md|Notio_Aigaio.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.personal.md|Notio_Aigaio.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.secret.md|Notio_Aigaio.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.internal|Notio_Aigaio.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.protect|Notio_Aigaio.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.private|Notio_Aigaio.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.personal|Notio_Aigaio.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.secret|Notio_Aigaio.secret]] 
 

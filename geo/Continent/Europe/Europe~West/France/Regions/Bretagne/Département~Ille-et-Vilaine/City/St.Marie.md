@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Marie.md|St.Marie]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Marie.internal.md|St.Marie.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Marie.protect.md|St.Marie.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Marie.private.md|St.Marie.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Marie.personal.md|St.Marie.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Marie.secret.md|St.Marie.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Marie.internal|St.Marie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Marie.protect|St.Marie.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Marie.private|St.Marie.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Marie.personal|St.Marie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Marie.secret|St.Marie.secret]] 

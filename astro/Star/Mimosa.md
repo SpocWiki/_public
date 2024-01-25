@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Mimosa.md|Mimosa]] 
-- [[../../../_internal/astro/Star/Mimosa.internal.md|Mimosa.internal]] 
-- [[../../../_protect/astro/Star/Mimosa.protect.md|Mimosa.protect]] 
-- [[../../../_private/astro/Star/Mimosa.private.md|Mimosa.private]] 
-- [[../../../_personal/astro/Star/Mimosa.personal.md|Mimosa.personal]] 
-- [[../../../_secret/astro/Star/Mimosa.secret.md|Mimosa.secret]] 
+- [[../../../_internal/astro/Star/Mimosa.internal|Mimosa.internal]] 
+- [[../../../_protect/astro/Star/Mimosa.protect|Mimosa.protect]] 
+- [[../../../_private/astro/Star/Mimosa.private|Mimosa.private]] 
+- [[../../../_personal/astro/Star/Mimosa.personal|Mimosa.personal]] 
+- [[../../../_secret/astro/Star/Mimosa.secret|Mimosa.secret]] 

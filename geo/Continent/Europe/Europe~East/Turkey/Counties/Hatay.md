@@ -41,9 +41,9 @@ markerFolder: ./Hatay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Hatay.md|Hatay]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Hatay.internal.md|Hatay.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Hatay.protect.md|Hatay.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Hatay.private.md|Hatay.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Hatay.personal.md|Hatay.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Hatay.secret.md|Hatay.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Hatay.internal|Hatay.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Hatay.protect|Hatay.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Hatay.private|Hatay.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Hatay.personal|Hatay.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Hatay.secret|Hatay.secret]] 
 

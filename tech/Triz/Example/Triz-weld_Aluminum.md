@@ -18,8 +18,8 @@ To weld Steel to Aluminum, create an Interface from alternating thin Strips of t
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-weld_Aluminum.md|Triz-weld_Aluminum]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-weld_Aluminum.internal.md|Triz-weld_Aluminum.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-weld_Aluminum.protect.md|Triz-weld_Aluminum.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-weld_Aluminum.private.md|Triz-weld_Aluminum.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-weld_Aluminum.personal.md|Triz-weld_Aluminum.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-weld_Aluminum.secret.md|Triz-weld_Aluminum.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-weld_Aluminum.internal|Triz-weld_Aluminum.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-weld_Aluminum.protect|Triz-weld_Aluminum.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-weld_Aluminum.private|Triz-weld_Aluminum.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-weld_Aluminum.personal|Triz-weld_Aluminum.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-weld_Aluminum.secret|Triz-weld_Aluminum.secret]] 

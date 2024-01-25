@@ -41,9 +41,9 @@ markerFolder: ./Cavan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Cavan.md|Cavan]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Cavan.internal.md|Cavan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Cavan.protect.md|Cavan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Cavan.private.md|Cavan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Cavan.personal.md|Cavan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Cavan.secret.md|Cavan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Cavan.internal|Cavan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Cavan.protect|Cavan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Cavan.private|Cavan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Cavan.personal|Cavan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Cavan.secret|Cavan.secret]] 
 

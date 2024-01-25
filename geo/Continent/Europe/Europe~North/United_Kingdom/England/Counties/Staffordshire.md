@@ -41,9 +41,9 @@ markerFolder: ./Staffordshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.md|Staffordshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.internal.md|Staffordshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.protect.md|Staffordshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.private.md|Staffordshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.personal.md|Staffordshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.secret.md|Staffordshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.internal|Staffordshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.protect|Staffordshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.private|Staffordshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.personal|Staffordshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Staffordshire.secret|Staffordshire.secret]] 
 

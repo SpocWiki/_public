@@ -41,9 +41,9 @@ markerFolder: ./Šempeter-Vrtojba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.md|Šempeter-Vrtojba]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.internal.md|Šempeter-Vrtojba.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.protect.md|Šempeter-Vrtojba.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.private.md|Šempeter-Vrtojba.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.personal.md|Šempeter-Vrtojba.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.secret.md|Šempeter-Vrtojba.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.internal|Šempeter-Vrtojba.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.protect|Šempeter-Vrtojba.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.private|Šempeter-Vrtojba.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.personal|Šempeter-Vrtojba.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Goriška~Gorizia/Šempeter-Vrtojba.secret|Šempeter-Vrtojba.secret]] 
 

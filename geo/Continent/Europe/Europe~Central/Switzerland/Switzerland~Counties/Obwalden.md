@@ -41,9 +41,9 @@ markerFolder: ./Obwalden/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.md|Obwalden]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.internal.md|Obwalden.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.protect.md|Obwalden.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.private.md|Obwalden.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.personal.md|Obwalden.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.secret.md|Obwalden.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.internal|Obwalden.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.protect|Obwalden.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.private|Obwalden.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.personal|Obwalden.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Obwalden.secret|Obwalden.secret]] 
 

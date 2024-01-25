@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Changing_the_color-Measurement_Accuracy]
 [SpocWebEntityId::24406]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.md|Triz-Illumination+Changing_the_color-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.internal.md|Triz-Illumination+Changing_the_color-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.protect.md|Triz-Illumination+Changing_the_color-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.private.md|Triz-Illumination+Changing_the_color-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.personal.md|Triz-Illumination+Changing_the_color-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.secret.md|Triz-Illumination+Changing_the_color-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.internal|Triz-Illumination+Changing_the_color-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.protect|Triz-Illumination+Changing_the_color-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.private|Triz-Illumination+Changing_the_color-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.personal|Triz-Illumination+Changing_the_color-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.secret|Triz-Illumination+Changing_the_color-Measurement_Accuracy.secret]] 

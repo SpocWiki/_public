@@ -41,9 +41,9 @@ markerFolder: ./La_Rioja/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Argentina/Counties/La_Rioja.md|La_Rioja]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/La_Rioja.internal.md|La_Rioja.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/La_Rioja.protect.md|La_Rioja.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/La_Rioja.private.md|La_Rioja.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/La_Rioja.personal.md|La_Rioja.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/La_Rioja.secret.md|La_Rioja.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/La_Rioja.internal|La_Rioja.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/La_Rioja.protect|La_Rioja.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/La_Rioja.private|La_Rioja.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/La_Rioja.personal|La_Rioja.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/La_Rioja.secret|La_Rioja.secret]] 
 

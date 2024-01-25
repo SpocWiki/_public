@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Use_of_porous_material-moving_Area]
 [SpocWebEntityId::24805]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Use_porous_material]]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.md|Triz-Substance-Loss+Use_of_porous_material-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.internal.md|Triz-Substance-Loss+Use_of_porous_material-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.protect.md|Triz-Substance-Loss+Use_of_porous_material-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.private.md|Triz-Substance-Loss+Use_of_porous_material-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.personal.md|Triz-Substance-Loss+Use_of_porous_material-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.secret.md|Triz-Substance-Loss+Use_of_porous_material-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.internal|Triz-Substance-Loss+Use_of_porous_material-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.protect|Triz-Substance-Loss+Use_of_porous_material-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.private|Triz-Substance-Loss+Use_of_porous_material-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.personal|Triz-Substance-Loss+Use_of_porous_material-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-moving_Area.secret|Triz-Substance-Loss+Use_of_porous_material-moving_Area.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Moselle/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.md|Département~Moselle]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.internal.md|Département~Moselle.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.protect.md|Département~Moselle.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.private.md|Département~Moselle.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.personal.md|Département~Moselle.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.secret.md|Département~Moselle.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.internal|Département~Moselle.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.protect|Département~Moselle.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.private|Département~Moselle.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.personal|Département~Moselle.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Grand_Est/Département~Moselle.secret|Département~Moselle.secret]] 
 

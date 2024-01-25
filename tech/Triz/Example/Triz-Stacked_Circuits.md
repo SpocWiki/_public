@@ -18,8 +18,8 @@ Stack Microelectronic hybrid Circuits to improve Density.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Stacked_Circuits.md|Triz-Stacked_Circuits]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Stacked_Circuits.internal.md|Triz-Stacked_Circuits.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Stacked_Circuits.protect.md|Triz-Stacked_Circuits.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Stacked_Circuits.private.md|Triz-Stacked_Circuits.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Stacked_Circuits.personal.md|Triz-Stacked_Circuits.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Stacked_Circuits.secret.md|Triz-Stacked_Circuits.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Stacked_Circuits.internal|Triz-Stacked_Circuits.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Stacked_Circuits.protect|Triz-Stacked_Circuits.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Stacked_Circuits.private|Triz-Stacked_Circuits.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Stacked_Circuits.personal|Triz-Stacked_Circuits.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Stacked_Circuits.secret|Triz-Stacked_Circuits.secret]] 

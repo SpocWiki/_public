@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Budua.md|Budua]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Budua.internal.md|Budua.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Budua.protect.md|Budua.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Budua.private.md|Budua.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Budua.personal.md|Budua.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Budua.secret.md|Budua.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Budua.internal|Budua.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Budua.protect|Budua.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Budua.private|Budua.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Budua.personal|Budua.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Budua.secret|Budua.secret]] 

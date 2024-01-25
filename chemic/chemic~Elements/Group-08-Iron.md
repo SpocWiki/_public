@@ -24,8 +24,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-08-Iron.md|Group-08-Iron]] 
-- [[../../../_internal/chemic/Elements/Group-08-Iron.internal.md|Group-08-Iron.internal]] 
-- [[../../../_protect/chemic/Elements/Group-08-Iron.protect.md|Group-08-Iron.protect]] 
-- [[../../../_private/chemic/Elements/Group-08-Iron.private.md|Group-08-Iron.private]] 
-- [[../../../_personal/chemic/Elements/Group-08-Iron.personal.md|Group-08-Iron.personal]] 
-- [[../../../_secret/chemic/Elements/Group-08-Iron.secret.md|Group-08-Iron.secret]] 
+- [[../../../_internal/chemic/Elements/Group-08-Iron.internal|Group-08-Iron.internal]] 
+- [[../../../_protect/chemic/Elements/Group-08-Iron.protect|Group-08-Iron.protect]] 
+- [[../../../_private/chemic/Elements/Group-08-Iron.private|Group-08-Iron.private]] 
+- [[../../../_personal/chemic/Elements/Group-08-Iron.personal|Group-08-Iron.personal]] 
+- [[../../../_secret/chemic/Elements/Group-08-Iron.secret|Group-08-Iron.secret]] 

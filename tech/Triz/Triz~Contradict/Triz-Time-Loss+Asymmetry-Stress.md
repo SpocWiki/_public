@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Asymmetry-Stress]
 [SpocWebEntityId::25016]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.md|Triz-Time-Loss+Asymmetry-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.internal.md|Triz-Time-Loss+Asymmetry-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.protect.md|Triz-Time-Loss+Asymmetry-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.private.md|Triz-Time-Loss+Asymmetry-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.personal.md|Triz-Time-Loss+Asymmetry-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.secret.md|Triz-Time-Loss+Asymmetry-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.internal|Triz-Time-Loss+Asymmetry-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.protect|Triz-Time-Loss+Asymmetry-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.private|Triz-Time-Loss+Asymmetry-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.personal|Triz-Time-Loss+Asymmetry-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.secret|Triz-Time-Loss+Asymmetry-Stress.secret]] 

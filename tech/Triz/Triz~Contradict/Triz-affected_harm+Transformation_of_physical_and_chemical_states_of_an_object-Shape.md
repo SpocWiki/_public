@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape]
 [SpocWebEntityId::25620]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.personal.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.secret.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.personal|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.secret|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Shape.secret]] 

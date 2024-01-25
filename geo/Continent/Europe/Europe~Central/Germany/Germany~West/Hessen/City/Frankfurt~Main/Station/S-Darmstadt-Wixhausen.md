@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Darmstadt-Wixhausen|S-Darmstadt-Wixhausen]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.internal.md|S-Darmstadt-Wixhausen.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.protect.md|S-Darmstadt-Wixhausen.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.private.md|S-Darmstadt-Wixhausen.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.personal.md|S-Darmstadt-Wixhausen.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.secret.md|S-Darmstadt-Wixhausen.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.internal|S-Darmstadt-Wixhausen.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.protect|S-Darmstadt-Wixhausen.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.private|S-Darmstadt-Wixhausen.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.personal|S-Darmstadt-Wixhausen.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.secret|S-Darmstadt-Wixhausen.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hiiraan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Hiiraan.md|Hiiraan]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Hiiraan.internal.md|Hiiraan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Hiiraan.protect.md|Hiiraan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Hiiraan.private.md|Hiiraan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Hiiraan.personal.md|Hiiraan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Hiiraan.secret.md|Hiiraan.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Hiiraan.internal|Hiiraan.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Hiiraan.protect|Hiiraan.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Hiiraan.private|Hiiraan.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Hiiraan.personal|Hiiraan.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Hiiraan.secret|Hiiraan.secret]] 
 

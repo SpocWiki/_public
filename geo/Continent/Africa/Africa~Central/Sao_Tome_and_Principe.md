@@ -40,7 +40,7 @@ markerFolder: ./Sao_Tome_and_Principe//
 ## Confidential Links & Embeds: 
 - [[Sao_Tome_and_Principe|Sao_Tome_and_Principe]] 
 - [[../../../../../_internal/geo/Continent/Africa/Sao_Tome_And_Principe.internal|Sao_Tome_And_Principe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sao_Tome_And_Principe.protect.md|Sao_Tome_And_Principe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sao_Tome_And_Principe.private.md|Sao_Tome_And_Principe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sao_Tome_And_Principe.personal.md|Sao_Tome_And_Principe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sao_Tome_And_Principe.secret.md|Sao_Tome_And_Principe.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Sao_Tome_And_Principe.protect|Sao_Tome_And_Principe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sao_Tome_And_Principe.private|Sao_Tome_And_Principe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sao_Tome_And_Principe.personal|Sao_Tome_And_Principe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sao_Tome_And_Principe.secret|Sao_Tome_And_Principe.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Alpl.md|Alpl]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Alpl.internal.md|Alpl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Alpl.protect.md|Alpl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Alpl.private.md|Alpl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Alpl.personal.md|Alpl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Alpl.secret.md|Alpl.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Alpl.internal|Alpl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Alpl.protect|Alpl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Alpl.private|Alpl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Alpl.personal|Alpl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Alpl.secret|Alpl.secret]] 

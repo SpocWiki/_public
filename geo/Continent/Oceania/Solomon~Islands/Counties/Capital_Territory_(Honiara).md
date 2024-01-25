@@ -41,9 +41,9 @@ markerFolder: ./Capital_Territory_(Honiara)/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).md|Capital_Territory_(Honiara)]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).internal.md|Capital_Territory_(Honiara).internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).protect.md|Capital_Territory_(Honiara).protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).private.md|Capital_Territory_(Honiara).private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).personal.md|Capital_Territory_(Honiara).personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).secret.md|Capital_Territory_(Honiara).secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).internal|Capital_Territory_(Honiara).internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).protect|Capital_Territory_(Honiara).protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).private|Capital_Territory_(Honiara).private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).personal|Capital_Territory_(Honiara).personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Capital_Territory_(Honiara).secret|Capital_Territory_(Honiara).secret]] 
 

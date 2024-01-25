@@ -41,9 +41,9 @@ markerFolder: ./Bari/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Bari.md|Bari]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Bari.internal.md|Bari.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Bari.protect.md|Bari.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Bari.private.md|Bari.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Bari.personal.md|Bari.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Bari.secret.md|Bari.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Bari.internal|Bari.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Bari.protect|Bari.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Bari.private|Bari.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Bari.personal|Bari.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Bari.secret|Bari.secret]] 
 

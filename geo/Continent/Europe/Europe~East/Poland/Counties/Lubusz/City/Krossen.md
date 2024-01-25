@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Krossen.md|Krossen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krossen.internal.md|Krossen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krossen.protect.md|Krossen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krossen.private.md|Krossen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krossen.personal.md|Krossen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krossen.secret.md|Krossen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krossen.internal|Krossen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krossen.protect|Krossen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krossen.private|Krossen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krossen.personal|Krossen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krossen.secret|Krossen.secret]] 

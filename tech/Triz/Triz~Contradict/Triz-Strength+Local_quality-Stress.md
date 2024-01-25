@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Local_quality-Stress]
 [SpocWebEntityId::23986]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.md|Triz-Strength+Local_quality-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.internal.md|Triz-Strength+Local_quality-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.protect.md|Triz-Strength+Local_quality-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.private.md|Triz-Strength+Local_quality-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.personal.md|Triz-Strength+Local_quality-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.secret.md|Triz-Strength+Local_quality-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.internal|Triz-Strength+Local_quality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.protect|Triz-Strength+Local_quality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.private|Triz-Strength+Local_quality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.personal|Triz-Strength+Local_quality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.secret|Triz-Strength+Local_quality-Stress.secret]] 

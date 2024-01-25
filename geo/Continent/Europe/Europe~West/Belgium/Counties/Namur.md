@@ -41,9 +41,9 @@ markerFolder: ./Namur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Namur.md|Namur]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Namur.internal.md|Namur.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Namur.protect.md|Namur.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Namur.private.md|Namur.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Namur.personal.md|Namur.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Namur.secret.md|Namur.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Namur.internal|Namur.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Namur.protect|Namur.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Namur.private|Namur.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Namur.personal|Namur.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Namur.secret|Namur.secret]] 
 

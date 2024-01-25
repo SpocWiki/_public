@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Parthenay.md|Parthenay]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Parthenay.internal.md|Parthenay.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Parthenay.protect.md|Parthenay.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Parthenay.private.md|Parthenay.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Parthenay.personal.md|Parthenay.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Parthenay.secret.md|Parthenay.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Parthenay.internal|Parthenay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Parthenay.protect|Parthenay.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Parthenay.private|Parthenay.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Parthenay.personal|Parthenay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Parthenay.secret|Parthenay.secret]] 

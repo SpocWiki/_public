@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Varberget.md|Varberget]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Varberget.internal.md|Varberget.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Varberget.protect.md|Varberget.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Varberget.private.md|Varberget.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Varberget.personal.md|Varberget.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Varberget.secret.md|Varberget.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Varberget.internal|Varberget.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Varberget.protect|Varberget.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Varberget.private|Varberget.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Varberget.personal|Varberget.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Varberget.secret|Varberget.secret]] 

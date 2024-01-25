@@ -18,8 +18,8 @@ Locks in a Channel between 2 Bodies of Water
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Panama_Canal.md|Triz-Panama_Canal]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Panama_Canal.internal.md|Triz-Panama_Canal.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Panama_Canal.protect.md|Triz-Panama_Canal.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Panama_Canal.private.md|Triz-Panama_Canal.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Panama_Canal.personal.md|Triz-Panama_Canal.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Panama_Canal.secret.md|Triz-Panama_Canal.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Panama_Canal.internal|Triz-Panama_Canal.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Panama_Canal.protect|Triz-Panama_Canal.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Panama_Canal.private|Triz-Panama_Canal.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Panama_Canal.personal|Triz-Panama_Canal.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Panama_Canal.secret|Triz-Panama_Canal.secret]] 

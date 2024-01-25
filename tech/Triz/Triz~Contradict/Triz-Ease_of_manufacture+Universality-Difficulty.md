@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Universality-Difficulty]
 [SpocWebEntityId::25934]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.md|Triz-Ease_of_manufacture+Universality-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.internal.md|Triz-Ease_of_manufacture+Universality-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.protect.md|Triz-Ease_of_manufacture+Universality-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.private.md|Triz-Ease_of_manufacture+Universality-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.personal.md|Triz-Ease_of_manufacture+Universality-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.secret.md|Triz-Ease_of_manufacture+Universality-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.internal|Triz-Ease_of_manufacture+Universality-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.protect|Triz-Ease_of_manufacture+Universality-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.private|Triz-Ease_of_manufacture+Universality-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.personal|Triz-Ease_of_manufacture+Universality-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.secret|Triz-Ease_of_manufacture+Universality-Difficulty.secret]] 

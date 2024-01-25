@@ -41,9 +41,9 @@ markerFolder: ./Butha-Buthe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.md|Butha-Buthe]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.internal.md|Butha-Buthe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.protect.md|Butha-Buthe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.private.md|Butha-Buthe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.personal.md|Butha-Buthe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.secret.md|Butha-Buthe.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.internal|Butha-Buthe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.protect|Butha-Buthe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.private|Butha-Buthe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.personal|Butha-Buthe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Butha-Buthe.secret|Butha-Buthe.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Angoulème.md|Angoulème]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Angoulème.internal.md|Angoulème.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Angoulème.protect.md|Angoulème.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Angoulème.private.md|Angoulème.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Angoulème.personal.md|Angoulème.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Angoulème.secret.md|Angoulème.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Angoulème.internal|Angoulème.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Angoulème.protect|Angoulème.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Angoulème.private|Angoulème.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Angoulème.personal|Angoulème.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Angoulème.secret|Angoulème.secret]] 

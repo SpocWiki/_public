@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neuteich.md|Neuteich]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neuteich.internal.md|Neuteich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neuteich.protect.md|Neuteich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neuteich.private.md|Neuteich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neuteich.personal.md|Neuteich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neuteich.secret.md|Neuteich.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neuteich.internal|Neuteich.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neuteich.protect|Neuteich.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neuteich.private|Neuteich.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neuteich.personal|Neuteich.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neuteich.secret|Neuteich.secret]] 

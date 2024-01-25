@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Piscium-15.md|Piscium-15]] 
-- [[../../../_internal/astro/Star/Piscium-15.internal.md|Piscium-15.internal]] 
-- [[../../../_protect/astro/Star/Piscium-15.protect.md|Piscium-15.protect]] 
-- [[../../../_private/astro/Star/Piscium-15.private.md|Piscium-15.private]] 
-- [[../../../_personal/astro/Star/Piscium-15.personal.md|Piscium-15.personal]] 
-- [[../../../_secret/astro/Star/Piscium-15.secret.md|Piscium-15.secret]] 
+- [[../../../_internal/astro/Star/Piscium-15.internal|Piscium-15.internal]] 
+- [[../../../_protect/astro/Star/Piscium-15.protect|Piscium-15.protect]] 
+- [[../../../_private/astro/Star/Piscium-15.private|Piscium-15.private]] 
+- [[../../../_personal/astro/Star/Piscium-15.personal|Piscium-15.personal]] 
+- [[../../../_secret/astro/Star/Piscium-15.secret|Piscium-15.secret]] 

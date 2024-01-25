@@ -18,8 +18,8 @@ Use a high Speed Dentist's Drill to avoid Heating Tissue.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-high_Speed_Operation.md|Triz-high_Speed_Operation]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-high_Speed_Operation.internal.md|Triz-high_Speed_Operation.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-high_Speed_Operation.protect.md|Triz-high_Speed_Operation.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-high_Speed_Operation.private.md|Triz-high_Speed_Operation.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-high_Speed_Operation.personal.md|Triz-high_Speed_Operation.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-high_Speed_Operation.secret.md|Triz-high_Speed_Operation.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-high_Speed_Operation.internal|Triz-high_Speed_Operation.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-high_Speed_Operation.protect|Triz-high_Speed_Operation.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-high_Speed_Operation.private|Triz-high_Speed_Operation.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-high_Speed_Operation.personal|Triz-high_Speed_Operation.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-high_Speed_Operation.secret|Triz-high_Speed_Operation.secret]] 

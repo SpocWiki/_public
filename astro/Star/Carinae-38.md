@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Carinae-38.md|Carinae-38]] 
-- [[../../../_internal/astro/Star/Carinae-38.internal.md|Carinae-38.internal]] 
-- [[../../../_protect/astro/Star/Carinae-38.protect.md|Carinae-38.protect]] 
-- [[../../../_private/astro/Star/Carinae-38.private.md|Carinae-38.private]] 
-- [[../../../_personal/astro/Star/Carinae-38.personal.md|Carinae-38.personal]] 
-- [[../../../_secret/astro/Star/Carinae-38.secret.md|Carinae-38.secret]]
+- [[../../../_internal/astro/Star/Carinae-38.internal|Carinae-38.internal]] 
+- [[../../../_protect/astro/Star/Carinae-38.protect|Carinae-38.protect]] 
+- [[../../../_private/astro/Star/Carinae-38.private|Carinae-38.private]] 
+- [[../../../_personal/astro/Star/Carinae-38.personal|Carinae-38.personal]] 
+- [[../../../_secret/astro/Star/Carinae-38.secret|Carinae-38.secret]]
 

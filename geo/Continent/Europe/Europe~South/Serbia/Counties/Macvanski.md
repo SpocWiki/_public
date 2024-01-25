@@ -41,9 +41,9 @@ markerFolder: ./Macvanski/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Macvanski.md|Macvanski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Macvanski.internal.md|Macvanski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Macvanski.protect.md|Macvanski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Macvanski.private.md|Macvanski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Macvanski.personal.md|Macvanski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Macvanski.secret.md|Macvanski.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Macvanski.internal|Macvanski.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Macvanski.protect|Macvanski.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Macvanski.private|Macvanski.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Macvanski.personal|Macvanski.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Macvanski.secret|Macvanski.secret]] 
 

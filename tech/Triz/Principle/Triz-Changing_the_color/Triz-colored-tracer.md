@@ -25,8 +25,8 @@ Use colored Additives to observe Objects or Processes which are difficult to see
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-colored-tracer.md|Triz-colored-tracer]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-colored-tracer.internal.md|Triz-colored-tracer.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-colored-tracer.protect.md|Triz-colored-tracer.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-colored-tracer.private.md|Triz-colored-tracer.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-colored-tracer.personal.md|Triz-colored-tracer.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-colored-tracer.secret.md|Triz-colored-tracer.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-colored-tracer.internal|Triz-colored-tracer.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-colored-tracer.protect|Triz-colored-tracer.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-colored-tracer.private|Triz-colored-tracer.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-colored-tracer.personal|Triz-colored-tracer.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-colored-tracer.secret|Triz-colored-tracer.secret]] 

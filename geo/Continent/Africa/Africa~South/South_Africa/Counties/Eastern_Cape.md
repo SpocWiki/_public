@@ -41,9 +41,9 @@ markerFolder: ./Eastern_Cape/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.md|Eastern_Cape]] 
-- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.internal.md|Eastern_Cape.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.protect.md|Eastern_Cape.protect]] 
-- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.private.md|Eastern_Cape.private]] 
-- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.personal.md|Eastern_Cape.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.secret.md|Eastern_Cape.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.internal|Eastern_Cape.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.protect|Eastern_Cape.protect]] 
+- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.private|Eastern_Cape.private]] 
+- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.personal|Eastern_Cape.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Eastern_Cape.secret|Eastern_Cape.secret]] 
 

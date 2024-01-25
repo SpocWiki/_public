@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Triebel.md|Triebel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Triebel.internal.md|Triebel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Triebel.protect.md|Triebel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Triebel.private.md|Triebel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Triebel.personal.md|Triebel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Triebel.secret.md|Triebel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Triebel.internal|Triebel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Triebel.protect|Triebel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Triebel.private|Triebel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Triebel.personal|Triebel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Triebel.secret|Triebel.secret]] 

@@ -52,9 +52,9 @@ markerFolder: ./Hounslow/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.md|Hounslow]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.internal.md|Hounslow.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.protect.md|Hounslow.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.private.md|Hounslow.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.personal.md|Hounslow.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.secret.md|Hounslow.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.internal|Hounslow.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.protect|Hounslow.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.private|Hounslow.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.personal|Hounslow.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.secret|Hounslow.secret]] 
 

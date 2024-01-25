@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schaerding.md|Schaerding]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schaerding.internal.md|Schaerding.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schaerding.protect.md|Schaerding.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schaerding.private.md|Schaerding.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schaerding.personal.md|Schaerding.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schaerding.secret.md|Schaerding.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schaerding.internal|Schaerding.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schaerding.protect|Schaerding.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schaerding.private|Schaerding.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schaerding.personal|Schaerding.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schaerding.secret|Schaerding.secret]] 

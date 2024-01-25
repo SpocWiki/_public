@@ -41,9 +41,9 @@ markerFolder: ./Yatenga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.md|Yatenga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.internal.md|Yatenga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.protect.md|Yatenga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.private.md|Yatenga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.personal.md|Yatenga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.secret.md|Yatenga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.internal|Yatenga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.protect|Yatenga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.private|Yatenga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.personal|Yatenga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.secret|Yatenga.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Mechanical_vibration-Automation]
 [SpocWebEntityId::22690]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.md|Triz-moving_Weight+Mechanical_vibration-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.internal.md|Triz-moving_Weight+Mechanical_vibration-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.protect.md|Triz-moving_Weight+Mechanical_vibration-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.private.md|Triz-moving_Weight+Mechanical_vibration-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.personal.md|Triz-moving_Weight+Mechanical_vibration-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.secret.md|Triz-moving_Weight+Mechanical_vibration-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.internal|Triz-moving_Weight+Mechanical_vibration-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.protect|Triz-moving_Weight+Mechanical_vibration-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.private|Triz-moving_Weight+Mechanical_vibration-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.personal|Triz-moving_Weight+Mechanical_vibration-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.secret|Triz-moving_Weight+Mechanical_vibration-Automation.secret]] 

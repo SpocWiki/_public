@@ -41,9 +41,9 @@ markerFolder: ./Treviso.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.md|Treviso.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.internal.md|Treviso.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.protect.md|Treviso.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.private.md|Treviso.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.personal.md|Treviso.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.secret.md|Treviso.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.internal|Treviso.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.protect|Treviso.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.private|Treviso.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.personal|Treviso.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Treviso.Province.secret|Treviso.Province.secret]] 
 

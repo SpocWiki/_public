@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kirovsk.md|Kirovsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirovsk.internal.md|Kirovsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirovsk.protect.md|Kirovsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kirovsk.private.md|Kirovsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirovsk.personal.md|Kirovsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirovsk.secret.md|Kirovsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirovsk.internal|Kirovsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirovsk.protect|Kirovsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kirovsk.private|Kirovsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirovsk.personal|Kirovsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirovsk.secret|Kirovsk.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Campobasso.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.md|Campobasso.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.internal.md|Campobasso.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.protect.md|Campobasso.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.private.md|Campobasso.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.personal.md|Campobasso.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.secret.md|Campobasso.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.internal|Campobasso.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.protect|Campobasso.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.private|Campobasso.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.personal|Campobasso.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Molise/Campobasso.Province.secret|Campobasso.Province.secret]] 
 

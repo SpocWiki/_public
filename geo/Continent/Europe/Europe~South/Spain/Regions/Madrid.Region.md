@@ -41,9 +41,9 @@ markerFolder: ./Madrid.Region/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Madrid.Region.md|Madrid.Region]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Madrid.Region.internal.md|Madrid.Region.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Madrid.Region.protect.md|Madrid.Region.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Madrid.Region.private.md|Madrid.Region.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Madrid.Region.personal.md|Madrid.Region.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Madrid.Region.secret.md|Madrid.Region.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Madrid.Region.internal|Madrid.Region.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Madrid.Region.protect|Madrid.Region.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Madrid.Region.private|Madrid.Region.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Madrid.Region.personal|Madrid.Region.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Madrid.Region.secret|Madrid.Region.secret]] 
 

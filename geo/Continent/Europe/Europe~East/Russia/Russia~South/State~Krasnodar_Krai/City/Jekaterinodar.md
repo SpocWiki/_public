@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jekaterinodar.md|Jekaterinodar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekaterinodar.internal.md|Jekaterinodar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekaterinodar.protect.md|Jekaterinodar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jekaterinodar.private.md|Jekaterinodar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekaterinodar.personal.md|Jekaterinodar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekaterinodar.secret.md|Jekaterinodar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekaterinodar.internal|Jekaterinodar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekaterinodar.protect|Jekaterinodar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jekaterinodar.private|Jekaterinodar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekaterinodar.personal|Jekaterinodar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekaterinodar.secret|Jekaterinodar.secret]] 

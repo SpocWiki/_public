@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Diphda.md|Diphda]] 
-- [[../../../_internal/astro/Star/Diphda.internal.md|Diphda.internal]] 
-- [[../../../_protect/astro/Star/Diphda.protect.md|Diphda.protect]] 
-- [[../../../_private/astro/Star/Diphda.private.md|Diphda.private]] 
-- [[../../../_personal/astro/Star/Diphda.personal.md|Diphda.personal]] 
-- [[../../../_secret/astro/Star/Diphda.secret.md|Diphda.secret]]
+- [[../../../_internal/astro/Star/Diphda.internal|Diphda.internal]] 
+- [[../../../_protect/astro/Star/Diphda.protect|Diphda.protect]] 
+- [[../../../_private/astro/Star/Diphda.private|Diphda.private]] 
+- [[../../../_personal/astro/Star/Diphda.personal|Diphda.personal]] 
+- [[../../../_secret/astro/Star/Diphda.secret|Diphda.secret]]
 

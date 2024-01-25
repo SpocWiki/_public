@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Mullingar.md|Mullingar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Mullingar.internal.md|Mullingar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Mullingar.protect.md|Mullingar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Mullingar.private.md|Mullingar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Mullingar.personal.md|Mullingar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Mullingar.secret.md|Mullingar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Mullingar.internal|Mullingar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Mullingar.protect|Mullingar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Mullingar.private|Mullingar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Mullingar.personal|Mullingar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Mullingar.secret|Mullingar.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy]
 [SpocWebEntityId::22741]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-stationary_Energy]]]
+- [#has_/Cons :: [[Triz-stationary_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.internal.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.protect.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.private.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.personal.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.secret.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.internal|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.protect|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.private|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.personal|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.secret|Triz-stationary_Weight+Replacement_of_a_mechanical_system-stationary_Energy.secret]] 

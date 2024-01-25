@@ -41,9 +41,9 @@ markerFolder: ./Ravne_na_Koroškem/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.md|Ravne_na_Koroškem]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.internal.md|Ravne_na_Koroškem.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.protect.md|Ravne_na_Koroškem.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.private.md|Ravne_na_Koroškem.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.personal.md|Ravne_na_Koroškem.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.secret.md|Ravne_na_Koroškem.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.internal|Ravne_na_Koroškem.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.protect|Ravne_na_Koroškem.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.private|Ravne_na_Koroškem.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.personal|Ravne_na_Koroškem.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Koroška~Carinthia/Ravne_na_Koroškem.secret|Ravne_na_Koroškem.secret]] 
 

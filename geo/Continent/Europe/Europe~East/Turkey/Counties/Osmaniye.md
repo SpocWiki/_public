@@ -41,9 +41,9 @@ markerFolder: ./Osmaniye/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Osmaniye.md|Osmaniye]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Osmaniye.internal.md|Osmaniye.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Osmaniye.protect.md|Osmaniye.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Osmaniye.private.md|Osmaniye.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Osmaniye.personal.md|Osmaniye.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Osmaniye.secret.md|Osmaniye.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Osmaniye.internal|Osmaniye.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Osmaniye.protect|Osmaniye.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Osmaniye.private|Osmaniye.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Osmaniye.personal|Osmaniye.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Osmaniye.secret|Osmaniye.secret]] 
 

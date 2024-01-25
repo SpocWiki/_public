@@ -41,9 +41,9 @@ markerFolder: ./Mantova.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.md|Mantova.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.internal.md|Mantova.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.protect.md|Mantova.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.private.md|Mantova.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.personal.md|Mantova.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.secret.md|Mantova.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.internal|Mantova.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.protect|Mantova.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.private|Mantova.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.personal|Mantova.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Mantova.Province.secret|Mantova.Province.secret]] 
 

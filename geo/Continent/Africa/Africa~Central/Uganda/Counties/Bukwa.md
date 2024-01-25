@@ -41,9 +41,9 @@ markerFolder: ./Bukwa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bukwa.md|Bukwa]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bukwa.internal.md|Bukwa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bukwa.protect.md|Bukwa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bukwa.private.md|Bukwa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bukwa.personal.md|Bukwa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bukwa.secret.md|Bukwa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bukwa.internal|Bukwa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bukwa.protect|Bukwa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bukwa.private|Bukwa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bukwa.personal|Bukwa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bukwa.secret|Bukwa.secret]] 
 

@@ -132,7 +132,7 @@ markerFolder: ./Guam/
 ## Confidential Links & Embeds: 
 -[[Guam|Guam]]] 
 -[[../../../../../_internal/geo/Continent/Oceania/Guam.internal|Guam.internal]]] 
-- [[../../../../_protect/geo/Continent/Oceania/Guam.protect.md|Guam.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Guam.private.md|Guam.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Guam.personal.md|Guam.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Guam.secret.md|Guam.secret]] 
+- [[../../../../_protect/geo/Continent/Oceania/Guam.protect|Guam.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Guam.private|Guam.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Guam.personal|Guam.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Guam.secret|Guam.secret]] 

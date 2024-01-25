@@ -41,9 +41,9 @@ markerFolder: ./Utenos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Utenos.md|Utenos]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Utenos.internal.md|Utenos.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Utenos.protect.md|Utenos.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Utenos.private.md|Utenos.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Utenos.personal.md|Utenos.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Utenos.secret.md|Utenos.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Utenos.internal|Utenos.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Utenos.protect|Utenos.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Utenos.private|Utenos.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Utenos.personal|Utenos.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Utenos.secret|Utenos.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Duration+Local_quality-Quantity]
 [SpocWebEntityId::24196]
-+ [pro::[[Triz-stationary_Duration]]]
++ [#has_/Pros :: [[Triz-stationary_Duration]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.md|Triz-stationary_Duration+Local_quality-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.internal.md|Triz-stationary_Duration+Local_quality-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.protect.md|Triz-stationary_Duration+Local_quality-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.private.md|Triz-stationary_Duration+Local_quality-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.personal.md|Triz-stationary_Duration+Local_quality-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.secret.md|Triz-stationary_Duration+Local_quality-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.internal|Triz-stationary_Duration+Local_quality-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.protect|Triz-stationary_Duration+Local_quality-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.private|Triz-stationary_Duration+Local_quality-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.personal|Triz-stationary_Duration+Local_quality-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Quantity.secret|Triz-stationary_Duration+Local_quality-Quantity.secret]] 

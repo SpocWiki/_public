@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Techlipp.md|Techlipp]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Techlipp.internal.md|Techlipp.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Techlipp.protect.md|Techlipp.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Techlipp.private.md|Techlipp.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Techlipp.personal.md|Techlipp.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Techlipp.secret.md|Techlipp.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Techlipp.internal|Techlipp.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Techlipp.protect|Techlipp.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Techlipp.private|Techlipp.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Techlipp.personal|Techlipp.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Techlipp.secret|Techlipp.secret]] 

@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Schweizer_Str._Mörfelder_Ldstr.|T-Schweizer_Str._Mörfelder_Ldstr.]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..internal.md|T-Schweizer_Str._Mörfelder_Ldstr..internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..protect.md|T-Schweizer_Str._Mörfelder_Ldstr..protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..private.md|T-Schweizer_Str._Mörfelder_Ldstr..private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..personal.md|T-Schweizer_Str._Mörfelder_Ldstr..personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..secret.md|T-Schweizer_Str._Mörfelder_Ldstr..secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..internal|T-Schweizer_Str._Mörfelder_Ldstr..internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..protect|T-Schweizer_Str._Mörfelder_Ldstr..protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..private|T-Schweizer_Str._Mörfelder_Ldstr..private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..personal|T-Schweizer_Str._Mörfelder_Ldstr..personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..secret|T-Schweizer_Str._Mörfelder_Ldstr..secret]] 

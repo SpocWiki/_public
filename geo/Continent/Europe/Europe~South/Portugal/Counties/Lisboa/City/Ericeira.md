@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Ericeira.md|Ericeira]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Ericeira.internal.md|Ericeira.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Ericeira.protect.md|Ericeira.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Ericeira.private.md|Ericeira.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Ericeira.personal.md|Ericeira.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Ericeira.secret.md|Ericeira.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Ericeira.internal|Ericeira.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Ericeira.protect|Ericeira.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Ericeira.private|Ericeira.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Ericeira.personal|Ericeira.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Ericeira.secret|Ericeira.secret]] 

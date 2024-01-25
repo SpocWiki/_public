@@ -41,9 +41,9 @@ markerFolder: ./Kalimantan_Tengah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.md|Kalimantan_Tengah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.internal.md|Kalimantan_Tengah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.protect.md|Kalimantan_Tengah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.private.md|Kalimantan_Tengah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.personal.md|Kalimantan_Tengah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.secret.md|Kalimantan_Tengah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.internal|Kalimantan_Tengah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.protect|Kalimantan_Tengah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.private|Kalimantan_Tengah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.personal|Kalimantan_Tengah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.secret|Kalimantan_Tengah.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Waterford.md|Waterford]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Waterford.internal.md|Waterford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Waterford.protect.md|Waterford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Waterford.private.md|Waterford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Waterford.personal.md|Waterford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Waterford.secret.md|Waterford.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Waterford.internal|Waterford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Waterford.protect|Waterford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Waterford.private|Waterford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Waterford.personal|Waterford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Waterford.secret|Waterford.secret]] 

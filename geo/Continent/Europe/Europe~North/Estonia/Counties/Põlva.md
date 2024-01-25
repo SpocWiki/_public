@@ -41,9 +41,9 @@ markerFolder: ./Põlva/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Põlva.md|Põlva]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Põlva.internal.md|Põlva.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Põlva.protect.md|Põlva.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Põlva.private.md|Põlva.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Põlva.personal.md|Põlva.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Põlva.secret.md|Põlva.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Põlva.internal|Põlva.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Põlva.protect|Põlva.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Põlva.private|Põlva.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Põlva.personal|Põlva.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Põlva.secret|Põlva.secret]] 
 

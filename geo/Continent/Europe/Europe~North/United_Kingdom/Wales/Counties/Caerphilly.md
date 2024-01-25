@@ -41,9 +41,9 @@ markerFolder: ./Caerphilly/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.md|Caerphilly]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.internal.md|Caerphilly.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.protect.md|Caerphilly.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.private.md|Caerphilly.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.personal.md|Caerphilly.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.secret.md|Caerphilly.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.internal|Caerphilly.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.protect|Caerphilly.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.private|Caerphilly.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.personal|Caerphilly.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Caerphilly.secret|Caerphilly.secret]] 
 

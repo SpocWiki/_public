@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Colombia/City/Popayan.md|Popayan]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Colombia/City/Popayan.internal.md|Popayan.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Colombia/City/Popayan.protect.md|Popayan.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Colombia/City/Popayan.private.md|Popayan.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Colombia/City/Popayan.personal.md|Popayan.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Colombia/City/Popayan.secret.md|Popayan.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Colombia/City/Popayan.internal|Popayan.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Colombia/City/Popayan.protect|Popayan.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Colombia/City/Popayan.private|Popayan.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Colombia/City/Popayan.personal|Popayan.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Colombia/City/Popayan.secret|Popayan.secret]] 

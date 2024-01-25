@@ -41,9 +41,9 @@ markerFolder: ./Brasov/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Brasov.md|Brasov]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Brasov.internal.md|Brasov.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Brasov.protect.md|Brasov.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Brasov.private.md|Brasov.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Brasov.personal.md|Brasov.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Brasov.secret.md|Brasov.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Brasov.internal|Brasov.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Brasov.protect|Brasov.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Brasov.private|Brasov.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Brasov.personal|Brasov.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Brasov.secret|Brasov.secret]] 
 

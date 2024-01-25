@@ -41,9 +41,9 @@ markerFolder: ./Venezia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.md|Venezia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.internal.md|Venezia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.protect.md|Venezia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.private.md|Venezia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.personal.md|Venezia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.secret.md|Venezia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.internal|Venezia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.protect|Venezia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.private|Venezia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.personal|Venezia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Veneto/Venezia.Province.secret|Venezia.Province.secret]] 
 

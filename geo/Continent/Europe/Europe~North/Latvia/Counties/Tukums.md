@@ -41,9 +41,9 @@ markerFolder: ./Tukums/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Tukums.md|Tukums]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Tukums.internal.md|Tukums.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Tukums.protect.md|Tukums.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Tukums.private.md|Tukums.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Tukums.personal.md|Tukums.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Tukums.secret.md|Tukums.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Tukums.internal|Tukums.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Tukums.protect|Tukums.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Tukums.private|Tukums.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Tukums.personal|Tukums.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Tukums.secret|Tukums.secret]] 
 

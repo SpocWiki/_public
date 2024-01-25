@@ -41,9 +41,9 @@ markerFolder: ./North_Side/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.md|North_Side]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.internal.md|North_Side.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.protect.md|North_Side.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.private.md|North_Side.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.personal.md|North_Side.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.secret.md|North_Side.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.internal|North_Side.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.protect|North_Side.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.private|North_Side.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.personal|North_Side.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/North_Side.secret|North_Side.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Montpellier.md|Montpellier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montpellier.internal.md|Montpellier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montpellier.protect.md|Montpellier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Montpellier.private.md|Montpellier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montpellier.personal.md|Montpellier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montpellier.secret.md|Montpellier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montpellier.internal|Montpellier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montpellier.protect|Montpellier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montpellier.private|Montpellier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montpellier.personal|Montpellier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montpellier.secret|Montpellier.secret]] 

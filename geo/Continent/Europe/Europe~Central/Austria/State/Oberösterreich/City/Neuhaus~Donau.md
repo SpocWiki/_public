@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Neuhaus~Donau.md|Neuhaus~Donau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neuhaus~Donau.internal.md|Neuhaus~Donau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neuhaus~Donau.protect.md|Neuhaus~Donau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neuhaus~Donau.private.md|Neuhaus~Donau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neuhaus~Donau.personal.md|Neuhaus~Donau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neuhaus~Donau.secret.md|Neuhaus~Donau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neuhaus~Donau.internal|Neuhaus~Donau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neuhaus~Donau.protect|Neuhaus~Donau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neuhaus~Donau.private|Neuhaus~Donau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neuhaus~Donau.personal|Neuhaus~Donau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neuhaus~Donau.secret|Neuhaus~Donau.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Mansfield.md|Mansfield]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Mansfield.internal.md|Mansfield.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Mansfield.protect.md|Mansfield.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Mansfield.private.md|Mansfield.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Mansfield.personal.md|Mansfield.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Mansfield.secret.md|Mansfield.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Mansfield.internal|Mansfield.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Mansfield.protect|Mansfield.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Mansfield.private|Mansfield.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Mansfield.personal|Mansfield.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Mansfield.secret|Mansfield.secret]] 

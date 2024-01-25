@@ -41,9 +41,9 @@ markerFolder: ./Bjelovarska-Bilogorska/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.md|Bjelovarska-Bilogorska]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.internal.md|Bjelovarska-Bilogorska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.protect.md|Bjelovarska-Bilogorska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.private.md|Bjelovarska-Bilogorska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.personal.md|Bjelovarska-Bilogorska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.secret.md|Bjelovarska-Bilogorska.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.internal|Bjelovarska-Bilogorska.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.protect|Bjelovarska-Bilogorska.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.private|Bjelovarska-Bilogorska.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.personal|Bjelovarska-Bilogorska.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Bjelovarska-Bilogorska.secret|Bjelovarska-Bilogorska.secret]] 
 

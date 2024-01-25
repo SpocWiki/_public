@@ -41,9 +41,9 @@ markerFolder: ./Oppland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Oppland.md|Oppland]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Oppland.internal.md|Oppland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Oppland.protect.md|Oppland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Oppland.private.md|Oppland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Oppland.personal.md|Oppland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Oppland.secret.md|Oppland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Oppland.internal|Oppland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Oppland.protect|Oppland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Oppland.private|Oppland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Oppland.personal|Oppland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Oppland.secret|Oppland.secret]] 
 

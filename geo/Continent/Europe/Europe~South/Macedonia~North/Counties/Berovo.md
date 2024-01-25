@@ -41,9 +41,9 @@ markerFolder: ./Berovo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Berovo.md|Berovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Berovo.internal.md|Berovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Berovo.protect.md|Berovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Berovo.private.md|Berovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Berovo.personal.md|Berovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Berovo.secret.md|Berovo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Berovo.internal|Berovo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Berovo.protect|Berovo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Berovo.private|Berovo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Berovo.personal|Berovo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Berovo.secret|Berovo.secret]] 
 

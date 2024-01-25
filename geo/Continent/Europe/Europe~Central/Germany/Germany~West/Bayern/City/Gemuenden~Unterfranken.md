@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Gemuenden~Unterfranken|Gemuenden~Unterfranken]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.internal.md|Gemuenden~Unterfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.protect.md|Gemuenden~Unterfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.private.md|Gemuenden~Unterfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.personal.md|Gemuenden~Unterfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.secret.md|Gemuenden~Unterfranken.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.internal|Gemuenden~Unterfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.protect|Gemuenden~Unterfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.private|Gemuenden~Unterfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.personal|Gemuenden~Unterfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.secret|Gemuenden~Unterfranken.secret]] 

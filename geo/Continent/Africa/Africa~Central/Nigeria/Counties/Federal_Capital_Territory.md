@@ -41,9 +41,9 @@ markerFolder: ./Federal_Capital_Territory/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.md|Federal_Capital_Territory]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.internal.md|Federal_Capital_Territory.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.protect.md|Federal_Capital_Territory.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.private.md|Federal_Capital_Territory.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.personal.md|Federal_Capital_Territory.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.secret.md|Federal_Capital_Territory.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.internal|Federal_Capital_Territory.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.protect|Federal_Capital_Territory.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.private|Federal_Capital_Territory.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.personal|Federal_Capital_Territory.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.secret|Federal_Capital_Territory.secret]] 
 

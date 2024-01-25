@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Periodic_action-Intensity]
 [SpocWebEntityId::25512]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.md|Triz-Manufacturing_Precision+Periodic_action-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.internal.md|Triz-Manufacturing_Precision+Periodic_action-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.protect.md|Triz-Manufacturing_Precision+Periodic_action-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.private.md|Triz-Manufacturing_Precision+Periodic_action-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.personal.md|Triz-Manufacturing_Precision+Periodic_action-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.secret.md|Triz-Manufacturing_Precision+Periodic_action-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.internal|Triz-Manufacturing_Precision+Periodic_action-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.protect|Triz-Manufacturing_Precision+Periodic_action-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.private|Triz-Manufacturing_Precision+Periodic_action-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.personal|Triz-Manufacturing_Precision+Periodic_action-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.secret|Triz-Manufacturing_Precision+Periodic_action-Intensity.secret]] 

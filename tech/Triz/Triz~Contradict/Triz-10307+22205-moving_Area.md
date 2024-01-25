@@ -12,16 +12,16 @@ tags:
 ---
 [name::10307+22205-moving_Area]
 [SpocWebEntityId::26649]
-+ [pro::[[Triz-10307]]]
++ [#has_/Pros :: [[Triz-10307]]]
 [Triz-Principle::[[Triz-22205]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-moving_Area.md|Triz-10307+22205-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-moving_Area.internal.md|Triz-10307+22205-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-moving_Area.protect.md|Triz-10307+22205-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-moving_Area.private.md|Triz-10307+22205-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-moving_Area.personal.md|Triz-10307+22205-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-moving_Area.secret.md|Triz-10307+22205-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-moving_Area.internal|Triz-10307+22205-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-moving_Area.protect|Triz-10307+22205-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-moving_Area.private|Triz-10307+22205-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-moving_Area.personal|Triz-10307+22205-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-moving_Area.secret|Triz-10307+22205-moving_Area.secret]] 

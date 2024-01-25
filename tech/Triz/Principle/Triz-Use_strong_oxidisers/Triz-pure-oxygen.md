@@ -26,8 +26,8 @@ Replace enriched air with pure oxygen.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-pure-oxygen.md|Triz-pure-oxygen]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-pure-oxygen.internal.md|Triz-pure-oxygen.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-pure-oxygen.protect.md|Triz-pure-oxygen.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-pure-oxygen.private.md|Triz-pure-oxygen.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-pure-oxygen.personal.md|Triz-pure-oxygen.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-pure-oxygen.secret.md|Triz-pure-oxygen.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-pure-oxygen.internal|Triz-pure-oxygen.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-pure-oxygen.protect|Triz-pure-oxygen.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-pure-oxygen.private|Triz-pure-oxygen.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-pure-oxygen.personal|Triz-pure-oxygen.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-pure-oxygen.secret|Triz-pure-oxygen.secret]] 

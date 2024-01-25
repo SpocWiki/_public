@@ -40,8 +40,8 @@ SpocWebEntityId: 21932
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Selenium.md|Selenium]] 
-- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Selenium.internal.md|Selenium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Selenium.protect.md|Selenium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Selenium.private.md|Selenium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Selenium.personal.md|Selenium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Selenium.secret.md|Selenium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Selenium.internal|Selenium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Selenium.protect|Selenium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Selenium.private|Selenium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Selenium.personal|Selenium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Selenium.secret|Selenium.secret]] 

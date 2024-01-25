@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cagliari.md|Cagliari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cagliari.internal.md|Cagliari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cagliari.protect.md|Cagliari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cagliari.private.md|Cagliari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cagliari.personal.md|Cagliari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cagliari.secret.md|Cagliari.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cagliari.internal|Cagliari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cagliari.protect|Cagliari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cagliari.private|Cagliari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cagliari.personal|Cagliari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cagliari.secret|Cagliari.secret]] 

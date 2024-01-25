@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Dynamicity-Measurement_Accuracy]
 [SpocWebEntityId::24663]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.md|Triz-Power+Dynamicity-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.internal.md|Triz-Power+Dynamicity-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.protect.md|Triz-Power+Dynamicity-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.private.md|Triz-Power+Dynamicity-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.personal.md|Triz-Power+Dynamicity-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.secret.md|Triz-Power+Dynamicity-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.internal|Triz-Power+Dynamicity-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.protect|Triz-Power+Dynamicity-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.private|Triz-Power+Dynamicity-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.personal|Triz-Power+Dynamicity-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.secret|Triz-Power+Dynamicity-Measurement_Accuracy.secret]] 

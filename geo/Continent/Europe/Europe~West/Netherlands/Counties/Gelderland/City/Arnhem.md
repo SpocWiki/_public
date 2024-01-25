@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Arnhem.md|Arnhem]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Arnhem.internal.md|Arnhem.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Arnhem.protect.md|Arnhem.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Arnhem.private.md|Arnhem.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Arnhem.personal.md|Arnhem.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Arnhem.secret.md|Arnhem.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Arnhem.internal|Arnhem.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Arnhem.protect|Arnhem.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Arnhem.private|Arnhem.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Arnhem.personal|Arnhem.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Arnhem.secret|Arnhem.secret]] 

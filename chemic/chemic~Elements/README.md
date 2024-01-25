@@ -15,8 +15,8 @@ Shared Facts about chemical Elements
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/README.md|README]] 
-- [[../../../_internal/chemic/Elements/README.internal.md|README.internal]] 
-- [[../../../_protect/chemic/Elements/README.protect.md|README.protect]] 
-- [[../../../_private/chemic/Elements/README.private.md|README.private]] 
-- [[../../../_personal/chemic/Elements/README.personal.md|README.personal]] 
-- [[../../../_secret/chemic/Elements/README.secret.md|README.secret]] 
+- [[../../../_internal/chemic/Elements/README.internal|README.internal]] 
+- [[../../../_protect/chemic/Elements/README.protect|README.protect]] 
+- [[../../../_private/chemic/Elements/README.private|README.private]] 
+- [[../../../_personal/chemic/Elements/README.personal|README.personal]] 
+- [[../../../_secret/chemic/Elements/README.secret|README.secret]] 

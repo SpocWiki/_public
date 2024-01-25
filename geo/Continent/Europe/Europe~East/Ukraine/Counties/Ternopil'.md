@@ -41,9 +41,9 @@ markerFolder: ./Ternopil'/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Ternopil'.md|Ternopil']] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Ternopil'.internal.md|Ternopil'.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Ternopil'.protect.md|Ternopil'.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Ternopil'.private.md|Ternopil'.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Ternopil'.personal.md|Ternopil'.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Ternopil'.secret.md|Ternopil'.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Ternopil'.internal|Ternopil'.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Ternopil'.protect|Ternopil'.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Ternopil'.private|Ternopil'.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Ternopil'.personal|Ternopil'.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Ternopil'.secret|Ternopil'.secret]] 
 

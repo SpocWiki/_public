@@ -41,9 +41,9 @@ markerFolder: ./Kardzhali/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.md|Kardzhali]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.internal.md|Kardzhali.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.protect.md|Kardzhali.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.private.md|Kardzhali.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.personal.md|Kardzhali.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.secret.md|Kardzhali.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.internal|Kardzhali.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.protect|Kardzhali.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.private|Kardzhali.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.personal|Kardzhali.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Kardzhali.secret|Kardzhali.secret]] 
 

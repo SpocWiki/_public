@@ -41,9 +41,9 @@ markerFolder: ./Hubei/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Hubei.md|Hubei]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hubei.internal.md|Hubei.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hubei.protect.md|Hubei.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hubei.private.md|Hubei.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hubei.personal.md|Hubei.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hubei.secret.md|Hubei.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hubei.internal|Hubei.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hubei.protect|Hubei.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hubei.private|Hubei.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hubei.personal|Hubei.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hubei.secret|Hubei.secret]] 
 

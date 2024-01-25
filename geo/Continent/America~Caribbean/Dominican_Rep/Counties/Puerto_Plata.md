@@ -41,9 +41,9 @@ markerFolder: ./Puerto_Plata/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.md|Puerto_Plata]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.internal.md|Puerto_Plata.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.protect.md|Puerto_Plata.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.private.md|Puerto_Plata.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.personal.md|Puerto_Plata.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.secret.md|Puerto_Plata.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.internal|Puerto_Plata.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.protect|Puerto_Plata.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.private|Puerto_Plata.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.personal|Puerto_Plata.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.secret|Puerto_Plata.secret]] 
 

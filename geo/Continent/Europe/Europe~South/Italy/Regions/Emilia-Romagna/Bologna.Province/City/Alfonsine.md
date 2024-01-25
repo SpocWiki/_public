@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Alfonsine.md|Alfonsine]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Alfonsine.internal.md|Alfonsine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Alfonsine.protect.md|Alfonsine.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Alfonsine.private.md|Alfonsine.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Alfonsine.personal.md|Alfonsine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Alfonsine.secret.md|Alfonsine.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Alfonsine.internal|Alfonsine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Alfonsine.protect|Alfonsine.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Alfonsine.private|Alfonsine.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Alfonsine.personal|Alfonsine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Alfonsine.secret|Alfonsine.secret]] 

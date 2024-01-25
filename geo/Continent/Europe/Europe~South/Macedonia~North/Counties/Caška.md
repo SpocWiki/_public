@@ -41,9 +41,9 @@ markerFolder: ./Caška/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Caška.md|Caška]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Caška.internal.md|Caška.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Caška.protect.md|Caška.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Caška.private.md|Caška.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Caška.personal.md|Caška.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Caška.secret.md|Caška.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Caška.internal|Caška.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Caška.protect|Caška.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Caška.private|Caška.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Caška.personal|Caška.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Caška.secret|Caška.secret]] 
 

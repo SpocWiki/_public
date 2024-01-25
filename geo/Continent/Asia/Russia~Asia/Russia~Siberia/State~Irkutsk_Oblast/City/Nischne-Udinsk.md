@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nischne-Udinsk.md|Nischne-Udinsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nischne-Udinsk.internal.md|Nischne-Udinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nischne-Udinsk.protect.md|Nischne-Udinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nischne-Udinsk.private.md|Nischne-Udinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nischne-Udinsk.personal.md|Nischne-Udinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nischne-Udinsk.secret.md|Nischne-Udinsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nischne-Udinsk.internal|Nischne-Udinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nischne-Udinsk.protect|Nischne-Udinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nischne-Udinsk.private|Nischne-Udinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nischne-Udinsk.personal|Nischne-Udinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nischne-Udinsk.secret|Nischne-Udinsk.secret]] 

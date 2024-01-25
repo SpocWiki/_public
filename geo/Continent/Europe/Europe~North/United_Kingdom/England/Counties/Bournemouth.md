@@ -41,9 +41,9 @@ markerFolder: ./Bournemouth/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.md|Bournemouth]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.internal.md|Bournemouth.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.protect.md|Bournemouth.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.private.md|Bournemouth.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.personal.md|Bournemouth.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.secret.md|Bournemouth.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.internal|Bournemouth.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.protect|Bournemouth.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.private|Bournemouth.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.personal|Bournemouth.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Bournemouth.secret|Bournemouth.secret]] 
 

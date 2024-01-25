@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Marlborough.md|Marlborough]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Marlborough.internal.md|Marlborough.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Marlborough.protect.md|Marlborough.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Marlborough.private.md|Marlborough.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Marlborough.personal.md|Marlborough.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Marlborough.secret.md|Marlborough.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Marlborough.internal|Marlborough.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Marlborough.protect|Marlborough.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Marlborough.private|Marlborough.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Marlborough.personal|Marlborough.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Marlborough.secret|Marlborough.secret]] 

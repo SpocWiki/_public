@@ -34,7 +34,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 [[../Haifa|Haifa]]]] 
 -[[../../../../../../../_internal/geo/Continent/Asia/Israel/City/Haifa.internal|Haifa.internal]]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Israel/City/Haifa.protect.md|Haifa.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Israel/City/Haifa.private.md|Haifa.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Israel/City/Haifa.personal.md|Haifa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Israel/City/Haifa.secret.md|Haifa.secret]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Israel/City/Haifa.protect|Haifa.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Israel/City/Haifa.private|Haifa.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Israel/City/Haifa.personal|Haifa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Israel/City/Haifa.secret|Haifa.secret]] 

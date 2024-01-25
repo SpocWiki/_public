@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Karnitz.md|Karnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Karnitz.internal.md|Karnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Karnitz.protect.md|Karnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Karnitz.private.md|Karnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Karnitz.personal.md|Karnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Karnitz.secret.md|Karnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Karnitz.internal|Karnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Karnitz.protect|Karnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Karnitz.private|Karnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Karnitz.personal|Karnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Karnitz.secret|Karnitz.secret]] 

@@ -37,7 +37,7 @@ markerFolder: ./Hong_Kong,_China/
 ## Confidential Links & Embeds: 
 -[[Hong_Kong,_China|Hong_Kong,_China]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Hong_Kong,_China.internal|Hong_Kong,_China.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Hong_Kong,_China.protect.md|Hong_Kong,_China.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Hong_Kong,_China.private.md|Hong_Kong,_China.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Hong_Kong,_China.personal.md|Hong_Kong,_China.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Hong_Kong,_China.secret.md|Hong_Kong,_China.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Hong_Kong,_China.protect|Hong_Kong,_China.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Hong_Kong,_China.private|Hong_Kong,_China.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Hong_Kong,_China.personal|Hong_Kong,_China.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Hong_Kong,_China.secret|Hong_Kong,_China.secret]] 

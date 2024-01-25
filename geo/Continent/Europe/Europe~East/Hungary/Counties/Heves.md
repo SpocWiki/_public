@@ -41,9 +41,9 @@ markerFolder: ./Heves/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Heves.md|Heves]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Heves.internal.md|Heves.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Heves.protect.md|Heves.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Heves.private.md|Heves.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Heves.personal.md|Heves.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Heves.secret.md|Heves.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Heves.internal|Heves.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Heves.protect|Heves.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Heves.private|Heves.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Heves.personal|Heves.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Heves.secret|Heves.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hermanitz.md|Hermanitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hermanitz.internal.md|Hermanitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hermanitz.protect.md|Hermanitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hermanitz.private.md|Hermanitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hermanitz.personal.md|Hermanitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hermanitz.secret.md|Hermanitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hermanitz.internal|Hermanitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hermanitz.protect|Hermanitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hermanitz.private|Hermanitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hermanitz.personal|Hermanitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hermanitz.secret|Hermanitz.secret]] 

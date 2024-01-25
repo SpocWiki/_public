@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schlobitten.md|Schlobitten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlobitten.internal.md|Schlobitten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlobitten.protect.md|Schlobitten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlobitten.private.md|Schlobitten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlobitten.personal.md|Schlobitten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlobitten.secret.md|Schlobitten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlobitten.internal|Schlobitten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlobitten.protect|Schlobitten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlobitten.private|Schlobitten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlobitten.personal|Schlobitten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlobitten.secret|Schlobitten.secret]] 

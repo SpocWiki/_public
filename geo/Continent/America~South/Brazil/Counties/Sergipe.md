@@ -41,9 +41,9 @@ markerFolder: ./Sergipe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Sergipe.md|Sergipe]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Sergipe.internal.md|Sergipe.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Sergipe.protect.md|Sergipe.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Sergipe.private.md|Sergipe.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Sergipe.personal.md|Sergipe.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Sergipe.secret.md|Sergipe.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Sergipe.internal|Sergipe.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Sergipe.protect|Sergipe.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Sergipe.private|Sergipe.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Sergipe.personal|Sergipe.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Sergipe.secret|Sergipe.secret]] 
 

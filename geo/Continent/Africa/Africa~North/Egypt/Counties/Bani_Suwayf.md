@@ -41,9 +41,9 @@ markerFolder: ./Bani_Suwayf/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.md|Bani_Suwayf]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.internal.md|Bani_Suwayf.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.protect.md|Bani_Suwayf.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.private.md|Bani_Suwayf.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.personal.md|Bani_Suwayf.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.secret.md|Bani_Suwayf.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.internal|Bani_Suwayf.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.protect|Bani_Suwayf.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.private|Bani_Suwayf.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.personal|Bani_Suwayf.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.secret|Bani_Suwayf.secret]] 
 

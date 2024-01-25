@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Djabal-Abad.md|Djabal-Abad]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Djabal-Abad.internal.md|Djabal-Abad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Djabal-Abad.protect.md|Djabal-Abad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Djabal-Abad.private.md|Djabal-Abad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Djabal-Abad.personal.md|Djabal-Abad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Djabal-Abad.secret.md|Djabal-Abad.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Djabal-Abad.internal|Djabal-Abad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Djabal-Abad.protect|Djabal-Abad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Djabal-Abad.private|Djabal-Abad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Djabal-Abad.personal|Djabal-Abad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Djabal-Abad.secret|Djabal-Abad.secret]] 

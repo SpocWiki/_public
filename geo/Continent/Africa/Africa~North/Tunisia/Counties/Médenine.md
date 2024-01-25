@@ -41,9 +41,9 @@ markerFolder: ./Médenine/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Médenine.md|Médenine]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Médenine.internal.md|Médenine.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Médenine.protect.md|Médenine.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Médenine.private.md|Médenine.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Médenine.personal.md|Médenine.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Médenine.secret.md|Médenine.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Médenine.internal|Médenine.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Médenine.protect|Médenine.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Médenine.private|Médenine.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Médenine.personal|Médenine.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Médenine.secret|Médenine.secret]] 
 

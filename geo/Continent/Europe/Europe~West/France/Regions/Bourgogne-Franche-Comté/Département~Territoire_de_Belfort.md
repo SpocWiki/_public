@@ -41,9 +41,9 @@ markerFolder: ./Département~Territoire_de_Belfort/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.md|Département~Territoire_de_Belfort]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.internal.md|Département~Territoire_de_Belfort.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.protect.md|Département~Territoire_de_Belfort.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.private.md|Département~Territoire_de_Belfort.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.personal.md|Département~Territoire_de_Belfort.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.secret.md|Département~Territoire_de_Belfort.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.internal|Département~Territoire_de_Belfort.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.protect|Département~Territoire_de_Belfort.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.private|Département~Territoire_de_Belfort.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.personal|Département~Territoire_de_Belfort.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bourgogne-Franche-Comté/Département~Territoire_de_Belfort.secret|Département~Territoire_de_Belfort.secret]] 
 

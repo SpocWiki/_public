@@ -41,9 +41,9 @@ markerFolder: ./Managua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Managua.md|Managua]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Managua.internal.md|Managua.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Managua.protect.md|Managua.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Managua.private.md|Managua.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Managua.personal.md|Managua.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Managua.secret.md|Managua.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Managua.internal|Managua.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Managua.protect|Managua.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Managua.private|Managua.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Managua.personal|Managua.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Managua.secret|Managua.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Paavola.md|Paavola]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Paavola.internal.md|Paavola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Paavola.protect.md|Paavola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Paavola.private.md|Paavola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Paavola.personal.md|Paavola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Paavola.secret.md|Paavola.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Paavola.internal|Paavola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Paavola.protect|Paavola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Paavola.private|Paavola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Paavola.personal|Paavola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Paavola.secret|Paavola.secret]] 

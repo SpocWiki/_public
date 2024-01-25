@@ -41,9 +41,9 @@ markerFolder: ./Sfax/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sfax.md|Sfax]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sfax.internal.md|Sfax.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sfax.protect.md|Sfax.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sfax.private.md|Sfax.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sfax.personal.md|Sfax.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sfax.secret.md|Sfax.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sfax.internal|Sfax.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sfax.protect|Sfax.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sfax.private|Sfax.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sfax.personal|Sfax.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sfax.secret|Sfax.secret]] 
 

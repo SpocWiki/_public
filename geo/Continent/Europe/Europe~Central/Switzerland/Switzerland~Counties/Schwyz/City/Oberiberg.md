@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Oberiberg.md|Oberiberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Oberiberg.internal.md|Oberiberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Oberiberg.protect.md|Oberiberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Oberiberg.private.md|Oberiberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Oberiberg.personal.md|Oberiberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Oberiberg.secret.md|Oberiberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Oberiberg.internal|Oberiberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Oberiberg.protect|Oberiberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Oberiberg.private|Oberiberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Oberiberg.personal|Oberiberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Oberiberg.secret|Oberiberg.secret]] 

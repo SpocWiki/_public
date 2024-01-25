@@ -18,8 +18,8 @@ Convertible Bed-Sofa or Car
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Convertible.md|Triz-Convertible]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Convertible.internal.md|Triz-Convertible.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Convertible.protect.md|Triz-Convertible.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Convertible.private.md|Triz-Convertible.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Convertible.personal.md|Triz-Convertible.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Convertible.secret.md|Triz-Convertible.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Convertible.internal|Triz-Convertible.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Convertible.protect|Triz-Convertible.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Convertible.private|Triz-Convertible.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Convertible.personal|Triz-Convertible.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Convertible.secret|Triz-Convertible.secret]] 

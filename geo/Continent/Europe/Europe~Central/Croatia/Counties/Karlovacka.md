@@ -41,9 +41,9 @@ markerFolder: ./Karlovacka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Karlovacka.md|Karlovacka]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Karlovacka.internal.md|Karlovacka.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Karlovacka.protect.md|Karlovacka.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Karlovacka.private.md|Karlovacka.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Karlovacka.personal.md|Karlovacka.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Karlovacka.secret.md|Karlovacka.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Karlovacka.internal|Karlovacka.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Karlovacka.protect|Karlovacka.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Karlovacka.private|Karlovacka.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Karlovacka.personal|Karlovacka.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Karlovacka.secret|Karlovacka.secret]] 
 

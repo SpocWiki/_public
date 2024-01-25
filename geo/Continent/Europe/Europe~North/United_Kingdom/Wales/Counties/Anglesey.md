@@ -41,9 +41,9 @@ markerFolder: ./Anglesey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.md|Anglesey]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.internal.md|Anglesey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.protect.md|Anglesey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.private.md|Anglesey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.personal.md|Anglesey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.secret.md|Anglesey.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.internal|Anglesey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.protect|Anglesey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.private|Anglesey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.personal|Anglesey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Anglesey.secret|Anglesey.secret]] 
 

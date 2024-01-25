@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Replacement_of_a_mechanical_system-Power]
 [SpocWebEntityId::26578]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.md|Triz-Automation+Replacement_of_a_mechanical_system-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.internal.md|Triz-Automation+Replacement_of_a_mechanical_system-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.protect.md|Triz-Automation+Replacement_of_a_mechanical_system-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.private.md|Triz-Automation+Replacement_of_a_mechanical_system-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.personal.md|Triz-Automation+Replacement_of_a_mechanical_system-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.secret.md|Triz-Automation+Replacement_of_a_mechanical_system-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.internal|Triz-Automation+Replacement_of_a_mechanical_system-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.protect|Triz-Automation+Replacement_of_a_mechanical_system-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.private|Triz-Automation+Replacement_of_a_mechanical_system-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.personal|Triz-Automation+Replacement_of_a_mechanical_system-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.secret|Triz-Automation+Replacement_of_a_mechanical_system-Power.secret]] 

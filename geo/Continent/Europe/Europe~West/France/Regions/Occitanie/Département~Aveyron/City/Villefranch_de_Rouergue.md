@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.md|Villefranch_de_Rouergue]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.internal.md|Villefranch_de_Rouergue.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.protect.md|Villefranch_de_Rouergue.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.private.md|Villefranch_de_Rouergue.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.personal.md|Villefranch_de_Rouergue.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.secret.md|Villefranch_de_Rouergue.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.internal|Villefranch_de_Rouergue.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.protect|Villefranch_de_Rouergue.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.private|Villefranch_de_Rouergue.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.personal|Villefranch_de_Rouergue.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.secret|Villefranch_de_Rouergue.secret]] 

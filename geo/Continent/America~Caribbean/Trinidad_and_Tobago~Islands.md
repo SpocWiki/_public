@@ -40,8 +40,8 @@ markerFolder: ./Trinidad_and_Tobago~Islands/
 
 ## Confidential Links & Embeds: 
 - [[Trinidad_and_Tobago~Islands|Trinidad_and_Tobago~Islands]] 
-- [[../../../../_internal/geo/Continent/South-America/Trinidad_and_Tobago~Islands.internal.md|Trinidad_and_Tobago~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Trinidad_and_Tobago~Islands.protect.md|Trinidad_and_Tobago~Islands.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Trinidad_and_Tobago~Islands.private.md|Trinidad_and_Tobago~Islands.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Trinidad_and_Tobago~Islands.personal.md|Trinidad_and_Tobago~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Trinidad_and_Tobago~Islands.secret.md|Trinidad_and_Tobago~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Trinidad_and_Tobago~Islands.internal|Trinidad_and_Tobago~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Trinidad_and_Tobago~Islands.protect|Trinidad_and_Tobago~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Trinidad_and_Tobago~Islands.private|Trinidad_and_Tobago~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Trinidad_and_Tobago~Islands.personal|Trinidad_and_Tobago~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Trinidad_and_Tobago~Islands.secret|Trinidad_and_Tobago~Islands.secret]] 

@@ -41,11 +41,11 @@ markerFolder: ./Friesland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Friesland.md|Friesland]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Friesland.internal.md|Friesland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Friesland.protect.md|Friesland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Friesland.private.md|Friesland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Friesland.personal.md|Friesland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Friesland.secret.md|Friesland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Friesland.internal|Friesland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Friesland.protect|Friesland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Friesland.private|Friesland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Friesland.personal|Friesland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Friesland.secret|Friesland.secret]] 
 
 
 ```leaflet

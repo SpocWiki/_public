@@ -41,9 +41,9 @@ markerFolder: ./Kanchanaburi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.md|Kanchanaburi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.internal.md|Kanchanaburi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.protect.md|Kanchanaburi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.private.md|Kanchanaburi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.personal.md|Kanchanaburi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.secret.md|Kanchanaburi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.internal|Kanchanaburi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.protect|Kanchanaburi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.private|Kanchanaburi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.personal|Kanchanaburi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kanchanaburi.secret|Kanchanaburi.secret]] 
 

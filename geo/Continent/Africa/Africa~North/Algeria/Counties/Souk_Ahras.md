@@ -41,9 +41,9 @@ markerFolder: ./Souk_Ahras/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.md|Souk_Ahras]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.internal.md|Souk_Ahras.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.protect.md|Souk_Ahras.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.private.md|Souk_Ahras.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.personal.md|Souk_Ahras.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.secret.md|Souk_Ahras.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.internal|Souk_Ahras.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.protect|Souk_Ahras.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.private|Souk_Ahras.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.personal|Souk_Ahras.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Souk_Ahras.secret|Souk_Ahras.secret]] 
 

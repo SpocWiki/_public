@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kerson.md|Kerson]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kerson.internal.md|Kerson.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kerson.protect.md|Kerson.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kerson.private.md|Kerson.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kerson.personal.md|Kerson.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kerson.secret.md|Kerson.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kerson.internal|Kerson.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kerson.protect|Kerson.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kerson.private|Kerson.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kerson.personal|Kerson.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kerson.secret|Kerson.secret]] 

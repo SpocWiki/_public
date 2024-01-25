@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chatelleroult.md|Chatelleroult]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chatelleroult.internal.md|Chatelleroult.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chatelleroult.protect.md|Chatelleroult.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chatelleroult.private.md|Chatelleroult.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chatelleroult.personal.md|Chatelleroult.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chatelleroult.secret.md|Chatelleroult.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chatelleroult.internal|Chatelleroult.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chatelleroult.protect|Chatelleroult.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chatelleroult.private|Chatelleroult.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chatelleroult.personal|Chatelleroult.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chatelleroult.secret|Chatelleroult.secret]] 

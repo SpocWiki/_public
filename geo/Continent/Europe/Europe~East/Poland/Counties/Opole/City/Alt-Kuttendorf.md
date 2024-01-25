@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.md|Alt-Kuttendorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.internal.md|Alt-Kuttendorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.protect.md|Alt-Kuttendorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.private.md|Alt-Kuttendorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.personal.md|Alt-Kuttendorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.secret.md|Alt-Kuttendorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.internal|Alt-Kuttendorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.protect|Alt-Kuttendorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.private|Alt-Kuttendorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.personal|Alt-Kuttendorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Alt-Kuttendorf.secret|Alt-Kuttendorf.secret]] 

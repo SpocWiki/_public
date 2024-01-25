@@ -18,8 +18,8 @@ Flexible Manufacturing Cell
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Manufacturing_Cell.md|Triz-Manufacturing_Cell]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Manufacturing_Cell.internal.md|Triz-Manufacturing_Cell.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Manufacturing_Cell.protect.md|Triz-Manufacturing_Cell.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Manufacturing_Cell.private.md|Triz-Manufacturing_Cell.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Manufacturing_Cell.personal.md|Triz-Manufacturing_Cell.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Manufacturing_Cell.secret.md|Triz-Manufacturing_Cell.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Manufacturing_Cell.internal|Triz-Manufacturing_Cell.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Manufacturing_Cell.protect|Triz-Manufacturing_Cell.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Manufacturing_Cell.private|Triz-Manufacturing_Cell.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Manufacturing_Cell.personal|Triz-Manufacturing_Cell.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Manufacturing_Cell.secret|Triz-Manufacturing_Cell.secret]] 

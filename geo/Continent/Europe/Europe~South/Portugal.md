@@ -130,8 +130,8 @@ markerFolder: ./Portugal//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal.md|Portugal]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal.internal.md|Portugal.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal.protect.md|Portugal.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal.private.md|Portugal.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal.personal.md|Portugal.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal.secret.md|Portugal.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal.internal|Portugal.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal.protect|Portugal.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal.private|Portugal.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal.personal|Portugal.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal.secret|Portugal.secret]] 

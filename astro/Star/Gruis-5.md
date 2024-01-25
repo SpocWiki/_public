@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Gruis-5.md|Gruis-5]] 
-- [[../../../_internal/astro/Star/Gruis-5.internal.md|Gruis-5.internal]] 
-- [[../../../_protect/astro/Star/Gruis-5.protect.md|Gruis-5.protect]] 
-- [[../../../_private/astro/Star/Gruis-5.private.md|Gruis-5.private]] 
-- [[../../../_personal/astro/Star/Gruis-5.personal.md|Gruis-5.personal]] 
-- [[../../../_secret/astro/Star/Gruis-5.secret.md|Gruis-5.secret]]
+- [[../../../_internal/astro/Star/Gruis-5.internal|Gruis-5.internal]] 
+- [[../../../_protect/astro/Star/Gruis-5.protect|Gruis-5.protect]] 
+- [[../../../_private/astro/Star/Gruis-5.private|Gruis-5.private]] 
+- [[../../../_personal/astro/Star/Gruis-5.personal|Gruis-5.personal]] 
+- [[../../../_secret/astro/Star/Gruis-5.secret|Gruis-5.secret]]
 

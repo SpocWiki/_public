@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Prior_action-Intensity]
 [SpocWebEntityId::23856]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.md|Triz-Stability+Prior_action-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.internal.md|Triz-Stability+Prior_action-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.protect.md|Triz-Stability+Prior_action-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.private.md|Triz-Stability+Prior_action-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.personal.md|Triz-Stability+Prior_action-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.secret.md|Triz-Stability+Prior_action-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.internal|Triz-Stability+Prior_action-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.protect|Triz-Stability+Prior_action-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.private|Triz-Stability+Prior_action-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.personal|Triz-Stability+Prior_action-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Prior_action-Intensity.secret|Triz-Stability+Prior_action-Intensity.secret]] 

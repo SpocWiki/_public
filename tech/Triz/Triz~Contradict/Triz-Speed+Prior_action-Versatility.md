@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Prior_action-Versatility]
 [SpocWebEntityId::23465]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.md|Triz-Speed+Prior_action-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.internal.md|Triz-Speed+Prior_action-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.protect.md|Triz-Speed+Prior_action-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.private.md|Triz-Speed+Prior_action-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.personal.md|Triz-Speed+Prior_action-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.secret.md|Triz-Speed+Prior_action-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.internal|Triz-Speed+Prior_action-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.protect|Triz-Speed+Prior_action-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.private|Triz-Speed+Prior_action-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.personal|Triz-Speed+Prior_action-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.secret|Triz-Speed+Prior_action-Versatility.secret]] 

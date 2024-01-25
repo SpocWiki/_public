@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lapinlahti.md|Lapinlahti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lapinlahti.internal.md|Lapinlahti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lapinlahti.protect.md|Lapinlahti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lapinlahti.private.md|Lapinlahti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lapinlahti.personal.md|Lapinlahti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lapinlahti.secret.md|Lapinlahti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lapinlahti.internal|Lapinlahti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lapinlahti.protect|Lapinlahti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lapinlahti.private|Lapinlahti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lapinlahti.personal|Lapinlahti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lapinlahti.secret|Lapinlahti.secret]] 

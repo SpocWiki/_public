@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]
 [SpocWebEntityId::23526]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Periodic_action-Temperature]
 [SpocWebEntityId::22848]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.md|Triz-moving_Length+Periodic_action-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.internal.md|Triz-moving_Length+Periodic_action-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.protect.md|Triz-moving_Length+Periodic_action-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.private.md|Triz-moving_Length+Periodic_action-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.personal.md|Triz-moving_Length+Periodic_action-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.secret.md|Triz-moving_Length+Periodic_action-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.internal|Triz-moving_Length+Periodic_action-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.protect|Triz-moving_Length+Periodic_action-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.private|Triz-moving_Length+Periodic_action-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.personal|Triz-moving_Length+Periodic_action-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Periodic_action-Temperature.secret|Triz-moving_Length+Periodic_action-Temperature.secret]] 

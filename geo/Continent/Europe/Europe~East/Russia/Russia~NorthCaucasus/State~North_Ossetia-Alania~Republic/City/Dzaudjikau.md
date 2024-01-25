@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Dzaudjikau.md|Dzaudjikau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dzaudjikau.internal.md|Dzaudjikau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dzaudjikau.protect.md|Dzaudjikau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dzaudjikau.private.md|Dzaudjikau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dzaudjikau.personal.md|Dzaudjikau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dzaudjikau.secret.md|Dzaudjikau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dzaudjikau.internal|Dzaudjikau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dzaudjikau.protect|Dzaudjikau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dzaudjikau.private|Dzaudjikau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dzaudjikau.personal|Dzaudjikau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dzaudjikau.secret|Dzaudjikau.secret]] 

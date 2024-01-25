@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Krosno.md|Krosno]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krosno.internal.md|Krosno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krosno.protect.md|Krosno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krosno.private.md|Krosno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krosno.personal.md|Krosno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krosno.secret.md|Krosno.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krosno.internal|Krosno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krosno.protect|Krosno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krosno.private|Krosno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krosno.personal|Krosno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krosno.secret|Krosno.secret]] 

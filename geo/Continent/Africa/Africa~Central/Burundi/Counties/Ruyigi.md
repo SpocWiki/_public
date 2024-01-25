@@ -41,9 +41,9 @@ markerFolder: ./Ruyigi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Ruyigi.md|Ruyigi]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Ruyigi.internal.md|Ruyigi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Ruyigi.protect.md|Ruyigi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Ruyigi.private.md|Ruyigi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Ruyigi.personal.md|Ruyigi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Ruyigi.secret.md|Ruyigi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Ruyigi.internal|Ruyigi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Ruyigi.protect|Ruyigi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Ruyigi.private|Ruyigi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Ruyigi.personal|Ruyigi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Ruyigi.secret|Ruyigi.secret]] 
 

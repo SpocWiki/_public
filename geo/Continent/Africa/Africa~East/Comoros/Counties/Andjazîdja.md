@@ -41,9 +41,9 @@ markerFolder: ./Andjazîdja/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Comoros/Counties/Andjazîdja.md|Andjazîdja]] 
-- [[../../../../_internal/geo/Continent/Africa/Comoros/Counties/Andjazîdja.internal.md|Andjazîdja.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Comoros/Counties/Andjazîdja.protect.md|Andjazîdja.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Comoros/Counties/Andjazîdja.private.md|Andjazîdja.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Comoros/Counties/Andjazîdja.personal.md|Andjazîdja.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Comoros/Counties/Andjazîdja.secret.md|Andjazîdja.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Comoros/Counties/Andjazîdja.internal|Andjazîdja.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Comoros/Counties/Andjazîdja.protect|Andjazîdja.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Comoros/Counties/Andjazîdja.private|Andjazîdja.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Comoros/Counties/Andjazîdja.personal|Andjazîdja.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Comoros/Counties/Andjazîdja.secret|Andjazîdja.secret]] 
 

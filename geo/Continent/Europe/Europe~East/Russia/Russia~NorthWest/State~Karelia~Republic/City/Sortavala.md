@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sortavala.md|Sortavala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sortavala.internal.md|Sortavala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sortavala.protect.md|Sortavala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sortavala.private.md|Sortavala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sortavala.personal.md|Sortavala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sortavala.secret.md|Sortavala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sortavala.internal|Sortavala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sortavala.protect|Sortavala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sortavala.private|Sortavala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sortavala.personal|Sortavala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sortavala.secret|Sortavala.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Polzin.md|Polzin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Polzin.internal.md|Polzin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Polzin.protect.md|Polzin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Polzin.private.md|Polzin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Polzin.personal.md|Polzin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Polzin.secret.md|Polzin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Polzin.internal|Polzin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Polzin.protect|Polzin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Polzin.private|Polzin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Polzin.personal|Polzin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Polzin.secret|Polzin.secret]] 

@@ -319,8 +319,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/Europe/Germany/_CountryStateDB.md|_CountryStateDB]] 
-- [[../../../../../_internal/geo/Continent/Europe/Germany/_CountryStateDB.internal.md|_CountryStateDB.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Germany/_CountryStateDB.protect.md|_CountryStateDB.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Germany/_CountryStateDB.private.md|_CountryStateDB.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Germany/_CountryStateDB.personal.md|_CountryStateDB.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Germany/_CountryStateDB.secret.md|_CountryStateDB.secret]] 
+- [[../../../../../_internal/geo/Continent/Europe/Germany/_CountryStateDB.internal|_CountryStateDB.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Germany/_CountryStateDB.protect|_CountryStateDB.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Germany/_CountryStateDB.private|_CountryStateDB.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Germany/_CountryStateDB.personal|_CountryStateDB.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Germany/_CountryStateDB.secret|_CountryStateDB.secret]] 

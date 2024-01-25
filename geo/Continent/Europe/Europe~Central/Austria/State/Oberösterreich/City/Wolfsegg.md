@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wolfsegg.md|Wolfsegg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfsegg.internal.md|Wolfsegg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfsegg.protect.md|Wolfsegg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfsegg.private.md|Wolfsegg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfsegg.personal.md|Wolfsegg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfsegg.secret.md|Wolfsegg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfsegg.internal|Wolfsegg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfsegg.protect|Wolfsegg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfsegg.private|Wolfsegg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfsegg.personal|Wolfsegg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfsegg.secret|Wolfsegg.secret]] 

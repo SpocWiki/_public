@@ -41,9 +41,9 @@ markerFolder: ./Dolj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Dolj.md|Dolj]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Dolj.internal.md|Dolj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Dolj.protect.md|Dolj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Dolj.private.md|Dolj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Dolj.personal.md|Dolj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Dolj.secret.md|Dolj.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Dolj.internal|Dolj.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Dolj.protect|Dolj.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Dolj.private|Dolj.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Dolj.personal|Dolj.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Dolj.secret|Dolj.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Niassa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Niassa.md|Niassa]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Niassa.internal.md|Niassa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Niassa.protect.md|Niassa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Niassa.private.md|Niassa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Niassa.personal.md|Niassa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Niassa.secret.md|Niassa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Niassa.internal|Niassa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Niassa.protect|Niassa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Niassa.private|Niassa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Niassa.personal|Niassa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Niassa.secret|Niassa.secret]] 
 

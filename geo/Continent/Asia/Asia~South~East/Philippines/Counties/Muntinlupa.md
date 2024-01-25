@@ -41,9 +41,9 @@ markerFolder: ./Muntinlupa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.md|Muntinlupa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.internal.md|Muntinlupa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.protect.md|Muntinlupa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.private.md|Muntinlupa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.personal.md|Muntinlupa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.secret.md|Muntinlupa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.internal|Muntinlupa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.protect|Muntinlupa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.private|Muntinlupa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.personal|Muntinlupa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Muntinlupa.secret|Muntinlupa.secret]] 
 

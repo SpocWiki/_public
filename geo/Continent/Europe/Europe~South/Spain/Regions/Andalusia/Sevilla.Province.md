@@ -41,9 +41,9 @@ markerFolder: ./Sevilla.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.md|Sevilla.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.internal.md|Sevilla.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.protect.md|Sevilla.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.private.md|Sevilla.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.personal.md|Sevilla.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.secret.md|Sevilla.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.internal|Sevilla.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.protect|Sevilla.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.private|Sevilla.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.personal|Sevilla.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Sevilla.Province.secret|Sevilla.Province.secret]] 
 

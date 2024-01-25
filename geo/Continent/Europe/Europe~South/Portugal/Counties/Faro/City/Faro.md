@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Faro.md|Faro]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Faro.internal.md|Faro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Faro.protect.md|Faro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Faro.private.md|Faro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Faro.personal.md|Faro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Faro.secret.md|Faro.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Faro.internal|Faro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Faro.protect|Faro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Faro.private|Faro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Faro.personal|Faro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Faro.secret|Faro.secret]] 

@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Offenbach_Kaiserlei|S-Offenbach_Kaiserlei]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.internal.md|S-Offenbach_Kaiserlei.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.protect.md|S-Offenbach_Kaiserlei.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.private.md|S-Offenbach_Kaiserlei.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.personal.md|S-Offenbach_Kaiserlei.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.secret.md|S-Offenbach_Kaiserlei.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.internal|S-Offenbach_Kaiserlei.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.protect|S-Offenbach_Kaiserlei.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.private|S-Offenbach_Kaiserlei.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.personal|S-Offenbach_Kaiserlei.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach_Kaiserlei.secret|S-Offenbach_Kaiserlei.secret]] 

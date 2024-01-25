@@ -41,9 +41,9 @@ markerFolder: ./Puerto_Princesa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.md|Puerto_Princesa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.internal.md|Puerto_Princesa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.protect.md|Puerto_Princesa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.private.md|Puerto_Princesa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.personal.md|Puerto_Princesa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.secret.md|Puerto_Princesa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.internal|Puerto_Princesa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.protect|Puerto_Princesa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.private|Puerto_Princesa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.personal|Puerto_Princesa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.secret|Puerto_Princesa.secret]] 
 

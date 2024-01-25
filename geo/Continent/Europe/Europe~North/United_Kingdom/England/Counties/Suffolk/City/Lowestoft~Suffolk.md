@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.md|Lowestoft~Suffolk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.internal.md|Lowestoft~Suffolk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.protect.md|Lowestoft~Suffolk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.private.md|Lowestoft~Suffolk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.personal.md|Lowestoft~Suffolk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.secret.md|Lowestoft~Suffolk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.internal|Lowestoft~Suffolk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.protect|Lowestoft~Suffolk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.private|Lowestoft~Suffolk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.personal|Lowestoft~Suffolk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.secret|Lowestoft~Suffolk.secret]] 

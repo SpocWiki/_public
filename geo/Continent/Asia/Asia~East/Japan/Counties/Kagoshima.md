@@ -41,9 +41,9 @@ markerFolder: ./Kagoshima/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.md|Kagoshima]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.internal.md|Kagoshima.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.protect.md|Kagoshima.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.private.md|Kagoshima.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.personal.md|Kagoshima.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.secret.md|Kagoshima.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.internal|Kagoshima.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.protect|Kagoshima.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.private|Kagoshima.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.personal|Kagoshima.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kagoshima.secret|Kagoshima.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Universality-Power]
 [SpocWebEntityId::25053]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.md|Triz-Time-Loss+Universality-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.internal.md|Triz-Time-Loss+Universality-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.protect.md|Triz-Time-Loss+Universality-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.private.md|Triz-Time-Loss+Universality-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.personal.md|Triz-Time-Loss+Universality-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.secret.md|Triz-Time-Loss+Universality-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.internal|Triz-Time-Loss+Universality-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.protect|Triz-Time-Loss+Universality-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.private|Triz-Time-Loss+Universality-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.personal|Triz-Time-Loss+Universality-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Universality-Power.secret|Triz-Time-Loss+Universality-Power.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Korso.md|Korso]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Korso.internal.md|Korso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Korso.protect.md|Korso.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Korso.private.md|Korso.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Korso.personal.md|Korso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Korso.secret.md|Korso.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Korso.internal|Korso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Korso.protect|Korso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Korso.private|Korso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Korso.personal|Korso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Korso.secret|Korso.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Alsungas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Alsungas.md|Alsungas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Alsungas.internal.md|Alsungas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Alsungas.protect.md|Alsungas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Alsungas.private.md|Alsungas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Alsungas.personal.md|Alsungas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Alsungas.secret.md|Alsungas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Alsungas.internal|Alsungas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Alsungas.protect|Alsungas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Alsungas.private|Alsungas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Alsungas.personal|Alsungas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Alsungas.secret|Alsungas.secret]] 
 

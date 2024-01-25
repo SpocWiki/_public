@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Local_quality.md|Triz-Local_quality]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Local_quality.internal.md|Triz-Local_quality.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Local_quality.protect.md|Triz-Local_quality.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Local_quality.private.md|Triz-Local_quality.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Local_quality.personal.md|Triz-Local_quality.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Local_quality.secret.md|Triz-Local_quality.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Local_quality.internal|Triz-Local_quality.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Local_quality.protect|Triz-Local_quality.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Local_quality.private|Triz-Local_quality.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Local_quality.personal|Triz-Local_quality.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Local_quality.secret|Triz-Local_quality.secret]] 

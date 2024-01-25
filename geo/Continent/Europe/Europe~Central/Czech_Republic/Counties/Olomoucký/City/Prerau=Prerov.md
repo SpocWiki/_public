@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.md|Prerau=Prerov]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.internal.md|Prerau=Prerov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.protect.md|Prerau=Prerov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.private.md|Prerau=Prerov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.personal.md|Prerau=Prerov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.secret.md|Prerau=Prerov.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.internal|Prerau=Prerov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.protect|Prerau=Prerov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.private|Prerau=Prerov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.personal|Prerau=Prerov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.secret|Prerau=Prerov.secret]] 

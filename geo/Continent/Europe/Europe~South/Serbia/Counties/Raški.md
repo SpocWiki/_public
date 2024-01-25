@@ -41,9 +41,9 @@ markerFolder: ./Raški/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Raški.md|Raški]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Raški.internal.md|Raški.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Raški.protect.md|Raški.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Raški.private.md|Raški.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Raški.personal.md|Raški.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Raški.secret.md|Raški.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Raški.internal|Raški.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Raški.protect|Raški.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Raški.private|Raški.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Raški.personal|Raški.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Raški.secret|Raški.secret]] 
 

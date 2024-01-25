@@ -41,9 +41,9 @@ markerFolder: ./Gaga'ifomauga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.md|Gaga'ifomauga]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.internal.md|Gaga'ifomauga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.protect.md|Gaga'ifomauga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.private.md|Gaga'ifomauga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.personal.md|Gaga'ifomauga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.secret.md|Gaga'ifomauga.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.internal|Gaga'ifomauga.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.protect|Gaga'ifomauga.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.private|Gaga'ifomauga.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.personal|Gaga'ifomauga.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Gaga'ifomauga.secret|Gaga'ifomauga.secret]] 
 

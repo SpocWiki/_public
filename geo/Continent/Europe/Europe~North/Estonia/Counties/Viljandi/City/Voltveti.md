@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Voltveti.md|Voltveti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Voltveti.internal.md|Voltveti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Voltveti.protect.md|Voltveti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Voltveti.private.md|Voltveti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Voltveti.personal.md|Voltveti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Voltveti.secret.md|Voltveti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Voltveti.internal|Voltveti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Voltveti.protect|Voltveti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Voltveti.private|Voltveti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Voltveti.personal|Voltveti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Voltveti.secret|Voltveti.secret]] 

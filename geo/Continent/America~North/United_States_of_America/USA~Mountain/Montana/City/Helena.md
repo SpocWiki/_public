@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.md|Helena]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.internal.md|Helena.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.protect.md|Helena.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.private.md|Helena.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.personal.md|Helena.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.secret.md|Helena.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.internal|Helena.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.protect|Helena.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.private|Helena.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.personal|Helena.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Montana/City/Helena.secret|Helena.secret]] 

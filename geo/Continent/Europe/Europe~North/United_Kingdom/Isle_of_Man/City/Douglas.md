@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Douglas.md|Douglas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Douglas.internal.md|Douglas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Douglas.protect.md|Douglas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Douglas.private.md|Douglas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Douglas.personal.md|Douglas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Douglas.secret.md|Douglas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Douglas.internal|Douglas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Douglas.protect|Douglas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Douglas.private|Douglas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Douglas.personal|Douglas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Douglas.secret|Douglas.secret]] 

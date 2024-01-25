@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Mayenne.md|Mayenne]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mayenne.internal.md|Mayenne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mayenne.protect.md|Mayenne.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Mayenne.private.md|Mayenne.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mayenne.personal.md|Mayenne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mayenne.secret.md|Mayenne.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mayenne.internal|Mayenne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mayenne.protect|Mayenne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mayenne.private|Mayenne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mayenne.personal|Mayenne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mayenne.secret|Mayenne.secret]] 

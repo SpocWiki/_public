@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Hagudi.md|Hagudi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Hagudi.internal.md|Hagudi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Hagudi.protect.md|Hagudi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Hagudi.private.md|Hagudi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Hagudi.personal.md|Hagudi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Hagudi.secret.md|Hagudi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Hagudi.internal|Hagudi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Hagudi.protect|Hagudi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Hagudi.private|Hagudi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Hagudi.personal|Hagudi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Hagudi.secret|Hagudi.secret]] 

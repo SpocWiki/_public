@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Nesting-Temperature]
 [SpocWebEntityId::24739]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Nesting]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.md|Triz-Energy-Loss+Nesting-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.internal.md|Triz-Energy-Loss+Nesting-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.protect.md|Triz-Energy-Loss+Nesting-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.private.md|Triz-Energy-Loss+Nesting-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.personal.md|Triz-Energy-Loss+Nesting-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.secret.md|Triz-Energy-Loss+Nesting-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.internal|Triz-Energy-Loss+Nesting-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.protect|Triz-Energy-Loss+Nesting-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.private|Triz-Energy-Loss+Nesting-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.personal|Triz-Energy-Loss+Nesting-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.secret|Triz-Energy-Loss+Nesting-Temperature.secret]] 

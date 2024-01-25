@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Japan/City/Fukuoka.md|Fukuoka]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Japan/City/Fukuoka.internal.md|Fukuoka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Japan/City/Fukuoka.protect.md|Fukuoka.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Japan/City/Fukuoka.private.md|Fukuoka.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Japan/City/Fukuoka.personal.md|Fukuoka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Japan/City/Fukuoka.secret.md|Fukuoka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Japan/City/Fukuoka.internal|Fukuoka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Japan/City/Fukuoka.protect|Fukuoka.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Japan/City/Fukuoka.private|Fukuoka.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Japan/City/Fukuoka.personal|Fukuoka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Japan/City/Fukuoka.secret|Fukuoka.secret]] 

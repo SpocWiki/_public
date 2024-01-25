@@ -41,9 +41,9 @@ markerFolder: ./Thaba-Tseka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.md|Thaba-Tseka]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.internal.md|Thaba-Tseka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.protect.md|Thaba-Tseka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.private.md|Thaba-Tseka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.personal.md|Thaba-Tseka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.secret.md|Thaba-Tseka.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.internal|Thaba-Tseka.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.protect|Thaba-Tseka.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.private|Thaba-Tseka.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.personal|Thaba-Tseka.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Thaba-Tseka.secret|Thaba-Tseka.secret]] 
 

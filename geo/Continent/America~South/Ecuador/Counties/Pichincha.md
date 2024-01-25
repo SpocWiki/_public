@@ -41,9 +41,9 @@ markerFolder: ./Pichincha/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Pichincha.md|Pichincha]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Pichincha.internal.md|Pichincha.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Pichincha.protect.md|Pichincha.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Pichincha.private.md|Pichincha.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Pichincha.personal.md|Pichincha.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Pichincha.secret.md|Pichincha.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Pichincha.internal|Pichincha.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Pichincha.protect|Pichincha.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Pichincha.private|Pichincha.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Pichincha.personal|Pichincha.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Pichincha.secret|Pichincha.secret]] 
 

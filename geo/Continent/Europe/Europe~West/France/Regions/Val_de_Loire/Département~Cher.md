@@ -41,9 +41,9 @@ markerFolder: ./Département~Cher/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Val_de_Loire/Département~Cher.md|Département~Cher]] 
-- [[../../../../_internal/geo/Continent/egions/Val_de_Loire/Département~Cher.internal.md|Département~Cher.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Val_de_Loire/Département~Cher.protect.md|Département~Cher.protect]] 
-- [[../../../../_private/geo/Continent/egions/Val_de_Loire/Département~Cher.private.md|Département~Cher.private]] 
-- [[../../../../_personal/geo/Continent/egions/Val_de_Loire/Département~Cher.personal.md|Département~Cher.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Val_de_Loire/Département~Cher.secret.md|Département~Cher.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Val_de_Loire/Département~Cher.internal|Département~Cher.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Val_de_Loire/Département~Cher.protect|Département~Cher.protect]] 
+- [[../../../../_private/geo/Continent/egions/Val_de_Loire/Département~Cher.private|Département~Cher.private]] 
+- [[../../../../_personal/geo/Continent/egions/Val_de_Loire/Département~Cher.personal|Département~Cher.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Val_de_Loire/Département~Cher.secret|Département~Cher.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.md|Marbur=Maribor]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.internal.md|Marbur=Maribor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.protect.md|Marbur=Maribor.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.private.md|Marbur=Maribor.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.personal.md|Marbur=Maribor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.secret.md|Marbur=Maribor.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.internal|Marbur=Maribor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.protect|Marbur=Maribor.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.private|Marbur=Maribor.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.personal|Marbur=Maribor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.secret|Marbur=Maribor.secret]] 

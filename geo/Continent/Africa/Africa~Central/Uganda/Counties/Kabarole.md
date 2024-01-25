@@ -41,9 +41,9 @@ markerFolder: ./Kabarole/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kabarole.md|Kabarole]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kabarole.internal.md|Kabarole.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kabarole.protect.md|Kabarole.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kabarole.private.md|Kabarole.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kabarole.personal.md|Kabarole.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kabarole.secret.md|Kabarole.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kabarole.internal|Kabarole.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kabarole.protect|Kabarole.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kabarole.private|Kabarole.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kabarole.personal|Kabarole.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kabarole.secret|Kabarole.secret]] 
 

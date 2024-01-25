@@ -41,9 +41,9 @@ markerFolder: ./Northern_Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.md|Northern_Islands]] 
-- [[../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.internal.md|Northern_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.protect.md|Northern_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.private.md|Northern_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.personal.md|Northern_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.secret.md|Northern_Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.internal|Northern_Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.protect|Northern_Islands.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.private|Northern_Islands.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.personal|Northern_Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.secret|Northern_Islands.secret]] 
 

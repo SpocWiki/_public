@@ -18,8 +18,8 @@ Rocket Boosters separate after serving their Function.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-separate_Rocket_Boosters.md|Triz-separate_Rocket_Boosters]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-separate_Rocket_Boosters.internal.md|Triz-separate_Rocket_Boosters.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-separate_Rocket_Boosters.protect.md|Triz-separate_Rocket_Boosters.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-separate_Rocket_Boosters.private.md|Triz-separate_Rocket_Boosters.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-separate_Rocket_Boosters.personal.md|Triz-separate_Rocket_Boosters.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-separate_Rocket_Boosters.secret.md|Triz-separate_Rocket_Boosters.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-separate_Rocket_Boosters.internal|Triz-separate_Rocket_Boosters.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-separate_Rocket_Boosters.protect|Triz-separate_Rocket_Boosters.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-separate_Rocket_Boosters.private|Triz-separate_Rocket_Boosters.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-separate_Rocket_Boosters.personal|Triz-separate_Rocket_Boosters.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-separate_Rocket_Boosters.secret|Triz-separate_Rocket_Boosters.secret]] 

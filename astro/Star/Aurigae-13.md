@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Aurigae-13.md|Aurigae-13]] 
-- [[../../../_internal/astro/Star/Aurigae-13.internal.md|Aurigae-13.internal]] 
-- [[../../../_protect/astro/Star/Aurigae-13.protect.md|Aurigae-13.protect]] 
-- [[../../../_private/astro/Star/Aurigae-13.private.md|Aurigae-13.private]] 
-- [[../../../_personal/astro/Star/Aurigae-13.personal.md|Aurigae-13.personal]] 
-- [[../../../_secret/astro/Star/Aurigae-13.secret.md|Aurigae-13.secret]]
+- [[../../../_internal/astro/Star/Aurigae-13.internal|Aurigae-13.internal]] 
+- [[../../../_protect/astro/Star/Aurigae-13.protect|Aurigae-13.protect]] 
+- [[../../../_private/astro/Star/Aurigae-13.private|Aurigae-13.private]] 
+- [[../../../_personal/astro/Star/Aurigae-13.personal|Aurigae-13.personal]] 
+- [[../../../_secret/astro/Star/Aurigae-13.secret|Aurigae-13.secret]]
 

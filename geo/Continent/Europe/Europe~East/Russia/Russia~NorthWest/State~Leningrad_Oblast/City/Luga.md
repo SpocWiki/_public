@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Luga.md|Luga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Luga.internal.md|Luga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Luga.protect.md|Luga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Luga.private.md|Luga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Luga.personal.md|Luga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Luga.secret.md|Luga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Luga.internal|Luga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Luga.protect|Luga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Luga.private|Luga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Luga.personal|Luga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Luga.secret|Luga.secret]] 

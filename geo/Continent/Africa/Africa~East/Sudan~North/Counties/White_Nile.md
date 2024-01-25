@@ -41,9 +41,9 @@ markerFolder: ./White_Nile/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/White_Nile.md|White_Nile]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/White_Nile.internal.md|White_Nile.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/White_Nile.protect.md|White_Nile.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/White_Nile.private.md|White_Nile.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/White_Nile.personal.md|White_Nile.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/White_Nile.secret.md|White_Nile.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/White_Nile.internal|White_Nile.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/White_Nile.protect|White_Nile.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/White_Nile.private|White_Nile.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/White_Nile.personal|White_Nile.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/White_Nile.secret|White_Nile.secret]] 
 

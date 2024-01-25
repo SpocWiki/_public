@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Schlettstadt.md|Schlettstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Schlettstadt.internal.md|Schlettstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Schlettstadt.protect.md|Schlettstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Schlettstadt.private.md|Schlettstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Schlettstadt.personal.md|Schlettstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Schlettstadt.secret.md|Schlettstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Schlettstadt.internal|Schlettstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Schlettstadt.protect|Schlettstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Schlettstadt.private|Schlettstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Schlettstadt.personal|Schlettstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Schlettstadt.secret|Schlettstadt.secret]] 

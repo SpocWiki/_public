@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Moving_to_a_new_dimension-stationary_Weight]
 [SpocWebEntityId::24587]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.md|Triz-Power+Moving_to_a_new_dimension-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.internal.md|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.protect.md|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.private.md|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.personal.md|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.secret.md|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.internal|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.protect|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.private|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.personal|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.secret|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.secret]] 

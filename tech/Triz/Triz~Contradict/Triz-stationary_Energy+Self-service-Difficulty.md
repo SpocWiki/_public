@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Self-service-Difficulty]
 [SpocWebEntityId::24578]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.md|Triz-stationary_Energy+Self-service-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.internal.md|Triz-stationary_Energy+Self-service-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.protect.md|Triz-stationary_Energy+Self-service-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.private.md|Triz-stationary_Energy+Self-service-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.personal.md|Triz-stationary_Energy+Self-service-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.secret.md|Triz-stationary_Energy+Self-service-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.internal|Triz-stationary_Energy+Self-service-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.protect|Triz-stationary_Energy+Self-service-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.private|Triz-stationary_Energy+Self-service-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.personal|Triz-stationary_Energy+Self-service-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.secret|Triz-stationary_Energy+Self-service-Difficulty.secret]] 

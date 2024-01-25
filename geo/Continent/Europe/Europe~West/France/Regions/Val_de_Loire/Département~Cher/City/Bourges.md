@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Bourges.md|Bourges]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bourges.internal.md|Bourges.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bourges.protect.md|Bourges.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Bourges.private.md|Bourges.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bourges.personal.md|Bourges.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bourges.secret.md|Bourges.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bourges.internal|Bourges.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bourges.protect|Bourges.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bourges.private|Bourges.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bourges.personal|Bourges.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bourges.secret|Bourges.secret]] 

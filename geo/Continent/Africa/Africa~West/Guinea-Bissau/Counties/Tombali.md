@@ -41,9 +41,9 @@ markerFolder: ./Tombali/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.md|Tombali]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.internal.md|Tombali.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.protect.md|Tombali.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.private.md|Tombali.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.personal.md|Tombali.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.secret.md|Tombali.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.internal|Tombali.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.protect|Tombali.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.private|Tombali.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.personal|Tombali.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Tombali.secret|Tombali.secret]] 
 

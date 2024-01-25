@@ -41,9 +41,9 @@ markerFolder: ./Sulawesi_Tenggara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.md|Sulawesi_Tenggara]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.internal.md|Sulawesi_Tenggara.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.protect.md|Sulawesi_Tenggara.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.private.md|Sulawesi_Tenggara.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.personal.md|Sulawesi_Tenggara.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.secret.md|Sulawesi_Tenggara.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.internal|Sulawesi_Tenggara.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.protect|Sulawesi_Tenggara.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.private|Sulawesi_Tenggara.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.personal|Sulawesi_Tenggara.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tenggara.secret|Sulawesi_Tenggara.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Hampshire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.md|Hampshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.internal.md|Hampshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.protect.md|Hampshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.private.md|Hampshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.personal.md|Hampshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.secret.md|Hampshire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.internal|Hampshire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.protect|Hampshire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.private|Hampshire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.personal|Hampshire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Hampshire.secret|Hampshire.secret]] 
 

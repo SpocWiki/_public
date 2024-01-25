@@ -41,9 +41,9 @@ markerFolder: ./Litija/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.md|Litija]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.internal.md|Litija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.protect.md|Litija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.private.md|Litija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.personal.md|Litija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.secret.md|Litija.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.internal|Litija.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.protect|Litija.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.private|Litija.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.personal|Litija.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Zasavska~Central/Litija.secret|Litija.secret]] 
 

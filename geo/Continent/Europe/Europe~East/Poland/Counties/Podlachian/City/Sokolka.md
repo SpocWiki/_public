@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sokolka.md|Sokolka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sokolka.internal.md|Sokolka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sokolka.protect.md|Sokolka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sokolka.private.md|Sokolka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sokolka.personal.md|Sokolka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sokolka.secret.md|Sokolka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sokolka.internal|Sokolka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sokolka.protect|Sokolka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sokolka.private|Sokolka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sokolka.personal|Sokolka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sokolka.secret|Sokolka.secret]] 

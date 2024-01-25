@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Asymmetry-Stability]
 [SpocWebEntityId::24548]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.md|Triz-stationary_Energy+Asymmetry-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.internal.md|Triz-stationary_Energy+Asymmetry-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.protect.md|Triz-stationary_Energy+Asymmetry-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.private.md|Triz-stationary_Energy+Asymmetry-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.personal.md|Triz-stationary_Energy+Asymmetry-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.secret.md|Triz-stationary_Energy+Asymmetry-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.internal|Triz-stationary_Energy+Asymmetry-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.protect|Triz-stationary_Energy+Asymmetry-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.private|Triz-stationary_Energy+Asymmetry-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.personal|Triz-stationary_Energy+Asymmetry-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.secret|Triz-stationary_Energy+Asymmetry-Stability.secret]] 

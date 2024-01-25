@@ -41,9 +41,9 @@ markerFolder: ./Kerman/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.md|Kerman]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.internal.md|Kerman.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.protect.md|Kerman.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.private.md|Kerman.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.personal.md|Kerman.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.secret.md|Kerman.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.internal|Kerman.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.protect|Kerman.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.private|Kerman.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.personal|Kerman.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Kerman.secret|Kerman.secret]] 
 

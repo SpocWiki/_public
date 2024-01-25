@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Khiva.md|Khiva]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khiva.internal.md|Khiva.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khiva.protect.md|Khiva.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khiva.private.md|Khiva.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khiva.personal.md|Khiva.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khiva.secret.md|Khiva.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khiva.internal|Khiva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khiva.protect|Khiva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khiva.private|Khiva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khiva.personal|Khiva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khiva.secret|Khiva.secret]] 

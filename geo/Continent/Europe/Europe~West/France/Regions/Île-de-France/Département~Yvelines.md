@@ -41,9 +41,9 @@ markerFolder: ./Département~Yvelines/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.md|Département~Yvelines]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.internal.md|Département~Yvelines.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.protect.md|Département~Yvelines.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.private.md|Département~Yvelines.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.personal.md|Département~Yvelines.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.secret.md|Département~Yvelines.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.internal|Département~Yvelines.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.protect|Département~Yvelines.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.private|Département~Yvelines.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.personal|Département~Yvelines.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Île-de-France/Département~Yvelines.secret|Département~Yvelines.secret]] 
 

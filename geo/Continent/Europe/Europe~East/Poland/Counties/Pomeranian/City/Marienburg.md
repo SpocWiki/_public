@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Marienburg.md|Marienburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Marienburg.internal.md|Marienburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Marienburg.protect.md|Marienburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Marienburg.private.md|Marienburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Marienburg.personal.md|Marienburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Marienburg.secret.md|Marienburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Marienburg.internal|Marienburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Marienburg.protect|Marienburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Marienburg.private|Marienburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Marienburg.personal|Marienburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Marienburg.secret|Marienburg.secret]] 

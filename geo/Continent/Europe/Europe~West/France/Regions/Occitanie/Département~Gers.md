@@ -41,9 +41,9 @@ markerFolder: ./Département~Gers/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.md|Département~Gers]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.internal.md|Département~Gers.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.protect.md|Département~Gers.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.private.md|Département~Gers.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.personal.md|Département~Gers.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.secret.md|Département~Gers.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.internal|Département~Gers.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.protect|Département~Gers.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.private|Département~Gers.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.personal|Département~Gers.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Occitanie/Département~Gers.secret|Département~Gers.secret]] 
 

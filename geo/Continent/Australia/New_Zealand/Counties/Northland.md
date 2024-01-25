@@ -41,9 +41,9 @@ markerFolder: ./Northland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Northland.md|Northland]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Northland.internal.md|Northland.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Northland.protect.md|Northland.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Northland.private.md|Northland.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Northland.personal.md|Northland.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Northland.secret.md|Northland.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Northland.internal|Northland.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Northland.protect|Northland.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Northland.private|Northland.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Northland.personal|Northland.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Northland.secret|Northland.secret]] 
 

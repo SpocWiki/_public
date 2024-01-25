@@ -18,8 +18,8 @@ Change Sensitivity of an Autopilot when within 5 Miles of an Airport.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Change_Process.md|Triz-Change_Process]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Change_Process.internal.md|Triz-Change_Process.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Change_Process.protect.md|Triz-Change_Process.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Change_Process.private.md|Triz-Change_Process.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Change_Process.personal.md|Triz-Change_Process.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Change_Process.secret.md|Triz-Change_Process.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Change_Process.internal|Triz-Change_Process.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Change_Process.protect|Triz-Change_Process.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Change_Process.private|Triz-Change_Process.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Change_Process.personal|Triz-Change_Process.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Change_Process.secret|Triz-Change_Process.secret]] 

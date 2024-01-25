@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Port~Glasgow|Port~Glasgow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.internal.md|Port_Glasgow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.protect.md|Port_Glasgow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.private.md|Port_Glasgow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.personal.md|Port_Glasgow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.secret.md|Port_Glasgow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.internal|Port_Glasgow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.protect|Port_Glasgow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.private|Port_Glasgow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.personal|Port_Glasgow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.secret|Port_Glasgow.secret]] 

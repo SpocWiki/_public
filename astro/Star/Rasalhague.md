@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Rasalhague.md|Rasalhague]] 
-- [[../../../_internal/astro/Star/Rasalhague.internal.md|Rasalhague.internal]] 
-- [[../../../_protect/astro/Star/Rasalhague.protect.md|Rasalhague.protect]] 
-- [[../../../_private/astro/Star/Rasalhague.private.md|Rasalhague.private]] 
-- [[../../../_personal/astro/Star/Rasalhague.personal.md|Rasalhague.personal]] 
-- [[../../../_secret/astro/Star/Rasalhague.secret.md|Rasalhague.secret]] 
+- [[../../../_internal/astro/Star/Rasalhague.internal|Rasalhague.internal]] 
+- [[../../../_protect/astro/Star/Rasalhague.protect|Rasalhague.protect]] 
+- [[../../../_private/astro/Star/Rasalhague.private|Rasalhague.private]] 
+- [[../../../_personal/astro/Star/Rasalhague.personal|Rasalhague.personal]] 
+- [[../../../_secret/astro/Star/Rasalhague.secret|Rasalhague.secret]] 

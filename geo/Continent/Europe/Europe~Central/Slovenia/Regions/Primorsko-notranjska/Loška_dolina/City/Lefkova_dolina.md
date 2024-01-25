@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.md|Lefkova_dolina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.internal.md|Lefkova_dolina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.protect.md|Lefkova_dolina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.private.md|Lefkova_dolina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.personal.md|Lefkova_dolina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.secret.md|Lefkova_dolina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.internal|Lefkova_dolina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.protect|Lefkova_dolina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.private|Lefkova_dolina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.personal|Lefkova_dolina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.secret|Lefkova_dolina.secret]] 

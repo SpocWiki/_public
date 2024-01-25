@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Voelklabruck.md|Voelklabruck]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Voelklabruck.internal.md|Voelklabruck.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Voelklabruck.protect.md|Voelklabruck.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Voelklabruck.private.md|Voelklabruck.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Voelklabruck.personal.md|Voelklabruck.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Voelklabruck.secret.md|Voelklabruck.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Voelklabruck.internal|Voelklabruck.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Voelklabruck.protect|Voelklabruck.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Voelklabruck.private|Voelklabruck.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Voelklabruck.personal|Voelklabruck.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Voelklabruck.secret|Voelklabruck.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Turin.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.md|Turin.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.internal.md|Turin.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.protect.md|Turin.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.private.md|Turin.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.personal.md|Turin.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.secret.md|Turin.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.internal|Turin.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.protect|Turin.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.private|Turin.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.personal|Turin.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Turin.Province.secret|Turin.Province.secret]] 
 

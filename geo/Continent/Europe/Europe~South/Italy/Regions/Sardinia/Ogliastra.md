@@ -41,9 +41,9 @@ markerFolder: ./Ogliastra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.md|Ogliastra]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.internal.md|Ogliastra.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.protect.md|Ogliastra.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.private.md|Ogliastra.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.personal.md|Ogliastra.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.secret.md|Ogliastra.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.internal|Ogliastra.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.protect|Ogliastra.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.private|Ogliastra.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.personal|Ogliastra.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Sardinia/Ogliastra.secret|Ogliastra.secret]] 
 

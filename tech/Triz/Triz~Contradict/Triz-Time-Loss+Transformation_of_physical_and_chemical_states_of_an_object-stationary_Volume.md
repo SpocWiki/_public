@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]
 [SpocWebEntityId::25006]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret]] 

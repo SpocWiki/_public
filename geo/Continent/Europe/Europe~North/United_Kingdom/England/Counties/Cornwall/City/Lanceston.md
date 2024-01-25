@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lanceston.md|Lanceston]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lanceston.internal.md|Lanceston.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lanceston.protect.md|Lanceston.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lanceston.private.md|Lanceston.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lanceston.personal.md|Lanceston.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lanceston.secret.md|Lanceston.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lanceston.internal|Lanceston.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lanceston.protect|Lanceston.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lanceston.private|Lanceston.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lanceston.personal|Lanceston.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lanceston.secret|Lanceston.secret]] 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Algol.md|Algol]] 
-- [[../../../_internal/astro/Star/Algol.internal.md|Algol.internal]] 
-- [[../../../_protect/astro/Star/Algol.protect.md|Algol.protect]] 
-- [[../../../_private/astro/Star/Algol.private.md|Algol.private]] 
-- [[../../../_personal/astro/Star/Algol.personal.md|Algol.personal]] 
-- [[../../../_secret/astro/Star/Algol.secret.md|Algol.secret]]
+- [[../../../_internal/astro/Star/Algol.internal|Algol.internal]] 
+- [[../../../_protect/astro/Star/Algol.protect|Algol.protect]] 
+- [[../../../_private/astro/Star/Algol.private|Algol.private]] 
+- [[../../../_personal/astro/Star/Algol.personal|Algol.personal]] 
+- [[../../../_secret/astro/Star/Algol.secret|Algol.secret]]
 

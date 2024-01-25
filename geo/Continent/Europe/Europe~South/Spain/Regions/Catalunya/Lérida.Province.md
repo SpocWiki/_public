@@ -41,9 +41,9 @@ markerFolder: ./Lérida.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.md|Lérida.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.internal.md|Lérida.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.protect.md|Lérida.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.private.md|Lérida.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.personal.md|Lérida.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.secret.md|Lérida.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.internal|Lérida.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.protect|Lérida.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.private|Lérida.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.personal|Lérida.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Catalunya/Lérida.Province.secret|Lérida.Province.secret]] 
 

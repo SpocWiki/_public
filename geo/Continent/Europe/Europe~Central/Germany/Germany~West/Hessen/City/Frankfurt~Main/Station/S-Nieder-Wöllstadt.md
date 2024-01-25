@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Nieder-Wöllstadt|S-Nieder-Wöllstadt]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.internal.md|S-Nieder-Wöllstadt.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.protect.md|S-Nieder-Wöllstadt.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.private.md|S-Nieder-Wöllstadt.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.personal.md|S-Nieder-Wöllstadt.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.secret.md|S-Nieder-Wöllstadt.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.internal|S-Nieder-Wöllstadt.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.protect|S-Nieder-Wöllstadt.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.private|S-Nieder-Wöllstadt.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.personal|S-Nieder-Wöllstadt.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-Wöllstadt.secret|S-Nieder-Wöllstadt.secret]] 

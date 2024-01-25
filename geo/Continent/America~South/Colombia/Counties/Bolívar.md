@@ -41,9 +41,9 @@ markerFolder: ./Bolívar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Bolívar.md|Bolívar]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Bolívar.internal.md|Bolívar.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Bolívar.protect.md|Bolívar.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Bolívar.private.md|Bolívar.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Bolívar.personal.md|Bolívar.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Bolívar.secret.md|Bolívar.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Bolívar.internal|Bolívar.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Bolívar.protect|Bolívar.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Bolívar.private|Bolívar.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Bolívar.personal|Bolívar.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Bolívar.secret|Bolívar.secret]] 
 

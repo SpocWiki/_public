@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Epsom.md|Epsom]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Epsom.internal.md|Epsom.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Epsom.protect.md|Epsom.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Epsom.private.md|Epsom.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Epsom.personal.md|Epsom.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Epsom.secret.md|Epsom.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Epsom.internal|Epsom.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Epsom.protect|Epsom.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Epsom.private|Epsom.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Epsom.personal|Epsom.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Epsom.secret|Epsom.secret]] 

@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Tuva~Republic|State~Tuva~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tuva~Republic.internal|State~Tuva~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tuva~Republic.protect.md|State~Tuva~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tuva~Republic.private.md|State~Tuva~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tuva~Republic.personal.md|State~Tuva~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tuva~Republic.secret.md|State~Tuva~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tuva~Republic.protect|State~Tuva~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tuva~Republic.private|State~Tuva~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tuva~Republic.personal|State~Tuva~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tuva~Republic.secret|State~Tuva~Republic.secret]] 

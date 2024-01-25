@@ -41,9 +41,9 @@ markerFolder: ./Qaasuitsup_Kommunia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.md|Qaasuitsup_Kommunia]] 
-- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.internal.md|Qaasuitsup_Kommunia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.protect.md|Qaasuitsup_Kommunia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.private.md|Qaasuitsup_Kommunia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.personal.md|Qaasuitsup_Kommunia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.secret.md|Qaasuitsup_Kommunia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.internal|Qaasuitsup_Kommunia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.protect|Qaasuitsup_Kommunia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.private|Qaasuitsup_Kommunia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.personal|Qaasuitsup_Kommunia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.secret|Qaasuitsup_Kommunia.secret]] 
 

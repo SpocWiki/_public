@@ -41,9 +41,9 @@ markerFolder: ./Ivano-Frankivs'k/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.md|Ivano-Frankivs'k]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.internal.md|Ivano-Frankivs'k.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.protect.md|Ivano-Frankivs'k.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.private.md|Ivano-Frankivs'k.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.personal.md|Ivano-Frankivs'k.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.secret.md|Ivano-Frankivs'k.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.internal|Ivano-Frankivs'k.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.protect|Ivano-Frankivs'k.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.private|Ivano-Frankivs'k.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.personal|Ivano-Frankivs'k.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Ivano-Frankivs'k.secret|Ivano-Frankivs'k.secret]] 
 

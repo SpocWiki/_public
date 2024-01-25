@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Loreto.md|Loreto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Loreto.internal.md|Loreto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Loreto.protect.md|Loreto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Loreto.private.md|Loreto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Loreto.personal.md|Loreto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Loreto.secret.md|Loreto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Loreto.internal|Loreto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Loreto.protect|Loreto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Loreto.private|Loreto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Loreto.personal|Loreto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Loreto.secret|Loreto.secret]] 

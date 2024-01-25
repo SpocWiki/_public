@@ -41,9 +41,9 @@ markerFolder: ./Ouest/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.md|Ouest]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.internal.md|Ouest.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.protect.md|Ouest.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.private.md|Ouest.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.personal.md|Ouest.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.secret.md|Ouest.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.internal|Ouest.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.protect|Ouest.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.private|Ouest.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.personal|Ouest.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.secret|Ouest.secret]] 
 

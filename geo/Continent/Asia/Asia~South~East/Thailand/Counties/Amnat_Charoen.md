@@ -41,9 +41,9 @@ markerFolder: ./Amnat_Charoen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.md|Amnat_Charoen]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.internal.md|Amnat_Charoen.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.protect.md|Amnat_Charoen.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.private.md|Amnat_Charoen.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.personal.md|Amnat_Charoen.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.secret.md|Amnat_Charoen.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.internal|Amnat_Charoen.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.protect|Amnat_Charoen.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.private|Amnat_Charoen.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.personal|Amnat_Charoen.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.secret|Amnat_Charoen.secret]] 
 

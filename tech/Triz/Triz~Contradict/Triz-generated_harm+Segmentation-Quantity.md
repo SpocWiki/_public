@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Segmentation-Quantity]
 [SpocWebEntityId::25804]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.md|Triz-generated_harm+Segmentation-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.internal.md|Triz-generated_harm+Segmentation-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.protect.md|Triz-generated_harm+Segmentation-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.private.md|Triz-generated_harm+Segmentation-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.personal.md|Triz-generated_harm+Segmentation-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.secret.md|Triz-generated_harm+Segmentation-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.internal|Triz-generated_harm+Segmentation-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.protect|Triz-generated_harm+Segmentation-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.private|Triz-generated_harm+Segmentation-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.personal|Triz-generated_harm+Segmentation-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.secret|Triz-generated_harm+Segmentation-Quantity.secret]] 

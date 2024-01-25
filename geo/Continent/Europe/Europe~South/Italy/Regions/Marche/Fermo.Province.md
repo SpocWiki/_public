@@ -41,9 +41,9 @@ markerFolder: ./Fermo.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.md|Fermo.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.internal.md|Fermo.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.protect.md|Fermo.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.private.md|Fermo.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.personal.md|Fermo.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.secret.md|Fermo.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.internal|Fermo.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.protect|Fermo.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.private|Fermo.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.personal|Fermo.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Marche/Fermo.Province.secret|Fermo.Province.secret]] 
 

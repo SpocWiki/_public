@@ -41,9 +41,9 @@ markerFolder: ./Nahouri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.md|Nahouri]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.internal.md|Nahouri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.protect.md|Nahouri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.private.md|Nahouri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.personal.md|Nahouri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.secret.md|Nahouri.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.internal|Nahouri.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.protect|Nahouri.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.private|Nahouri.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.personal|Nahouri.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.secret|Nahouri.secret]] 
 

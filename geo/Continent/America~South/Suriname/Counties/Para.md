@@ -41,9 +41,9 @@ markerFolder: ./Para/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Para.md|Para]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Para.internal.md|Para.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Para.protect.md|Para.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Para.private.md|Para.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Para.personal.md|Para.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Para.secret.md|Para.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Para.internal|Para.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Para.protect|Para.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Para.private|Para.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Para.personal|Para.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Para.secret|Para.secret]] 
 

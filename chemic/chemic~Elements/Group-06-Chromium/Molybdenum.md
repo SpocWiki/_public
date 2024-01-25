@@ -34,8 +34,8 @@ SpocWebEntityId: 21940
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-06-Chromium/Molybdenum.md|Molybdenum]] 
-- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Molybdenum.internal.md|Molybdenum.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Molybdenum.protect.md|Molybdenum.protect]] 
-- [[../../../../_private/chemic/Elements/Group-06-Chromium/Molybdenum.private.md|Molybdenum.private]] 
-- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Molybdenum.personal.md|Molybdenum.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Molybdenum.secret.md|Molybdenum.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Molybdenum.internal|Molybdenum.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Molybdenum.protect|Molybdenum.protect]] 
+- [[../../../../_private/chemic/Elements/Group-06-Chromium/Molybdenum.private|Molybdenum.private]] 
+- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Molybdenum.personal|Molybdenum.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Molybdenum.secret|Molybdenum.secret]] 

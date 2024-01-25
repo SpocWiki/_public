@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Toestamaa.md|Toestamaa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Toestamaa.internal.md|Toestamaa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Toestamaa.protect.md|Toestamaa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Toestamaa.private.md|Toestamaa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Toestamaa.personal.md|Toestamaa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Toestamaa.secret.md|Toestamaa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Toestamaa.internal|Toestamaa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Toestamaa.protect|Toestamaa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Toestamaa.private|Toestamaa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Toestamaa.personal|Toestamaa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Toestamaa.secret|Toestamaa.secret]] 

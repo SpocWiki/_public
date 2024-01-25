@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Prior_action-Temperature]
 [SpocWebEntityId::26116]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.md|Triz-Ease_of_repair+Prior_action-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.internal.md|Triz-Ease_of_repair+Prior_action-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.protect.md|Triz-Ease_of_repair+Prior_action-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.private.md|Triz-Ease_of_repair+Prior_action-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.personal.md|Triz-Ease_of_repair+Prior_action-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.secret.md|Triz-Ease_of_repair+Prior_action-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.internal|Triz-Ease_of_repair+Prior_action-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.protect|Triz-Ease_of_repair+Prior_action-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.private|Triz-Ease_of_repair+Prior_action-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.personal|Triz-Ease_of_repair+Prior_action-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.secret|Triz-Ease_of_repair+Prior_action-Temperature.secret]] 

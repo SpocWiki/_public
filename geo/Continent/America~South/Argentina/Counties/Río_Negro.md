@@ -41,9 +41,9 @@ markerFolder: ./Río_Negro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Río_Negro.md|Río_Negro]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Río_Negro.internal.md|Río_Negro.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Río_Negro.protect.md|Río_Negro.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Río_Negro.private.md|Río_Negro.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Río_Negro.personal.md|Río_Negro.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Río_Negro.secret.md|Río_Negro.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Río_Negro.internal|Río_Negro.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Río_Negro.protect|Río_Negro.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Río_Negro.private|Río_Negro.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Río_Negro.personal|Río_Negro.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Río_Negro.secret|Río_Negro.secret]] 
 

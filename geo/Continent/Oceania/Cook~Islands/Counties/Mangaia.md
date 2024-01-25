@@ -41,9 +41,9 @@ markerFolder: ./Mangaia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.md|Mangaia]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.internal.md|Mangaia.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.protect.md|Mangaia.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.private.md|Mangaia.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.personal.md|Mangaia.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.secret.md|Mangaia.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.internal|Mangaia.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.protect|Mangaia.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.private|Mangaia.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.personal|Mangaia.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.secret|Mangaia.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination]
 [SpocWebEntityId::25885]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.md|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.internal.md|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.protect.md|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.private.md|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.personal.md|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.secret.md|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.internal|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.protect|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.private|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.personal|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.secret|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Karlskrona.md|Karlskrona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlskrona.internal.md|Karlskrona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlskrona.protect.md|Karlskrona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlskrona.private.md|Karlskrona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlskrona.personal.md|Karlskrona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlskrona.secret.md|Karlskrona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlskrona.internal|Karlskrona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlskrona.protect|Karlskrona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlskrona.private|Karlskrona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlskrona.personal|Karlskrona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlskrona.secret|Karlskrona.secret]] 

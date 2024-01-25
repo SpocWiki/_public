@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kasalinsk.md|Kasalinsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kasalinsk.internal.md|Kasalinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kasalinsk.protect.md|Kasalinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kasalinsk.private.md|Kasalinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kasalinsk.personal.md|Kasalinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kasalinsk.secret.md|Kasalinsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kasalinsk.internal|Kasalinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kasalinsk.protect|Kasalinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kasalinsk.private|Kasalinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kasalinsk.personal|Kasalinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kasalinsk.secret|Kasalinsk.secret]] 

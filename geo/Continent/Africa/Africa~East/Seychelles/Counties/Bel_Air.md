@@ -41,9 +41,9 @@ markerFolder: ./Bel_Air/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Bel_Air.md|Bel_Air]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Bel_Air.internal.md|Bel_Air.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Bel_Air.protect.md|Bel_Air.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Bel_Air.private.md|Bel_Air.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Bel_Air.personal.md|Bel_Air.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Bel_Air.secret.md|Bel_Air.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Bel_Air.internal|Bel_Air.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Bel_Air.protect|Bel_Air.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Bel_Air.private|Bel_Air.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Bel_Air.personal|Bel_Air.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Bel_Air.secret|Bel_Air.secret]] 
 

@@ -41,8 +41,8 @@ SpocWebEntityId: 21977
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-14-Carbon/Lead.md|Lead]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Lead.internal.md|Lead.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Lead.protect.md|Lead.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Lead.private.md|Lead.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Lead.personal.md|Lead.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Lead.secret.md|Lead.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Lead.internal|Lead.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Lead.protect|Lead.protect]] 
+- [[../../../../_private/chemic/Elements/Group-14-Carbon/Lead.private|Lead.private]] 
+- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Lead.personal|Lead.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Lead.secret|Lead.secret]] 

@@ -152,7 +152,7 @@ markerFolder: ./Philippines/
 ## Confidential Links & Embeds: 
 -[[Philippines|Philippines]]] 
 -[[../../../../../_internal/geo/Continent/Oceania/Philippines.internal|Philippines.internal]]] 
-- [[../../../../_protect/geo/Continent/Oceania/Philippines.protect.md|Philippines.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Philippines.private.md|Philippines.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Philippines.personal.md|Philippines.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Philippines.secret.md|Philippines.secret]] 
+- [[../../../../_protect/geo/Continent/Oceania/Philippines.protect|Philippines.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Philippines.private|Philippines.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Philippines.personal|Philippines.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Philippines.secret|Philippines.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.md|Sistovo=Swichtov]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.internal.md|Sistovo=Swichtov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.protect.md|Sistovo=Swichtov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.private.md|Sistovo=Swichtov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.personal.md|Sistovo=Swichtov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.secret.md|Sistovo=Swichtov.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.internal|Sistovo=Swichtov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.protect|Sistovo=Swichtov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.private|Sistovo=Swichtov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.personal|Sistovo=Swichtov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Sistovo=Swichtov.secret|Sistovo=Swichtov.secret]] 

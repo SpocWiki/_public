@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Pontoise.md|Pontoise]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pontoise.internal.md|Pontoise.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pontoise.protect.md|Pontoise.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Pontoise.private.md|Pontoise.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pontoise.personal.md|Pontoise.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pontoise.secret.md|Pontoise.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pontoise.internal|Pontoise.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pontoise.protect|Pontoise.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Pontoise.private|Pontoise.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pontoise.personal|Pontoise.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pontoise.secret|Pontoise.secret]] 

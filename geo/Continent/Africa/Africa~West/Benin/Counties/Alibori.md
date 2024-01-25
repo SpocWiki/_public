@@ -41,9 +41,9 @@ markerFolder: ./Alibori/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Benin/Counties/Alibori.md|Alibori]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Alibori.internal.md|Alibori.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Alibori.protect.md|Alibori.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Alibori.private.md|Alibori.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Alibori.personal.md|Alibori.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Alibori.secret.md|Alibori.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Alibori.internal|Alibori.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Alibori.protect|Alibori.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Alibori.private|Alibori.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Alibori.personal|Alibori.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Alibori.secret|Alibori.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Paraíba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Paraíba.md|Paraíba]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Paraíba.internal.md|Paraíba.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Paraíba.protect.md|Paraíba.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Paraíba.private.md|Paraíba.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Paraíba.personal.md|Paraíba.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Paraíba.secret.md|Paraíba.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Paraíba.internal|Paraíba.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Paraíba.protect|Paraíba.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Paraíba.private|Paraíba.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Paraíba.personal|Paraíba.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Paraíba.secret|Paraíba.secret]] 
 

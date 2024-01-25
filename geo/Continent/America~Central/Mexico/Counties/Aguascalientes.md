@@ -41,9 +41,9 @@ markerFolder: ./Aguascalientes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.md|Aguascalientes]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.internal.md|Aguascalientes.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.protect.md|Aguascalientes.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.private.md|Aguascalientes.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.personal.md|Aguascalientes.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.secret.md|Aguascalientes.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.internal|Aguascalientes.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.protect|Aguascalientes.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.private|Aguascalientes.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.personal|Aguascalientes.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Aguascalientes.secret|Aguascalientes.secret]] 
 

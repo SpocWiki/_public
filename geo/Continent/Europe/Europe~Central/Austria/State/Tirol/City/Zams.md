@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Zams.md|Zams]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Zams.internal.md|Zams.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Zams.protect.md|Zams.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Zams.private.md|Zams.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Zams.personal.md|Zams.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Zams.secret.md|Zams.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Zams.internal|Zams.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Zams.protect|Zams.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Zams.private|Zams.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Zams.personal|Zams.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Zams.secret|Zams.secret]] 

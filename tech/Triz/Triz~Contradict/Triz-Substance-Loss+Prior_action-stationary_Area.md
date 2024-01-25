@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Prior_action-stationary_Area]
 [SpocWebEntityId::24806]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.md|Triz-Substance-Loss+Prior_action-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.internal.md|Triz-Substance-Loss+Prior_action-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.protect.md|Triz-Substance-Loss+Prior_action-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.private.md|Triz-Substance-Loss+Prior_action-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.personal.md|Triz-Substance-Loss+Prior_action-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.secret.md|Triz-Substance-Loss+Prior_action-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.internal|Triz-Substance-Loss+Prior_action-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.protect|Triz-Substance-Loss+Prior_action-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.private|Triz-Substance-Loss+Prior_action-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.personal|Triz-Substance-Loss+Prior_action-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-stationary_Area.secret|Triz-Substance-Loss+Prior_action-stationary_Area.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Foggia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.md|Foggia]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.internal.md|Foggia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.protect.md|Foggia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.private.md|Foggia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.personal.md|Foggia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.secret.md|Foggia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.internal|Foggia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.protect|Foggia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.private|Foggia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.personal|Foggia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Apulia/Foggia.secret|Foggia.secret]] 
 

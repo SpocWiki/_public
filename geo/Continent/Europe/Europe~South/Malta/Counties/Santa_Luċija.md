@@ -41,9 +41,9 @@ markerFolder: ./Santa_Luċija/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Santa_Luċija.md|Santa_Luċija]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Santa_Luċija.internal.md|Santa_Luċija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Santa_Luċija.protect.md|Santa_Luċija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Santa_Luċija.private.md|Santa_Luċija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Santa_Luċija.personal.md|Santa_Luċija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Santa_Luċija.secret.md|Santa_Luċija.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Santa_Luċija.internal|Santa_Luċija.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Santa_Luċija.protect|Santa_Luċija.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Santa_Luċija.private|Santa_Luċija.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Santa_Luċija.personal|Santa_Luċija.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Santa_Luċija.secret|Santa_Luċija.secret]] 
 

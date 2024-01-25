@@ -135,7 +135,7 @@ markerFolder: ./Madagascar//
 ## Confidential Links & Embeds: 
 - [[Madagascar|Madagascar]] 
 - [[../../../../../_internal/geo/Continent/Africa/Madagascar.internal|Madagascar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar.protect.md|Madagascar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar.private.md|Madagascar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar.personal.md|Madagascar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar.secret.md|Madagascar.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar.protect|Madagascar.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar.private|Madagascar.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar.personal|Madagascar.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar.secret|Madagascar.secret]] 

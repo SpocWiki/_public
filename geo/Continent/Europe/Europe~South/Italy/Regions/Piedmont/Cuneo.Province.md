@@ -41,9 +41,9 @@ markerFolder: ./Cuneo.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.md|Cuneo.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.internal.md|Cuneo.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.protect.md|Cuneo.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.private.md|Cuneo.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.personal.md|Cuneo.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.secret.md|Cuneo.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.internal|Cuneo.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.protect|Cuneo.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.private|Cuneo.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.personal|Cuneo.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Cuneo.Province.secret|Cuneo.Province.secret]] 
 

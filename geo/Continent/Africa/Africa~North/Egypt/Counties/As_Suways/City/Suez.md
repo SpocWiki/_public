@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Egypt/City/Suez.md|Suez]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/City/Suez.internal.md|Suez.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/City/Suez.protect.md|Suez.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/City/Suez.private.md|Suez.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/City/Suez.personal.md|Suez.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/City/Suez.secret.md|Suez.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/City/Suez.internal|Suez.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/City/Suez.protect|Suez.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/City/Suez.private|Suez.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/City/Suez.personal|Suez.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/City/Suez.secret|Suez.secret]] 

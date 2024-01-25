@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Abbehausen.md|Abbehausen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Abbehausen.internal.md|Abbehausen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Abbehausen.protect.md|Abbehausen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Abbehausen.private.md|Abbehausen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Abbehausen.personal.md|Abbehausen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Abbehausen.secret.md|Abbehausen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Abbehausen.internal|Abbehausen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Abbehausen.protect|Abbehausen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Abbehausen.private|Abbehausen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Abbehausen.personal|Abbehausen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Abbehausen.secret|Abbehausen.secret]] 

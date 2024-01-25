@@ -41,9 +41,9 @@ markerFolder: ./Brčko_Distrikt/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.md|Brčko_Distrikt]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.internal.md|Brčko_Distrikt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.protect.md|Brčko_Distrikt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.private.md|Brčko_Distrikt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.personal.md|Brčko_Distrikt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.secret.md|Brčko_Distrikt.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.internal|Brčko_Distrikt.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.protect|Brčko_Distrikt.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.private|Brčko_Distrikt.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.personal|Brčko_Distrikt.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Brčko_Distrikt.secret|Brčko_Distrikt.secret]] 
 

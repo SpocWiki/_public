@@ -12,16 +12,16 @@ tags:
 ---
 [name::Information-Loss+Combining_(Integration)-stationary_Weight]
 [SpocWebEntityId::24935]
-+ [pro::Information-Loss]
++ [#has_/Pros :: Information-Loss]
 [Triz-Principle:[[Triz-Combining(Integration)]]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.md|Triz-Information-Loss+Combining_(Integration)-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.internal.md|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.protect.md|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.private.md|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.personal.md|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.secret.md|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.internal|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.protect|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.private|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.personal|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.secret|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.secret]] 

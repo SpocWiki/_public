@@ -41,9 +41,9 @@ markerFolder: ./Karbinci/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.md|Karbinci]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.internal.md|Karbinci.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.protect.md|Karbinci.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.private.md|Karbinci.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.personal.md|Karbinci.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.secret.md|Karbinci.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.internal|Karbinci.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.protect|Karbinci.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.private|Karbinci.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.personal|Karbinci.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Karbinci.secret|Karbinci.secret]] 
 

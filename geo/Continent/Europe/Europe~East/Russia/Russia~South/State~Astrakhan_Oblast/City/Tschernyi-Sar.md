@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschernyi-Sar.md|Tschernyi-Sar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschernyi-Sar.internal.md|Tschernyi-Sar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschernyi-Sar.protect.md|Tschernyi-Sar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschernyi-Sar.private.md|Tschernyi-Sar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschernyi-Sar.personal.md|Tschernyi-Sar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschernyi-Sar.secret.md|Tschernyi-Sar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschernyi-Sar.internal|Tschernyi-Sar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschernyi-Sar.protect|Tschernyi-Sar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschernyi-Sar.private|Tschernyi-Sar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschernyi-Sar.personal|Tschernyi-Sar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschernyi-Sar.secret|Tschernyi-Sar.secret]] 

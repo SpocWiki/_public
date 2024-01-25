@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Equipotentiality-Intensity]
 [SpocWebEntityId::25859]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Equipotentiality]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.md|Triz-Ease_of_manufacture+Equipotentiality-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.internal.md|Triz-Ease_of_manufacture+Equipotentiality-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.protect.md|Triz-Ease_of_manufacture+Equipotentiality-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.private.md|Triz-Ease_of_manufacture+Equipotentiality-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.personal.md|Triz-Ease_of_manufacture+Equipotentiality-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.secret.md|Triz-Ease_of_manufacture+Equipotentiality-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.internal|Triz-Ease_of_manufacture+Equipotentiality-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.protect|Triz-Ease_of_manufacture+Equipotentiality-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.private|Triz-Ease_of_manufacture+Equipotentiality-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.personal|Triz-Ease_of_manufacture+Equipotentiality-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.secret|Triz-Ease_of_manufacture+Equipotentiality-Intensity.secret]] 

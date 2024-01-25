@@ -24,8 +24,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-03-Scandium.md|Group-03-Scandium]] 
-- [[../../../_internal/chemic/Elements/Group-03-Scandium.internal.md|Group-03-Scandium.internal]] 
-- [[../../../_protect/chemic/Elements/Group-03-Scandium.protect.md|Group-03-Scandium.protect]] 
-- [[../../../_private/chemic/Elements/Group-03-Scandium.private.md|Group-03-Scandium.private]] 
-- [[../../../_personal/chemic/Elements/Group-03-Scandium.personal.md|Group-03-Scandium.personal]] 
-- [[../../../_secret/chemic/Elements/Group-03-Scandium.secret.md|Group-03-Scandium.secret]] 
+- [[../../../_internal/chemic/Elements/Group-03-Scandium.internal|Group-03-Scandium.internal]] 
+- [[../../../_protect/chemic/Elements/Group-03-Scandium.protect|Group-03-Scandium.protect]] 
+- [[../../../_private/chemic/Elements/Group-03-Scandium.private|Group-03-Scandium.private]] 
+- [[../../../_personal/chemic/Elements/Group-03-Scandium.personal|Group-03-Scandium.personal]] 
+- [[../../../_secret/chemic/Elements/Group-03-Scandium.secret|Group-03-Scandium.secret]] 

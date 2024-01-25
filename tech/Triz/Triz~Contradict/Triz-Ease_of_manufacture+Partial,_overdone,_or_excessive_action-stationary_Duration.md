@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration]
 [SpocWebEntityId::25879]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.md|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.internal.md|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.protect.md|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.private.md|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.personal.md|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.secret.md|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.internal|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.protect|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.private|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.personal|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.secret|Triz-Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Duration.secret]] 

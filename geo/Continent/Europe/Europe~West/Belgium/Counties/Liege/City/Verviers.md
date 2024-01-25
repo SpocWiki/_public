@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Verviers.md|Verviers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Verviers.internal.md|Verviers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Verviers.protect.md|Verviers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Verviers.private.md|Verviers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Verviers.personal.md|Verviers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Verviers.secret.md|Verviers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Verviers.internal|Verviers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Verviers.protect|Verviers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Verviers.private|Verviers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Verviers.personal|Verviers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Verviers.secret|Verviers.secret]] 

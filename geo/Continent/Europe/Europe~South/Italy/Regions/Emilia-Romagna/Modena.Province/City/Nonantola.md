@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Nonantola.md|Nonantola]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Nonantola.internal.md|Nonantola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Nonantola.protect.md|Nonantola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Nonantola.private.md|Nonantola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Nonantola.personal.md|Nonantola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Nonantola.secret.md|Nonantola.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Nonantola.internal|Nonantola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Nonantola.protect|Nonantola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Nonantola.private|Nonantola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Nonantola.personal|Nonantola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Nonantola.secret|Nonantola.secret]] 

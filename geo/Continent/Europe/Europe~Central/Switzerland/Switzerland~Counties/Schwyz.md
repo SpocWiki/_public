@@ -41,9 +41,9 @@ markerFolder: ./Schwyz/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.md|Schwyz]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.internal.md|Schwyz.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.protect.md|Schwyz.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.private.md|Schwyz.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.personal.md|Schwyz.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.secret.md|Schwyz.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.internal|Schwyz.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.protect|Schwyz.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.private|Schwyz.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.personal|Schwyz.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.secret|Schwyz.secret]] 
 

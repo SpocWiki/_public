@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Fouras.md|Fouras]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fouras.internal.md|Fouras.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fouras.protect.md|Fouras.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Fouras.private.md|Fouras.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fouras.personal.md|Fouras.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fouras.secret.md|Fouras.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fouras.internal|Fouras.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fouras.protect|Fouras.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Fouras.private|Fouras.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fouras.personal|Fouras.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fouras.secret|Fouras.secret]] 

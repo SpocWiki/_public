@@ -41,9 +41,9 @@ markerFolder: ./Faro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Faro.md|Faro]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Faro.internal.md|Faro.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Faro.protect.md|Faro.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Faro.private.md|Faro.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Faro.personal.md|Faro.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Faro.secret.md|Faro.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Faro.internal|Faro.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Faro.protect|Faro.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Faro.private|Faro.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Faro.personal|Faro.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Faro.secret|Faro.secret]] 
 

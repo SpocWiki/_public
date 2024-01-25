@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Argyrokastron.md|Argyrokastron]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Argyrokastron.internal.md|Argyrokastron.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Argyrokastron.protect.md|Argyrokastron.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Argyrokastron.private.md|Argyrokastron.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Argyrokastron.personal.md|Argyrokastron.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Argyrokastron.secret.md|Argyrokastron.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Argyrokastron.internal|Argyrokastron.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Argyrokastron.protect|Argyrokastron.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Argyrokastron.private|Argyrokastron.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Argyrokastron.personal|Argyrokastron.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Argyrokastron.secret|Argyrokastron.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.md|Ettelbrueck]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.internal.md|Ettelbrueck.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.protect.md|Ettelbrueck.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.private.md|Ettelbrueck.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.personal.md|Ettelbrueck.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.secret.md|Ettelbrueck.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.internal|Ettelbrueck.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.protect|Ettelbrueck.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.private|Ettelbrueck.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.personal|Ettelbrueck.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.secret|Ettelbrueck.secret]] 

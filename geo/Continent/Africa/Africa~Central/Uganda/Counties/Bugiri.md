@@ -41,9 +41,9 @@ markerFolder: ./Bugiri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bugiri.md|Bugiri]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bugiri.internal.md|Bugiri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bugiri.protect.md|Bugiri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bugiri.private.md|Bugiri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bugiri.personal.md|Bugiri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bugiri.secret.md|Bugiri.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bugiri.internal|Bugiri.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bugiri.protect|Bugiri.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bugiri.private|Bugiri.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bugiri.personal|Bugiri.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bugiri.secret|Bugiri.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kidwelly.md|Kidwelly]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kidwelly.internal.md|Kidwelly.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kidwelly.protect.md|Kidwelly.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kidwelly.private.md|Kidwelly.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kidwelly.personal.md|Kidwelly.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kidwelly.secret.md|Kidwelly.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kidwelly.internal|Kidwelly.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kidwelly.protect|Kidwelly.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kidwelly.private|Kidwelly.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kidwelly.personal|Kidwelly.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kidwelly.secret|Kidwelly.secret]] 

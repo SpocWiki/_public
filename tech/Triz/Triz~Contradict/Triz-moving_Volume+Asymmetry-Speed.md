@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Asymmetry-Speed]
 [SpocWebEntityId::23201]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.md|Triz-moving_Volume+Asymmetry-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.internal.md|Triz-moving_Volume+Asymmetry-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.protect.md|Triz-moving_Volume+Asymmetry-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.private.md|Triz-moving_Volume+Asymmetry-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.personal.md|Triz-moving_Volume+Asymmetry-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.secret.md|Triz-moving_Volume+Asymmetry-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.internal|Triz-moving_Volume+Asymmetry-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.protect|Triz-moving_Volume+Asymmetry-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.private|Triz-moving_Volume+Asymmetry-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.personal|Triz-moving_Volume+Asymmetry-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Speed.secret|Triz-moving_Volume+Asymmetry-Speed.secret]] 

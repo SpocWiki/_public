@@ -41,9 +41,9 @@ markerFolder: ./Saitama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.md|Saitama]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.internal.md|Saitama.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.protect.md|Saitama.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.private.md|Saitama.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.personal.md|Saitama.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.secret.md|Saitama.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.internal|Saitama.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.protect|Saitama.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.private|Saitama.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.personal|Saitama.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.secret|Saitama.secret]] 
 

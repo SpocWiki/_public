@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.md|Ponte_Campovasta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.internal.md|Ponte_Campovasta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.protect.md|Ponte_Campovasta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.private.md|Ponte_Campovasta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.personal.md|Ponte_Campovasta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.secret.md|Ponte_Campovasta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.internal|Ponte_Campovasta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.protect|Ponte_Campovasta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.private|Ponte_Campovasta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.personal|Ponte_Campovasta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.secret|Ponte_Campovasta.secret]] 

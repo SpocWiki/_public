@@ -41,9 +41,9 @@ markerFolder: ./Yên_Bái/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.md|Yên_Bái]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.internal.md|Yên_Bái.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.protect.md|Yên_Bái.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.private.md|Yên_Bái.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.personal.md|Yên_Bái.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.secret.md|Yên_Bái.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.internal|Yên_Bái.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.protect|Yên_Bái.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.private|Yên_Bái.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.personal|Yên_Bái.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Yên_Bái.secret|Yên_Bái.secret]] 
 

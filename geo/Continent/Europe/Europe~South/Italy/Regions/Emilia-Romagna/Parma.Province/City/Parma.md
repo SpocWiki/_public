@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Parma.md|Parma]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Parma.internal.md|Parma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Parma.protect.md|Parma.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Parma.private.md|Parma.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Parma.personal.md|Parma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Parma.secret.md|Parma.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Parma.internal|Parma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Parma.protect|Parma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Parma.private|Parma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Parma.personal|Parma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Parma.secret|Parma.secret]] 

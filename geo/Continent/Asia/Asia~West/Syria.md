@@ -139,7 +139,7 @@ markerFolder: ./Syria/
 ## Confidential Links & Embeds: 
 -[[Syria|Syria]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Syria.internal|Syria.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Syria.protect.md|Syria.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Syria.private.md|Syria.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Syria.personal.md|Syria.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Syria.secret.md|Syria.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Syria.protect|Syria.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Syria.private|Syria.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Syria.personal|Syria.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Syria.secret|Syria.secret]] 

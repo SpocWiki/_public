@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Universality-Ease_of_manufacture]
 [SpocWebEntityId::25448]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Ease_of_manufacture]]]
+- [#has_/Cons :: [[Triz-Ease_of_manufacture]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.md|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.internal.md|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.protect.md|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.private.md|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.personal.md|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.secret.md|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.internal|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.protect|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.private|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.personal|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.secret|Triz-Measurement_Accuracy+Universality-Ease_of_manufacture.secret]] 

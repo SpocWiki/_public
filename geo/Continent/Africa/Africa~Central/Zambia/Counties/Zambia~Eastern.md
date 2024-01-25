@@ -41,9 +41,9 @@ markerFolder: ./Zambia~Eastern/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.md|Zambia~Eastern]] 
-- [[../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.internal.md|Zambia~Eastern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.protect.md|Zambia~Eastern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.private.md|Zambia~Eastern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.personal.md|Zambia~Eastern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.secret.md|Zambia~Eastern.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.internal|Zambia~Eastern.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.protect|Zambia~Eastern.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.private|Zambia~Eastern.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.personal|Zambia~Eastern.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.secret|Zambia~Eastern.secret]] 
 

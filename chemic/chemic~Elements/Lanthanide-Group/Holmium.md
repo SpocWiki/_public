@@ -39,8 +39,8 @@ SpocWebEntityId: 21963
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Holmium.md|Holmium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Holmium.internal.md|Holmium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Holmium.protect.md|Holmium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Holmium.private.md|Holmium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Holmium.personal.md|Holmium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Holmium.secret.md|Holmium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Holmium.internal|Holmium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Holmium.protect|Holmium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Holmium.private|Holmium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Holmium.personal|Holmium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Holmium.secret|Holmium.secret]] 

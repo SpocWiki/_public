@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gozdowice.md|Gozdowice]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gozdowice.internal.md|Gozdowice.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gozdowice.protect.md|Gozdowice.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gozdowice.private.md|Gozdowice.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gozdowice.personal.md|Gozdowice.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gozdowice.secret.md|Gozdowice.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gozdowice.internal|Gozdowice.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gozdowice.protect|Gozdowice.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gozdowice.private|Gozdowice.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gozdowice.personal|Gozdowice.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gozdowice.secret|Gozdowice.secret]] 

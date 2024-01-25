@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..md|Villanueva_d._I._S.]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..internal.md|Villanueva_d._I._S..internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..protect.md|Villanueva_d._I._S..protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..private.md|Villanueva_d._I._S..private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..personal.md|Villanueva_d._I._S..personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..secret.md|Villanueva_d._I._S..secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..internal|Villanueva_d._I._S..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..protect|Villanueva_d._I._S..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..private|Villanueva_d._I._S..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..personal|Villanueva_d._I._S..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..secret|Villanueva_d._I._S..secret]] 

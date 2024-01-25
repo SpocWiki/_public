@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nitau.md|Nitau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nitau.internal.md|Nitau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nitau.protect.md|Nitau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nitau.private.md|Nitau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nitau.personal.md|Nitau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nitau.secret.md|Nitau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nitau.internal|Nitau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nitau.protect|Nitau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nitau.private|Nitau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nitau.personal|Nitau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nitau.secret|Nitau.secret]] 

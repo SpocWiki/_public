@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Homberg~Kassel|Homberg~Kassel]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.internal.md|Homberg~Kassel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.protect.md|Homberg~Kassel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.private.md|Homberg~Kassel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.personal.md|Homberg~Kassel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.secret.md|Homberg~Kassel.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.internal|Homberg~Kassel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.protect|Homberg~Kassel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.private|Homberg~Kassel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.personal|Homberg~Kassel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.secret|Homberg~Kassel.secret]] 

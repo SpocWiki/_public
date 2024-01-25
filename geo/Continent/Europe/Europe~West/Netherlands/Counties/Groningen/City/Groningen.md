@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Groningen.md|Groningen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Groningen.internal.md|Groningen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Groningen.protect.md|Groningen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Groningen.private.md|Groningen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Groningen.personal.md|Groningen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Groningen.secret.md|Groningen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Groningen.internal|Groningen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Groningen.protect|Groningen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Groningen.private|Groningen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Groningen.personal|Groningen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Groningen.secret|Groningen.secret]] 

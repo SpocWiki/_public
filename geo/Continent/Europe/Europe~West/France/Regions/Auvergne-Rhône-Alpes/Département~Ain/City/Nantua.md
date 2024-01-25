@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Nantua.md|Nantua]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nantua.internal.md|Nantua.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nantua.protect.md|Nantua.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Nantua.private.md|Nantua.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nantua.personal.md|Nantua.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nantua.secret.md|Nantua.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nantua.internal|Nantua.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nantua.protect|Nantua.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nantua.private|Nantua.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nantua.personal|Nantua.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nantua.secret|Nantua.secret]] 

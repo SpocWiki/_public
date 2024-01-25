@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Extraction-stationary_Area]
 [SpocWebEntityId::26422]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.md|Triz-Difficulty+Extraction-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.internal.md|Triz-Difficulty+Extraction-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.protect.md|Triz-Difficulty+Extraction-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.private.md|Triz-Difficulty+Extraction-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.personal.md|Triz-Difficulty+Extraction-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.secret.md|Triz-Difficulty+Extraction-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.internal|Triz-Difficulty+Extraction-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.protect|Triz-Difficulty+Extraction-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.private|Triz-Difficulty+Extraction-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.personal|Triz-Difficulty+Extraction-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Area.secret|Triz-Difficulty+Extraction-stationary_Area.secret]] 

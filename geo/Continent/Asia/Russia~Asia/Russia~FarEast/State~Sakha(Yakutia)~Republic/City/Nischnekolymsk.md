@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Nischnekolymsk|Nischnekolymsk]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kolymsk.internal.md|Kolymsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kolymsk.protect.md|Kolymsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kolymsk.private.md|Kolymsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kolymsk.personal.md|Kolymsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kolymsk.secret.md|Kolymsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kolymsk.internal|Kolymsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kolymsk.protect|Kolymsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kolymsk.private|Kolymsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kolymsk.personal|Kolymsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kolymsk.secret|Kolymsk.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Inert_environment-Substance-Loss]
 [SpocWebEntityId::25311]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.md|Triz-Reliability+Inert_environment-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.internal.md|Triz-Reliability+Inert_environment-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.protect.md|Triz-Reliability+Inert_environment-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.private.md|Triz-Reliability+Inert_environment-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.personal.md|Triz-Reliability+Inert_environment-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.secret.md|Triz-Reliability+Inert_environment-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.internal|Triz-Reliability+Inert_environment-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.protect|Triz-Reliability+Inert_environment-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.private|Triz-Reliability+Inert_environment-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.personal|Triz-Reliability+Inert_environment-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Inert_environment-Substance-Loss.secret|Triz-Reliability+Inert_environment-Substance-Loss.secret]] 

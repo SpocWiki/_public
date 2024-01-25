@@ -41,9 +41,9 @@ markerFolder: ./Floriana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Floriana.md|Floriana]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Floriana.internal.md|Floriana.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Floriana.protect.md|Floriana.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Floriana.private.md|Floriana.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Floriana.personal.md|Floriana.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Floriana.secret.md|Floriana.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Floriana.internal|Floriana.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Floriana.protect|Floriana.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Floriana.private|Floriana.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Floriana.personal|Floriana.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Floriana.secret|Floriana.secret]] 
 

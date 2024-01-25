@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ossero.md|Ossero]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ossero.internal.md|Ossero.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ossero.protect.md|Ossero.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ossero.private.md|Ossero.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ossero.personal.md|Ossero.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ossero.secret.md|Ossero.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ossero.internal|Ossero.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ossero.protect|Ossero.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ossero.private|Ossero.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ossero.personal|Ossero.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ossero.secret|Ossero.secret]] 

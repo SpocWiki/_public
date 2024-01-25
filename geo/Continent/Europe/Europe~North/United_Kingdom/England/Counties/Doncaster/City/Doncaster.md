@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Doncaster.md|Doncaster]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Doncaster.internal.md|Doncaster.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Doncaster.protect.md|Doncaster.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Doncaster.private.md|Doncaster.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Doncaster.personal.md|Doncaster.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Doncaster.secret.md|Doncaster.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Doncaster.internal|Doncaster.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Doncaster.protect|Doncaster.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Doncaster.private|Doncaster.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Doncaster.personal|Doncaster.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Doncaster.secret|Doncaster.secret]] 

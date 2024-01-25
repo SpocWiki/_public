@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[U-Riedwiese_Mertonviertel|U-Riedwiese_Mertonviertel]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.internal.md|U-Riedwiese_Mertonviertel.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.protect.md|U-Riedwiese_Mertonviertel.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.private.md|U-Riedwiese_Mertonviertel.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.personal.md|U-Riedwiese_Mertonviertel.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.secret.md|U-Riedwiese_Mertonviertel.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.internal|U-Riedwiese_Mertonviertel.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.protect|U-Riedwiese_Mertonviertel.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.private|U-Riedwiese_Mertonviertel.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.personal|U-Riedwiese_Mertonviertel.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Riedwiese_Mertonviertel.secret|U-Riedwiese_Mertonviertel.secret]] 

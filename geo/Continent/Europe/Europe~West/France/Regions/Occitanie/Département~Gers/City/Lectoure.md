@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Lectoure.md|Lectoure]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lectoure.internal.md|Lectoure.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lectoure.protect.md|Lectoure.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Lectoure.private.md|Lectoure.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lectoure.personal.md|Lectoure.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lectoure.secret.md|Lectoure.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lectoure.internal|Lectoure.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lectoure.protect|Lectoure.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lectoure.private|Lectoure.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lectoure.personal|Lectoure.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lectoure.secret|Lectoure.secret]] 

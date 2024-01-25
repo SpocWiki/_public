@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Kongsberg.md|Kongsberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Kongsberg.internal.md|Kongsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Kongsberg.protect.md|Kongsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Kongsberg.private.md|Kongsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Kongsberg.personal.md|Kongsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Kongsberg.secret.md|Kongsberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Kongsberg.internal|Kongsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Kongsberg.protect|Kongsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Kongsberg.private|Kongsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Kongsberg.personal|Kongsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Kongsberg.secret|Kongsberg.secret]] 

@@ -26,8 +26,8 @@ Conduct a process, or certain stages (e.g. destructible, harmful or hazardous op
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-high-speed.md|Triz-high-speed]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-high-speed.internal.md|Triz-high-speed.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-high-speed.protect.md|Triz-high-speed.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-high-speed.private.md|Triz-high-speed.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-high-speed.personal.md|Triz-high-speed.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-high-speed.secret.md|Triz-high-speed.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-high-speed.internal|Triz-high-speed.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-high-speed.protect|Triz-high-speed.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-high-speed.private|Triz-high-speed.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-high-speed.personal|Triz-high-speed.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-high-speed.secret|Triz-high-speed.secret]] 

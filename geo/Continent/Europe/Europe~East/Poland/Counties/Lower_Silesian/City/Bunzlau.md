@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bunzlau.md|Bunzlau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bunzlau.internal.md|Bunzlau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bunzlau.protect.md|Bunzlau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bunzlau.private.md|Bunzlau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bunzlau.personal.md|Bunzlau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bunzlau.secret.md|Bunzlau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bunzlau.internal|Bunzlau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bunzlau.protect|Bunzlau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bunzlau.private|Bunzlau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bunzlau.personal|Bunzlau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bunzlau.secret|Bunzlau.secret]] 

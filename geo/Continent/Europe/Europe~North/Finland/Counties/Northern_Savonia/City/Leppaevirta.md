@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Leppaevirta.md|Leppaevirta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Leppaevirta.internal.md|Leppaevirta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Leppaevirta.protect.md|Leppaevirta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Leppaevirta.private.md|Leppaevirta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Leppaevirta.personal.md|Leppaevirta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Leppaevirta.secret.md|Leppaevirta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Leppaevirta.internal|Leppaevirta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Leppaevirta.protect|Leppaevirta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Leppaevirta.private|Leppaevirta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Leppaevirta.personal|Leppaevirta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Leppaevirta.secret|Leppaevirta.secret]] 

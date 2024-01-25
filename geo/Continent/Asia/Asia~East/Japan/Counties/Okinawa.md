@@ -41,9 +41,9 @@ markerFolder: ./Okinawa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.md|Okinawa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.internal.md|Okinawa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.protect.md|Okinawa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.private.md|Okinawa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.personal.md|Okinawa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.secret.md|Okinawa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.internal|Okinawa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.protect|Okinawa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.private|Okinawa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.personal|Okinawa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.secret|Okinawa.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zedlitz.md|Zedlitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zedlitz.internal.md|Zedlitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zedlitz.protect.md|Zedlitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zedlitz.private.md|Zedlitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zedlitz.personal.md|Zedlitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zedlitz.secret.md|Zedlitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zedlitz.internal|Zedlitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zedlitz.protect|Zedlitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zedlitz.private|Zedlitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zedlitz.personal|Zedlitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zedlitz.secret|Zedlitz.secret]] 

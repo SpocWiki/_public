@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Chita~Oblast|State~Chita~Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Chita~Oblast.internal|State~Chita~Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Chita~Oblast.protect.md|State~Chita~Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Chita~Oblast.private.md|State~Chita~Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Chita~Oblast.personal.md|State~Chita~Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Chita~Oblast.secret.md|State~Chita~Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Chita~Oblast.protect|State~Chita~Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Chita~Oblast.private|State~Chita~Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Chita~Oblast.personal|State~Chita~Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Chita~Oblast.secret|State~Chita~Oblast.secret]] 

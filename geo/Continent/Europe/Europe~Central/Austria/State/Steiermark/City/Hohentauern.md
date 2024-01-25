@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hohentauern.md|Hohentauern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hohentauern.internal.md|Hohentauern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hohentauern.protect.md|Hohentauern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hohentauern.private.md|Hohentauern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hohentauern.personal.md|Hohentauern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hohentauern.secret.md|Hohentauern.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hohentauern.internal|Hohentauern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hohentauern.protect|Hohentauern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hohentauern.private|Hohentauern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hohentauern.personal|Hohentauern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hohentauern.secret|Hohentauern.secret]] 

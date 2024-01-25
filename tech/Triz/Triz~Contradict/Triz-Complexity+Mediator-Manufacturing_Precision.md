@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Mediator-Manufacturing_Precision]
 [SpocWebEntityId::26373]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.md|Triz-Complexity+Mediator-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.internal.md|Triz-Complexity+Mediator-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.protect.md|Triz-Complexity+Mediator-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.private.md|Triz-Complexity+Mediator-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.personal.md|Triz-Complexity+Mediator-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.secret.md|Triz-Complexity+Mediator-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.internal|Triz-Complexity+Mediator-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.protect|Triz-Complexity+Mediator-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.private|Triz-Complexity+Mediator-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.personal|Triz-Complexity+Mediator-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.secret|Triz-Complexity+Mediator-Manufacturing_Precision.secret]] 

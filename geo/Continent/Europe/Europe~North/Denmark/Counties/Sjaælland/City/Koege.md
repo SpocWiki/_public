@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Koege.md|Koege]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Koege.internal.md|Koege.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Koege.protect.md|Koege.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Koege.private.md|Koege.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Koege.personal.md|Koege.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Koege.secret.md|Koege.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Koege.internal|Koege.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Koege.protect|Koege.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Koege.private|Koege.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Koege.personal|Koege.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Koege.secret|Koege.secret]] 

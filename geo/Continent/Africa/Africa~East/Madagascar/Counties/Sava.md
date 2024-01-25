@@ -41,9 +41,9 @@ markerFolder: ./Sava/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Sava.md|Sava]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Sava.internal.md|Sava.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Sava.protect.md|Sava.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Sava.private.md|Sava.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Sava.personal.md|Sava.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Sava.secret.md|Sava.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Sava.internal|Sava.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Sava.protect|Sava.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Sava.private|Sava.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Sava.personal|Sava.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Sava.secret|Sava.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Pombal.md|Pombal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Pombal.internal.md|Pombal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Pombal.protect.md|Pombal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Pombal.private.md|Pombal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Pombal.personal.md|Pombal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Pombal.secret.md|Pombal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Pombal.internal|Pombal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Pombal.protect|Pombal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Pombal.private|Pombal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Pombal.personal|Pombal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Pombal.secret|Pombal.secret]] 

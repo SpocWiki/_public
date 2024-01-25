@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Reunion/City/Saint_Denis.md|Saint_Denis]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Reunion/City/Saint_Denis.internal.md|Saint_Denis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Reunion/City/Saint_Denis.protect.md|Saint_Denis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Reunion/City/Saint_Denis.private.md|Saint_Denis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Reunion/City/Saint_Denis.personal.md|Saint_Denis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Reunion/City/Saint_Denis.secret.md|Saint_Denis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Reunion/City/Saint_Denis.internal|Saint_Denis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Reunion/City/Saint_Denis.protect|Saint_Denis.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Reunion/City/Saint_Denis.private|Saint_Denis.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Reunion/City/Saint_Denis.personal|Saint_Denis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Reunion/City/Saint_Denis.secret|Saint_Denis.secret]] 

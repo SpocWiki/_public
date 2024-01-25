@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wishaw.md|Wishaw]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wishaw.internal.md|Wishaw.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wishaw.protect.md|Wishaw.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wishaw.private.md|Wishaw.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wishaw.personal.md|Wishaw.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wishaw.secret.md|Wishaw.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wishaw.internal|Wishaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wishaw.protect|Wishaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wishaw.private|Wishaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wishaw.personal|Wishaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wishaw.secret|Wishaw.secret]] 

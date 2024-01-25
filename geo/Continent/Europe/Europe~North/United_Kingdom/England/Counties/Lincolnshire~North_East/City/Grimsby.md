@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Grimsby.md|Grimsby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Grimsby.internal.md|Grimsby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Grimsby.protect.md|Grimsby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Grimsby.private.md|Grimsby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Grimsby.personal.md|Grimsby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Grimsby.secret.md|Grimsby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Grimsby.internal|Grimsby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Grimsby.protect|Grimsby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Grimsby.private|Grimsby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Grimsby.personal|Grimsby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Grimsby.secret|Grimsby.secret]] 

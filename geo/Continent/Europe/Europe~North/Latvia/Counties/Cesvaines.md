@@ -41,9 +41,9 @@ markerFolder: ./Cesvaines/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Cesvaines.md|Cesvaines]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Cesvaines.internal.md|Cesvaines.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Cesvaines.protect.md|Cesvaines.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Cesvaines.private.md|Cesvaines.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Cesvaines.personal.md|Cesvaines.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Cesvaines.secret.md|Cesvaines.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Cesvaines.internal|Cesvaines.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Cesvaines.protect|Cesvaines.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Cesvaines.private|Cesvaines.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Cesvaines.personal|Cesvaines.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Cesvaines.secret|Cesvaines.secret]] 
 

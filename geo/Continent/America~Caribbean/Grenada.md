@@ -133,8 +133,8 @@ markerFolder: ./Grenada/
 
 ## Confidential Links & Embeds: 
 - [[Grenada|Grenada]] 
-- [[../../../../_internal/geo/Continent/South-America/Grenada.internal.md|Grenada.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Grenada.protect.md|Grenada.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Grenada.private.md|Grenada.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Grenada.personal.md|Grenada.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Grenada.secret.md|Grenada.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Grenada.internal|Grenada.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Grenada.protect|Grenada.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Grenada.private|Grenada.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Grenada.personal|Grenada.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Grenada.secret|Grenada.secret]] 

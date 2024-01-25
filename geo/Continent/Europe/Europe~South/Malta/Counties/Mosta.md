@@ -41,9 +41,9 @@ markerFolder: ./Mosta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Mosta.md|Mosta]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mosta.internal.md|Mosta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mosta.protect.md|Mosta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mosta.private.md|Mosta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mosta.personal.md|Mosta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mosta.secret.md|Mosta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mosta.internal|Mosta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mosta.protect|Mosta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mosta.private|Mosta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mosta.personal|Mosta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mosta.secret|Mosta.secret]] 
 

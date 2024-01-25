@@ -41,9 +41,9 @@ markerFolder: ./Taraba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Taraba.md|Taraba]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Taraba.internal.md|Taraba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Taraba.protect.md|Taraba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Taraba.private.md|Taraba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Taraba.personal.md|Taraba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Taraba.secret.md|Taraba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Taraba.internal|Taraba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Taraba.protect|Taraba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Taraba.private|Taraba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Taraba.personal|Taraba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Taraba.secret|Taraba.secret]] 
 

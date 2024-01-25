@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Coimbra.md|Coimbra]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Coimbra.internal.md|Coimbra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Coimbra.protect.md|Coimbra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Coimbra.private.md|Coimbra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Coimbra.personal.md|Coimbra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Coimbra.secret.md|Coimbra.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Coimbra.internal|Coimbra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Coimbra.protect|Coimbra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Coimbra.private|Coimbra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Coimbra.personal|Coimbra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Coimbra.secret|Coimbra.secret]] 

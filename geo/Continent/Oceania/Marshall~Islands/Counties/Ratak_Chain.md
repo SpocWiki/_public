@@ -41,9 +41,9 @@ markerFolder: ./Ratak_Chain/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.md|Ratak_Chain]] 
-- [[../../../../_internal/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.internal.md|Ratak_Chain.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.protect.md|Ratak_Chain.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.private.md|Ratak_Chain.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.personal.md|Ratak_Chain.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.secret.md|Ratak_Chain.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.internal|Ratak_Chain.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.protect|Ratak_Chain.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.private|Ratak_Chain.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.personal|Ratak_Chain.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Marshall~Islands/Counties/Ratak_Chain.secret|Ratak_Chain.secret]] 
 

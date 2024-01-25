@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Universality-stationary_Volume]
 [SpocWebEntityId::24248]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.md|Triz-Temperature+Universality-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.internal.md|Triz-Temperature+Universality-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.protect.md|Triz-Temperature+Universality-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.private.md|Triz-Temperature+Universality-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.personal.md|Triz-Temperature+Universality-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.secret.md|Triz-Temperature+Universality-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.internal|Triz-Temperature+Universality-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.protect|Triz-Temperature+Universality-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.private|Triz-Temperature+Universality-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.personal|Triz-Temperature+Universality-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Universality-stationary_Volume.secret|Triz-Temperature+Universality-stationary_Volume.secret]] 

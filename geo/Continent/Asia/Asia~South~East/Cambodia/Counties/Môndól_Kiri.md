@@ -41,9 +41,9 @@ markerFolder: ./Môndól_Kiri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.md|Môndól_Kiri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.internal.md|Môndól_Kiri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.protect.md|Môndól_Kiri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.private.md|Môndól_Kiri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.personal.md|Môndól_Kiri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.secret.md|Môndól_Kiri.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.internal|Môndól_Kiri.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.protect|Môndól_Kiri.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.private|Môndól_Kiri.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.personal|Môndól_Kiri.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Môndól_Kiri.secret|Môndól_Kiri.secret]] 
 

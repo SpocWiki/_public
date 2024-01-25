@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Furnes.md|Furnes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Furnes.internal.md|Furnes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Furnes.protect.md|Furnes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Furnes.private.md|Furnes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Furnes.personal.md|Furnes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Furnes.secret.md|Furnes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Furnes.internal|Furnes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Furnes.protect|Furnes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Furnes.private|Furnes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Furnes.personal|Furnes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Furnes.secret|Furnes.secret]] 

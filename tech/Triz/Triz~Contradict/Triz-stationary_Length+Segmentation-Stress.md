@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Segmentation-Stress]
 [SpocWebEntityId::22931]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.md|Triz-stationary_Length+Segmentation-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.internal.md|Triz-stationary_Length+Segmentation-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.protect.md|Triz-stationary_Length+Segmentation-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.private.md|Triz-stationary_Length+Segmentation-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.personal.md|Triz-stationary_Length+Segmentation-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.secret.md|Triz-stationary_Length+Segmentation-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.internal|Triz-stationary_Length+Segmentation-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.protect|Triz-stationary_Length+Segmentation-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.private|Triz-stationary_Length+Segmentation-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.personal|Triz-stationary_Length+Segmentation-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.secret|Triz-stationary_Length+Segmentation-Stress.secret]] 

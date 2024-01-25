@@ -41,9 +41,9 @@ markerFolder: ./Isles_of_Scilly/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.md|Isles_of_Scilly]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.internal.md|Isles_of_Scilly.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.protect.md|Isles_of_Scilly.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.private.md|Isles_of_Scilly.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.personal.md|Isles_of_Scilly.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.secret.md|Isles_of_Scilly.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.internal|Isles_of_Scilly.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.protect|Isles_of_Scilly.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.private|Isles_of_Scilly.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.personal|Isles_of_Scilly.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Isles_of_Scilly.secret|Isles_of_Scilly.secret]] 
 

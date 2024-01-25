@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Castellaneta.md|Castellaneta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Castellaneta.internal.md|Castellaneta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Castellaneta.protect.md|Castellaneta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Castellaneta.private.md|Castellaneta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Castellaneta.personal.md|Castellaneta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Castellaneta.secret.md|Castellaneta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Castellaneta.internal|Castellaneta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Castellaneta.protect|Castellaneta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Castellaneta.private|Castellaneta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Castellaneta.personal|Castellaneta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Castellaneta.secret|Castellaneta.secret]] 

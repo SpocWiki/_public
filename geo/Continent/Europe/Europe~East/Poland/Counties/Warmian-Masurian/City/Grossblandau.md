@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Grossblandau.md|Grossblandau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grossblandau.internal.md|Grossblandau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grossblandau.protect.md|Grossblandau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grossblandau.private.md|Grossblandau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grossblandau.personal.md|Grossblandau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grossblandau.secret.md|Grossblandau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grossblandau.internal|Grossblandau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grossblandau.protect|Grossblandau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grossblandau.private|Grossblandau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grossblandau.personal|Grossblandau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grossblandau.secret|Grossblandau.secret]] 

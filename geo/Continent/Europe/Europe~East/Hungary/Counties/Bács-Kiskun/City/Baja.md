@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Baja.md|Baja]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Baja.internal.md|Baja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Baja.protect.md|Baja.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Baja.private.md|Baja.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Baja.personal.md|Baja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Baja.secret.md|Baja.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Baja.internal|Baja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Baja.protect|Baja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Baja.private|Baja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Baja.personal|Baja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Baja.secret|Baja.secret]] 

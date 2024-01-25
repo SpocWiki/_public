@@ -41,9 +41,9 @@ markerFolder: ./Rivers~Nova_Scotia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.md|Rivers~Nova_Scotia]] 
-- [[../../../../_internal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.internal.md|Rivers~Nova_Scotia.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.protect.md|Rivers~Nova_Scotia.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.private.md|Rivers~Nova_Scotia.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.personal.md|Rivers~Nova_Scotia.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.secret.md|Rivers~Nova_Scotia.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.internal|Rivers~Nova_Scotia.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.protect|Rivers~Nova_Scotia.protect]] 
+- [[../../../../_private/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.private|Rivers~Nova_Scotia.private]] 
+- [[../../../../_personal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.personal|Rivers~Nova_Scotia.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.secret|Rivers~Nova_Scotia.secret]] 
 

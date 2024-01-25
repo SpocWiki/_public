@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Irkeschtam.md|Irkeschtam]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Irkeschtam.internal.md|Irkeschtam.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Irkeschtam.protect.md|Irkeschtam.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Irkeschtam.private.md|Irkeschtam.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Irkeschtam.personal.md|Irkeschtam.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Irkeschtam.secret.md|Irkeschtam.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Irkeschtam.internal|Irkeschtam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Irkeschtam.protect|Irkeschtam.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Irkeschtam.private|Irkeschtam.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Irkeschtam.personal|Irkeschtam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Irkeschtam.secret|Irkeschtam.secret]] 

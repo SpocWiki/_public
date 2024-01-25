@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Panemunis.md|Panemunis]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Panemunis.internal.md|Panemunis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Panemunis.protect.md|Panemunis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Panemunis.private.md|Panemunis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Panemunis.personal.md|Panemunis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Panemunis.secret.md|Panemunis.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Panemunis.internal|Panemunis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Panemunis.protect|Panemunis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Panemunis.private|Panemunis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Panemunis.personal|Panemunis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Panemunis.secret|Panemunis.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ticino/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.md|Ticino]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.internal.md|Ticino.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.protect.md|Ticino.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.private.md|Ticino.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.personal.md|Ticino.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.secret.md|Ticino.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.internal|Ticino.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.protect|Ticino.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.private|Ticino.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.personal|Ticino.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Ticino.secret|Ticino.secret]] 
 

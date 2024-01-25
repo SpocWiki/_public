@@ -41,9 +41,9 @@ markerFolder: ./Département~Aisne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.md|Département~Aisne]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.internal.md|Département~Aisne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.protect.md|Département~Aisne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.private.md|Département~Aisne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.personal.md|Département~Aisne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.secret.md|Département~Aisne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.internal|Département~Aisne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.protect|Département~Aisne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.private|Département~Aisne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.personal|Département~Aisne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Aisne.secret|Département~Aisne.secret]] 
 

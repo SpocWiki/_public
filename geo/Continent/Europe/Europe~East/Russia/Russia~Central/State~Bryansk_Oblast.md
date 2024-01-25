@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Bryansk_Oblast|State~Bryansk_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.internal|State~Bryansk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.protect.md|State~Bryansk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.private.md|State~Bryansk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.personal.md|State~Bryansk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.secret.md|State~Bryansk_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.protect|State~Bryansk_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.private|State~Bryansk_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.personal|State~Bryansk_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.secret|State~Bryansk_Oblast.secret]] 

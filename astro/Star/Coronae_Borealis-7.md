@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Coronae_Borealis-7.md|Coronae_Borealis-7]] 
-- [[../../../_internal/astro/Star/Coronae_Borealis-7.internal.md|Coronae_Borealis-7.internal]] 
-- [[../../../_protect/astro/Star/Coronae_Borealis-7.protect.md|Coronae_Borealis-7.protect]] 
-- [[../../../_private/astro/Star/Coronae_Borealis-7.private.md|Coronae_Borealis-7.private]] 
-- [[../../../_personal/astro/Star/Coronae_Borealis-7.personal.md|Coronae_Borealis-7.personal]] 
-- [[../../../_secret/astro/Star/Coronae_Borealis-7.secret.md|Coronae_Borealis-7.secret]]
+- [[../../../_internal/astro/Star/Coronae_Borealis-7.internal|Coronae_Borealis-7.internal]] 
+- [[../../../_protect/astro/Star/Coronae_Borealis-7.protect|Coronae_Borealis-7.protect]] 
+- [[../../../_private/astro/Star/Coronae_Borealis-7.private|Coronae_Borealis-7.private]] 
+- [[../../../_personal/astro/Star/Coronae_Borealis-7.personal|Coronae_Borealis-7.personal]] 
+- [[../../../_secret/astro/Star/Coronae_Borealis-7.secret|Coronae_Borealis-7.secret]]
 

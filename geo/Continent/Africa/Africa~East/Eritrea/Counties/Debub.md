@@ -41,9 +41,9 @@ markerFolder: ./Debub/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Eritrea/Counties/Debub.md|Debub]] 
-- [[../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Debub.internal.md|Debub.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Debub.protect.md|Debub.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Eritrea/Counties/Debub.private.md|Debub.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Debub.personal.md|Debub.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Debub.secret.md|Debub.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Debub.internal|Debub.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Debub.protect|Debub.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Eritrea/Counties/Debub.private|Debub.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Debub.personal|Debub.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Debub.secret|Debub.secret]] 
 

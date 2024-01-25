@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kulmberg.md|Kulmberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kulmberg.internal.md|Kulmberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kulmberg.protect.md|Kulmberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kulmberg.private.md|Kulmberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kulmberg.personal.md|Kulmberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kulmberg.secret.md|Kulmberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kulmberg.internal|Kulmberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kulmberg.protect|Kulmberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kulmberg.private|Kulmberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kulmberg.personal|Kulmberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kulmberg.secret|Kulmberg.secret]] 

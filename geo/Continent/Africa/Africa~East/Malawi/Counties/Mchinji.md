@@ -41,9 +41,9 @@ markerFolder: ./Mchinji/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Mchinji.md|Mchinji]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mchinji.internal.md|Mchinji.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mchinji.protect.md|Mchinji.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mchinji.private.md|Mchinji.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mchinji.personal.md|Mchinji.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mchinji.secret.md|Mchinji.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mchinji.internal|Mchinji.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mchinji.protect|Mchinji.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mchinji.private|Mchinji.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mchinji.personal|Mchinji.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mchinji.secret|Mchinji.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Khenchela/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Khenchela.md|Khenchela]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Khenchela.internal.md|Khenchela.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Khenchela.protect.md|Khenchela.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Khenchela.private.md|Khenchela.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Khenchela.personal.md|Khenchela.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Khenchela.secret.md|Khenchela.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Khenchela.internal|Khenchela.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Khenchela.protect|Khenchela.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Khenchela.private|Khenchela.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Khenchela.personal|Khenchela.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Khenchela.secret|Khenchela.secret]] 
 

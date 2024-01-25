@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Cognac.md|Cognac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Cognac.internal.md|Cognac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Cognac.protect.md|Cognac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Cognac.private.md|Cognac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Cognac.personal.md|Cognac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Cognac.secret.md|Cognac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Cognac.internal|Cognac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Cognac.protect|Cognac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Cognac.private|Cognac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Cognac.personal|Cognac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Cognac.secret|Cognac.secret]] 

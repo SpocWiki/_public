@@ -41,9 +41,9 @@ markerFolder: ./Bizkaia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.md|Bizkaia]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.internal.md|Bizkaia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.protect.md|Bizkaia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.private.md|Bizkaia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.personal.md|Bizkaia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.secret.md|Bizkaia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.internal|Bizkaia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.protect|Bizkaia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.private|Bizkaia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.personal|Bizkaia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Basque/Bizkaia.secret|Bizkaia.secret]] 
 

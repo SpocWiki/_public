@@ -41,9 +41,9 @@ markerFolder: ./Groningen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Groningen.md|Groningen]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Groningen.internal.md|Groningen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Groningen.protect.md|Groningen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Groningen.private.md|Groningen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Groningen.personal.md|Groningen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Groningen.secret.md|Groningen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Groningen.internal|Groningen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Groningen.protect|Groningen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Groningen.private|Groningen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Groningen.personal|Groningen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Groningen.secret|Groningen.secret]] 
 

@@ -40,7 +40,7 @@ markerFolder: ./Vietnam~South/
 ## Confidential Links & Embeds: 
 -[[Vietnam~South|Vietnam~South]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Vietnam~South.internal|Vietnam~South.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Vietnam~South.protect.md|Vietnam~South.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Vietnam~South.private.md|Vietnam~South.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Vietnam~South.personal.md|Vietnam~South.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Vietnam~South.secret.md|Vietnam~South.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Vietnam~South.protect|Vietnam~South.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Vietnam~South.private|Vietnam~South.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Vietnam~South.personal|Vietnam~South.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Vietnam~South.secret|Vietnam~South.secret]] 

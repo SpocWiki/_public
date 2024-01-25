@@ -41,9 +41,9 @@ markerFolder: ./Rotherham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.md|Rotherham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.internal.md|Rotherham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.protect.md|Rotherham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.private.md|Rotherham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.personal.md|Rotherham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.secret.md|Rotherham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.internal|Rotherham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.protect|Rotherham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.private|Rotherham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.personal|Rotherham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.secret|Rotherham.secret]] 
 

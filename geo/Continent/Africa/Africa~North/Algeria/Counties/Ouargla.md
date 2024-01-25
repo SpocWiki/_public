@@ -41,9 +41,9 @@ markerFolder: ./Ouargla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Ouargla.md|Ouargla]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Ouargla.internal.md|Ouargla.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Ouargla.protect.md|Ouargla.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Ouargla.private.md|Ouargla.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Ouargla.personal.md|Ouargla.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Ouargla.secret.md|Ouargla.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Ouargla.internal|Ouargla.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Ouargla.protect|Ouargla.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Ouargla.private|Ouargla.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Ouargla.personal|Ouargla.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Ouargla.secret|Ouargla.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Lavaur.md|Lavaur]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lavaur.internal.md|Lavaur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lavaur.protect.md|Lavaur.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Lavaur.private.md|Lavaur.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lavaur.personal.md|Lavaur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lavaur.secret.md|Lavaur.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lavaur.internal|Lavaur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lavaur.protect|Lavaur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lavaur.private|Lavaur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lavaur.personal|Lavaur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lavaur.secret|Lavaur.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zeimeliai.md|Zeimeliai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zeimeliai.internal.md|Zeimeliai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zeimeliai.protect.md|Zeimeliai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zeimeliai.private.md|Zeimeliai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zeimeliai.personal.md|Zeimeliai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zeimeliai.secret.md|Zeimeliai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zeimeliai.internal|Zeimeliai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zeimeliai.protect|Zeimeliai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zeimeliai.private|Zeimeliai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zeimeliai.personal|Zeimeliai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zeimeliai.secret|Zeimeliai.secret]] 

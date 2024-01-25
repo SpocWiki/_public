@@ -41,9 +41,9 @@ markerFolder: ./Sind/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.md|Sind]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.internal.md|Sind.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.protect.md|Sind.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.private.md|Sind.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.personal.md|Sind.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.secret.md|Sind.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.internal|Sind.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.protect|Sind.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.private|Sind.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.personal|Sind.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.secret|Sind.secret]] 
 

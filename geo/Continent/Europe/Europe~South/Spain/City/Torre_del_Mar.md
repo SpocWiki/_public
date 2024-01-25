@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Torre_del_Mar.md|Torre_del_Mar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Torre_del_Mar.internal.md|Torre_del_Mar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Torre_del_Mar.protect.md|Torre_del_Mar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Torre_del_Mar.private.md|Torre_del_Mar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Torre_del_Mar.personal.md|Torre_del_Mar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Torre_del_Mar.secret.md|Torre_del_Mar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Torre_del_Mar.internal|Torre_del_Mar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Torre_del_Mar.protect|Torre_del_Mar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Torre_del_Mar.private|Torre_del_Mar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Torre_del_Mar.personal|Torre_del_Mar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Torre_del_Mar.secret|Torre_del_Mar.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Sefton/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.md|Sefton]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.internal.md|Sefton.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.protect.md|Sefton.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.private.md|Sefton.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.personal.md|Sefton.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.secret.md|Sefton.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.internal|Sefton.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.protect|Sefton.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.private|Sefton.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.personal|Sefton.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.secret|Sefton.secret]] 
 

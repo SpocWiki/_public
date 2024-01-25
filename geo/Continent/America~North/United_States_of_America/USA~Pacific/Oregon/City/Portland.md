@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.md|Portland]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.internal.md|Portland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.protect.md|Portland.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.private.md|Portland.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.personal.md|Portland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.secret.md|Portland.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.internal|Portland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.protect|Portland.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.private|Portland.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.personal|Portland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.secret|Portland.secret]] 

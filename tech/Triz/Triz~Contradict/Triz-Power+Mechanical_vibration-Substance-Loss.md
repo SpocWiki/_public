@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Mechanical_vibration-Substance-Loss]
 [SpocWebEntityId::24647]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.md|Triz-Power+Mechanical_vibration-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.internal.md|Triz-Power+Mechanical_vibration-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.protect.md|Triz-Power+Mechanical_vibration-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.private.md|Triz-Power+Mechanical_vibration-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.personal.md|Triz-Power+Mechanical_vibration-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.secret.md|Triz-Power+Mechanical_vibration-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.internal|Triz-Power+Mechanical_vibration-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.protect|Triz-Power+Mechanical_vibration-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.private|Triz-Power+Mechanical_vibration-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.personal|Triz-Power+Mechanical_vibration-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.secret|Triz-Power+Mechanical_vibration-Substance-Loss.secret]] 

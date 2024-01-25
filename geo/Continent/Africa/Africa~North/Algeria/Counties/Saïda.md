@@ -41,9 +41,9 @@ markerFolder: ./Saïda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Saïda.md|Saïda]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Saïda.internal.md|Saïda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Saïda.protect.md|Saïda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Saïda.private.md|Saïda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Saïda.personal.md|Saïda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Saïda.secret.md|Saïda.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Saïda.internal|Saïda.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Saïda.protect|Saïda.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Saïda.private|Saïda.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Saïda.personal|Saïda.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Saïda.secret|Saïda.secret]] 
 

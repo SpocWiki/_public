@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility]
 [SpocWebEntityId::25099]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret]] 

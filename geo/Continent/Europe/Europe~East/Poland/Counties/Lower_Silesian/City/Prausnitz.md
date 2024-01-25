@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Prausnitz.md|Prausnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Prausnitz.internal.md|Prausnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Prausnitz.protect.md|Prausnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Prausnitz.private.md|Prausnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Prausnitz.personal.md|Prausnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Prausnitz.secret.md|Prausnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Prausnitz.internal|Prausnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Prausnitz.protect|Prausnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Prausnitz.private|Prausnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Prausnitz.personal|Prausnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Prausnitz.secret|Prausnitz.secret]] 

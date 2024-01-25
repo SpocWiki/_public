@@ -41,9 +41,9 @@ markerFolder: ./Quinara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.md|Quinara]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.internal.md|Quinara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.protect.md|Quinara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.private.md|Quinara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.personal.md|Quinara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.secret.md|Quinara.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.internal|Quinara.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.protect|Quinara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.private|Quinara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.personal|Quinara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.secret|Quinara.secret]] 
 

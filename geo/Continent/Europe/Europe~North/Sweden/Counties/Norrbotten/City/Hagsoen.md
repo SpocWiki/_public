@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hagsoen.md|Hagsoen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hagsoen.internal.md|Hagsoen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hagsoen.protect.md|Hagsoen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hagsoen.private.md|Hagsoen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hagsoen.personal.md|Hagsoen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hagsoen.secret.md|Hagsoen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hagsoen.internal|Hagsoen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hagsoen.protect|Hagsoen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hagsoen.private|Hagsoen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hagsoen.personal|Hagsoen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hagsoen.secret|Hagsoen.secret]] 

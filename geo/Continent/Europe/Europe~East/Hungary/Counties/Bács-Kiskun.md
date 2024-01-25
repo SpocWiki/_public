@@ -41,9 +41,9 @@ markerFolder: ./Bács-Kiskun/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.md|Bács-Kiskun]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.internal.md|Bács-Kiskun.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.protect.md|Bács-Kiskun.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.private.md|Bács-Kiskun.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.personal.md|Bács-Kiskun.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.secret.md|Bács-Kiskun.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.internal|Bács-Kiskun.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.protect|Bács-Kiskun.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.private|Bács-Kiskun.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.personal|Bács-Kiskun.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Bács-Kiskun.secret|Bács-Kiskun.secret]] 
 

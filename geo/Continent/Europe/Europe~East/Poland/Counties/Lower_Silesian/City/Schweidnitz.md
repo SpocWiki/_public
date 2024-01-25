@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schweidnitz.md|Schweidnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schweidnitz.internal.md|Schweidnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schweidnitz.protect.md|Schweidnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schweidnitz.private.md|Schweidnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schweidnitz.personal.md|Schweidnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schweidnitz.secret.md|Schweidnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schweidnitz.internal|Schweidnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schweidnitz.protect|Schweidnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schweidnitz.private|Schweidnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schweidnitz.personal|Schweidnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schweidnitz.secret|Schweidnitz.secret]] 

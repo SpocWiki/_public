@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Canopus.md|Canopus]] 
-- [[../../../_internal/astro/Star/Canopus.internal.md|Canopus.internal]] 
-- [[../../../_protect/astro/Star/Canopus.protect.md|Canopus.protect]] 
-- [[../../../_private/astro/Star/Canopus.private.md|Canopus.private]] 
-- [[../../../_personal/astro/Star/Canopus.personal.md|Canopus.personal]] 
-- [[../../../_secret/astro/Star/Canopus.secret.md|Canopus.secret]]
+- [[../../../_internal/astro/Star/Canopus.internal|Canopus.internal]] 
+- [[../../../_protect/astro/Star/Canopus.protect|Canopus.protect]] 
+- [[../../../_private/astro/Star/Canopus.private|Canopus.private]] 
+- [[../../../_personal/astro/Star/Canopus.personal|Canopus.personal]] 
+- [[../../../_secret/astro/Star/Canopus.secret|Canopus.secret]]
 

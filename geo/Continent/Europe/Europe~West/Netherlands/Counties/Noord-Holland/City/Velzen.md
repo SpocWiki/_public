@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Velzen.md|Velzen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Velzen.internal.md|Velzen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Velzen.protect.md|Velzen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Velzen.private.md|Velzen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Velzen.personal.md|Velzen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Velzen.secret.md|Velzen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Velzen.internal|Velzen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Velzen.protect|Velzen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Velzen.private|Velzen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Velzen.personal|Velzen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Velzen.secret|Velzen.secret]] 

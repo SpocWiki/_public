@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Neukirch_bei_Furtwangen|Neukirch_bei_Furtwangen]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.internal.md|Neukirch_bei_Furtwangen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.protect.md|Neukirch_bei_Furtwangen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.private.md|Neukirch_bei_Furtwangen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.personal.md|Neukirch_bei_Furtwangen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.secret.md|Neukirch_bei_Furtwangen.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.internal|Neukirch_bei_Furtwangen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.protect|Neukirch_bei_Furtwangen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.private|Neukirch_bei_Furtwangen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.personal|Neukirch_bei_Furtwangen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.secret|Neukirch_bei_Furtwangen.secret]] 

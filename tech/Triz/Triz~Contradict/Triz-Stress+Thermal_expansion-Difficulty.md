@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Thermal_expansion-Difficulty]
 [SpocWebEntityId::23702]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.md|Triz-Stress+Thermal_expansion-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.internal.md|Triz-Stress+Thermal_expansion-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.protect.md|Triz-Stress+Thermal_expansion-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.private.md|Triz-Stress+Thermal_expansion-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.personal.md|Triz-Stress+Thermal_expansion-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.secret.md|Triz-Stress+Thermal_expansion-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.internal|Triz-Stress+Thermal_expansion-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.protect|Triz-Stress+Thermal_expansion-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.private|Triz-Stress+Thermal_expansion-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.personal|Triz-Stress+Thermal_expansion-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Difficulty.secret|Triz-Stress+Thermal_expansion-Difficulty.secret]] 

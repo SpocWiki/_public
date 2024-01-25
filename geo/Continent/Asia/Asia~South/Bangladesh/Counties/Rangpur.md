@@ -41,9 +41,9 @@ markerFolder: ./Rangpur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.md|Rangpur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.internal.md|Rangpur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.protect.md|Rangpur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.private.md|Rangpur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.personal.md|Rangpur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.secret.md|Rangpur.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.internal|Rangpur.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.protect|Rangpur.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.private|Rangpur.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.personal|Rangpur.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rangpur.secret|Rangpur.secret]] 
 

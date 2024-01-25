@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Braunwald.md|Braunwald]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Braunwald.internal.md|Braunwald.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Braunwald.protect.md|Braunwald.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Braunwald.private.md|Braunwald.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Braunwald.personal.md|Braunwald.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Braunwald.secret.md|Braunwald.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Braunwald.internal|Braunwald.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Braunwald.protect|Braunwald.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Braunwald.private|Braunwald.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Braunwald.personal|Braunwald.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Braunwald.secret|Braunwald.secret]] 

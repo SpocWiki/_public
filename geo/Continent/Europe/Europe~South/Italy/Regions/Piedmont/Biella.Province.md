@@ -41,9 +41,9 @@ markerFolder: ./Biella.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.md|Biella.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.internal.md|Biella.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.protect.md|Biella.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.private.md|Biella.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.personal.md|Biella.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.secret.md|Biella.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.internal|Biella.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.protect|Biella.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.private|Biella.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.personal|Biella.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Biella.Province.secret|Biella.Province.secret]] 
 

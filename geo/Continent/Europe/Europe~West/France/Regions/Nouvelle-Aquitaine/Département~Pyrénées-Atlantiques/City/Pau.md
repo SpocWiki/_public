@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Pau.md|Pau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pau.internal.md|Pau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pau.protect.md|Pau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Pau.private.md|Pau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pau.personal.md|Pau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pau.secret.md|Pau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pau.internal|Pau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pau.protect|Pau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Pau.private|Pau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pau.personal|Pau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pau.secret|Pau.secret]] 

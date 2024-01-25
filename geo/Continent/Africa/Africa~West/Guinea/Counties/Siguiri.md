@@ -41,9 +41,9 @@ markerFolder: ./Siguiri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Siguiri.md|Siguiri]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Siguiri.internal.md|Siguiri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Siguiri.protect.md|Siguiri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Siguiri.private.md|Siguiri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Siguiri.personal.md|Siguiri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Siguiri.secret.md|Siguiri.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Siguiri.internal|Siguiri.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Siguiri.protect|Siguiri.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Siguiri.private|Siguiri.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Siguiri.personal|Siguiri.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Siguiri.secret|Siguiri.secret]] 
 

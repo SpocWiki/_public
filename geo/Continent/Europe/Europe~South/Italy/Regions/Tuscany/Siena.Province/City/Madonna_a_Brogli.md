@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.md|Madonna_a_Brogli]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.internal.md|Madonna_a_Brogli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.protect.md|Madonna_a_Brogli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.private.md|Madonna_a_Brogli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.personal.md|Madonna_a_Brogli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.secret.md|Madonna_a_Brogli.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.internal|Madonna_a_Brogli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.protect|Madonna_a_Brogli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.private|Madonna_a_Brogli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.personal|Madonna_a_Brogli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Madonna_a_Brogli.secret|Madonna_a_Brogli.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Saga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.md|Saga]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.internal.md|Saga.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.protect.md|Saga.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.private.md|Saga.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.personal.md|Saga.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.secret.md|Saga.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.internal|Saga.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.protect|Saga.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.private|Saga.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.personal|Saga.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.secret|Saga.secret]] 
 

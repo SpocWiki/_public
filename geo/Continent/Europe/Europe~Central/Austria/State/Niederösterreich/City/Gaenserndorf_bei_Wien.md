@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.md|Gaenserndorf_bei_Wien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.internal.md|Gaenserndorf_bei_Wien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.protect.md|Gaenserndorf_bei_Wien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.private.md|Gaenserndorf_bei_Wien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.personal.md|Gaenserndorf_bei_Wien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.secret.md|Gaenserndorf_bei_Wien.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.internal|Gaenserndorf_bei_Wien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.protect|Gaenserndorf_bei_Wien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.private|Gaenserndorf_bei_Wien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.personal|Gaenserndorf_bei_Wien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.secret|Gaenserndorf_bei_Wien.secret]] 

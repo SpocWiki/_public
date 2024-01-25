@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Vesoul.md|Vesoul]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vesoul.internal.md|Vesoul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vesoul.protect.md|Vesoul.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Vesoul.private.md|Vesoul.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vesoul.personal.md|Vesoul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vesoul.secret.md|Vesoul.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vesoul.internal|Vesoul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vesoul.protect|Vesoul.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Vesoul.private|Vesoul.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vesoul.personal|Vesoul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vesoul.secret|Vesoul.secret]] 

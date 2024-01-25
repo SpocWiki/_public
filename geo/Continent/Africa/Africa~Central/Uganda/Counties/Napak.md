@@ -41,9 +41,9 @@ markerFolder: ./Napak/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Napak.md|Napak]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Napak.internal.md|Napak.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Napak.protect.md|Napak.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Napak.private.md|Napak.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Napak.personal.md|Napak.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Napak.secret.md|Napak.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Napak.internal|Napak.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Napak.protect|Napak.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Napak.private|Napak.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Napak.personal|Napak.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Napak.secret|Napak.secret]] 
 

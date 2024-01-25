@@ -41,9 +41,9 @@ markerFolder: ./Portsmouth/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.md|Portsmouth]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.internal.md|Portsmouth.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.protect.md|Portsmouth.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.private.md|Portsmouth.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.personal.md|Portsmouth.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.secret.md|Portsmouth.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.internal|Portsmouth.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.protect|Portsmouth.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.private|Portsmouth.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.personal|Portsmouth.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.secret|Portsmouth.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.md|Cattaro=Kotor]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.internal.md|Cattaro=Kotor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.protect.md|Cattaro=Kotor.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.private.md|Cattaro=Kotor.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.personal.md|Cattaro=Kotor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.secret.md|Cattaro=Kotor.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.internal|Cattaro=Kotor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.protect|Cattaro=Kotor.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.private|Cattaro=Kotor.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.personal|Cattaro=Kotor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cattaro=Kotor.secret|Cattaro=Kotor.secret]] 

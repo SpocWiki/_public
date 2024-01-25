@@ -41,9 +41,9 @@ markerFolder: ./Kayanza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Kayanza.md|Kayanza]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Kayanza.internal.md|Kayanza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Kayanza.protect.md|Kayanza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Kayanza.private.md|Kayanza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Kayanza.personal.md|Kayanza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Kayanza.secret.md|Kayanza.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Kayanza.internal|Kayanza.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Kayanza.protect|Kayanza.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Kayanza.private|Kayanza.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Kayanza.personal|Kayanza.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Kayanza.secret|Kayanza.secret]] 
 

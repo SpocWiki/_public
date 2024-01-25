@@ -41,9 +41,9 @@ markerFolder: ./Potenza.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.md|Potenza.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.internal.md|Potenza.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.protect.md|Potenza.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.private.md|Potenza.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.personal.md|Potenza.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.secret.md|Potenza.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.internal|Potenza.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.protect|Potenza.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.private|Potenza.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.personal|Potenza.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Basilicata/Potenza.Province.secret|Potenza.Province.secret]] 
 

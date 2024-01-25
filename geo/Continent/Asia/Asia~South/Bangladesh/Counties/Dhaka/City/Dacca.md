@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Bangladesh/City/Dacca.md|Dacca]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Bangladesh/City/Dacca.internal.md|Dacca.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Bangladesh/City/Dacca.protect.md|Dacca.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Bangladesh/City/Dacca.private.md|Dacca.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Bangladesh/City/Dacca.personal.md|Dacca.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Bangladesh/City/Dacca.secret.md|Dacca.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Bangladesh/City/Dacca.internal|Dacca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Bangladesh/City/Dacca.protect|Dacca.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Bangladesh/City/Dacca.private|Dacca.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Bangladesh/City/Dacca.personal|Dacca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Bangladesh/City/Dacca.secret|Dacca.secret]] 

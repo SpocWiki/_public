@@ -41,9 +41,9 @@ markerFolder: ./Koprivničko-Križevačka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.md|Koprivničko-Križevačka]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.internal.md|Koprivničko-Križevačka.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.protect.md|Koprivničko-Križevačka.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.private.md|Koprivničko-Križevačka.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.personal.md|Koprivničko-Križevačka.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.secret.md|Koprivničko-Križevačka.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.internal|Koprivničko-Križevačka.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.protect|Koprivničko-Križevačka.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.private|Koprivničko-Križevačka.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.personal|Koprivničko-Križevačka.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Koprivničko-Križevačka.secret|Koprivničko-Križevačka.secret]] 
 

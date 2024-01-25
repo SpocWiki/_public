@@ -41,9 +41,9 @@ markerFolder: ./Madre_de_Dios/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.md|Madre_de_Dios]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.internal.md|Madre_de_Dios.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.protect.md|Madre_de_Dios.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.private.md|Madre_de_Dios.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.personal.md|Madre_de_Dios.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.secret.md|Madre_de_Dios.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.internal|Madre_de_Dios.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.protect|Madre_de_Dios.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.private|Madre_de_Dios.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.personal|Madre_de_Dios.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Madre_de_Dios.secret|Madre_de_Dios.secret]] 
 

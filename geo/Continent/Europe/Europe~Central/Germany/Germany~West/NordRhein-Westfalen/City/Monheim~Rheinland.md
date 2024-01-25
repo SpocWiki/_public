@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Monheim~Rheinland|Monheim~Rheinland]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.internal.md|Monheim~Rheinland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.protect.md|Monheim~Rheinland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.private.md|Monheim~Rheinland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.personal.md|Monheim~Rheinland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.secret.md|Monheim~Rheinland.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.internal|Monheim~Rheinland.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.protect|Monheim~Rheinland.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.private|Monheim~Rheinland.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.personal|Monheim~Rheinland.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Monheim~Rheinland.secret|Monheim~Rheinland.secret]] 

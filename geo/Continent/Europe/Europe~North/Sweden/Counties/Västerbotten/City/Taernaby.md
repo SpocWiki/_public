@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Taernaby.md|Taernaby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Taernaby.internal.md|Taernaby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Taernaby.protect.md|Taernaby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Taernaby.private.md|Taernaby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Taernaby.personal.md|Taernaby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Taernaby.secret.md|Taernaby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Taernaby.internal|Taernaby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Taernaby.protect|Taernaby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Taernaby.private|Taernaby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Taernaby.personal|Taernaby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Taernaby.secret|Taernaby.secret]] 

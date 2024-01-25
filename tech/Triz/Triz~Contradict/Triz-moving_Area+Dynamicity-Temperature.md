@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Dynamicity-Temperature]
 [SpocWebEntityId::23032]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.md|Triz-moving_Area+Dynamicity-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.internal.md|Triz-moving_Area+Dynamicity-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.protect.md|Triz-moving_Area+Dynamicity-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.private.md|Triz-moving_Area+Dynamicity-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.personal.md|Triz-moving_Area+Dynamicity-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.secret.md|Triz-moving_Area+Dynamicity-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.internal|Triz-moving_Area+Dynamicity-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.protect|Triz-moving_Area+Dynamicity-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.private|Triz-moving_Area+Dynamicity-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.personal|Triz-moving_Area+Dynamicity-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Dynamicity-Temperature.secret|Triz-moving_Area+Dynamicity-Temperature.secret]] 

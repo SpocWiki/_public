@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.md|Bjaerka-Saby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.internal.md|Bjaerka-Saby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.protect.md|Bjaerka-Saby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.private.md|Bjaerka-Saby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.personal.md|Bjaerka-Saby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.secret.md|Bjaerka-Saby.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.internal|Bjaerka-Saby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.protect|Bjaerka-Saby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.private|Bjaerka-Saby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.personal|Bjaerka-Saby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.secret|Bjaerka-Saby.secret]] 

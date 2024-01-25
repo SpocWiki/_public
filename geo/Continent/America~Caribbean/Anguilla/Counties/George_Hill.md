@@ -41,9 +41,9 @@ markerFolder: ./George_Hill/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.md|George_Hill]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.internal.md|George_Hill.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.protect.md|George_Hill.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.private.md|George_Hill.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.personal.md|George_Hill.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.secret.md|George_Hill.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.internal|George_Hill.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.protect|George_Hill.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.private|George_Hill.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.personal|George_Hill.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/George_Hill.secret|George_Hill.secret]] 
 

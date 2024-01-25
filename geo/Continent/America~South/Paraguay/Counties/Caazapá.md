@@ -41,9 +41,9 @@ markerFolder: ./Caazapá/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Caazapá.md|Caazapá]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Caazapá.internal.md|Caazapá.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Caazapá.protect.md|Caazapá.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Caazapá.private.md|Caazapá.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Caazapá.personal.md|Caazapá.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Caazapá.secret.md|Caazapá.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Caazapá.internal|Caazapá.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Caazapá.protect|Caazapá.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Caazapá.private|Caazapá.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Caazapá.personal|Caazapá.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Caazapá.secret|Caazapá.secret]] 
 

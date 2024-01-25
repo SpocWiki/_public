@@ -20,9 +20,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../_public/lang/Lang-bn.md|Lang-bn]] 
-- [[../../_internal/lang/Lang-bn.internal.md|Lang-bn.internal]] 
-- [[../../_protect/lang/Lang-bn.protect.md|Lang-bn.protect]] 
-- [[../../_private/lang/Lang-bn.private.md|Lang-bn.private]] 
-- [[../../_personal/lang/Lang-bn.personal.md|Lang-bn.personal]] 
-- [[../../_secret/lang/Lang-bn.secret.md|Lang-bn.secret]]
+- [[../../_internal/lang/Lang-bn.internal|Lang-bn.internal]] 
+- [[../../_protect/lang/Lang-bn.protect|Lang-bn.protect]] 
+- [[../../_private/lang/Lang-bn.private|Lang-bn.private]] 
+- [[../../_personal/lang/Lang-bn.personal|Lang-bn.personal]] 
+- [[../../_secret/lang/Lang-bn.secret|Lang-bn.secret]]
 

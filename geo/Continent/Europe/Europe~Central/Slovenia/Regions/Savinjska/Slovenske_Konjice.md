@@ -41,9 +41,9 @@ markerFolder: ./Slovenske_Konjice/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.md|Slovenske_Konjice]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.internal.md|Slovenske_Konjice.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.protect.md|Slovenske_Konjice.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.private.md|Slovenske_Konjice.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.personal.md|Slovenske_Konjice.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.secret.md|Slovenske_Konjice.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.internal|Slovenske_Konjice.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.protect|Slovenske_Konjice.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.private|Slovenske_Konjice.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.personal|Slovenske_Konjice.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Slovenske_Konjice.secret|Slovenske_Konjice.secret]] 
 

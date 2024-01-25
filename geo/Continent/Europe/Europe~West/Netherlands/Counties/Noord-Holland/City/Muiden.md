@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Muiden.md|Muiden]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Muiden.internal.md|Muiden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Muiden.protect.md|Muiden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Muiden.private.md|Muiden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Muiden.personal.md|Muiden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Muiden.secret.md|Muiden.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Muiden.internal|Muiden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Muiden.protect|Muiden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Muiden.private|Muiden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Muiden.personal|Muiden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Muiden.secret|Muiden.secret]] 

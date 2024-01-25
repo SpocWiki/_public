@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lorenzdorf.md|Lorenzdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lorenzdorf.internal.md|Lorenzdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lorenzdorf.protect.md|Lorenzdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lorenzdorf.private.md|Lorenzdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lorenzdorf.personal.md|Lorenzdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lorenzdorf.secret.md|Lorenzdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lorenzdorf.internal|Lorenzdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lorenzdorf.protect|Lorenzdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lorenzdorf.private|Lorenzdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lorenzdorf.personal|Lorenzdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lorenzdorf.secret|Lorenzdorf.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Subiaco.md|Subiaco]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Subiaco.internal.md|Subiaco.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Subiaco.protect.md|Subiaco.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Subiaco.private.md|Subiaco.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Subiaco.personal.md|Subiaco.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Subiaco.secret.md|Subiaco.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Subiaco.internal|Subiaco.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Subiaco.protect|Subiaco.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Subiaco.private|Subiaco.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Subiaco.personal|Subiaco.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Subiaco.secret|Subiaco.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Västerbotten/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Västerbotten.md|Västerbotten]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Västerbotten.internal.md|Västerbotten.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Västerbotten.protect.md|Västerbotten.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Västerbotten.private.md|Västerbotten.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Västerbotten.personal.md|Västerbotten.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Västerbotten.secret.md|Västerbotten.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Västerbotten.internal|Västerbotten.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Västerbotten.protect|Västerbotten.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Västerbotten.private|Västerbotten.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Västerbotten.personal|Västerbotten.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Västerbotten.secret|Västerbotten.secret]] 
 

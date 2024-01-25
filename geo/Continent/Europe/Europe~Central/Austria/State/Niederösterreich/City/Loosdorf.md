@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Loosdorf.md|Loosdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Loosdorf.internal.md|Loosdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Loosdorf.protect.md|Loosdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Loosdorf.private.md|Loosdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Loosdorf.personal.md|Loosdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Loosdorf.secret.md|Loosdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Loosdorf.internal|Loosdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Loosdorf.protect|Loosdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Loosdorf.private|Loosdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Loosdorf.personal|Loosdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Loosdorf.secret|Loosdorf.secret]] 

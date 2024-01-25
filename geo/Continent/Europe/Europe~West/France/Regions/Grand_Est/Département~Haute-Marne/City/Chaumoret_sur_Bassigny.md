@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.md|Chaumoret_sur_Bassigny]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.internal.md|Chaumoret_sur_Bassigny.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.protect.md|Chaumoret_sur_Bassigny.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.private.md|Chaumoret_sur_Bassigny.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.personal.md|Chaumoret_sur_Bassigny.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.secret.md|Chaumoret_sur_Bassigny.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.internal|Chaumoret_sur_Bassigny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.protect|Chaumoret_sur_Bassigny.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.private|Chaumoret_sur_Bassigny.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.personal|Chaumoret_sur_Bassigny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.secret|Chaumoret_sur_Bassigny.secret]] 

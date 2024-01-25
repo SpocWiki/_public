@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.md|Malabo]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.internal.md|Malabo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.protect.md|Malabo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.private.md|Malabo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.personal.md|Malabo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.secret.md|Malabo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.internal|Malabo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.protect|Malabo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.private|Malabo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.personal|Malabo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.secret|Malabo.secret]] 

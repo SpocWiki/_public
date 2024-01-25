@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength]
 [SpocWebEntityId::25626]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret]] 

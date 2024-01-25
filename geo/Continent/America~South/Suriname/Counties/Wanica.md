@@ -41,9 +41,9 @@ markerFolder: ./Wanica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Wanica.md|Wanica]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Wanica.internal.md|Wanica.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Wanica.protect.md|Wanica.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Wanica.private.md|Wanica.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Wanica.personal.md|Wanica.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Wanica.secret.md|Wanica.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Wanica.internal|Wanica.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Wanica.protect|Wanica.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Wanica.private|Wanica.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Wanica.personal|Wanica.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Wanica.secret|Wanica.secret]] 
 

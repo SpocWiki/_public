@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Extraction-Versatility]
 [SpocWebEntityId::24331]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.md|Triz-Temperature+Extraction-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.internal.md|Triz-Temperature+Extraction-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.protect.md|Triz-Temperature+Extraction-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.private.md|Triz-Temperature+Extraction-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.personal.md|Triz-Temperature+Extraction-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.secret.md|Triz-Temperature+Extraction-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.internal|Triz-Temperature+Extraction-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.protect|Triz-Temperature+Extraction-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.private|Triz-Temperature+Extraction-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.personal|Triz-Temperature+Extraction-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.secret|Triz-Temperature+Extraction-Versatility.secret]] 

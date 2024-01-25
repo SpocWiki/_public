@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..md|Sotkamo~Kirk.]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..internal.md|Sotkamo~Kirk..internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..protect.md|Sotkamo~Kirk..protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..private.md|Sotkamo~Kirk..private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..personal.md|Sotkamo~Kirk..personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..secret.md|Sotkamo~Kirk..secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..internal|Sotkamo~Kirk..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..protect|Sotkamo~Kirk..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..private|Sotkamo~Kirk..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..personal|Sotkamo~Kirk..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sotkamo~Kirk..secret|Sotkamo~Kirk..secret]] 

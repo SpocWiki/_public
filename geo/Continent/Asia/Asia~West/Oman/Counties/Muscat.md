@@ -41,9 +41,9 @@ markerFolder: ./Muscat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.md|Muscat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.internal.md|Muscat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.protect.md|Muscat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.private.md|Muscat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.personal.md|Muscat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.secret.md|Muscat.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.internal|Muscat.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.protect|Muscat.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.private|Muscat.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.personal|Muscat.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.secret|Muscat.secret]] 
 

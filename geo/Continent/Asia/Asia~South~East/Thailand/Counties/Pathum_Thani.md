@@ -41,9 +41,9 @@ markerFolder: ./Pathum_Thani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.md|Pathum_Thani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.internal.md|Pathum_Thani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.protect.md|Pathum_Thani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.private.md|Pathum_Thani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.personal.md|Pathum_Thani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.secret.md|Pathum_Thani.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.internal|Pathum_Thani.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.protect|Pathum_Thani.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.private|Pathum_Thani.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.personal|Pathum_Thani.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pathum_Thani.secret|Pathum_Thani.secret]] 
 

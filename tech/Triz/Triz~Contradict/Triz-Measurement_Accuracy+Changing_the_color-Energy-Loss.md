@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Changing_the_color-Energy-Loss]
 [SpocWebEntityId::25423]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.md|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.internal.md|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.protect.md|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.private.md|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.personal.md|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.secret.md|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.internal|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.protect|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.private|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.personal|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.secret|Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.secret]] 

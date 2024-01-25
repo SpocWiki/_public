@@ -41,9 +41,9 @@ markerFolder: ./Apurímac/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Apurímac.md|Apurímac]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Apurímac.internal.md|Apurímac.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Apurímac.protect.md|Apurímac.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Apurímac.private.md|Apurímac.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Apurímac.personal.md|Apurímac.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Apurímac.secret.md|Apurímac.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Apurímac.internal|Apurímac.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Apurímac.protect|Apurímac.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Apurímac.private|Apurímac.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Apurímac.personal|Apurímac.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Apurímac.secret|Apurímac.secret]] 
 

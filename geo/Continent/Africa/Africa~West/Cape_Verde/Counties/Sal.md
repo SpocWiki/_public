@@ -41,9 +41,9 @@ markerFolder: ./Sal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Sal.md|Sal]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Sal.internal.md|Sal.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Sal.protect.md|Sal.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Sal.private.md|Sal.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Sal.personal.md|Sal.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Sal.secret.md|Sal.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Sal.internal|Sal.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Sal.protect|Sal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Sal.private|Sal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Sal.personal|Sal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Sal.secret|Sal.secret]] 
 

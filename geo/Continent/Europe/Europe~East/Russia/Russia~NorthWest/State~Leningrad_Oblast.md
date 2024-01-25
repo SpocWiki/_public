@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Leningrad_Oblast|State~Leningrad_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.internal|State~Leningrad_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.protect.md|State~Leningrad_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.private.md|State~Leningrad_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.personal.md|State~Leningrad_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.secret.md|State~Leningrad_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.protect|State~Leningrad_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.private|State~Leningrad_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.personal|State~Leningrad_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Leningrad_Oblast.secret|State~Leningrad_Oblast.secret]] 

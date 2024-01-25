@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Periodic_action-stationary_Duration]
 [SpocWebEntityId::24276]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.md|Triz-Temperature+Periodic_action-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.internal.md|Triz-Temperature+Periodic_action-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.protect.md|Triz-Temperature+Periodic_action-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.private.md|Triz-Temperature+Periodic_action-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.personal.md|Triz-Temperature+Periodic_action-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.secret.md|Triz-Temperature+Periodic_action-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.internal|Triz-Temperature+Periodic_action-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.protect|Triz-Temperature+Periodic_action-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.private|Triz-Temperature+Periodic_action-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.personal|Triz-Temperature+Periodic_action-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.secret|Triz-Temperature+Periodic_action-stationary_Duration.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Incukalna/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Incukalna.md|Incukalna]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Incukalna.internal.md|Incukalna.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Incukalna.protect.md|Incukalna.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Incukalna.private.md|Incukalna.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Incukalna.personal.md|Incukalna.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Incukalna.secret.md|Incukalna.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Incukalna.internal|Incukalna.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Incukalna.protect|Incukalna.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Incukalna.private|Incukalna.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Incukalna.personal|Incukalna.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Incukalna.secret|Incukalna.secret]] 
 

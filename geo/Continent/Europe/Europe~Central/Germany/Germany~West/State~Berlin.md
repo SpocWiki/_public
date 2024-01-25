@@ -31,8 +31,8 @@ markerFolder: ./State~Berlin/
 
 ## Confidential Links & Embeds: 
 [[State~Berlin|State~Berlin]]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin.internal.md|State~Berlin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin.protect.md|State~Berlin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin.private.md|State~Berlin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin.personal.md|State~Berlin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin.secret.md|State~Berlin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin.internal|State~Berlin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin.protect|State~Berlin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin.private|State~Berlin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin.personal|State~Berlin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin.secret|State~Berlin.secret]] 

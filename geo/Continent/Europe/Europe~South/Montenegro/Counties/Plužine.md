@@ -41,9 +41,9 @@ markerFolder: ./Plužine/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Plužine.md|Plužine]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Plužine.internal.md|Plužine.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Plužine.protect.md|Plužine.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Plužine.private.md|Plužine.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Plužine.personal.md|Plužine.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Plužine.secret.md|Plužine.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Plužine.internal|Plužine.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Plužine.protect|Plužine.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Plužine.private|Plužine.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Plužine.personal|Plužine.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Plužine.secret|Plužine.secret]] 
 

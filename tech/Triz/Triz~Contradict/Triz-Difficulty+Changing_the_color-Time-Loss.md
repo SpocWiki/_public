@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Changing_the_color-Time-Loss]
 [SpocWebEntityId::26496]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.md|Triz-Difficulty+Changing_the_color-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.internal.md|Triz-Difficulty+Changing_the_color-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.protect.md|Triz-Difficulty+Changing_the_color-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.private.md|Triz-Difficulty+Changing_the_color-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.personal.md|Triz-Difficulty+Changing_the_color-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.secret.md|Triz-Difficulty+Changing_the_color-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.internal|Triz-Difficulty+Changing_the_color-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.protect|Triz-Difficulty+Changing_the_color-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.private|Triz-Difficulty+Changing_the_color-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.personal|Triz-Difficulty+Changing_the_color-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Time-Loss.secret|Triz-Difficulty+Changing_the_color-Time-Loss.secret]] 

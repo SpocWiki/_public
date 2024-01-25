@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Issoudun.md|Issoudun]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Issoudun.internal.md|Issoudun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Issoudun.protect.md|Issoudun.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Issoudun.private.md|Issoudun.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Issoudun.personal.md|Issoudun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Issoudun.secret.md|Issoudun.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Issoudun.internal|Issoudun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Issoudun.protect|Issoudun.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Issoudun.private|Issoudun.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Issoudun.personal|Issoudun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Issoudun.secret|Issoudun.secret]] 

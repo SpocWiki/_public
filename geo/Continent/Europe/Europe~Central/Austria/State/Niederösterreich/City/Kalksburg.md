@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kalksburg.md|Kalksburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kalksburg.internal.md|Kalksburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kalksburg.protect.md|Kalksburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kalksburg.private.md|Kalksburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kalksburg.personal.md|Kalksburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kalksburg.secret.md|Kalksburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kalksburg.internal|Kalksburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kalksburg.protect|Kalksburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kalksburg.private|Kalksburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kalksburg.personal|Kalksburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kalksburg.secret|Kalksburg.secret]] 

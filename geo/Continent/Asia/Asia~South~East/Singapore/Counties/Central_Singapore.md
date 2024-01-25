@@ -41,9 +41,9 @@ markerFolder: ./Central_Singapore/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.md|Central_Singapore]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.internal.md|Central_Singapore.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.protect.md|Central_Singapore.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.private.md|Central_Singapore.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.personal.md|Central_Singapore.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.secret.md|Central_Singapore.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.internal|Central_Singapore.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.protect|Central_Singapore.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.private|Central_Singapore.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.personal|Central_Singapore.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/Central_Singapore.secret|Central_Singapore.secret]] 
 

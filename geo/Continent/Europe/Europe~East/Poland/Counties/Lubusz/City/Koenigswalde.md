@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Koenigswalde.md|Koenigswalde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koenigswalde.internal.md|Koenigswalde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koenigswalde.protect.md|Koenigswalde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koenigswalde.private.md|Koenigswalde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koenigswalde.personal.md|Koenigswalde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koenigswalde.secret.md|Koenigswalde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koenigswalde.internal|Koenigswalde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koenigswalde.protect|Koenigswalde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koenigswalde.private|Koenigswalde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koenigswalde.personal|Koenigswalde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koenigswalde.secret|Koenigswalde.secret]] 

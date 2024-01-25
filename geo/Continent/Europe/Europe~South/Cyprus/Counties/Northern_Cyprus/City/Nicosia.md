@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Cyprus/City/Nicosia.md|Nicosia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Cyprus/City/Nicosia.internal.md|Nicosia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Cyprus/City/Nicosia.protect.md|Nicosia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Cyprus/City/Nicosia.private.md|Nicosia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Cyprus/City/Nicosia.personal.md|Nicosia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Cyprus/City/Nicosia.secret.md|Nicosia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Cyprus/City/Nicosia.internal|Nicosia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Cyprus/City/Nicosia.protect|Nicosia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Cyprus/City/Nicosia.private|Nicosia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Cyprus/City/Nicosia.personal|Nicosia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Cyprus/City/Nicosia.secret|Nicosia.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Sóc_Trăng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.md|Sóc_Trăng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.internal.md|Sóc_Trăng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.protect.md|Sóc_Trăng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.private.md|Sóc_Trăng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.personal.md|Sóc_Trăng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.secret.md|Sóc_Trăng.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.internal|Sóc_Trăng.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.protect|Sóc_Trăng.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.private|Sóc_Trăng.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.personal|Sóc_Trăng.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Sóc_Trăng.secret|Sóc_Trăng.secret]] 
 

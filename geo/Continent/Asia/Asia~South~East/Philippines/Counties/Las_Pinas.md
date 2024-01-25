@@ -41,9 +41,9 @@ markerFolder: ./Las_Pinas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.md|Las_Pinas]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.internal.md|Las_Pinas.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.protect.md|Las_Pinas.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.private.md|Las_Pinas.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.personal.md|Las_Pinas.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.secret.md|Las_Pinas.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.internal|Las_Pinas.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.protect|Las_Pinas.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.private|Las_Pinas.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.personal|Las_Pinas.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.secret|Las_Pinas.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Pescara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.md|Pescara]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.internal.md|Pescara.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.protect.md|Pescara.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.private.md|Pescara.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.personal.md|Pescara.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.secret.md|Pescara.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.internal|Pescara.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.protect|Pescara.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.private|Pescara.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.personal|Pescara.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Abruzzo/Pescara.secret|Pescara.secret]] 
 

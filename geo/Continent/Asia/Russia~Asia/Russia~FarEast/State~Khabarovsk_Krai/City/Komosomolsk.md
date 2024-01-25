@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Komosomolsk.md|Komosomolsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Komosomolsk.internal.md|Komosomolsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Komosomolsk.protect.md|Komosomolsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Komosomolsk.private.md|Komosomolsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Komosomolsk.personal.md|Komosomolsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Komosomolsk.secret.md|Komosomolsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Komosomolsk.internal|Komosomolsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Komosomolsk.protect|Komosomolsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Komosomolsk.private|Komosomolsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Komosomolsk.personal|Komosomolsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Komosomolsk.secret|Komosomolsk.secret]] 

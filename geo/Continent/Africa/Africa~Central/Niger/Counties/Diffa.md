@@ -41,9 +41,9 @@ markerFolder: ./Diffa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Niger/Counties/Diffa.md|Diffa]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Diffa.internal.md|Diffa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Diffa.protect.md|Diffa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Diffa.private.md|Diffa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Diffa.personal.md|Diffa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Diffa.secret.md|Diffa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Diffa.internal|Diffa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Diffa.protect|Diffa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Diffa.private|Diffa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Diffa.personal|Diffa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Diffa.secret|Diffa.secret]] 
 

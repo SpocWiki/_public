@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Poronin.md|Poronin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Poronin.internal.md|Poronin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Poronin.protect.md|Poronin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Poronin.private.md|Poronin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Poronin.personal.md|Poronin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Poronin.secret.md|Poronin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Poronin.internal|Poronin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Poronin.protect|Poronin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Poronin.private|Poronin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Poronin.personal|Poronin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Poronin.secret|Poronin.secret]] 

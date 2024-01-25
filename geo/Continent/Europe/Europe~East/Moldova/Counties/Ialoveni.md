@@ -41,9 +41,9 @@ markerFolder: ./Ialoveni/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Ialoveni.md|Ialoveni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ialoveni.internal.md|Ialoveni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ialoveni.protect.md|Ialoveni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ialoveni.private.md|Ialoveni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ialoveni.personal.md|Ialoveni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ialoveni.secret.md|Ialoveni.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ialoveni.internal|Ialoveni.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ialoveni.protect|Ialoveni.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ialoveni.private|Ialoveni.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ialoveni.personal|Ialoveni.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ialoveni.secret|Ialoveni.secret]] 
 

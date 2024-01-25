@@ -41,9 +41,9 @@ markerFolder: ./Kirklareli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kirklareli.md|Kirklareli]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kirklareli.internal.md|Kirklareli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kirklareli.protect.md|Kirklareli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kirklareli.private.md|Kirklareli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kirklareli.personal.md|Kirklareli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kirklareli.secret.md|Kirklareli.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kirklareli.internal|Kirklareli.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kirklareli.protect|Kirklareli.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kirklareli.private|Kirklareli.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kirklareli.personal|Kirklareli.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kirklareli.secret|Kirklareli.secret]] 
 

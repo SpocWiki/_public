@@ -41,9 +41,9 @@ markerFolder: ./Pituffik/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greenland/Counties/Pituffik.md|Pituffik]] 
-- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Pituffik.internal.md|Pituffik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Pituffik.protect.md|Pituffik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Pituffik.private.md|Pituffik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Pituffik.personal.md|Pituffik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Pituffik.secret.md|Pituffik.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Pituffik.internal|Pituffik.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Pituffik.protect|Pituffik.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Pituffik.private|Pituffik.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Pituffik.personal|Pituffik.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Pituffik.secret|Pituffik.secret]] 
 

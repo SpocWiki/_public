@@ -25,8 +25,8 @@ Use thermal expansion (or contraction) of materials.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-thermal-expansion.md|Triz-thermal-expansion]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-thermal-expansion.internal.md|Triz-thermal-expansion.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-thermal-expansion.protect.md|Triz-thermal-expansion.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-thermal-expansion.private.md|Triz-thermal-expansion.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-thermal-expansion.personal.md|Triz-thermal-expansion.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-thermal-expansion.secret.md|Triz-thermal-expansion.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-thermal-expansion.internal|Triz-thermal-expansion.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-thermal-expansion.protect|Triz-thermal-expansion.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-thermal-expansion.private|Triz-thermal-expansion.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-thermal-expansion.personal|Triz-thermal-expansion.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-thermal-expansion.secret|Triz-thermal-expansion.secret]] 

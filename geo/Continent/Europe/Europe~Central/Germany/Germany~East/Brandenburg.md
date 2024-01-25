@@ -35,8 +35,8 @@ markerFolder: ./Brandenburg/
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg.md|Brandenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg.internal.md|Brandenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg.protect.md|Brandenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg.private.md|Brandenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg.personal.md|Brandenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg.secret.md|Brandenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg.internal|Brandenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg.protect|Brandenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg.private|Brandenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg.personal|Brandenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg.secret|Brandenburg.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Extraction-stationary_Area]
 [SpocWebEntityId::25126]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.md|Triz-Quantity+Extraction-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.internal.md|Triz-Quantity+Extraction-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.protect.md|Triz-Quantity+Extraction-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.private.md|Triz-Quantity+Extraction-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.personal.md|Triz-Quantity+Extraction-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.secret.md|Triz-Quantity+Extraction-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.internal|Triz-Quantity+Extraction-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.protect|Triz-Quantity+Extraction-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.private|Triz-Quantity+Extraction-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.personal|Triz-Quantity+Extraction-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Extraction-stationary_Area.secret|Triz-Quantity+Extraction-stationary_Area.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Colmar.md|Colmar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Colmar.internal.md|Colmar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Colmar.protect.md|Colmar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Colmar.private.md|Colmar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Colmar.personal.md|Colmar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Colmar.secret.md|Colmar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Colmar.internal|Colmar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Colmar.protect|Colmar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Colmar.private|Colmar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Colmar.personal|Colmar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Colmar.secret|Colmar.secret]] 

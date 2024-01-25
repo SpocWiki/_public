@@ -144,7 +144,7 @@ By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:Nuclear
 ## Confidential Links & Embeds: 
 -[[United_Arab_Emirates|United_Arab_Emirates]]] 
 -[[../../../../../_internal/geo/Continent/Asia/United_Arab_Emirates.internal|United_Arab_Emirates.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/United_Arab_Emirates.protect.md|United_Arab_Emirates.protect]] 
-- [[../../../../_private/geo/Continent/Asia/United_Arab_Emirates.private.md|United_Arab_Emirates.private]] 
-- [[../../../../_personal/geo/Continent/Asia/United_Arab_Emirates.personal.md|United_Arab_Emirates.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/United_Arab_Emirates.secret.md|United_Arab_Emirates.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/United_Arab_Emirates.protect|United_Arab_Emirates.protect]] 
+- [[../../../../_private/geo/Continent/Asia/United_Arab_Emirates.private|United_Arab_Emirates.private]] 
+- [[../../../../_personal/geo/Continent/Asia/United_Arab_Emirates.personal|United_Arab_Emirates.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/United_Arab_Emirates.secret|United_Arab_Emirates.secret]] 

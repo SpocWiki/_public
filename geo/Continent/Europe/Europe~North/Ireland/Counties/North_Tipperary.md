@@ -41,9 +41,9 @@ markerFolder: ./North_Tipperary/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/North_Tipperary.md|North_Tipperary]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/North_Tipperary.internal.md|North_Tipperary.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/North_Tipperary.protect.md|North_Tipperary.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/North_Tipperary.private.md|North_Tipperary.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/North_Tipperary.personal.md|North_Tipperary.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/North_Tipperary.secret.md|North_Tipperary.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/North_Tipperary.internal|North_Tipperary.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/North_Tipperary.protect|North_Tipperary.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/North_Tipperary.private|North_Tipperary.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/North_Tipperary.personal|North_Tipperary.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/North_Tipperary.secret|North_Tipperary.secret]] 
 

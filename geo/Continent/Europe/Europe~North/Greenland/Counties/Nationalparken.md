@@ -41,9 +41,9 @@ markerFolder: ./Nationalparken/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greenland/Counties/Nationalparken.md|Nationalparken]] 
-- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Nationalparken.internal.md|Nationalparken.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Nationalparken.protect.md|Nationalparken.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Nationalparken.private.md|Nationalparken.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Nationalparken.personal.md|Nationalparken.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Nationalparken.secret.md|Nationalparken.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Nationalparken.internal|Nationalparken.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Nationalparken.protect|Nationalparken.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Nationalparken.private|Nationalparken.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Nationalparken.personal|Nationalparken.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Nationalparken.secret|Nationalparken.secret]] 
 

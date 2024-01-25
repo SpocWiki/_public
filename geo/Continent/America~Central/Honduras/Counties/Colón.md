@@ -41,9 +41,9 @@ markerFolder: ./Colón/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Colón.md|Colón]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Colón.internal.md|Colón.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Colón.protect.md|Colón.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Colón.private.md|Colón.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Colón.personal.md|Colón.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Colón.secret.md|Colón.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Colón.internal|Colón.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Colón.protect|Colón.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Colón.private|Colón.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Colón.personal|Colón.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Colón.secret|Colón.secret]] 
 

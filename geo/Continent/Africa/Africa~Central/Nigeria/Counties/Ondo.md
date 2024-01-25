@@ -41,9 +41,9 @@ markerFolder: ./Ondo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ondo.md|Ondo]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ondo.internal.md|Ondo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ondo.protect.md|Ondo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ondo.private.md|Ondo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ondo.personal.md|Ondo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ondo.secret.md|Ondo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ondo.internal|Ondo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ondo.protect|Ondo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ondo.private|Ondo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ondo.personal|Ondo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ondo.secret|Ondo.secret]] 
 

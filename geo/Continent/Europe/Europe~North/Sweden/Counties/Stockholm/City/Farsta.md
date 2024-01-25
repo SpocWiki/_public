@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Farsta.md|Farsta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Farsta.internal.md|Farsta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Farsta.protect.md|Farsta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Farsta.private.md|Farsta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Farsta.personal.md|Farsta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Farsta.secret.md|Farsta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Farsta.internal|Farsta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Farsta.protect|Farsta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Farsta.private|Farsta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Farsta.personal|Farsta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Farsta.secret|Farsta.secret]] 

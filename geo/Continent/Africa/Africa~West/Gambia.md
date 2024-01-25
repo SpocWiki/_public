@@ -140,7 +140,7 @@ markerFolder: ./Gambia//
 ## Confidential Links & Embeds: 
 - [[Gambia|Gambia]] 
 - [[../../../../../_internal/geo/Continent/Africa/Gambia.internal|Gambia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gambia.protect.md|Gambia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gambia.private.md|Gambia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gambia.personal.md|Gambia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gambia.secret.md|Gambia.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Gambia.protect|Gambia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gambia.private|Gambia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gambia.personal|Gambia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gambia.secret|Gambia.secret]] 

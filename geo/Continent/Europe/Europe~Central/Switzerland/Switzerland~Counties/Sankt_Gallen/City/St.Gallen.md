@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/St.Gallen.md|St.Gallen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Gallen.internal.md|St.Gallen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Gallen.protect.md|St.Gallen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Gallen.private.md|St.Gallen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Gallen.personal.md|St.Gallen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Gallen.secret.md|St.Gallen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Gallen.internal|St.Gallen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Gallen.protect|St.Gallen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Gallen.private|St.Gallen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Gallen.personal|St.Gallen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Gallen.secret|St.Gallen.secret]] 

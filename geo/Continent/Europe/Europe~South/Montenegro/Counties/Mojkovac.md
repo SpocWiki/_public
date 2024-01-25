@@ -41,9 +41,9 @@ markerFolder: ./Mojkovac/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Mojkovac.md|Mojkovac]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Mojkovac.internal.md|Mojkovac.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Mojkovac.protect.md|Mojkovac.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Mojkovac.private.md|Mojkovac.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Mojkovac.personal.md|Mojkovac.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Mojkovac.secret.md|Mojkovac.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Mojkovac.internal|Mojkovac.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Mojkovac.protect|Mojkovac.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Mojkovac.private|Mojkovac.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Mojkovac.personal|Mojkovac.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Mojkovac.secret|Mojkovac.secret]] 
 

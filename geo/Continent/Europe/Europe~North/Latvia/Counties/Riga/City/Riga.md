@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Latvia/City/Riga.md|Riga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Latvia/City/Riga.internal.md|Riga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Latvia/City/Riga.protect.md|Riga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Latvia/City/Riga.private.md|Riga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Latvia/City/Riga.personal.md|Riga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Latvia/City/Riga.secret.md|Riga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Latvia/City/Riga.internal|Riga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Latvia/City/Riga.protect|Riga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Latvia/City/Riga.private|Riga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Latvia/City/Riga.personal|Riga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Latvia/City/Riga.secret|Riga.secret]] 

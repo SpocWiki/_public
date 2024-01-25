@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Extraction.md|Triz-Extraction]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Extraction.internal.md|Triz-Extraction.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Extraction.protect.md|Triz-Extraction.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Extraction.private.md|Triz-Extraction.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Extraction.personal.md|Triz-Extraction.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Extraction.secret.md|Triz-Extraction.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Extraction.internal|Triz-Extraction.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Extraction.protect|Triz-Extraction.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Extraction.private|Triz-Extraction.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Extraction.personal|Triz-Extraction.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Extraction.secret|Triz-Extraction.secret]] 

@@ -27,8 +27,8 @@ zoomFeatures: false
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/America~South.md|America~South]] 
-- [[../../../_internal/geo/Continent/America~South.internal.md|America~South.internal]] 
-- [[_protect/geo/Continent/America~South.protect.md|America~South.protect]] 
-- [[_private/geo/Continent/America~South.private.md|America~South.private]] 
-- [[_personal/geo/Continent/America~South.personal.md|America~South.personal]] 
-- [[_secret/geo/Continent/America~South.secret.md|America~South.secret]] 
+- [[../../../_internal/geo/Continent/America~South.internal|America~South.internal]] 
+- [[_protect/geo/Continent/America~South.protect|America~South.protect]] 
+- [[_private/geo/Continent/America~South.private|America~South.private]] 
+- [[_personal/geo/Continent/America~South.personal|America~South.personal]] 
+- [[_secret/geo/Continent/America~South.secret|America~South.secret]] 

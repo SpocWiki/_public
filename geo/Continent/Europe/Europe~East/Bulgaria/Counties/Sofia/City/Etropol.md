@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Etropol.md|Etropol]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Etropol.internal.md|Etropol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Etropol.protect.md|Etropol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Etropol.private.md|Etropol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Etropol.personal.md|Etropol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Etropol.secret.md|Etropol.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Etropol.internal|Etropol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Etropol.protect|Etropol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Etropol.private|Etropol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Etropol.personal|Etropol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Etropol.secret|Etropol.secret]] 

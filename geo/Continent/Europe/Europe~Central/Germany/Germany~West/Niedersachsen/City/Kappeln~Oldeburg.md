@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Kappeln~Oldeburg|Kappeln~Oldeburg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.internal.md|Kappeln~Oldeburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.protect.md|Kappeln~Oldeburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.private.md|Kappeln~Oldeburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.personal.md|Kappeln~Oldeburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.secret.md|Kappeln~Oldeburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.internal|Kappeln~Oldeburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.protect|Kappeln~Oldeburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.private|Kappeln~Oldeburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.personal|Kappeln~Oldeburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.secret|Kappeln~Oldeburg.secret]] 

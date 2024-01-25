@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Miang.md|Miang]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Miang.internal.md|Miang.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Miang.protect.md|Miang.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Miang.private.md|Miang.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Miang.personal.md|Miang.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Miang.secret.md|Miang.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Miang.internal|Miang.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Miang.protect|Miang.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Miang.private|Miang.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Miang.personal|Miang.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Miang.secret|Miang.secret]] 

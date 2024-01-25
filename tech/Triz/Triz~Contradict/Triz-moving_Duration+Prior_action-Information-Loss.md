@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Duration+Prior_action-Information-Loss]
 [SpocWebEntityId::24118]
-+ [pro::[[Triz-moving_Duration]]]
++ [#has_/Pros :: [[Triz-moving_Duration]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::Information-Loss]
+- [#has_/Cons :: Information-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.md|Triz-moving_Duration+Prior_action-Information-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.internal.md|Triz-moving_Duration+Prior_action-Information-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.protect.md|Triz-moving_Duration+Prior_action-Information-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.private.md|Triz-moving_Duration+Prior_action-Information-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.personal.md|Triz-moving_Duration+Prior_action-Information-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.secret.md|Triz-moving_Duration+Prior_action-Information-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.internal|Triz-moving_Duration+Prior_action-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.protect|Triz-moving_Duration+Prior_action-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.private|Triz-moving_Duration+Prior_action-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.personal|Triz-moving_Duration+Prior_action-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.secret|Triz-moving_Duration+Prior_action-Information-Loss.secret]] 

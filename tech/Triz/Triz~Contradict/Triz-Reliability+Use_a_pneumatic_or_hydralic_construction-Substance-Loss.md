@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss]
 [SpocWebEntityId::25310]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.md|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.internal.md|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.protect.md|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.private.md|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.personal.md|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.secret.md|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.internal|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.protect|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.private|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.personal|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.secret|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss.secret]] 

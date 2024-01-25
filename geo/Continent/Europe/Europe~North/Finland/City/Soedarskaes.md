@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Soedarskaes.md|Soedarskaes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Soedarskaes.internal.md|Soedarskaes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Soedarskaes.protect.md|Soedarskaes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Soedarskaes.private.md|Soedarskaes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Soedarskaes.personal.md|Soedarskaes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Soedarskaes.secret.md|Soedarskaes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Soedarskaes.internal|Soedarskaes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Soedarskaes.protect|Soedarskaes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Soedarskaes.private|Soedarskaes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Soedarskaes.personal|Soedarskaes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Soedarskaes.secret|Soedarskaes.secret]] 

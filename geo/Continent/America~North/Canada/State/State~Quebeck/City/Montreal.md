@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/North-America/Canada/City/Montreal.md|Montreal]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Montreal.internal.md|Montreal.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Montreal.protect.md|Montreal.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Montreal.private.md|Montreal.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Montreal.personal.md|Montreal.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Montreal.secret.md|Montreal.secret]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Montreal.internal|Montreal.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Montreal.protect|Montreal.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Montreal.private|Montreal.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Montreal.personal|Montreal.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Montreal.secret|Montreal.secret]] 

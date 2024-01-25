@@ -41,9 +41,9 @@ markerFolder: ./Gaborone/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Gaborone.md|Gaborone]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Gaborone.internal.md|Gaborone.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Gaborone.protect.md|Gaborone.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Gaborone.private.md|Gaborone.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Gaborone.personal.md|Gaborone.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Gaborone.secret.md|Gaborone.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Gaborone.internal|Gaborone.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Gaborone.protect|Gaborone.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Gaborone.private|Gaborone.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Gaborone.personal|Gaborone.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Gaborone.secret|Gaborone.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Cameroon/City/Yaund.md|Yaund]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/City/Yaund.internal.md|Yaund.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/City/Yaund.protect.md|Yaund.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/City/Yaund.private.md|Yaund.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/City/Yaund.personal.md|Yaund.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/City/Yaund.secret.md|Yaund.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/City/Yaund.internal|Yaund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/City/Yaund.protect|Yaund.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cameroon/City/Yaund.private|Yaund.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/City/Yaund.personal|Yaund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/City/Yaund.secret|Yaund.secret]] 

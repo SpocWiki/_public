@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Nibe.md|Nibe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nibe.internal.md|Nibe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nibe.protect.md|Nibe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Nibe.private.md|Nibe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nibe.personal.md|Nibe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nibe.secret.md|Nibe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nibe.internal|Nibe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nibe.protect|Nibe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Nibe.private|Nibe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nibe.personal|Nibe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nibe.secret|Nibe.secret]] 

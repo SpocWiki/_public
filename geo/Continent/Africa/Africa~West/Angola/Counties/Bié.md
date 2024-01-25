@@ -41,9 +41,9 @@ markerFolder: ./Bié/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Bié.md|Bié]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Bié.internal.md|Bié.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Bié.protect.md|Bié.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Bié.private.md|Bié.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Bié.personal.md|Bié.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Bié.secret.md|Bié.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Bié.internal|Bié.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Bié.protect|Bié.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Bié.private|Bié.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Bié.personal|Bié.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Bié.secret|Bié.secret]] 
 

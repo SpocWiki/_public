@@ -41,9 +41,9 @@ markerFolder: ./Żejtun/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Żejtun.md|Żejtun]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Żejtun.internal.md|Żejtun.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Żejtun.protect.md|Żejtun.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Żejtun.private.md|Żejtun.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Żejtun.personal.md|Żejtun.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Żejtun.secret.md|Żejtun.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Żejtun.internal|Żejtun.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Żejtun.protect|Żejtun.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Żejtun.private|Żejtun.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Żejtun.personal|Żejtun.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Żejtun.secret|Żejtun.secret]] 
 

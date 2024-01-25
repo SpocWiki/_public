@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lobendau.md|Lobendau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lobendau.internal.md|Lobendau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lobendau.protect.md|Lobendau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lobendau.private.md|Lobendau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lobendau.personal.md|Lobendau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lobendau.secret.md|Lobendau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lobendau.internal|Lobendau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lobendau.protect|Lobendau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lobendau.private|Lobendau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lobendau.personal|Lobendau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lobendau.secret|Lobendau.secret]] 

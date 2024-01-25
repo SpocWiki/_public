@@ -41,9 +41,9 @@ markerFolder: ./Ben_Arous_(Tunis_Sud)/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).md|Ben_Arous_(Tunis_Sud)]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).internal.md|Ben_Arous_(Tunis_Sud).internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).protect.md|Ben_Arous_(Tunis_Sud).protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).private.md|Ben_Arous_(Tunis_Sud).private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).personal.md|Ben_Arous_(Tunis_Sud).personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).secret.md|Ben_Arous_(Tunis_Sud).secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).internal|Ben_Arous_(Tunis_Sud).internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).protect|Ben_Arous_(Tunis_Sud).protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).private|Ben_Arous_(Tunis_Sud).private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).personal|Ben_Arous_(Tunis_Sud).personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).secret|Ben_Arous_(Tunis_Sud).secret]] 
 

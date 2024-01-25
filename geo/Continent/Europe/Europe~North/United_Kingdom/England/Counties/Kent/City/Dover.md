@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dover.md|Dover]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dover.internal.md|Dover.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dover.protect.md|Dover.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dover.private.md|Dover.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dover.personal.md|Dover.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dover.secret.md|Dover.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dover.internal|Dover.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dover.protect|Dover.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dover.private|Dover.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dover.personal|Dover.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dover.secret|Dover.secret]] 

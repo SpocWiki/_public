@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sondrio.md|Sondrio]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sondrio.internal.md|Sondrio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sondrio.protect.md|Sondrio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sondrio.private.md|Sondrio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sondrio.personal.md|Sondrio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sondrio.secret.md|Sondrio.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sondrio.internal|Sondrio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sondrio.protect|Sondrio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sondrio.private|Sondrio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sondrio.personal|Sondrio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sondrio.secret|Sondrio.secret]] 

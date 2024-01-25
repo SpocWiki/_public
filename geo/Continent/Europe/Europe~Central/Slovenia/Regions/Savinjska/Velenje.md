@@ -41,9 +41,9 @@ markerFolder: ./Velenje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.md|Velenje]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.internal.md|Velenje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.protect.md|Velenje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.private.md|Velenje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.personal.md|Velenje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.secret.md|Velenje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.internal|Velenje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.protect|Velenje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.private|Velenje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.personal|Velenje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Velenje.secret|Velenje.secret]] 
 

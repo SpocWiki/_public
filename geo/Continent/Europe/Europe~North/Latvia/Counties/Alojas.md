@@ -41,9 +41,9 @@ markerFolder: ./Alojas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Alojas.md|Alojas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Alojas.internal.md|Alojas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Alojas.protect.md|Alojas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Alojas.private.md|Alojas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Alojas.personal.md|Alojas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Alojas.secret.md|Alojas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Alojas.internal|Alojas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Alojas.protect|Alojas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Alojas.private|Alojas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Alojas.personal|Alojas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Alojas.secret|Alojas.secret]] 
 

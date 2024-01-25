@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Moving_to_a_new_dimension-Quantity]
 [SpocWebEntityId::24305]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.md|Triz-Temperature+Moving_to_a_new_dimension-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.internal.md|Triz-Temperature+Moving_to_a_new_dimension-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.protect.md|Triz-Temperature+Moving_to_a_new_dimension-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.private.md|Triz-Temperature+Moving_to_a_new_dimension-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.personal.md|Triz-Temperature+Moving_to_a_new_dimension-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.secret.md|Triz-Temperature+Moving_to_a_new_dimension-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.internal|Triz-Temperature+Moving_to_a_new_dimension-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.protect|Triz-Temperature+Moving_to_a_new_dimension-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.private|Triz-Temperature+Moving_to_a_new_dimension-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.personal|Triz-Temperature+Moving_to_a_new_dimension-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.secret|Triz-Temperature+Moving_to_a_new_dimension-Quantity.secret]] 

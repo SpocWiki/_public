@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jurbarkas.md|Jurbarkas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jurbarkas.internal.md|Jurbarkas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jurbarkas.protect.md|Jurbarkas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jurbarkas.private.md|Jurbarkas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jurbarkas.personal.md|Jurbarkas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jurbarkas.secret.md|Jurbarkas.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jurbarkas.internal|Jurbarkas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jurbarkas.protect|Jurbarkas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jurbarkas.private|Jurbarkas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jurbarkas.personal|Jurbarkas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jurbarkas.secret|Jurbarkas.secret]] 

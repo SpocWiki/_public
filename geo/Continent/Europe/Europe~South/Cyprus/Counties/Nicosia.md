@@ -41,9 +41,9 @@ markerFolder: ./Nicosia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Cyprus/Counties/Nicosia.md|Nicosia]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Nicosia.internal.md|Nicosia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Nicosia.protect.md|Nicosia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Nicosia.private.md|Nicosia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Nicosia.personal.md|Nicosia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Nicosia.secret.md|Nicosia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Nicosia.internal|Nicosia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Nicosia.protect|Nicosia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Nicosia.private|Nicosia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Nicosia.personal|Nicosia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Nicosia.secret|Nicosia.secret]] 
 

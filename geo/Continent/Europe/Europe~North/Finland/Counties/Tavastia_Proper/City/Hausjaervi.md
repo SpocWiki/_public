@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Hausjaervi.md|Hausjaervi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hausjaervi.internal.md|Hausjaervi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hausjaervi.protect.md|Hausjaervi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hausjaervi.private.md|Hausjaervi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hausjaervi.personal.md|Hausjaervi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hausjaervi.secret.md|Hausjaervi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hausjaervi.internal|Hausjaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hausjaervi.protect|Hausjaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hausjaervi.private|Hausjaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hausjaervi.personal|Hausjaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hausjaervi.secret|Hausjaervi.secret]] 

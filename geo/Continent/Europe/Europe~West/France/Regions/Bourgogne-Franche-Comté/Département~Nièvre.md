@@ -41,9 +41,9 @@ markerFolder: ./Département~Nièvre/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.md|Département~Nièvre]] 
-- [[../../../../_internal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.internal.md|Département~Nièvre.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.protect.md|Département~Nièvre.protect]] 
-- [[../../../../_private/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.private.md|Département~Nièvre.private]] 
-- [[../../../../_personal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.personal.md|Département~Nièvre.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.secret.md|Département~Nièvre.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.internal|Département~Nièvre.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.protect|Département~Nièvre.protect]] 
+- [[../../../../_private/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.private|Département~Nièvre.private]] 
+- [[../../../../_personal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.personal|Département~Nièvre.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Nièvre.secret|Département~Nièvre.secret]] 
 

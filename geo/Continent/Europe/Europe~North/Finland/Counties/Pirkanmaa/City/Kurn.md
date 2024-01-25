@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kurn.md|Kurn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kurn.internal.md|Kurn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kurn.protect.md|Kurn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kurn.private.md|Kurn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kurn.personal.md|Kurn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kurn.secret.md|Kurn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kurn.internal|Kurn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kurn.protect|Kurn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kurn.private|Kurn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kurn.personal|Kurn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kurn.secret|Kurn.secret]] 

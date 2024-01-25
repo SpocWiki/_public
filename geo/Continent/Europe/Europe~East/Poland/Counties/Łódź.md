@@ -41,9 +41,9 @@ markerFolder: ./Łódź/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Poland/Counties/Łódź.md|Łódź]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Łódź.internal.md|Łódź.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Łódź.protect.md|Łódź.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Łódź.private.md|Łódź.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Łódź.personal.md|Łódź.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Łódź.secret.md|Łódź.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Łódź.internal|Łódź.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Łódź.protect|Łódź.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Łódź.private|Łódź.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Łódź.personal|Łódź.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Łódź.secret|Łódź.secret]] 
 

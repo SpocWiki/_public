@@ -41,9 +41,9 @@ markerFolder: ./Mayuge/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mayuge.md|Mayuge]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mayuge.internal.md|Mayuge.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mayuge.protect.md|Mayuge.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mayuge.private.md|Mayuge.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mayuge.personal.md|Mayuge.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mayuge.secret.md|Mayuge.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mayuge.internal|Mayuge.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mayuge.protect|Mayuge.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mayuge.private|Mayuge.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mayuge.personal|Mayuge.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mayuge.secret|Mayuge.secret]] 
 

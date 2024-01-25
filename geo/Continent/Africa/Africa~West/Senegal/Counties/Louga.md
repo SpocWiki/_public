@@ -41,9 +41,9 @@ markerFolder: ./Louga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Louga.md|Louga]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Louga.internal.md|Louga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Louga.protect.md|Louga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Louga.private.md|Louga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Louga.personal.md|Louga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Louga.secret.md|Louga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Louga.internal|Louga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Louga.protect|Louga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Louga.private|Louga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Louga.personal|Louga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Louga.secret|Louga.secret]] 
 

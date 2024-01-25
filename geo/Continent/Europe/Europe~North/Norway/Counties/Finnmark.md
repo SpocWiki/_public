@@ -41,9 +41,9 @@ markerFolder: ./Finnmark/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Finnmark.md|Finnmark]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Finnmark.internal.md|Finnmark.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Finnmark.protect.md|Finnmark.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Finnmark.private.md|Finnmark.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Finnmark.personal.md|Finnmark.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Finnmark.secret.md|Finnmark.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Finnmark.internal|Finnmark.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Finnmark.protect|Finnmark.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Finnmark.private|Finnmark.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Finnmark.personal|Finnmark.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Finnmark.secret|Finnmark.secret]] 
 

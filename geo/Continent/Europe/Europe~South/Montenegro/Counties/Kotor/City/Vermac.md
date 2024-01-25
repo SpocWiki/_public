@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Vermac.md|Vermac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Vermac.internal.md|Vermac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Vermac.protect.md|Vermac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Vermac.private.md|Vermac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Vermac.personal.md|Vermac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Vermac.secret.md|Vermac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Vermac.internal|Vermac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Vermac.protect|Vermac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Vermac.private|Vermac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Vermac.personal|Vermac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Vermac.secret|Vermac.secret]] 

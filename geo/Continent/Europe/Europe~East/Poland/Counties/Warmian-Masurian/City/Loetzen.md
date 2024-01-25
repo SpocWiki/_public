@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Loetzen.md|Loetzen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Loetzen.internal.md|Loetzen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Loetzen.protect.md|Loetzen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Loetzen.private.md|Loetzen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Loetzen.personal.md|Loetzen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Loetzen.secret.md|Loetzen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Loetzen.internal|Loetzen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Loetzen.protect|Loetzen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Loetzen.private|Loetzen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Loetzen.personal|Loetzen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Loetzen.secret|Loetzen.secret]] 

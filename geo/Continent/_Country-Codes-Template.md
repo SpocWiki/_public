@@ -110,8 +110,8 @@ Languages: [{{Languages}}]
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/_Country-Codes-Template.md|_Country-Codes-Template]] 
-- [[../../../_internal/geo/Continent/_Country-Codes-Template.internal.md|_Country-Codes-Template.internal]] 
-- [[../../../_protect/geo/Continent/_Country-Codes-Template.protect.md|_Country-Codes-Template.protect]] 
-- [[../../../_private/geo/Continent/_Country-Codes-Template.private.md|_Country-Codes-Template.private]] 
-- [[../../../_personal/geo/Continent/_Country-Codes-Template.personal.md|_Country-Codes-Template.personal]] 
-- [[../../../_secret/geo/Continent/_Country-Codes-Template.secret.md|_Country-Codes-Template.secret]] 
+- [[../../../_internal/geo/Continent/_Country-Codes-Template.internal|_Country-Codes-Template.internal]] 
+- [[../../../_protect/geo/Continent/_Country-Codes-Template.protect|_Country-Codes-Template.protect]] 
+- [[../../../_private/geo/Continent/_Country-Codes-Template.private|_Country-Codes-Template.private]] 
+- [[../../../_personal/geo/Continent/_Country-Codes-Template.personal|_Country-Codes-Template.personal]] 
+- [[../../../_secret/geo/Continent/_Country-Codes-Template.secret|_Country-Codes-Template.secret]] 

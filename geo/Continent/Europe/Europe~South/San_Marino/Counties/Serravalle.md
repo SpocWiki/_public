@@ -41,9 +41,9 @@ markerFolder: ./Serravalle/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Serravalle.md|Serravalle]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Serravalle.internal.md|Serravalle.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Serravalle.protect.md|Serravalle.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Serravalle.private.md|Serravalle.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Serravalle.personal.md|Serravalle.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Serravalle.secret.md|Serravalle.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Serravalle.internal|Serravalle.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Serravalle.protect|Serravalle.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Serravalle.private|Serravalle.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Serravalle.personal|Serravalle.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Serravalle.secret|Serravalle.secret]] 
 

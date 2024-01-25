@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ratzebuhr.md|Ratzebuhr]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ratzebuhr.internal.md|Ratzebuhr.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ratzebuhr.protect.md|Ratzebuhr.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ratzebuhr.private.md|Ratzebuhr.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ratzebuhr.personal.md|Ratzebuhr.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ratzebuhr.secret.md|Ratzebuhr.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ratzebuhr.internal|Ratzebuhr.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ratzebuhr.protect|Ratzebuhr.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ratzebuhr.private|Ratzebuhr.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ratzebuhr.personal|Ratzebuhr.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ratzebuhr.secret|Ratzebuhr.secret]] 

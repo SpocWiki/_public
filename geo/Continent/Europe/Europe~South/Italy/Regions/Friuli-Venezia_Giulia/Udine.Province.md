@@ -41,9 +41,9 @@ markerFolder: ./Udine.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.md|Udine.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.internal.md|Udine.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.protect.md|Udine.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.private.md|Udine.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.personal.md|Udine.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.secret.md|Udine.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.internal|Udine.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.protect|Udine.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.private|Udine.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.personal|Udine.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Udine.Province.secret|Udine.Province.secret]] 
 

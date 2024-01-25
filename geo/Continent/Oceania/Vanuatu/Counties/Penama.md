@@ -41,9 +41,9 @@ markerFolder: ./Penama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Penama.md|Penama]] 
-- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Penama.internal.md|Penama.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Penama.protect.md|Penama.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Penama.private.md|Penama.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Penama.personal.md|Penama.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Penama.secret.md|Penama.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Penama.internal|Penama.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Penama.protect|Penama.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Penama.private|Penama.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Penama.personal|Penama.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Penama.secret|Penama.secret]] 
 

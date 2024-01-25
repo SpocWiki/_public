@@ -41,9 +41,9 @@ markerFolder: ./Southwark/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.md|Southwark]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.internal.md|Southwark.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.protect.md|Southwark.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.private.md|Southwark.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.personal.md|Southwark.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.secret.md|Southwark.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.internal|Southwark.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.protect|Southwark.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.private|Southwark.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.personal|Southwark.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Southwark.secret|Southwark.secret]] 
 

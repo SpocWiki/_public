@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Korschen.md|Korschen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Korschen.internal.md|Korschen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Korschen.protect.md|Korschen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Korschen.private.md|Korschen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Korschen.personal.md|Korschen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Korschen.secret.md|Korschen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Korschen.internal|Korschen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Korschen.protect|Korschen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Korschen.private|Korschen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Korschen.personal|Korschen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Korschen.secret|Korschen.secret]] 

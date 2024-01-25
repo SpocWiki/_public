@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Vila_Real.md|Vila_Real]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Vila_Real.internal.md|Vila_Real.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Vila_Real.protect.md|Vila_Real.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Vila_Real.private.md|Vila_Real.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Vila_Real.personal.md|Vila_Real.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Vila_Real.secret.md|Vila_Real.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Vila_Real.internal|Vila_Real.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Vila_Real.protect|Vila_Real.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Vila_Real.private|Vila_Real.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Vila_Real.personal|Vila_Real.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Vila_Real.secret|Vila_Real.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kaukehnen.md|Kaukehnen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaukehnen.internal.md|Kaukehnen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaukehnen.protect.md|Kaukehnen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kaukehnen.private.md|Kaukehnen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaukehnen.personal.md|Kaukehnen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaukehnen.secret.md|Kaukehnen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaukehnen.internal|Kaukehnen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaukehnen.protect|Kaukehnen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kaukehnen.private|Kaukehnen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaukehnen.personal|Kaukehnen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaukehnen.secret|Kaukehnen.secret]] 

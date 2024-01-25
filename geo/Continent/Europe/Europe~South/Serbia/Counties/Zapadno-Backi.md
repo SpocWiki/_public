@@ -41,9 +41,9 @@ markerFolder: ./Zapadno-Backi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.md|Zapadno-Backi]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.internal.md|Zapadno-Backi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.protect.md|Zapadno-Backi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.private.md|Zapadno-Backi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.personal.md|Zapadno-Backi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.secret.md|Zapadno-Backi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.internal|Zapadno-Backi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.protect|Zapadno-Backi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.private|Zapadno-Backi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.personal|Zapadno-Backi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Zapadno-Backi.secret|Zapadno-Backi.secret]] 
 

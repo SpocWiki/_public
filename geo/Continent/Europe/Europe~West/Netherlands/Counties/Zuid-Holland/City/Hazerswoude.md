@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hazerswoude.md|Hazerswoude]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hazerswoude.internal.md|Hazerswoude.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hazerswoude.protect.md|Hazerswoude.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hazerswoude.private.md|Hazerswoude.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hazerswoude.personal.md|Hazerswoude.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hazerswoude.secret.md|Hazerswoude.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hazerswoude.internal|Hazerswoude.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hazerswoude.protect|Hazerswoude.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hazerswoude.private|Hazerswoude.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hazerswoude.personal|Hazerswoude.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hazerswoude.secret|Hazerswoude.secret]] 

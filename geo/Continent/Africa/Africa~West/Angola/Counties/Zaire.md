@@ -41,9 +41,9 @@ markerFolder: ./Zaire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Zaire.md|Zaire]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Zaire.internal.md|Zaire.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Zaire.protect.md|Zaire.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Zaire.private.md|Zaire.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Zaire.personal.md|Zaire.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Zaire.secret.md|Zaire.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Zaire.internal|Zaire.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Zaire.protect|Zaire.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Zaire.private|Zaire.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Zaire.personal|Zaire.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Zaire.secret|Zaire.secret]] 
 

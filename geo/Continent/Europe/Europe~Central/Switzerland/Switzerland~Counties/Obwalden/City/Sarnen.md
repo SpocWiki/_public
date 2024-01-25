@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sarnen.md|Sarnen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sarnen.internal.md|Sarnen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sarnen.protect.md|Sarnen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sarnen.private.md|Sarnen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sarnen.personal.md|Sarnen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sarnen.secret.md|Sarnen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sarnen.internal|Sarnen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sarnen.protect|Sarnen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sarnen.private|Sarnen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sarnen.personal|Sarnen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sarnen.secret|Sarnen.secret]] 

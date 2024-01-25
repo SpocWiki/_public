@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Karstula.md|Karstula]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Karstula.internal.md|Karstula.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Karstula.protect.md|Karstula.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Karstula.private.md|Karstula.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Karstula.personal.md|Karstula.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Karstula.secret.md|Karstula.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Karstula.internal|Karstula.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Karstula.protect|Karstula.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Karstula.private|Karstula.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Karstula.personal|Karstula.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Karstula.secret|Karstula.secret]] 

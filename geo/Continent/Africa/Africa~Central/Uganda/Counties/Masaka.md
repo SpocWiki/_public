@@ -41,9 +41,9 @@ markerFolder: ./Masaka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Masaka.md|Masaka]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Masaka.internal.md|Masaka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Masaka.protect.md|Masaka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Masaka.private.md|Masaka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Masaka.personal.md|Masaka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Masaka.secret.md|Masaka.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Masaka.internal|Masaka.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Masaka.protect|Masaka.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Masaka.private|Masaka.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Masaka.personal|Masaka.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Masaka.secret|Masaka.secret]] 
 

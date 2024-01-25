@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.md|Benska_Bystrica]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.internal.md|Benska_Bystrica.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.protect.md|Benska_Bystrica.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.private.md|Benska_Bystrica.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.personal.md|Benska_Bystrica.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.secret.md|Benska_Bystrica.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.internal|Benska_Bystrica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.protect|Benska_Bystrica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.private|Benska_Bystrica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.personal|Benska_Bystrica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.secret|Benska_Bystrica.secret]] 

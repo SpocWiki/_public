@@ -134,7 +134,7 @@ markerFolder: ./Egypt//
 ## Confidential Links & Embeds: 
 - [[Egypt|Egypt]] 
 - [[../../../../../_internal/geo/Continent/Africa/Egypt.internal|Egypt.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt.protect.md|Egypt.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt.private.md|Egypt.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt.personal.md|Egypt.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt.secret.md|Egypt.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt.protect|Egypt.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt.private|Egypt.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt.personal|Egypt.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt.secret|Egypt.secret]] 

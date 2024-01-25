@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Skerries.md|Skerries]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Skerries.internal.md|Skerries.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Skerries.protect.md|Skerries.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Skerries.private.md|Skerries.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Skerries.personal.md|Skerries.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Skerries.secret.md|Skerries.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Skerries.internal|Skerries.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Skerries.protect|Skerries.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Skerries.private|Skerries.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Skerries.personal|Skerries.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Skerries.secret|Skerries.secret]] 

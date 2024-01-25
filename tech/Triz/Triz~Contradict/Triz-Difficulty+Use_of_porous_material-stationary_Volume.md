@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Use_of_porous_material-stationary_Volume]
 [SpocWebEntityId::26433]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle:[[Triz-Use_porous_material]]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.md|Triz-Difficulty+Use_of_porous_material-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.internal.md|Triz-Difficulty+Use_of_porous_material-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.protect.md|Triz-Difficulty+Use_of_porous_material-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.private.md|Triz-Difficulty+Use_of_porous_material-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.personal.md|Triz-Difficulty+Use_of_porous_material-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.secret.md|Triz-Difficulty+Use_of_porous_material-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.internal|Triz-Difficulty+Use_of_porous_material-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.protect|Triz-Difficulty+Use_of_porous_material-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.private|Triz-Difficulty+Use_of_porous_material-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.personal|Triz-Difficulty+Use_of_porous_material-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.secret|Triz-Difficulty+Use_of_porous_material-stationary_Volume.secret]] 

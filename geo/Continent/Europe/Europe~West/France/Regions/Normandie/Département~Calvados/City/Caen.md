@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Caen.md|Caen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Caen.internal.md|Caen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Caen.protect.md|Caen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Caen.private.md|Caen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Caen.personal.md|Caen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Caen.secret.md|Caen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Caen.internal|Caen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Caen.protect|Caen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Caen.private|Caen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Caen.personal|Caen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Caen.secret|Caen.secret]] 

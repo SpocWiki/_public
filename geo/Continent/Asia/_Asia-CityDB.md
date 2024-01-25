@@ -343,8 +343,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/_Asia-CityDB.md|_Asia-CityDB]] 
-- [[../../../../_internal/geo/Continent/Asia/_Asia-CityDB.internal.md|_Asia-CityDB.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/_Asia-CityDB.protect.md|_Asia-CityDB.protect]] 
-- [[../../../../_private/geo/Continent/Asia/_Asia-CityDB.private.md|_Asia-CityDB.private]] 
-- [[../../../../_personal/geo/Continent/Asia/_Asia-CityDB.personal.md|_Asia-CityDB.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/_Asia-CityDB.secret.md|_Asia-CityDB.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/_Asia-CityDB.internal|_Asia-CityDB.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/_Asia-CityDB.protect|_Asia-CityDB.protect]] 
+- [[../../../../_private/geo/Continent/Asia/_Asia-CityDB.private|_Asia-CityDB.private]] 
+- [[../../../../_personal/geo/Continent/Asia/_Asia-CityDB.personal|_Asia-CityDB.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/_Asia-CityDB.secret|_Asia-CityDB.secret]] 

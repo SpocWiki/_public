@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Dynamicity-Difficulty]
 [SpocWebEntityId::24780]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.md|Triz-Energy-Loss+Dynamicity-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.internal.md|Triz-Energy-Loss+Dynamicity-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.protect.md|Triz-Energy-Loss+Dynamicity-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.private.md|Triz-Energy-Loss+Dynamicity-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.personal.md|Triz-Energy-Loss+Dynamicity-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.secret.md|Triz-Energy-Loss+Dynamicity-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.internal|Triz-Energy-Loss+Dynamicity-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.protect|Triz-Energy-Loss+Dynamicity-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.private|Triz-Energy-Loss+Dynamicity-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.personal|Triz-Energy-Loss+Dynamicity-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Difficulty.secret|Triz-Energy-Loss+Dynamicity-Difficulty.secret]] 

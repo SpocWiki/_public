@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Flatholme.md|Flatholme]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Flatholme.internal.md|Flatholme.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Flatholme.protect.md|Flatholme.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Flatholme.private.md|Flatholme.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Flatholme.personal.md|Flatholme.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Flatholme.secret.md|Flatholme.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Flatholme.internal|Flatholme.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Flatholme.protect|Flatholme.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Flatholme.private|Flatholme.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Flatholme.personal|Flatholme.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Flatholme.secret|Flatholme.secret]] 

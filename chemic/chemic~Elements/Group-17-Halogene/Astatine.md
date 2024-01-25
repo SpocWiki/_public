@@ -38,8 +38,8 @@ SpocWebEntityId: 21980
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-17-Halogene/Astatine.md|Astatine]] 
-- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Astatine.internal.md|Astatine.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Astatine.protect.md|Astatine.protect]] 
-- [[../../../../_private/chemic/Elements/Group-17-Halogene/Astatine.private.md|Astatine.private]] 
-- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Astatine.personal.md|Astatine.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Astatine.secret.md|Astatine.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Astatine.internal|Astatine.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Astatine.protect|Astatine.protect]] 
+- [[../../../../_private/chemic/Elements/Group-17-Halogene/Astatine.private|Astatine.private]] 
+- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Astatine.personal|Astatine.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Astatine.secret|Astatine.secret]] 

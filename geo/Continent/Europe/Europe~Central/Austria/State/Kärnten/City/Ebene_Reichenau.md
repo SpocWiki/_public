@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Ebene_Reichenau.md|Ebene_Reichenau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ebene_Reichenau.internal.md|Ebene_Reichenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ebene_Reichenau.protect.md|Ebene_Reichenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ebene_Reichenau.private.md|Ebene_Reichenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ebene_Reichenau.personal.md|Ebene_Reichenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ebene_Reichenau.secret.md|Ebene_Reichenau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ebene_Reichenau.internal|Ebene_Reichenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ebene_Reichenau.protect|Ebene_Reichenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ebene_Reichenau.private|Ebene_Reichenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ebene_Reichenau.personal|Ebene_Reichenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ebene_Reichenau.secret|Ebene_Reichenau.secret]] 

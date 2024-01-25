@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Westport.md|Westport]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Westport.internal.md|Westport.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Westport.protect.md|Westport.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Westport.private.md|Westport.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Westport.personal.md|Westport.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Westport.secret.md|Westport.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Westport.internal|Westport.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Westport.protect|Westport.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Westport.private|Westport.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Westport.personal|Westport.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Westport.secret|Westport.secret]] 

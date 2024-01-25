@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Belize/City/Belmopan.md|Belmopan]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Belize/City/Belmopan.internal.md|Belmopan.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Belize/City/Belmopan.protect.md|Belmopan.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Belize/City/Belmopan.private.md|Belmopan.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Belize/City/Belmopan.personal.md|Belmopan.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Belize/City/Belmopan.secret.md|Belmopan.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Belize/City/Belmopan.internal|Belmopan.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Belize/City/Belmopan.protect|Belmopan.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Belize/City/Belmopan.private|Belmopan.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Belize/City/Belmopan.personal|Belmopan.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Belize/City/Belmopan.secret|Belmopan.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ludzas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ludzas.md|Ludzas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ludzas.internal.md|Ludzas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ludzas.protect.md|Ludzas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ludzas.private.md|Ludzas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ludzas.personal.md|Ludzas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ludzas.secret.md|Ludzas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ludzas.internal|Ludzas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ludzas.protect|Ludzas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ludzas.private|Ludzas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ludzas.personal|Ludzas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ludzas.secret|Ludzas.secret]] 
 

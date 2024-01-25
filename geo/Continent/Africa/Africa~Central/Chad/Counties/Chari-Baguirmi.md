@@ -41,9 +41,9 @@ markerFolder: ./Chari-Baguirmi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.md|Chari-Baguirmi]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.internal.md|Chari-Baguirmi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.protect.md|Chari-Baguirmi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.private.md|Chari-Baguirmi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.personal.md|Chari-Baguirmi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.secret.md|Chari-Baguirmi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.internal|Chari-Baguirmi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.protect|Chari-Baguirmi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.private|Chari-Baguirmi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.personal|Chari-Baguirmi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Chari-Baguirmi.secret|Chari-Baguirmi.secret]] 
 

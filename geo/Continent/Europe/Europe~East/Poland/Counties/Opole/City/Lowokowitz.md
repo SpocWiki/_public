@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lowokowitz.md|Lowokowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lowokowitz.internal.md|Lowokowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lowokowitz.protect.md|Lowokowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lowokowitz.private.md|Lowokowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lowokowitz.personal.md|Lowokowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lowokowitz.secret.md|Lowokowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lowokowitz.internal|Lowokowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lowokowitz.protect|Lowokowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lowokowitz.private|Lowokowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lowokowitz.personal|Lowokowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lowokowitz.secret|Lowokowitz.secret]] 

@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Minor.md|Zodiac~Minor]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Minor.internal.md|Zodiac~Minor.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Minor.protect.md|Zodiac~Minor.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Minor.private.md|Zodiac~Minor.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Minor.personal.md|Zodiac~Minor.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Minor.secret.md|Zodiac~Minor.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Minor.internal|Zodiac~Minor.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Minor.protect|Zodiac~Minor.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Minor.private|Zodiac~Minor.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Minor.personal|Zodiac~Minor.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Minor.secret|Zodiac~Minor.secret]] 

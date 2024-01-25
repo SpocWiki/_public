@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Heinerscheid.md|Heinerscheid]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Heinerscheid.internal.md|Heinerscheid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Heinerscheid.protect.md|Heinerscheid.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Heinerscheid.private.md|Heinerscheid.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Heinerscheid.personal.md|Heinerscheid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Heinerscheid.secret.md|Heinerscheid.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Heinerscheid.internal|Heinerscheid.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Heinerscheid.protect|Heinerscheid.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Heinerscheid.private|Heinerscheid.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Heinerscheid.personal|Heinerscheid.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Heinerscheid.secret|Heinerscheid.secret]] 

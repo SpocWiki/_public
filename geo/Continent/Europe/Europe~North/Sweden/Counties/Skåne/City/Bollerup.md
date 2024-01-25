@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bollerup.md|Bollerup]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bollerup.internal.md|Bollerup.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bollerup.protect.md|Bollerup.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bollerup.private.md|Bollerup.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bollerup.personal.md|Bollerup.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bollerup.secret.md|Bollerup.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bollerup.internal|Bollerup.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bollerup.protect|Bollerup.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bollerup.private|Bollerup.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bollerup.personal|Bollerup.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bollerup.secret|Bollerup.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Malampa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Malampa.md|Malampa]] 
-- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Malampa.internal.md|Malampa.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Malampa.protect.md|Malampa.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Malampa.private.md|Malampa.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Malampa.personal.md|Malampa.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Malampa.secret.md|Malampa.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Malampa.internal|Malampa.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Malampa.protect|Malampa.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Malampa.private|Malampa.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Malampa.personal|Malampa.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Malampa.secret|Malampa.secret]] 
 

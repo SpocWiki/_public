@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Maschin.md|Maschin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Maschin.internal.md|Maschin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Maschin.protect.md|Maschin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Maschin.private.md|Maschin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Maschin.personal.md|Maschin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Maschin.secret.md|Maschin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Maschin.internal|Maschin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Maschin.protect|Maschin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Maschin.private|Maschin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Maschin.personal|Maschin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Maschin.secret|Maschin.secret]] 

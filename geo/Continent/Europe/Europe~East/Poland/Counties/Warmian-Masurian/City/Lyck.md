@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lyck.md|Lyck]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lyck.internal.md|Lyck.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lyck.protect.md|Lyck.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lyck.private.md|Lyck.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lyck.personal.md|Lyck.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lyck.secret.md|Lyck.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lyck.internal|Lyck.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lyck.protect|Lyck.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lyck.private|Lyck.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lyck.personal|Lyck.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lyck.secret|Lyck.secret]] 

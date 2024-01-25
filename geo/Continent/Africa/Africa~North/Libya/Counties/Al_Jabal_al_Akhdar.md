@@ -41,9 +41,9 @@ markerFolder: ./Al_Jabal_al_Akhdar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.md|Al_Jabal_al_Akhdar]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.internal.md|Al_Jabal_al_Akhdar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.protect.md|Al_Jabal_al_Akhdar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.private.md|Al_Jabal_al_Akhdar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.personal.md|Al_Jabal_al_Akhdar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.secret.md|Al_Jabal_al_Akhdar.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.internal|Al_Jabal_al_Akhdar.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.protect|Al_Jabal_al_Akhdar.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.private|Al_Jabal_al_Akhdar.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.personal|Al_Jabal_al_Akhdar.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.secret|Al_Jabal_al_Akhdar.secret]] 
 

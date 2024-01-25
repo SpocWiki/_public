@@ -41,9 +41,9 @@ markerFolder: ./Zilupes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Zilupes.md|Zilupes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Zilupes.internal.md|Zilupes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Zilupes.protect.md|Zilupes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Zilupes.private.md|Zilupes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Zilupes.personal.md|Zilupes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Zilupes.secret.md|Zilupes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Zilupes.internal|Zilupes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Zilupes.protect|Zilupes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Zilupes.private|Zilupes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Zilupes.personal|Zilupes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Zilupes.secret|Zilupes.secret]] 
 

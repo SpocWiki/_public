@@ -41,9 +41,9 @@ markerFolder: ./Bistrica_ob_Sotli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.md|Bistrica_ob_Sotli]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.internal.md|Bistrica_ob_Sotli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.protect.md|Bistrica_ob_Sotli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.private.md|Bistrica_ob_Sotli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.personal.md|Bistrica_ob_Sotli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.secret.md|Bistrica_ob_Sotli.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.internal|Bistrica_ob_Sotli.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.protect|Bistrica_ob_Sotli.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.private|Bistrica_ob_Sotli.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.personal|Bistrica_ob_Sotli.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Bistrica_ob_Sotli.secret|Bistrica_ob_Sotli.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Argentina/City/Buenos_Aires.md|Buenos_Aires]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Argentina/City/Buenos_Aires.internal.md|Buenos_Aires.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Argentina/City/Buenos_Aires.protect.md|Buenos_Aires.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Argentina/City/Buenos_Aires.private.md|Buenos_Aires.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Argentina/City/Buenos_Aires.personal.md|Buenos_Aires.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Argentina/City/Buenos_Aires.secret.md|Buenos_Aires.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Argentina/City/Buenos_Aires.internal|Buenos_Aires.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Argentina/City/Buenos_Aires.protect|Buenos_Aires.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Argentina/City/Buenos_Aires.private|Buenos_Aires.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Argentina/City/Buenos_Aires.personal|Buenos_Aires.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Argentina/City/Buenos_Aires.secret|Buenos_Aires.secret]] 

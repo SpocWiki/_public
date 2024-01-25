@@ -41,9 +41,9 @@ markerFolder: ./Botswana~Southern/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.md|Botswana~Southern]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.internal.md|Botswana~Southern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.protect.md|Botswana~Southern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.private.md|Botswana~Southern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.personal.md|Botswana~Southern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.secret.md|Botswana~Southern.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.internal|Botswana~Southern.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.protect|Botswana~Southern.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.private|Botswana~Southern.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.personal|Botswana~Southern.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Botswana~Southern.secret|Botswana~Southern.secret]] 
 

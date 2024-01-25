@@ -41,9 +41,9 @@ markerFolder: ./Kökar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Kökar.md|Kökar]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Kökar.internal.md|Kökar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Kökar.protect.md|Kökar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Kökar.private.md|Kökar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Kökar.personal.md|Kökar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Kökar.secret.md|Kökar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Kökar.internal|Kökar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Kökar.protect|Kökar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Kökar.private|Kökar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Kökar.personal|Kökar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Kökar.secret|Kökar.secret]] 
 

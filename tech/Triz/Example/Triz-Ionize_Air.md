@@ -18,8 +18,8 @@ Ionize Air to trap Pollutants in an Air Cleaner.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Ionize_Air.md|Triz-Ionize_Air]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Ionize_Air.internal.md|Triz-Ionize_Air.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Ionize_Air.protect.md|Triz-Ionize_Air.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Ionize_Air.private.md|Triz-Ionize_Air.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Ionize_Air.personal.md|Triz-Ionize_Air.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Ionize_Air.secret.md|Triz-Ionize_Air.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Ionize_Air.internal|Triz-Ionize_Air.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Ionize_Air.protect|Triz-Ionize_Air.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Ionize_Air.private|Triz-Ionize_Air.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Ionize_Air.personal|Triz-Ionize_Air.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Ionize_Air.secret|Triz-Ionize_Air.secret]] 

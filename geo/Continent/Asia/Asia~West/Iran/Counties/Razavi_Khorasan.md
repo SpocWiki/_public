@@ -41,9 +41,9 @@ markerFolder: ./Razavi_Khorasan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.md|Razavi_Khorasan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.internal.md|Razavi_Khorasan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.protect.md|Razavi_Khorasan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.private.md|Razavi_Khorasan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.personal.md|Razavi_Khorasan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.secret.md|Razavi_Khorasan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.internal|Razavi_Khorasan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.protect|Razavi_Khorasan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.private|Razavi_Khorasan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.personal|Razavi_Khorasan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.secret|Razavi_Khorasan.secret]] 
 

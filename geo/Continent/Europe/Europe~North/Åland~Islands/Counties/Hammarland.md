@@ -41,9 +41,9 @@ markerFolder: ./Hammarland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.md|Hammarland]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.internal.md|Hammarland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.protect.md|Hammarland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.private.md|Hammarland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.personal.md|Hammarland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.secret.md|Hammarland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.internal|Hammarland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.protect|Hammarland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.private|Hammarland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.personal|Hammarland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.secret|Hammarland.secret]] 
 

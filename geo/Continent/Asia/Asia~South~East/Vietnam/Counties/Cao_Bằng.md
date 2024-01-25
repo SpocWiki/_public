@@ -41,9 +41,9 @@ markerFolder: ./Cao_Bằng/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.md|Cao_Bằng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.internal.md|Cao_Bằng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.protect.md|Cao_Bằng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.private.md|Cao_Bằng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.personal.md|Cao_Bằng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.secret.md|Cao_Bằng.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.internal|Cao_Bằng.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.protect|Cao_Bằng.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.private|Cao_Bằng.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.personal|Cao_Bằng.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.secret|Cao_Bằng.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Bolton/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.md|Bolton]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.internal.md|Bolton.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.protect.md|Bolton.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.private.md|Bolton.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.personal.md|Bolton.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.secret.md|Bolton.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.internal|Bolton.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.protect|Bolton.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.private|Bolton.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.personal|Bolton.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Bolton.secret|Bolton.secret]] 
 

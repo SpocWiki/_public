@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Allerheiligen.md|Allerheiligen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Allerheiligen.internal.md|Allerheiligen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Allerheiligen.protect.md|Allerheiligen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Allerheiligen.private.md|Allerheiligen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Allerheiligen.personal.md|Allerheiligen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Allerheiligen.secret.md|Allerheiligen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Allerheiligen.internal|Allerheiligen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Allerheiligen.protect|Allerheiligen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Allerheiligen.private|Allerheiligen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Allerheiligen.personal|Allerheiligen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Allerheiligen.secret|Allerheiligen.secret]] 

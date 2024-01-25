@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Delvinon.md|Delvinon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Delvinon.internal.md|Delvinon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Delvinon.protect.md|Delvinon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Delvinon.private.md|Delvinon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Delvinon.personal.md|Delvinon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Delvinon.secret.md|Delvinon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Delvinon.internal|Delvinon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Delvinon.protect|Delvinon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Delvinon.private|Delvinon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Delvinon.personal|Delvinon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Delvinon.secret|Delvinon.secret]] 

@@ -36,8 +36,8 @@ markerFolder: ./FRENCH_WEST_AFRICA/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/FRENCH_WEST_AFRICA.md|FRENCH_WEST_AFRICA]] 
-- [[../../../../_internal/geo/Continent/Africa/FRENCH_WEST_AFRICA.internal.md|FRENCH_WEST_AFRICA.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/FRENCH_WEST_AFRICA.protect.md|FRENCH_WEST_AFRICA.protect]] 
-- [[../../../../_private/geo/Continent/Africa/FRENCH_WEST_AFRICA.private.md|FRENCH_WEST_AFRICA.private]] 
-- [[../../../../_personal/geo/Continent/Africa/FRENCH_WEST_AFRICA.personal.md|FRENCH_WEST_AFRICA.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/FRENCH_WEST_AFRICA.secret.md|FRENCH_WEST_AFRICA.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/FRENCH_WEST_AFRICA.internal|FRENCH_WEST_AFRICA.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/FRENCH_WEST_AFRICA.protect|FRENCH_WEST_AFRICA.protect]] 
+- [[../../../../_private/geo/Continent/Africa/FRENCH_WEST_AFRICA.private|FRENCH_WEST_AFRICA.private]] 
+- [[../../../../_personal/geo/Continent/Africa/FRENCH_WEST_AFRICA.personal|FRENCH_WEST_AFRICA.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/FRENCH_WEST_AFRICA.secret|FRENCH_WEST_AFRICA.secret]] 

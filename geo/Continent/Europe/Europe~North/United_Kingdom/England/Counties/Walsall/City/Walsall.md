@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Walsall.md|Walsall]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Walsall.internal.md|Walsall.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Walsall.protect.md|Walsall.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Walsall.private.md|Walsall.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Walsall.personal.md|Walsall.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Walsall.secret.md|Walsall.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Walsall.internal|Walsall.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Walsall.protect|Walsall.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Walsall.private|Walsall.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Walsall.personal|Walsall.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Walsall.secret|Walsall.secret]] 

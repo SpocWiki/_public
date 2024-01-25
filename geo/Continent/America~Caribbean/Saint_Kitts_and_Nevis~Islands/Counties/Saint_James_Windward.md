@@ -41,9 +41,9 @@ markerFolder: ./Saint_James_Windward/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.md|Saint_James_Windward]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.internal.md|Saint_James_Windward.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.protect.md|Saint_James_Windward.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.private.md|Saint_James_Windward.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.personal.md|Saint_James_Windward.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.secret.md|Saint_James_Windward.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.internal|Saint_James_Windward.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.protect|Saint_James_Windward.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.private|Saint_James_Windward.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.personal|Saint_James_Windward.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_James_Windward.secret|Saint_James_Windward.secret]] 
 

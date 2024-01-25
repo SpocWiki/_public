@@ -41,9 +41,9 @@ markerFolder: ./Gorno-Badakhshan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.md|Gorno-Badakhshan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.internal.md|Gorno-Badakhshan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.protect.md|Gorno-Badakhshan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.private.md|Gorno-Badakhshan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.personal.md|Gorno-Badakhshan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.secret.md|Gorno-Badakhshan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.internal|Gorno-Badakhshan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.protect|Gorno-Badakhshan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.private|Gorno-Badakhshan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.personal|Gorno-Badakhshan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.secret|Gorno-Badakhshan.secret]] 
 

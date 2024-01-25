@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sodertalge.md|Sodertalge]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sodertalge.internal.md|Sodertalge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sodertalge.protect.md|Sodertalge.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sodertalge.private.md|Sodertalge.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sodertalge.personal.md|Sodertalge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sodertalge.secret.md|Sodertalge.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sodertalge.internal|Sodertalge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sodertalge.protect|Sodertalge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sodertalge.private|Sodertalge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sodertalge.personal|Sodertalge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sodertalge.secret|Sodertalge.secret]] 

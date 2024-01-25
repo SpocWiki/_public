@@ -18,8 +18,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-07-Manganese.md|Group-07-Manganese]] 
-- [[../../../_internal/chemic/Elements/Group-07-Manganese.internal.md|Group-07-Manganese.internal]] 
-- [[../../../_protect/chemic/Elements/Group-07-Manganese.protect.md|Group-07-Manganese.protect]] 
-- [[../../../_private/chemic/Elements/Group-07-Manganese.private.md|Group-07-Manganese.private]] 
-- [[../../../_personal/chemic/Elements/Group-07-Manganese.personal.md|Group-07-Manganese.personal]] 
-- [[../../../_secret/chemic/Elements/Group-07-Manganese.secret.md|Group-07-Manganese.secret]] 
+- [[../../../_internal/chemic/Elements/Group-07-Manganese.internal|Group-07-Manganese.internal]] 
+- [[../../../_protect/chemic/Elements/Group-07-Manganese.protect|Group-07-Manganese.protect]] 
+- [[../../../_private/chemic/Elements/Group-07-Manganese.private|Group-07-Manganese.private]] 
+- [[../../../_personal/chemic/Elements/Group-07-Manganese.personal|Group-07-Manganese.personal]] 
+- [[../../../_secret/chemic/Elements/Group-07-Manganese.secret|Group-07-Manganese.secret]] 

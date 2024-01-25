@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dulverton.md|Dulverton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dulverton.internal.md|Dulverton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dulverton.protect.md|Dulverton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dulverton.private.md|Dulverton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dulverton.personal.md|Dulverton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dulverton.secret.md|Dulverton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dulverton.internal|Dulverton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dulverton.protect|Dulverton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dulverton.private|Dulverton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dulverton.personal|Dulverton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dulverton.secret|Dulverton.secret]] 

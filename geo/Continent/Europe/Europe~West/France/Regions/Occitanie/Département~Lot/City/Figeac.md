@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Figeac.md|Figeac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Figeac.internal.md|Figeac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Figeac.protect.md|Figeac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Figeac.private.md|Figeac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Figeac.personal.md|Figeac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Figeac.secret.md|Figeac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Figeac.internal|Figeac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Figeac.protect|Figeac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Figeac.private|Figeac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Figeac.personal|Figeac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Figeac.secret|Figeac.secret]] 

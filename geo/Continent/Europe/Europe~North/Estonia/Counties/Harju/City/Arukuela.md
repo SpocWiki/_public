@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Arukuela.md|Arukuela]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Arukuela.internal.md|Arukuela.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Arukuela.protect.md|Arukuela.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Arukuela.private.md|Arukuela.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Arukuela.personal.md|Arukuela.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Arukuela.secret.md|Arukuela.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Arukuela.internal|Arukuela.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Arukuela.protect|Arukuela.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Arukuela.private|Arukuela.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Arukuela.personal|Arukuela.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Arukuela.secret|Arukuela.secret]] 

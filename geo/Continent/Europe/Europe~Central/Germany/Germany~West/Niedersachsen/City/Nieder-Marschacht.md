@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Nieder-Marschacht|Nieder-Marschacht]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.internal.md|Nieder-Marschacht.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.protect.md|Nieder-Marschacht.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.private.md|Nieder-Marschacht.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.personal.md|Nieder-Marschacht.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.secret.md|Nieder-Marschacht.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.internal|Nieder-Marschacht.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.protect|Nieder-Marschacht.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.private|Nieder-Marschacht.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.personal|Nieder-Marschacht.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.secret|Nieder-Marschacht.secret]] 

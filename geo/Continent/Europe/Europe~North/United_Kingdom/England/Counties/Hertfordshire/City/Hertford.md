@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hertford.md|Hertford]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hertford.internal.md|Hertford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hertford.protect.md|Hertford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hertford.private.md|Hertford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hertford.personal.md|Hertford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hertford.secret.md|Hertford.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hertford.internal|Hertford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hertford.protect|Hertford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hertford.private|Hertford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hertford.personal|Hertford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hertford.secret|Hertford.secret]] 

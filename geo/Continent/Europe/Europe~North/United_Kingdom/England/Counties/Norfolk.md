@@ -41,9 +41,9 @@ markerFolder: ./Norfolk/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.md|Norfolk]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.internal.md|Norfolk.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.protect.md|Norfolk.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.private.md|Norfolk.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.personal.md|Norfolk.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.secret.md|Norfolk.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.internal|Norfolk.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.protect|Norfolk.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.private|Norfolk.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.personal|Norfolk.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Norfolk.secret|Norfolk.secret]] 
 

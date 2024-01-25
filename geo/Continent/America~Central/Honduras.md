@@ -136,8 +136,8 @@ markerFolder: ./Honduras/
 
 ## Confidential Links & Embeds: 
 - [[Honduras|Honduras]] 
-- [[../../../../_internal/geo/Continent/South-America/Honduras.internal.md|Honduras.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Honduras.protect.md|Honduras.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Honduras.private.md|Honduras.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Honduras.personal.md|Honduras.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Honduras.secret.md|Honduras.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Honduras.internal|Honduras.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Honduras.protect|Honduras.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Honduras.private|Honduras.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Honduras.personal|Honduras.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Honduras.secret|Honduras.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kole/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kole.md|Kole]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kole.internal.md|Kole.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kole.protect.md|Kole.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kole.private.md|Kole.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kole.personal.md|Kole.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kole.secret.md|Kole.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kole.internal|Kole.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kole.protect|Kole.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kole.private|Kole.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kole.personal|Kole.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kole.secret|Kole.secret]] 
 

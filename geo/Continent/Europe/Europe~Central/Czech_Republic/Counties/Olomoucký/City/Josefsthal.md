@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Josefsthal.md|Josefsthal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Josefsthal.internal.md|Josefsthal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Josefsthal.protect.md|Josefsthal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Josefsthal.private.md|Josefsthal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Josefsthal.personal.md|Josefsthal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Josefsthal.secret.md|Josefsthal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Josefsthal.internal|Josefsthal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Josefsthal.protect|Josefsthal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Josefsthal.private|Josefsthal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Josefsthal.personal|Josefsthal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Josefsthal.secret|Josefsthal.secret]] 

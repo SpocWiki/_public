@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.md|Alt-Gleiwitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.internal.md|Alt-Gleiwitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.protect.md|Alt-Gleiwitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.private.md|Alt-Gleiwitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.personal.md|Alt-Gleiwitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.secret.md|Alt-Gleiwitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.internal|Alt-Gleiwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.protect|Alt-Gleiwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.private|Alt-Gleiwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.personal|Alt-Gleiwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.secret|Alt-Gleiwitz.secret]] 

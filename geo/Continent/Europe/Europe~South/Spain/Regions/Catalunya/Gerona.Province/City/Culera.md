@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Culera.md|Culera]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Culera.internal.md|Culera.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Culera.protect.md|Culera.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Culera.private.md|Culera.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Culera.personal.md|Culera.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Culera.secret.md|Culera.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Culera.internal|Culera.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Culera.protect|Culera.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Culera.private|Culera.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Culera.personal|Culera.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Culera.secret|Culera.secret]] 

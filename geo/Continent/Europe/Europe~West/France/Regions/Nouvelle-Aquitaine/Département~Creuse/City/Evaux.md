@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Evaux.md|Evaux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Evaux.internal.md|Evaux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Evaux.protect.md|Evaux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Evaux.private.md|Evaux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Evaux.personal.md|Evaux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Evaux.secret.md|Evaux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Evaux.internal|Evaux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Evaux.protect|Evaux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Evaux.private|Evaux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Evaux.personal|Evaux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Evaux.secret|Evaux.secret]] 

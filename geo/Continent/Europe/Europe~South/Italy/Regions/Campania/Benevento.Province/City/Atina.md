@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Atina.md|Atina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Atina.internal.md|Atina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Atina.protect.md|Atina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Atina.private.md|Atina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Atina.personal.md|Atina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Atina.secret.md|Atina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Atina.internal|Atina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Atina.protect|Atina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Atina.private|Atina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Atina.personal|Atina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Atina.secret|Atina.secret]] 

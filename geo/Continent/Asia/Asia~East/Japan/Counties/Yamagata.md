@@ -41,9 +41,9 @@ markerFolder: ./Yamagata/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.md|Yamagata]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.internal.md|Yamagata.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.protect.md|Yamagata.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.private.md|Yamagata.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.personal.md|Yamagata.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.secret.md|Yamagata.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.internal|Yamagata.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.protect|Yamagata.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.private|Yamagata.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.personal|Yamagata.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.secret|Yamagata.secret]] 
 

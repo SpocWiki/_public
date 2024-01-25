@@ -41,9 +41,9 @@ markerFolder: ./Al_Gharbiyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.md|Al_Gharbiyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.internal.md|Al_Gharbiyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.protect.md|Al_Gharbiyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.private.md|Al_Gharbiyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.personal.md|Al_Gharbiyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.secret.md|Al_Gharbiyah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.internal|Al_Gharbiyah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.protect|Al_Gharbiyah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.private|Al_Gharbiyah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.personal|Al_Gharbiyah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.secret|Al_Gharbiyah.secret]] 
 

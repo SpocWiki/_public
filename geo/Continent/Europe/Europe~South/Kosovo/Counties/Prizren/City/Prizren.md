@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Prizren.md|Prizren]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Prizren.internal.md|Prizren.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Prizren.protect.md|Prizren.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Prizren.private.md|Prizren.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Prizren.personal.md|Prizren.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Prizren.secret.md|Prizren.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Prizren.internal|Prizren.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Prizren.protect|Prizren.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Prizren.private|Prizren.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Prizren.personal|Prizren.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Prizren.secret|Prizren.secret]] 

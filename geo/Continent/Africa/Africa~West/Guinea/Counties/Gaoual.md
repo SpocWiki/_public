@@ -41,9 +41,9 @@ markerFolder: ./Gaoual/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Gaoual.md|Gaoual]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Gaoual.internal.md|Gaoual.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Gaoual.protect.md|Gaoual.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Gaoual.private.md|Gaoual.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Gaoual.personal.md|Gaoual.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Gaoual.secret.md|Gaoual.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Gaoual.internal|Gaoual.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Gaoual.protect|Gaoual.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Gaoual.private|Gaoual.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Gaoual.personal|Gaoual.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Gaoual.secret|Gaoual.secret]] 
 

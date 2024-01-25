@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Oristano.md|Oristano]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oristano.internal.md|Oristano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oristano.protect.md|Oristano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oristano.private.md|Oristano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oristano.personal.md|Oristano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oristano.secret.md|Oristano.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oristano.internal|Oristano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oristano.protect|Oristano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oristano.private|Oristano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oristano.personal|Oristano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oristano.secret|Oristano.secret]] 

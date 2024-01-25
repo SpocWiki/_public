@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cavalese.md|Cavalese]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cavalese.internal.md|Cavalese.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cavalese.protect.md|Cavalese.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cavalese.private.md|Cavalese.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cavalese.personal.md|Cavalese.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cavalese.secret.md|Cavalese.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cavalese.internal|Cavalese.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cavalese.protect|Cavalese.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cavalese.private|Cavalese.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cavalese.personal|Cavalese.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cavalese.secret|Cavalese.secret]] 

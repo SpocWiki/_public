@@ -20,8 +20,8 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/chemic/Elements/Group-06-Chromium.md|Group-06-Chromium]] 
-- [[../../../_internal/chemic/Elements/Group-06-Chromium.internal.md|Group-06-Chromium.internal]] 
-- [[../../../_protect/chemic/Elements/Group-06-Chromium.protect.md|Group-06-Chromium.protect]] 
-- [[../../../_private/chemic/Elements/Group-06-Chromium.private.md|Group-06-Chromium.private]] 
-- [[../../../_personal/chemic/Elements/Group-06-Chromium.personal.md|Group-06-Chromium.personal]] 
-- [[../../../_secret/chemic/Elements/Group-06-Chromium.secret.md|Group-06-Chromium.secret]] 
+- [[../../../_internal/chemic/Elements/Group-06-Chromium.internal|Group-06-Chromium.internal]] 
+- [[../../../_protect/chemic/Elements/Group-06-Chromium.protect|Group-06-Chromium.protect]] 
+- [[../../../_private/chemic/Elements/Group-06-Chromium.private|Group-06-Chromium.private]] 
+- [[../../../_personal/chemic/Elements/Group-06-Chromium.personal|Group-06-Chromium.personal]] 
+- [[../../../_secret/chemic/Elements/Group-06-Chromium.secret|Group-06-Chromium.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Bubanza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Bubanza.md|Bubanza]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Bubanza.internal.md|Bubanza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Bubanza.protect.md|Bubanza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Bubanza.private.md|Bubanza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Bubanza.personal.md|Bubanza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Bubanza.secret.md|Bubanza.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Bubanza.internal|Bubanza.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Bubanza.protect|Bubanza.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Bubanza.private|Bubanza.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Bubanza.personal|Bubanza.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Bubanza.secret|Bubanza.secret]] 
 

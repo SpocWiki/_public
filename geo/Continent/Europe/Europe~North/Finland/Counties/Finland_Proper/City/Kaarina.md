@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kaarina.md|Kaarina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaarina.internal.md|Kaarina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaarina.protect.md|Kaarina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kaarina.private.md|Kaarina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaarina.personal.md|Kaarina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaarina.secret.md|Kaarina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaarina.internal|Kaarina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaarina.protect|Kaarina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kaarina.private|Kaarina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaarina.personal|Kaarina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaarina.secret|Kaarina.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Samegrelo-Zemo_Svaneti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.md|Samegrelo-Zemo_Svaneti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.internal.md|Samegrelo-Zemo_Svaneti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.protect.md|Samegrelo-Zemo_Svaneti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.private.md|Samegrelo-Zemo_Svaneti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.personal.md|Samegrelo-Zemo_Svaneti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.secret.md|Samegrelo-Zemo_Svaneti.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.internal|Samegrelo-Zemo_Svaneti.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.protect|Samegrelo-Zemo_Svaneti.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.private|Samegrelo-Zemo_Svaneti.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.personal|Samegrelo-Zemo_Svaneti.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.secret|Samegrelo-Zemo_Svaneti.secret]] 
 

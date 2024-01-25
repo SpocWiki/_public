@@ -41,9 +41,9 @@ markerFolder: ./Atlántico_Sur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.md|Atlántico_Sur]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.internal.md|Atlántico_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.protect.md|Atlántico_Sur.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.private.md|Atlántico_Sur.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.personal.md|Atlántico_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.secret.md|Atlántico_Sur.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.internal|Atlántico_Sur.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.protect|Atlántico_Sur.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.private|Atlántico_Sur.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.personal|Atlántico_Sur.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Atlántico_Sur.secret|Atlántico_Sur.secret]] 
 

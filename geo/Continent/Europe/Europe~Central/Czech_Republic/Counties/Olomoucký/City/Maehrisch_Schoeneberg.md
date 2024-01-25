@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.md|Maehrisch_Schoeneberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.internal.md|Maehrisch_Schoeneberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.protect.md|Maehrisch_Schoeneberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.private.md|Maehrisch_Schoeneberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.personal.md|Maehrisch_Schoeneberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.secret.md|Maehrisch_Schoeneberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.internal|Maehrisch_Schoeneberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.protect|Maehrisch_Schoeneberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.private|Maehrisch_Schoeneberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.personal|Maehrisch_Schoeneberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.secret|Maehrisch_Schoeneberg.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Yambol/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Yambol.md|Yambol]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Yambol.internal.md|Yambol.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Yambol.protect.md|Yambol.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Yambol.private.md|Yambol.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Yambol.personal.md|Yambol.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Yambol.secret.md|Yambol.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Yambol.internal|Yambol.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Yambol.protect|Yambol.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Yambol.private|Yambol.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Yambol.personal|Yambol.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Yambol.secret|Yambol.secret]] 
 

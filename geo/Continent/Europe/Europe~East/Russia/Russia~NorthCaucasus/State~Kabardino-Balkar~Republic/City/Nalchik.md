@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nalchik.md|Nalchik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nalchik.internal.md|Nalchik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nalchik.protect.md|Nalchik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nalchik.private.md|Nalchik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nalchik.personal.md|Nalchik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nalchik.secret.md|Nalchik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nalchik.internal|Nalchik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nalchik.protect|Nalchik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nalchik.private|Nalchik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nalchik.personal|Nalchik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nalchik.secret|Nalchik.secret]] 

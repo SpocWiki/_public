@@ -41,9 +41,9 @@ markerFolder: ./Južno-Backi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Južno-Backi.md|Južno-Backi]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Južno-Backi.internal.md|Južno-Backi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Južno-Backi.protect.md|Južno-Backi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Južno-Backi.private.md|Južno-Backi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Južno-Backi.personal.md|Južno-Backi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Južno-Backi.secret.md|Južno-Backi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Južno-Backi.internal|Južno-Backi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Južno-Backi.protect|Južno-Backi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Južno-Backi.private|Južno-Backi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Južno-Backi.personal|Južno-Backi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Južno-Backi.secret|Južno-Backi.secret]] 
 

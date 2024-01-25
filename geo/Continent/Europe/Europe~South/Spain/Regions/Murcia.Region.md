@@ -41,9 +41,9 @@ markerFolder: ./Murcia.Region/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Murcia.Region.md|Murcia.Region]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Murcia.Region.internal.md|Murcia.Region.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Murcia.Region.protect.md|Murcia.Region.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Murcia.Region.private.md|Murcia.Region.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Murcia.Region.personal.md|Murcia.Region.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Murcia.Region.secret.md|Murcia.Region.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Murcia.Region.internal|Murcia.Region.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Murcia.Region.protect|Murcia.Region.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Murcia.Region.private|Murcia.Region.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Murcia.Region.personal|Murcia.Region.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Murcia.Region.secret|Murcia.Region.secret]] 
 

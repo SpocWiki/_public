@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Convert_harm_into_benefit-Shape]
 [SpocWebEntityId::23863]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.md|Triz-Stability+Convert_harm_into_benefit-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.internal.md|Triz-Stability+Convert_harm_into_benefit-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.protect.md|Triz-Stability+Convert_harm_into_benefit-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.private.md|Triz-Stability+Convert_harm_into_benefit-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.personal.md|Triz-Stability+Convert_harm_into_benefit-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.secret.md|Triz-Stability+Convert_harm_into_benefit-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.internal|Triz-Stability+Convert_harm_into_benefit-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.protect|Triz-Stability+Convert_harm_into_benefit-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.private|Triz-Stability+Convert_harm_into_benefit-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.personal|Triz-Stability+Convert_harm_into_benefit-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.secret|Triz-Stability+Convert_harm_into_benefit-Shape.secret]] 

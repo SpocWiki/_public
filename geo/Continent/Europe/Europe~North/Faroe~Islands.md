@@ -128,8 +128,8 @@ markerFolder: ./Faroe~Islands//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Faroe~Islands.md|Faroe~Islands]] 
-- [[../../../../_internal/geo/Continent/Europe/Faroe~Islands.internal.md|Faroe~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Faroe~Islands.protect.md|Faroe~Islands.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Faroe~Islands.private.md|Faroe~Islands.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Faroe~Islands.personal.md|Faroe~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Faroe~Islands.secret.md|Faroe~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Faroe~Islands.internal|Faroe~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Faroe~Islands.protect|Faroe~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Faroe~Islands.private|Faroe~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Faroe~Islands.personal|Faroe~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Faroe~Islands.secret|Faroe~Islands.secret]] 

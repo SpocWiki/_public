@@ -41,9 +41,9 @@ markerFolder: ./Département~Drôme/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.md|Département~Drôme]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.internal.md|Département~Drôme.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.protect.md|Département~Drôme.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.private.md|Département~Drôme.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.personal.md|Département~Drôme.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.secret.md|Département~Drôme.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.internal|Département~Drôme.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.protect|Département~Drôme.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.private|Département~Drôme.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.personal|Département~Drôme.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Drôme.secret|Département~Drôme.secret]] 
 

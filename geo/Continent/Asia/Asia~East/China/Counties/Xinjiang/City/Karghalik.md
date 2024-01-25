@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karghalik.md|Karghalik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karghalik.internal.md|Karghalik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karghalik.protect.md|Karghalik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karghalik.private.md|Karghalik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Karghalik.personal.md|Karghalik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Karghalik.secret.md|Karghalik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karghalik.internal|Karghalik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karghalik.protect|Karghalik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karghalik.private|Karghalik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Karghalik.personal|Karghalik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Karghalik.secret|Karghalik.secret]] 

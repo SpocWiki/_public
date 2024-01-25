@@ -41,9 +41,9 @@ markerFolder: ./Cádiz.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.md|Cádiz.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.internal.md|Cádiz.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.protect.md|Cádiz.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.private.md|Cádiz.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.personal.md|Cádiz.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.secret.md|Cádiz.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.internal|Cádiz.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.protect|Cádiz.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.private|Cádiz.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.personal|Cádiz.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Andalusia/Cádiz.Province.secret|Cádiz.Province.secret]] 
 

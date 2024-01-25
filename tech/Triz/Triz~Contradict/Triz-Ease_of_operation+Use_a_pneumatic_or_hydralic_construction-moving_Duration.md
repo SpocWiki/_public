@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration]
 [SpocWebEntityId::25993]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.md|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.internal.md|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.protect.md|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.private.md|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.personal.md|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.secret.md|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.internal|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.protect|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.private|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.personal|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.secret|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-moving_Duration.secret]] 

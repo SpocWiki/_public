@@ -445,8 +445,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/_Africa-CountryDb.md|_Africa-CountryDb]] 
-- [[../../../../_internal/geo/Continent/Africa/_Africa-CountryDb.internal.md|_Africa-CountryDb.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/_Africa-CountryDb.protect.md|_Africa-CountryDb.protect]] 
-- [[../../../../_private/geo/Continent/Africa/_Africa-CountryDb.private.md|_Africa-CountryDb.private]] 
-- [[../../../../_personal/geo/Continent/Africa/_Africa-CountryDb.personal.md|_Africa-CountryDb.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/_Africa-CountryDb.secret.md|_Africa-CountryDb.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/_Africa-CountryDb.internal|_Africa-CountryDb.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/_Africa-CountryDb.protect|_Africa-CountryDb.protect]] 
+- [[../../../../_private/geo/Continent/Africa/_Africa-CountryDb.private|_Africa-CountryDb.private]] 
+- [[../../../../_personal/geo/Continent/Africa/_Africa-CountryDb.personal|_Africa-CountryDb.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/_Africa-CountryDb.secret|_Africa-CountryDb.secret]] 

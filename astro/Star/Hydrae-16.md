@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Hydrae-16.md|Hydrae-16]] 
-- [[../../../_internal/astro/Star/Hydrae-16.internal.md|Hydrae-16.internal]] 
-- [[../../../_protect/astro/Star/Hydrae-16.protect.md|Hydrae-16.protect]] 
-- [[../../../_private/astro/Star/Hydrae-16.private.md|Hydrae-16.private]] 
-- [[../../../_personal/astro/Star/Hydrae-16.personal.md|Hydrae-16.personal]] 
-- [[../../../_secret/astro/Star/Hydrae-16.secret.md|Hydrae-16.secret]]
+- [[../../../_internal/astro/Star/Hydrae-16.internal|Hydrae-16.internal]] 
+- [[../../../_protect/astro/Star/Hydrae-16.protect|Hydrae-16.protect]] 
+- [[../../../_private/astro/Star/Hydrae-16.private|Hydrae-16.private]] 
+- [[../../../_personal/astro/Star/Hydrae-16.personal|Hydrae-16.personal]] 
+- [[../../../_secret/astro/Star/Hydrae-16.secret|Hydrae-16.secret]]
 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Meuse/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.md|Département~Meuse]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.internal.md|Département~Meuse.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.protect.md|Département~Meuse.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.private.md|Département~Meuse.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.personal.md|Département~Meuse.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.secret.md|Département~Meuse.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.internal|Département~Meuse.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.protect|Département~Meuse.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.private|Département~Meuse.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.personal|Département~Meuse.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Grand_Est/Département~Meuse.secret|Département~Meuse.secret]] 
 

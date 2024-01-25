@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Mechanical_vibration-moving_Weight]
 [SpocWebEntityId::25113]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.md|Triz-Quantity+Mechanical_vibration-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.internal.md|Triz-Quantity+Mechanical_vibration-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.protect.md|Triz-Quantity+Mechanical_vibration-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.private.md|Triz-Quantity+Mechanical_vibration-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.personal.md|Triz-Quantity+Mechanical_vibration-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.secret.md|Triz-Quantity+Mechanical_vibration-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.internal|Triz-Quantity+Mechanical_vibration-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.protect|Triz-Quantity+Mechanical_vibration-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.private|Triz-Quantity+Mechanical_vibration-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.personal|Triz-Quantity+Mechanical_vibration-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Weight.secret|Triz-Quantity+Mechanical_vibration-moving_Weight.secret]] 

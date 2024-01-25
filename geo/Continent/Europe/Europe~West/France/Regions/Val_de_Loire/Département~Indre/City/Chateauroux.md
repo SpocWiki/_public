@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chateauroux.md|Chateauroux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateauroux.internal.md|Chateauroux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateauroux.protect.md|Chateauroux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateauroux.private.md|Chateauroux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateauroux.personal.md|Chateauroux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateauroux.secret.md|Chateauroux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateauroux.internal|Chateauroux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateauroux.protect|Chateauroux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateauroux.private|Chateauroux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateauroux.personal|Chateauroux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateauroux.secret|Chateauroux.secret]] 

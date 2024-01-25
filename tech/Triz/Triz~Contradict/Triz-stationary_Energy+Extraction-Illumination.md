@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Extraction-Illumination]
 [SpocWebEntityId::24553]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.md|Triz-stationary_Energy+Extraction-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.internal.md|Triz-stationary_Energy+Extraction-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.protect.md|Triz-stationary_Energy+Extraction-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.private.md|Triz-stationary_Energy+Extraction-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.personal.md|Triz-stationary_Energy+Extraction-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.secret.md|Triz-stationary_Energy+Extraction-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.internal|Triz-stationary_Energy+Extraction-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.protect|Triz-stationary_Energy+Extraction-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.private|Triz-stationary_Energy+Extraction-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.personal|Triz-stationary_Energy+Extraction-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.secret|Triz-stationary_Energy+Extraction-Illumination.secret]] 

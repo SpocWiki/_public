@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jatzingen.md|Jatzingen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jatzingen.internal.md|Jatzingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jatzingen.protect.md|Jatzingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jatzingen.private.md|Jatzingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jatzingen.personal.md|Jatzingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jatzingen.secret.md|Jatzingen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jatzingen.internal|Jatzingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jatzingen.protect|Jatzingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jatzingen.private|Jatzingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jatzingen.personal|Jatzingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jatzingen.secret|Jatzingen.secret]] 

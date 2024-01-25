@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Weil_im_Schoenbuch|Weil_im_Schoenbuch]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.internal.md|Weil_im_Schoenbuch.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.protect.md|Weil_im_Schoenbuch.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.private.md|Weil_im_Schoenbuch.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.personal.md|Weil_im_Schoenbuch.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.secret.md|Weil_im_Schoenbuch.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.internal|Weil_im_Schoenbuch.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.protect|Weil_im_Schoenbuch.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.private|Weil_im_Schoenbuch.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.personal|Weil_im_Schoenbuch.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.secret|Weil_im_Schoenbuch.secret]] 

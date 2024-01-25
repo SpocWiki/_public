@@ -41,9 +41,9 @@ markerFolder: ./Gulbene/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Gulbene.md|Gulbene]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Gulbene.internal.md|Gulbene.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Gulbene.protect.md|Gulbene.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Gulbene.private.md|Gulbene.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Gulbene.personal.md|Gulbene.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Gulbene.secret.md|Gulbene.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Gulbene.internal|Gulbene.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Gulbene.protect|Gulbene.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Gulbene.private|Gulbene.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Gulbene.personal|Gulbene.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Gulbene.secret|Gulbene.secret]] 
 

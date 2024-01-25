@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hastings.md|Hastings]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hastings.internal.md|Hastings.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hastings.protect.md|Hastings.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hastings.private.md|Hastings.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hastings.personal.md|Hastings.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hastings.secret.md|Hastings.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hastings.internal|Hastings.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hastings.protect|Hastings.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hastings.private|Hastings.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hastings.personal|Hastings.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hastings.secret|Hastings.secret]] 

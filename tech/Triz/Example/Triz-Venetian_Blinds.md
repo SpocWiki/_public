@@ -18,8 +18,8 @@ Replace solid Shades with Venetian Blinds.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Venetian_Blinds.md|Triz-Venetian_Blinds]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Venetian_Blinds.internal.md|Triz-Venetian_Blinds.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Venetian_Blinds.protect.md|Triz-Venetian_Blinds.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Venetian_Blinds.private.md|Triz-Venetian_Blinds.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Venetian_Blinds.personal.md|Triz-Venetian_Blinds.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Venetian_Blinds.secret.md|Triz-Venetian_Blinds.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Venetian_Blinds.internal|Triz-Venetian_Blinds.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Venetian_Blinds.protect|Triz-Venetian_Blinds.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Venetian_Blinds.private|Triz-Venetian_Blinds.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Venetian_Blinds.personal|Triz-Venetian_Blinds.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Venetian_Blinds.secret|Triz-Venetian_Blinds.secret]] 

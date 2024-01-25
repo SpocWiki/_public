@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Oceania/Tonga/City/Nuku_alofa.md|Nuku_alofa]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Tonga/City/Nuku_alofa.internal.md|Nuku_alofa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Tonga/City/Nuku_alofa.protect.md|Nuku_alofa.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Tonga/City/Nuku_alofa.private.md|Nuku_alofa.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Tonga/City/Nuku_alofa.personal.md|Nuku_alofa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Tonga/City/Nuku_alofa.secret.md|Nuku_alofa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Tonga/City/Nuku_alofa.internal|Nuku_alofa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Tonga/City/Nuku_alofa.protect|Nuku_alofa.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Tonga/City/Nuku_alofa.private|Nuku_alofa.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Tonga/City/Nuku_alofa.personal|Nuku_alofa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Tonga/City/Nuku_alofa.secret|Nuku_alofa.secret]] 

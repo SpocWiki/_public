@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty]
 [SpocWebEntityId::25935]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.md|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.internal.md|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.protect.md|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.private.md|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.personal.md|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.secret.md|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.internal|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.protect|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.private|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.personal|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.secret|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.secret]] 

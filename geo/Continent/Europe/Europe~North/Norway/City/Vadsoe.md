@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Vadsoe.md|Vadsoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Vadsoe.internal.md|Vadsoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Vadsoe.protect.md|Vadsoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Vadsoe.private.md|Vadsoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Vadsoe.personal.md|Vadsoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Vadsoe.secret.md|Vadsoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Vadsoe.internal|Vadsoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Vadsoe.protect|Vadsoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Vadsoe.private|Vadsoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Vadsoe.personal|Vadsoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Vadsoe.secret|Vadsoe.secret]] 

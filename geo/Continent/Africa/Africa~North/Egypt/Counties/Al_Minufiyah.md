@@ -41,9 +41,9 @@ markerFolder: ./Al_Minufiyah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.md|Al_Minufiyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.internal.md|Al_Minufiyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.protect.md|Al_Minufiyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.private.md|Al_Minufiyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.personal.md|Al_Minufiyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.secret.md|Al_Minufiyah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.internal|Al_Minufiyah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.protect|Al_Minufiyah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.private|Al_Minufiyah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.personal|Al_Minufiyah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Minufiyah.secret|Al_Minufiyah.secret]] 
 

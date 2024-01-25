@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Fougéres.md|Fougéres]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fougéres.internal.md|Fougéres.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fougéres.protect.md|Fougéres.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Fougéres.private.md|Fougéres.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fougéres.personal.md|Fougéres.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fougéres.secret.md|Fougéres.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fougéres.internal|Fougéres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fougéres.protect|Fougéres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Fougéres.private|Fougéres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fougéres.personal|Fougéres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fougéres.secret|Fougéres.secret]] 

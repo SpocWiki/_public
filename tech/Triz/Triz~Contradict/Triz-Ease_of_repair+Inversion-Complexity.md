@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Inversion-Complexity]
 [SpocWebEntityId::26171]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.md|Triz-Ease_of_repair+Inversion-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.internal.md|Triz-Ease_of_repair+Inversion-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.protect.md|Triz-Ease_of_repair+Inversion-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.private.md|Triz-Ease_of_repair+Inversion-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.personal.md|Triz-Ease_of_repair+Inversion-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.secret.md|Triz-Ease_of_repair+Inversion-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.internal|Triz-Ease_of_repair+Inversion-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.protect|Triz-Ease_of_repair+Inversion-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.private|Triz-Ease_of_repair+Inversion-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.personal|Triz-Ease_of_repair+Inversion-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.secret|Triz-Ease_of_repair+Inversion-Complexity.secret]] 

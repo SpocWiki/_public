@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kemerove.md|Kemerove]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kemerove.internal.md|Kemerove.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kemerove.protect.md|Kemerove.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kemerove.private.md|Kemerove.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kemerove.personal.md|Kemerove.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kemerove.secret.md|Kemerove.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kemerove.internal|Kemerove.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kemerove.protect|Kemerove.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kemerove.private|Kemerove.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kemerove.personal|Kemerove.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kemerove.secret|Kemerove.secret]] 

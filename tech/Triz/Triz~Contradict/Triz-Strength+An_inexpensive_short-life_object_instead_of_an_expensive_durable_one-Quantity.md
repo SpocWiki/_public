@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity]
 [SpocWebEntityId::24023]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.internal.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.protect.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.private.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.personal.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.secret.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.internal|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.protect|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.private|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.personal|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.secret|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Quantity.secret]] 

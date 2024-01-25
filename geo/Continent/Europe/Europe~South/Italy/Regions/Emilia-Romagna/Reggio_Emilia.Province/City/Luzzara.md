@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Luzzara.md|Luzzara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Luzzara.internal.md|Luzzara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Luzzara.protect.md|Luzzara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Luzzara.private.md|Luzzara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Luzzara.personal.md|Luzzara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Luzzara.secret.md|Luzzara.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Luzzara.internal|Luzzara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Luzzara.protect|Luzzara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Luzzara.private|Luzzara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Luzzara.personal|Luzzara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Luzzara.secret|Luzzara.secret]] 

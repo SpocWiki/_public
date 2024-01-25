@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Knaered.md|Knaered]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Knaered.internal.md|Knaered.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Knaered.protect.md|Knaered.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Knaered.private.md|Knaered.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Knaered.personal.md|Knaered.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Knaered.secret.md|Knaered.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Knaered.internal|Knaered.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Knaered.protect|Knaered.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Knaered.private|Knaered.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Knaered.personal|Knaered.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Knaered.secret|Knaered.secret]] 

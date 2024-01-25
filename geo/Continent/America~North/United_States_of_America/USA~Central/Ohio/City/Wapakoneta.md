@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.md|Wapakoneta]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.internal.md|Wapakoneta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.protect.md|Wapakoneta.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.private.md|Wapakoneta.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.personal.md|Wapakoneta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.secret.md|Wapakoneta.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.internal|Wapakoneta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.protect|Wapakoneta.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.private|Wapakoneta.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.personal|Wapakoneta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.secret|Wapakoneta.secret]] 

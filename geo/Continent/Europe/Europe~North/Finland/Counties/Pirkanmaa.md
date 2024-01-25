@@ -41,9 +41,9 @@ markerFolder: ./Pirkanmaa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland/Counties/Pirkanmaa.md|Pirkanmaa]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Pirkanmaa.internal.md|Pirkanmaa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Pirkanmaa.protect.md|Pirkanmaa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Pirkanmaa.private.md|Pirkanmaa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Pirkanmaa.personal.md|Pirkanmaa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Pirkanmaa.secret.md|Pirkanmaa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Pirkanmaa.internal|Pirkanmaa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Pirkanmaa.protect|Pirkanmaa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Pirkanmaa.private|Pirkanmaa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Pirkanmaa.personal|Pirkanmaa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Pirkanmaa.secret|Pirkanmaa.secret]] 
 

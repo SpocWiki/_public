@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Smolensk_Oblast|State~Smolensk_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.internal|State~Smolensk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.protect.md|State~Smolensk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.private.md|State~Smolensk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.personal.md|State~Smolensk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.secret.md|State~Smolensk_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.protect|State~Smolensk_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.private|State~Smolensk_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.personal|State~Smolensk_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.secret|State~Smolensk_Oblast.secret]] 

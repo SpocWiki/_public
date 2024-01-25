@@ -41,9 +41,9 @@ markerFolder: ./Sulawesi_Barat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.md|Sulawesi_Barat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.internal.md|Sulawesi_Barat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.protect.md|Sulawesi_Barat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.private.md|Sulawesi_Barat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.personal.md|Sulawesi_Barat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.secret.md|Sulawesi_Barat.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.internal|Sulawesi_Barat.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.protect|Sulawesi_Barat.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.private|Sulawesi_Barat.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.personal|Sulawesi_Barat.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.secret|Sulawesi_Barat.secret]] 
 

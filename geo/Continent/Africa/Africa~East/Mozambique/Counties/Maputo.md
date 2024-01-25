@@ -41,9 +41,9 @@ markerFolder: ./Maputo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Maputo.md|Maputo]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Maputo.internal.md|Maputo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Maputo.protect.md|Maputo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Maputo.private.md|Maputo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Maputo.personal.md|Maputo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Maputo.secret.md|Maputo.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Maputo.internal|Maputo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Maputo.protect|Maputo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Maputo.private|Maputo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Maputo.personal|Maputo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Maputo.secret|Maputo.secret]] 
 

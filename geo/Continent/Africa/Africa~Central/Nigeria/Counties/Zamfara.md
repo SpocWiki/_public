@@ -41,9 +41,9 @@ markerFolder: ./Zamfara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Zamfara.md|Zamfara]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Zamfara.internal.md|Zamfara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Zamfara.protect.md|Zamfara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Zamfara.private.md|Zamfara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Zamfara.personal.md|Zamfara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Zamfara.secret.md|Zamfara.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Zamfara.internal|Zamfara.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Zamfara.protect|Zamfara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Zamfara.private|Zamfara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Zamfara.personal|Zamfara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Zamfara.secret|Zamfara.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Koulikoro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mali/Counties/Koulikoro.md|Koulikoro]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Koulikoro.internal.md|Koulikoro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Koulikoro.protect.md|Koulikoro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Koulikoro.private.md|Koulikoro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Koulikoro.personal.md|Koulikoro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Koulikoro.secret.md|Koulikoro.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Koulikoro.internal|Koulikoro.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Koulikoro.protect|Koulikoro.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Koulikoro.private|Koulikoro.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Koulikoro.personal|Koulikoro.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Koulikoro.secret|Koulikoro.secret]] 
 

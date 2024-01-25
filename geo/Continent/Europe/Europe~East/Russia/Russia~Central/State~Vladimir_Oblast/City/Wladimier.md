@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wladimier.md|Wladimier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wladimier.internal.md|Wladimier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wladimier.protect.md|Wladimier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wladimier.private.md|Wladimier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wladimier.personal.md|Wladimier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wladimier.secret.md|Wladimier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wladimier.internal|Wladimier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wladimier.protect|Wladimier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wladimier.private|Wladimier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wladimier.personal|Wladimier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wladimier.secret|Wladimier.secret]] 

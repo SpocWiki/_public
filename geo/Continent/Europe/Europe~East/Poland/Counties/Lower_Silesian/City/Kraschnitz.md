@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kraschnitz.md|Kraschnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kraschnitz.internal.md|Kraschnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kraschnitz.protect.md|Kraschnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kraschnitz.private.md|Kraschnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kraschnitz.personal.md|Kraschnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kraschnitz.secret.md|Kraschnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kraschnitz.internal|Kraschnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kraschnitz.protect|Kraschnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kraschnitz.private|Kraschnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kraschnitz.personal|Kraschnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kraschnitz.secret|Kraschnitz.secret]] 

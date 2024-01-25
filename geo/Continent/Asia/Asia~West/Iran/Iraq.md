@@ -133,7 +133,7 @@ markerFolder: ./Iraq/
 ## Confidential Links & Embeds: 
 -[[Iraq|Iraq]]] 
 -[[../../../../../../_internal/geo/Continent/Asia/Iraq.internal|Iraq.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Iraq.protect.md|Iraq.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Iraq.private.md|Iraq.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Iraq.personal.md|Iraq.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Iraq.secret.md|Iraq.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Iraq.protect|Iraq.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Iraq.private|Iraq.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Iraq.personal|Iraq.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Iraq.secret|Iraq.secret]] 

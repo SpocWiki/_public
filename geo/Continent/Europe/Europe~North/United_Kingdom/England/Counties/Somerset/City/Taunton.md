@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Taunton.md|Taunton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Taunton.internal.md|Taunton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Taunton.protect.md|Taunton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Taunton.private.md|Taunton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Taunton.personal.md|Taunton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Taunton.secret.md|Taunton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Taunton.internal|Taunton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Taunton.protect|Taunton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Taunton.private|Taunton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Taunton.personal|Taunton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Taunton.secret|Taunton.secret]] 

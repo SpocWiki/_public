@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Coudouan.md|Coudouan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Coudouan.internal.md|Coudouan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Coudouan.protect.md|Coudouan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Coudouan.private.md|Coudouan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Coudouan.personal.md|Coudouan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Coudouan.secret.md|Coudouan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Coudouan.internal|Coudouan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Coudouan.protect|Coudouan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Coudouan.private|Coudouan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Coudouan.personal|Coudouan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Coudouan.secret|Coudouan.secret]] 

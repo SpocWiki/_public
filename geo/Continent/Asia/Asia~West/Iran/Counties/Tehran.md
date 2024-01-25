@@ -41,9 +41,9 @@ markerFolder: ./Tehran/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.md|Tehran]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.internal.md|Tehran.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.protect.md|Tehran.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.private.md|Tehran.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.personal.md|Tehran.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.secret.md|Tehran.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.internal|Tehran.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.protect|Tehran.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.private|Tehran.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.personal|Tehran.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.secret|Tehran.secret]] 
 

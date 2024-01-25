@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Kirchhain_am_Eck|Kirchhain_am_Eck]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.internal.md|Kirchhain_am_Eck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.protect.md|Kirchhain_am_Eck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.private.md|Kirchhain_am_Eck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.personal.md|Kirchhain_am_Eck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.secret.md|Kirchhain_am_Eck.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.internal|Kirchhain_am_Eck.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.protect|Kirchhain_am_Eck.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.private|Kirchhain_am_Eck.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.personal|Kirchhain_am_Eck.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.secret|Kirchhain_am_Eck.secret]] 

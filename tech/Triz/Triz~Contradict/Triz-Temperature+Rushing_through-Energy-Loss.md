@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Rushing_through-Energy-Loss]
 [SpocWebEntityId::24292]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Rushing_through]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.md|Triz-Temperature+Rushing_through-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.internal.md|Triz-Temperature+Rushing_through-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.protect.md|Triz-Temperature+Rushing_through-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.private.md|Triz-Temperature+Rushing_through-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.personal.md|Triz-Temperature+Rushing_through-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.secret.md|Triz-Temperature+Rushing_through-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.internal|Triz-Temperature+Rushing_through-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.protect|Triz-Temperature+Rushing_through-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.private|Triz-Temperature+Rushing_through-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.personal|Triz-Temperature+Rushing_through-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.secret|Triz-Temperature+Rushing_through-Energy-Loss.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Amsterdam.md|Amsterdam]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Amsterdam.internal.md|Amsterdam.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Amsterdam.protect.md|Amsterdam.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Amsterdam.private.md|Amsterdam.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Amsterdam.personal.md|Amsterdam.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Amsterdam.secret.md|Amsterdam.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Amsterdam.internal|Amsterdam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Amsterdam.protect|Amsterdam.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Amsterdam.private|Amsterdam.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Amsterdam.personal|Amsterdam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Amsterdam.secret|Amsterdam.secret]] 

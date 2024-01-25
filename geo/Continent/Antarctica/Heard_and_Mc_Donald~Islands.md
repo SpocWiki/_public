@@ -37,8 +37,8 @@ markerFolder: ./Heard_and_Mc_Donald~Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.md|Heard_and_Mc_Donald~Islands]] 
-- [[../../../../_internal/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.internal.md|Heard_and_Mc_Donald~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.protect.md|Heard_and_Mc_Donald~Islands.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.private.md|Heard_and_Mc_Donald~Islands.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.personal.md|Heard_and_Mc_Donald~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.secret.md|Heard_and_Mc_Donald~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.internal|Heard_and_Mc_Donald~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.protect|Heard_and_Mc_Donald~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.private|Heard_and_Mc_Donald~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.personal|Heard_and_Mc_Donald~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.secret|Heard_and_Mc_Donald~Islands.secret]] 

@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Scorpii-4.md|Scorpii-4]] 
-- [[../../../_internal/astro/Star/Scorpii-4.internal.md|Scorpii-4.internal]] 
-- [[../../../_protect/astro/Star/Scorpii-4.protect.md|Scorpii-4.protect]] 
-- [[../../../_private/astro/Star/Scorpii-4.private.md|Scorpii-4.private]] 
-- [[../../../_personal/astro/Star/Scorpii-4.personal.md|Scorpii-4.personal]] 
-- [[../../../_secret/astro/Star/Scorpii-4.secret.md|Scorpii-4.secret]] 
+- [[../../../_internal/astro/Star/Scorpii-4.internal|Scorpii-4.internal]] 
+- [[../../../_protect/astro/Star/Scorpii-4.protect|Scorpii-4.protect]] 
+- [[../../../_private/astro/Star/Scorpii-4.private|Scorpii-4.private]] 
+- [[../../../_personal/astro/Star/Scorpii-4.personal|Scorpii-4.personal]] 
+- [[../../../_secret/astro/Star/Scorpii-4.secret|Scorpii-4.secret]] 

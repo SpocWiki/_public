@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gorio.md|Gorio]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gorio.internal.md|Gorio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gorio.protect.md|Gorio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gorio.private.md|Gorio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gorio.personal.md|Gorio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gorio.secret.md|Gorio.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gorio.internal|Gorio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gorio.protect|Gorio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gorio.private|Gorio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gorio.personal|Gorio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gorio.secret|Gorio.secret]] 

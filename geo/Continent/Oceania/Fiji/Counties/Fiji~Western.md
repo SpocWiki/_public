@@ -41,9 +41,9 @@ markerFolder: ./Fiji~Western/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.md|Fiji~Western]] 
-- [[../../../../_internal/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.internal.md|Fiji~Western.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.protect.md|Fiji~Western.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.private.md|Fiji~Western.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.personal.md|Fiji~Western.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.secret.md|Fiji~Western.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.internal|Fiji~Western.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.protect|Fiji~Western.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.private|Fiji~Western.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.personal|Fiji~Western.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Fiji/Counties/Fiji~Western.secret|Fiji~Western.secret]] 
 

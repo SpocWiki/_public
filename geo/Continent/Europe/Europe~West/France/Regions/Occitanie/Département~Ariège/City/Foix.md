@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Foix.md|Foix]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Foix.internal.md|Foix.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Foix.protect.md|Foix.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Foix.private.md|Foix.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Foix.personal.md|Foix.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Foix.secret.md|Foix.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Foix.internal|Foix.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Foix.protect|Foix.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Foix.private|Foix.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Foix.personal|Foix.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Foix.secret|Foix.secret]] 

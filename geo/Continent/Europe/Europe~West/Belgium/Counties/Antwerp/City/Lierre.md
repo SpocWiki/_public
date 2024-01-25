@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Lierre.md|Lierre]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Lierre.internal.md|Lierre.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Lierre.protect.md|Lierre.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Lierre.private.md|Lierre.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Lierre.personal.md|Lierre.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Lierre.secret.md|Lierre.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Lierre.internal|Lierre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Lierre.protect|Lierre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Lierre.private|Lierre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Lierre.personal|Lierre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Lierre.secret|Lierre.secret]] 

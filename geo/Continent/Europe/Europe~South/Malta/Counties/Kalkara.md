@@ -41,9 +41,9 @@ markerFolder: ./Kalkara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Kalkara.md|Kalkara]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Kalkara.internal.md|Kalkara.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Kalkara.protect.md|Kalkara.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Kalkara.private.md|Kalkara.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Kalkara.personal.md|Kalkara.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Kalkara.secret.md|Kalkara.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Kalkara.internal|Kalkara.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Kalkara.protect|Kalkara.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Kalkara.private|Kalkara.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Kalkara.personal|Kalkara.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Kalkara.secret|Kalkara.secret]] 
 

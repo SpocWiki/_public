@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Nieder-Weistritz.md|Nieder-Weistritz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nieder-Weistritz.internal.md|Nieder-Weistritz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nieder-Weistritz.protect.md|Nieder-Weistritz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nieder-Weistritz.private.md|Nieder-Weistritz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nieder-Weistritz.personal.md|Nieder-Weistritz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nieder-Weistritz.secret.md|Nieder-Weistritz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nieder-Weistritz.internal|Nieder-Weistritz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nieder-Weistritz.protect|Nieder-Weistritz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nieder-Weistritz.private|Nieder-Weistritz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nieder-Weistritz.personal|Nieder-Weistritz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nieder-Weistritz.secret|Nieder-Weistritz.secret]] 

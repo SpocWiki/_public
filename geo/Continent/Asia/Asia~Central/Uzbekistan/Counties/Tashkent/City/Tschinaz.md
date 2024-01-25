@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschinaz.md|Tschinaz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschinaz.internal.md|Tschinaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschinaz.protect.md|Tschinaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschinaz.private.md|Tschinaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschinaz.personal.md|Tschinaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschinaz.secret.md|Tschinaz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschinaz.internal|Tschinaz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschinaz.protect|Tschinaz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschinaz.private|Tschinaz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschinaz.personal|Tschinaz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschinaz.secret|Tschinaz.secret]] 

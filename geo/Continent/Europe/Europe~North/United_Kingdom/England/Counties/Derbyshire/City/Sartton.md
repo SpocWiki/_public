@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sartton.md|Sartton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sartton.internal.md|Sartton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sartton.protect.md|Sartton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sartton.private.md|Sartton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sartton.personal.md|Sartton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sartton.secret.md|Sartton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sartton.internal|Sartton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sartton.protect|Sartton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sartton.private|Sartton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sartton.personal|Sartton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sartton.secret|Sartton.secret]] 

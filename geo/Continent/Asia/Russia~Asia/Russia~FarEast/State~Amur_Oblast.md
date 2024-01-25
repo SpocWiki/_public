@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Amur_Oblast|State~Amur_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Amur_Oblast.internal|State~Amur_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Amur_Oblast.protect.md|State~Amur_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Amur_Oblast.private.md|State~Amur_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Amur_Oblast.personal.md|State~Amur_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Amur_Oblast.secret.md|State~Amur_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Amur_Oblast.protect|State~Amur_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Amur_Oblast.private|State~Amur_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Amur_Oblast.personal|State~Amur_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Amur_Oblast.secret|State~Amur_Oblast.secret]] 

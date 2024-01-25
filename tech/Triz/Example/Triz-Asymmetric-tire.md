@@ -18,8 +18,8 @@ Make one Side of a Tire stronger than the other to withstand Impact with the Cur
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Asymmetric-tire.md|Triz-Asymmetric-tire]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Asymmetric-tire.internal.md|Triz-Asymmetric-tire.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Asymmetric-tire.protect.md|Triz-Asymmetric-tire.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Asymmetric-tire.private.md|Triz-Asymmetric-tire.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Asymmetric-tire.personal.md|Triz-Asymmetric-tire.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Asymmetric-tire.secret.md|Triz-Asymmetric-tire.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Asymmetric-tire.internal|Triz-Asymmetric-tire.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Asymmetric-tire.protect|Triz-Asymmetric-tire.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Asymmetric-tire.private|Triz-Asymmetric-tire.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Asymmetric-tire.personal|Triz-Asymmetric-tire.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Asymmetric-tire.secret|Triz-Asymmetric-tire.secret]] 

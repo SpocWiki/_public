@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Rejecting_and_regenerating_parts-Complexity]
 [SpocWebEntityId::24690]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.md|Triz-Power+Rejecting_and_regenerating_parts-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.internal.md|Triz-Power+Rejecting_and_regenerating_parts-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.protect.md|Triz-Power+Rejecting_and_regenerating_parts-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.private.md|Triz-Power+Rejecting_and_regenerating_parts-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.personal.md|Triz-Power+Rejecting_and_regenerating_parts-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.secret.md|Triz-Power+Rejecting_and_regenerating_parts-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.internal|Triz-Power+Rejecting_and_regenerating_parts-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.protect|Triz-Power+Rejecting_and_regenerating_parts-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.private|Triz-Power+Rejecting_and_regenerating_parts-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.personal|Triz-Power+Rejecting_and_regenerating_parts-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.secret|Triz-Power+Rejecting_and_regenerating_parts-Complexity.secret]] 

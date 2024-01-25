@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Black-Head.md|Black-Head]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Black-Head.internal.md|Black-Head.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Black-Head.protect.md|Black-Head.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Black-Head.private.md|Black-Head.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Black-Head.personal.md|Black-Head.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Black-Head.secret.md|Black-Head.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Black-Head.internal|Black-Head.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Black-Head.protect|Black-Head.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Black-Head.private|Black-Head.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Black-Head.personal|Black-Head.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Black-Head.secret|Black-Head.secret]] 

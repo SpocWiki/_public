@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Use_strong_oxidisers-moving_Energy]
 [SpocWebEntityId::25046]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
-- [con::[[Triz-moving_Energy]]]
+- [#has_/Cons :: [[Triz-moving_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.md|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.internal.md|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.protect.md|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.private.md|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.personal.md|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.secret.md|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.internal|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.protect|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.private|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.personal|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.secret|Triz-Time-Loss+Use_strong_oxidisers-moving_Energy.secret]] 

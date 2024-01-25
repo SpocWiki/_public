@@ -41,9 +41,9 @@ markerFolder: ./Brighton_and_Hove/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.md|Brighton_and_Hove]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.internal.md|Brighton_and_Hove.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.protect.md|Brighton_and_Hove.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.private.md|Brighton_and_Hove.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.personal.md|Brighton_and_Hove.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.secret.md|Brighton_and_Hove.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.internal|Brighton_and_Hove.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.protect|Brighton_and_Hove.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.private|Brighton_and_Hove.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.personal|Brighton_and_Hove.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Brighton_and_Hove.secret|Brighton_and_Hove.secret]] 
 

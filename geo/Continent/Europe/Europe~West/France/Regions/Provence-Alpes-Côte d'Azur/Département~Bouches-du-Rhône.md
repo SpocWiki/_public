@@ -41,9 +41,9 @@ markerFolder: ./Département~Bouches-du-Rhône/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.md|Département~Bouches-du-Rhône]] 
-- [[../../../../_internal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.internal.md|Département~Bouches-du-Rhône.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.protect.md|Département~Bouches-du-Rhône.protect]] 
-- [[../../../../_private/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.private.md|Département~Bouches-du-Rhône.private]] 
-- [[../../../../_personal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.personal.md|Département~Bouches-du-Rhône.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.secret.md|Département~Bouches-du-Rhône.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.internal|Département~Bouches-du-Rhône.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.protect|Département~Bouches-du-Rhône.protect]] 
+- [[../../../../_private/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.private|Département~Bouches-du-Rhône.private]] 
+- [[../../../../_personal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.personal|Département~Bouches-du-Rhône.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.secret|Département~Bouches-du-Rhône.secret]] 
 

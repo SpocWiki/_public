@@ -26,8 +26,8 @@ Use electric, magnetic and electromagnetic fields to interact with the object.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-use-EM-Field.md|Triz-use-EM-Field]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-use-EM-Field.internal.md|Triz-use-EM-Field.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-use-EM-Field.protect.md|Triz-use-EM-Field.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-use-EM-Field.private.md|Triz-use-EM-Field.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-use-EM-Field.personal.md|Triz-use-EM-Field.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-use-EM-Field.secret.md|Triz-use-EM-Field.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-use-EM-Field.internal|Triz-use-EM-Field.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-use-EM-Field.protect|Triz-use-EM-Field.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-use-EM-Field.private|Triz-use-EM-Field.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-use-EM-Field.personal|Triz-use-EM-Field.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-use-EM-Field.secret|Triz-use-EM-Field.secret]] 

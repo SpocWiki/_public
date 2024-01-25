@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Halduboszormeny.md|Halduboszormeny]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Halduboszormeny.internal.md|Halduboszormeny.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Halduboszormeny.protect.md|Halduboszormeny.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Halduboszormeny.private.md|Halduboszormeny.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Halduboszormeny.personal.md|Halduboszormeny.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Halduboszormeny.secret.md|Halduboszormeny.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Halduboszormeny.internal|Halduboszormeny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Halduboszormeny.protect|Halduboszormeny.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Halduboszormeny.private|Halduboszormeny.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Halduboszormeny.personal|Halduboszormeny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Halduboszormeny.secret|Halduboszormeny.secret]] 

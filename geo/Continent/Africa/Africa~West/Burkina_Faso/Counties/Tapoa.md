@@ -41,9 +41,9 @@ markerFolder: ./Tapoa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.md|Tapoa]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.internal.md|Tapoa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.protect.md|Tapoa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.private.md|Tapoa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.personal.md|Tapoa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.secret.md|Tapoa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.internal|Tapoa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.protect|Tapoa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.private|Tapoa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.personal|Tapoa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Tapoa.secret|Tapoa.secret]] 
 

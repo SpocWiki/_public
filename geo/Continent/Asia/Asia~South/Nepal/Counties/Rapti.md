@@ -41,9 +41,9 @@ markerFolder: ./Rapti/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.md|Rapti]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.internal.md|Rapti.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.protect.md|Rapti.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.private.md|Rapti.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.personal.md|Rapti.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.secret.md|Rapti.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.internal|Rapti.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.protect|Rapti.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.private|Rapti.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.personal|Rapti.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.secret|Rapti.secret]] 
 

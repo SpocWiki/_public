@@ -41,9 +41,9 @@ markerFolder: ./Primorsko-Goranska/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.md|Primorsko-Goranska]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.internal.md|Primorsko-Goranska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.protect.md|Primorsko-Goranska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.private.md|Primorsko-Goranska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.personal.md|Primorsko-Goranska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.secret.md|Primorsko-Goranska.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.internal|Primorsko-Goranska.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.protect|Primorsko-Goranska.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.private|Primorsko-Goranska.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.personal|Primorsko-Goranska.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Primorsko-Goranska.secret|Primorsko-Goranska.secret]] 
 

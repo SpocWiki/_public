@@ -41,9 +41,9 @@ markerFolder: ./Département~Somme/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.md|Département~Somme]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.internal.md|Département~Somme.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.protect.md|Département~Somme.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.private.md|Département~Somme.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.personal.md|Département~Somme.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.secret.md|Département~Somme.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.internal|Département~Somme.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.protect|Département~Somme.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.private|Département~Somme.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.personal|Département~Somme.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Hauts-de-France/Département~Somme.secret|Département~Somme.secret]] 
 

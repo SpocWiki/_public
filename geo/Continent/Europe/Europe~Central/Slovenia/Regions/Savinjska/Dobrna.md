@@ -41,9 +41,9 @@ markerFolder: ./Dobrna/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.md|Dobrna]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.internal.md|Dobrna.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.protect.md|Dobrna.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.private.md|Dobrna.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.personal.md|Dobrna.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.secret.md|Dobrna.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.internal|Dobrna.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.protect|Dobrna.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.private|Dobrna.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.personal|Dobrna.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Dobrna.secret|Dobrna.secret]] 
 

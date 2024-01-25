@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kutala.md|Kutala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kutala.internal.md|Kutala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kutala.protect.md|Kutala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kutala.private.md|Kutala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kutala.personal.md|Kutala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kutala.secret.md|Kutala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kutala.internal|Kutala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kutala.protect|Kutala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kutala.private|Kutala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kutala.personal|Kutala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kutala.secret|Kutala.secret]] 

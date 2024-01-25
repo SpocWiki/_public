@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ura-tyube.md|Ura-tyube]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ura-tyube.internal.md|Ura-tyube.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ura-tyube.protect.md|Ura-tyube.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ura-tyube.private.md|Ura-tyube.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ura-tyube.personal.md|Ura-tyube.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ura-tyube.secret.md|Ura-tyube.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ura-tyube.internal|Ura-tyube.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ura-tyube.protect|Ura-tyube.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ura-tyube.private|Ura-tyube.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ura-tyube.personal|Ura-tyube.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ura-tyube.secret|Ura-tyube.secret]] 

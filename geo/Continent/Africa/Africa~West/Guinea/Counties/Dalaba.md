@@ -41,9 +41,9 @@ markerFolder: ./Dalaba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Dalaba.md|Dalaba]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dalaba.internal.md|Dalaba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dalaba.protect.md|Dalaba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Dalaba.private.md|Dalaba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dalaba.personal.md|Dalaba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dalaba.secret.md|Dalaba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dalaba.internal|Dalaba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dalaba.protect|Dalaba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Dalaba.private|Dalaba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dalaba.personal|Dalaba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dalaba.secret|Dalaba.secret]] 
 

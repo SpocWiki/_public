@@ -41,9 +41,9 @@ markerFolder: ./Satakunta/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland/Counties/Satakunta.md|Satakunta]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Satakunta.internal.md|Satakunta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Satakunta.protect.md|Satakunta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Satakunta.private.md|Satakunta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Satakunta.personal.md|Satakunta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Satakunta.secret.md|Satakunta.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Satakunta.internal|Satakunta.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Satakunta.protect|Satakunta.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Satakunta.private|Satakunta.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Satakunta.personal|Satakunta.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Satakunta.secret|Satakunta.secret]] 
 

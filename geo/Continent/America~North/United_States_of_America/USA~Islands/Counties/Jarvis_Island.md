@@ -41,9 +41,9 @@ markerFolder: ./Jarvis_Island/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.md|Jarvis_Island]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.internal.md|Jarvis_Island.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.protect.md|Jarvis_Island.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.private.md|Jarvis_Island.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.personal.md|Jarvis_Island.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.secret.md|Jarvis_Island.secret]] 
+- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.internal|Jarvis_Island.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.protect|Jarvis_Island.protect]] 
+- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.private|Jarvis_Island.private]] 
+- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.personal|Jarvis_Island.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.secret|Jarvis_Island.secret]] 
 

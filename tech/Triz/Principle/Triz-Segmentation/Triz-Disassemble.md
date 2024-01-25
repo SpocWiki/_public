@@ -27,8 +27,8 @@ Make an object easy to disassemble.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-Disassemble.md|Triz-Disassemble]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-Disassemble.internal.md|Triz-Disassemble.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-Disassemble.protect.md|Triz-Disassemble.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-Disassemble.private.md|Triz-Disassemble.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-Disassemble.personal.md|Triz-Disassemble.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-Disassemble.secret.md|Triz-Disassemble.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-Disassemble.internal|Triz-Disassemble.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-Disassemble.protect|Triz-Disassemble.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-Disassemble.private|Triz-Disassemble.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-Disassemble.personal|Triz-Disassemble.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-Disassemble.secret|Triz-Disassemble.secret]] 

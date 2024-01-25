@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[George_Town|George_Town]]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Cayman~Islands/City/George_Town.internal.md|George_Town.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Cayman~Islands/City/George_Town.protect.md|George_Town.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Cayman~Islands/City/George_Town.private.md|George_Town.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Cayman~Islands/City/George_Town.personal.md|George_Town.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Cayman~Islands/City/George_Town.secret.md|George_Town.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Cayman~Islands/City/George_Town.internal|George_Town.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Cayman~Islands/City/George_Town.protect|George_Town.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Cayman~Islands/City/George_Town.private|George_Town.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Cayman~Islands/City/George_Town.personal|George_Town.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Cayman~Islands/City/George_Town.secret|George_Town.secret]] 

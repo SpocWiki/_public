@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zmerinka.md|Zmerinka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zmerinka.internal.md|Zmerinka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zmerinka.protect.md|Zmerinka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zmerinka.private.md|Zmerinka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zmerinka.personal.md|Zmerinka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zmerinka.secret.md|Zmerinka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zmerinka.internal|Zmerinka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zmerinka.protect|Zmerinka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zmerinka.private|Zmerinka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zmerinka.personal|Zmerinka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zmerinka.secret|Zmerinka.secret]] 

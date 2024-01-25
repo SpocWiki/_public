@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Katharein.md|St.Katharein]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Katharein.internal.md|St.Katharein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Katharein.protect.md|St.Katharein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Katharein.private.md|St.Katharein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Katharein.personal.md|St.Katharein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Katharein.secret.md|St.Katharein.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Katharein.internal|St.Katharein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Katharein.protect|St.Katharein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Katharein.private|St.Katharein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Katharein.personal|St.Katharein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Katharein.secret|St.Katharein.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Quiestello.md|Quiestello]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Quiestello.internal.md|Quiestello.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Quiestello.protect.md|Quiestello.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Quiestello.private.md|Quiestello.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Quiestello.personal.md|Quiestello.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Quiestello.secret.md|Quiestello.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Quiestello.internal|Quiestello.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Quiestello.protect|Quiestello.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Quiestello.private|Quiestello.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Quiestello.personal|Quiestello.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Quiestello.secret|Quiestello.secret]] 

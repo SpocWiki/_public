@@ -41,9 +41,9 @@ markerFolder: ./South_Cotabato/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.md|South_Cotabato]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.internal.md|South_Cotabato.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.protect.md|South_Cotabato.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.private.md|South_Cotabato.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.personal.md|South_Cotabato.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.secret.md|South_Cotabato.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.internal|South_Cotabato.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.protect|South_Cotabato.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.private|South_Cotabato.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.personal|South_Cotabato.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.secret|South_Cotabato.secret]] 
 

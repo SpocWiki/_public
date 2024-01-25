@@ -41,9 +41,9 @@ markerFolder: ./Sultan_Kudarat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.md|Sultan_Kudarat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.internal.md|Sultan_Kudarat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.protect.md|Sultan_Kudarat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.private.md|Sultan_Kudarat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.personal.md|Sultan_Kudarat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.secret.md|Sultan_Kudarat.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.internal|Sultan_Kudarat.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.protect|Sultan_Kudarat.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.private|Sultan_Kudarat.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.personal|Sultan_Kudarat.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.secret|Sultan_Kudarat.secret]] 
 

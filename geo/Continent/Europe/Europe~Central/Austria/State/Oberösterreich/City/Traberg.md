@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Traberg.md|Traberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Traberg.internal.md|Traberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Traberg.protect.md|Traberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Traberg.private.md|Traberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Traberg.personal.md|Traberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Traberg.secret.md|Traberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Traberg.internal|Traberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Traberg.protect|Traberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Traberg.private|Traberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Traberg.personal|Traberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Traberg.secret|Traberg.secret]] 

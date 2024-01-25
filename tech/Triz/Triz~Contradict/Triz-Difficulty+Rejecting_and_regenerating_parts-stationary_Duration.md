@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Rejecting_and_regenerating_parts-stationary_Duration]
 [SpocWebEntityId::26463]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-stationary_Duration]]]
+- [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.md|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.internal.md|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.protect.md|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.private.md|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.personal.md|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.secret.md|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.internal|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.protect|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.private|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.personal|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.secret|Triz-Difficulty+Rejecting_and_regenerating_parts-stationary_Duration.secret]] 

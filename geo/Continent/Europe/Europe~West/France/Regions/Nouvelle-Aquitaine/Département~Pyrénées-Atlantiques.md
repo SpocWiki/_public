@@ -41,9 +41,9 @@ markerFolder: ./Département~Pyrénées-Atlantiques/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.md|Département~Pyrénées-Atlantiques]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.internal.md|Département~Pyrénées-Atlantiques.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.protect.md|Département~Pyrénées-Atlantiques.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.private.md|Département~Pyrénées-Atlantiques.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.personal.md|Département~Pyrénées-Atlantiques.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.secret.md|Département~Pyrénées-Atlantiques.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.internal|Département~Pyrénées-Atlantiques.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.protect|Département~Pyrénées-Atlantiques.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.private|Département~Pyrénées-Atlantiques.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.personal|Département~Pyrénées-Atlantiques.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Nouvelle-Aquitaine/Département~Pyrénées-Atlantiques.secret|Département~Pyrénées-Atlantiques.secret]] 
 

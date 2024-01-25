@@ -41,9 +41,9 @@ markerFolder: ./Al_Marqab/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Marqab.md|Al_Marqab]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Marqab.internal.md|Al_Marqab.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Marqab.protect.md|Al_Marqab.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Marqab.private.md|Al_Marqab.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Marqab.personal.md|Al_Marqab.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Marqab.secret.md|Al_Marqab.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Marqab.internal|Al_Marqab.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Marqab.protect|Al_Marqab.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Marqab.private|Al_Marqab.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Marqab.personal|Al_Marqab.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Marqab.secret|Al_Marqab.secret]] 
 

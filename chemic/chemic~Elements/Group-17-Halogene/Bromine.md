@@ -41,8 +41,8 @@ SpocWebEntityId: 21933
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-17-Halogene/Bromine.md|Bromine]] 
-- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Bromine.internal.md|Bromine.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Bromine.protect.md|Bromine.protect]] 
-- [[../../../../_private/chemic/Elements/Group-17-Halogene/Bromine.private.md|Bromine.private]] 
-- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Bromine.personal.md|Bromine.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Bromine.secret.md|Bromine.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Bromine.internal|Bromine.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Bromine.protect|Bromine.protect]] 
+- [[../../../../_private/chemic/Elements/Group-17-Halogene/Bromine.private|Bromine.private]] 
+- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Bromine.personal|Bromine.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Bromine.secret|Bromine.secret]] 

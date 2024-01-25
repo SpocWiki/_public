@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.md|Caldas_da_Reinha]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.internal.md|Caldas_da_Reinha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.protect.md|Caldas_da_Reinha.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.private.md|Caldas_da_Reinha.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.personal.md|Caldas_da_Reinha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.secret.md|Caldas_da_Reinha.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.internal|Caldas_da_Reinha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.protect|Caldas_da_Reinha.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.private|Caldas_da_Reinha.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.personal|Caldas_da_Reinha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.secret|Caldas_da_Reinha.secret]] 

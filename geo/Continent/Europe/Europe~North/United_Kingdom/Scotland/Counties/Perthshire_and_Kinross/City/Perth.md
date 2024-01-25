@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Perth.md|Perth]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Perth.internal.md|Perth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Perth.protect.md|Perth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Perth.private.md|Perth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Perth.personal.md|Perth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Perth.secret.md|Perth.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Perth.internal|Perth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Perth.protect|Perth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Perth.private|Perth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Perth.personal|Perth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Perth.secret|Perth.secret]] 

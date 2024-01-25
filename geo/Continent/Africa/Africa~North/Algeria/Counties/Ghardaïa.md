@@ -41,9 +41,9 @@ markerFolder: ./Ghardaïa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Ghardaïa.md|Ghardaïa]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Ghardaïa.internal.md|Ghardaïa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Ghardaïa.protect.md|Ghardaïa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Ghardaïa.private.md|Ghardaïa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Ghardaïa.personal.md|Ghardaïa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Ghardaïa.secret.md|Ghardaïa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Ghardaïa.internal|Ghardaïa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Ghardaïa.protect|Ghardaïa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Ghardaïa.private|Ghardaïa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Ghardaïa.personal|Ghardaïa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Ghardaïa.secret|Ghardaïa.secret]] 
 

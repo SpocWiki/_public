@@ -18,8 +18,8 @@ Garden Hoses can be joined together to form any Length.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-connect_Joints.md|Triz-connect_Joints]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-connect_Joints.internal.md|Triz-connect_Joints.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-connect_Joints.protect.md|Triz-connect_Joints.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-connect_Joints.private.md|Triz-connect_Joints.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-connect_Joints.personal.md|Triz-connect_Joints.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-connect_Joints.secret.md|Triz-connect_Joints.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-connect_Joints.internal|Triz-connect_Joints.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-connect_Joints.protect|Triz-connect_Joints.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-connect_Joints.private|Triz-connect_Joints.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-connect_Joints.personal|Triz-connect_Joints.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-connect_Joints.secret|Triz-connect_Joints.secret]] 

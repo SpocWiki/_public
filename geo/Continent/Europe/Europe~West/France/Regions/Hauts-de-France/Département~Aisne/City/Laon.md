@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Laon.md|Laon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Laon.internal.md|Laon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Laon.protect.md|Laon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Laon.private.md|Laon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Laon.personal.md|Laon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Laon.secret.md|Laon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Laon.internal|Laon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Laon.protect|Laon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Laon.private|Laon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Laon.personal|Laon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Laon.secret|Laon.secret]] 

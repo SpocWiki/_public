@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Sculptor.md|Zodiac~Sculptor]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Sculptor.internal.md|Zodiac~Sculptor.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Sculptor.protect.md|Zodiac~Sculptor.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Sculptor.private.md|Zodiac~Sculptor.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Sculptor.personal.md|Zodiac~Sculptor.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Sculptor.secret.md|Zodiac~Sculptor.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Sculptor.internal|Zodiac~Sculptor.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Sculptor.protect|Zodiac~Sculptor.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Sculptor.private|Zodiac~Sculptor.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Sculptor.personal|Zodiac~Sculptor.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Sculptor.secret|Zodiac~Sculptor.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Tartu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Tartu.md|Tartu]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Tartu.internal.md|Tartu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Tartu.protect.md|Tartu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Tartu.private.md|Tartu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Tartu.personal.md|Tartu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Tartu.secret.md|Tartu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Tartu.internal|Tartu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Tartu.protect|Tartu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Tartu.private|Tartu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Tartu.personal|Tartu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Tartu.secret|Tartu.secret]] 
 

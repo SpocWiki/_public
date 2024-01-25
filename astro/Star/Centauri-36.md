@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Centauri-36.md|Centauri-36]] 
-- [[../../../_internal/astro/Star/Centauri-36.internal.md|Centauri-36.internal]] 
-- [[../../../_protect/astro/Star/Centauri-36.protect.md|Centauri-36.protect]] 
-- [[../../../_private/astro/Star/Centauri-36.private.md|Centauri-36.private]] 
-- [[../../../_personal/astro/Star/Centauri-36.personal.md|Centauri-36.personal]] 
-- [[../../../_secret/astro/Star/Centauri-36.secret.md|Centauri-36.secret]]
+- [[../../../_internal/astro/Star/Centauri-36.internal|Centauri-36.internal]] 
+- [[../../../_protect/astro/Star/Centauri-36.protect|Centauri-36.protect]] 
+- [[../../../_private/astro/Star/Centauri-36.private|Centauri-36.private]] 
+- [[../../../_personal/astro/Star/Centauri-36.personal|Centauri-36.personal]] 
+- [[../../../_secret/astro/Star/Centauri-36.secret|Centauri-36.secret]]
 

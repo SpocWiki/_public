@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bogschuetz.md|Bogschuetz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bogschuetz.internal.md|Bogschuetz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bogschuetz.protect.md|Bogschuetz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bogschuetz.private.md|Bogschuetz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bogschuetz.personal.md|Bogschuetz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bogschuetz.secret.md|Bogschuetz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bogschuetz.internal|Bogschuetz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bogschuetz.protect|Bogschuetz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bogschuetz.private|Bogschuetz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bogschuetz.personal|Bogschuetz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bogschuetz.secret|Bogschuetz.secret]] 

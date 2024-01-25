@@ -41,9 +41,9 @@ markerFolder: ./Sarajevo-romanija/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.md|Sarajevo-romanija]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.internal.md|Sarajevo-romanija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.protect.md|Sarajevo-romanija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.private.md|Sarajevo-romanija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.personal.md|Sarajevo-romanija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.secret.md|Sarajevo-romanija.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.internal|Sarajevo-romanija.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.protect|Sarajevo-romanija.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.private|Sarajevo-romanija.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.personal|Sarajevo-romanija.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.secret|Sarajevo-romanija.secret]] 
 

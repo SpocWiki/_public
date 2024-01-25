@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Hangoe=Hanko.md|Hangoe=Hanko]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hangoe=Hanko.internal.md|Hangoe=Hanko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hangoe=Hanko.protect.md|Hangoe=Hanko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hangoe=Hanko.private.md|Hangoe=Hanko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hangoe=Hanko.personal.md|Hangoe=Hanko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hangoe=Hanko.secret.md|Hangoe=Hanko.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hangoe=Hanko.internal|Hangoe=Hanko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hangoe=Hanko.protect|Hangoe=Hanko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hangoe=Hanko.private|Hangoe=Hanko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hangoe=Hanko.personal|Hangoe=Hanko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hangoe=Hanko.secret|Hangoe=Hanko.secret]] 

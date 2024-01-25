@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Peiskretscham.md|Peiskretscham]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Peiskretscham.internal.md|Peiskretscham.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Peiskretscham.protect.md|Peiskretscham.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Peiskretscham.private.md|Peiskretscham.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Peiskretscham.personal.md|Peiskretscham.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Peiskretscham.secret.md|Peiskretscham.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Peiskretscham.internal|Peiskretscham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Peiskretscham.protect|Peiskretscham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Peiskretscham.private|Peiskretscham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Peiskretscham.personal|Peiskretscham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Peiskretscham.secret|Peiskretscham.secret]] 

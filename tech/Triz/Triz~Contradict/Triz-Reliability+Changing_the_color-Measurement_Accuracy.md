@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Changing_the_color-Measurement_Accuracy]
 [SpocWebEntityId::25321]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.md|Triz-Reliability+Changing_the_color-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.internal.md|Triz-Reliability+Changing_the_color-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.protect.md|Triz-Reliability+Changing_the_color-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.private.md|Triz-Reliability+Changing_the_color-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.personal.md|Triz-Reliability+Changing_the_color-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.secret.md|Triz-Reliability+Changing_the_color-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.internal|Triz-Reliability+Changing_the_color-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.protect|Triz-Reliability+Changing_the_color-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.private|Triz-Reliability+Changing_the_color-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.personal|Triz-Reliability+Changing_the_color-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Measurement_Accuracy.secret|Triz-Reliability+Changing_the_color-Measurement_Accuracy.secret]] 

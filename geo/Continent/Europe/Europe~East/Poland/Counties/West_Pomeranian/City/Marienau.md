@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Marienau.md|Marienau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Marienau.internal.md|Marienau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Marienau.protect.md|Marienau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Marienau.private.md|Marienau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Marienau.personal.md|Marienau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Marienau.secret.md|Marienau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Marienau.internal|Marienau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Marienau.protect|Marienau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Marienau.private|Marienau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Marienau.personal|Marienau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Marienau.secret|Marienau.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/La_Coruna.md|La_Coruna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/La_Coruna.internal.md|La_Coruna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/La_Coruna.protect.md|La_Coruna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/La_Coruna.private.md|La_Coruna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/La_Coruna.personal.md|La_Coruna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/La_Coruna.secret.md|La_Coruna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/La_Coruna.internal|La_Coruna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/La_Coruna.protect|La_Coruna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/La_Coruna.private|La_Coruna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/La_Coruna.personal|La_Coruna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/La_Coruna.secret|La_Coruna.secret]] 

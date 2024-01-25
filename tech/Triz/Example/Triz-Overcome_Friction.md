@@ -18,8 +18,8 @@ Overcome static Friction at lower Energies by introducing a constant Level of En
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Overcome_Friction.md|Triz-Overcome_Friction]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Overcome_Friction.internal.md|Triz-Overcome_Friction.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Overcome_Friction.protect.md|Triz-Overcome_Friction.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Overcome_Friction.private.md|Triz-Overcome_Friction.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Overcome_Friction.personal.md|Triz-Overcome_Friction.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Overcome_Friction.secret.md|Triz-Overcome_Friction.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Overcome_Friction.internal|Triz-Overcome_Friction.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Overcome_Friction.protect|Triz-Overcome_Friction.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Overcome_Friction.private|Triz-Overcome_Friction.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Overcome_Friction.personal|Triz-Overcome_Friction.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Overcome_Friction.secret|Triz-Overcome_Friction.secret]] 

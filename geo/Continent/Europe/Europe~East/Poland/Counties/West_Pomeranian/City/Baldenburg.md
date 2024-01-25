@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Baldenburg.md|Baldenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Baldenburg.internal.md|Baldenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Baldenburg.protect.md|Baldenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Baldenburg.private.md|Baldenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Baldenburg.personal.md|Baldenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Baldenburg.secret.md|Baldenburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Baldenburg.internal|Baldenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Baldenburg.protect|Baldenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Baldenburg.private|Baldenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Baldenburg.personal|Baldenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Baldenburg.secret|Baldenburg.secret]] 

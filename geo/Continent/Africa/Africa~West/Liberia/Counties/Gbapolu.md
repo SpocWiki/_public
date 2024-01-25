@@ -41,9 +41,9 @@ markerFolder: ./Gbapolu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Gbapolu.md|Gbapolu]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Gbapolu.internal.md|Gbapolu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Gbapolu.protect.md|Gbapolu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Gbapolu.private.md|Gbapolu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Gbapolu.personal.md|Gbapolu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Gbapolu.secret.md|Gbapolu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Gbapolu.internal|Gbapolu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Gbapolu.protect|Gbapolu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Gbapolu.private|Gbapolu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Gbapolu.personal|Gbapolu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Gbapolu.secret|Gbapolu.secret]] 
 

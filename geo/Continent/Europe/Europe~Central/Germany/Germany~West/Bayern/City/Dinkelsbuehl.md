@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Dinkelsbuehl|Dinkelsbuehl]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.internal.md|Dinkelsbuehl.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.protect.md|Dinkelsbuehl.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.private.md|Dinkelsbuehl.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.personal.md|Dinkelsbuehl.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.secret.md|Dinkelsbuehl.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.internal|Dinkelsbuehl.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.protect|Dinkelsbuehl.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.private|Dinkelsbuehl.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.personal|Dinkelsbuehl.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.secret|Dinkelsbuehl.secret]] 

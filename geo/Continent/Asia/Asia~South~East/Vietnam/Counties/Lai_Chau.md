@@ -41,9 +41,9 @@ markerFolder: ./Lai_Chau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.md|Lai_Chau]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.internal.md|Lai_Chau.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.protect.md|Lai_Chau.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.private.md|Lai_Chau.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.personal.md|Lai_Chau.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.secret.md|Lai_Chau.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.internal|Lai_Chau.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.protect|Lai_Chau.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.private|Lai_Chau.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.personal|Lai_Chau.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.secret|Lai_Chau.secret]] 
 

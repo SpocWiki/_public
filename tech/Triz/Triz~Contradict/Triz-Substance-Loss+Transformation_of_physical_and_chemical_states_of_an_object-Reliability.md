@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability]
 [SpocWebEntityId::24884]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.md|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal.md|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect.md|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private.md|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal.md|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret.md|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret]] 

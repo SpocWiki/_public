@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Borognontsy.md|Borognontsy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Borognontsy.internal.md|Borognontsy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Borognontsy.protect.md|Borognontsy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Borognontsy.private.md|Borognontsy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Borognontsy.personal.md|Borognontsy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Borognontsy.secret.md|Borognontsy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Borognontsy.internal|Borognontsy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Borognontsy.protect|Borognontsy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Borognontsy.private|Borognontsy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Borognontsy.personal|Borognontsy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Borognontsy.secret|Borognontsy.secret]] 

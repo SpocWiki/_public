@@ -41,9 +41,9 @@ markerFolder: ./Warap/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Warap.md|Warap]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Warap.internal.md|Warap.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Warap.protect.md|Warap.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Warap.private.md|Warap.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Warap.personal.md|Warap.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Warap.secret.md|Warap.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Warap.internal|Warap.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Warap.protect|Warap.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Warap.private|Warap.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Warap.personal|Warap.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Warap.secret|Warap.secret]] 
 

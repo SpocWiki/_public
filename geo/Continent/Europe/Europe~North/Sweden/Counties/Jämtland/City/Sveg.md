@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sveg.md|Sveg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sveg.internal.md|Sveg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sveg.protect.md|Sveg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sveg.private.md|Sveg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sveg.personal.md|Sveg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sveg.secret.md|Sveg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sveg.internal|Sveg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sveg.protect|Sveg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sveg.private|Sveg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sveg.personal|Sveg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sveg.secret|Sveg.secret]] 

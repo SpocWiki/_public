@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Darbénai.md|Darbénai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Darbénai.internal.md|Darbénai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Darbénai.protect.md|Darbénai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Darbénai.private.md|Darbénai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Darbénai.personal.md|Darbénai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Darbénai.secret.md|Darbénai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Darbénai.internal|Darbénai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Darbénai.protect|Darbénai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Darbénai.private|Darbénai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Darbénai.personal|Darbénai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Darbénai.secret|Darbénai.secret]] 

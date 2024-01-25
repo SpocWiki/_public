@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bondeno.md|Bondeno]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bondeno.internal.md|Bondeno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bondeno.protect.md|Bondeno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bondeno.private.md|Bondeno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bondeno.personal.md|Bondeno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bondeno.secret.md|Bondeno.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bondeno.internal|Bondeno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bondeno.protect|Bondeno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bondeno.private|Bondeno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bondeno.personal|Bondeno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bondeno.secret|Bondeno.secret]] 

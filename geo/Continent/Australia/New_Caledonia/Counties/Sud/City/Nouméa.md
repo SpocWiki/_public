@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Australia/New_Caledonia/City/Nouméa.md|Nouméa]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Caledonia/City/Nouméa.internal.md|Nouméa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Caledonia/City/Nouméa.protect.md|Nouméa.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Caledonia/City/Nouméa.private.md|Nouméa.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Caledonia/City/Nouméa.personal.md|Nouméa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Caledonia/City/Nouméa.secret.md|Nouméa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Caledonia/City/Nouméa.internal|Nouméa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Caledonia/City/Nouméa.protect|Nouméa.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Caledonia/City/Nouméa.private|Nouméa.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Caledonia/City/Nouméa.personal|Nouméa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Caledonia/City/Nouméa.secret|Nouméa.secret]] 

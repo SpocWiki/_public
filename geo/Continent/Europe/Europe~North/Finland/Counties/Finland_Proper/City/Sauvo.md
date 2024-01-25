@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sauvo.md|Sauvo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sauvo.internal.md|Sauvo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sauvo.protect.md|Sauvo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sauvo.private.md|Sauvo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sauvo.personal.md|Sauvo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sauvo.secret.md|Sauvo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sauvo.internal|Sauvo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sauvo.protect|Sauvo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sauvo.private|Sauvo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sauvo.personal|Sauvo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sauvo.secret|Sauvo.secret]] 

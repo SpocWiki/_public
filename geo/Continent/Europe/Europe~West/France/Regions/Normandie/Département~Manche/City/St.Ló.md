@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Ló.md|St.Ló]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Ló.internal.md|St.Ló.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Ló.protect.md|St.Ló.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Ló.private.md|St.Ló.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Ló.personal.md|St.Ló.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Ló.secret.md|St.Ló.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Ló.internal|St.Ló.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Ló.protect|St.Ló.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Ló.private|St.Ló.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Ló.personal|St.Ló.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Ló.secret|St.Ló.secret]] 

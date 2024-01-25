@@ -41,9 +41,9 @@ markerFolder: ./Département~Côtes-d'Armor/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.md|Département~Côtes-d'Armor]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.internal.md|Département~Côtes-d'Armor.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.protect.md|Département~Côtes-d'Armor.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.private.md|Département~Côtes-d'Armor.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.personal.md|Département~Côtes-d'Armor.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.secret.md|Département~Côtes-d'Armor.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.internal|Département~Côtes-d'Armor.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.protect|Département~Côtes-d'Armor.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.private|Département~Côtes-d'Armor.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.personal|Département~Côtes-d'Armor.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Bretagne/Département~Côtes-d'Armor.secret|Département~Côtes-d'Armor.secret]] 
 

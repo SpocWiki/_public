@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Extraction-stationary_Volume]
 [SpocWebEntityId::25260]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.md|Triz-Reliability+Extraction-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.internal.md|Triz-Reliability+Extraction-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.protect.md|Triz-Reliability+Extraction-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.private.md|Triz-Reliability+Extraction-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.personal.md|Triz-Reliability+Extraction-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.secret.md|Triz-Reliability+Extraction-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.internal|Triz-Reliability+Extraction-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.protect|Triz-Reliability+Extraction-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.private|Triz-Reliability+Extraction-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.personal|Triz-Reliability+Extraction-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Extraction-stationary_Volume.secret|Triz-Reliability+Extraction-stationary_Volume.secret]] 

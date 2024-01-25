@@ -41,9 +41,9 @@ markerFolder: ./Canterbury/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Canterbury.md|Canterbury]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Canterbury.internal.md|Canterbury.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Canterbury.protect.md|Canterbury.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Canterbury.private.md|Canterbury.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Canterbury.personal.md|Canterbury.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Canterbury.secret.md|Canterbury.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Canterbury.internal|Canterbury.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Canterbury.protect|Canterbury.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Canterbury.private|Canterbury.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Canterbury.personal|Canterbury.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Canterbury.secret|Canterbury.secret]] 
 

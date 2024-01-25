@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Civray.md|Civray]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Civray.internal.md|Civray.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Civray.protect.md|Civray.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Civray.private.md|Civray.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Civray.personal.md|Civray.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Civray.secret.md|Civray.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Civray.internal|Civray.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Civray.protect|Civray.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Civray.private|Civray.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Civray.personal|Civray.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Civray.secret|Civray.secret]] 

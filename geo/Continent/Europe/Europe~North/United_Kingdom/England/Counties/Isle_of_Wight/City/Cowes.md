@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cowes.md|Cowes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cowes.internal.md|Cowes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cowes.protect.md|Cowes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cowes.private.md|Cowes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cowes.personal.md|Cowes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cowes.secret.md|Cowes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cowes.internal|Cowes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cowes.protect|Cowes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cowes.private|Cowes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cowes.personal|Cowes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cowes.secret|Cowes.secret]] 

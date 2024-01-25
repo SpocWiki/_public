@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Copying-Intensity]
 [SpocWebEntityId::26317]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.md|Triz-Complexity+Copying-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.internal.md|Triz-Complexity+Copying-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.protect.md|Triz-Complexity+Copying-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.private.md|Triz-Complexity+Copying-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.personal.md|Triz-Complexity+Copying-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.secret.md|Triz-Complexity+Copying-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.internal|Triz-Complexity+Copying-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.protect|Triz-Complexity+Copying-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.private|Triz-Complexity+Copying-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.personal|Triz-Complexity+Copying-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Copying-Intensity.secret|Triz-Complexity+Copying-Intensity.secret]] 

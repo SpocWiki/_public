@@ -41,9 +41,9 @@ markerFolder: ./Kenya~Eastern/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.md|Kenya~Eastern]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.internal.md|Kenya~Eastern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.protect.md|Kenya~Eastern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.private.md|Kenya~Eastern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.personal.md|Kenya~Eastern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.secret.md|Kenya~Eastern.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.internal|Kenya~Eastern.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.protect|Kenya~Eastern.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.private|Kenya~Eastern.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.personal|Kenya~Eastern.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Kenya~Eastern.secret|Kenya~Eastern.secret]] 
 

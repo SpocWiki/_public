@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Replacement_of_a_mechanical_system-moving_Energy]
 [SpocWebEntityId::26346]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-moving_Energy]]]
+- [#has_/Cons :: [[Triz-moving_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.md|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.internal.md|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.protect.md|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.private.md|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.personal.md|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.secret.md|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.internal|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.protect|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.private|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.personal|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.secret|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.secret]] 

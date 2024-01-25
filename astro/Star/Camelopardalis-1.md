@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Camelopardalis-1.md|Camelopardalis-1]] 
-- [[../../../_internal/astro/Star/Camelopardalis-1.internal.md|Camelopardalis-1.internal]] 
-- [[../../../_protect/astro/Star/Camelopardalis-1.protect.md|Camelopardalis-1.protect]] 
-- [[../../../_private/astro/Star/Camelopardalis-1.private.md|Camelopardalis-1.private]] 
-- [[../../../_personal/astro/Star/Camelopardalis-1.personal.md|Camelopardalis-1.personal]] 
-- [[../../../_secret/astro/Star/Camelopardalis-1.secret.md|Camelopardalis-1.secret]]
+- [[../../../_internal/astro/Star/Camelopardalis-1.internal|Camelopardalis-1.internal]] 
+- [[../../../_protect/astro/Star/Camelopardalis-1.protect|Camelopardalis-1.protect]] 
+- [[../../../_private/astro/Star/Camelopardalis-1.private|Camelopardalis-1.private]] 
+- [[../../../_personal/astro/Star/Camelopardalis-1.personal|Camelopardalis-1.personal]] 
+- [[../../../_secret/astro/Star/Camelopardalis-1.secret|Camelopardalis-1.secret]]
 

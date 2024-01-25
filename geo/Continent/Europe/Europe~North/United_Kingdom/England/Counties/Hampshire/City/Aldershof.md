@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Aldershof.md|Aldershof]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aldershof.internal.md|Aldershof.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aldershof.protect.md|Aldershof.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aldershof.private.md|Aldershof.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aldershof.personal.md|Aldershof.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aldershof.secret.md|Aldershof.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aldershof.internal|Aldershof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aldershof.protect|Aldershof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aldershof.private|Aldershof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aldershof.personal|Aldershof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aldershof.secret|Aldershof.secret]] 

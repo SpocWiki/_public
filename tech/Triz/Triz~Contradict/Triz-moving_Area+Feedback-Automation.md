@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Area+Feedback-Automation]
 [SpocWebEntityId::23100]
-+ [pro::[[Triz-moving_Area]]]
++ [#has_/Pros :: [[Triz-moving_Area]]]
 [Triz-Principle:[[Triz~Sub~feedback]]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.md|Triz-moving_Area+Feedback-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.internal.md|Triz-moving_Area+Feedback-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.protect.md|Triz-moving_Area+Feedback-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.private.md|Triz-moving_Area+Feedback-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.personal.md|Triz-moving_Area+Feedback-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.secret.md|Triz-moving_Area+Feedback-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.internal|Triz-moving_Area+Feedback-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.protect|Triz-moving_Area+Feedback-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.private|Triz-moving_Area+Feedback-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.personal|Triz-moving_Area+Feedback-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Feedback-Automation.secret|Triz-moving_Area+Feedback-Automation.secret]] 

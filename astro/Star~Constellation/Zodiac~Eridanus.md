@@ -18,8 +18,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Eridanus.md|Zodiac~Eridanus]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Eridanus.internal.md|Zodiac~Eridanus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Eridanus.protect.md|Zodiac~Eridanus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Eridanus.private.md|Zodiac~Eridanus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Eridanus.personal.md|Zodiac~Eridanus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Eridanus.secret.md|Zodiac~Eridanus.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Eridanus.internal|Zodiac~Eridanus.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Eridanus.protect|Zodiac~Eridanus.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Eridanus.private|Zodiac~Eridanus.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Eridanus.personal|Zodiac~Eridanus.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Eridanus.secret|Zodiac~Eridanus.secret]] 

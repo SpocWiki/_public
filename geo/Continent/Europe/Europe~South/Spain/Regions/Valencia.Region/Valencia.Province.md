@@ -41,9 +41,9 @@ markerFolder: ./Valencia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.md|Valencia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.internal.md|Valencia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.protect.md|Valencia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.private.md|Valencia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.personal.md|Valencia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.secret.md|Valencia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.internal|Valencia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.protect|Valencia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.private|Valencia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.personal|Valencia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Valencia.Province/Valencia.Province.secret|Valencia.Province.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Agnone.md|Agnone]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Agnone.internal.md|Agnone.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Agnone.protect.md|Agnone.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Agnone.private.md|Agnone.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Agnone.personal.md|Agnone.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Agnone.secret.md|Agnone.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Agnone.internal|Agnone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Agnone.protect|Agnone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Agnone.private|Agnone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Agnone.personal|Agnone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Agnone.secret|Agnone.secret]] 

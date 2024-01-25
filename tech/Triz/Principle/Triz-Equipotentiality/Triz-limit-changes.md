@@ -28,8 +28,8 @@ In a potential field, limit position changes (e.g. change operating conditions t
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-limit-changes.md|Triz-limit-changes]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-limit-changes.internal.md|Triz-limit-changes.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-limit-changes.protect.md|Triz-limit-changes.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-limit-changes.private.md|Triz-limit-changes.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-limit-changes.personal.md|Triz-limit-changes.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-limit-changes.secret.md|Triz-limit-changes.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-limit-changes.internal|Triz-limit-changes.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-limit-changes.protect|Triz-limit-changes.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-limit-changes.private|Triz-limit-changes.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-limit-changes.personal|Triz-limit-changes.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-limit-changes.secret|Triz-limit-changes.secret]] 

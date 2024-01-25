@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Mariensee.md|Mariensee]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mariensee.internal.md|Mariensee.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mariensee.protect.md|Mariensee.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mariensee.private.md|Mariensee.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mariensee.personal.md|Mariensee.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mariensee.secret.md|Mariensee.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mariensee.internal|Mariensee.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mariensee.protect|Mariensee.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mariensee.private|Mariensee.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mariensee.personal|Mariensee.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mariensee.secret|Mariensee.secret]] 

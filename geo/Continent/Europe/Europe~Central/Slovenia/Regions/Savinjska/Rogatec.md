@@ -41,9 +41,9 @@ markerFolder: ./Rogatec/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.md|Rogatec]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.internal.md|Rogatec.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.protect.md|Rogatec.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.private.md|Rogatec.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.personal.md|Rogatec.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.secret.md|Rogatec.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.internal|Rogatec.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.protect|Rogatec.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.private|Rogatec.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.personal|Rogatec.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Savinjska/Rogatec.secret|Rogatec.secret]] 
 

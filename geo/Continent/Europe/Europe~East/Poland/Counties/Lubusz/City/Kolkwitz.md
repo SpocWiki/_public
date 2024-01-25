@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kolkwitz.md|Kolkwitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolkwitz.internal.md|Kolkwitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolkwitz.protect.md|Kolkwitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kolkwitz.private.md|Kolkwitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolkwitz.personal.md|Kolkwitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolkwitz.secret.md|Kolkwitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolkwitz.internal|Kolkwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolkwitz.protect|Kolkwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kolkwitz.private|Kolkwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolkwitz.personal|Kolkwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolkwitz.secret|Kolkwitz.secret]] 

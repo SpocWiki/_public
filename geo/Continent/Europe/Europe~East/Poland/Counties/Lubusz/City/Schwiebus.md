@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schwiebus.md|Schwiebus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwiebus.internal.md|Schwiebus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwiebus.protect.md|Schwiebus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwiebus.private.md|Schwiebus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwiebus.personal.md|Schwiebus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwiebus.secret.md|Schwiebus.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwiebus.internal|Schwiebus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwiebus.protect|Schwiebus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwiebus.private|Schwiebus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwiebus.personal|Schwiebus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwiebus.secret|Schwiebus.secret]] 

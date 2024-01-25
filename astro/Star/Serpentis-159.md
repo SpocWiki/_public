@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Serpentis-159.md|Serpentis-159]] 
-- [[../../../_internal/astro/Star/Serpentis-159.internal.md|Serpentis-159.internal]] 
-- [[../../../_protect/astro/Star/Serpentis-159.protect.md|Serpentis-159.protect]] 
-- [[../../../_private/astro/Star/Serpentis-159.private.md|Serpentis-159.private]] 
-- [[../../../_personal/astro/Star/Serpentis-159.personal.md|Serpentis-159.personal]] 
-- [[../../../_secret/astro/Star/Serpentis-159.secret.md|Serpentis-159.secret]] 
+- [[../../../_internal/astro/Star/Serpentis-159.internal|Serpentis-159.internal]] 
+- [[../../../_protect/astro/Star/Serpentis-159.protect|Serpentis-159.protect]] 
+- [[../../../_private/astro/Star/Serpentis-159.private|Serpentis-159.private]] 
+- [[../../../_personal/astro/Star/Serpentis-159.personal|Serpentis-159.personal]] 
+- [[../../../_secret/astro/Star/Serpentis-159.secret|Serpentis-159.secret]] 

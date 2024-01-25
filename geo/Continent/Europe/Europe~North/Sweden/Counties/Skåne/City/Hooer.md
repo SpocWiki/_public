@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hooer.md|Hooer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hooer.internal.md|Hooer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hooer.protect.md|Hooer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hooer.private.md|Hooer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hooer.personal.md|Hooer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hooer.secret.md|Hooer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hooer.internal|Hooer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hooer.protect|Hooer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hooer.private|Hooer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hooer.personal|Hooer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hooer.secret|Hooer.secret]] 

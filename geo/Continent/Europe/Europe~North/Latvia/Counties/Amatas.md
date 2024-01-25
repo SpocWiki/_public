@@ -41,9 +41,9 @@ markerFolder: ./Amatas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Amatas.md|Amatas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Amatas.internal.md|Amatas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Amatas.protect.md|Amatas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Amatas.private.md|Amatas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Amatas.personal.md|Amatas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Amatas.secret.md|Amatas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Amatas.internal|Amatas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Amatas.protect|Amatas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Amatas.private|Amatas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Amatas.personal|Amatas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Amatas.secret|Amatas.secret]] 
 

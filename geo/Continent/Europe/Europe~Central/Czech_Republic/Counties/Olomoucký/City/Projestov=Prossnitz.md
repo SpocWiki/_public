@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.md|Projestov=Prossnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.internal.md|Projestov=Prossnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.protect.md|Projestov=Prossnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.private.md|Projestov=Prossnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.personal.md|Projestov=Prossnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.secret.md|Projestov=Prossnitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.internal|Projestov=Prossnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.protect|Projestov=Prossnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.private|Projestov=Prossnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.personal|Projestov=Prossnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.secret|Projestov=Prossnitz.secret]] 

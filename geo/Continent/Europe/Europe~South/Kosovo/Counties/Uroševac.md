@@ -41,9 +41,9 @@ markerFolder: ./Uroševac/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Uroševac.md|Uroševac]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Uroševac.internal.md|Uroševac.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Uroševac.protect.md|Uroševac.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Uroševac.private.md|Uroševac.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Uroševac.personal.md|Uroševac.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Uroševac.secret.md|Uroševac.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Uroševac.internal|Uroševac.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Uroševac.protect|Uroševac.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Uroševac.private|Uroševac.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Uroševac.personal|Uroševac.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Uroševac.secret|Uroševac.secret]] 
 

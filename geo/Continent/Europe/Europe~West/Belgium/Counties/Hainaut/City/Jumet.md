@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Jumet.md|Jumet]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Jumet.internal.md|Jumet.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Jumet.protect.md|Jumet.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Jumet.private.md|Jumet.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Jumet.personal.md|Jumet.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Jumet.secret.md|Jumet.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Jumet.internal|Jumet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Jumet.protect|Jumet.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Jumet.private|Jumet.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Jumet.personal|Jumet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Jumet.secret|Jumet.secret]] 

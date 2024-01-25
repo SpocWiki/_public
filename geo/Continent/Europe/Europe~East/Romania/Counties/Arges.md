@@ -41,9 +41,9 @@ markerFolder: ./Arges/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Arges.md|Arges]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Arges.internal.md|Arges.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Arges.protect.md|Arges.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Arges.private.md|Arges.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Arges.personal.md|Arges.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Arges.secret.md|Arges.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Arges.internal|Arges.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Arges.protect|Arges.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Arges.private|Arges.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Arges.personal|Arges.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Arges.secret|Arges.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Portglenone.md|Portglenone]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Portglenone.internal.md|Portglenone.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Portglenone.protect.md|Portglenone.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Portglenone.private.md|Portglenone.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Portglenone.personal.md|Portglenone.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Portglenone.secret.md|Portglenone.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Portglenone.internal|Portglenone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Portglenone.protect|Portglenone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Portglenone.private|Portglenone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Portglenone.personal|Portglenone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Portglenone.secret|Portglenone.secret]] 

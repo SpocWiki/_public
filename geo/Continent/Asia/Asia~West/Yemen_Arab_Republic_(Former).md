@@ -37,7 +37,7 @@ markerFolder: ./Yemen_Arab_Republic_(Former)//
 ## Confidential Links & Embeds: 
 - [[Yemen_Arab_Republic_(Former)|Yemen_Arab_Republic_(Former)]] 
 - [[../../../../../_internal/geo/Continent/Africa/Yemen_Arab_Republic_(Former).internal|Yemen_Arab_Republic_(Former).internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Yemen_Arab_Republic_(Former).protect.md|Yemen_Arab_Republic_(Former).protect]] 
-- [[../../../../_private/geo/Continent/Africa/Yemen_Arab_Republic_(Former).private.md|Yemen_Arab_Republic_(Former).private]] 
-- [[../../../../_personal/geo/Continent/Africa/Yemen_Arab_Republic_(Former).personal.md|Yemen_Arab_Republic_(Former).personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Yemen_Arab_Republic_(Former).secret.md|Yemen_Arab_Republic_(Former).secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Yemen_Arab_Republic_(Former).protect|Yemen_Arab_Republic_(Former).protect]] 
+- [[../../../../_private/geo/Continent/Africa/Yemen_Arab_Republic_(Former).private|Yemen_Arab_Republic_(Former).private]] 
+- [[../../../../_personal/geo/Continent/Africa/Yemen_Arab_Republic_(Former).personal|Yemen_Arab_Republic_(Former).personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Yemen_Arab_Republic_(Former).secret|Yemen_Arab_Republic_(Former).secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kvemo_Kartli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.md|Kvemo_Kartli]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.internal.md|Kvemo_Kartli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.protect.md|Kvemo_Kartli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.private.md|Kvemo_Kartli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.personal.md|Kvemo_Kartli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.secret.md|Kvemo_Kartli.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.internal|Kvemo_Kartli.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.protect|Kvemo_Kartli.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.private|Kvemo_Kartli.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.personal|Kvemo_Kartli.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Kvemo_Kartli.secret|Kvemo_Kartli.secret]] 
 

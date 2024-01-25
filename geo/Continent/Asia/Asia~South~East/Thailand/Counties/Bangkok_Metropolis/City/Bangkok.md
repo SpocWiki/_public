@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Thailand/City/Bangkok.md|Bangkok]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Thailand/City/Bangkok.internal.md|Bangkok.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Thailand/City/Bangkok.protect.md|Bangkok.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Thailand/City/Bangkok.private.md|Bangkok.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Thailand/City/Bangkok.personal.md|Bangkok.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Thailand/City/Bangkok.secret.md|Bangkok.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Thailand/City/Bangkok.internal|Bangkok.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Thailand/City/Bangkok.protect|Bangkok.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Thailand/City/Bangkok.private|Bangkok.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Thailand/City/Bangkok.personal|Bangkok.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Thailand/City/Bangkok.secret|Bangkok.secret]] 

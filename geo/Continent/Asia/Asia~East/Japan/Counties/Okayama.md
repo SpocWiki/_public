@@ -41,9 +41,9 @@ markerFolder: ./Okayama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.md|Okayama]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.internal.md|Okayama.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.protect.md|Okayama.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.private.md|Okayama.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.personal.md|Okayama.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.secret.md|Okayama.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.internal|Okayama.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.protect|Okayama.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.private|Okayama.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.personal|Okayama.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.secret|Okayama.secret]] 
 

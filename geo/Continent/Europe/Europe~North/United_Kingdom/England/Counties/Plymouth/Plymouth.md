@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Plymouth.md|Plymouth]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Plymouth.internal.md|Plymouth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Plymouth.protect.md|Plymouth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Plymouth.private.md|Plymouth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Plymouth.personal.md|Plymouth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Plymouth.secret.md|Plymouth.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Plymouth.internal|Plymouth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Plymouth.protect|Plymouth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Plymouth.private|Plymouth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Plymouth.personal|Plymouth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Plymouth.secret|Plymouth.secret]] 

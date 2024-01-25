@@ -39,8 +39,8 @@ SpocWebEntityId: 21927
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-10-Nickel/Nickel.md|Nickel]] 
-- [[../../../../_internal/chemic/Elements/Group-10-Nickel/Nickel.internal.md|Nickel.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-10-Nickel/Nickel.protect.md|Nickel.protect]] 
-- [[../../../../_private/chemic/Elements/Group-10-Nickel/Nickel.private.md|Nickel.private]] 
-- [[../../../../_personal/chemic/Elements/Group-10-Nickel/Nickel.personal.md|Nickel.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-10-Nickel/Nickel.secret.md|Nickel.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-10-Nickel/Nickel.internal|Nickel.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-10-Nickel/Nickel.protect|Nickel.protect]] 
+- [[../../../../_private/chemic/Elements/Group-10-Nickel/Nickel.private|Nickel.private]] 
+- [[../../../../_personal/chemic/Elements/Group-10-Nickel/Nickel.personal|Nickel.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-10-Nickel/Nickel.secret|Nickel.secret]] 

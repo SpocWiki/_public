@@ -41,9 +41,9 @@ markerFolder: ./Saint_Andrew/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.md|Saint_Andrew]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.internal.md|Saint_Andrew.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.protect.md|Saint_Andrew.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.private.md|Saint_Andrew.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.personal.md|Saint_Andrew.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.secret.md|Saint_Andrew.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.internal|Saint_Andrew.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.protect|Saint_Andrew.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.private|Saint_Andrew.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.personal|Saint_Andrew.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Andrew.secret|Saint_Andrew.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Zarqa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.md|Zarqa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.internal.md|Zarqa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.protect.md|Zarqa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.private.md|Zarqa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.personal.md|Zarqa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.secret.md|Zarqa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.internal|Zarqa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.protect|Zarqa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.private|Zarqa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.personal|Zarqa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.secret|Zarqa.secret]] 
 

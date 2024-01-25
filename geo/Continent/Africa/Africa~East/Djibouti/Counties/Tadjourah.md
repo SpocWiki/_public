@@ -41,9 +41,9 @@ markerFolder: ./Tadjourah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Djibouti/Counties/Tadjourah.md|Tadjourah]] 
-- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Tadjourah.internal.md|Tadjourah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Tadjourah.protect.md|Tadjourah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Tadjourah.private.md|Tadjourah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Tadjourah.personal.md|Tadjourah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Tadjourah.secret.md|Tadjourah.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Tadjourah.internal|Tadjourah.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Tadjourah.protect|Tadjourah.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Tadjourah.private|Tadjourah.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Tadjourah.personal|Tadjourah.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Tadjourah.secret|Tadjourah.secret]] 
 

@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Gruis-61.md|Gruis-61]] 
-- [[../../../_internal/astro/Star/Gruis-61.internal.md|Gruis-61.internal]] 
-- [[../../../_protect/astro/Star/Gruis-61.protect.md|Gruis-61.protect]] 
-- [[../../../_private/astro/Star/Gruis-61.private.md|Gruis-61.private]] 
-- [[../../../_personal/astro/Star/Gruis-61.personal.md|Gruis-61.personal]] 
-- [[../../../_secret/astro/Star/Gruis-61.secret.md|Gruis-61.secret]]
+- [[../../../_internal/astro/Star/Gruis-61.internal|Gruis-61.internal]] 
+- [[../../../_protect/astro/Star/Gruis-61.protect|Gruis-61.protect]] 
+- [[../../../_private/astro/Star/Gruis-61.private|Gruis-61.private]] 
+- [[../../../_personal/astro/Star/Gruis-61.personal|Gruis-61.personal]] 
+- [[../../../_secret/astro/Star/Gruis-61.secret|Gruis-61.secret]]
 

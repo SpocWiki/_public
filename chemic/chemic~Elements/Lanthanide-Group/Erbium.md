@@ -42,8 +42,8 @@ SpocWebEntityId: 21964
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Erbium.md|Erbium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Erbium.internal.md|Erbium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Erbium.protect.md|Erbium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Erbium.private.md|Erbium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Erbium.personal.md|Erbium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Erbium.secret.md|Erbium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Erbium.internal|Erbium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Erbium.protect|Erbium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Erbium.private|Erbium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Erbium.personal|Erbium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Erbium.secret|Erbium.secret]] 

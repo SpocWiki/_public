@@ -41,9 +41,9 @@ markerFolder: ./Guarda/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Guarda.md|Guarda]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Guarda.internal.md|Guarda.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Guarda.protect.md|Guarda.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Guarda.private.md|Guarda.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Guarda.personal.md|Guarda.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Guarda.secret.md|Guarda.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Guarda.internal|Guarda.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Guarda.protect|Guarda.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Guarda.private|Guarda.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Guarda.personal|Guarda.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Guarda.secret|Guarda.secret]] 
 

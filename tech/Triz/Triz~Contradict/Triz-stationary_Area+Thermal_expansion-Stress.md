@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Thermal_expansion-Stress]
 [SpocWebEntityId::23120]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.md|Triz-stationary_Area+Thermal_expansion-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.internal.md|Triz-stationary_Area+Thermal_expansion-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.protect.md|Triz-stationary_Area+Thermal_expansion-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.private.md|Triz-stationary_Area+Thermal_expansion-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.personal.md|Triz-stationary_Area+Thermal_expansion-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.secret.md|Triz-stationary_Area+Thermal_expansion-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.internal|Triz-stationary_Area+Thermal_expansion-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.protect|Triz-stationary_Area+Thermal_expansion-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.private|Triz-stationary_Area+Thermal_expansion-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.personal|Triz-stationary_Area+Thermal_expansion-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Thermal_expansion-Stress.secret|Triz-stationary_Area+Thermal_expansion-Stress.secret]] 

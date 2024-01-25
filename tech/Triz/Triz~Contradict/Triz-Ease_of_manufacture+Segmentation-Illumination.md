@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Segmentation-Illumination]
 [SpocWebEntityId::25886]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.md|Triz-Ease_of_manufacture+Segmentation-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.internal.md|Triz-Ease_of_manufacture+Segmentation-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.protect.md|Triz-Ease_of_manufacture+Segmentation-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.private.md|Triz-Ease_of_manufacture+Segmentation-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.personal.md|Triz-Ease_of_manufacture+Segmentation-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.secret.md|Triz-Ease_of_manufacture+Segmentation-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.internal|Triz-Ease_of_manufacture+Segmentation-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.protect|Triz-Ease_of_manufacture+Segmentation-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.private|Triz-Ease_of_manufacture+Segmentation-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.personal|Triz-Ease_of_manufacture+Segmentation-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.secret|Triz-Ease_of_manufacture+Segmentation-Illumination.secret]] 

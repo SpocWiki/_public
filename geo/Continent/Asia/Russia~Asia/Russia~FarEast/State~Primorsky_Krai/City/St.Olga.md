@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/St.Olga.md|St.Olga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/St.Olga.internal.md|St.Olga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/St.Olga.protect.md|St.Olga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/St.Olga.private.md|St.Olga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/St.Olga.personal.md|St.Olga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/St.Olga.secret.md|St.Olga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/St.Olga.internal|St.Olga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/St.Olga.protect|St.Olga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/St.Olga.private|St.Olga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/St.Olga.personal|St.Olga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/St.Olga.secret|St.Olga.secret]] 

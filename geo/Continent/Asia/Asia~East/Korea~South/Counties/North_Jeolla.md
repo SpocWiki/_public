@@ -41,9 +41,9 @@ markerFolder: ./North_Jeolla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.md|North_Jeolla]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.internal.md|North_Jeolla.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.protect.md|North_Jeolla.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.private.md|North_Jeolla.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.personal.md|North_Jeolla.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.secret.md|North_Jeolla.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.internal|North_Jeolla.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.protect|North_Jeolla.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.private|North_Jeolla.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.personal|North_Jeolla.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.secret|North_Jeolla.secret]] 
 

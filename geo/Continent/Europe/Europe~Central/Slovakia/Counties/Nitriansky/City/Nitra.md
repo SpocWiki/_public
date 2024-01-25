@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Nitra.md|Nitra]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nitra.internal.md|Nitra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nitra.protect.md|Nitra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nitra.private.md|Nitra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nitra.personal.md|Nitra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nitra.secret.md|Nitra.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nitra.internal|Nitra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nitra.protect|Nitra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nitra.private|Nitra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nitra.personal|Nitra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nitra.secret|Nitra.secret]] 

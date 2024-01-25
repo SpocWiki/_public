@@ -41,9 +41,9 @@ markerFolder: ./Tiris_Zemmour/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.md|Tiris_Zemmour]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.internal.md|Tiris_Zemmour.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.protect.md|Tiris_Zemmour.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.private.md|Tiris_Zemmour.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.personal.md|Tiris_Zemmour.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.secret.md|Tiris_Zemmour.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.internal|Tiris_Zemmour.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.protect|Tiris_Zemmour.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.private|Tiris_Zemmour.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.personal|Tiris_Zemmour.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.secret|Tiris_Zemmour.secret]] 
 

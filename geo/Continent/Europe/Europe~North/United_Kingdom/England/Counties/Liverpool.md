@@ -41,9 +41,9 @@ markerFolder: ./Liverpool/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.md|Liverpool]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.internal.md|Liverpool.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.protect.md|Liverpool.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.private.md|Liverpool.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.personal.md|Liverpool.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.secret.md|Liverpool.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.internal|Liverpool.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.protect|Liverpool.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.private|Liverpool.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.personal|Liverpool.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.secret|Liverpool.secret]] 
 

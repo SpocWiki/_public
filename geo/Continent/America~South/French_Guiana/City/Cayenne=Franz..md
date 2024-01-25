@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Cayenne=Franz.|Cayenne=Franz.]] 
-- [[../../../../../../_internal/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..internal.md|Cayenne=Franz..internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..protect.md|Cayenne=Franz..protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..private.md|Cayenne=Franz..private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..personal.md|Cayenne=Franz..personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..secret.md|Cayenne=Franz..secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..internal|Cayenne=Franz..internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..protect|Cayenne=Franz..protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..private|Cayenne=Franz..private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..personal|Cayenne=Franz..personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..secret|Cayenne=Franz..secret]] 

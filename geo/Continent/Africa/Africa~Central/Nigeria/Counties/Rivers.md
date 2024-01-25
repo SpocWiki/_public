@@ -41,9 +41,9 @@ markerFolder: ./Rivers/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Rivers.md|Rivers]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Rivers.internal.md|Rivers.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Rivers.protect.md|Rivers.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Rivers.private.md|Rivers.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Rivers.personal.md|Rivers.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Rivers.secret.md|Rivers.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Rivers.internal|Rivers.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Rivers.protect|Rivers.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Rivers.private|Rivers.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Rivers.personal|Rivers.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Rivers.secret|Rivers.secret]] 
 

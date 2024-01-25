@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Moving_to_a_new_dimension-Stability]
 [SpocWebEntityId::24466]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.md|Triz-moving_Energy+Moving_to_a_new_dimension-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.internal.md|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.protect.md|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.private.md|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.personal.md|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.secret.md|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.internal|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.protect|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.private|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.personal|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Stability.secret|Triz-moving_Energy+Moving_to_a_new_dimension-Stability.secret]] 

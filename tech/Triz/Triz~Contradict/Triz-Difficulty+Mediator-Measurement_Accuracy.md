@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Mediator-Measurement_Accuracy]
 [SpocWebEntityId::26507]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.md|Triz-Difficulty+Mediator-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.internal.md|Triz-Difficulty+Mediator-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.protect.md|Triz-Difficulty+Mediator-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.private.md|Triz-Difficulty+Mediator-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.personal.md|Triz-Difficulty+Mediator-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.secret.md|Triz-Difficulty+Mediator-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.internal|Triz-Difficulty+Mediator-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.protect|Triz-Difficulty+Mediator-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.private|Triz-Difficulty+Mediator-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.personal|Triz-Difficulty+Mediator-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Mediator-Measurement_Accuracy.secret|Triz-Difficulty+Mediator-Measurement_Accuracy.secret]] 

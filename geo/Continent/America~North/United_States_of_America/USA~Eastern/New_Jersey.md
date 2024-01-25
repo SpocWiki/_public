@@ -35,8 +35,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Jersey.md|New_Jersey]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey.internal.md|New_Jersey.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey.protect.md|New_Jersey.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey.private.md|New_Jersey.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey.personal.md|New_Jersey.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey.secret.md|New_Jersey.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey.internal|New_Jersey.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey.protect|New_Jersey.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey.private|New_Jersey.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey.personal|New_Jersey.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey.secret|New_Jersey.secret]] 

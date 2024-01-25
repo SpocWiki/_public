@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Mamers.md|Mamers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mamers.internal.md|Mamers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mamers.protect.md|Mamers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Mamers.private.md|Mamers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mamers.personal.md|Mamers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mamers.secret.md|Mamers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mamers.internal|Mamers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mamers.protect|Mamers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mamers.private|Mamers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mamers.personal|Mamers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mamers.secret|Mamers.secret]] 

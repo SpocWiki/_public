@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Rejecting_and_regenerating_parts-Difficulty]
 [SpocWebEntityId::26626]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.md|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.internal.md|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.protect.md|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.private.md|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.personal.md|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.secret.md|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.internal|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.protect|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.private|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.personal|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.secret|Triz-Automation+Rejecting_and_regenerating_parts-Difficulty.secret]] 

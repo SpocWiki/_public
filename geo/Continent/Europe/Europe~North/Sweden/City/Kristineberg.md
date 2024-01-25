@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kristineberg.md|Kristineberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kristineberg.internal.md|Kristineberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kristineberg.protect.md|Kristineberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kristineberg.private.md|Kristineberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kristineberg.personal.md|Kristineberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kristineberg.secret.md|Kristineberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kristineberg.internal|Kristineberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kristineberg.protect|Kristineberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kristineberg.private|Kristineberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kristineberg.personal|Kristineberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kristineberg.secret|Kristineberg.secret]] 

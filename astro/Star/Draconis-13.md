@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Draconis-13.md|Draconis-13]] 
-- [[../../../_internal/astro/Star/Draconis-13.internal.md|Draconis-13.internal]] 
-- [[../../../_protect/astro/Star/Draconis-13.protect.md|Draconis-13.protect]] 
-- [[../../../_private/astro/Star/Draconis-13.private.md|Draconis-13.private]] 
-- [[../../../_personal/astro/Star/Draconis-13.personal.md|Draconis-13.personal]] 
-- [[../../../_secret/astro/Star/Draconis-13.secret.md|Draconis-13.secret]]
+- [[../../../_internal/astro/Star/Draconis-13.internal|Draconis-13.internal]] 
+- [[../../../_protect/astro/Star/Draconis-13.protect|Draconis-13.protect]] 
+- [[../../../_private/astro/Star/Draconis-13.private|Draconis-13.private]] 
+- [[../../../_personal/astro/Star/Draconis-13.personal|Draconis-13.personal]] 
+- [[../../../_secret/astro/Star/Draconis-13.secret|Draconis-13.secret]]
 

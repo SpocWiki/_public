@@ -34,8 +34,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Island~Ruhnu|Island~Ruhnu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Runoe.internal.md|Runoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Runoe.protect.md|Runoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Runoe.private.md|Runoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Runoe.personal.md|Runoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Runoe.secret.md|Runoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Runoe.internal|Runoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Runoe.protect|Runoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Runoe.private|Runoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Runoe.personal|Runoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Runoe.secret|Runoe.secret]] 

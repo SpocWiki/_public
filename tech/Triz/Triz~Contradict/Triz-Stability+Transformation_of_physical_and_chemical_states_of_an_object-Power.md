@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power]
 [SpocWebEntityId::23892]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.private.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.private|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret]] 

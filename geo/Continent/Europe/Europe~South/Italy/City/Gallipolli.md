@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gallipolli.md|Gallipolli]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gallipolli.internal.md|Gallipolli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gallipolli.protect.md|Gallipolli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gallipolli.private.md|Gallipolli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gallipolli.personal.md|Gallipolli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gallipolli.secret.md|Gallipolli.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gallipolli.internal|Gallipolli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gallipolli.protect|Gallipolli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gallipolli.private|Gallipolli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gallipolli.personal|Gallipolli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gallipolli.secret|Gallipolli.secret]] 

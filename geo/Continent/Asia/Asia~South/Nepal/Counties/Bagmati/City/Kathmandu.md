@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Nepal/City/Kathmandu.md|Kathmandu]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Nepal/City/Kathmandu.internal.md|Kathmandu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Nepal/City/Kathmandu.protect.md|Kathmandu.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Nepal/City/Kathmandu.private.md|Kathmandu.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Nepal/City/Kathmandu.personal.md|Kathmandu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Nepal/City/Kathmandu.secret.md|Kathmandu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Nepal/City/Kathmandu.internal|Kathmandu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Nepal/City/Kathmandu.protect|Kathmandu.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Nepal/City/Kathmandu.private|Kathmandu.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Nepal/City/Kathmandu.personal|Kathmandu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Nepal/City/Kathmandu.secret|Kathmandu.secret]] 

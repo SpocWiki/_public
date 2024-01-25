@@ -41,9 +41,9 @@ markerFolder: ./Orange_Free_State/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.md|Orange_Free_State]] 
-- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.internal.md|Orange_Free_State.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.protect.md|Orange_Free_State.protect]] 
-- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.private.md|Orange_Free_State.private]] 
-- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.personal.md|Orange_Free_State.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.secret.md|Orange_Free_State.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.internal|Orange_Free_State.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.protect|Orange_Free_State.protect]] 
+- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.private|Orange_Free_State.private]] 
+- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.personal|Orange_Free_State.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.secret|Orange_Free_State.secret]] 
 

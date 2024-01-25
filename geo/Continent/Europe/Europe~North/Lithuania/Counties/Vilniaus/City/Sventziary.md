@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sventziary.md|Sventziary]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sventziary.internal.md|Sventziary.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sventziary.protect.md|Sventziary.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sventziary.private.md|Sventziary.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sventziary.personal.md|Sventziary.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sventziary.secret.md|Sventziary.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sventziary.internal|Sventziary.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sventziary.protect|Sventziary.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sventziary.private|Sventziary.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sventziary.personal|Sventziary.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sventziary.secret|Sventziary.secret]] 

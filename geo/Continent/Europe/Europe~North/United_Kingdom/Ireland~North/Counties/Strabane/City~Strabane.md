@@ -32,8 +32,8 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../[[City~Strabane|City~Strabane]]/../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.internal.md|Strabane.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.protect.md|Strabane.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.private.md|Strabane.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.personal.md|Strabane.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.secret.md|Strabane.secret]] 
+- [[../../[[City~Strabane|City~Strabane]]/../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.internal|Strabane.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.protect|Strabane.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.private|Strabane.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.personal|Strabane.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.secret|Strabane.secret]] 

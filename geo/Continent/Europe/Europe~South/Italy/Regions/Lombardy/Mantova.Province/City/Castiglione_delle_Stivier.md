@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.md|Castiglione_delle_Stivier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.internal.md|Castiglione_delle_Stivier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.protect.md|Castiglione_delle_Stivier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.private.md|Castiglione_delle_Stivier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.personal.md|Castiglione_delle_Stivier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.secret.md|Castiglione_delle_Stivier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.internal|Castiglione_delle_Stivier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.protect|Castiglione_delle_Stivier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.private|Castiglione_delle_Stivier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.personal|Castiglione_delle_Stivier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.secret|Castiglione_delle_Stivier.secret]] 

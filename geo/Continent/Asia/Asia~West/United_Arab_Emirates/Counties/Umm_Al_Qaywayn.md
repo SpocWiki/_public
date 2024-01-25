@@ -41,9 +41,9 @@ markerFolder: ./Umm_Al_Qaywayn/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.md|Umm_Al_Qaywayn]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.internal.md|Umm_Al_Qaywayn.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.protect.md|Umm_Al_Qaywayn.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.private.md|Umm_Al_Qaywayn.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.personal.md|Umm_Al_Qaywayn.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.secret.md|Umm_Al_Qaywayn.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.internal|Umm_Al_Qaywayn.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.protect|Umm_Al_Qaywayn.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.private|Umm_Al_Qaywayn.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.personal|Umm_Al_Qaywayn.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Umm_Al_Qaywayn.secret|Umm_Al_Qaywayn.secret]] 
 

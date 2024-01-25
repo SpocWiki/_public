@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschernohye.md|Tschernohye]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschernohye.internal.md|Tschernohye.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschernohye.protect.md|Tschernohye.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschernohye.private.md|Tschernohye.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschernohye.personal.md|Tschernohye.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschernohye.secret.md|Tschernohye.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschernohye.internal|Tschernohye.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschernohye.protect|Tschernohye.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschernohye.private|Tschernohye.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschernohye.personal|Tschernohye.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschernohye.secret|Tschernohye.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.md|Novi_Pazar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.internal.md|Novi_Pazar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.protect.md|Novi_Pazar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.private.md|Novi_Pazar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.personal.md|Novi_Pazar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.secret.md|Novi_Pazar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.internal|Novi_Pazar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.protect|Novi_Pazar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.private|Novi_Pazar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.personal|Novi_Pazar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.secret|Novi_Pazar.secret]] 

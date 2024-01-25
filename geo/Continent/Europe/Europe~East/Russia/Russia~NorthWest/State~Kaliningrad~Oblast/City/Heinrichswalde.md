@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Heinrichswalde.md|Heinrichswalde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Heinrichswalde.internal.md|Heinrichswalde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Heinrichswalde.protect.md|Heinrichswalde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Heinrichswalde.private.md|Heinrichswalde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Heinrichswalde.personal.md|Heinrichswalde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Heinrichswalde.secret.md|Heinrichswalde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Heinrichswalde.internal|Heinrichswalde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Heinrichswalde.protect|Heinrichswalde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Heinrichswalde.private|Heinrichswalde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Heinrichswalde.personal|Heinrichswalde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Heinrichswalde.secret|Heinrichswalde.secret]] 

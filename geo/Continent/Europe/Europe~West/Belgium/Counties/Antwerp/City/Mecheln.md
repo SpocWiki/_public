@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Mecheln.md|Mecheln]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Mecheln.internal.md|Mecheln.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Mecheln.protect.md|Mecheln.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Mecheln.private.md|Mecheln.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Mecheln.personal.md|Mecheln.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Mecheln.secret.md|Mecheln.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Mecheln.internal|Mecheln.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Mecheln.protect|Mecheln.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Mecheln.private|Mecheln.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Mecheln.personal|Mecheln.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Mecheln.secret|Mecheln.secret]] 

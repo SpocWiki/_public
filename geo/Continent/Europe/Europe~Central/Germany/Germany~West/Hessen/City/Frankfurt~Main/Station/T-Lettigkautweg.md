@@ -29,8 +29,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Lettigkautweg|T-Lettigkautweg]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.internal.md|T-Lettigkautweg.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.protect.md|T-Lettigkautweg.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.private.md|T-Lettigkautweg.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.personal.md|T-Lettigkautweg.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.secret.md|T-Lettigkautweg.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.internal|T-Lettigkautweg.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.protect|T-Lettigkautweg.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.private|T-Lettigkautweg.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.personal|T-Lettigkautweg.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.secret|T-Lettigkautweg.secret]] 

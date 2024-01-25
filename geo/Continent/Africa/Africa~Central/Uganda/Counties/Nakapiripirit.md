@@ -41,9 +41,9 @@ markerFolder: ./Nakapiripirit/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.md|Nakapiripirit]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.internal.md|Nakapiripirit.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.protect.md|Nakapiripirit.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.private.md|Nakapiripirit.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.personal.md|Nakapiripirit.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.secret.md|Nakapiripirit.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.internal|Nakapiripirit.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.protect|Nakapiripirit.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.private|Nakapiripirit.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.personal|Nakapiripirit.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.secret|Nakapiripirit.secret]] 
 

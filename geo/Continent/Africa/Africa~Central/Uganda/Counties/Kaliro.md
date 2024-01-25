@@ -41,9 +41,9 @@ markerFolder: ./Kaliro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kaliro.md|Kaliro]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kaliro.internal.md|Kaliro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kaliro.protect.md|Kaliro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kaliro.private.md|Kaliro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kaliro.personal.md|Kaliro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kaliro.secret.md|Kaliro.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kaliro.internal|Kaliro.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kaliro.protect|Kaliro.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kaliro.private|Kaliro.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kaliro.personal|Kaliro.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kaliro.secret|Kaliro.secret]] 
 

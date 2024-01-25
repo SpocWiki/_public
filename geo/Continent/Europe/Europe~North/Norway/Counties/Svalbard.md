@@ -41,9 +41,9 @@ markerFolder: ./Svalbard/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Svalbard.md|Svalbard]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Svalbard.internal.md|Svalbard.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Svalbard.protect.md|Svalbard.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Svalbard.private.md|Svalbard.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Svalbard.personal.md|Svalbard.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Svalbard.secret.md|Svalbard.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Svalbard.internal|Svalbard.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Svalbard.protect|Svalbard.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Svalbard.private|Svalbard.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Svalbard.personal|Svalbard.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Svalbard.secret|Svalbard.secret]] 
 

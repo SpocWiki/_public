@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Changing_the_color-Manufacturing_Precision]
 [SpocWebEntityId::26374]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.md|Triz-Complexity+Changing_the_color-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.internal.md|Triz-Complexity+Changing_the_color-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.protect.md|Triz-Complexity+Changing_the_color-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.private.md|Triz-Complexity+Changing_the_color-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.personal.md|Triz-Complexity+Changing_the_color-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.secret.md|Triz-Complexity+Changing_the_color-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.internal|Triz-Complexity+Changing_the_color-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.protect|Triz-Complexity+Changing_the_color-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.private|Triz-Complexity+Changing_the_color-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.personal|Triz-Complexity+Changing_the_color-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Changing_the_color-Manufacturing_Precision.secret|Triz-Complexity+Changing_the_color-Manufacturing_Precision.secret]] 

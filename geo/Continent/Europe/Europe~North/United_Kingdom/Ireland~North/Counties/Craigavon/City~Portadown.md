@@ -32,8 +32,8 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../[[City~Portadown|City~Portadown]]/../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.internal.md|Portadown.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.protect.md|Portadown.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.private.md|Portadown.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.personal.md|Portadown.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.secret.md|Portadown.secret]] 
+- [[../../[[City~Portadown|City~Portadown]]/../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.internal|Portadown.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.protect|Portadown.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.private|Portadown.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.personal|Portadown.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.secret|Portadown.secret]] 

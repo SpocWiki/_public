@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Extraction-moving_Weight]
 [SpocWebEntityId::23829]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.md|Triz-Stability+Extraction-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.internal.md|Triz-Stability+Extraction-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.protect.md|Triz-Stability+Extraction-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.private.md|Triz-Stability+Extraction-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.personal.md|Triz-Stability+Extraction-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.secret.md|Triz-Stability+Extraction-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.internal|Triz-Stability+Extraction-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.protect|Triz-Stability+Extraction-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.private|Triz-Stability+Extraction-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.personal|Triz-Stability+Extraction-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.secret|Triz-Stability+Extraction-moving_Weight.secret]] 

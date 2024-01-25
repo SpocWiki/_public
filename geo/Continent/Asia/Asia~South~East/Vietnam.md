@@ -139,7 +139,7 @@ markerFolder: ./Vietnam/
 ## Confidential Links & Embeds: 
 -[[Vietnam|Vietnam]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Vietnam.internal|Vietnam.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Vietnam.protect.md|Vietnam.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Vietnam.private.md|Vietnam.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Vietnam.personal.md|Vietnam.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Vietnam.secret.md|Vietnam.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Vietnam.protect|Vietnam.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Vietnam.private|Vietnam.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Vietnam.personal|Vietnam.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Vietnam.secret|Vietnam.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Montélimar.md|Montélimar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montélimar.internal.md|Montélimar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montélimar.protect.md|Montélimar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Montélimar.private.md|Montélimar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montélimar.personal.md|Montélimar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montélimar.secret.md|Montélimar.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montélimar.internal|Montélimar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montélimar.protect|Montélimar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montélimar.private|Montélimar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montélimar.personal|Montélimar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montélimar.secret|Montélimar.secret]] 

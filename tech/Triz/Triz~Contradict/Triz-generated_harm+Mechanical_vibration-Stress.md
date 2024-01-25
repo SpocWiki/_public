@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Mechanical_vibration-Stress]
 [SpocWebEntityId::25753]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.md|Triz-generated_harm+Mechanical_vibration-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.internal.md|Triz-generated_harm+Mechanical_vibration-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.protect.md|Triz-generated_harm+Mechanical_vibration-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.private.md|Triz-generated_harm+Mechanical_vibration-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.personal.md|Triz-generated_harm+Mechanical_vibration-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.secret.md|Triz-generated_harm+Mechanical_vibration-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.internal|Triz-generated_harm+Mechanical_vibration-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.protect|Triz-generated_harm+Mechanical_vibration-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.private|Triz-generated_harm+Mechanical_vibration-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.personal|Triz-generated_harm+Mechanical_vibration-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.secret|Triz-generated_harm+Mechanical_vibration-Stress.secret]] 

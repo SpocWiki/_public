@@ -41,9 +41,9 @@ markerFolder: ./Rotuma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Fiji/Counties/Rotuma.md|Rotuma]] 
-- [[../../../../_internal/geo/Continent/Oceania/Fiji/Counties/Rotuma.internal.md|Rotuma.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Fiji/Counties/Rotuma.protect.md|Rotuma.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Fiji/Counties/Rotuma.private.md|Rotuma.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Fiji/Counties/Rotuma.personal.md|Rotuma.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Fiji/Counties/Rotuma.secret.md|Rotuma.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Fiji/Counties/Rotuma.internal|Rotuma.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Fiji/Counties/Rotuma.protect|Rotuma.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Fiji/Counties/Rotuma.private|Rotuma.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Fiji/Counties/Rotuma.personal|Rotuma.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Fiji/Counties/Rotuma.secret|Rotuma.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Ad_Dawhah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.md|Ad_Dawhah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.internal.md|Ad_Dawhah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.protect.md|Ad_Dawhah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.private.md|Ad_Dawhah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.personal.md|Ad_Dawhah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.secret.md|Ad_Dawhah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.internal|Ad_Dawhah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.protect|Ad_Dawhah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.private|Ad_Dawhah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.personal|Ad_Dawhah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.secret|Ad_Dawhah.secret]] 
 

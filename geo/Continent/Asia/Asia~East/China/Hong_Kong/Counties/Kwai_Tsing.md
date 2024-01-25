@@ -41,9 +41,9 @@ markerFolder: ./Kwai_Tsing/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.md|Kwai_Tsing]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.internal.md|Kwai_Tsing.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.protect.md|Kwai_Tsing.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.private.md|Kwai_Tsing.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.personal.md|Kwai_Tsing.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.secret.md|Kwai_Tsing.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.internal|Kwai_Tsing.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.protect|Kwai_Tsing.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.private|Kwai_Tsing.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.personal|Kwai_Tsing.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.secret|Kwai_Tsing.secret]] 
 

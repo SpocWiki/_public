@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Bergerac.md|Bergerac]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bergerac.internal.md|Bergerac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bergerac.protect.md|Bergerac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Bergerac.private.md|Bergerac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bergerac.personal.md|Bergerac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bergerac.secret.md|Bergerac.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bergerac.internal|Bergerac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bergerac.protect|Bergerac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bergerac.private|Bergerac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bergerac.personal|Bergerac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bergerac.secret|Bergerac.secret]] 

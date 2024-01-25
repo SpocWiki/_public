@@ -41,9 +41,9 @@ markerFolder: ./Island_Harbour/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.md|Island_Harbour]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.internal.md|Island_Harbour.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.protect.md|Island_Harbour.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.private.md|Island_Harbour.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.personal.md|Island_Harbour.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.secret.md|Island_Harbour.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.internal|Island_Harbour.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.protect|Island_Harbour.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.private|Island_Harbour.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.personal|Island_Harbour.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/Island_Harbour.secret|Island_Harbour.secret]] 
 

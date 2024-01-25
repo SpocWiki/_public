@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Viadana.md|Viadana]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viadana.internal.md|Viadana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viadana.protect.md|Viadana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viadana.private.md|Viadana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viadana.personal.md|Viadana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viadana.secret.md|Viadana.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viadana.internal|Viadana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viadana.protect|Viadana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viadana.private|Viadana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viadana.personal|Viadana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viadana.secret|Viadana.secret]] 

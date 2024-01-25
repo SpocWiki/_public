@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Flexible_film_or_thin_membranes-Illumination]
 [SpocWebEntityId::24281]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.md|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.internal.md|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.protect.md|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.private.md|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.personal.md|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.secret.md|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.internal|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.protect|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.private|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.personal|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.secret|Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.secret]] 

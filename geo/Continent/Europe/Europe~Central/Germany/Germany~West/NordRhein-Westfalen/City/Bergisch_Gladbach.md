@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bergisch_Gladbach|Bergisch_Gladbach]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.internal.md|Bergisch_Gladbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.protect.md|Bergisch_Gladbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.private.md|Bergisch_Gladbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.personal.md|Bergisch_Gladbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.secret.md|Bergisch_Gladbach.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.internal|Bergisch_Gladbach.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.protect|Bergisch_Gladbach.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.private|Bergisch_Gladbach.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.personal|Bergisch_Gladbach.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.secret|Bergisch_Gladbach.secret]] 

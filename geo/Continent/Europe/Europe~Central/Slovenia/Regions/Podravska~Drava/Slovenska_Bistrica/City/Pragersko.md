@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Pragersko.md|Pragersko]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Pragersko.internal.md|Pragersko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Pragersko.protect.md|Pragersko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Pragersko.private.md|Pragersko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Pragersko.personal.md|Pragersko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Pragersko.secret.md|Pragersko.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Pragersko.internal|Pragersko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Pragersko.protect|Pragersko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Pragersko.private|Pragersko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Pragersko.personal|Pragersko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Pragersko.secret|Pragersko.secret]] 

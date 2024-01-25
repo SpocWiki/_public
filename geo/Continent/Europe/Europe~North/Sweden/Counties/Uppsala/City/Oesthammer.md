@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Oesthammer.md|Oesthammer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oesthammer.internal.md|Oesthammer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oesthammer.protect.md|Oesthammer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oesthammer.private.md|Oesthammer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oesthammer.personal.md|Oesthammer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oesthammer.secret.md|Oesthammer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oesthammer.internal|Oesthammer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oesthammer.protect|Oesthammer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oesthammer.private|Oesthammer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oesthammer.personal|Oesthammer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oesthammer.secret|Oesthammer.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Akwa_Ibom/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.md|Akwa_Ibom]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.internal.md|Akwa_Ibom.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.protect.md|Akwa_Ibom.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.private.md|Akwa_Ibom.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.personal.md|Akwa_Ibom.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.secret.md|Akwa_Ibom.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.internal|Akwa_Ibom.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.protect|Akwa_Ibom.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.private|Akwa_Ibom.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.personal|Akwa_Ibom.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.secret|Akwa_Ibom.secret]] 
 

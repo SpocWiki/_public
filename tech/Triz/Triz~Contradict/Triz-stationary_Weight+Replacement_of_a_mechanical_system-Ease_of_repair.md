@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair]
 [SpocWebEntityId::22793]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.internal.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.protect.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.private.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.personal.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.secret.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.internal|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.protect|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.private|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.personal|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.secret|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Ease_of_repair.secret]] 

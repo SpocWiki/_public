@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Revonhahbi.md|Revonhahbi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Revonhahbi.internal.md|Revonhahbi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Revonhahbi.protect.md|Revonhahbi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Revonhahbi.private.md|Revonhahbi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Revonhahbi.personal.md|Revonhahbi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Revonhahbi.secret.md|Revonhahbi.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Revonhahbi.internal|Revonhahbi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Revonhahbi.protect|Revonhahbi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Revonhahbi.private|Revonhahbi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Revonhahbi.personal|Revonhahbi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Revonhahbi.secret|Revonhahbi.secret]] 

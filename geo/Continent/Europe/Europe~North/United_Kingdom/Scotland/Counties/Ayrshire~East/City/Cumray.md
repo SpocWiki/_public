@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cumray.md|Cumray]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cumray.internal.md|Cumray.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cumray.protect.md|Cumray.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cumray.private.md|Cumray.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cumray.personal.md|Cumray.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cumray.secret.md|Cumray.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cumray.internal|Cumray.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cumray.protect|Cumray.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cumray.private|Cumray.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cumray.personal|Cumray.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cumray.secret|Cumray.secret]] 

@@ -136,7 +136,7 @@ markerFolder: ./Guinea-Bissau//
 ## Confidential Links & Embeds: 
 - [[Guinea-Bissau|Guinea-Bissau]] 
 - [[../../../../../_internal/geo/Continent/Africa/Guinea-Bissau.internal|Guinea-Bissau.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau.protect.md|Guinea-Bissau.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau.private.md|Guinea-Bissau.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau.personal.md|Guinea-Bissau.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau.secret.md|Guinea-Bissau.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau.protect|Guinea-Bissau.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau.private|Guinea-Bissau.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau.personal|Guinea-Bissau.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau.secret|Guinea-Bissau.secret]] 

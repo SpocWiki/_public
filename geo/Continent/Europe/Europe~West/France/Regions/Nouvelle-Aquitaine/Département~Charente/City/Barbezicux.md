@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Barbezicux.md|Barbezicux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Barbezicux.internal.md|Barbezicux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Barbezicux.protect.md|Barbezicux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Barbezicux.private.md|Barbezicux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Barbezicux.personal.md|Barbezicux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Barbezicux.secret.md|Barbezicux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Barbezicux.internal|Barbezicux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Barbezicux.protect|Barbezicux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Barbezicux.private|Barbezicux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Barbezicux.personal|Barbezicux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Barbezicux.secret|Barbezicux.secret]] 

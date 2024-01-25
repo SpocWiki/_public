@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Dynamicity-Strength]
 [SpocWebEntityId::25760]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.md|Triz-generated_harm+Dynamicity-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.internal.md|Triz-generated_harm+Dynamicity-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.protect.md|Triz-generated_harm+Dynamicity-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.private.md|Triz-generated_harm+Dynamicity-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.personal.md|Triz-generated_harm+Dynamicity-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.secret.md|Triz-generated_harm+Dynamicity-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.internal|Triz-generated_harm+Dynamicity-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.protect|Triz-generated_harm+Dynamicity-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.private|Triz-generated_harm+Dynamicity-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.personal|Triz-generated_harm+Dynamicity-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.secret|Triz-generated_harm+Dynamicity-Strength.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Roosendaal.md|Roosendaal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Roosendaal.internal.md|Roosendaal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Roosendaal.protect.md|Roosendaal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Roosendaal.private.md|Roosendaal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Roosendaal.personal.md|Roosendaal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Roosendaal.secret.md|Roosendaal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Roosendaal.internal|Roosendaal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Roosendaal.protect|Roosendaal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Roosendaal.private|Roosendaal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Roosendaal.personal|Roosendaal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Roosendaal.secret|Roosendaal.secret]] 

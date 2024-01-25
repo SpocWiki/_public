@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Svitavy.md|Svitavy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Svitavy.internal.md|Svitavy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Svitavy.protect.md|Svitavy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Svitavy.private.md|Svitavy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Svitavy.personal.md|Svitavy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Svitavy.secret.md|Svitavy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Svitavy.internal|Svitavy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Svitavy.protect|Svitavy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Svitavy.private|Svitavy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Svitavy.personal|Svitavy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Svitavy.secret|Svitavy.secret]] 

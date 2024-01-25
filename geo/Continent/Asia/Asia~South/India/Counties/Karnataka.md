@@ -41,9 +41,9 @@ markerFolder: ./Karnataka/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.md|Karnataka]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.internal.md|Karnataka.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.protect.md|Karnataka.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.private.md|Karnataka.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.personal.md|Karnataka.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.secret.md|Karnataka.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.internal|Karnataka.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.protect|Karnataka.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.private|Karnataka.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.personal|Karnataka.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Karnataka.secret|Karnataka.secret]] 
 

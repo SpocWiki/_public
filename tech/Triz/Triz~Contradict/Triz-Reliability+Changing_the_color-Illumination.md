@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Changing_the_color-Illumination]
 [SpocWebEntityId::25293]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.md|Triz-Reliability+Changing_the_color-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.internal.md|Triz-Reliability+Changing_the_color-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.protect.md|Triz-Reliability+Changing_the_color-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.private.md|Triz-Reliability+Changing_the_color-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.personal.md|Triz-Reliability+Changing_the_color-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.secret.md|Triz-Reliability+Changing_the_color-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.internal|Triz-Reliability+Changing_the_color-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.protect|Triz-Reliability+Changing_the_color-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.private|Triz-Reliability+Changing_the_color-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.personal|Triz-Reliability+Changing_the_color-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Changing_the_color-Illumination.secret|Triz-Reliability+Changing_the_color-Illumination.secret]] 

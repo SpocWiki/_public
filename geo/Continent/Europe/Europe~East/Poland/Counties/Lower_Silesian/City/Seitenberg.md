@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Seitenberg.md|Seitenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Seitenberg.internal.md|Seitenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Seitenberg.protect.md|Seitenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Seitenberg.private.md|Seitenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Seitenberg.personal.md|Seitenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Seitenberg.secret.md|Seitenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Seitenberg.internal|Seitenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Seitenberg.protect|Seitenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Seitenberg.private|Seitenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Seitenberg.personal|Seitenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Seitenberg.secret|Seitenberg.secret]] 

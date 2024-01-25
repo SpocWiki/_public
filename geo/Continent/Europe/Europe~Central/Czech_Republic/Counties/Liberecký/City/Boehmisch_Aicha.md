@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.md|Boehmisch_Aicha]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.internal.md|Boehmisch_Aicha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.protect.md|Boehmisch_Aicha.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.private.md|Boehmisch_Aicha.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.personal.md|Boehmisch_Aicha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.secret.md|Boehmisch_Aicha.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.internal|Boehmisch_Aicha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.protect|Boehmisch_Aicha.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.private|Boehmisch_Aicha.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.personal|Boehmisch_Aicha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.secret|Boehmisch_Aicha.secret]] 

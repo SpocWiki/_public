@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Changing_the_color-Measurement_Accuracy]
 [SpocWebEntityId::26508]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Changing_the_color]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.md|Triz-Difficulty+Changing_the_color-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.internal.md|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.protect.md|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.private.md|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.personal.md|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.secret.md|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.internal|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.protect|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.private|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.personal|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Changing_the_color-Measurement_Accuracy.secret|Triz-Difficulty+Changing_the_color-Measurement_Accuracy.secret]] 

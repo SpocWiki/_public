@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Mysleince.md|Mysleince]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mysleince.internal.md|Mysleince.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mysleince.protect.md|Mysleince.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mysleince.private.md|Mysleince.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mysleince.personal.md|Mysleince.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mysleince.secret.md|Mysleince.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mysleince.internal|Mysleince.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mysleince.protect|Mysleince.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mysleince.private|Mysleince.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mysleince.personal|Mysleince.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mysleince.secret|Mysleince.secret]] 

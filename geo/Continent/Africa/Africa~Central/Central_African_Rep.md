@@ -40,7 +40,7 @@ markerFolder: ./Central_African_Rep//
 ## Confidential Links & Embeds: 
 - [[Central_African_Rep|Central_African_Rep]] 
 - [[../../../../../_internal/geo/Continent/Africa/Central_African_Rep.internal|Central_African_Rep.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep.protect.md|Central_African_Rep.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep.private.md|Central_African_Rep.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep.personal.md|Central_African_Rep.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep.secret.md|Central_African_Rep.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep.protect|Central_African_Rep.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep.private|Central_African_Rep.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep.personal|Central_African_Rep.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep.secret|Central_African_Rep.secret]] 

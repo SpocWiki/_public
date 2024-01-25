@@ -40,7 +40,7 @@ markerFolder: ./Cote_d'ivoire//
 ## Confidential Links & Embeds: 
 - [[Cote_d'ivoire|Cote_d'ivoire]] 
 - [[../../../../../_internal/geo/Continent/Africa/Cote_D'ivoire.internal|Cote_D'ivoire.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_D'ivoire.protect.md|Cote_D'ivoire.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_D'ivoire.private.md|Cote_D'ivoire.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_D'ivoire.personal.md|Cote_D'ivoire.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_D'ivoire.secret.md|Cote_D'ivoire.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_D'ivoire.protect|Cote_D'ivoire.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_D'ivoire.private|Cote_D'ivoire.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_D'ivoire.personal|Cote_D'ivoire.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_D'ivoire.secret|Cote_D'ivoire.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schoenfeld.md|Schoenfeld]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenfeld.internal.md|Schoenfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenfeld.protect.md|Schoenfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenfeld.private.md|Schoenfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenfeld.personal.md|Schoenfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenfeld.secret.md|Schoenfeld.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenfeld.internal|Schoenfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenfeld.protect|Schoenfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenfeld.private|Schoenfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenfeld.personal|Schoenfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenfeld.secret|Schoenfeld.secret]] 

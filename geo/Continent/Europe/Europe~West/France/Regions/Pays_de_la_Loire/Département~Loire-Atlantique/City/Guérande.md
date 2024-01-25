@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Guérande.md|Guérande]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Guérande.internal.md|Guérande.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Guérande.protect.md|Guérande.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Guérande.private.md|Guérande.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Guérande.personal.md|Guérande.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Guérande.secret.md|Guérande.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Guérande.internal|Guérande.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Guérande.protect|Guérande.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Guérande.private|Guérande.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Guérande.personal|Guérande.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Guérande.secret|Guérande.secret]] 

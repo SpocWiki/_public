@@ -18,8 +18,8 @@ Use Food and Lawn Waste to create Compost.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Compost.md|Triz-Compost]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Compost.internal.md|Triz-Compost.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Compost.protect.md|Triz-Compost.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Compost.private.md|Triz-Compost.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Compost.personal.md|Triz-Compost.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Compost.secret.md|Triz-Compost.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Compost.internal|Triz-Compost.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Compost.protect|Triz-Compost.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Compost.private|Triz-Compost.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Compost.personal|Triz-Compost.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Compost.secret|Triz-Compost.secret]] 

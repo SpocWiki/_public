@@ -41,9 +41,9 @@ markerFolder: ./Mbomou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.md|Mbomou]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.internal.md|Mbomou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.protect.md|Mbomou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.private.md|Mbomou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.personal.md|Mbomou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.secret.md|Mbomou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.internal|Mbomou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.protect|Mbomou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.private|Mbomou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.personal|Mbomou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.secret|Mbomou.secret]] 
 

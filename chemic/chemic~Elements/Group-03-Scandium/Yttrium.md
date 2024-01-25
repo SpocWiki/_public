@@ -36,8 +36,8 @@ SpocWebEntityId: 21937
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-03-Scandium/Yttrium.md|Yttrium]] 
-- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Yttrium.internal.md|Yttrium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Yttrium.protect.md|Yttrium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-03-Scandium/Yttrium.private.md|Yttrium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Yttrium.personal.md|Yttrium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Yttrium.secret.md|Yttrium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Yttrium.internal|Yttrium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Yttrium.protect|Yttrium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-03-Scandium/Yttrium.private|Yttrium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Yttrium.personal|Yttrium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Yttrium.secret|Yttrium.secret]] 

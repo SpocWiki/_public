@@ -137,8 +137,8 @@ markerFolder: ./Monaco//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Monaco.md|Monaco]] 
-- [[../../../../_internal/geo/Continent/Europe/Monaco.internal.md|Monaco.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Monaco.protect.md|Monaco.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Monaco.private.md|Monaco.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Monaco.personal.md|Monaco.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Monaco.secret.md|Monaco.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Monaco.internal|Monaco.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Monaco.protect|Monaco.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Monaco.private|Monaco.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Monaco.personal|Monaco.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Monaco.secret|Monaco.secret]] 

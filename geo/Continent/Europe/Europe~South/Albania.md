@@ -131,8 +131,8 @@ markerFolder: ./Albania//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Albania.md|Albania]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania.internal.md|Albania.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania.protect.md|Albania.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania.private.md|Albania.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania.personal.md|Albania.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania.secret.md|Albania.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Albania.internal|Albania.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Albania.protect|Albania.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Albania.private|Albania.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Albania.personal|Albania.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Albania.secret|Albania.secret]] 

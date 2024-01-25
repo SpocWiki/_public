@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Universality-Substance-Loss]
 [SpocWebEntityId::25175]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.md|Triz-Quantity+Universality-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.internal.md|Triz-Quantity+Universality-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.protect.md|Triz-Quantity+Universality-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.private.md|Triz-Quantity+Universality-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.personal.md|Triz-Quantity+Universality-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.secret.md|Triz-Quantity+Universality-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.internal|Triz-Quantity+Universality-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.protect|Triz-Quantity+Universality-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.private|Triz-Quantity+Universality-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.personal|Triz-Quantity+Universality-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.secret|Triz-Quantity+Universality-Substance-Loss.secret]] 

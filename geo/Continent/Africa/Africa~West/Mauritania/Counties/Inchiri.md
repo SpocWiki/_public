@@ -41,9 +41,9 @@ markerFolder: ./Inchiri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Inchiri.md|Inchiri]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Inchiri.internal.md|Inchiri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Inchiri.protect.md|Inchiri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Inchiri.private.md|Inchiri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Inchiri.personal.md|Inchiri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Inchiri.secret.md|Inchiri.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Inchiri.internal|Inchiri.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Inchiri.protect|Inchiri.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Inchiri.private|Inchiri.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Inchiri.personal|Inchiri.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Inchiri.secret|Inchiri.secret]] 
 

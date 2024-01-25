@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Troivierges.md|Troivierges]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Troivierges.internal.md|Troivierges.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Troivierges.protect.md|Troivierges.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Troivierges.private.md|Troivierges.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Troivierges.personal.md|Troivierges.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Troivierges.secret.md|Troivierges.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Troivierges.internal|Troivierges.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Troivierges.protect|Troivierges.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Troivierges.private|Troivierges.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Troivierges.personal|Troivierges.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Troivierges.secret|Troivierges.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.md|Bagni_di_Boretta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.internal.md|Bagni_di_Boretta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.protect.md|Bagni_di_Boretta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.private.md|Bagni_di_Boretta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.personal.md|Bagni_di_Boretta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.secret.md|Bagni_di_Boretta.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.internal|Bagni_di_Boretta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.protect|Bagni_di_Boretta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.private|Bagni_di_Boretta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.personal|Bagni_di_Boretta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.secret|Bagni_di_Boretta.secret]] 

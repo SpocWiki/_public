@@ -41,9 +41,9 @@ markerFolder: ./Aragua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Aragua.md|Aragua]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Aragua.internal.md|Aragua.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Aragua.protect.md|Aragua.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Aragua.private.md|Aragua.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Aragua.personal.md|Aragua.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Aragua.secret.md|Aragua.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Aragua.internal|Aragua.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Aragua.protect|Aragua.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Aragua.private|Aragua.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Aragua.personal|Aragua.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Aragua.secret|Aragua.secret]] 
 

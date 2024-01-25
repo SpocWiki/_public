@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.md|Aldboraugh]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.internal.md|Aldboraugh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.protect.md|Aldboraugh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.private.md|Aldboraugh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.personal.md|Aldboraugh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.secret.md|Aldboraugh.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.internal|Aldboraugh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.protect|Aldboraugh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.private|Aldboraugh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.personal|Aldboraugh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.secret|Aldboraugh.secret]] 

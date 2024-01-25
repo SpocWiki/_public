@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Samarkand.md|Samarkand]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Samarkand.internal.md|Samarkand.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Samarkand.protect.md|Samarkand.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Samarkand.private.md|Samarkand.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Samarkand.personal.md|Samarkand.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Samarkand.secret.md|Samarkand.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Samarkand.internal|Samarkand.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Samarkand.protect|Samarkand.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Samarkand.private|Samarkand.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Samarkand.personal|Samarkand.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Samarkand.secret|Samarkand.secret]] 

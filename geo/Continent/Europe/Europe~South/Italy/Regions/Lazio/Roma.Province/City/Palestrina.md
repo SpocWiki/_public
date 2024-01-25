@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Palestrina.md|Palestrina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Palestrina.internal.md|Palestrina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Palestrina.protect.md|Palestrina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Palestrina.private.md|Palestrina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Palestrina.personal.md|Palestrina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Palestrina.secret.md|Palestrina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Palestrina.internal|Palestrina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Palestrina.protect|Palestrina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Palestrina.private|Palestrina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Palestrina.personal|Palestrina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Palestrina.secret|Palestrina.secret]] 

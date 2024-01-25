@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Universality-Strength]
 [SpocWebEntityId::26222]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.md|Triz-Versatility+Universality-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.internal.md|Triz-Versatility+Universality-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.protect.md|Triz-Versatility+Universality-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.private.md|Triz-Versatility+Universality-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.personal.md|Triz-Versatility+Universality-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.secret.md|Triz-Versatility+Universality-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.internal|Triz-Versatility+Universality-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.protect|Triz-Versatility+Universality-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.private|Triz-Versatility+Universality-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.personal|Triz-Versatility+Universality-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Universality-Strength.secret|Triz-Versatility+Universality-Strength.secret]] 

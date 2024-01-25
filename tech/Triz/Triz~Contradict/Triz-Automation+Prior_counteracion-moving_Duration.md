@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Prior_counteracion-moving_Duration]
 [SpocWebEntityId::26568]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Prior_counteracion]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.md|Triz-Automation+Prior_counteracion-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.internal.md|Triz-Automation+Prior_counteracion-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.protect.md|Triz-Automation+Prior_counteracion-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.private.md|Triz-Automation+Prior_counteracion-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.personal.md|Triz-Automation+Prior_counteracion-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.secret.md|Triz-Automation+Prior_counteracion-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.internal|Triz-Automation+Prior_counteracion-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.protect|Triz-Automation+Prior_counteracion-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.private|Triz-Automation+Prior_counteracion-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.personal|Triz-Automation+Prior_counteracion-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Prior_counteracion-moving_Duration.secret|Triz-Automation+Prior_counteracion-moving_Duration.secret]] 

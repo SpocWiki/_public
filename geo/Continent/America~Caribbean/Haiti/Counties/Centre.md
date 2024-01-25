@@ -41,9 +41,9 @@ markerFolder: ./Centre/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Centre.md|Centre]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.internal.md|Centre.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Centre.protect.md|Centre.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Centre.private.md|Centre.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.personal.md|Centre.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Centre.secret.md|Centre.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.internal|Centre.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Centre.protect|Centre.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Centre.private|Centre.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.personal|Centre.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Centre.secret|Centre.secret]] 
 

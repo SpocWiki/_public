@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Atair.md|Atair]] 
-- [[../../../_internal/astro/Star/Atair.internal.md|Atair.internal]] 
-- [[../../../_protect/astro/Star/Atair.protect.md|Atair.protect]] 
-- [[../../../_private/astro/Star/Atair.private.md|Atair.private]] 
-- [[../../../_personal/astro/Star/Atair.personal.md|Atair.personal]] 
-- [[../../../_secret/astro/Star/Atair.secret.md|Atair.secret]]
+- [[../../../_internal/astro/Star/Atair.internal|Atair.internal]] 
+- [[../../../_protect/astro/Star/Atair.protect|Atair.protect]] 
+- [[../../../_private/astro/Star/Atair.private|Atair.private]] 
+- [[../../../_personal/astro/Star/Atair.personal|Atair.personal]] 
+- [[../../../_secret/astro/Star/Atair.secret|Atair.secret]]
 

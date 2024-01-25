@@ -41,9 +41,9 @@ markerFolder: ./Kapchorwa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kapchorwa.md|Kapchorwa]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kapchorwa.internal.md|Kapchorwa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kapchorwa.protect.md|Kapchorwa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kapchorwa.private.md|Kapchorwa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kapchorwa.personal.md|Kapchorwa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kapchorwa.secret.md|Kapchorwa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kapchorwa.internal|Kapchorwa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kapchorwa.protect|Kapchorwa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kapchorwa.private|Kapchorwa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kapchorwa.personal|Kapchorwa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kapchorwa.secret|Kapchorwa.secret]] 
 

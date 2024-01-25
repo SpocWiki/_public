@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Puteaux.md|Puteaux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Puteaux.internal.md|Puteaux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Puteaux.protect.md|Puteaux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Puteaux.private.md|Puteaux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Puteaux.personal.md|Puteaux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Puteaux.secret.md|Puteaux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Puteaux.internal|Puteaux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Puteaux.protect|Puteaux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Puteaux.private|Puteaux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Puteaux.personal|Puteaux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Puteaux.secret|Puteaux.secret]] 

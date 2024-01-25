@@ -41,9 +41,9 @@ markerFolder: ./Kavango/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Kavango.md|Kavango]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Kavango.internal.md|Kavango.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Kavango.protect.md|Kavango.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Kavango.private.md|Kavango.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Kavango.personal.md|Kavango.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Kavango.secret.md|Kavango.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Kavango.internal|Kavango.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Kavango.protect|Kavango.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Kavango.private|Kavango.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Kavango.personal|Kavango.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Kavango.secret|Kavango.secret]] 
 

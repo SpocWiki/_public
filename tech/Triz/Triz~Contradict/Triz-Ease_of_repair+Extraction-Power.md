@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Extraction-Power]
 [SpocWebEntityId::26127]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.md|Triz-Ease_of_repair+Extraction-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.internal.md|Triz-Ease_of_repair+Extraction-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.protect.md|Triz-Ease_of_repair+Extraction-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.private.md|Triz-Ease_of_repair+Extraction-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.personal.md|Triz-Ease_of_repair+Extraction-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.secret.md|Triz-Ease_of_repair+Extraction-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.internal|Triz-Ease_of_repair+Extraction-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.protect|Triz-Ease_of_repair+Extraction-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.private|Triz-Ease_of_repair+Extraction-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.personal|Triz-Ease_of_repair+Extraction-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Power.secret|Triz-Ease_of_repair+Extraction-Power.secret]] 

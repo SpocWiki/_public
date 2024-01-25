@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~British_Columbia|State~British_Columbia]]] 
 - [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~British_Columbia.internal|State~British_Columbia.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~British_Columbia.protect.md|State~British_Columbia.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~British_Columbia.private.md|State~British_Columbia.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~British_Columbia.personal.md|State~British_Columbia.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~British_Columbia.secret.md|State~British_Columbia.secret]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~British_Columbia.protect|State~British_Columbia.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~British_Columbia.private|State~British_Columbia.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~British_Columbia.personal|State~British_Columbia.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~British_Columbia.secret|State~British_Columbia.secret]] 

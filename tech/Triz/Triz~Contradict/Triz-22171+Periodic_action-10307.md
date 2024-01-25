@@ -12,16 +12,16 @@ tags:
 ---
 [name::22171+Periodic_action-10307]
 [SpocWebEntityId::24167]
-+ [pro::[[Triz-22171]]]
++ [#has_/Pros :: [[Triz-22171]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-10307]]]
+- [#has_/Cons :: [[Triz-10307]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.md|Triz-22171+Periodic_action-10307]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.internal.md|Triz-22171+Periodic_action-10307.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.protect.md|Triz-22171+Periodic_action-10307.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.private.md|Triz-22171+Periodic_action-10307.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.personal.md|Triz-22171+Periodic_action-10307.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.secret.md|Triz-22171+Periodic_action-10307.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.internal|Triz-22171+Periodic_action-10307.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.protect|Triz-22171+Periodic_action-10307.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.private|Triz-22171+Periodic_action-10307.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.personal|Triz-22171+Periodic_action-10307.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-22171+Periodic_action-10307.secret|Triz-22171+Periodic_action-10307.secret]] 

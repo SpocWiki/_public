@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Composite_materials-stationary_Area]
 [SpocWebEntityId::23967]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-stationary_Area]]]
+- [#has_/Cons :: [[Triz-stationary_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.md|Triz-Strength+Composite_materials-stationary_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.internal.md|Triz-Strength+Composite_materials-stationary_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.protect.md|Triz-Strength+Composite_materials-stationary_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.private.md|Triz-Strength+Composite_materials-stationary_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.personal.md|Triz-Strength+Composite_materials-stationary_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.secret.md|Triz-Strength+Composite_materials-stationary_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.internal|Triz-Strength+Composite_materials-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.protect|Triz-Strength+Composite_materials-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.private|Triz-Strength+Composite_materials-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.personal|Triz-Strength+Composite_materials-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.secret|Triz-Strength+Composite_materials-stationary_Area.secret]] 

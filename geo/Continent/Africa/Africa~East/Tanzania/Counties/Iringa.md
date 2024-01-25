@@ -41,9 +41,9 @@ markerFolder: ./Iringa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Iringa.md|Iringa]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Iringa.internal.md|Iringa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Iringa.protect.md|Iringa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Iringa.private.md|Iringa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Iringa.personal.md|Iringa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Iringa.secret.md|Iringa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Iringa.internal|Iringa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Iringa.protect|Iringa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Iringa.private|Iringa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Iringa.personal|Iringa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Iringa.secret|Iringa.secret]] 
 

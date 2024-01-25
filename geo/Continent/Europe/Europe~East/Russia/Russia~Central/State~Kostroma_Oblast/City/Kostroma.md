@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kostroma.md|Kostroma]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kostroma.internal.md|Kostroma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kostroma.protect.md|Kostroma.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kostroma.private.md|Kostroma.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kostroma.personal.md|Kostroma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kostroma.secret.md|Kostroma.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kostroma.internal|Kostroma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kostroma.protect|Kostroma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kostroma.private|Kostroma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kostroma.personal|Kostroma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kostroma.secret|Kostroma.secret]] 

@@ -40,8 +40,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Utah.md|Utah]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Utah.internal.md|Utah.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Utah.protect.md|Utah.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Utah.private.md|Utah.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Utah.personal.md|Utah.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Utah.secret.md|Utah.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Utah.internal|Utah.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Utah.protect|Utah.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Utah.private|Utah.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Utah.personal|Utah.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Utah.secret|Utah.secret]] 

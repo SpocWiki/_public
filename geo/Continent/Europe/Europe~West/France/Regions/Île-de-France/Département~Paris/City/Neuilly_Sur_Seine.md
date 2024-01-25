@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.md|Neuilly_Sur_Seine]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.internal.md|Neuilly_Sur_Seine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.protect.md|Neuilly_Sur_Seine.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.private.md|Neuilly_Sur_Seine.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.personal.md|Neuilly_Sur_Seine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.secret.md|Neuilly_Sur_Seine.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.internal|Neuilly_Sur_Seine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.protect|Neuilly_Sur_Seine.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.private|Neuilly_Sur_Seine.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.personal|Neuilly_Sur_Seine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.secret|Neuilly_Sur_Seine.secret]] 

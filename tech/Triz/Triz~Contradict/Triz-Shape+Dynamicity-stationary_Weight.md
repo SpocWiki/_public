@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Dynamicity-stationary_Weight]
 [SpocWebEntityId::23713]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.md|Triz-Shape+Dynamicity-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.internal.md|Triz-Shape+Dynamicity-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.protect.md|Triz-Shape+Dynamicity-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.private.md|Triz-Shape+Dynamicity-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.personal.md|Triz-Shape+Dynamicity-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.secret.md|Triz-Shape+Dynamicity-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.internal|Triz-Shape+Dynamicity-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.protect|Triz-Shape+Dynamicity-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.private|Triz-Shape+Dynamicity-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.personal|Triz-Shape+Dynamicity-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-stationary_Weight.secret|Triz-Shape+Dynamicity-stationary_Weight.secret]] 

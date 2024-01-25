@@ -41,9 +41,9 @@ markerFolder: ./St._Eustatius/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.md|St._Eustatius]] 
-- [[../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.internal.md|St._Eustatius.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.protect.md|St._Eustatius.protect]] 
-- [[../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.private.md|St._Eustatius.private]] 
-- [[../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.personal.md|St._Eustatius.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.secret.md|St._Eustatius.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.internal|St._Eustatius.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.protect|St._Eustatius.protect]] 
+- [[../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.private|St._Eustatius.private]] 
+- [[../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.personal|St._Eustatius.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.secret|St._Eustatius.secret]] 
 

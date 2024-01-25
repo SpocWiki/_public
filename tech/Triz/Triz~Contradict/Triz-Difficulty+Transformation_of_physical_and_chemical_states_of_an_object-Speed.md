@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed]
 [SpocWebEntityId::26437]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret]] 

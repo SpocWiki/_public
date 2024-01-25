@@ -41,9 +41,9 @@ markerFolder: ./Boulkiemdé/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.md|Boulkiemdé]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.internal.md|Boulkiemdé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.protect.md|Boulkiemdé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.private.md|Boulkiemdé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.personal.md|Boulkiemdé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.secret.md|Boulkiemdé.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.internal|Boulkiemdé.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.protect|Boulkiemdé.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.private|Boulkiemdé.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.personal|Boulkiemdé.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.secret|Boulkiemdé.secret]] 
 

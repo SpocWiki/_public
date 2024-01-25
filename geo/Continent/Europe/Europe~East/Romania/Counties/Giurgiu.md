@@ -41,9 +41,9 @@ markerFolder: ./Giurgiu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Giurgiu.md|Giurgiu]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Giurgiu.internal.md|Giurgiu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Giurgiu.protect.md|Giurgiu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Giurgiu.private.md|Giurgiu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Giurgiu.personal.md|Giurgiu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Giurgiu.secret.md|Giurgiu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Giurgiu.internal|Giurgiu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Giurgiu.protect|Giurgiu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Giurgiu.private|Giurgiu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Giurgiu.personal|Giurgiu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Giurgiu.secret|Giurgiu.secret]] 
 

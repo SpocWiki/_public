@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Rushing_through-Temperature]
 [SpocWebEntityId::23528]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Rushing_through]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.md|Triz-Intensity+Rushing_through-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.internal.md|Triz-Intensity+Rushing_through-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.protect.md|Triz-Intensity+Rushing_through-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.private.md|Triz-Intensity+Rushing_through-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.personal.md|Triz-Intensity+Rushing_through-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.secret.md|Triz-Intensity+Rushing_through-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.internal|Triz-Intensity+Rushing_through-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.protect|Triz-Intensity+Rushing_through-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.private|Triz-Intensity+Rushing_through-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.personal|Triz-Intensity+Rushing_through-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.secret|Triz-Intensity+Rushing_through-Temperature.secret]] 

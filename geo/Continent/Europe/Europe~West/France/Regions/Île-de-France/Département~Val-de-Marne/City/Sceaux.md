@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Sceaux.md|Sceaux]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sceaux.internal.md|Sceaux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sceaux.protect.md|Sceaux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Sceaux.private.md|Sceaux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sceaux.personal.md|Sceaux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sceaux.secret.md|Sceaux.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sceaux.internal|Sceaux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sceaux.protect|Sceaux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Sceaux.private|Sceaux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sceaux.personal|Sceaux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sceaux.secret|Sceaux.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Periodic_action-Temperature]
 [SpocWebEntityId::23653]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.md|Triz-Stress+Periodic_action-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.internal.md|Triz-Stress+Periodic_action-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.protect.md|Triz-Stress+Periodic_action-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.private.md|Triz-Stress+Periodic_action-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.personal.md|Triz-Stress+Periodic_action-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.secret.md|Triz-Stress+Periodic_action-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.internal|Triz-Stress+Periodic_action-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.protect|Triz-Stress+Periodic_action-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.private|Triz-Stress+Periodic_action-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.personal|Triz-Stress+Periodic_action-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.secret|Triz-Stress+Periodic_action-Temperature.secret]] 

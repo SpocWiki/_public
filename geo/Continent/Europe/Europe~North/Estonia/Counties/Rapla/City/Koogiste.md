@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Koogiste.md|Koogiste]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Koogiste.internal.md|Koogiste.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Koogiste.protect.md|Koogiste.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Koogiste.private.md|Koogiste.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Koogiste.personal.md|Koogiste.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Koogiste.secret.md|Koogiste.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Koogiste.internal|Koogiste.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Koogiste.protect|Koogiste.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Koogiste.private|Koogiste.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Koogiste.personal|Koogiste.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Koogiste.secret|Koogiste.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Mechanical_vibration-Stress]
 [SpocWebEntityId::23987]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.md|Triz-Strength+Mechanical_vibration-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.internal.md|Triz-Strength+Mechanical_vibration-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.protect.md|Triz-Strength+Mechanical_vibration-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.private.md|Triz-Strength+Mechanical_vibration-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.personal.md|Triz-Strength+Mechanical_vibration-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.secret.md|Triz-Strength+Mechanical_vibration-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.internal|Triz-Strength+Mechanical_vibration-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.protect|Triz-Strength+Mechanical_vibration-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.private|Triz-Strength+Mechanical_vibration-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.personal|Triz-Strength+Mechanical_vibration-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Mechanical_vibration-Stress.secret|Triz-Strength+Mechanical_vibration-Stress.secret]] 

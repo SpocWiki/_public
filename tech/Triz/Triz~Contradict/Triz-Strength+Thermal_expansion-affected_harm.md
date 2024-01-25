@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Thermal_expansion-affected_harm]
 [SpocWebEntityId::24033]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-affected_harm]]]
+- [#has_/Cons :: [[Triz-affected_harm]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.md|Triz-Strength+Thermal_expansion-affected_harm]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.internal.md|Triz-Strength+Thermal_expansion-affected_harm.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.protect.md|Triz-Strength+Thermal_expansion-affected_harm.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.private.md|Triz-Strength+Thermal_expansion-affected_harm.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.personal.md|Triz-Strength+Thermal_expansion-affected_harm.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.secret.md|Triz-Strength+Thermal_expansion-affected_harm.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.internal|Triz-Strength+Thermal_expansion-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.protect|Triz-Strength+Thermal_expansion-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.private|Triz-Strength+Thermal_expansion-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.personal|Triz-Strength+Thermal_expansion-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Thermal_expansion-affected_harm.secret|Triz-Strength+Thermal_expansion-affected_harm.secret]] 

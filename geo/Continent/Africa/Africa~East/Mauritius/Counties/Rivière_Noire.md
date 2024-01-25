@@ -41,9 +41,9 @@ markerFolder: ./Rivière_Noire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.md|Rivière_Noire]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.internal.md|Rivière_Noire.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.protect.md|Rivière_Noire.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.private.md|Rivière_Noire.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.personal.md|Rivière_Noire.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.secret.md|Rivière_Noire.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.internal|Rivière_Noire.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.protect|Rivière_Noire.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.private|Rivière_Noire.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.personal|Rivière_Noire.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.secret|Rivière_Noire.secret]] 
 

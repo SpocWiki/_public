@@ -40,8 +40,8 @@ markerFolder: [./Eritrea/,./Ethiopia/]
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Eritrea_and_Ethiopia.md|Eritrea_and_Ethiopia]] 
-- [[../../../../_internal/geo/Continent/Africa/Eritrea_and_Ethiopia.internal.md|Eritrea_and_Ethiopia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Eritrea_and_Ethiopia.protect.md|Eritrea_and_Ethiopia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Eritrea_and_Ethiopia.private.md|Eritrea_and_Ethiopia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Eritrea_and_Ethiopia.personal.md|Eritrea_and_Ethiopia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Eritrea_and_Ethiopia.secret.md|Eritrea_and_Ethiopia.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Eritrea_and_Ethiopia.internal|Eritrea_and_Ethiopia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Eritrea_and_Ethiopia.protect|Eritrea_and_Ethiopia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Eritrea_and_Ethiopia.private|Eritrea_and_Ethiopia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Eritrea_and_Ethiopia.personal|Eritrea_and_Ethiopia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Eritrea_and_Ethiopia.secret|Eritrea_and_Ethiopia.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Labian.md|Labian]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Labian.internal.md|Labian.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Labian.protect.md|Labian.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Labian.private.md|Labian.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Labian.personal.md|Labian.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Labian.secret.md|Labian.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Labian.internal|Labian.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Labian.protect|Labian.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Labian.private|Labian.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Labian.personal|Labian.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Labian.secret|Labian.secret]] 

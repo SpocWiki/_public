@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Sarrebourg.md|Sarrebourg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sarrebourg.internal.md|Sarrebourg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sarrebourg.protect.md|Sarrebourg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Sarrebourg.private.md|Sarrebourg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sarrebourg.personal.md|Sarrebourg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sarrebourg.secret.md|Sarrebourg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sarrebourg.internal|Sarrebourg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sarrebourg.protect|Sarrebourg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Sarrebourg.private|Sarrebourg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sarrebourg.personal|Sarrebourg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sarrebourg.secret|Sarrebourg.secret]] 

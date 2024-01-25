@@ -41,9 +41,9 @@ markerFolder: ./Kosovo_Polje/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.md|Kosovo_Polje]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.internal.md|Kosovo_Polje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.protect.md|Kosovo_Polje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.private.md|Kosovo_Polje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.personal.md|Kosovo_Polje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.secret.md|Kosovo_Polje.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.internal|Kosovo_Polje.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.protect|Kosovo_Polje.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.private|Kosovo_Polje.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.personal|Kosovo_Polje.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Kosovo_Polje.secret|Kosovo_Polje.secret]] 
 

@@ -134,7 +134,7 @@ markerFolder: ./Guinea//
 ## Confidential Links & Embeds: 
 - [[Guinea|Guinea]] 
 - [[../../../../../_internal/geo/Continent/Africa/Guinea.internal|Guinea.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea.protect.md|Guinea.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea.private.md|Guinea.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea.personal.md|Guinea.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea.secret.md|Guinea.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea.protect|Guinea.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea.private|Guinea.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea.personal|Guinea.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea.secret|Guinea.secret]] 

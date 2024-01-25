@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wigtown.md|Wigtown]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wigtown.internal.md|Wigtown.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wigtown.protect.md|Wigtown.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wigtown.private.md|Wigtown.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wigtown.personal.md|Wigtown.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wigtown.secret.md|Wigtown.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wigtown.internal|Wigtown.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wigtown.protect|Wigtown.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wigtown.private|Wigtown.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wigtown.personal|Wigtown.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wigtown.secret|Wigtown.secret]] 

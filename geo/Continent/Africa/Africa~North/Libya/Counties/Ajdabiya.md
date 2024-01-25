@@ -41,9 +41,9 @@ markerFolder: ./Ajdabiya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Ajdabiya.md|Ajdabiya]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ajdabiya.internal.md|Ajdabiya.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ajdabiya.protect.md|Ajdabiya.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ajdabiya.private.md|Ajdabiya.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ajdabiya.personal.md|Ajdabiya.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ajdabiya.secret.md|Ajdabiya.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ajdabiya.internal|Ajdabiya.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ajdabiya.protect|Ajdabiya.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ajdabiya.private|Ajdabiya.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ajdabiya.personal|Ajdabiya.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ajdabiya.secret|Ajdabiya.secret]] 
 

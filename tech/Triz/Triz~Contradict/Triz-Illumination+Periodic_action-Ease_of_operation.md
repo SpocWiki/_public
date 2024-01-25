@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Periodic_action-Ease_of_operation]
 [SpocWebEntityId::24421]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.md|Triz-Illumination+Periodic_action-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.internal.md|Triz-Illumination+Periodic_action-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.protect.md|Triz-Illumination+Periodic_action-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.private.md|Triz-Illumination+Periodic_action-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.personal.md|Triz-Illumination+Periodic_action-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.secret.md|Triz-Illumination+Periodic_action-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.internal|Triz-Illumination+Periodic_action-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.protect|Triz-Illumination+Periodic_action-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.private|Triz-Illumination+Periodic_action-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.personal|Triz-Illumination+Periodic_action-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Ease_of_operation.secret|Triz-Illumination+Periodic_action-Ease_of_operation.secret]] 

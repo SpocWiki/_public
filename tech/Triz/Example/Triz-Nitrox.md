@@ -18,8 +18,8 @@ Scuba diving with Nitrox or other non-air Mixtures for extended Endurance
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Nitrox.md|Triz-Nitrox]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Nitrox.internal.md|Triz-Nitrox.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Nitrox.protect.md|Triz-Nitrox.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Nitrox.private.md|Triz-Nitrox.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Nitrox.personal.md|Triz-Nitrox.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Nitrox.secret.md|Triz-Nitrox.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Nitrox.internal|Triz-Nitrox.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Nitrox.protect|Triz-Nitrox.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Nitrox.private|Triz-Nitrox.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Nitrox.personal|Triz-Nitrox.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Nitrox.secret|Triz-Nitrox.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hidalgo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Hidalgo.md|Hidalgo]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Hidalgo.internal.md|Hidalgo.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Hidalgo.protect.md|Hidalgo.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Hidalgo.private.md|Hidalgo.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Hidalgo.personal.md|Hidalgo.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Hidalgo.secret.md|Hidalgo.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Hidalgo.internal|Hidalgo.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Hidalgo.protect|Hidalgo.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Hidalgo.private|Hidalgo.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Hidalgo.personal|Hidalgo.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Hidalgo.secret|Hidalgo.secret]] 
 

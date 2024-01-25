@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Rothenburg_ob_der_Tauber|Rothenburg_ob_der_Tauber]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.internal.md|Rothenburg_ob_der_Tauber.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.protect.md|Rothenburg_ob_der_Tauber.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.private.md|Rothenburg_ob_der_Tauber.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.personal.md|Rothenburg_ob_der_Tauber.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.secret.md|Rothenburg_ob_der_Tauber.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.internal|Rothenburg_ob_der_Tauber.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.protect|Rothenburg_ob_der_Tauber.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.private|Rothenburg_ob_der_Tauber.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.personal|Rothenburg_ob_der_Tauber.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.secret|Rothenburg_ob_der_Tauber.secret]] 

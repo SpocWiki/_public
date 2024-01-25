@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Inert_environment-Stability]
 [SpocWebEntityId::22938]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.md|Triz-stationary_Length+Inert_environment-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.internal.md|Triz-stationary_Length+Inert_environment-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.protect.md|Triz-stationary_Length+Inert_environment-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.private.md|Triz-stationary_Length+Inert_environment-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.personal.md|Triz-stationary_Length+Inert_environment-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.secret.md|Triz-stationary_Length+Inert_environment-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.internal|Triz-stationary_Length+Inert_environment-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.protect|Triz-stationary_Length+Inert_environment-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.private|Triz-stationary_Length+Inert_environment-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.personal|Triz-stationary_Length+Inert_environment-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.secret|Triz-stationary_Length+Inert_environment-Stability.secret]] 

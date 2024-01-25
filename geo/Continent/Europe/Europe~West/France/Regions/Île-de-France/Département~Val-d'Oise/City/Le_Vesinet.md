@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Le_Vesinet.md|Le_Vesinet]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Le_Vesinet.internal.md|Le_Vesinet.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Le_Vesinet.protect.md|Le_Vesinet.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Le_Vesinet.private.md|Le_Vesinet.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Le_Vesinet.personal.md|Le_Vesinet.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Le_Vesinet.secret.md|Le_Vesinet.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Le_Vesinet.internal|Le_Vesinet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Le_Vesinet.protect|Le_Vesinet.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Le_Vesinet.private|Le_Vesinet.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Le_Vesinet.personal|Le_Vesinet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Le_Vesinet.secret|Le_Vesinet.secret]] 

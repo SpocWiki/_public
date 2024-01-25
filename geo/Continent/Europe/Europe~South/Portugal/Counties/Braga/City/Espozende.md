@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Espozende.md|Espozende]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Espozende.internal.md|Espozende.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Espozende.protect.md|Espozende.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Espozende.private.md|Espozende.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Espozende.personal.md|Espozende.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Espozende.secret.md|Espozende.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Espozende.internal|Espozende.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Espozende.protect|Espozende.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Espozende.private|Espozende.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Espozende.personal|Espozende.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Espozende.secret|Espozende.secret]] 

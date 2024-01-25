@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Groix.md|Groix]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Groix.internal.md|Groix.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Groix.protect.md|Groix.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Groix.private.md|Groix.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Groix.personal.md|Groix.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Groix.secret.md|Groix.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Groix.internal|Groix.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Groix.protect|Groix.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Groix.private|Groix.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Groix.personal|Groix.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Groix.secret|Groix.secret]] 

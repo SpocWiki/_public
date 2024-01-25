@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kattun.md|Kattun]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kattun.internal.md|Kattun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kattun.protect.md|Kattun.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kattun.private.md|Kattun.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kattun.personal.md|Kattun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kattun.secret.md|Kattun.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kattun.internal|Kattun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kattun.protect|Kattun.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kattun.private|Kattun.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kattun.personal|Kattun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kattun.secret|Kattun.secret]] 

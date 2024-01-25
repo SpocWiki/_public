@@ -41,9 +41,9 @@ markerFolder: ./Iles_Saint-Paul_et_Nouvelle-Amsterdam/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.md|Iles_Saint-Paul_et_Nouvelle-Amsterdam]] 
-- [[../../../../_internal/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal.md|Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect.md|Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.private.md|Iles_Saint-Paul_et_Nouvelle-Amsterdam.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal.md|Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret.md|Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret]] 
+- [[../../../../_internal/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal|Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect|Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.private|Iles_Saint-Paul_et_Nouvelle-Amsterdam.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal|Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret|Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret]] 
 

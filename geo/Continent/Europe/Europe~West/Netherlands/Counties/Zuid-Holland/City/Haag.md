@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Haag.md|Haag]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Haag.internal.md|Haag.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Haag.protect.md|Haag.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Haag.private.md|Haag.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Haag.personal.md|Haag.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Haag.secret.md|Haag.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Haag.internal|Haag.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Haag.protect|Haag.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Haag.private|Haag.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Haag.personal|Haag.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Haag.secret|Haag.secret]] 

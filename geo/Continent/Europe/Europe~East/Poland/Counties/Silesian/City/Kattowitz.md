@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kattowitz.md|Kattowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kattowitz.internal.md|Kattowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kattowitz.protect.md|Kattowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kattowitz.private.md|Kattowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kattowitz.personal.md|Kattowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kattowitz.secret.md|Kattowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kattowitz.internal|Kattowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kattowitz.protect|Kattowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kattowitz.private|Kattowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kattowitz.personal|Kattowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kattowitz.secret|Kattowitz.secret]] 

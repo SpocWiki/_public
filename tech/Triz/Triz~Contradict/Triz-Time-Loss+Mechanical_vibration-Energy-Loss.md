@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Mechanical_vibration-Energy-Loss]
 [SpocWebEntityId::25056]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.md|Triz-Time-Loss+Mechanical_vibration-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.internal.md|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.protect.md|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.private.md|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.personal.md|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.secret.md|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.internal|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.protect|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.private|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.personal|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Energy-Loss.secret|Triz-Time-Loss+Mechanical_vibration-Energy-Loss.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Vardoe.md|Vardoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Vardoe.internal.md|Vardoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Vardoe.protect.md|Vardoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Vardoe.private.md|Vardoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Vardoe.personal.md|Vardoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Vardoe.secret.md|Vardoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Vardoe.internal|Vardoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Vardoe.protect|Vardoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Vardoe.private|Vardoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Vardoe.personal|Vardoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Vardoe.secret|Vardoe.secret]] 

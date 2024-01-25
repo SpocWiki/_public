@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Equipotentiality-moving_Volume]
 [SpocWebEntityId::23500]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Equipotentiality]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.md|Triz-Intensity+Equipotentiality-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.internal.md|Triz-Intensity+Equipotentiality-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.protect.md|Triz-Intensity+Equipotentiality-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.private.md|Triz-Intensity+Equipotentiality-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.personal.md|Triz-Intensity+Equipotentiality-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.secret.md|Triz-Intensity+Equipotentiality-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.internal|Triz-Intensity+Equipotentiality-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.protect|Triz-Intensity+Equipotentiality-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.private|Triz-Intensity+Equipotentiality-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.personal|Triz-Intensity+Equipotentiality-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-moving_Volume.secret|Triz-Intensity+Equipotentiality-moving_Volume.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Ylaema.md|Ylaema]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Ylaema.internal.md|Ylaema.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Ylaema.protect.md|Ylaema.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Ylaema.private.md|Ylaema.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Ylaema.personal.md|Ylaema.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Ylaema.secret.md|Ylaema.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Ylaema.internal|Ylaema.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Ylaema.protect|Ylaema.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Ylaema.private|Ylaema.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Ylaema.personal|Ylaema.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Ylaema.secret|Ylaema.secret]] 

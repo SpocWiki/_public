@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cesena.md|Cesena]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cesena.internal.md|Cesena.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cesena.protect.md|Cesena.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cesena.private.md|Cesena.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cesena.personal.md|Cesena.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cesena.secret.md|Cesena.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cesena.internal|Cesena.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cesena.protect|Cesena.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cesena.private|Cesena.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cesena.personal|Cesena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cesena.secret|Cesena.secret]] 

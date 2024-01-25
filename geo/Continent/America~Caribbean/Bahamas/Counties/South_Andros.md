@@ -41,9 +41,9 @@ markerFolder: ./South_Andros/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.md|South_Andros]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.internal.md|South_Andros.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.protect.md|South_Andros.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.private.md|South_Andros.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.personal.md|South_Andros.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.secret.md|South_Andros.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.internal|South_Andros.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.protect|South_Andros.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.private|South_Andros.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.personal|South_Andros.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/South_Andros.secret|South_Andros.secret]] 
 

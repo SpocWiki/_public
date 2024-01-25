@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Local_quality-moving_Weight]
 [SpocWebEntityId::25232]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.md|Triz-Reliability+Local_quality-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.internal.md|Triz-Reliability+Local_quality-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.protect.md|Triz-Reliability+Local_quality-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.private.md|Triz-Reliability+Local_quality-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.personal.md|Triz-Reliability+Local_quality-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.secret.md|Triz-Reliability+Local_quality-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.internal|Triz-Reliability+Local_quality-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.protect|Triz-Reliability+Local_quality-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.private|Triz-Reliability+Local_quality-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.personal|Triz-Reliability+Local_quality-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-moving_Weight.secret|Triz-Reliability+Local_quality-moving_Weight.secret]] 

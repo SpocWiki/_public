@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zaporozhya.md|Zaporozhya]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaporozhya.internal.md|Zaporozhya.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaporozhya.protect.md|Zaporozhya.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zaporozhya.private.md|Zaporozhya.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaporozhya.personal.md|Zaporozhya.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaporozhya.secret.md|Zaporozhya.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaporozhya.internal|Zaporozhya.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaporozhya.protect|Zaporozhya.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zaporozhya.private|Zaporozhya.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaporozhya.personal|Zaporozhya.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaporozhya.secret|Zaporozhya.secret]] 

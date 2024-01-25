@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Darlington.md|Darlington]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Darlington.internal.md|Darlington.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Darlington.protect.md|Darlington.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Darlington.private.md|Darlington.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Darlington.personal.md|Darlington.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Darlington.secret.md|Darlington.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Darlington.internal|Darlington.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Darlington.protect|Darlington.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Darlington.private|Darlington.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Darlington.personal|Darlington.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Darlington.secret|Darlington.secret]] 

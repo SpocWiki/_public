@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Segmentation-Illumination]
 [SpocWebEntityId::24740]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.md|Triz-Energy-Loss+Segmentation-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.internal.md|Triz-Energy-Loss+Segmentation-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.protect.md|Triz-Energy-Loss+Segmentation-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.private.md|Triz-Energy-Loss+Segmentation-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.personal.md|Triz-Energy-Loss+Segmentation-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.secret.md|Triz-Energy-Loss+Segmentation-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.internal|Triz-Energy-Loss+Segmentation-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.protect|Triz-Energy-Loss+Segmentation-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.private|Triz-Energy-Loss+Segmentation-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.personal|Triz-Energy-Loss+Segmentation-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.secret|Triz-Energy-Loss+Segmentation-Illumination.secret]] 

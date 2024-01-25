@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Aquarii-4.md|Aquarii-4]] 
-- [[../../../_internal/astro/Star/Aquarii-4.internal.md|Aquarii-4.internal]] 
-- [[../../../_protect/astro/Star/Aquarii-4.protect.md|Aquarii-4.protect]] 
-- [[../../../_private/astro/Star/Aquarii-4.private.md|Aquarii-4.private]] 
-- [[../../../_personal/astro/Star/Aquarii-4.personal.md|Aquarii-4.personal]] 
-- [[../../../_secret/astro/Star/Aquarii-4.secret.md|Aquarii-4.secret]]
+- [[../../../_internal/astro/Star/Aquarii-4.internal|Aquarii-4.internal]] 
+- [[../../../_protect/astro/Star/Aquarii-4.protect|Aquarii-4.protect]] 
+- [[../../../_private/astro/Star/Aquarii-4.private|Aquarii-4.private]] 
+- [[../../../_personal/astro/Star/Aquarii-4.personal|Aquarii-4.personal]] 
+- [[../../../_secret/astro/Star/Aquarii-4.secret|Aquarii-4.secret]]
 

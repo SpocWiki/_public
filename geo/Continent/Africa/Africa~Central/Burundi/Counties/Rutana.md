@@ -41,9 +41,9 @@ markerFolder: ./Rutana/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Rutana.md|Rutana]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Rutana.internal.md|Rutana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Rutana.protect.md|Rutana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Rutana.private.md|Rutana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Rutana.personal.md|Rutana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Rutana.secret.md|Rutana.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Rutana.internal|Rutana.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Rutana.protect|Rutana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Rutana.private|Rutana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Rutana.personal|Rutana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Rutana.secret|Rutana.secret]] 
 

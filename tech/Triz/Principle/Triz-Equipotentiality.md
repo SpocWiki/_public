@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Equipotentiality.md|Triz-Equipotentiality]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Equipotentiality.internal.md|Triz-Equipotentiality.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Equipotentiality.protect.md|Triz-Equipotentiality.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Equipotentiality.private.md|Triz-Equipotentiality.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Equipotentiality.personal.md|Triz-Equipotentiality.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Equipotentiality.secret.md|Triz-Equipotentiality.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Equipotentiality.internal|Triz-Equipotentiality.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Equipotentiality.protect|Triz-Equipotentiality.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Equipotentiality.private|Triz-Equipotentiality.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Equipotentiality.personal|Triz-Equipotentiality.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Equipotentiality.secret|Triz-Equipotentiality.secret]] 

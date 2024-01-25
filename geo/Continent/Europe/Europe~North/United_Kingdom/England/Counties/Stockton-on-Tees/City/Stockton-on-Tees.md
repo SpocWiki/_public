@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.md|Stockton-on-Tees]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.internal.md|Stockton-on-Tees.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.protect.md|Stockton-on-Tees.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.private.md|Stockton-on-Tees.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.personal.md|Stockton-on-Tees.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.secret.md|Stockton-on-Tees.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.internal|Stockton-on-Tees.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.protect|Stockton-on-Tees.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.private|Stockton-on-Tees.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.personal|Stockton-on-Tees.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.secret|Stockton-on-Tees.secret]] 

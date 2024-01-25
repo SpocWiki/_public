@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Srogoe.md|Srogoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Srogoe.internal.md|Srogoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Srogoe.protect.md|Srogoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Srogoe.private.md|Srogoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Srogoe.personal.md|Srogoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Srogoe.secret.md|Srogoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Srogoe.internal|Srogoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Srogoe.protect|Srogoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Srogoe.private|Srogoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Srogoe.personal|Srogoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Srogoe.secret|Srogoe.secret]] 

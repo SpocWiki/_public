@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Loveno.md|Loveno]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Loveno.internal.md|Loveno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Loveno.protect.md|Loveno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Loveno.private.md|Loveno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Loveno.personal.md|Loveno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Loveno.secret.md|Loveno.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Loveno.internal|Loveno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Loveno.protect|Loveno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Loveno.private|Loveno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Loveno.personal|Loveno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Loveno.secret|Loveno.secret]] 

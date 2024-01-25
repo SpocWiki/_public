@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.md|Unter-Berkovic]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.internal.md|Unter-Berkovic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.protect.md|Unter-Berkovic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.private.md|Unter-Berkovic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.personal.md|Unter-Berkovic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.secret.md|Unter-Berkovic.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.internal|Unter-Berkovic.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.protect|Unter-Berkovic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.private|Unter-Berkovic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.personal|Unter-Berkovic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.secret|Unter-Berkovic.secret]] 

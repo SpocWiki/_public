@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Algeberg.md|Algeberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Algeberg.internal.md|Algeberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Algeberg.protect.md|Algeberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Algeberg.private.md|Algeberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Algeberg.personal.md|Algeberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Algeberg.secret.md|Algeberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Algeberg.internal|Algeberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Algeberg.protect|Algeberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Algeberg.private|Algeberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Algeberg.personal|Algeberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Algeberg.secret|Algeberg.secret]] 

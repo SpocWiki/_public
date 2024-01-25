@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Baltimore.md|Baltimore]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Baltimore.internal.md|Baltimore.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Baltimore.protect.md|Baltimore.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Baltimore.private.md|Baltimore.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Baltimore.personal.md|Baltimore.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Baltimore.secret.md|Baltimore.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Baltimore.internal|Baltimore.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Baltimore.protect|Baltimore.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Baltimore.private|Baltimore.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Baltimore.personal|Baltimore.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Baltimore.secret|Baltimore.secret]] 

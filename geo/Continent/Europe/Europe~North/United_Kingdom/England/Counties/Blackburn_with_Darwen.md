@@ -41,9 +41,9 @@ markerFolder: ./Blackburn_with_Darwen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.md|Blackburn_with_Darwen]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.internal.md|Blackburn_with_Darwen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.protect.md|Blackburn_with_Darwen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.private.md|Blackburn_with_Darwen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.personal.md|Blackburn_with_Darwen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.secret.md|Blackburn_with_Darwen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.internal|Blackburn_with_Darwen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.protect|Blackburn_with_Darwen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.private|Blackburn_with_Darwen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.personal|Blackburn_with_Darwen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.secret|Blackburn_with_Darwen.secret]] 
 

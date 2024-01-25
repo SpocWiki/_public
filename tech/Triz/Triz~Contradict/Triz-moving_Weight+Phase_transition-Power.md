@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Phase_transition-Power]
 [SpocWebEntityId::22622]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.md|Triz-moving_Weight+Phase_transition-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.internal.md|Triz-moving_Weight+Phase_transition-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.protect.md|Triz-moving_Weight+Phase_transition-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.private.md|Triz-moving_Weight+Phase_transition-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.personal.md|Triz-moving_Weight+Phase_transition-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.secret.md|Triz-moving_Weight+Phase_transition-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.internal|Triz-moving_Weight+Phase_transition-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.protect|Triz-moving_Weight+Phase_transition-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.private|Triz-moving_Weight+Phase_transition-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.personal|Triz-moving_Weight+Phase_transition-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.secret|Triz-moving_Weight+Phase_transition-Power.secret]] 

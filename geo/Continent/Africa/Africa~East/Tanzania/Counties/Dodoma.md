@@ -41,9 +41,9 @@ markerFolder: ./Dodoma/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Dodoma.md|Dodoma]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Dodoma.internal.md|Dodoma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Dodoma.protect.md|Dodoma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Dodoma.private.md|Dodoma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Dodoma.personal.md|Dodoma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Dodoma.secret.md|Dodoma.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Dodoma.internal|Dodoma.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Dodoma.protect|Dodoma.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Dodoma.private|Dodoma.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Dodoma.personal|Dodoma.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Dodoma.secret|Dodoma.secret]] 
 

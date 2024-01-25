@@ -138,8 +138,8 @@ markerFolder: ./Papua_New_Guinea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea.md|Papua_New_Guinea]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea.internal.md|Papua_New_Guinea.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea.protect.md|Papua_New_Guinea.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea.private.md|Papua_New_Guinea.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea.personal.md|Papua_New_Guinea.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea.secret.md|Papua_New_Guinea.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea.internal|Papua_New_Guinea.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea.protect|Papua_New_Guinea.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea.private|Papua_New_Guinea.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea.personal|Papua_New_Guinea.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea.secret|Papua_New_Guinea.secret]] 

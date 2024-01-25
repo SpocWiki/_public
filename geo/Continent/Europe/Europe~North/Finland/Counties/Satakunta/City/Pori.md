@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pori.md|Pori]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pori.internal.md|Pori.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pori.protect.md|Pori.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pori.private.md|Pori.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pori.personal.md|Pori.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pori.secret.md|Pori.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pori.internal|Pori.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pori.protect|Pori.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pori.private|Pori.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pori.personal|Pori.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pori.secret|Pori.secret]] 

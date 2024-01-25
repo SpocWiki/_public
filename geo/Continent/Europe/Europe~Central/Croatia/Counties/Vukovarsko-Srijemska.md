@@ -41,9 +41,9 @@ markerFolder: ./Vukovarsko-Srijemska/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.md|Vukovarsko-Srijemska]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.internal.md|Vukovarsko-Srijemska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.protect.md|Vukovarsko-Srijemska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.private.md|Vukovarsko-Srijemska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.personal.md|Vukovarsko-Srijemska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.secret.md|Vukovarsko-Srijemska.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.internal|Vukovarsko-Srijemska.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.protect|Vukovarsko-Srijemska.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.private|Vukovarsko-Srijemska.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.personal|Vukovarsko-Srijemska.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Vukovarsko-Srijemska.secret|Vukovarsko-Srijemska.secret]] 
 

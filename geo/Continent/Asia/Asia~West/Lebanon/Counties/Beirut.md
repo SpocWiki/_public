@@ -41,9 +41,9 @@ markerFolder: ./Beirut/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.md|Beirut]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.internal.md|Beirut.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.protect.md|Beirut.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.private.md|Beirut.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.personal.md|Beirut.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.secret.md|Beirut.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.internal|Beirut.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.protect|Beirut.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.private|Beirut.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.personal|Beirut.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.secret|Beirut.secret]] 
 

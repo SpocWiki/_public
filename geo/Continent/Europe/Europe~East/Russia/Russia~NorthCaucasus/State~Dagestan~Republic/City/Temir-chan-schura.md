@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Temir-chan-schura.md|Temir-chan-schura]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Temir-chan-schura.internal.md|Temir-chan-schura.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Temir-chan-schura.protect.md|Temir-chan-schura.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Temir-chan-schura.private.md|Temir-chan-schura.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Temir-chan-schura.personal.md|Temir-chan-schura.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Temir-chan-schura.secret.md|Temir-chan-schura.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Temir-chan-schura.internal|Temir-chan-schura.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Temir-chan-schura.protect|Temir-chan-schura.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Temir-chan-schura.private|Temir-chan-schura.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Temir-chan-schura.personal|Temir-chan-schura.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Temir-chan-schura.secret|Temir-chan-schura.secret]] 

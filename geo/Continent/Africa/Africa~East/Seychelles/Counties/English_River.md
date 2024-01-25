@@ -41,9 +41,9 @@ markerFolder: ./English_River/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/English_River.md|English_River]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/English_River.internal.md|English_River.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/English_River.protect.md|English_River.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/English_River.private.md|English_River.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/English_River.personal.md|English_River.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/English_River.secret.md|English_River.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/English_River.internal|English_River.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/English_River.protect|English_River.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/English_River.private|English_River.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/English_River.personal|English_River.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/English_River.secret|English_River.secret]] 
 

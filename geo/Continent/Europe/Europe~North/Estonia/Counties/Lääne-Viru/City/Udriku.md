@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Udriku.md|Udriku]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Udriku.internal.md|Udriku.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Udriku.protect.md|Udriku.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Udriku.private.md|Udriku.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Udriku.personal.md|Udriku.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Udriku.secret.md|Udriku.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Udriku.internal|Udriku.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Udriku.protect|Udriku.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Udriku.private|Udriku.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Udriku.personal|Udriku.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Udriku.secret|Udriku.secret]] 

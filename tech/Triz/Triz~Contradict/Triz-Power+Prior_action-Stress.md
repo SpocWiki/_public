@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Prior_action-Stress]
 [SpocWebEntityId::24613]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.md|Triz-Power+Prior_action-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.internal.md|Triz-Power+Prior_action-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.protect.md|Triz-Power+Prior_action-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.private.md|Triz-Power+Prior_action-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.personal.md|Triz-Power+Prior_action-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.secret.md|Triz-Power+Prior_action-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.internal|Triz-Power+Prior_action-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.protect|Triz-Power+Prior_action-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.private|Triz-Power+Prior_action-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.personal|Triz-Power+Prior_action-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Prior_action-Stress.secret|Triz-Power+Prior_action-Stress.secret]] 

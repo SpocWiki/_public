@@ -29,8 +29,8 @@ markerFolder: ./Burgenland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/State/Burgenland.md|Burgenland]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Burgenland.internal.md|Burgenland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Burgenland.protect.md|Burgenland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Burgenland.private.md|Burgenland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Burgenland.personal.md|Burgenland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Burgenland.secret.md|Burgenland.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Burgenland.internal|Burgenland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Burgenland.protect|Burgenland.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Burgenland.private|Burgenland.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Burgenland.personal|Burgenland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Burgenland.secret|Burgenland.secret]] 

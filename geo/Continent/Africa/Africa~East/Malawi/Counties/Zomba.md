@@ -41,9 +41,9 @@ markerFolder: ./Zomba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Zomba.md|Zomba]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Zomba.internal.md|Zomba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Zomba.protect.md|Zomba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Zomba.private.md|Zomba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Zomba.personal.md|Zomba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Zomba.secret.md|Zomba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Zomba.internal|Zomba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Zomba.protect|Zomba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Zomba.private|Zomba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Zomba.personal|Zomba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Zomba.secret|Zomba.secret]] 
 

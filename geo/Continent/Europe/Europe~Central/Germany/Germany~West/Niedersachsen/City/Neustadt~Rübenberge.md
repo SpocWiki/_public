@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Neustadt~Rübenberge|Neustadt~Rübenberge]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.internal.md|Neustadt~Rübenberge.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.protect.md|Neustadt~Rübenberge.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.private.md|Neustadt~Rübenberge.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.personal.md|Neustadt~Rübenberge.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.secret.md|Neustadt~Rübenberge.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.internal|Neustadt~Rübenberge.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.protect|Neustadt~Rübenberge.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.private|Neustadt~Rübenberge.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.personal|Neustadt~Rübenberge.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.secret|Neustadt~Rübenberge.secret]] 

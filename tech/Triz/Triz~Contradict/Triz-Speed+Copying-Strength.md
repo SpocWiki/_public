@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Copying-Strength]
 [SpocWebEntityId::23397]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Copying-Strength.md|Triz-Speed+Copying-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Copying-Strength.internal.md|Triz-Speed+Copying-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Copying-Strength.protect.md|Triz-Speed+Copying-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Copying-Strength.private.md|Triz-Speed+Copying-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Copying-Strength.personal.md|Triz-Speed+Copying-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Copying-Strength.secret.md|Triz-Speed+Copying-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Copying-Strength.internal|Triz-Speed+Copying-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Copying-Strength.protect|Triz-Speed+Copying-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Copying-Strength.private|Triz-Speed+Copying-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Copying-Strength.personal|Triz-Speed+Copying-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Copying-Strength.secret|Triz-Speed+Copying-Strength.secret]] 

@@ -28,8 +28,8 @@ Increase the degree of fragmentation or segmentation.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-Fragment.md|Triz-Fragment]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-Fragment.internal.md|Triz-Fragment.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-Fragment.protect.md|Triz-Fragment.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-Fragment.private.md|Triz-Fragment.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-Fragment.personal.md|Triz-Fragment.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-Fragment.secret.md|Triz-Fragment.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-Fragment.internal|Triz-Fragment.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-Fragment.protect|Triz-Fragment.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-Fragment.private|Triz-Fragment.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-Fragment.personal|Triz-Fragment.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-Fragment.secret|Triz-Fragment.secret]] 

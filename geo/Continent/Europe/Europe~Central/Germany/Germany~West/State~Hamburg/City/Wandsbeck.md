@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Wandsbeck|Wandsbeck]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.internal.md|Wandsbeck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.protect.md|Wandsbeck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.private.md|Wandsbeck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.personal.md|Wandsbeck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.secret.md|Wandsbeck.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.internal|Wandsbeck.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.protect|Wandsbeck.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.private|Wandsbeck.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.personal|Wandsbeck.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg/City/Wandsbeck.secret|Wandsbeck.secret]] 

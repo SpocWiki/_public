@@ -41,9 +41,9 @@ markerFolder: ./Sonsonate/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.md|Sonsonate]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.internal.md|Sonsonate.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.protect.md|Sonsonate.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.private.md|Sonsonate.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.personal.md|Sonsonate.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.secret.md|Sonsonate.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.internal|Sonsonate.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.protect|Sonsonate.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.private|Sonsonate.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.personal|Sonsonate.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.secret|Sonsonate.secret]] 
 

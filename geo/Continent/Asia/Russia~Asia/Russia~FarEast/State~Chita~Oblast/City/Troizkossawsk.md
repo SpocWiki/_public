@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Troizkossawsk.md|Troizkossawsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troizkossawsk.internal.md|Troizkossawsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troizkossawsk.protect.md|Troizkossawsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troizkossawsk.private.md|Troizkossawsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troizkossawsk.personal.md|Troizkossawsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troizkossawsk.secret.md|Troizkossawsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troizkossawsk.internal|Troizkossawsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troizkossawsk.protect|Troizkossawsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troizkossawsk.private|Troizkossawsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troizkossawsk.personal|Troizkossawsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troizkossawsk.secret|Troizkossawsk.secret]] 

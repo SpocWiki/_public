@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Presa_Ticino.md|Presa_Ticino]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Presa_Ticino.internal.md|Presa_Ticino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Presa_Ticino.protect.md|Presa_Ticino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Presa_Ticino.private.md|Presa_Ticino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Presa_Ticino.personal.md|Presa_Ticino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Presa_Ticino.secret.md|Presa_Ticino.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Presa_Ticino.internal|Presa_Ticino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Presa_Ticino.protect|Presa_Ticino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Presa_Ticino.private|Presa_Ticino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Presa_Ticino.personal|Presa_Ticino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Presa_Ticino.secret|Presa_Ticino.secret]] 

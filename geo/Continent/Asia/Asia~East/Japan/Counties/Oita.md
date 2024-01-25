@@ -41,9 +41,9 @@ markerFolder: ./Oita/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.md|Oita]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.internal.md|Oita.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.protect.md|Oita.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.private.md|Oita.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.personal.md|Oita.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.secret.md|Oita.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.internal|Oita.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.protect|Oita.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.private|Oita.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.personal|Oita.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.secret|Oita.secret]] 
 

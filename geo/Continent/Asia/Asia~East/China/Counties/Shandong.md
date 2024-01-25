@@ -41,9 +41,9 @@ markerFolder: ./Shandong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Shandong.md|Shandong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shandong.internal.md|Shandong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shandong.protect.md|Shandong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shandong.private.md|Shandong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shandong.personal.md|Shandong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shandong.secret.md|Shandong.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shandong.internal|Shandong.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shandong.protect|Shandong.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shandong.private|Shandong.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shandong.personal|Shandong.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shandong.secret|Shandong.secret]] 
 

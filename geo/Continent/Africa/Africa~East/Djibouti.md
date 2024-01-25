@@ -144,7 +144,7 @@ markerFolder: ./Djibouti/
 ## Confidential Links & Embeds: 
 -[[Djibouti|Djibouti]]] 
 -[[../../../../../_internal/geo/Continent/Africa/Djibouti.internal|Djibouti.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Djibouti.protect.md|Djibouti.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Djibouti.private.md|Djibouti.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Djibouti.personal.md|Djibouti.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Djibouti.secret.md|Djibouti.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Djibouti.protect|Djibouti.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Djibouti.private|Djibouti.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Djibouti.personal|Djibouti.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Djibouti.secret|Djibouti.secret]] 

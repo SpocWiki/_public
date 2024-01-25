@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lymm.md|Lymm]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lymm.internal.md|Lymm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lymm.protect.md|Lymm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lymm.private.md|Lymm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lymm.personal.md|Lymm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lymm.secret.md|Lymm.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lymm.internal|Lymm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lymm.protect|Lymm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lymm.private|Lymm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lymm.personal|Lymm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lymm.secret|Lymm.secret]] 

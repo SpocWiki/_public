@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Reval.md|Reval]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Reval.internal.md|Reval.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Reval.protect.md|Reval.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Reval.private.md|Reval.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Reval.personal.md|Reval.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Reval.secret.md|Reval.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Reval.internal|Reval.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Reval.protect|Reval.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Reval.private|Reval.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Reval.personal|Reval.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Reval.secret|Reval.secret]] 

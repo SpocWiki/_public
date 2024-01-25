@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Graudenz.md|Graudenz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Graudenz.internal.md|Graudenz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Graudenz.protect.md|Graudenz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Graudenz.private.md|Graudenz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Graudenz.personal.md|Graudenz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Graudenz.secret.md|Graudenz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Graudenz.internal|Graudenz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Graudenz.protect|Graudenz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Graudenz.private|Graudenz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Graudenz.personal|Graudenz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Graudenz.secret|Graudenz.secret]] 

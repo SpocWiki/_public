@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability]
 [SpocWebEntityId::25520]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.internal.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.protect.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.private.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.personal.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.secret.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.internal|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.protect|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.private|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.personal|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.secret|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.secret]] 

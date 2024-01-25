@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schwetz.md|Schwetz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwetz.internal.md|Schwetz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwetz.protect.md|Schwetz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwetz.private.md|Schwetz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwetz.personal.md|Schwetz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwetz.secret.md|Schwetz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwetz.internal|Schwetz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwetz.protect|Schwetz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwetz.private|Schwetz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwetz.personal|Schwetz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwetz.secret|Schwetz.secret]] 

@@ -36,8 +36,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/North_Dakota.md|North_Dakota]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/North_Dakota.internal.md|North_Dakota.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/North_Dakota.protect.md|North_Dakota.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/North_Dakota.private.md|North_Dakota.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/North_Dakota.personal.md|North_Dakota.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/North_Dakota.secret.md|North_Dakota.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/North_Dakota.internal|North_Dakota.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/North_Dakota.protect|North_Dakota.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/North_Dakota.private|North_Dakota.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/North_Dakota.personal|North_Dakota.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/North_Dakota.secret|North_Dakota.secret]] 

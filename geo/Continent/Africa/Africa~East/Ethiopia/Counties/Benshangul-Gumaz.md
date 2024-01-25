@@ -41,9 +41,9 @@ markerFolder: ./Benshangul-Gumaz/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.md|Benshangul-Gumaz]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.internal.md|Benshangul-Gumaz.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.protect.md|Benshangul-Gumaz.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.private.md|Benshangul-Gumaz.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.personal.md|Benshangul-Gumaz.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.secret.md|Benshangul-Gumaz.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.internal|Benshangul-Gumaz.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.protect|Benshangul-Gumaz.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.private|Benshangul-Gumaz.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.personal|Benshangul-Gumaz.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.secret|Benshangul-Gumaz.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Coast/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Coast.md|Coast]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Coast.internal.md|Coast.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Coast.protect.md|Coast.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Coast.private.md|Coast.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Coast.personal.md|Coast.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Coast.secret.md|Coast.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Coast.internal|Coast.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Coast.protect|Coast.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Coast.private|Coast.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Coast.personal|Coast.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Coast.secret|Coast.secret]] 
 

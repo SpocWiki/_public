@@ -41,9 +41,9 @@ markerFolder: ./Upper_Nile/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.md|Upper_Nile]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.internal.md|Upper_Nile.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.protect.md|Upper_Nile.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.private.md|Upper_Nile.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.personal.md|Upper_Nile.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.secret.md|Upper_Nile.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.internal|Upper_Nile.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.protect|Upper_Nile.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.private|Upper_Nile.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.personal|Upper_Nile.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.secret|Upper_Nile.secret]] 
 

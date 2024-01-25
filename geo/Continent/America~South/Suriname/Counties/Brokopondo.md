@@ -41,9 +41,9 @@ markerFolder: ./Brokopondo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Brokopondo.md|Brokopondo]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Brokopondo.internal.md|Brokopondo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Brokopondo.protect.md|Brokopondo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Brokopondo.private.md|Brokopondo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Brokopondo.personal.md|Brokopondo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Brokopondo.secret.md|Brokopondo.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Brokopondo.internal|Brokopondo.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Brokopondo.protect|Brokopondo.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Brokopondo.private|Brokopondo.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Brokopondo.personal|Brokopondo.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Brokopondo.secret|Brokopondo.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Loewen=Lourian.md|Loewen=Lourian]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Loewen=Lourian.internal.md|Loewen=Lourian.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Loewen=Lourian.protect.md|Loewen=Lourian.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Loewen=Lourian.private.md|Loewen=Lourian.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Loewen=Lourian.personal.md|Loewen=Lourian.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Loewen=Lourian.secret.md|Loewen=Lourian.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Loewen=Lourian.internal|Loewen=Lourian.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Loewen=Lourian.protect|Loewen=Lourian.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Loewen=Lourian.private|Loewen=Lourian.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Loewen=Lourian.personal|Loewen=Lourian.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Loewen=Lourian.secret|Loewen=Lourian.secret]] 

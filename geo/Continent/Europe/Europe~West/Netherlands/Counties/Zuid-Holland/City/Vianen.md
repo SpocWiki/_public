@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Vianen.md|Vianen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vianen.internal.md|Vianen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vianen.protect.md|Vianen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vianen.private.md|Vianen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vianen.personal.md|Vianen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vianen.secret.md|Vianen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vianen.internal|Vianen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vianen.protect|Vianen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vianen.private|Vianen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vianen.personal|Vianen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vianen.secret|Vianen.secret]] 

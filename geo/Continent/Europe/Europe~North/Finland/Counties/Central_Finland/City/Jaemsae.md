@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Jaemsae.md|Jaemsae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Jaemsae.internal.md|Jaemsae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Jaemsae.protect.md|Jaemsae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Jaemsae.private.md|Jaemsae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Jaemsae.personal.md|Jaemsae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Jaemsae.secret.md|Jaemsae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Jaemsae.internal|Jaemsae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Jaemsae.protect|Jaemsae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Jaemsae.private|Jaemsae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Jaemsae.personal|Jaemsae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Jaemsae.secret|Jaemsae.secret]] 

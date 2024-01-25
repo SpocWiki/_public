@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kosow.md|Kosow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosow.internal.md|Kosow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosow.protect.md|Kosow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kosow.private.md|Kosow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosow.personal.md|Kosow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosow.secret.md|Kosow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosow.internal|Kosow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosow.protect|Kosow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kosow.private|Kosow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosow.personal|Kosow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosow.secret|Kosow.secret]] 

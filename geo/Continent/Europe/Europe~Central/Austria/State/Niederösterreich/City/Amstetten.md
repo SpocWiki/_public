@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Amstetten.md|Amstetten]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Amstetten.internal.md|Amstetten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Amstetten.protect.md|Amstetten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Amstetten.private.md|Amstetten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Amstetten.personal.md|Amstetten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Amstetten.secret.md|Amstetten.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Amstetten.internal|Amstetten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Amstetten.protect|Amstetten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Amstetten.private|Amstetten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Amstetten.personal|Amstetten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Amstetten.secret|Amstetten.secret]] 

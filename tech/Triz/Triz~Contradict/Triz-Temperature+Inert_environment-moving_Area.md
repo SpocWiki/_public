@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Inert_environment-moving_Area]
 [SpocWebEntityId::24239]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Inert_environment]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.md|Triz-Temperature+Inert_environment-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.internal.md|Triz-Temperature+Inert_environment-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.protect.md|Triz-Temperature+Inert_environment-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.private.md|Triz-Temperature+Inert_environment-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.personal.md|Triz-Temperature+Inert_environment-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.secret.md|Triz-Temperature+Inert_environment-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.internal|Triz-Temperature+Inert_environment-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.protect|Triz-Temperature+Inert_environment-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.private|Triz-Temperature+Inert_environment-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.personal|Triz-Temperature+Inert_environment-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Area.secret|Triz-Temperature+Inert_environment-moving_Area.secret]] 

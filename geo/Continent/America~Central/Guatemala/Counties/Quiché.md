@@ -41,9 +41,9 @@ markerFolder: ./Quiché/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Quiché.md|Quiché]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Quiché.internal.md|Quiché.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Quiché.protect.md|Quiché.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Quiché.private.md|Quiché.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Quiché.personal.md|Quiché.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Quiché.secret.md|Quiché.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Quiché.internal|Quiché.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Quiché.protect|Quiché.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Quiché.private|Quiché.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Quiché.personal|Quiché.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Quiché.secret|Quiché.secret]] 
 

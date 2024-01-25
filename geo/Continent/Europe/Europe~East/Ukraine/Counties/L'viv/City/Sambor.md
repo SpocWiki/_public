@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sambor.md|Sambor]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sambor.internal.md|Sambor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sambor.protect.md|Sambor.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sambor.private.md|Sambor.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sambor.personal.md|Sambor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sambor.secret.md|Sambor.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sambor.internal|Sambor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sambor.protect|Sambor.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sambor.private|Sambor.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sambor.personal|Sambor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sambor.secret|Sambor.secret]] 

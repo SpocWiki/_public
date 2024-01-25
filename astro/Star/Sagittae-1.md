@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Sagittae-1.md|Sagittae-1]] 
-- [[../../../_internal/astro/Star/Sagittae-1.internal.md|Sagittae-1.internal]] 
-- [[../../../_protect/astro/Star/Sagittae-1.protect.md|Sagittae-1.protect]] 
-- [[../../../_private/astro/Star/Sagittae-1.private.md|Sagittae-1.private]] 
-- [[../../../_personal/astro/Star/Sagittae-1.personal.md|Sagittae-1.personal]] 
-- [[../../../_secret/astro/Star/Sagittae-1.secret.md|Sagittae-1.secret]] 
+- [[../../../_internal/astro/Star/Sagittae-1.internal|Sagittae-1.internal]] 
+- [[../../../_protect/astro/Star/Sagittae-1.protect|Sagittae-1.protect]] 
+- [[../../../_private/astro/Star/Sagittae-1.private|Sagittae-1.private]] 
+- [[../../../_personal/astro/Star/Sagittae-1.personal|Sagittae-1.personal]] 
+- [[../../../_secret/astro/Star/Sagittae-1.secret|Sagittae-1.secret]] 

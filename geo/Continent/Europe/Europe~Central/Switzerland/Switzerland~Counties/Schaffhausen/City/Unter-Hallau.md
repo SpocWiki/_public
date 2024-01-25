@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Unter-Hallau.md|Unter-Hallau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Unter-Hallau.internal.md|Unter-Hallau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Unter-Hallau.protect.md|Unter-Hallau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Unter-Hallau.private.md|Unter-Hallau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Unter-Hallau.personal.md|Unter-Hallau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Unter-Hallau.secret.md|Unter-Hallau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Unter-Hallau.internal|Unter-Hallau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Unter-Hallau.protect|Unter-Hallau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Unter-Hallau.private|Unter-Hallau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Unter-Hallau.personal|Unter-Hallau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Unter-Hallau.secret|Unter-Hallau.secret]] 

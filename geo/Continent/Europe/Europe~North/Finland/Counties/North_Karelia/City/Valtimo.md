@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Valtimo.md|Valtimo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Valtimo.internal.md|Valtimo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Valtimo.protect.md|Valtimo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Valtimo.private.md|Valtimo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Valtimo.personal.md|Valtimo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Valtimo.secret.md|Valtimo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Valtimo.internal|Valtimo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Valtimo.protect|Valtimo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Valtimo.private|Valtimo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Valtimo.personal|Valtimo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Valtimo.secret|Valtimo.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Composite_materials-Complexity]
 [SpocWebEntityId::25704]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.md|Triz-affected_harm+Composite_materials-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.internal.md|Triz-affected_harm+Composite_materials-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.protect.md|Triz-affected_harm+Composite_materials-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.private.md|Triz-affected_harm+Composite_materials-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.personal.md|Triz-affected_harm+Composite_materials-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.secret.md|Triz-affected_harm+Composite_materials-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.internal|Triz-affected_harm+Composite_materials-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.protect|Triz-affected_harm+Composite_materials-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.private|Triz-affected_harm+Composite_materials-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.personal|Triz-affected_harm+Composite_materials-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.secret|Triz-affected_harm+Composite_materials-Complexity.secret]] 

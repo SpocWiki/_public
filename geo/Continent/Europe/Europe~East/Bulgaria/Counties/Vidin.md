@@ -41,9 +41,9 @@ markerFolder: ./Vidin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Vidin.md|Vidin]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Vidin.internal.md|Vidin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Vidin.protect.md|Vidin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Vidin.private.md|Vidin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Vidin.personal.md|Vidin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Vidin.secret.md|Vidin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Vidin.internal|Vidin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Vidin.protect|Vidin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Vidin.private|Vidin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Vidin.personal|Vidin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Vidin.secret|Vidin.secret]] 
 

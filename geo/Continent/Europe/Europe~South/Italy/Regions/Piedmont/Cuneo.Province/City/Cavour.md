@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cavour.md|Cavour]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cavour.internal.md|Cavour.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cavour.protect.md|Cavour.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cavour.private.md|Cavour.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cavour.personal.md|Cavour.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cavour.secret.md|Cavour.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cavour.internal|Cavour.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cavour.protect|Cavour.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cavour.private|Cavour.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cavour.personal|Cavour.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cavour.secret|Cavour.secret]] 

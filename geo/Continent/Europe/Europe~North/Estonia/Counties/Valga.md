@@ -41,9 +41,9 @@ markerFolder: ./Valga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Valga.md|Valga]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Valga.internal.md|Valga.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Valga.protect.md|Valga.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Valga.private.md|Valga.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Valga.personal.md|Valga.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Valga.secret.md|Valga.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Valga.internal|Valga.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Valga.protect|Valga.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Valga.private|Valga.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Valga.personal|Valga.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Valga.secret|Valga.secret]] 
 

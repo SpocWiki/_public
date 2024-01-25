@@ -41,9 +41,9 @@ markerFolder: ./Mwaro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Mwaro.md|Mwaro]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Mwaro.internal.md|Mwaro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Mwaro.protect.md|Mwaro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Mwaro.private.md|Mwaro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Mwaro.personal.md|Mwaro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Mwaro.secret.md|Mwaro.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Mwaro.internal|Mwaro.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Mwaro.protect|Mwaro.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Mwaro.private|Mwaro.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Mwaro.personal|Mwaro.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Mwaro.secret|Mwaro.secret]] 
 

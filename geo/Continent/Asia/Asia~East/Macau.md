@@ -128,7 +128,7 @@ markerFolder: ./Macau/
 ## Confidential Links & Embeds: 
 -[[Macau|Macau]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Macau.internal|Macau.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Macau.protect.md|Macau.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Macau.private.md|Macau.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Macau.personal.md|Macau.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Macau.secret.md|Macau.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Macau.protect|Macau.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Macau.private|Macau.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Macau.personal|Macau.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Macau.secret|Macau.secret]] 

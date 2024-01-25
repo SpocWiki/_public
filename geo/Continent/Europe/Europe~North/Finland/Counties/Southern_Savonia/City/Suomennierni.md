@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Suomennierni.md|Suomennierni]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Suomennierni.internal.md|Suomennierni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Suomennierni.protect.md|Suomennierni.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Suomennierni.private.md|Suomennierni.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Suomennierni.personal.md|Suomennierni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Suomennierni.secret.md|Suomennierni.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Suomennierni.internal|Suomennierni.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Suomennierni.protect|Suomennierni.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Suomennierni.private|Suomennierni.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Suomennierni.personal|Suomennierni.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Suomennierni.secret|Suomennierni.secret]] 

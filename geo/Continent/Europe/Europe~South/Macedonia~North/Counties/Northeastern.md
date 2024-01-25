@@ -41,9 +41,9 @@ markerFolder: ./Northeastern/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.md|Northeastern]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.internal.md|Northeastern.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.protect.md|Northeastern.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.private.md|Northeastern.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.personal.md|Northeastern.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.secret.md|Northeastern.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.internal|Northeastern.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.protect|Northeastern.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.private|Northeastern.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.personal|Northeastern.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.secret|Northeastern.secret]] 
 

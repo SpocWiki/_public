@@ -135,8 +135,8 @@ markerFolder: ./Norway//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway.md|Norway]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway.internal.md|Norway.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway.protect.md|Norway.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway.private.md|Norway.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway.personal.md|Norway.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway.secret.md|Norway.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway.internal|Norway.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway.protect|Norway.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway.private|Norway.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway.personal|Norway.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway.secret|Norway.secret]] 

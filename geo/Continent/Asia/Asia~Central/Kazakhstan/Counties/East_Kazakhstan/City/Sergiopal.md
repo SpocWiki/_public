@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sergiopal.md|Sergiopal]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sergiopal.internal.md|Sergiopal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sergiopal.protect.md|Sergiopal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sergiopal.private.md|Sergiopal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sergiopal.personal.md|Sergiopal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sergiopal.secret.md|Sergiopal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sergiopal.internal|Sergiopal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sergiopal.protect|Sergiopal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sergiopal.private|Sergiopal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sergiopal.personal|Sergiopal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sergiopal.secret|Sergiopal.secret]] 

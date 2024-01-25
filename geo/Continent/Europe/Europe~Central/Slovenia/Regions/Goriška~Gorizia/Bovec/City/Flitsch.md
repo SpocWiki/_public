@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Flitsch.md|Flitsch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Flitsch.internal.md|Flitsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Flitsch.protect.md|Flitsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Flitsch.private.md|Flitsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Flitsch.personal.md|Flitsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Flitsch.secret.md|Flitsch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Flitsch.internal|Flitsch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Flitsch.protect|Flitsch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Flitsch.private|Flitsch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Flitsch.personal|Flitsch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Flitsch.secret|Flitsch.secret]] 

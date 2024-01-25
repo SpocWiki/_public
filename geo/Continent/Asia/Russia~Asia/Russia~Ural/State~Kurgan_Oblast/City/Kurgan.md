@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kurgan.md|Kurgan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kurgan.internal.md|Kurgan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kurgan.protect.md|Kurgan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kurgan.private.md|Kurgan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kurgan.personal.md|Kurgan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kurgan.secret.md|Kurgan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kurgan.internal|Kurgan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kurgan.protect|Kurgan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kurgan.private|Kurgan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kurgan.personal|Kurgan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kurgan.secret|Kurgan.secret]] 

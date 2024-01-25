@@ -136,7 +136,7 @@ markerFolder: ./Pakistan/
 ## Confidential Links & Embeds: 
 -[[Pakistan|Pakistan]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Pakistan.internal|Pakistan.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Pakistan.protect.md|Pakistan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Pakistan.private.md|Pakistan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Pakistan.personal.md|Pakistan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Pakistan.secret.md|Pakistan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Pakistan.protect|Pakistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Pakistan.private|Pakistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Pakistan.personal|Pakistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Pakistan.secret|Pakistan.secret]] 

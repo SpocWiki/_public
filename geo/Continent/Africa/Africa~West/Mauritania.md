@@ -140,7 +140,7 @@ markerFolder: ./Mauritania//
 ## Confidential Links & Embeds: 
 - [[Mauritania|Mauritania]] 
 - [[../../../../../_internal/geo/Continent/Africa/Mauritania.internal|Mauritania.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania.protect.md|Mauritania.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania.private.md|Mauritania.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania.personal.md|Mauritania.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania.secret.md|Mauritania.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritania.protect|Mauritania.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritania.private|Mauritania.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritania.personal|Mauritania.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritania.secret|Mauritania.secret]] 

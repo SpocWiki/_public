@@ -135,7 +135,7 @@ markerFolder: ./Iran/
 ## Confidential Links & Embeds: 
 -[[Iran|Iran]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Iran.internal|Iran.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Iran.protect.md|Iran.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Iran.private.md|Iran.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Iran.personal.md|Iran.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Iran.secret.md|Iran.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Iran.protect|Iran.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Iran.private|Iran.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Iran.personal|Iran.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Iran.secret|Iran.secret]] 

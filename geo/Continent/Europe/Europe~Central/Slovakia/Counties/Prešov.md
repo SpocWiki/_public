@@ -41,9 +41,9 @@ markerFolder: ./Prešov/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovakia/Counties/Prešov.md|Prešov]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Prešov.internal.md|Prešov.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Prešov.protect.md|Prešov.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Prešov.private.md|Prešov.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Prešov.personal.md|Prešov.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Prešov.secret.md|Prešov.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Prešov.internal|Prešov.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Prešov.protect|Prešov.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovakia/Counties/Prešov.private|Prešov.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Prešov.personal|Prešov.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Prešov.secret|Prešov.secret]] 
 

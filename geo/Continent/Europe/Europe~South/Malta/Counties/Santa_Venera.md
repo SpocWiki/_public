@@ -41,9 +41,9 @@ markerFolder: ./Santa_Venera/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Santa_Venera.md|Santa_Venera]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Santa_Venera.internal.md|Santa_Venera.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Santa_Venera.protect.md|Santa_Venera.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Santa_Venera.private.md|Santa_Venera.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Santa_Venera.personal.md|Santa_Venera.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Santa_Venera.secret.md|Santa_Venera.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Santa_Venera.internal|Santa_Venera.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Santa_Venera.protect|Santa_Venera.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Santa_Venera.private|Santa_Venera.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Santa_Venera.personal|Santa_Venera.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Santa_Venera.secret|Santa_Venera.secret]] 
 

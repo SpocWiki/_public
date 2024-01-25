@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alhena.md|Alhena]] 
-- [[../../../_internal/astro/Star/Alhena.internal.md|Alhena.internal]] 
-- [[../../../_protect/astro/Star/Alhena.protect.md|Alhena.protect]] 
-- [[../../../_private/astro/Star/Alhena.private.md|Alhena.private]] 
-- [[../../../_personal/astro/Star/Alhena.personal.md|Alhena.personal]] 
-- [[../../../_secret/astro/Star/Alhena.secret.md|Alhena.secret]]
+- [[../../../_internal/astro/Star/Alhena.internal|Alhena.internal]] 
+- [[../../../_protect/astro/Star/Alhena.protect|Alhena.protect]] 
+- [[../../../_private/astro/Star/Alhena.private|Alhena.private]] 
+- [[../../../_personal/astro/Star/Alhena.personal|Alhena.personal]] 
+- [[../../../_secret/astro/Star/Alhena.secret|Alhena.secret]]
 

@@ -41,9 +41,9 @@ markerFolder: ./Kerala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Kerala.md|Kerala]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Kerala.internal.md|Kerala.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Kerala.protect.md|Kerala.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Kerala.private.md|Kerala.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Kerala.personal.md|Kerala.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Kerala.secret.md|Kerala.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Kerala.internal|Kerala.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Kerala.protect|Kerala.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Kerala.private|Kerala.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Kerala.personal|Kerala.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Kerala.secret|Kerala.secret]] 
 

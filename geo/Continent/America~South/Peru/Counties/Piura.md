@@ -41,9 +41,9 @@ markerFolder: ./Piura/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Peru/Counties/Piura.md|Piura]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Piura.internal.md|Piura.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Piura.protect.md|Piura.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Piura.private.md|Piura.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Piura.personal.md|Piura.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Piura.secret.md|Piura.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Piura.internal|Piura.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Piura.protect|Piura.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Piura.private|Piura.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Piura.personal|Piura.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Piura.secret|Piura.secret]] 
 

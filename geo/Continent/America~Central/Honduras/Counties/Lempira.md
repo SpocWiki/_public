@@ -41,9 +41,9 @@ markerFolder: ./Lempira/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Lempira.md|Lempira]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Lempira.internal.md|Lempira.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Lempira.protect.md|Lempira.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Lempira.private.md|Lempira.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Lempira.personal.md|Lempira.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Lempira.secret.md|Lempira.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Lempira.internal|Lempira.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Lempira.protect|Lempira.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Lempira.private|Lempira.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Lempira.personal|Lempira.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Lempira.secret|Lempira.secret]] 
 

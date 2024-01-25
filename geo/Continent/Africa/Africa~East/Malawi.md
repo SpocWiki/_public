@@ -136,7 +136,7 @@ markerFolder: ./Malawi//
 ## Confidential Links & Embeds: 
 - [[Malawi|Malawi]] 
 - [[../../../../../_internal/geo/Continent/Africa/Malawi.internal|Malawi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi.protect.md|Malawi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi.private.md|Malawi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi.personal.md|Malawi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi.secret.md|Malawi.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi.protect|Malawi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi.private|Malawi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi.personal|Malawi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi.secret|Malawi.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Finale_Emilia.md|Finale_Emilia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Finale_Emilia.internal.md|Finale_Emilia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Finale_Emilia.protect.md|Finale_Emilia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Finale_Emilia.private.md|Finale_Emilia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Finale_Emilia.personal.md|Finale_Emilia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Finale_Emilia.secret.md|Finale_Emilia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Finale_Emilia.internal|Finale_Emilia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Finale_Emilia.protect|Finale_Emilia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Finale_Emilia.private|Finale_Emilia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Finale_Emilia.personal|Finale_Emilia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Finale_Emilia.secret|Finale_Emilia.secret]] 

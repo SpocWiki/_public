@@ -24,8 +24,8 @@ Replace a normal environment with an inert one.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-inert-environment.md|Triz-inert-environment]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-inert-environment.internal.md|Triz-inert-environment.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-inert-environment.protect.md|Triz-inert-environment.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-inert-environment.private.md|Triz-inert-environment.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-inert-environment.personal.md|Triz-inert-environment.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-inert-environment.secret.md|Triz-inert-environment.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-inert-environment.internal|Triz-inert-environment.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-inert-environment.protect|Triz-inert-environment.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-inert-environment.private|Triz-inert-environment.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-inert-environment.personal|Triz-inert-environment.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-inert-environment.secret|Triz-inert-environment.secret]] 

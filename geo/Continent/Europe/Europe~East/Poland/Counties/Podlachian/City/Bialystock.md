@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bialystock.md|Bialystock]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bialystock.internal.md|Bialystock.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bialystock.protect.md|Bialystock.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bialystock.private.md|Bialystock.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bialystock.personal.md|Bialystock.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bialystock.secret.md|Bialystock.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bialystock.internal|Bialystock.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bialystock.protect|Bialystock.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bialystock.private|Bialystock.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bialystock.personal|Bialystock.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bialystock.secret|Bialystock.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Anse_Boileau/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.md|Anse_Boileau]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.internal.md|Anse_Boileau.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.protect.md|Anse_Boileau.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.private.md|Anse_Boileau.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.personal.md|Anse_Boileau.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.secret.md|Anse_Boileau.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.internal|Anse_Boileau.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.protect|Anse_Boileau.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.private|Anse_Boileau.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.personal|Anse_Boileau.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.secret|Anse_Boileau.secret]] 
 

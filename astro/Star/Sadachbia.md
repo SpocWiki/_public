@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Sadachbia.md|Sadachbia]] 
-- [[../../../_internal/astro/Star/Sadachbia.internal.md|Sadachbia.internal]] 
-- [[../../../_protect/astro/Star/Sadachbia.protect.md|Sadachbia.protect]] 
-- [[../../../_private/astro/Star/Sadachbia.private.md|Sadachbia.private]] 
-- [[../../../_personal/astro/Star/Sadachbia.personal.md|Sadachbia.personal]] 
-- [[../../../_secret/astro/Star/Sadachbia.secret.md|Sadachbia.secret]] 
+- [[../../../_internal/astro/Star/Sadachbia.internal|Sadachbia.internal]] 
+- [[../../../_protect/astro/Star/Sadachbia.protect|Sadachbia.protect]] 
+- [[../../../_private/astro/Star/Sadachbia.private|Sadachbia.private]] 
+- [[../../../_personal/astro/Star/Sadachbia.personal|Sadachbia.personal]] 
+- [[../../../_secret/astro/Star/Sadachbia.secret|Sadachbia.secret]] 

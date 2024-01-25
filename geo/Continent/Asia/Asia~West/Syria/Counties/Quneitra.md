@@ -41,9 +41,9 @@ markerFolder: ./Quneitra/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.md|Quneitra]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.internal.md|Quneitra.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.protect.md|Quneitra.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.private.md|Quneitra.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.personal.md|Quneitra.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.secret.md|Quneitra.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.internal|Quneitra.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.protect|Quneitra.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.private|Quneitra.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.personal|Quneitra.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.secret|Quneitra.secret]] 
 

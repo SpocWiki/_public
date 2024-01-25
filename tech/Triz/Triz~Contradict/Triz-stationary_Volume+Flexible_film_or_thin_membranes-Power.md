@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Volume+Flexible_film_or_thin_membranes-Power]
 [SpocWebEntityId::23329]
-+ [pro::[[Triz-stationary_Volume]]]
++ [#has_/Pros :: [[Triz-stationary_Volume]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.md|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.internal.md|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.protect.md|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.private.md|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.personal.md|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.secret.md|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.internal|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.protect|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.private|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.personal|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.secret|Triz-stationary_Volume+Flexible_film_or_thin_membranes-Power.secret]] 

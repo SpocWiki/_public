@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Wageningen.md|Wageningen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Wageningen.internal.md|Wageningen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Wageningen.protect.md|Wageningen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Wageningen.private.md|Wageningen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Wageningen.personal.md|Wageningen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Wageningen.secret.md|Wageningen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Wageningen.internal|Wageningen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Wageningen.protect|Wageningen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Wageningen.private|Wageningen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Wageningen.personal|Wageningen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Wageningen.secret|Wageningen.secret]] 

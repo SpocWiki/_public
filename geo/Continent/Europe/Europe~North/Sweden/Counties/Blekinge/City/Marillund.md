@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Marillund.md|Marillund]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Marillund.internal.md|Marillund.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Marillund.protect.md|Marillund.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Marillund.private.md|Marillund.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Marillund.personal.md|Marillund.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Marillund.secret.md|Marillund.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Marillund.internal|Marillund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Marillund.protect|Marillund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Marillund.private|Marillund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Marillund.personal|Marillund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Marillund.secret|Marillund.secret]] 

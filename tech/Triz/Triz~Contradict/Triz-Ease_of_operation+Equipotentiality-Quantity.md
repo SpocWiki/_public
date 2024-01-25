@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Equipotentiality-Quantity]
 [SpocWebEntityId::26029]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Equipotentiality]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.md|Triz-Ease_of_operation+Equipotentiality-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.internal.md|Triz-Ease_of_operation+Equipotentiality-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.protect.md|Triz-Ease_of_operation+Equipotentiality-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.private.md|Triz-Ease_of_operation+Equipotentiality-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.personal.md|Triz-Ease_of_operation+Equipotentiality-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.secret.md|Triz-Ease_of_operation+Equipotentiality-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.internal|Triz-Ease_of_operation+Equipotentiality-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.protect|Triz-Ease_of_operation+Equipotentiality-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.private|Triz-Ease_of_operation+Equipotentiality-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.personal|Triz-Ease_of_operation+Equipotentiality-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.secret|Triz-Ease_of_operation+Equipotentiality-Quantity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Berea/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Berea.md|Berea]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Berea.internal.md|Berea.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Berea.protect.md|Berea.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Berea.private.md|Berea.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Berea.personal.md|Berea.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Berea.secret.md|Berea.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Berea.internal|Berea.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Berea.protect|Berea.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Berea.private|Berea.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Berea.personal|Berea.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Berea.secret|Berea.secret]] 
 

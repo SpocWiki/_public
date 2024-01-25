@@ -41,9 +41,9 @@ markerFolder: ./Utrecht/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Utrecht.md|Utrecht]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Utrecht.internal.md|Utrecht.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Utrecht.protect.md|Utrecht.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Utrecht.private.md|Utrecht.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Utrecht.personal.md|Utrecht.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Utrecht.secret.md|Utrecht.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Utrecht.internal|Utrecht.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Utrecht.protect|Utrecht.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Utrecht.private|Utrecht.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Utrecht.personal|Utrecht.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Utrecht.secret|Utrecht.secret]] 
 

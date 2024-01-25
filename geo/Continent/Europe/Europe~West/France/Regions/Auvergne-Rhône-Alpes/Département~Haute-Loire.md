@@ -41,9 +41,9 @@ markerFolder: ./Département~Haute-Loire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.md|Département~Haute-Loire]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.internal.md|Département~Haute-Loire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.protect.md|Département~Haute-Loire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.private.md|Département~Haute-Loire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.personal.md|Département~Haute-Loire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.secret.md|Département~Haute-Loire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.internal|Département~Haute-Loire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.protect|Département~Haute-Loire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.private|Département~Haute-Loire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.personal|Département~Haute-Loire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Auvergne-Rhône-Alpes/Département~Haute-Loire.secret|Département~Haute-Loire.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Gravesande.md|Gravesande]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Gravesande.internal.md|Gravesande.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Gravesande.protect.md|Gravesande.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Gravesande.private.md|Gravesande.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Gravesande.personal.md|Gravesande.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Gravesande.secret.md|Gravesande.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Gravesande.internal|Gravesande.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Gravesande.protect|Gravesande.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Gravesande.private|Gravesande.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Gravesande.personal|Gravesande.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Gravesande.secret|Gravesande.secret]] 

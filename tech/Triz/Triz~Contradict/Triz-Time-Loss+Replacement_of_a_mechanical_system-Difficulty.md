@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Replacement_of_a_mechanical_system-Difficulty]
 [SpocWebEntityId::25104]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.internal.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.protect.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.private.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.personal.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.secret.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.internal|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.protect|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.private|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.personal|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.secret|Triz-Time-Loss+Replacement_of_a_mechanical_system-Difficulty.secret]] 

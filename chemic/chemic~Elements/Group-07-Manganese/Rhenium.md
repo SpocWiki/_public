@@ -33,8 +33,8 @@ SpocWebEntityId: 21971
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-07-Manganese/Rhenium.md|Rhenium]] 
-- [[../../../../_internal/chemic/Elements/Group-07-Manganese/Rhenium.internal.md|Rhenium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-07-Manganese/Rhenium.protect.md|Rhenium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-07-Manganese/Rhenium.private.md|Rhenium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-07-Manganese/Rhenium.personal.md|Rhenium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-07-Manganese/Rhenium.secret.md|Rhenium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-07-Manganese/Rhenium.internal|Rhenium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-07-Manganese/Rhenium.protect|Rhenium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-07-Manganese/Rhenium.private|Rhenium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-07-Manganese/Rhenium.personal|Rhenium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-07-Manganese/Rhenium.secret|Rhenium.secret]] 

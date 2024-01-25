@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Segmentation-stationary_Volume]
 [SpocWebEntityId::26093]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.md|Triz-Ease_of_repair+Segmentation-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.internal.md|Triz-Ease_of_repair+Segmentation-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.protect.md|Triz-Ease_of_repair+Segmentation-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.private.md|Triz-Ease_of_repair+Segmentation-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.personal.md|Triz-Ease_of_repair+Segmentation-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.secret.md|Triz-Ease_of_repair+Segmentation-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.internal|Triz-Ease_of_repair+Segmentation-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.protect|Triz-Ease_of_repair+Segmentation-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.private|Triz-Ease_of_repair+Segmentation-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.personal|Triz-Ease_of_repair+Segmentation-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-stationary_Volume.secret|Triz-Ease_of_repair+Segmentation-stationary_Volume.secret]] 

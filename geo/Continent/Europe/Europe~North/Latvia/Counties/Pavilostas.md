@@ -41,9 +41,9 @@ markerFolder: ./Pavilostas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Pavilostas.md|Pavilostas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Pavilostas.internal.md|Pavilostas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Pavilostas.protect.md|Pavilostas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Pavilostas.private.md|Pavilostas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Pavilostas.personal.md|Pavilostas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Pavilostas.secret.md|Pavilostas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Pavilostas.internal|Pavilostas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Pavilostas.protect|Pavilostas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Pavilostas.private|Pavilostas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Pavilostas.personal|Pavilostas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Pavilostas.secret|Pavilostas.secret]] 
 

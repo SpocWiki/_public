@@ -41,9 +41,9 @@ markerFolder: ./Nara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.md|Nara]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.internal.md|Nara.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.protect.md|Nara.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.private.md|Nara.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.personal.md|Nara.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.secret.md|Nara.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.internal|Nara.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.protect|Nara.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.private|Nara.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.personal|Nara.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.secret|Nara.secret]] 
 

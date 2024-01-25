@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.md|Dien_Bien_Phu]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.internal.md|Dien_Bien_Phu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.protect.md|Dien_Bien_Phu.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.private.md|Dien_Bien_Phu.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.personal.md|Dien_Bien_Phu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.secret.md|Dien_Bien_Phu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.internal|Dien_Bien_Phu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.protect|Dien_Bien_Phu.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.private|Dien_Bien_Phu.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.personal|Dien_Bien_Phu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.secret|Dien_Bien_Phu.secret]] 

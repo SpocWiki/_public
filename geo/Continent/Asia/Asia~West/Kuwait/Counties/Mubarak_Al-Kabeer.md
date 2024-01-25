@@ -41,9 +41,9 @@ markerFolder: ./Mubarak_Al-Kabeer/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.md|Mubarak_Al-Kabeer]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.internal.md|Mubarak_Al-Kabeer.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.protect.md|Mubarak_Al-Kabeer.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.private.md|Mubarak_Al-Kabeer.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.personal.md|Mubarak_Al-Kabeer.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.secret.md|Mubarak_Al-Kabeer.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.internal|Mubarak_Al-Kabeer.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.protect|Mubarak_Al-Kabeer.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.private|Mubarak_Al-Kabeer.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.personal|Mubarak_Al-Kabeer.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.secret|Mubarak_Al-Kabeer.secret]] 
 

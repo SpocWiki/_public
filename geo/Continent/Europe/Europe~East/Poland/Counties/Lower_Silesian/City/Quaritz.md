@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Quaritz.md|Quaritz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Quaritz.internal.md|Quaritz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Quaritz.protect.md|Quaritz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Quaritz.private.md|Quaritz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Quaritz.personal.md|Quaritz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Quaritz.secret.md|Quaritz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Quaritz.internal|Quaritz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Quaritz.protect|Quaritz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Quaritz.private|Quaritz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Quaritz.personal|Quaritz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Quaritz.secret|Quaritz.secret]] 

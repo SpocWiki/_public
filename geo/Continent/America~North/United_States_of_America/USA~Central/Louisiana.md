@@ -35,8 +35,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Louisiana.md|Louisiana]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Louisiana.internal.md|Louisiana.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Louisiana.protect.md|Louisiana.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Louisiana.private.md|Louisiana.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Louisiana.personal.md|Louisiana.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Louisiana.secret.md|Louisiana.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Louisiana.internal|Louisiana.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Louisiana.protect|Louisiana.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Louisiana.private|Louisiana.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Louisiana.personal|Louisiana.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Louisiana.secret|Louisiana.secret]] 

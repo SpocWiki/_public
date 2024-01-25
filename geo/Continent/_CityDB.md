@@ -343,8 +343,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/_CityDB.md|_CityDB]] 
-- [[../../../_internal/geo/Continent/_CityDB.internal.md|_CityDB.internal]] 
-- [[../../../_protect/geo/Continent/_CityDB.protect.md|_CityDB.protect]] 
-- [[../../../_private/geo/Continent/_CityDB.private.md|_CityDB.private]] 
-- [[../../../_personal/geo/Continent/_CityDB.personal.md|_CityDB.personal]] 
-- [[../../../_secret/geo/Continent/_CityDB.secret.md|_CityDB.secret]] 
+- [[../../../_internal/geo/Continent/_CityDB.internal|_CityDB.internal]] 
+- [[../../../_protect/geo/Continent/_CityDB.protect|_CityDB.protect]] 
+- [[../../../_private/geo/Continent/_CityDB.private|_CityDB.private]] 
+- [[../../../_personal/geo/Continent/_CityDB.personal|_CityDB.personal]] 
+- [[../../../_secret/geo/Continent/_CityDB.secret|_CityDB.secret]] 

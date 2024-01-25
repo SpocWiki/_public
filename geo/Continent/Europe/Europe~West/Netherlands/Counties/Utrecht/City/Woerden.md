@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Woerden.md|Woerden]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Woerden.internal.md|Woerden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Woerden.protect.md|Woerden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Woerden.private.md|Woerden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Woerden.personal.md|Woerden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Woerden.secret.md|Woerden.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Woerden.internal|Woerden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Woerden.protect|Woerden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Woerden.private|Woerden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Woerden.personal|Woerden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Woerden.secret|Woerden.secret]] 

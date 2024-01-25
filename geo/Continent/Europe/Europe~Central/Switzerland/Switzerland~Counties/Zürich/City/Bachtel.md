@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bachtel.md|Bachtel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bachtel.internal.md|Bachtel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bachtel.protect.md|Bachtel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bachtel.private.md|Bachtel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bachtel.personal.md|Bachtel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bachtel.secret.md|Bachtel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bachtel.internal|Bachtel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bachtel.protect|Bachtel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bachtel.private|Bachtel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bachtel.personal|Bachtel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bachtel.secret|Bachtel.secret]] 

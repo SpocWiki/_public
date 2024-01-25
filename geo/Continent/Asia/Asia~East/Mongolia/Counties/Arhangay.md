@@ -41,9 +41,9 @@ markerFolder: ./Arhangay/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.md|Arhangay]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.internal.md|Arhangay.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.protect.md|Arhangay.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.private.md|Arhangay.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.personal.md|Arhangay.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.secret.md|Arhangay.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.internal|Arhangay.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.protect|Arhangay.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.private|Arhangay.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.personal|Arhangay.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.secret|Arhangay.secret]] 
 

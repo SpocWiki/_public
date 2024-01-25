@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Brescia.md|Brescia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Brescia.internal.md|Brescia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Brescia.protect.md|Brescia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Brescia.private.md|Brescia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Brescia.personal.md|Brescia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Brescia.secret.md|Brescia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Brescia.internal|Brescia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Brescia.protect|Brescia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Brescia.private|Brescia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Brescia.personal|Brescia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Brescia.secret|Brescia.secret]] 

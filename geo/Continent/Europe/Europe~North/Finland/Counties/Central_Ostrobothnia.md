@@ -41,9 +41,9 @@ markerFolder: ./Central_Ostrobothnia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.md|Central_Ostrobothnia]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.internal.md|Central_Ostrobothnia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.protect.md|Central_Ostrobothnia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.private.md|Central_Ostrobothnia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.personal.md|Central_Ostrobothnia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.secret.md|Central_Ostrobothnia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.internal|Central_Ostrobothnia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.protect|Central_Ostrobothnia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.private|Central_Ostrobothnia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.personal|Central_Ostrobothnia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Central_Ostrobothnia.secret|Central_Ostrobothnia.secret]] 
 

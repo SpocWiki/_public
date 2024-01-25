@@ -133,8 +133,8 @@ markerFolder: ./Vanuatu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Vanuatu.md|Vanuatu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Vanuatu.internal.md|Vanuatu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Vanuatu.protect.md|Vanuatu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Vanuatu.private.md|Vanuatu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Vanuatu.personal.md|Vanuatu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Vanuatu.secret.md|Vanuatu.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Vanuatu.internal|Vanuatu.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Vanuatu.protect|Vanuatu.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Vanuatu.private|Vanuatu.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Vanuatu.personal|Vanuatu.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Vanuatu.secret|Vanuatu.secret]] 

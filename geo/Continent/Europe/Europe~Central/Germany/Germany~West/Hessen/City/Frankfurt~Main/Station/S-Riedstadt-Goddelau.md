@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Riedstadt-Goddelau|S-Riedstadt-Goddelau]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.internal.md|S-Riedstadt-Goddelau.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.protect.md|S-Riedstadt-Goddelau.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.private.md|S-Riedstadt-Goddelau.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.personal.md|S-Riedstadt-Goddelau.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.secret.md|S-Riedstadt-Goddelau.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.internal|S-Riedstadt-Goddelau.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.protect|S-Riedstadt-Goddelau.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.private|S-Riedstadt-Goddelau.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.personal|S-Riedstadt-Goddelau.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.secret|S-Riedstadt-Goddelau.secret]] 

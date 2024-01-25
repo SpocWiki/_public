@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Groensinka.md|Groensinka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Groensinka.internal.md|Groensinka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Groensinka.protect.md|Groensinka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Groensinka.private.md|Groensinka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Groensinka.personal.md|Groensinka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Groensinka.secret.md|Groensinka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Groensinka.internal|Groensinka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Groensinka.protect|Groensinka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Groensinka.private|Groensinka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Groensinka.personal|Groensinka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Groensinka.secret|Groensinka.secret]] 

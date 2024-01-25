@@ -41,11 +41,11 @@ markerFolder: ./Bergamo.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.md|Bergamo.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.internal.md|Bergamo.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.protect.md|Bergamo.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.private.md|Bergamo.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.personal.md|Bergamo.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.secret.md|Bergamo.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.internal|Bergamo.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.protect|Bergamo.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.private|Bergamo.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.personal|Bergamo.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lombardy/Bergamo.Province.secret|Bergamo.Province.secret]] 
 
 
 ```leaflet

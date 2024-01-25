@@ -41,9 +41,9 @@ markerFolder: ./Carazo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Carazo.md|Carazo]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Carazo.internal.md|Carazo.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Carazo.protect.md|Carazo.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Carazo.private.md|Carazo.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Carazo.personal.md|Carazo.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Carazo.secret.md|Carazo.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Carazo.internal|Carazo.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Carazo.protect|Carazo.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Carazo.private|Carazo.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Carazo.personal|Carazo.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Carazo.secret|Carazo.secret]] 
 

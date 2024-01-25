@@ -41,9 +41,9 @@ markerFolder: ./Tamaulipas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.md|Tamaulipas]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.internal.md|Tamaulipas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.protect.md|Tamaulipas.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.private.md|Tamaulipas.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.personal.md|Tamaulipas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.secret.md|Tamaulipas.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.internal|Tamaulipas.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.protect|Tamaulipas.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.private|Tamaulipas.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.personal|Tamaulipas.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Tamaulipas.secret|Tamaulipas.secret]] 
 

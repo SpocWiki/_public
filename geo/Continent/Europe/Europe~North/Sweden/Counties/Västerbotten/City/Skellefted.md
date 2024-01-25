@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Skellefted.md|Skellefted]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Skellefted.internal.md|Skellefted.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Skellefted.protect.md|Skellefted.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Skellefted.private.md|Skellefted.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Skellefted.personal.md|Skellefted.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Skellefted.secret.md|Skellefted.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Skellefted.internal|Skellefted.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Skellefted.protect|Skellefted.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Skellefted.private|Skellefted.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Skellefted.personal|Skellefted.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Skellefted.secret|Skellefted.secret]] 

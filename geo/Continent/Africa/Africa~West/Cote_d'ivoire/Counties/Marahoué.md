@@ -41,9 +41,9 @@ markerFolder: ./Marahoué/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.md|Marahoué]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.internal.md|Marahoué.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.protect.md|Marahoué.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.private.md|Marahoué.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.personal.md|Marahoué.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.secret.md|Marahoué.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.internal|Marahoué.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.protect|Marahoué.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.private|Marahoué.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.personal|Marahoué.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Marahoué.secret|Marahoué.secret]] 
 

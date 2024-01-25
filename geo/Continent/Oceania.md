@@ -23,8 +23,8 @@ markerFolder: ./Oceania/
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/Oceania.md|Oceania]] 
-- [[../../../_internal/geo/Continent/Oceania.internal.md|Oceania.internal]] 
-- [[../../../_protect/geo/Continent/Oceania.protect.md|Oceania.protect]] 
-- [[../../../_private/geo/Continent/Oceania.private.md|Oceania.private]] 
-- [[../../../_personal/geo/Continent/Oceania.personal.md|Oceania.personal]] 
-- [[../../../_secret/geo/Continent/Oceania.secret.md|Oceania.secret]] 
+- [[../../../_internal/geo/Continent/Oceania.internal|Oceania.internal]] 
+- [[../../../_protect/geo/Continent/Oceania.protect|Oceania.protect]] 
+- [[../../../_private/geo/Continent/Oceania.private|Oceania.private]] 
+- [[../../../_personal/geo/Continent/Oceania.personal|Oceania.personal]] 
+- [[../../../_secret/geo/Continent/Oceania.secret|Oceania.secret]] 

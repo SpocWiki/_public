@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/North-America/Canada/City/Gander.md|Gander]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Gander.internal.md|Gander.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Gander.protect.md|Gander.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Gander.private.md|Gander.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Gander.personal.md|Gander.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Gander.secret.md|Gander.secret]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Gander.internal|Gander.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Gander.protect|Gander.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Gander.private|Gander.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Gander.personal|Gander.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Gander.secret|Gander.secret]] 

@@ -37,8 +37,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Saragossa.md|Saragossa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Saragossa.internal.md|Saragossa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Saragossa.protect.md|Saragossa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Saragossa.private.md|Saragossa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Saragossa.personal.md|Saragossa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Saragossa.secret.md|Saragossa.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Saragossa.internal|Saragossa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Saragossa.protect|Saragossa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Saragossa.private|Saragossa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Saragossa.personal|Saragossa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Saragossa.secret|Saragossa.secret]] 

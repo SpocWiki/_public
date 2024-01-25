@@ -41,9 +41,9 @@ markerFolder: ./Madinat_ach_Shamal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.md|Madinat_ach_Shamal]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.internal.md|Madinat_ach_Shamal.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.protect.md|Madinat_ach_Shamal.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.private.md|Madinat_ach_Shamal.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.personal.md|Madinat_ach_Shamal.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.secret.md|Madinat_ach_Shamal.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.internal|Madinat_ach_Shamal.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.protect|Madinat_ach_Shamal.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.private|Madinat_ach_Shamal.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.personal|Madinat_ach_Shamal.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.secret|Madinat_ach_Shamal.secret]] 
 

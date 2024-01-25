@@ -41,9 +41,9 @@ markerFolder: ./Anse_aux_Pins/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.md|Anse_aux_Pins]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.internal.md|Anse_aux_Pins.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.protect.md|Anse_aux_Pins.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.private.md|Anse_aux_Pins.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.personal.md|Anse_aux_Pins.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.secret.md|Anse_aux_Pins.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.internal|Anse_aux_Pins.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.protect|Anse_aux_Pins.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.private|Anse_aux_Pins.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.personal|Anse_aux_Pins.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.secret|Anse_aux_Pins.secret]] 
 

@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[T-Neu-Isenburg_Stadtgrenze|T-Neu-Isenburg_Stadtgrenze]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.internal.md|T-Neu-Isenburg_Stadtgrenze.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.protect.md|T-Neu-Isenburg_Stadtgrenze.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.private.md|T-Neu-Isenburg_Stadtgrenze.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.personal.md|T-Neu-Isenburg_Stadtgrenze.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.secret.md|T-Neu-Isenburg_Stadtgrenze.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.internal|T-Neu-Isenburg_Stadtgrenze.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.protect|T-Neu-Isenburg_Stadtgrenze.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.private|T-Neu-Isenburg_Stadtgrenze.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.personal|T-Neu-Isenburg_Stadtgrenze.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Neu-Isenburg_Stadtgrenze.secret|T-Neu-Isenburg_Stadtgrenze.secret]] 

@@ -36,8 +36,8 @@ markerFolder: ./Asian_Shipping/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asian_Shipping.md|Asian_Shipping]] 
-- [[../../../../_internal/geo/Continent/Asia/Asian_Shipping.internal.md|Asian_Shipping.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asian_Shipping.protect.md|Asian_Shipping.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asian_Shipping.private.md|Asian_Shipping.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asian_Shipping.personal.md|Asian_Shipping.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asian_Shipping.secret.md|Asian_Shipping.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asian_Shipping.internal|Asian_Shipping.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asian_Shipping.protect|Asian_Shipping.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asian_Shipping.private|Asian_Shipping.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asian_Shipping.personal|Asian_Shipping.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asian_Shipping.secret|Asian_Shipping.secret]] 

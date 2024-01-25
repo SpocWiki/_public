@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Moving_to_a_new_dimension-moving_Area]
 [SpocWebEntityId::22818]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.md|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.internal.md|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.protect.md|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.private.md|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.personal.md|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.secret.md|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.internal|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.protect|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.private|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.personal|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.secret|Triz-moving_Length+Moving_to_a_new_dimension-moving_Area.secret]] 

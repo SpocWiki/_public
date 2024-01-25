@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Waldbillig.md|Waldbillig]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Waldbillig.internal.md|Waldbillig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Waldbillig.protect.md|Waldbillig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Waldbillig.private.md|Waldbillig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Waldbillig.personal.md|Waldbillig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Waldbillig.secret.md|Waldbillig.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Waldbillig.internal|Waldbillig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Waldbillig.protect|Waldbillig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Waldbillig.private|Waldbillig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Waldbillig.personal|Waldbillig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Waldbillig.secret|Waldbillig.secret]] 

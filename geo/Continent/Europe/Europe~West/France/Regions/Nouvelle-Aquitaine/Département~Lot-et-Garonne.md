@@ -41,9 +41,9 @@ markerFolder: ./Département~Lot-et-Garonne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.md|Département~Lot-et-Garonne]] 
-- [[../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.internal.md|Département~Lot-et-Garonne.internal]] 
-- [[../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.protect.md|Département~Lot-et-Garonne.protect]] 
-- [[../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.private.md|Département~Lot-et-Garonne.private]] 
-- [[../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.personal.md|Département~Lot-et-Garonne.personal]] 
-- [[../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.secret.md|Département~Lot-et-Garonne.secret]] 
+- [[../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.internal|Département~Lot-et-Garonne.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.protect|Département~Lot-et-Garonne.protect]] 
+- [[../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.private|Département~Lot-et-Garonne.private]] 
+- [[../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.personal|Département~Lot-et-Garonne.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.secret|Département~Lot-et-Garonne.secret]] 
 

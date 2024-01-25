@@ -41,9 +41,9 @@ markerFolder: ./Lancashire/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.md|Lancashire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.internal.md|Lancashire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.protect.md|Lancashire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.private.md|Lancashire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.personal.md|Lancashire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.secret.md|Lancashire.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.internal|Lancashire.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.protect|Lancashire.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.private|Lancashire.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.personal|Lancashire.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Lancashire.secret|Lancashire.secret]] 
 

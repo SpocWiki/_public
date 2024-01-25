@@ -41,9 +41,9 @@ markerFolder: ./Toyama/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.md|Toyama]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.internal.md|Toyama.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.protect.md|Toyama.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.private.md|Toyama.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.personal.md|Toyama.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.secret.md|Toyama.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.internal|Toyama.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.protect|Toyama.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.private|Toyama.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.personal|Toyama.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.secret|Toyama.secret]] 
 

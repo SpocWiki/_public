@@ -28,8 +28,8 @@ A. Change the shape of an object from symmetrical to asymmetrical.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-asymmetrical.md|Triz-asymmetrical]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-asymmetrical.internal.md|Triz-asymmetrical.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-asymmetrical.protect.md|Triz-asymmetrical.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-asymmetrical.private.md|Triz-asymmetrical.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-asymmetrical.personal.md|Triz-asymmetrical.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-asymmetrical.secret.md|Triz-asymmetrical.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-asymmetrical.internal|Triz-asymmetrical.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-asymmetrical.protect|Triz-asymmetrical.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-asymmetrical.private|Triz-asymmetrical.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-asymmetrical.personal|Triz-asymmetrical.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-asymmetrical.secret|Triz-asymmetrical.secret]] 

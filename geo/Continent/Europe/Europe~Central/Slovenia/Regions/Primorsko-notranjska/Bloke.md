@@ -41,9 +41,9 @@ markerFolder: ./Bloke/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.md|Bloke]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.internal.md|Bloke.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.protect.md|Bloke.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.private.md|Bloke.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.personal.md|Bloke.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.secret.md|Bloke.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.internal|Bloke.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.protect|Bloke.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.private|Bloke.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.personal|Bloke.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Primorsko-notranjska/Bloke.secret|Bloke.secret]] 
 

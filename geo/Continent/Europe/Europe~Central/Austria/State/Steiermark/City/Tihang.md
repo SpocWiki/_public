@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Tihang.md|Tihang]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Tihang.internal.md|Tihang.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Tihang.protect.md|Tihang.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Tihang.private.md|Tihang.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Tihang.personal.md|Tihang.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Tihang.secret.md|Tihang.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Tihang.internal|Tihang.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Tihang.protect|Tihang.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Tihang.private|Tihang.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Tihang.personal|Tihang.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Tihang.secret|Tihang.secret]] 

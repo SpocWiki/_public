@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Beyailiai.md|Beyailiai]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Beyailiai.internal.md|Beyailiai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Beyailiai.protect.md|Beyailiai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Beyailiai.private.md|Beyailiai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Beyailiai.personal.md|Beyailiai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Beyailiai.secret.md|Beyailiai.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Beyailiai.internal|Beyailiai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Beyailiai.protect|Beyailiai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Beyailiai.private|Beyailiai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Beyailiai.personal|Beyailiai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Beyailiai.secret|Beyailiai.secret]] 

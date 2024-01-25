@@ -41,9 +41,9 @@ markerFolder: ./Jubbada_Hoose/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.md|Jubbada_Hoose]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.internal.md|Jubbada_Hoose.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.protect.md|Jubbada_Hoose.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.private.md|Jubbada_Hoose.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.personal.md|Jubbada_Hoose.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.secret.md|Jubbada_Hoose.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.internal|Jubbada_Hoose.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.protect|Jubbada_Hoose.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.private|Jubbada_Hoose.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.personal|Jubbada_Hoose.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.secret|Jubbada_Hoose.secret]] 
 

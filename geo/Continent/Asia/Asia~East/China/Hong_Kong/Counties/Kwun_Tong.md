@@ -41,9 +41,9 @@ markerFolder: ./Kwun_Tong/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.md|Kwun_Tong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.internal.md|Kwun_Tong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.protect.md|Kwun_Tong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.private.md|Kwun_Tong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.personal.md|Kwun_Tong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.secret.md|Kwun_Tong.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.internal|Kwun_Tong.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.protect|Kwun_Tong.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.private|Kwun_Tong.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.personal|Kwun_Tong.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.secret|Kwun_Tong.secret]] 
 

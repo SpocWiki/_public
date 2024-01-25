@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Sadalsuud.md|Sadalsuud]] 
-- [[../../../_internal/astro/Star/Sadalsuud.internal.md|Sadalsuud.internal]] 
-- [[../../../_protect/astro/Star/Sadalsuud.protect.md|Sadalsuud.protect]] 
-- [[../../../_private/astro/Star/Sadalsuud.private.md|Sadalsuud.private]] 
-- [[../../../_personal/astro/Star/Sadalsuud.personal.md|Sadalsuud.personal]] 
-- [[../../../_secret/astro/Star/Sadalsuud.secret.md|Sadalsuud.secret]] 
+- [[../../../_internal/astro/Star/Sadalsuud.internal|Sadalsuud.internal]] 
+- [[../../../_protect/astro/Star/Sadalsuud.protect|Sadalsuud.protect]] 
+- [[../../../_private/astro/Star/Sadalsuud.private|Sadalsuud.private]] 
+- [[../../../_personal/astro/Star/Sadalsuud.personal|Sadalsuud.personal]] 
+- [[../../../_secret/astro/Star/Sadalsuud.secret|Sadalsuud.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Guaviare/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Guaviare.md|Guaviare]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Guaviare.internal.md|Guaviare.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Guaviare.protect.md|Guaviare.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Guaviare.private.md|Guaviare.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Guaviare.personal.md|Guaviare.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Guaviare.secret.md|Guaviare.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Guaviare.internal|Guaviare.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Guaviare.protect|Guaviare.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Guaviare.private|Guaviare.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Guaviare.personal|Guaviare.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Guaviare.secret|Guaviare.secret]] 
 

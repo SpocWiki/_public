@@ -41,9 +41,9 @@ markerFolder: ./Schaffhausen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.md|Schaffhausen]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.internal.md|Schaffhausen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.protect.md|Schaffhausen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.private.md|Schaffhausen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.personal.md|Schaffhausen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.secret.md|Schaffhausen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.internal|Schaffhausen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.protect|Schaffhausen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.private|Schaffhausen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.personal|Schaffhausen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schaffhausen.secret|Schaffhausen.secret]] 
 

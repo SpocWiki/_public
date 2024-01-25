@@ -38,8 +38,8 @@ SpocWebEntityId: 21953
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Lanthanum.md|Lanthanum]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Lanthanum.internal.md|Lanthanum.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Lanthanum.protect.md|Lanthanum.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Lanthanum.private.md|Lanthanum.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Lanthanum.personal.md|Lanthanum.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Lanthanum.secret.md|Lanthanum.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Lanthanum.internal|Lanthanum.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Lanthanum.protect|Lanthanum.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Lanthanum.private|Lanthanum.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Lanthanum.personal|Lanthanum.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Lanthanum.secret|Lanthanum.secret]] 

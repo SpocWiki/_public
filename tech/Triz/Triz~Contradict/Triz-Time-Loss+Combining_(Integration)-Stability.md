@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Combining_(Integration)-Stability]
 [SpocWebEntityId::25024]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle:[[Triz-Combining(Integration)]]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.md|Triz-Time-Loss+Combining_(Integration)-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.internal.md|Triz-Time-Loss+Combining_(Integration)-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.protect.md|Triz-Time-Loss+Combining_(Integration)-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.private.md|Triz-Time-Loss+Combining_(Integration)-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.personal.md|Triz-Time-Loss+Combining_(Integration)-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.secret.md|Triz-Time-Loss+Combining_(Integration)-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.internal|Triz-Time-Loss+Combining_(Integration)-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.protect|Triz-Time-Loss+Combining_(Integration)-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.private|Triz-Time-Loss+Combining_(Integration)-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.personal|Triz-Time-Loss+Combining_(Integration)-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Stability.secret|Triz-Time-Loss+Combining_(Integration)-Stability.secret]] 

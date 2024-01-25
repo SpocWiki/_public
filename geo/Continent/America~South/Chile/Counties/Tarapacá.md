@@ -41,9 +41,9 @@ markerFolder: ./Tarapacá/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Chile/Counties/Tarapacá.md|Tarapacá]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Tarapacá.internal.md|Tarapacá.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Tarapacá.protect.md|Tarapacá.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Tarapacá.private.md|Tarapacá.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Tarapacá.personal.md|Tarapacá.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Tarapacá.secret.md|Tarapacá.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Tarapacá.internal|Tarapacá.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Tarapacá.protect|Tarapacá.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Tarapacá.private|Tarapacá.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Tarapacá.personal|Tarapacá.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Tarapacá.secret|Tarapacá.secret]] 
 

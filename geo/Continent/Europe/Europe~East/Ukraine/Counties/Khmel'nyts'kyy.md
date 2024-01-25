@@ -41,9 +41,9 @@ markerFolder: ./Khmel'nyts'kyy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.md|Khmel'nyts'kyy]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.internal.md|Khmel'nyts'kyy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.protect.md|Khmel'nyts'kyy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.private.md|Khmel'nyts'kyy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.personal.md|Khmel'nyts'kyy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.secret.md|Khmel'nyts'kyy.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.internal|Khmel'nyts'kyy.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.protect|Khmel'nyts'kyy.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.private|Khmel'nyts'kyy.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.personal|Khmel'nyts'kyy.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.secret|Khmel'nyts'kyy.secret]] 
 

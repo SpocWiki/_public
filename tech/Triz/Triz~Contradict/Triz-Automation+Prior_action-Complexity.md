@@ -12,16 +12,16 @@ tags:
 ---
 [name::Automation+Prior_action-Complexity]
 [SpocWebEntityId::26625]
-+ [pro::[[Triz-Automation]]]
++ [#has_/Pros :: [[Triz-Automation]]]
 [Triz-Principle::[[Triz-Prior_action]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.md|Triz-Automation+Prior_action-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.internal.md|Triz-Automation+Prior_action-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.protect.md|Triz-Automation+Prior_action-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.private.md|Triz-Automation+Prior_action-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.personal.md|Triz-Automation+Prior_action-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.secret.md|Triz-Automation+Prior_action-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.internal|Triz-Automation+Prior_action-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.protect|Triz-Automation+Prior_action-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.private|Triz-Automation+Prior_action-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.personal|Triz-Automation+Prior_action-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Prior_action-Complexity.secret|Triz-Automation+Prior_action-Complexity.secret]] 

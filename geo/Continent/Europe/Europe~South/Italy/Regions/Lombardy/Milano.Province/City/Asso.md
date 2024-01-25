@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Asso.md|Asso]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Asso.internal.md|Asso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Asso.protect.md|Asso.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Asso.private.md|Asso.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Asso.personal.md|Asso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Asso.secret.md|Asso.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Asso.internal|Asso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Asso.protect|Asso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Asso.private|Asso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Asso.personal|Asso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Asso.secret|Asso.secret]] 

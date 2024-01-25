@@ -36,8 +36,8 @@ markerFolder: ./Micronesia,_Fed._States/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States.md|Micronesia~Fed._States]] 
-- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States.internal.md|Micronesia~Fed._States.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States.protect.md|Micronesia~Fed._States.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States.private.md|Micronesia~Fed._States.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States.personal.md|Micronesia~Fed._States.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States.secret.md|Micronesia~Fed._States.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States.internal|Micronesia~Fed._States.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States.protect|Micronesia~Fed._States.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States.private|Micronesia~Fed._States.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States.personal|Micronesia~Fed._States.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States.secret|Micronesia~Fed._States.secret]] 

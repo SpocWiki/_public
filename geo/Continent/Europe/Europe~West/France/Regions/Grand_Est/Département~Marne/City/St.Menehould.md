@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Menehould.md|St.Menehould]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Menehould.internal.md|St.Menehould.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Menehould.protect.md|St.Menehould.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Menehould.private.md|St.Menehould.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Menehould.personal.md|St.Menehould.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Menehould.secret.md|St.Menehould.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Menehould.internal|St.Menehould.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Menehould.protect|St.Menehould.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Menehould.private|St.Menehould.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Menehould.personal|St.Menehould.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Menehould.secret|St.Menehould.secret]] 

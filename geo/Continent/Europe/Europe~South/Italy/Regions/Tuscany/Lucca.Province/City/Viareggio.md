@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Viareggio.md|Viareggio]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viareggio.internal.md|Viareggio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viareggio.protect.md|Viareggio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viareggio.private.md|Viareggio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viareggio.personal.md|Viareggio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viareggio.secret.md|Viareggio.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viareggio.internal|Viareggio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viareggio.protect|Viareggio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viareggio.private|Viareggio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viareggio.personal|Viareggio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viareggio.secret|Viareggio.secret]] 

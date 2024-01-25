@@ -41,9 +41,9 @@ markerFolder: ./Birkirkara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Birkirkara.md|Birkirkara]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Birkirkara.internal.md|Birkirkara.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Birkirkara.protect.md|Birkirkara.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Birkirkara.private.md|Birkirkara.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Birkirkara.personal.md|Birkirkara.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Birkirkara.secret.md|Birkirkara.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Birkirkara.internal|Birkirkara.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Birkirkara.protect|Birkirkara.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Birkirkara.private|Birkirkara.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Birkirkara.personal|Birkirkara.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Birkirkara.secret|Birkirkara.secret]] 
 

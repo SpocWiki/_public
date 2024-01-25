@@ -41,9 +41,9 @@ markerFolder: ./Asti.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.md|Asti.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.internal.md|Asti.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.protect.md|Asti.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.private.md|Asti.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.personal.md|Asti.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.secret.md|Asti.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.internal|Asti.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.protect|Asti.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.private|Asti.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.personal|Asti.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Asti.Province.secret|Asti.Province.secret]] 
 

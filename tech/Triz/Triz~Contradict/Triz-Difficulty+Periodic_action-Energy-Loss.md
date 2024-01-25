@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Periodic_action-Energy-Loss]
 [SpocWebEntityId::26485]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::Energy-Loss]
+- [#has_/Cons :: Energy-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.md|Triz-Difficulty+Periodic_action-Energy-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.internal.md|Triz-Difficulty+Periodic_action-Energy-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.protect.md|Triz-Difficulty+Periodic_action-Energy-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.private.md|Triz-Difficulty+Periodic_action-Energy-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.personal.md|Triz-Difficulty+Periodic_action-Energy-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.secret.md|Triz-Difficulty+Periodic_action-Energy-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.internal|Triz-Difficulty+Periodic_action-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.protect|Triz-Difficulty+Periodic_action-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.private|Triz-Difficulty+Periodic_action-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.personal|Triz-Difficulty+Periodic_action-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-Energy-Loss.secret|Triz-Difficulty+Periodic_action-Energy-Loss.secret]] 

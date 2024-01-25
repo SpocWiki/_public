@@ -36,8 +36,8 @@ markerFolder: ./Hessen/
 
 ## Confidential Links & Embeds: 
 -[[Hessen|Hessen]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen.internal.md|Hessen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen.protect.md|Hessen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen.private.md|Hessen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen.personal.md|Hessen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen.secret.md|Hessen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen.internal|Hessen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen.protect|Hessen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen.private|Hessen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen.personal|Hessen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen.secret|Hessen.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Segmentation-Power]
 [SpocWebEntityId::26479]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.md|Triz-Difficulty+Segmentation-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.internal.md|Triz-Difficulty+Segmentation-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.protect.md|Triz-Difficulty+Segmentation-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.private.md|Triz-Difficulty+Segmentation-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.personal.md|Triz-Difficulty+Segmentation-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.secret.md|Triz-Difficulty+Segmentation-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.internal|Triz-Difficulty+Segmentation-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.protect|Triz-Difficulty+Segmentation-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.private|Triz-Difficulty+Segmentation-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.personal|Triz-Difficulty+Segmentation-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.secret|Triz-Difficulty+Segmentation-Power.secret]] 

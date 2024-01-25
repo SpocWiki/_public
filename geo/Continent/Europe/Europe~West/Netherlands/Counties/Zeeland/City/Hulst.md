@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hulst.md|Hulst]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hulst.internal.md|Hulst.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hulst.protect.md|Hulst.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hulst.private.md|Hulst.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hulst.personal.md|Hulst.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hulst.secret.md|Hulst.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hulst.internal|Hulst.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hulst.protect|Hulst.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hulst.private|Hulst.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hulst.personal|Hulst.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hulst.secret|Hulst.secret]] 

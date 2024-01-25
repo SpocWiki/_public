@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Diedenhofen.md|Diedenhofen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Diedenhofen.internal.md|Diedenhofen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Diedenhofen.protect.md|Diedenhofen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Diedenhofen.private.md|Diedenhofen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Diedenhofen.personal.md|Diedenhofen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Diedenhofen.secret.md|Diedenhofen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Diedenhofen.internal|Diedenhofen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Diedenhofen.protect|Diedenhofen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Diedenhofen.private|Diedenhofen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Diedenhofen.personal|Diedenhofen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Diedenhofen.secret|Diedenhofen.secret]] 

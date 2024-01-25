@@ -41,9 +41,9 @@ markerFolder: ./Fiorentino/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Fiorentino.md|Fiorentino]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Fiorentino.internal.md|Fiorentino.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Fiorentino.protect.md|Fiorentino.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Fiorentino.private.md|Fiorentino.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Fiorentino.personal.md|Fiorentino.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Fiorentino.secret.md|Fiorentino.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Fiorentino.internal|Fiorentino.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Fiorentino.protect|Fiorentino.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Fiorentino.private|Fiorentino.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Fiorentino.personal|Fiorentino.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Fiorentino.secret|Fiorentino.secret]] 
 

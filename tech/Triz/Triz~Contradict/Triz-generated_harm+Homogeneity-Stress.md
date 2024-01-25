@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Homogeneity-Stress]
 [SpocWebEntityId::25751]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Homogeneity]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.md|Triz-generated_harm+Homogeneity-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.internal.md|Triz-generated_harm+Homogeneity-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.protect.md|Triz-generated_harm+Homogeneity-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.private.md|Triz-generated_harm+Homogeneity-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.personal.md|Triz-generated_harm+Homogeneity-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.secret.md|Triz-generated_harm+Homogeneity-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.internal|Triz-generated_harm+Homogeneity-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.protect|Triz-generated_harm+Homogeneity-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.private|Triz-generated_harm+Homogeneity-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.personal|Triz-generated_harm+Homogeneity-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.secret|Triz-generated_harm+Homogeneity-Stress.secret]] 

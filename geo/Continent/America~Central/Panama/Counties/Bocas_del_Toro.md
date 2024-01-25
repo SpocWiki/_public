@@ -41,9 +41,9 @@ markerFolder: ./Bocas_del_Toro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.md|Bocas_del_Toro]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.internal.md|Bocas_del_Toro.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.protect.md|Bocas_del_Toro.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.private.md|Bocas_del_Toro.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.personal.md|Bocas_del_Toro.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.secret.md|Bocas_del_Toro.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.internal|Bocas_del_Toro.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.protect|Bocas_del_Toro.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.private|Bocas_del_Toro.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.personal|Bocas_del_Toro.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Bocas_del_Toro.secret|Bocas_del_Toro.secret]] 
 

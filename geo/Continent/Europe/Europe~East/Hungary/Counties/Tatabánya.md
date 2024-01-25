@@ -41,9 +41,9 @@ markerFolder: ./Tatabánya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Tatabánya.md|Tatabánya]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Tatabánya.internal.md|Tatabánya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Tatabánya.protect.md|Tatabánya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Tatabánya.private.md|Tatabánya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Tatabánya.personal.md|Tatabánya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Tatabánya.secret.md|Tatabánya.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Tatabánya.internal|Tatabánya.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Tatabánya.protect|Tatabánya.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Tatabánya.private|Tatabánya.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Tatabánya.personal|Tatabánya.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Tatabánya.secret|Tatabánya.secret]] 
 

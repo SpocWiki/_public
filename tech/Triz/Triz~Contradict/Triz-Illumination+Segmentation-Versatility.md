@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Segmentation-Versatility]
 [SpocWebEntityId::24427]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.md|Triz-Illumination+Segmentation-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.internal.md|Triz-Illumination+Segmentation-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.protect.md|Triz-Illumination+Segmentation-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.private.md|Triz-Illumination+Segmentation-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.personal.md|Triz-Illumination+Segmentation-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.secret.md|Triz-Illumination+Segmentation-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.internal|Triz-Illumination+Segmentation-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.protect|Triz-Illumination+Segmentation-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.private|Triz-Illumination+Segmentation-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.personal|Triz-Illumination+Segmentation-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.secret|Triz-Illumination+Segmentation-Versatility.secret]] 

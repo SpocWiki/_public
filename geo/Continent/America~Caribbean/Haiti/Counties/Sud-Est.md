@@ -41,9 +41,9 @@ markerFolder: ./Sud-Est/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.md|Sud-Est]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.internal.md|Sud-Est.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.protect.md|Sud-Est.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.private.md|Sud-Est.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.personal.md|Sud-Est.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.secret.md|Sud-Est.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.internal|Sud-Est.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.protect|Sud-Est.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.private|Sud-Est.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.personal|Sud-Est.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.secret|Sud-Est.secret]] 
 

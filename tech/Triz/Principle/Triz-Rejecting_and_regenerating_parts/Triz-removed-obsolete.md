@@ -29,8 +29,8 @@ Make Portions of an Object that have fulfilled their Functions go away (discard 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-removed-obsolete.md|Triz-removed-obsolete]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-removed-obsolete.internal.md|Triz-removed-obsolete.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-removed-obsolete.protect.md|Triz-removed-obsolete.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-removed-obsolete.private.md|Triz-removed-obsolete.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-removed-obsolete.personal.md|Triz-removed-obsolete.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-removed-obsolete.secret.md|Triz-removed-obsolete.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-removed-obsolete.internal|Triz-removed-obsolete.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-removed-obsolete.protect|Triz-removed-obsolete.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-removed-obsolete.private|Triz-removed-obsolete.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-removed-obsolete.personal|Triz-removed-obsolete.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-removed-obsolete.secret|Triz-removed-obsolete.secret]] 

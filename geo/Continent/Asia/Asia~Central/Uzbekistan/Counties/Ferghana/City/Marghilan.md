@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Marghilan.md|Marghilan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Marghilan.internal.md|Marghilan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Marghilan.protect.md|Marghilan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Marghilan.private.md|Marghilan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Marghilan.personal.md|Marghilan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Marghilan.secret.md|Marghilan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Marghilan.internal|Marghilan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Marghilan.protect|Marghilan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Marghilan.private|Marghilan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Marghilan.personal|Marghilan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Marghilan.secret|Marghilan.secret]] 

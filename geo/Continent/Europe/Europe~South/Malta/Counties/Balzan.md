@@ -41,9 +41,9 @@ markerFolder: ./Balzan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Balzan.md|Balzan]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Balzan.internal.md|Balzan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Balzan.protect.md|Balzan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Balzan.private.md|Balzan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Balzan.personal.md|Balzan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Balzan.secret.md|Balzan.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Balzan.internal|Balzan.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Balzan.protect|Balzan.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Balzan.private|Balzan.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Balzan.personal|Balzan.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Balzan.secret|Balzan.secret]] 
 

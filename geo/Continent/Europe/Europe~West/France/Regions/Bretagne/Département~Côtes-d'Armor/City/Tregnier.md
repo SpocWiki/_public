@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Tregnier.md|Tregnier]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tregnier.internal.md|Tregnier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tregnier.protect.md|Tregnier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Tregnier.private.md|Tregnier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tregnier.personal.md|Tregnier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tregnier.secret.md|Tregnier.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tregnier.internal|Tregnier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tregnier.protect|Tregnier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Tregnier.private|Tregnier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tregnier.personal|Tregnier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tregnier.secret|Tregnier.secret]] 

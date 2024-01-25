@@ -41,9 +41,9 @@ markerFolder: ./Ávila.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.md|Ávila.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.internal.md|Ávila.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.protect.md|Ávila.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.private.md|Ávila.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.personal.md|Ávila.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.secret.md|Ávila.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.internal|Ávila.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.protect|Ávila.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.private|Ávila.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.personal|Ávila.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla_y_León/Ávila.Province.secret|Ávila.Province.secret]] 
 

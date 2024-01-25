@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pohja.md|Pohja]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pohja.internal.md|Pohja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pohja.protect.md|Pohja.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pohja.private.md|Pohja.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pohja.personal.md|Pohja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pohja.secret.md|Pohja.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pohja.internal|Pohja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pohja.protect|Pohja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pohja.private|Pohja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pohja.personal|Pohja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pohja.secret|Pohja.secret]] 

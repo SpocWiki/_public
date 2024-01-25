@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Sinaia.md|Sinaia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Sinaia.internal.md|Sinaia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Sinaia.protect.md|Sinaia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Sinaia.private.md|Sinaia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Sinaia.personal.md|Sinaia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Sinaia.secret.md|Sinaia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Sinaia.internal|Sinaia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Sinaia.protect|Sinaia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Sinaia.private|Sinaia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Sinaia.personal|Sinaia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Sinaia.secret|Sinaia.secret]] 

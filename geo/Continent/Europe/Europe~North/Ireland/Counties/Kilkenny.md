@@ -41,9 +41,9 @@ markerFolder: ./Kilkenny/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Kilkenny.md|Kilkenny]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Kilkenny.internal.md|Kilkenny.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Kilkenny.protect.md|Kilkenny.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Kilkenny.private.md|Kilkenny.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Kilkenny.personal.md|Kilkenny.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Kilkenny.secret.md|Kilkenny.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Kilkenny.internal|Kilkenny.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Kilkenny.protect|Kilkenny.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Kilkenny.private|Kilkenny.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Kilkenny.personal|Kilkenny.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Kilkenny.secret|Kilkenny.secret]] 
 

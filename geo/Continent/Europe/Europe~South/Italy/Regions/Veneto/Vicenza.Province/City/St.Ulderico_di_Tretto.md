@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.md|St.Ulderico_di_Tretto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.internal.md|St.Ulderico_di_Tretto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.protect.md|St.Ulderico_di_Tretto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.private.md|St.Ulderico_di_Tretto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.personal.md|St.Ulderico_di_Tretto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.secret.md|St.Ulderico_di_Tretto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.internal|St.Ulderico_di_Tretto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.protect|St.Ulderico_di_Tretto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.private|St.Ulderico_di_Tretto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.personal|St.Ulderico_di_Tretto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/St.Ulderico_di_Tretto.secret|St.Ulderico_di_Tretto.secret]] 

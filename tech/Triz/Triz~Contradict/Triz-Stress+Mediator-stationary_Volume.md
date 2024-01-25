@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Mediator-stationary_Volume]
 [SpocWebEntityId::23629]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.md|Triz-Stress+Mediator-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.internal.md|Triz-Stress+Mediator-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.protect.md|Triz-Stress+Mediator-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.private.md|Triz-Stress+Mediator-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.personal.md|Triz-Stress+Mediator-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.secret.md|Triz-Stress+Mediator-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.internal|Triz-Stress+Mediator-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.protect|Triz-Stress+Mediator-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.private|Triz-Stress+Mediator-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.personal|Triz-Stress+Mediator-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Mediator-stationary_Volume.secret|Triz-Stress+Mediator-stationary_Volume.secret]] 

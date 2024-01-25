@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Use_of_porous_material-Substance-Loss]
 [SpocWebEntityId::24015]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle:[[Triz-Use_porous_material]]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.md|Triz-Strength+Use_of_porous_material-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.internal.md|Triz-Strength+Use_of_porous_material-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.protect.md|Triz-Strength+Use_of_porous_material-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.private.md|Triz-Strength+Use_of_porous_material-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.personal.md|Triz-Strength+Use_of_porous_material-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.secret.md|Triz-Strength+Use_of_porous_material-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.internal|Triz-Strength+Use_of_porous_material-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.protect|Triz-Strength+Use_of_porous_material-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.private|Triz-Strength+Use_of_porous_material-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.personal|Triz-Strength+Use_of_porous_material-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Use_of_porous_material-Substance-Loss.secret|Triz-Strength+Use_of_porous_material-Substance-Loss.secret]] 

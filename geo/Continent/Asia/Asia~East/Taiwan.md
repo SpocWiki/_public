@@ -126,7 +126,7 @@ markerFolder: ./Taiwan/
 ## Confidential Links & Embeds: 
 -[[Taiwan|Taiwan]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Taiwan.internal|Taiwan.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Taiwan.protect.md|Taiwan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Taiwan.private.md|Taiwan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Taiwan.personal.md|Taiwan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Taiwan.secret.md|Taiwan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Taiwan.protect|Taiwan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Taiwan.private|Taiwan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Taiwan.personal|Taiwan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Taiwan.secret|Taiwan.secret]] 

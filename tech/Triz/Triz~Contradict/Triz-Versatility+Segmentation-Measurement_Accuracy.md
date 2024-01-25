@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Segmentation-Measurement_Accuracy]
 [SpocWebEntityId::26261]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.md|Triz-Versatility+Segmentation-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.internal.md|Triz-Versatility+Segmentation-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.protect.md|Triz-Versatility+Segmentation-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.private.md|Triz-Versatility+Segmentation-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.personal.md|Triz-Versatility+Segmentation-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.secret.md|Triz-Versatility+Segmentation-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.internal|Triz-Versatility+Segmentation-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.protect|Triz-Versatility+Segmentation-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.private|Triz-Versatility+Segmentation-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.personal|Triz-Versatility+Segmentation-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Segmentation-Measurement_Accuracy.secret|Triz-Versatility+Segmentation-Measurement_Accuracy.secret]] 

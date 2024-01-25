@@ -41,9 +41,9 @@ markerFolder: ./Nyanza/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Nyanza.md|Nyanza]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Nyanza.internal.md|Nyanza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Nyanza.protect.md|Nyanza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Nyanza.private.md|Nyanza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Nyanza.personal.md|Nyanza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Nyanza.secret.md|Nyanza.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Nyanza.internal|Nyanza.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Nyanza.protect|Nyanza.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Nyanza.private|Nyanza.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Nyanza.personal|Nyanza.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Nyanza.secret|Nyanza.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sarzana.md|Sarzana]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sarzana.internal.md|Sarzana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sarzana.protect.md|Sarzana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sarzana.private.md|Sarzana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sarzana.personal.md|Sarzana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sarzana.secret.md|Sarzana.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sarzana.internal|Sarzana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sarzana.protect|Sarzana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sarzana.private|Sarzana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sarzana.personal|Sarzana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sarzana.secret|Sarzana.secret]] 

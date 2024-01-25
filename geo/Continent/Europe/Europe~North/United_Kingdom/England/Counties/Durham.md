@@ -41,9 +41,9 @@ markerFolder: ./Durham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.md|Durham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.internal.md|Durham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.protect.md|Durham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.private.md|Durham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.personal.md|Durham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.secret.md|Durham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.internal|Durham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.protect|Durham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.private|Durham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.personal|Durham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Durham.secret|Durham.secret]] 
 

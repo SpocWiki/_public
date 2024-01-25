@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stafford.md|Stafford]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stafford.internal.md|Stafford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stafford.protect.md|Stafford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stafford.private.md|Stafford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stafford.personal.md|Stafford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stafford.secret.md|Stafford.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stafford.internal|Stafford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stafford.protect|Stafford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stafford.private|Stafford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stafford.personal|Stafford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stafford.secret|Stafford.secret]] 

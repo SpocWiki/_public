@@ -12,16 +12,16 @@ tags:
 ---
 [name::Manufacturing_Precision+Feedback-Automation]
 [SpocWebEntityId::25571]
-+ [pro::[[Triz-Manufacturing_Precision]]]
++ [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
 [Triz-Principle:[[Triz~Sub~feedback]]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.md|Triz-Manufacturing_Precision+Feedback-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.internal.md|Triz-Manufacturing_Precision+Feedback-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.protect.md|Triz-Manufacturing_Precision+Feedback-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.private.md|Triz-Manufacturing_Precision+Feedback-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.personal.md|Triz-Manufacturing_Precision+Feedback-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.secret.md|Triz-Manufacturing_Precision+Feedback-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.internal|Triz-Manufacturing_Precision+Feedback-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.protect|Triz-Manufacturing_Precision+Feedback-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.private|Triz-Manufacturing_Precision+Feedback-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.personal|Triz-Manufacturing_Precision+Feedback-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.secret|Triz-Manufacturing_Precision+Feedback-Automation.secret]] 

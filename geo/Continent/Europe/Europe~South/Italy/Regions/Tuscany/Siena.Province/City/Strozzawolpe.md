@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Strozzawolpe.md|Strozzawolpe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Strozzawolpe.internal.md|Strozzawolpe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Strozzawolpe.protect.md|Strozzawolpe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Strozzawolpe.private.md|Strozzawolpe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Strozzawolpe.personal.md|Strozzawolpe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Strozzawolpe.secret.md|Strozzawolpe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Strozzawolpe.internal|Strozzawolpe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Strozzawolpe.protect|Strozzawolpe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Strozzawolpe.private|Strozzawolpe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Strozzawolpe.personal|Strozzawolpe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Strozzawolpe.secret|Strozzawolpe.secret]] 

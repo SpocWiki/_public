@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Segmentation-Complexity]
 [SpocWebEntityId::23176]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.md|Triz-stationary_Area+Segmentation-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.internal.md|Triz-stationary_Area+Segmentation-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.protect.md|Triz-stationary_Area+Segmentation-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.private.md|Triz-stationary_Area+Segmentation-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.personal.md|Triz-stationary_Area+Segmentation-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.secret.md|Triz-stationary_Area+Segmentation-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.internal|Triz-stationary_Area+Segmentation-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.protect|Triz-stationary_Area+Segmentation-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.private|Triz-stationary_Area+Segmentation-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.personal|Triz-stationary_Area+Segmentation-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Segmentation-Complexity.secret|Triz-stationary_Area+Segmentation-Complexity.secret]] 

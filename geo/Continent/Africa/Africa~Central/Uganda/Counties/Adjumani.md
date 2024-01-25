@@ -41,9 +41,9 @@ markerFolder: ./Adjumani/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Adjumani.md|Adjumani]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Adjumani.internal.md|Adjumani.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Adjumani.protect.md|Adjumani.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Adjumani.private.md|Adjumani.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Adjumani.personal.md|Adjumani.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Adjumani.secret.md|Adjumani.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Adjumani.internal|Adjumani.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Adjumani.protect|Adjumani.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Adjumani.private|Adjumani.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Adjumani.personal|Adjumani.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Adjumani.secret|Adjumani.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Michelbach~Wuerttemberg|Michelbach~Wuerttemberg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.internal.md|Michelbach~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.protect.md|Michelbach~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.private.md|Michelbach~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.personal.md|Michelbach~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.secret.md|Michelbach~Wuerttemberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.internal|Michelbach~Wuerttemberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.protect|Michelbach~Wuerttemberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.private|Michelbach~Wuerttemberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.personal|Michelbach~Wuerttemberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.secret|Michelbach~Wuerttemberg.secret]] 

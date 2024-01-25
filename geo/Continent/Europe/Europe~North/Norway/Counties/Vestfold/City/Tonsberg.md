@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Norway/City/Tonsberg.md|Tonsberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Tonsberg.internal.md|Tonsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Tonsberg.protect.md|Tonsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Tonsberg.private.md|Tonsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Tonsberg.personal.md|Tonsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Tonsberg.secret.md|Tonsberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Tonsberg.internal|Tonsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Tonsberg.protect|Tonsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Tonsberg.private|Tonsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Tonsberg.personal|Tonsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Tonsberg.secret|Tonsberg.secret]] 

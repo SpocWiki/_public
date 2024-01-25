@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Harwich.md|Harwich]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Harwich.internal.md|Harwich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Harwich.protect.md|Harwich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Harwich.private.md|Harwich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Harwich.personal.md|Harwich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Harwich.secret.md|Harwich.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Harwich.internal|Harwich.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Harwich.protect|Harwich.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Harwich.private|Harwich.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Harwich.personal|Harwich.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Harwich.secret|Harwich.secret]] 

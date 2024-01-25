@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Maubeuge.md|Maubeuge]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Maubeuge.internal.md|Maubeuge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Maubeuge.protect.md|Maubeuge.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Maubeuge.private.md|Maubeuge.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Maubeuge.personal.md|Maubeuge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Maubeuge.secret.md|Maubeuge.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Maubeuge.internal|Maubeuge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Maubeuge.protect|Maubeuge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Maubeuge.private|Maubeuge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Maubeuge.personal|Maubeuge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Maubeuge.secret|Maubeuge.secret]] 

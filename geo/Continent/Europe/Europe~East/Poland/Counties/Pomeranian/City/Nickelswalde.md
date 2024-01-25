@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Nickelswalde.md|Nickelswalde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nickelswalde.internal.md|Nickelswalde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nickelswalde.protect.md|Nickelswalde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nickelswalde.private.md|Nickelswalde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nickelswalde.personal.md|Nickelswalde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nickelswalde.secret.md|Nickelswalde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nickelswalde.internal|Nickelswalde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nickelswalde.protect|Nickelswalde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nickelswalde.private|Nickelswalde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nickelswalde.personal|Nickelswalde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nickelswalde.secret|Nickelswalde.secret]] 

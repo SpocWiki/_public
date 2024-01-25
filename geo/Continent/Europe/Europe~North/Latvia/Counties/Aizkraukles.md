@@ -41,9 +41,9 @@ markerFolder: ./Aizkraukles/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Aizkraukles.md|Aizkraukles]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aizkraukles.internal.md|Aizkraukles.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aizkraukles.protect.md|Aizkraukles.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aizkraukles.private.md|Aizkraukles.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aizkraukles.personal.md|Aizkraukles.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aizkraukles.secret.md|Aizkraukles.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aizkraukles.internal|Aizkraukles.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aizkraukles.protect|Aizkraukles.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aizkraukles.private|Aizkraukles.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aizkraukles.personal|Aizkraukles.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aizkraukles.secret|Aizkraukles.secret]] 
 

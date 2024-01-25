@@ -41,9 +41,9 @@ markerFolder: ./Lower_River/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Gambia/Counties/Lower_River.md|Lower_River]] 
-- [[../../../../_internal/geo/Continent/Africa/Gambia/Counties/Lower_River.internal.md|Lower_River.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gambia/Counties/Lower_River.protect.md|Lower_River.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gambia/Counties/Lower_River.private.md|Lower_River.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gambia/Counties/Lower_River.personal.md|Lower_River.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gambia/Counties/Lower_River.secret.md|Lower_River.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Gambia/Counties/Lower_River.internal|Lower_River.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Gambia/Counties/Lower_River.protect|Lower_River.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gambia/Counties/Lower_River.private|Lower_River.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gambia/Counties/Lower_River.personal|Lower_River.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gambia/Counties/Lower_River.secret|Lower_River.secret]] 
 

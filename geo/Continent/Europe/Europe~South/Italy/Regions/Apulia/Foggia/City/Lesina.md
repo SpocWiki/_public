@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Lesina.md|Lesina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Lesina.internal.md|Lesina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Lesina.protect.md|Lesina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Lesina.private.md|Lesina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Lesina.personal.md|Lesina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Lesina.secret.md|Lesina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Lesina.internal|Lesina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Lesina.protect|Lesina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Lesina.private|Lesina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Lesina.personal|Lesina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Lesina.secret|Lesina.secret]] 

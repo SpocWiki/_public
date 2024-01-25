@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rueckenwaldau.md|Rueckenwaldau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rueckenwaldau.internal.md|Rueckenwaldau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rueckenwaldau.protect.md|Rueckenwaldau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rueckenwaldau.private.md|Rueckenwaldau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rueckenwaldau.personal.md|Rueckenwaldau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rueckenwaldau.secret.md|Rueckenwaldau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rueckenwaldau.internal|Rueckenwaldau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rueckenwaldau.protect|Rueckenwaldau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rueckenwaldau.private|Rueckenwaldau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rueckenwaldau.personal|Rueckenwaldau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rueckenwaldau.secret|Rueckenwaldau.secret]] 

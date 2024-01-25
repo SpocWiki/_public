@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Roessel.md|Roessel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Roessel.internal.md|Roessel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Roessel.protect.md|Roessel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Roessel.private.md|Roessel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Roessel.personal.md|Roessel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Roessel.secret.md|Roessel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Roessel.internal|Roessel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Roessel.protect|Roessel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Roessel.private|Roessel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Roessel.personal|Roessel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Roessel.secret|Roessel.secret]] 

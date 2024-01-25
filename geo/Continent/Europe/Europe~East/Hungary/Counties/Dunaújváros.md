@@ -41,9 +41,9 @@ markerFolder: ./Dunaújváros/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Dunaújváros.md|Dunaújváros]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Dunaújváros.internal.md|Dunaújváros.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Dunaújváros.protect.md|Dunaújváros.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Dunaújváros.private.md|Dunaújváros.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Dunaújváros.personal.md|Dunaújváros.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Dunaújváros.secret.md|Dunaújváros.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Dunaújváros.internal|Dunaújváros.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Dunaújváros.protect|Dunaújváros.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Dunaújváros.private|Dunaújváros.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Dunaújváros.personal|Dunaújváros.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Dunaújváros.secret|Dunaújváros.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.md|Grand_Rapids]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.internal.md|Grand_Rapids.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.protect.md|Grand_Rapids.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.private.md|Grand_Rapids.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.personal.md|Grand_Rapids.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.secret.md|Grand_Rapids.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.internal|Grand_Rapids.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.protect|Grand_Rapids.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.private|Grand_Rapids.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.personal|Grand_Rapids.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.secret|Grand_Rapids.secret]] 

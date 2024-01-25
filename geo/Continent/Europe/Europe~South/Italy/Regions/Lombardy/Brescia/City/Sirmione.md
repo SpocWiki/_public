@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sirmione.md|Sirmione]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sirmione.internal.md|Sirmione.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sirmione.protect.md|Sirmione.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sirmione.private.md|Sirmione.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sirmione.personal.md|Sirmione.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sirmione.secret.md|Sirmione.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sirmione.internal|Sirmione.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sirmione.protect|Sirmione.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sirmione.private|Sirmione.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sirmione.personal|Sirmione.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sirmione.secret|Sirmione.secret]] 

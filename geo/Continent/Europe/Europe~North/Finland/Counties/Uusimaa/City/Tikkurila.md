@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tikkurila.md|Tikkurila]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tikkurila.internal.md|Tikkurila.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tikkurila.protect.md|Tikkurila.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tikkurila.private.md|Tikkurila.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tikkurila.personal.md|Tikkurila.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tikkurila.secret.md|Tikkurila.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tikkurila.internal|Tikkurila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tikkurila.protect|Tikkurila.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tikkurila.private|Tikkurila.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tikkurila.personal|Tikkurila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tikkurila.secret|Tikkurila.secret]] 

@@ -27,9 +27,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Acamar.md|Acamar]] 
-- [[../../../_internal/astro/Star/Acamar.internal.md|Acamar.internal]] 
-- [[../../../_protect/astro/Star/Acamar.protect.md|Acamar.protect]] 
-- [[../../../_private/astro/Star/Acamar.private.md|Acamar.private]] 
-- [[../../../_personal/astro/Star/Acamar.personal.md|Acamar.personal]] 
-- [[../../../_secret/astro/Star/Acamar.secret.md|Acamar.secret]]
+- [[../../../_internal/astro/Star/Acamar.internal|Acamar.internal]] 
+- [[../../../_protect/astro/Star/Acamar.protect|Acamar.protect]] 
+- [[../../../_private/astro/Star/Acamar.private|Acamar.private]] 
+- [[../../../_personal/astro/Star/Acamar.personal|Acamar.personal]] 
+- [[../../../_secret/astro/Star/Acamar.secret|Acamar.secret]]
 

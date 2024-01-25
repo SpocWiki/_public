@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Kazanlik.md|Kazanlik]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Kazanlik.internal.md|Kazanlik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Kazanlik.protect.md|Kazanlik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Kazanlik.private.md|Kazanlik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Kazanlik.personal.md|Kazanlik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Kazanlik.secret.md|Kazanlik.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Kazanlik.internal|Kazanlik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Kazanlik.protect|Kazanlik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Kazanlik.private|Kazanlik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Kazanlik.personal|Kazanlik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Kazanlik.secret|Kazanlik.secret]] 

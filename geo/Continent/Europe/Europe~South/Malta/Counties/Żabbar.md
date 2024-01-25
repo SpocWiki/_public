@@ -41,9 +41,9 @@ markerFolder: ./Żabbar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Żabbar.md|Żabbar]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Żabbar.internal.md|Żabbar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Żabbar.protect.md|Żabbar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Żabbar.private.md|Żabbar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Żabbar.personal.md|Żabbar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Żabbar.secret.md|Żabbar.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Żabbar.internal|Żabbar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Żabbar.protect|Żabbar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Żabbar.private|Żabbar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Żabbar.personal|Żabbar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Żabbar.secret|Żabbar.secret]] 
 

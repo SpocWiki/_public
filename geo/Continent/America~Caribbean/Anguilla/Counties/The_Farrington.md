@@ -41,9 +41,9 @@ markerFolder: ./The_Farrington/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.md|The_Farrington]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.internal.md|The_Farrington.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.protect.md|The_Farrington.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.private.md|The_Farrington.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.personal.md|The_Farrington.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.secret.md|The_Farrington.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.internal|The_Farrington.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.protect|The_Farrington.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.private|The_Farrington.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.personal|The_Farrington.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/The_Farrington.secret|The_Farrington.secret]] 
 

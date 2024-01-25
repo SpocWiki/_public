@@ -41,9 +41,9 @@ markerFolder: ./Sogn_og_Fjordane/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.md|Sogn_og_Fjordane]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.internal.md|Sogn_og_Fjordane.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.protect.md|Sogn_og_Fjordane.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.private.md|Sogn_og_Fjordane.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.personal.md|Sogn_og_Fjordane.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.secret.md|Sogn_og_Fjordane.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.internal|Sogn_og_Fjordane.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.protect|Sogn_og_Fjordane.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.private|Sogn_og_Fjordane.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.personal|Sogn_og_Fjordane.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Sogn_og_Fjordane.secret|Sogn_og_Fjordane.secret]] 
 

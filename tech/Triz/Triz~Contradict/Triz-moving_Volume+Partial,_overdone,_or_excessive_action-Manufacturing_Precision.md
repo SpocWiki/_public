@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision]
 [SpocWebEntityId::23265]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
-- [con::[[Triz-Manufacturing_Precision]]]
+- [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.internal.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.protect.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.private.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.personal.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.secret.md|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.internal|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.protect|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.private|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.personal|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.secret|Triz-moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Anatoliki_Makedonia_kai_Thraki/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.md|Anatoliki_Makedonia_kai_Thraki]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.internal.md|Anatoliki_Makedonia_kai_Thraki.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.protect.md|Anatoliki_Makedonia_kai_Thraki.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.private.md|Anatoliki_Makedonia_kai_Thraki.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.personal.md|Anatoliki_Makedonia_kai_Thraki.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.secret.md|Anatoliki_Makedonia_kai_Thraki.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.internal|Anatoliki_Makedonia_kai_Thraki.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.protect|Anatoliki_Makedonia_kai_Thraki.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.private|Anatoliki_Makedonia_kai_Thraki.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.personal|Anatoliki_Makedonia_kai_Thraki.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Anatoliki_Makedonia_kai_Thraki.secret|Anatoliki_Makedonia_kai_Thraki.secret]] 
 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Saarhoelzbach|Saarhoelzbach]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.internal.md|Saarhoelzbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.protect.md|Saarhoelzbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.private.md|Saarhoelzbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.personal.md|Saarhoelzbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.secret.md|Saarhoelzbach.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.internal|Saarhoelzbach.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.protect|Saarhoelzbach.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.private|Saarhoelzbach.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.personal|Saarhoelzbach.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.secret|Saarhoelzbach.secret]] 

@@ -36,8 +36,8 @@ SpocWebEntityId: 21970
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-06-Chromium/Tungsten.md|Tungsten]] 
-- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Tungsten.internal.md|Tungsten.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Tungsten.protect.md|Tungsten.protect]] 
-- [[../../../../_private/chemic/Elements/Group-06-Chromium/Tungsten.private.md|Tungsten.private]] 
-- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Tungsten.personal.md|Tungsten.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Tungsten.secret.md|Tungsten.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Tungsten.internal|Tungsten.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Tungsten.protect|Tungsten.protect]] 
+- [[../../../../_private/chemic/Elements/Group-06-Chromium/Tungsten.private|Tungsten.private]] 
+- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Tungsten.personal|Tungsten.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Tungsten.secret|Tungsten.secret]] 

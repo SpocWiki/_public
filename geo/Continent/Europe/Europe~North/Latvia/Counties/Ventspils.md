@@ -41,9 +41,9 @@ markerFolder: ./Ventspils/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ventspils.md|Ventspils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ventspils.internal.md|Ventspils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ventspils.protect.md|Ventspils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ventspils.private.md|Ventspils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ventspils.personal.md|Ventspils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ventspils.secret.md|Ventspils.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ventspils.internal|Ventspils.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ventspils.protect|Ventspils.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ventspils.private|Ventspils.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ventspils.personal|Ventspils.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ventspils.secret|Ventspils.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Phecevo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.md|Phecevo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.internal.md|Phecevo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.protect.md|Phecevo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.private.md|Phecevo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.personal.md|Phecevo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.secret.md|Phecevo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.internal|Phecevo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.protect|Phecevo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.private|Phecevo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.personal|Phecevo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Phecevo.secret|Phecevo.secret]] 
 

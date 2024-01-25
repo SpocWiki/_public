@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schlawe.md|Schlawe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlawe.internal.md|Schlawe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlawe.protect.md|Schlawe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlawe.private.md|Schlawe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlawe.personal.md|Schlawe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlawe.secret.md|Schlawe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlawe.internal|Schlawe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlawe.protect|Schlawe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlawe.private|Schlawe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlawe.personal|Schlawe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlawe.secret|Schlawe.secret]] 

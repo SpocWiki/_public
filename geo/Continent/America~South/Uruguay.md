@@ -133,8 +133,8 @@ markerFolder: ./Uruguay/
 
 ## Confidential Links & Embeds: 
 - [[Uruguay|Uruguay]] 
-- [[../../../../_internal/geo/Continent/South-America/Uruguay.internal.md|Uruguay.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Uruguay.protect.md|Uruguay.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Uruguay.private.md|Uruguay.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Uruguay.personal.md|Uruguay.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Uruguay.secret.md|Uruguay.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Uruguay.internal|Uruguay.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Uruguay.protect|Uruguay.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Uruguay.private|Uruguay.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Uruguay.personal|Uruguay.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Uruguay.secret|Uruguay.secret]] 

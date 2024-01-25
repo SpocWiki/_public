@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kaskoe.md|Kaskoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaskoe.internal.md|Kaskoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaskoe.protect.md|Kaskoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kaskoe.private.md|Kaskoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaskoe.personal.md|Kaskoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaskoe.secret.md|Kaskoe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaskoe.internal|Kaskoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaskoe.protect|Kaskoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kaskoe.private|Kaskoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaskoe.personal|Kaskoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaskoe.secret|Kaskoe.secret]] 

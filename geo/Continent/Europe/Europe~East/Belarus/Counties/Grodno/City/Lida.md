@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lida.md|Lida]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lida.internal.md|Lida.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lida.protect.md|Lida.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lida.private.md|Lida.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lida.personal.md|Lida.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lida.secret.md|Lida.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lida.internal|Lida.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lida.protect|Lida.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lida.private|Lida.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lida.personal|Lida.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lida.secret|Lida.secret]] 

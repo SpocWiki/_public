@@ -48,9 +48,9 @@ markerFolder: ./Haringey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.md|Haringey]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.internal.md|Haringey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.protect.md|Haringey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.private.md|Haringey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.personal.md|Haringey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.secret.md|Haringey.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.internal|Haringey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.protect|Haringey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.private|Haringey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.personal|Haringey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.secret|Haringey.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Cherkasy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Cherkasy.md|Cherkasy]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Cherkasy.internal.md|Cherkasy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Cherkasy.protect.md|Cherkasy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Cherkasy.private.md|Cherkasy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Cherkasy.personal.md|Cherkasy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Cherkasy.secret.md|Cherkasy.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Cherkasy.internal|Cherkasy.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Cherkasy.protect|Cherkasy.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Cherkasy.private|Cherkasy.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Cherkasy.personal|Cherkasy.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Cherkasy.secret|Cherkasy.secret]] 
 

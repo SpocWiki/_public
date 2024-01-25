@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Civita_Vecchia.md|Civita_Vecchia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Civita_Vecchia.internal.md|Civita_Vecchia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Civita_Vecchia.protect.md|Civita_Vecchia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Civita_Vecchia.private.md|Civita_Vecchia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Civita_Vecchia.personal.md|Civita_Vecchia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Civita_Vecchia.secret.md|Civita_Vecchia.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Civita_Vecchia.internal|Civita_Vecchia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Civita_Vecchia.protect|Civita_Vecchia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Civita_Vecchia.private|Civita_Vecchia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Civita_Vecchia.personal|Civita_Vecchia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Civita_Vecchia.secret|Civita_Vecchia.secret]] 

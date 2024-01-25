@@ -41,9 +41,9 @@ markerFolder: ./Amasya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Amasya.md|Amasya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Amasya.internal.md|Amasya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Amasya.protect.md|Amasya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Amasya.private.md|Amasya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Amasya.personal.md|Amasya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Amasya.secret.md|Amasya.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Amasya.internal|Amasya.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Amasya.protect|Amasya.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Amasya.private|Amasya.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Amasya.personal|Amasya.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Amasya.secret|Amasya.secret]] 
 

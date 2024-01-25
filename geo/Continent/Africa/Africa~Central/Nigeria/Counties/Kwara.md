@@ -41,9 +41,9 @@ markerFolder: ./Kwara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kwara.md|Kwara]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kwara.internal.md|Kwara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kwara.protect.md|Kwara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kwara.private.md|Kwara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kwara.personal.md|Kwara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kwara.secret.md|Kwara.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kwara.internal|Kwara.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kwara.protect|Kwara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kwara.private|Kwara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kwara.personal|Kwara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kwara.secret|Kwara.secret]] 
 

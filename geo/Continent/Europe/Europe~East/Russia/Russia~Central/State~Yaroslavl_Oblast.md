@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Yaroslavl_Oblast|State~Yaroslavl_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.internal|State~Yaroslavl_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.protect.md|State~Yaroslavl_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.private.md|State~Yaroslavl_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.personal.md|State~Yaroslavl_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.secret.md|State~Yaroslavl_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.protect|State~Yaroslavl_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.private|State~Yaroslavl_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.personal|State~Yaroslavl_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.secret|State~Yaroslavl_Oblast.secret]] 

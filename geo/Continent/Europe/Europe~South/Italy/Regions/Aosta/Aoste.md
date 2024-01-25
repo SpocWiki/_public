@@ -41,9 +41,9 @@ markerFolder: ./Aoste/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.md|Aoste]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.internal.md|Aoste.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.protect.md|Aoste.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.private.md|Aoste.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.personal.md|Aoste.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.secret.md|Aoste.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.internal|Aoste.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.protect|Aoste.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.private|Aoste.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.personal|Aoste.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Aosta/Aoste.secret|Aoste.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Sternbergen.md|Sternbergen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sternbergen.internal.md|Sternbergen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sternbergen.protect.md|Sternbergen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sternbergen.private.md|Sternbergen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sternbergen.personal.md|Sternbergen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sternbergen.secret.md|Sternbergen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sternbergen.internal|Sternbergen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sternbergen.protect|Sternbergen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sternbergen.private|Sternbergen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sternbergen.personal|Sternbergen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sternbergen.secret|Sternbergen.secret]] 

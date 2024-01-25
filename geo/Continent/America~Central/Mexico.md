@@ -136,8 +136,8 @@ markerFolder: ./Mexico/
 
 ## Confidential Links & Embeds: 
 - [[Mexico|Mexico]] 
-- [[../../../../_internal/geo/Continent/South-America/Mexico.internal.md|Mexico.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Mexico.protect.md|Mexico.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Mexico.private.md|Mexico.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Mexico.personal.md|Mexico.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Mexico.secret.md|Mexico.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Mexico.internal|Mexico.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Mexico.protect|Mexico.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Mexico.private|Mexico.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Mexico.personal|Mexico.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Mexico.secret|Mexico.secret]] 

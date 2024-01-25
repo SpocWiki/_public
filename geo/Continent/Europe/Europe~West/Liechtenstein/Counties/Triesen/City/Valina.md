@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.08]
 [name::Valina]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../../Europe~Central/Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Valina.md|Valina]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Valina.internal.md|Valina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Valina.protect.md|Valina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Valina.private.md|Valina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Valina.personal.md|Valina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Valina.secret.md|Valina.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Valina.internal|Valina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Valina.protect|Valina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Valina.private|Valina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Valina.personal|Valina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Valina.secret|Valina.secret]] 

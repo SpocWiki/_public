@@ -41,9 +41,9 @@ markerFolder: ./Tajura'_wa_an_Nawahi_al_Arba/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.md|Tajura'_wa_an_Nawahi_al_Arba]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.internal.md|Tajura'_wa_an_Nawahi_al_Arba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.protect.md|Tajura'_wa_an_Nawahi_al_Arba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.private.md|Tajura'_wa_an_Nawahi_al_Arba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.personal.md|Tajura'_wa_an_Nawahi_al_Arba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.secret.md|Tajura'_wa_an_Nawahi_al_Arba.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.internal|Tajura'_wa_an_Nawahi_al_Arba.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.protect|Tajura'_wa_an_Nawahi_al_Arba.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.private|Tajura'_wa_an_Nawahi_al_Arba.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.personal|Tajura'_wa_an_Nawahi_al_Arba.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.secret|Tajura'_wa_an_Nawahi_al_Arba.secret]] 
 

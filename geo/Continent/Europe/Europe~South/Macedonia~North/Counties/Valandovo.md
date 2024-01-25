@@ -41,9 +41,9 @@ markerFolder: ./Valandovo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.md|Valandovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.internal.md|Valandovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.protect.md|Valandovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.private.md|Valandovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.personal.md|Valandovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.secret.md|Valandovo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.internal|Valandovo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.protect|Valandovo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.private|Valandovo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.personal|Valandovo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.secret|Valandovo.secret]] 
 

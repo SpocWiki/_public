@@ -41,9 +41,9 @@ markerFolder: ./Cat_Island/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.md|Cat_Island]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.internal.md|Cat_Island.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.protect.md|Cat_Island.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.private.md|Cat_Island.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.personal.md|Cat_Island.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.secret.md|Cat_Island.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.internal|Cat_Island.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.protect|Cat_Island.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.private|Cat_Island.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.personal|Cat_Island.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Cat_Island.secret|Cat_Island.secret]] 
 

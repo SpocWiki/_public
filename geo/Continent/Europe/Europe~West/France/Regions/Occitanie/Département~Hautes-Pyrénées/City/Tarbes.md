@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Tarbes.md|Tarbes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tarbes.internal.md|Tarbes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tarbes.protect.md|Tarbes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Tarbes.private.md|Tarbes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tarbes.personal.md|Tarbes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tarbes.secret.md|Tarbes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tarbes.internal|Tarbes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tarbes.protect|Tarbes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Tarbes.private|Tarbes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tarbes.personal|Tarbes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tarbes.secret|Tarbes.secret]] 

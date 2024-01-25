@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Runowo.md|Runowo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Runowo.internal.md|Runowo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Runowo.protect.md|Runowo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Runowo.private.md|Runowo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Runowo.personal.md|Runowo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Runowo.secret.md|Runowo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Runowo.internal|Runowo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Runowo.protect|Runowo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Runowo.private|Runowo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Runowo.personal|Runowo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Runowo.secret|Runowo.secret]] 

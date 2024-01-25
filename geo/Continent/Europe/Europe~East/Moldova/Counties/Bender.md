@@ -41,9 +41,9 @@ markerFolder: ./Bender/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Bender.md|Bender]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Bender.internal.md|Bender.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Bender.protect.md|Bender.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Bender.private.md|Bender.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Bender.personal.md|Bender.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Bender.secret.md|Bender.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Bender.internal|Bender.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Bender.protect|Bender.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Bender.private|Bender.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Bender.personal|Bender.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Bender.secret|Bender.secret]] 
 

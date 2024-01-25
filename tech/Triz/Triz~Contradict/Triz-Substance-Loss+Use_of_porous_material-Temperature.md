@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Use_of_porous_material-Temperature]
 [SpocWebEntityId::24853]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Use_porous_material]]]]
-- [con::[[Triz-Temperature]]]
+- [#has_/Cons :: [[Triz-Temperature]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.md|Triz-Substance-Loss+Use_of_porous_material-Temperature]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.internal.md|Triz-Substance-Loss+Use_of_porous_material-Temperature.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.protect.md|Triz-Substance-Loss+Use_of_porous_material-Temperature.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.private.md|Triz-Substance-Loss+Use_of_porous_material-Temperature.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.personal.md|Triz-Substance-Loss+Use_of_porous_material-Temperature.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.secret.md|Triz-Substance-Loss+Use_of_porous_material-Temperature.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.internal|Triz-Substance-Loss+Use_of_porous_material-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.protect|Triz-Substance-Loss+Use_of_porous_material-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.private|Triz-Substance-Loss+Use_of_porous_material-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.personal|Triz-Substance-Loss+Use_of_porous_material-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Temperature.secret|Triz-Substance-Loss+Use_of_porous_material-Temperature.secret]] 

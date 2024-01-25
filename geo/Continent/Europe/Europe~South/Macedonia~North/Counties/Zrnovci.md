@@ -41,9 +41,9 @@ markerFolder: ./Zrnovci/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.md|Zrnovci]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.internal.md|Zrnovci.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.protect.md|Zrnovci.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.private.md|Zrnovci.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.personal.md|Zrnovci.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.secret.md|Zrnovci.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.internal|Zrnovci.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.protect|Zrnovci.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.private|Zrnovci.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.personal|Zrnovci.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Zrnovci.secret|Zrnovci.secret]] 
 

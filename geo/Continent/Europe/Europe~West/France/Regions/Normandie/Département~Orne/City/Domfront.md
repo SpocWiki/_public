@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Domfront.md|Domfront]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Domfront.internal.md|Domfront.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Domfront.protect.md|Domfront.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Domfront.private.md|Domfront.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Domfront.personal.md|Domfront.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Domfront.secret.md|Domfront.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Domfront.internal|Domfront.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Domfront.protect|Domfront.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Domfront.private|Domfront.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Domfront.personal|Domfront.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Domfront.secret|Domfront.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Calderdale/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.md|Calderdale]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.internal.md|Calderdale.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.protect.md|Calderdale.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.private.md|Calderdale.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.personal.md|Calderdale.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.secret.md|Calderdale.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.internal|Calderdale.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.protect|Calderdale.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.private|Calderdale.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.personal|Calderdale.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Calderdale.secret|Calderdale.secret]] 
 

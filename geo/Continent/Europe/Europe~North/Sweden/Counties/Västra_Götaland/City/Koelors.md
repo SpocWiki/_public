@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Koelors.md|Koelors]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Koelors.internal.md|Koelors.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Koelors.protect.md|Koelors.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Koelors.private.md|Koelors.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Koelors.personal.md|Koelors.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Koelors.secret.md|Koelors.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Koelors.internal|Koelors.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Koelors.protect|Koelors.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Koelors.private|Koelors.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Koelors.personal|Koelors.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Koelors.secret|Koelors.secret]] 

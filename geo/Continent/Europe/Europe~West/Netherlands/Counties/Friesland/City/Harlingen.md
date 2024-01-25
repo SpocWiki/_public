@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Harlingen.md|Harlingen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Harlingen.internal.md|Harlingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Harlingen.protect.md|Harlingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Harlingen.private.md|Harlingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Harlingen.personal.md|Harlingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Harlingen.secret.md|Harlingen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Harlingen.internal|Harlingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Harlingen.protect|Harlingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Harlingen.private|Harlingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Harlingen.personal|Harlingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Harlingen.secret|Harlingen.secret]] 

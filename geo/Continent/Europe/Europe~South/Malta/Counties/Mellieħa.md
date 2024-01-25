@@ -41,9 +41,9 @@ markerFolder: ./Mellieħa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Mellieħa.md|Mellieħa]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mellieħa.internal.md|Mellieħa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mellieħa.protect.md|Mellieħa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mellieħa.private.md|Mellieħa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mellieħa.personal.md|Mellieħa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mellieħa.secret.md|Mellieħa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mellieħa.internal|Mellieħa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mellieħa.protect|Mellieħa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mellieħa.private|Mellieħa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mellieħa.personal|Mellieħa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mellieħa.secret|Mellieħa.secret]] 
 

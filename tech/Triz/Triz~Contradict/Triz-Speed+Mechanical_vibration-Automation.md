@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Mechanical_vibration-Automation]
 [SpocWebEntityId::23476]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.md|Triz-Speed+Mechanical_vibration-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.internal.md|Triz-Speed+Mechanical_vibration-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.protect.md|Triz-Speed+Mechanical_vibration-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.private.md|Triz-Speed+Mechanical_vibration-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.personal.md|Triz-Speed+Mechanical_vibration-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.secret.md|Triz-Speed+Mechanical_vibration-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.internal|Triz-Speed+Mechanical_vibration-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.protect|Triz-Speed+Mechanical_vibration-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.private|Triz-Speed+Mechanical_vibration-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.personal|Triz-Speed+Mechanical_vibration-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.secret|Triz-Speed+Mechanical_vibration-Automation.secret]] 

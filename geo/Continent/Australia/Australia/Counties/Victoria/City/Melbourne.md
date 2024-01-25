@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Australia/Australia/City/Melbourne.md|Melbourne]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Melbourne.internal.md|Melbourne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Melbourne.protect.md|Melbourne.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Melbourne.private.md|Melbourne.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Melbourne.personal.md|Melbourne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Melbourne.secret.md|Melbourne.secret]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Melbourne.internal|Melbourne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Melbourne.protect|Melbourne.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Melbourne.private|Melbourne.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Melbourne.personal|Melbourne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Melbourne.secret|Melbourne.secret]] 

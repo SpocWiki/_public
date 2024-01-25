@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Marcellin.md|St.Marcellin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Marcellin.internal.md|St.Marcellin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Marcellin.protect.md|St.Marcellin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Marcellin.private.md|St.Marcellin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Marcellin.personal.md|St.Marcellin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Marcellin.secret.md|St.Marcellin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Marcellin.internal|St.Marcellin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Marcellin.protect|St.Marcellin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Marcellin.private|St.Marcellin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Marcellin.personal|St.Marcellin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Marcellin.secret|St.Marcellin.secret]] 

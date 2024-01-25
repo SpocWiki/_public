@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vajangu.md|Vajangu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vajangu.internal.md|Vajangu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vajangu.protect.md|Vajangu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vajangu.private.md|Vajangu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vajangu.personal.md|Vajangu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vajangu.secret.md|Vajangu.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vajangu.internal|Vajangu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vajangu.protect|Vajangu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vajangu.private|Vajangu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vajangu.personal|Vajangu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vajangu.secret|Vajangu.secret]] 

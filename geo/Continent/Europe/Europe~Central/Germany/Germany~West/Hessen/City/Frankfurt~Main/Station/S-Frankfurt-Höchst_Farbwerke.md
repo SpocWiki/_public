@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Frankfurt-Höchst_Farbwerke|S-Frankfurt-Höchst_Farbwerke]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.internal.md|S-Frankfurt-Höchst_Farbwerke.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.protect.md|S-Frankfurt-Höchst_Farbwerke.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.private.md|S-Frankfurt-Höchst_Farbwerke.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.personal.md|S-Frankfurt-Höchst_Farbwerke.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.secret.md|S-Frankfurt-Höchst_Farbwerke.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.internal|S-Frankfurt-Höchst_Farbwerke.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.protect|S-Frankfurt-Höchst_Farbwerke.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.private|S-Frankfurt-Höchst_Farbwerke.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.personal|S-Frankfurt-Höchst_Farbwerke.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.secret|S-Frankfurt-Höchst_Farbwerke.secret]] 

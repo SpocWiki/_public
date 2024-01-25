@@ -41,9 +41,9 @@ markerFolder: ./Viroviticko-Podravska/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.md|Viroviticko-Podravska]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.internal.md|Viroviticko-Podravska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.protect.md|Viroviticko-Podravska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.private.md|Viroviticko-Podravska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.personal.md|Viroviticko-Podravska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.secret.md|Viroviticko-Podravska.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.internal|Viroviticko-Podravska.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.protect|Viroviticko-Podravska.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.private|Viroviticko-Podravska.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.personal|Viroviticko-Podravska.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia/Counties/Viroviticko-Podravska.secret|Viroviticko-Podravska.secret]] 
 

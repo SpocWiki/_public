@@ -134,8 +134,8 @@ markerFolder: ./Latvia//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia.md|Latvia]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia.internal.md|Latvia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia.protect.md|Latvia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia.private.md|Latvia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia.personal.md|Latvia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia.secret.md|Latvia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia.internal|Latvia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia.protect|Latvia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia.private|Latvia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia.personal|Latvia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia.secret|Latvia.secret]] 

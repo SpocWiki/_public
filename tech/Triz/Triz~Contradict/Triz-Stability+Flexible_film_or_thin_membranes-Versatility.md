@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Flexible_film_or_thin_membranes-Versatility]
 [SpocWebEntityId::23928]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.md|Triz-Stability+Flexible_film_or_thin_membranes-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.internal.md|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.protect.md|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.private.md|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.personal.md|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.secret.md|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.internal|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.protect|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.private|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.personal|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.secret|Triz-Stability+Flexible_film_or_thin_membranes-Versatility.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Södermanland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Södermanland.md|Södermanland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Södermanland.internal.md|Södermanland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Södermanland.protect.md|Södermanland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Södermanland.private.md|Södermanland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Södermanland.personal.md|Södermanland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Södermanland.secret.md|Södermanland.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Södermanland.internal|Södermanland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Södermanland.protect|Södermanland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Södermanland.private|Södermanland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Södermanland.personal|Södermanland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Södermanland.secret|Södermanland.secret]] 
 

@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Counterweight.md|Triz-Counterweight]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Counterweight.internal.md|Triz-Counterweight.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Counterweight.protect.md|Triz-Counterweight.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Counterweight.private.md|Triz-Counterweight.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Counterweight.personal.md|Triz-Counterweight.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Counterweight.secret.md|Triz-Counterweight.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Counterweight.internal|Triz-Counterweight.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Counterweight.protect|Triz-Counterweight.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Counterweight.private|Triz-Counterweight.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Counterweight.personal|Triz-Counterweight.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Counterweight.secret|Triz-Counterweight.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kowahlen.md|Kowahlen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kowahlen.internal.md|Kowahlen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kowahlen.protect.md|Kowahlen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kowahlen.private.md|Kowahlen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kowahlen.personal.md|Kowahlen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kowahlen.secret.md|Kowahlen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kowahlen.internal|Kowahlen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kowahlen.protect|Kowahlen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kowahlen.private|Kowahlen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kowahlen.personal|Kowahlen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kowahlen.secret|Kowahlen.secret]] 

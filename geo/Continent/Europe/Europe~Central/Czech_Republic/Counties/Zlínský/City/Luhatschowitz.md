@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.md|Luhatschowitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.internal.md|Luhatschowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.protect.md|Luhatschowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.private.md|Luhatschowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.personal.md|Luhatschowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.secret.md|Luhatschowitz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.internal|Luhatschowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.protect|Luhatschowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.private|Luhatschowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.personal|Luhatschowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.secret|Luhatschowitz.secret]] 

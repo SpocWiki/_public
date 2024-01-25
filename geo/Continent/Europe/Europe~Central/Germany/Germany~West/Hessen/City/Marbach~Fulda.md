@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Marbach~Fulda|Marbach~Fulda]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.internal.md|Marbach~Fulda.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.protect.md|Marbach~Fulda.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.private.md|Marbach~Fulda.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.personal.md|Marbach~Fulda.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.secret.md|Marbach~Fulda.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.internal|Marbach~Fulda.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.protect|Marbach~Fulda.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.private|Marbach~Fulda.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.personal|Marbach~Fulda.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.secret|Marbach~Fulda.secret]] 

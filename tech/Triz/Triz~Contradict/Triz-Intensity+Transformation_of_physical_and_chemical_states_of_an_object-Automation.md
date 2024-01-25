@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation]
 [SpocWebEntityId::23597]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret.md|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret|Triz-Intensity+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret]] 

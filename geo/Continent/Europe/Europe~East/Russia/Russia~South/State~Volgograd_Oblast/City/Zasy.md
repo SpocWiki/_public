@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zasy.md|Zasy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zasy.internal.md|Zasy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zasy.protect.md|Zasy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zasy.private.md|Zasy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zasy.personal.md|Zasy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zasy.secret.md|Zasy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zasy.internal|Zasy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zasy.protect|Zasy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zasy.private|Zasy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zasy.personal|Zasy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zasy.secret|Zasy.secret]] 

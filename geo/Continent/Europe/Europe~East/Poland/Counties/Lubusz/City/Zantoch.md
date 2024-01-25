@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zantoch.md|Zantoch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zantoch.internal.md|Zantoch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zantoch.protect.md|Zantoch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zantoch.private.md|Zantoch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zantoch.personal.md|Zantoch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zantoch.secret.md|Zantoch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zantoch.internal|Zantoch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zantoch.protect|Zantoch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zantoch.private|Zantoch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zantoch.personal|Zantoch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zantoch.secret|Zantoch.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Surrey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.md|Surrey]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.internal.md|Surrey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.protect.md|Surrey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.private.md|Surrey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.personal.md|Surrey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.secret.md|Surrey.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.internal|Surrey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.protect|Surrey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.private|Surrey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.personal|Surrey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.secret|Surrey.secret]] 
 

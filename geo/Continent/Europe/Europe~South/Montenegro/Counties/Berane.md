@@ -41,9 +41,9 @@ markerFolder: ./Berane/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Berane.md|Berane]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Berane.internal.md|Berane.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Berane.protect.md|Berane.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Berane.private.md|Berane.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Berane.personal.md|Berane.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Berane.secret.md|Berane.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Berane.internal|Berane.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Berane.protect|Berane.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Berane.private|Berane.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Berane.personal|Berane.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Berane.secret|Berane.secret]] 
 

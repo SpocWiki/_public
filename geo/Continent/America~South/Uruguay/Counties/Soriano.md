@@ -41,9 +41,9 @@ markerFolder: ./Soriano/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Soriano.md|Soriano]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Soriano.internal.md|Soriano.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Soriano.protect.md|Soriano.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Soriano.private.md|Soriano.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Soriano.personal.md|Soriano.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Soriano.secret.md|Soriano.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Soriano.internal|Soriano.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Soriano.protect|Soriano.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Soriano.private|Soriano.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Soriano.personal|Soriano.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Soriano.secret|Soriano.secret]] 
 

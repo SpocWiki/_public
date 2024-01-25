@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Periodic_action-moving_Duration]
 [SpocWebEntityId::24377]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Periodic_action]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.md|Triz-Illumination+Periodic_action-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.internal.md|Triz-Illumination+Periodic_action-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.protect.md|Triz-Illumination+Periodic_action-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.private.md|Triz-Illumination+Periodic_action-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.personal.md|Triz-Illumination+Periodic_action-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.secret.md|Triz-Illumination+Periodic_action-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.internal|Triz-Illumination+Periodic_action-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.protect|Triz-Illumination+Periodic_action-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.private|Triz-Illumination+Periodic_action-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.personal|Triz-Illumination+Periodic_action-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-moving_Duration.secret|Triz-Illumination+Periodic_action-moving_Duration.secret]] 

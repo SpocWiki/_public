@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Road_Town|Road_Town]]] 
-- [[../../../../../../_internal/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.internal.md|Road_Town.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.protect.md|Road_Town.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.private.md|Road_Town.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.personal.md|Road_Town.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.secret.md|Road_Town.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.internal|Road_Town.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.protect|Road_Town.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.private|Road_Town.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.personal|Road_Town.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.secret|Road_Town.secret]] 

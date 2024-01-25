@@ -41,9 +41,9 @@ markerFolder: ./Dornod/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.md|Dornod]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.internal.md|Dornod.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.protect.md|Dornod.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.private.md|Dornod.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.personal.md|Dornod.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.secret.md|Dornod.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.internal|Dornod.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.protect|Dornod.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.private|Dornod.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.personal|Dornod.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Dornod.secret|Dornod.secret]] 
 

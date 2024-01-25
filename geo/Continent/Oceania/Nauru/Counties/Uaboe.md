@@ -41,9 +41,9 @@ markerFolder: ./Uaboe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Uaboe.md|Uaboe]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Uaboe.internal.md|Uaboe.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Uaboe.protect.md|Uaboe.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Uaboe.private.md|Uaboe.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Uaboe.personal.md|Uaboe.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Uaboe.secret.md|Uaboe.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Uaboe.internal|Uaboe.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Uaboe.protect|Uaboe.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Uaboe.private|Uaboe.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Uaboe.personal|Uaboe.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Uaboe.secret|Uaboe.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Zou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Benin/Counties/Zou.md|Zou]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Zou.internal.md|Zou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Zou.protect.md|Zou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Zou.private.md|Zou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Zou.personal.md|Zou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Zou.secret.md|Zou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Zou.internal|Zou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Zou.protect|Zou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Zou.private|Zou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Zou.personal|Zou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Zou.secret|Zou.secret]] 
 

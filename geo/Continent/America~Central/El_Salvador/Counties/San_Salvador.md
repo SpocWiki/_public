@@ -41,9 +41,9 @@ markerFolder: ./San_Salvador/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.md|San_Salvador]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.internal.md|San_Salvador.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.protect.md|San_Salvador.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.private.md|San_Salvador.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.personal.md|San_Salvador.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.secret.md|San_Salvador.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.internal|San_Salvador.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.protect|San_Salvador.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.private|San_Salvador.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.personal|San_Salvador.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/San_Salvador.secret|San_Salvador.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Mediator-Substance-Loss]
 [SpocWebEntityId::24492]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::Substance-Loss]
+- [#has_/Cons :: Substance-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.md|Triz-moving_Energy+Mediator-Substance-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.internal.md|Triz-moving_Energy+Mediator-Substance-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.protect.md|Triz-moving_Energy+Mediator-Substance-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.private.md|Triz-moving_Energy+Mediator-Substance-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.personal.md|Triz-moving_Energy+Mediator-Substance-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.secret.md|Triz-moving_Energy+Mediator-Substance-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.internal|Triz-moving_Energy+Mediator-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.protect|Triz-moving_Energy+Mediator-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.private|Triz-moving_Energy+Mediator-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.personal|Triz-moving_Energy+Mediator-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Substance-Loss.secret|Triz-moving_Energy+Mediator-Substance-Loss.secret]] 

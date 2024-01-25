@@ -41,9 +41,9 @@ markerFolder: ./Spratly_Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Spratly_Islands.md|Spratly_Islands]] 
-- [[../../../../_internal/geo/Continent/Oceania/Spratly_Islands.internal.md|Spratly_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Spratly_Islands.protect.md|Spratly_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Spratly_Islands.private.md|Spratly_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Spratly_Islands.personal.md|Spratly_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Spratly_Islands.secret.md|Spratly_Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Spratly_Islands.internal|Spratly_Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Spratly_Islands.protect|Spratly_Islands.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Spratly_Islands.private|Spratly_Islands.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Spratly_Islands.personal|Spratly_Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Spratly_Islands.secret|Spratly_Islands.secret]] 
 

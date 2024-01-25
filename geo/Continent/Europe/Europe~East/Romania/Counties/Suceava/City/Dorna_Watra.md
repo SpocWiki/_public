@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Dorna_Watra.md|Dorna_Watra]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Dorna_Watra.internal.md|Dorna_Watra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Dorna_Watra.protect.md|Dorna_Watra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Dorna_Watra.private.md|Dorna_Watra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Dorna_Watra.personal.md|Dorna_Watra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Dorna_Watra.secret.md|Dorna_Watra.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Dorna_Watra.internal|Dorna_Watra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Dorna_Watra.protect|Dorna_Watra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Dorna_Watra.private|Dorna_Watra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Dorna_Watra.personal|Dorna_Watra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Dorna_Watra.secret|Dorna_Watra.secret]] 

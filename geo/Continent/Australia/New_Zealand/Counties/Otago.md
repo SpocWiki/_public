@@ -41,9 +41,9 @@ markerFolder: ./Otago/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Otago.md|Otago]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Otago.internal.md|Otago.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Otago.protect.md|Otago.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Otago.private.md|Otago.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Otago.personal.md|Otago.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Otago.secret.md|Otago.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Otago.internal|Otago.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Otago.protect|Otago.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Otago.private|Otago.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Otago.personal|Otago.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Otago.secret|Otago.secret]] 
 

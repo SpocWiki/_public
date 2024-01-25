@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Albania/City/Zgozda.md|Zgozda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Zgozda.internal.md|Zgozda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Zgozda.protect.md|Zgozda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Zgozda.private.md|Zgozda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Zgozda.personal.md|Zgozda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Zgozda.secret.md|Zgozda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Zgozda.internal|Zgozda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Zgozda.protect|Zgozda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Zgozda.private|Zgozda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Zgozda.personal|Zgozda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Zgozda.secret|Zgozda.secret]] 

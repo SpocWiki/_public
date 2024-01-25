@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.md|Weisskirchen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.internal.md|Weisskirchen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.protect.md|Weisskirchen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.private.md|Weisskirchen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.personal.md|Weisskirchen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.secret.md|Weisskirchen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.internal|Weisskirchen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.protect|Weisskirchen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.private|Weisskirchen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.personal|Weisskirchen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.secret|Weisskirchen.secret]] 

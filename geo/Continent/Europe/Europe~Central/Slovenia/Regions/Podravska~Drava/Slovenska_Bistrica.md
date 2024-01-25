@@ -41,9 +41,9 @@ markerFolder: ./Slovenska_Bistrica/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.md|Slovenska_Bistrica]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.internal.md|Slovenska_Bistrica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.protect.md|Slovenska_Bistrica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.private.md|Slovenska_Bistrica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.personal.md|Slovenska_Bistrica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.secret.md|Slovenska_Bistrica.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.internal|Slovenska_Bistrica.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.protect|Slovenska_Bistrica.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.private|Slovenska_Bistrica.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.personal|Slovenska_Bistrica.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Podravska~Drava/Slovenska_Bistrica.secret|Slovenska_Bistrica.secret]] 
 

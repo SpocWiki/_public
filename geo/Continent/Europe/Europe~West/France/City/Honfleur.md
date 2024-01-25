@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Honfleur.md|Honfleur]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Honfleur.internal.md|Honfleur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Honfleur.protect.md|Honfleur.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Honfleur.private.md|Honfleur.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Honfleur.personal.md|Honfleur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Honfleur.secret.md|Honfleur.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Honfleur.internal|Honfleur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Honfleur.protect|Honfleur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Honfleur.private|Honfleur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Honfleur.personal|Honfleur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Honfleur.secret|Honfleur.secret]] 

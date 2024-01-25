@@ -41,9 +41,9 @@ markerFolder: ./Saint_Michael/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.md|Saint_Michael]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.internal.md|Saint_Michael.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.protect.md|Saint_Michael.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.private.md|Saint_Michael.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.personal.md|Saint_Michael.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.secret.md|Saint_Michael.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.internal|Saint_Michael.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.protect|Saint_Michael.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.private|Saint_Michael.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.personal|Saint_Michael.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Michael.secret|Saint_Michael.secret]] 
 

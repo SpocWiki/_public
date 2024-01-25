@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Orionis-9.md|Orionis-9]] 
-- [[../../../_internal/astro/Star/Orionis-9.internal.md|Orionis-9.internal]] 
-- [[../../../_protect/astro/Star/Orionis-9.protect.md|Orionis-9.protect]] 
-- [[../../../_private/astro/Star/Orionis-9.private.md|Orionis-9.private]] 
-- [[../../../_personal/astro/Star/Orionis-9.personal.md|Orionis-9.personal]] 
-- [[../../../_secret/astro/Star/Orionis-9.secret.md|Orionis-9.secret]] 
+- [[../../../_internal/astro/Star/Orionis-9.internal|Orionis-9.internal]] 
+- [[../../../_protect/astro/Star/Orionis-9.protect|Orionis-9.protect]] 
+- [[../../../_private/astro/Star/Orionis-9.private|Orionis-9.private]] 
+- [[../../../_personal/astro/Star/Orionis-9.personal|Orionis-9.personal]] 
+- [[../../../_secret/astro/Star/Orionis-9.secret|Orionis-9.secret]] 

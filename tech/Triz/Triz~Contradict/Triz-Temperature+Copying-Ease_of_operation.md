@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Copying-Ease_of_operation]
 [SpocWebEntityId::24326]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.md|Triz-Temperature+Copying-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.internal.md|Triz-Temperature+Copying-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.protect.md|Triz-Temperature+Copying-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.private.md|Triz-Temperature+Copying-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.personal.md|Triz-Temperature+Copying-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.secret.md|Triz-Temperature+Copying-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.internal|Triz-Temperature+Copying-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.protect|Triz-Temperature+Copying-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.private|Triz-Temperature+Copying-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.personal|Triz-Temperature+Copying-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Copying-Ease_of_operation.secret|Triz-Temperature+Copying-Ease_of_operation.secret]] 

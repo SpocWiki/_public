@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Brecon.md|Brecon]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Brecon.internal.md|Brecon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Brecon.protect.md|Brecon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Brecon.private.md|Brecon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Brecon.personal.md|Brecon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Brecon.secret.md|Brecon.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Brecon.internal|Brecon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Brecon.protect|Brecon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Brecon.private|Brecon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Brecon.personal|Brecon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Brecon.secret|Brecon.secret]] 

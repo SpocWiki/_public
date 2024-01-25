@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Denebola.md|Denebola]] 
-- [[../../../_internal/astro/Star/Denebola.internal.md|Denebola.internal]] 
-- [[../../../_protect/astro/Star/Denebola.protect.md|Denebola.protect]] 
-- [[../../../_private/astro/Star/Denebola.private.md|Denebola.private]] 
-- [[../../../_personal/astro/Star/Denebola.personal.md|Denebola.personal]] 
-- [[../../../_secret/astro/Star/Denebola.secret.md|Denebola.secret]]
+- [[../../../_internal/astro/Star/Denebola.internal|Denebola.internal]] 
+- [[../../../_protect/astro/Star/Denebola.protect|Denebola.protect]] 
+- [[../../../_private/astro/Star/Denebola.private|Denebola.private]] 
+- [[../../../_personal/astro/Star/Denebola.personal|Denebola.personal]] 
+- [[../../../_secret/astro/Star/Denebola.secret|Denebola.secret]]
 

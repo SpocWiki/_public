@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Weight+Replacement_of_a_mechanical_system-Reliability]
 [SpocWebEntityId::22766]
-+ [pro::[[Triz-stationary_Weight]]]
++ [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.internal.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.protect.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.private.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.personal.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.secret.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.internal|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.protect|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.private|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.personal|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.secret|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Reliability.secret]] 

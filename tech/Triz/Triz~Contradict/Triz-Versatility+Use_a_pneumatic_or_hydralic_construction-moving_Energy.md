@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy]
 [SpocWebEntityId::26238]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
-- [con::[[Triz-moving_Energy]]]
+- [#has_/Cons :: [[Triz-moving_Energy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.md|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.internal.md|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.protect.md|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.private.md|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.personal.md|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.secret.md|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.internal|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.protect|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.private|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.personal|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.secret|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Energy.secret]] 

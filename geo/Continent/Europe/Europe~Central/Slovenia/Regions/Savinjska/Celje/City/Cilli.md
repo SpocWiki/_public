@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Cilli.md|Cilli]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cilli.internal.md|Cilli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cilli.protect.md|Cilli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cilli.private.md|Cilli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cilli.personal.md|Cilli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cilli.secret.md|Cilli.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cilli.internal|Cilli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cilli.protect|Cilli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cilli.private|Cilli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cilli.personal|Cilli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cilli.secret|Cilli.secret]] 

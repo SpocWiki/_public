@@ -41,9 +41,9 @@ markerFolder: ./Thaa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.md|Thaa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.internal.md|Thaa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.protect.md|Thaa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.private.md|Thaa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.personal.md|Thaa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.secret.md|Thaa.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.internal|Thaa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.protect|Thaa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.private|Thaa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.personal|Thaa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Thaa.secret|Thaa.secret]] 
 

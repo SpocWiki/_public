@@ -41,9 +41,9 @@ markerFolder: ./Nugaal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Nugaal.md|Nugaal]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Nugaal.internal.md|Nugaal.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Nugaal.protect.md|Nugaal.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Nugaal.private.md|Nugaal.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Nugaal.personal.md|Nugaal.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Nugaal.secret.md|Nugaal.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Nugaal.internal|Nugaal.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Nugaal.protect|Nugaal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Nugaal.private|Nugaal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Nugaal.personal|Nugaal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Nugaal.secret|Nugaal.secret]] 
 

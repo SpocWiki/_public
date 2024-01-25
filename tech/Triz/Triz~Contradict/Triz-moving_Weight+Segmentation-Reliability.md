@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Weight+Segmentation-Reliability]
 [SpocWebEntityId::22644]
-+ [pro::[[Triz-moving_Weight]]]
++ [#has_/Pros :: [[Triz-moving_Weight]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.md|Triz-moving_Weight+Segmentation-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.internal.md|Triz-moving_Weight+Segmentation-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.protect.md|Triz-moving_Weight+Segmentation-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.private.md|Triz-moving_Weight+Segmentation-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.personal.md|Triz-moving_Weight+Segmentation-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.secret.md|Triz-moving_Weight+Segmentation-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.internal|Triz-moving_Weight+Segmentation-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.protect|Triz-moving_Weight+Segmentation-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.private|Triz-moving_Weight+Segmentation-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.personal|Triz-moving_Weight+Segmentation-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Reliability.secret|Triz-moving_Weight+Segmentation-Reliability.secret]] 

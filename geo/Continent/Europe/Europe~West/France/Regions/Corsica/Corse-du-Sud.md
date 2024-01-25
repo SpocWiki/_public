@@ -41,9 +41,9 @@ markerFolder: ./Corse-du-Sud/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.md|Corse-du-Sud]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.internal.md|Corse-du-Sud.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.protect.md|Corse-du-Sud.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.private.md|Corse-du-Sud.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.personal.md|Corse-du-Sud.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.secret.md|Corse-du-Sud.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.internal|Corse-du-Sud.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.protect|Corse-du-Sud.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.private|Corse-du-Sud.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.personal|Corse-du-Sud.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Corsica/Corse-du-Sud.secret|Corse-du-Sud.secret]] 
 

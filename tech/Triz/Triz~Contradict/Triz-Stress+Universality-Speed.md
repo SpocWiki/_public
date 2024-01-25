@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stress+Universality-Speed]
 [SpocWebEntityId::23630]
-+ [pro::[[Triz-Stress]]]
++ [#has_/Pros :: [[Triz-Stress]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-Speed]]]
+- [#has_/Cons :: [[Triz-Speed]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Universality-Speed.md|Triz-Stress+Universality-Speed]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Universality-Speed.internal.md|Triz-Stress+Universality-Speed.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Universality-Speed.protect.md|Triz-Stress+Universality-Speed.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Universality-Speed.private.md|Triz-Stress+Universality-Speed.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Universality-Speed.personal.md|Triz-Stress+Universality-Speed.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Universality-Speed.secret.md|Triz-Stress+Universality-Speed.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Universality-Speed.internal|Triz-Stress+Universality-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Universality-Speed.protect|Triz-Stress+Universality-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Universality-Speed.private|Triz-Stress+Universality-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Universality-Speed.personal|Triz-Stress+Universality-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Universality-Speed.secret|Triz-Stress+Universality-Speed.secret]] 

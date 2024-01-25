@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Nevers.md|Nevers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nevers.internal.md|Nevers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nevers.protect.md|Nevers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Nevers.private.md|Nevers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nevers.personal.md|Nevers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nevers.secret.md|Nevers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nevers.internal|Nevers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nevers.protect|Nevers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nevers.private|Nevers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nevers.personal|Nevers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nevers.secret|Nevers.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Manisa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Manisa.md|Manisa]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Manisa.internal.md|Manisa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Manisa.protect.md|Manisa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Manisa.private.md|Manisa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Manisa.personal.md|Manisa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Manisa.secret.md|Manisa.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Manisa.internal|Manisa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Manisa.protect|Manisa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Manisa.private|Manisa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Manisa.personal|Manisa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Manisa.secret|Manisa.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Replacement_of_a_mechanical_system-Complexity]
 [SpocWebEntityId::24917]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.internal.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.protect.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.private.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.personal.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.secret.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.internal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.protect|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.private|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.personal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.secret|Triz-Substance-Loss+Replacement_of_a_mechanical_system-Complexity.secret]] 

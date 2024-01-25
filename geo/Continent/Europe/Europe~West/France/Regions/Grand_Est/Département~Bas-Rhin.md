@@ -41,9 +41,9 @@ markerFolder: ./Département~Bas-Rhin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.md|Département~Bas-Rhin]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.internal.md|Département~Bas-Rhin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.protect.md|Département~Bas-Rhin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.private.md|Département~Bas-Rhin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.personal.md|Département~Bas-Rhin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.secret.md|Département~Bas-Rhin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.internal|Département~Bas-Rhin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.protect|Département~Bas-Rhin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.private|Département~Bas-Rhin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.personal|Département~Bas-Rhin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Grand_Est/Département~Bas-Rhin.secret|Département~Bas-Rhin.secret]] 
 

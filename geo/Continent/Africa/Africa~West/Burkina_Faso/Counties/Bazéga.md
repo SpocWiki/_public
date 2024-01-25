@@ -41,9 +41,9 @@ markerFolder: ./Bazéga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.md|Bazéga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.internal.md|Bazéga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.protect.md|Bazéga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.private.md|Bazéga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.personal.md|Bazéga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.secret.md|Bazéga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.internal|Bazéga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.protect|Bazéga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.private|Bazéga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.personal|Bazéga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.secret|Bazéga.secret]] 
 

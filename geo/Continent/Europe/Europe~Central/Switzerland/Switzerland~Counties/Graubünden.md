@@ -41,9 +41,9 @@ markerFolder: ./Graubünden/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.md|Graubünden]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.internal.md|Graubünden.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.protect.md|Graubünden.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.private.md|Graubünden.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.personal.md|Graubünden.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.secret.md|Graubünden.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.internal|Graubünden.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.protect|Graubünden.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.private|Graubünden.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.personal|Graubünden.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Graubünden.secret|Graubünden.secret]] 
 

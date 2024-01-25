@@ -41,9 +41,9 @@ markerFolder: ./Cluj/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Romania/Counties/Cluj.md|Cluj]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Cluj.internal.md|Cluj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Cluj.protect.md|Cluj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Cluj.private.md|Cluj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Cluj.personal.md|Cluj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Cluj.secret.md|Cluj.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Cluj.internal|Cluj.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Cluj.protect|Cluj.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Cluj.private|Cluj.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Cluj.personal|Cluj.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Cluj.secret|Cluj.secret]] 
 

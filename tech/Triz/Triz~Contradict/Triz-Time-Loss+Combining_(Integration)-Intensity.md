@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Combining_(Integration)-Intensity]
 [SpocWebEntityId::25013]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle:[[Triz-Combining(Integration)]]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.md|Triz-Time-Loss+Combining_(Integration)-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.internal.md|Triz-Time-Loss+Combining_(Integration)-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.protect.md|Triz-Time-Loss+Combining_(Integration)-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.private.md|Triz-Time-Loss+Combining_(Integration)-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.personal.md|Triz-Time-Loss+Combining_(Integration)-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.secret.md|Triz-Time-Loss+Combining_(Integration)-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.internal|Triz-Time-Loss+Combining_(Integration)-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.protect|Triz-Time-Loss+Combining_(Integration)-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.private|Triz-Time-Loss+Combining_(Integration)-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.personal|Triz-Time-Loss+Combining_(Integration)-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.secret|Triz-Time-Loss+Combining_(Integration)-Intensity.secret]] 

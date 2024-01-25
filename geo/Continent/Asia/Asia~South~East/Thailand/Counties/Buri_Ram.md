@@ -41,9 +41,9 @@ markerFolder: ./Buri_Ram/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.md|Buri_Ram]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.internal.md|Buri_Ram.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.protect.md|Buri_Ram.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.private.md|Buri_Ram.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.personal.md|Buri_Ram.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.secret.md|Buri_Ram.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.internal|Buri_Ram.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.protect|Buri_Ram.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.private|Buri_Ram.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.personal|Buri_Ram.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Buri_Ram.secret|Buri_Ram.secret]] 
 

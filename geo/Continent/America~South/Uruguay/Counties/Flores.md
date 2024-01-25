@@ -41,9 +41,9 @@ markerFolder: ./Flores/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Flores.md|Flores]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Flores.internal.md|Flores.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Flores.protect.md|Flores.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Flores.private.md|Flores.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Flores.personal.md|Flores.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Flores.secret.md|Flores.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Flores.internal|Flores.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Flores.protect|Flores.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Flores.private|Flores.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Flores.personal|Flores.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Flores.secret|Flores.secret]] 
 

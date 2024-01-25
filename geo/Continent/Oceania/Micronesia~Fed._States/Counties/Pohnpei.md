@@ -41,9 +41,9 @@ markerFolder: ./Pohnpei/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.md|Pohnpei]] 
-- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.internal.md|Pohnpei.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.protect.md|Pohnpei.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.private.md|Pohnpei.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.personal.md|Pohnpei.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.secret.md|Pohnpei.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.internal|Pohnpei.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.protect|Pohnpei.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.private|Pohnpei.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.personal|Pohnpei.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Pohnpei.secret|Pohnpei.secret]] 
 

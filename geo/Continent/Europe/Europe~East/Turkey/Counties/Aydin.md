@@ -41,9 +41,9 @@ markerFolder: ./Aydin/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Aydin.md|Aydin]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Aydin.internal.md|Aydin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Aydin.protect.md|Aydin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Aydin.private.md|Aydin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Aydin.personal.md|Aydin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Aydin.secret.md|Aydin.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Aydin.internal|Aydin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Aydin.protect|Aydin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Aydin.private|Aydin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Aydin.personal|Aydin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Aydin.secret|Aydin.secret]] 
 

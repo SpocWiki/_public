@@ -41,9 +41,9 @@ markerFolder: ./Noumbiel/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.md|Noumbiel]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.internal.md|Noumbiel.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.protect.md|Noumbiel.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.private.md|Noumbiel.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.personal.md|Noumbiel.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.secret.md|Noumbiel.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.internal|Noumbiel.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.protect|Noumbiel.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.private|Noumbiel.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.personal|Noumbiel.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.secret|Noumbiel.secret]] 
 

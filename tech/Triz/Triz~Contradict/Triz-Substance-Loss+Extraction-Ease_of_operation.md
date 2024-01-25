@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Extraction-Ease_of_operation]
 [SpocWebEntityId::24906]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Ease_of_operation]]]
+- [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.md|Triz-Substance-Loss+Extraction-Ease_of_operation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.internal.md|Triz-Substance-Loss+Extraction-Ease_of_operation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.protect.md|Triz-Substance-Loss+Extraction-Ease_of_operation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.private.md|Triz-Substance-Loss+Extraction-Ease_of_operation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.personal.md|Triz-Substance-Loss+Extraction-Ease_of_operation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.secret.md|Triz-Substance-Loss+Extraction-Ease_of_operation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.internal|Triz-Substance-Loss+Extraction-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.protect|Triz-Substance-Loss+Extraction-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.private|Triz-Substance-Loss+Extraction-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.personal|Triz-Substance-Loss+Extraction-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.secret|Triz-Substance-Loss+Extraction-Ease_of_operation.secret]] 

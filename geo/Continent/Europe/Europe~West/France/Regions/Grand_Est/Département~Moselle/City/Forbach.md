@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Forbach.md|Forbach]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Forbach.internal.md|Forbach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Forbach.protect.md|Forbach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Forbach.private.md|Forbach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Forbach.personal.md|Forbach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Forbach.secret.md|Forbach.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Forbach.internal|Forbach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Forbach.protect|Forbach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Forbach.private|Forbach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Forbach.personal|Forbach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Forbach.secret|Forbach.secret]] 

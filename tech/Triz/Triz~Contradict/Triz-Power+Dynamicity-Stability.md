@@ -12,16 +12,16 @@ tags:
 ---
 [name::Power+Dynamicity-Stability]
 [SpocWebEntityId::24621]
-+ [pro::[[Triz-Power]]]
++ [#has_/Pros :: [[Triz-Power]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.md|Triz-Power+Dynamicity-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.internal.md|Triz-Power+Dynamicity-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.protect.md|Triz-Power+Dynamicity-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.private.md|Triz-Power+Dynamicity-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.personal.md|Triz-Power+Dynamicity-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.secret.md|Triz-Power+Dynamicity-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.internal|Triz-Power+Dynamicity-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.protect|Triz-Power+Dynamicity-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.private|Triz-Power+Dynamicity-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.personal|Triz-Power+Dynamicity-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.secret|Triz-Power+Dynamicity-Stability.secret]] 

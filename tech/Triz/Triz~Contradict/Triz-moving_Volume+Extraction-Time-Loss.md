@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Extraction-Time-Loss]
 [SpocWebEntityId::23249]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.md|Triz-moving_Volume+Extraction-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.internal.md|Triz-moving_Volume+Extraction-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.protect.md|Triz-moving_Volume+Extraction-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.private.md|Triz-moving_Volume+Extraction-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.personal.md|Triz-moving_Volume+Extraction-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.secret.md|Triz-moving_Volume+Extraction-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.internal|Triz-moving_Volume+Extraction-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.protect|Triz-moving_Volume+Extraction-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.private|Triz-moving_Volume+Extraction-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.personal|Triz-moving_Volume+Extraction-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Time-Loss.secret|Triz-moving_Volume+Extraction-Time-Loss.secret]] 

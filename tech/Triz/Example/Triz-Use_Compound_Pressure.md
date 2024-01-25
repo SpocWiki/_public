@@ -18,8 +18,8 @@ A Soda Fountain Pump that runs on the Pressure of the Carbon Dioxide that is use
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Use_Compound_Pressure.md|Triz-Use_Compound_Pressure]] 
-- [[../../../../_internal/tech/Triz/Example/Triz-Use_Compound_Pressure.internal.md|Triz-Use_Compound_Pressure.internal]] 
-- [[../../../../_protect/tech/Triz/Example/Triz-Use_Compound_Pressure.protect.md|Triz-Use_Compound_Pressure.protect]] 
-- [[../../../../_private/tech/Triz/Example/Triz-Use_Compound_Pressure.private.md|Triz-Use_Compound_Pressure.private]] 
-- [[../../../../_personal/tech/Triz/Example/Triz-Use_Compound_Pressure.personal.md|Triz-Use_Compound_Pressure.personal]] 
-- [[../../../../_secret/tech/Triz/Example/Triz-Use_Compound_Pressure.secret.md|Triz-Use_Compound_Pressure.secret]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Use_Compound_Pressure.internal|Triz-Use_Compound_Pressure.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Use_Compound_Pressure.protect|Triz-Use_Compound_Pressure.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Use_Compound_Pressure.private|Triz-Use_Compound_Pressure.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Use_Compound_Pressure.personal|Triz-Use_Compound_Pressure.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Use_Compound_Pressure.secret|Triz-Use_Compound_Pressure.secret]] 

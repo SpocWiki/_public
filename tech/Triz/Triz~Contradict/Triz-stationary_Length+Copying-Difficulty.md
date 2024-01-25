@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Length+Copying-Difficulty]
 [SpocWebEntityId::22988]
-+ [pro::[[Triz-stationary_Length]]]
++ [#has_/Pros :: [[Triz-stationary_Length]]]
 [Triz-Principle::[[Triz-Copying]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.md|Triz-stationary_Length+Copying-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.internal.md|Triz-stationary_Length+Copying-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.protect.md|Triz-stationary_Length+Copying-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.private.md|Triz-stationary_Length+Copying-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.personal.md|Triz-stationary_Length+Copying-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.secret.md|Triz-stationary_Length+Copying-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.internal|Triz-stationary_Length+Copying-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.protect|Triz-stationary_Length+Copying-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.private|Triz-stationary_Length+Copying-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.personal|Triz-stationary_Length+Copying-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.secret|Triz-stationary_Length+Copying-Difficulty.secret]] 

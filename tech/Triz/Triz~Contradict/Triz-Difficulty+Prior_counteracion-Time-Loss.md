@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Prior_counteracion-Time-Loss]
 [SpocWebEntityId::26497]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Prior_counteracion]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.md|Triz-Difficulty+Prior_counteracion-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.internal.md|Triz-Difficulty+Prior_counteracion-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.protect.md|Triz-Difficulty+Prior_counteracion-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.private.md|Triz-Difficulty+Prior_counteracion-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.personal.md|Triz-Difficulty+Prior_counteracion-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.secret.md|Triz-Difficulty+Prior_counteracion-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.internal|Triz-Difficulty+Prior_counteracion-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.protect|Triz-Difficulty+Prior_counteracion-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.private|Triz-Difficulty+Prior_counteracion-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.personal|Triz-Difficulty+Prior_counteracion-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Prior_counteracion-Time-Loss.secret|Triz-Difficulty+Prior_counteracion-Time-Loss.secret]] 

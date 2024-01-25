@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Viken.md|Viken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Viken.internal.md|Viken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Viken.protect.md|Viken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Viken.private.md|Viken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Viken.personal.md|Viken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Viken.secret.md|Viken.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Viken.internal|Viken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Viken.protect|Viken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Viken.private|Viken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Viken.personal|Viken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Viken.secret|Viken.secret]] 

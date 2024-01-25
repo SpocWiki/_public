@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Thuban.md|Thuban]] 
-- [[../../../_internal/astro/Star/Thuban.internal.md|Thuban.internal]] 
-- [[../../../_protect/astro/Star/Thuban.protect.md|Thuban.protect]] 
-- [[../../../_private/astro/Star/Thuban.private.md|Thuban.private]] 
-- [[../../../_personal/astro/Star/Thuban.personal.md|Thuban.personal]] 
-- [[../../../_secret/astro/Star/Thuban.secret.md|Thuban.secret]] 
+- [[../../../_internal/astro/Star/Thuban.internal|Thuban.internal]] 
+- [[../../../_protect/astro/Star/Thuban.protect|Thuban.protect]] 
+- [[../../../_private/astro/Star/Thuban.private|Thuban.private]] 
+- [[../../../_personal/astro/Star/Thuban.personal|Thuban.personal]] 
+- [[../../../_secret/astro/Star/Thuban.secret|Thuban.secret]] 

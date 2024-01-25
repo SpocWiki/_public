@@ -41,9 +41,9 @@ markerFolder: ./Moxico/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Moxico.md|Moxico]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Moxico.internal.md|Moxico.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Moxico.protect.md|Moxico.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Moxico.private.md|Moxico.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Moxico.personal.md|Moxico.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Moxico.secret.md|Moxico.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Moxico.internal|Moxico.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Moxico.protect|Moxico.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Moxico.private|Moxico.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Moxico.personal|Moxico.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Moxico.secret|Moxico.secret]] 
 

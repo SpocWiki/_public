@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Japan/City/Yokohama.md|Yokohama]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Japan/City/Yokohama.internal.md|Yokohama.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Japan/City/Yokohama.protect.md|Yokohama.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Japan/City/Yokohama.private.md|Yokohama.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Japan/City/Yokohama.personal.md|Yokohama.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Japan/City/Yokohama.secret.md|Yokohama.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Japan/City/Yokohama.internal|Yokohama.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Japan/City/Yokohama.protect|Yokohama.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Japan/City/Yokohama.private|Yokohama.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Japan/City/Yokohama.personal|Yokohama.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Japan/City/Yokohama.secret|Yokohama.secret]] 

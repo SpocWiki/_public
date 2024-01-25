@@ -41,9 +41,9 @@ markerFolder: ./Glacis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Glacis.md|Glacis]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Glacis.internal.md|Glacis.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Glacis.protect.md|Glacis.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Glacis.private.md|Glacis.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Glacis.personal.md|Glacis.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Glacis.secret.md|Glacis.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Glacis.internal|Glacis.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Glacis.protect|Glacis.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Glacis.private|Glacis.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Glacis.personal|Glacis.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Glacis.secret|Glacis.secret]] 
 

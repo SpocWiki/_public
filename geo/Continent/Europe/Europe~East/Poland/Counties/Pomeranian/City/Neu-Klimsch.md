@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neu-Klimsch.md|Neu-Klimsch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neu-Klimsch.internal.md|Neu-Klimsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neu-Klimsch.protect.md|Neu-Klimsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neu-Klimsch.private.md|Neu-Klimsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neu-Klimsch.personal.md|Neu-Klimsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neu-Klimsch.secret.md|Neu-Klimsch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neu-Klimsch.internal|Neu-Klimsch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neu-Klimsch.protect|Neu-Klimsch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neu-Klimsch.private|Neu-Klimsch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neu-Klimsch.personal|Neu-Klimsch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neu-Klimsch.secret|Neu-Klimsch.secret]] 

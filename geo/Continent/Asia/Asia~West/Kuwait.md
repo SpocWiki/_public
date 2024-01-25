@@ -134,7 +134,7 @@ markerFolder: ./Kuwait/
 ## Confidential Links & Embeds: 
 -[[Kuwait|Kuwait]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Kuwait.internal|Kuwait.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Kuwait.protect.md|Kuwait.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Kuwait.private.md|Kuwait.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Kuwait.personal.md|Kuwait.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Kuwait.secret.md|Kuwait.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Kuwait.protect|Kuwait.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Kuwait.private|Kuwait.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Kuwait.personal|Kuwait.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Kuwait.secret|Kuwait.secret]] 

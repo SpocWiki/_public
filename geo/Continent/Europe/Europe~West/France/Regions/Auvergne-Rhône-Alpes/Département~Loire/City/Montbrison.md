@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Montbrison.md|Montbrison]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montbrison.internal.md|Montbrison.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montbrison.protect.md|Montbrison.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Montbrison.private.md|Montbrison.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montbrison.personal.md|Montbrison.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montbrison.secret.md|Montbrison.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montbrison.internal|Montbrison.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montbrison.protect|Montbrison.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montbrison.private|Montbrison.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montbrison.personal|Montbrison.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montbrison.secret|Montbrison.secret]] 

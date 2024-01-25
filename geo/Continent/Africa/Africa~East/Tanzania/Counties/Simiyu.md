@@ -41,9 +41,9 @@ markerFolder: ./Simiyu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Simiyu.md|Simiyu]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Simiyu.internal.md|Simiyu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Simiyu.protect.md|Simiyu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Simiyu.private.md|Simiyu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Simiyu.personal.md|Simiyu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Simiyu.secret.md|Simiyu.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Simiyu.internal|Simiyu.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Simiyu.protect|Simiyu.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Simiyu.private|Simiyu.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Simiyu.personal|Simiyu.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Simiyu.secret|Simiyu.secret]] 
 

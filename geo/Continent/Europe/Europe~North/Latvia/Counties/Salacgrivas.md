@@ -41,9 +41,9 @@ markerFolder: ./Salacgrivas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Salacgrivas.md|Salacgrivas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Salacgrivas.internal.md|Salacgrivas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Salacgrivas.protect.md|Salacgrivas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Salacgrivas.private.md|Salacgrivas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Salacgrivas.personal.md|Salacgrivas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Salacgrivas.secret.md|Salacgrivas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Salacgrivas.internal|Salacgrivas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Salacgrivas.protect|Salacgrivas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Salacgrivas.private|Salacgrivas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Salacgrivas.personal|Salacgrivas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Salacgrivas.secret|Salacgrivas.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Brocenu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Brocenu.md|Brocenu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Brocenu.internal.md|Brocenu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Brocenu.protect.md|Brocenu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Brocenu.private.md|Brocenu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Brocenu.personal.md|Brocenu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Brocenu.secret.md|Brocenu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Brocenu.internal|Brocenu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Brocenu.protect|Brocenu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Brocenu.private|Brocenu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Brocenu.personal|Brocenu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Brocenu.secret|Brocenu.secret]] 
 

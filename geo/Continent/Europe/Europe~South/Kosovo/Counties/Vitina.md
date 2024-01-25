@@ -41,9 +41,9 @@ markerFolder: ./Vitina/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Vitina.md|Vitina]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Vitina.internal.md|Vitina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Vitina.protect.md|Vitina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Vitina.private.md|Vitina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Vitina.personal.md|Vitina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Vitina.secret.md|Vitina.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Vitina.internal|Vitina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Vitina.protect|Vitina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Vitina.private|Vitina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Vitina.personal|Vitina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Vitina.secret|Vitina.secret]] 
 

@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Nizhny_Novgorod_Oblast|State~Nizhny_Novgorod_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.internal|State~Nizhny_Novgorod_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.protect.md|State~Nizhny_Novgorod_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.private.md|State~Nizhny_Novgorod_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.personal.md|State~Nizhny_Novgorod_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.secret.md|State~Nizhny_Novgorod_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.protect|State~Nizhny_Novgorod_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.private|State~Nizhny_Novgorod_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.personal|State~Nizhny_Novgorod_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Nizhny_Novgorod_Oblast.secret|State~Nizhny_Novgorod_Oblast.secret]] 

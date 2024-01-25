@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Altai_Krai|State~Altai_Krai]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Altai_Krai.internal|State~Altai_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Altai_Krai.protect.md|State~Altai_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Altai_Krai.private.md|State~Altai_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Altai_Krai.personal.md|State~Altai_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Altai_Krai.secret.md|State~Altai_Krai.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Altai_Krai.protect|State~Altai_Krai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Altai_Krai.private|State~Altai_Krai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Altai_Krai.personal|State~Altai_Krai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Altai_Krai.secret|State~Altai_Krai.secret]] 

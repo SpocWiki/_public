@@ -41,9 +41,9 @@ markerFolder: ./Janub_Sina'/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.md|Janub_Sina']] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.internal.md|Janub_Sina'.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.protect.md|Janub_Sina'.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.private.md|Janub_Sina'.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.personal.md|Janub_Sina'.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.secret.md|Janub_Sina'.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.internal|Janub_Sina'.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.protect|Janub_Sina'.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.private|Janub_Sina'.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.personal|Janub_Sina'.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.secret|Janub_Sina'.secret]] 
 

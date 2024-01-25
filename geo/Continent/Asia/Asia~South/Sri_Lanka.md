@@ -137,7 +137,7 @@ markerFolder: ./Sri_Lanka//
 ## Confidential Links & Embeds: 
 - [[Sri_Lanka|Sri_Lanka]] 
 - [[../../../../../_internal/geo/Continent/Asia/Sri_Lanka.internal|Sri_Lanka.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Sri_Lanka.protect.md|Sri_Lanka.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Sri_Lanka.private.md|Sri_Lanka.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Sri_Lanka.personal.md|Sri_Lanka.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Sri_Lanka.secret.md|Sri_Lanka.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Sri_Lanka.protect|Sri_Lanka.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Sri_Lanka.private|Sri_Lanka.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Sri_Lanka.personal|Sri_Lanka.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Sri_Lanka.secret|Sri_Lanka.secret]] 

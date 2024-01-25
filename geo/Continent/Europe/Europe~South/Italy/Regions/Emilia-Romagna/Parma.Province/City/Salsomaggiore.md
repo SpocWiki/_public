@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Salsomaggiore.md|Salsomaggiore]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Salsomaggiore.internal.md|Salsomaggiore.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Salsomaggiore.protect.md|Salsomaggiore.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Salsomaggiore.private.md|Salsomaggiore.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Salsomaggiore.personal.md|Salsomaggiore.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Salsomaggiore.secret.md|Salsomaggiore.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Salsomaggiore.internal|Salsomaggiore.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Salsomaggiore.protect|Salsomaggiore.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Salsomaggiore.private|Salsomaggiore.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Salsomaggiore.personal|Salsomaggiore.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Salsomaggiore.secret|Salsomaggiore.secret]] 

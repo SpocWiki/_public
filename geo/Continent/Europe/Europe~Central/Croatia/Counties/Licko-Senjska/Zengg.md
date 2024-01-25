@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Zengg.md|Zengg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Zengg.internal.md|Zengg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Zengg.protect.md|Zengg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Zengg.private.md|Zengg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Zengg.personal.md|Zengg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Zengg.secret.md|Zengg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Zengg.internal|Zengg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Zengg.protect|Zengg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Zengg.private|Zengg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Zengg.personal|Zengg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Zengg.secret|Zengg.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Daman_and_Diu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.md|Daman_and_Diu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.internal.md|Daman_and_Diu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.protect.md|Daman_and_Diu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.private.md|Daman_and_Diu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.personal.md|Daman_and_Diu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.secret.md|Daman_and_Diu.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.internal|Daman_and_Diu.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.protect|Daman_and_Diu.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.private|Daman_and_Diu.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.personal|Daman_and_Diu.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Daman_and_Diu.secret|Daman_and_Diu.secret]] 
 

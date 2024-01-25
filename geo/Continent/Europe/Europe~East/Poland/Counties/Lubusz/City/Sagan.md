@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sagan.md|Sagan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sagan.internal.md|Sagan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sagan.protect.md|Sagan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sagan.private.md|Sagan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sagan.personal.md|Sagan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sagan.secret.md|Sagan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sagan.internal|Sagan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sagan.protect|Sagan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sagan.private|Sagan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sagan.personal|Sagan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sagan.secret|Sagan.secret]] 

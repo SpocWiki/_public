@@ -41,9 +41,9 @@ markerFolder: ./Hhohho/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Swaziland/Counties/Hhohho.md|Hhohho]] 
-- [[../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Hhohho.internal.md|Hhohho.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Hhohho.protect.md|Hhohho.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Swaziland/Counties/Hhohho.private.md|Hhohho.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Hhohho.personal.md|Hhohho.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Hhohho.secret.md|Hhohho.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Hhohho.internal|Hhohho.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Hhohho.protect|Hhohho.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Swaziland/Counties/Hhohho.private|Hhohho.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Hhohho.personal|Hhohho.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Hhohho.secret|Hhohho.secret]] 
 

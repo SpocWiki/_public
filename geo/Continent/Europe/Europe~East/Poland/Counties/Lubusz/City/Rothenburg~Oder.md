@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rothenburg~Oder.md|Rothenburg~Oder]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rothenburg~Oder.internal.md|Rothenburg~Oder.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rothenburg~Oder.protect.md|Rothenburg~Oder.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rothenburg~Oder.private.md|Rothenburg~Oder.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rothenburg~Oder.personal.md|Rothenburg~Oder.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rothenburg~Oder.secret.md|Rothenburg~Oder.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rothenburg~Oder.internal|Rothenburg~Oder.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rothenburg~Oder.protect|Rothenburg~Oder.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rothenburg~Oder.private|Rothenburg~Oder.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rothenburg~Oder.personal|Rothenburg~Oder.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rothenburg~Oder.secret|Rothenburg~Oder.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Ohrid/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.md|Ohrid]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.internal.md|Ohrid.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.protect.md|Ohrid.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.private.md|Ohrid.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.personal.md|Ohrid.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.secret.md|Ohrid.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.internal|Ohrid.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.protect|Ohrid.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.private|Ohrid.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.personal|Ohrid.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.secret|Ohrid.secret]] 
 

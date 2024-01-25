@@ -41,9 +41,9 @@ markerFolder: ./Manafwa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Manafwa.md|Manafwa]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Manafwa.internal.md|Manafwa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Manafwa.protect.md|Manafwa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Manafwa.private.md|Manafwa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Manafwa.personal.md|Manafwa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Manafwa.secret.md|Manafwa.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Manafwa.internal|Manafwa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Manafwa.protect|Manafwa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Manafwa.private|Manafwa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Manafwa.personal|Manafwa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Manafwa.secret|Manafwa.secret]] 
 

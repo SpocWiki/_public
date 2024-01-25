@@ -41,9 +41,9 @@ markerFolder: ./Inhambane/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Inhambane.md|Inhambane]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Inhambane.internal.md|Inhambane.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Inhambane.protect.md|Inhambane.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Inhambane.private.md|Inhambane.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Inhambane.personal.md|Inhambane.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Inhambane.secret.md|Inhambane.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Inhambane.internal|Inhambane.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Inhambane.protect|Inhambane.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Inhambane.private|Inhambane.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Inhambane.personal|Inhambane.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Inhambane.secret|Inhambane.secret]] 
 

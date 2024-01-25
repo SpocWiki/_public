@@ -41,9 +41,9 @@ markerFolder: ./Cuenca/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.md|Cuenca]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.internal.md|Cuenca.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.protect.md|Cuenca.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.private.md|Cuenca.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.personal.md|Cuenca.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.secret.md|Cuenca.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.internal|Cuenca.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.protect|Cuenca.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.private|Cuenca.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.personal|Cuenca.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Castilla-La_Mancha/Cuenca.secret|Cuenca.secret]] 
 

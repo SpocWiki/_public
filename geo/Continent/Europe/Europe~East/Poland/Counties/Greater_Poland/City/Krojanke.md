@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Krojanke.md|Krojanke]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krojanke.internal.md|Krojanke.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krojanke.protect.md|Krojanke.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krojanke.private.md|Krojanke.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krojanke.personal.md|Krojanke.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krojanke.secret.md|Krojanke.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krojanke.internal|Krojanke.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krojanke.protect|Krojanke.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krojanke.private|Krojanke.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krojanke.personal|Krojanke.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krojanke.secret|Krojanke.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Unity/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Unity.md|Unity]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Unity.internal.md|Unity.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Unity.protect.md|Unity.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Unity.private.md|Unity.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Unity.personal.md|Unity.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Unity.secret.md|Unity.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Unity.internal|Unity.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Unity.protect|Unity.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Unity.private|Unity.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Unity.personal|Unity.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Unity.secret|Unity.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Manicaland/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.md|Manicaland]] 
-- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.internal.md|Manicaland.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.protect.md|Manicaland.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.private.md|Manicaland.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.personal.md|Manicaland.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.secret.md|Manicaland.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.internal|Manicaland.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.protect|Manicaland.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.private|Manicaland.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.personal|Manicaland.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.secret|Manicaland.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Laoighis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Laoighis.md|Laoighis]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Laoighis.internal.md|Laoighis.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Laoighis.protect.md|Laoighis.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Laoighis.private.md|Laoighis.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Laoighis.personal.md|Laoighis.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Laoighis.secret.md|Laoighis.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Laoighis.internal|Laoighis.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Laoighis.protect|Laoighis.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Laoighis.private|Laoighis.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Laoighis.personal|Laoighis.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Laoighis.secret|Laoighis.secret]] 
 

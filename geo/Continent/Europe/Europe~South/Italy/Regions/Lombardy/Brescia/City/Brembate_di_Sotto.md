@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.md|Brembate_di_Sotto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.internal.md|Brembate_di_Sotto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.protect.md|Brembate_di_Sotto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.private.md|Brembate_di_Sotto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.personal.md|Brembate_di_Sotto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.secret.md|Brembate_di_Sotto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.internal|Brembate_di_Sotto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.protect|Brembate_di_Sotto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.private|Brembate_di_Sotto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.personal|Brembate_di_Sotto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.secret|Brembate_di_Sotto.secret]] 

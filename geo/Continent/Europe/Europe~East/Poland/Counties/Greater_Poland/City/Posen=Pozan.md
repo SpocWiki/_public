@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Posen=Pozan.md|Posen=Pozan]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Posen=Pozan.internal.md|Posen=Pozan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Posen=Pozan.protect.md|Posen=Pozan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Posen=Pozan.private.md|Posen=Pozan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Posen=Pozan.personal.md|Posen=Pozan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Posen=Pozan.secret.md|Posen=Pozan.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Posen=Pozan.internal|Posen=Pozan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Posen=Pozan.protect|Posen=Pozan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Posen=Pozan.private|Posen=Pozan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Posen=Pozan.personal|Posen=Pozan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Posen=Pozan.secret|Posen=Pozan.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Redbridge/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.md|Redbridge]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.internal.md|Redbridge.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.protect.md|Redbridge.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.private.md|Redbridge.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.personal.md|Redbridge.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.secret.md|Redbridge.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.internal|Redbridge.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.protect|Redbridge.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.private|Redbridge.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.personal|Redbridge.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.secret|Redbridge.secret]] 
 

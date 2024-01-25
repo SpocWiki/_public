@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Mortain.md|Mortain]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mortain.internal.md|Mortain.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mortain.protect.md|Mortain.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Mortain.private.md|Mortain.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mortain.personal.md|Mortain.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mortain.secret.md|Mortain.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mortain.internal|Mortain.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mortain.protect|Mortain.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mortain.private|Mortain.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mortain.personal|Mortain.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mortain.secret|Mortain.secret]] 

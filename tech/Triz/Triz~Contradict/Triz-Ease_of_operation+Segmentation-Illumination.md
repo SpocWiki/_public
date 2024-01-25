@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Segmentation-Illumination]
 [SpocWebEntityId::26005]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.md|Triz-Ease_of_operation+Segmentation-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.internal.md|Triz-Ease_of_operation+Segmentation-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.protect.md|Triz-Ease_of_operation+Segmentation-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.private.md|Triz-Ease_of_operation+Segmentation-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.personal.md|Triz-Ease_of_operation+Segmentation-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.secret.md|Triz-Ease_of_operation+Segmentation-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.internal|Triz-Ease_of_operation+Segmentation-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.protect|Triz-Ease_of_operation+Segmentation-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.private|Triz-Ease_of_operation+Segmentation-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.personal|Triz-Ease_of_operation+Segmentation-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.secret|Triz-Ease_of_operation+Segmentation-Illumination.secret]] 

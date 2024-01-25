@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Universality-stationary_Weight]
 [SpocWebEntityId::24705]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.md|Triz-Energy-Loss+Universality-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.internal.md|Triz-Energy-Loss+Universality-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.protect.md|Triz-Energy-Loss+Universality-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.private.md|Triz-Energy-Loss+Universality-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.personal.md|Triz-Energy-Loss+Universality-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.secret.md|Triz-Energy-Loss+Universality-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.internal|Triz-Energy-Loss+Universality-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.protect|Triz-Energy-Loss+Universality-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.private|Triz-Energy-Loss+Universality-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.personal|Triz-Energy-Loss+Universality-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Weight.secret|Triz-Energy-Loss+Universality-stationary_Weight.secret]] 

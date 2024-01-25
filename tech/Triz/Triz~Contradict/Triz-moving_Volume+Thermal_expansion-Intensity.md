@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Volume+Thermal_expansion-Intensity]
 [SpocWebEntityId::23207]
-+ [pro::[[Triz-moving_Volume]]]
++ [#has_/Pros :: [[Triz-moving_Volume]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.md|Triz-moving_Volume+Thermal_expansion-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.internal.md|Triz-moving_Volume+Thermal_expansion-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.protect.md|Triz-moving_Volume+Thermal_expansion-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.private.md|Triz-moving_Volume+Thermal_expansion-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.personal.md|Triz-moving_Volume+Thermal_expansion-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.secret.md|Triz-moving_Volume+Thermal_expansion-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.internal|Triz-moving_Volume+Thermal_expansion-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.protect|Triz-moving_Volume+Thermal_expansion-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.private|Triz-moving_Volume+Thermal_expansion-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.personal|Triz-moving_Volume+Thermal_expansion-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.secret|Triz-moving_Volume+Thermal_expansion-Intensity.secret]] 

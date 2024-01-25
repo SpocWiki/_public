@@ -41,9 +41,9 @@ markerFolder: ./Sandy_Ground/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.md|Sandy_Ground]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.internal.md|Sandy_Ground.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.protect.md|Sandy_Ground.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.private.md|Sandy_Ground.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.personal.md|Sandy_Ground.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.secret.md|Sandy_Ground.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.internal|Sandy_Ground.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.protect|Sandy_Ground.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.private|Sandy_Ground.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.personal|Sandy_Ground.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/Sandy_Ground.secret|Sandy_Ground.secret]] 
 

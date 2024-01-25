@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alnitak.md|Alnitak]] 
-- [[../../../_internal/astro/Star/Alnitak.internal.md|Alnitak.internal]] 
-- [[../../../_protect/astro/Star/Alnitak.protect.md|Alnitak.protect]] 
-- [[../../../_private/astro/Star/Alnitak.private.md|Alnitak.private]] 
-- [[../../../_personal/astro/Star/Alnitak.personal.md|Alnitak.personal]] 
-- [[../../../_secret/astro/Star/Alnitak.secret.md|Alnitak.secret]]
+- [[../../../_internal/astro/Star/Alnitak.internal|Alnitak.internal]] 
+- [[../../../_protect/astro/Star/Alnitak.protect|Alnitak.protect]] 
+- [[../../../_private/astro/Star/Alnitak.private|Alnitak.private]] 
+- [[../../../_personal/astro/Star/Alnitak.personal|Alnitak.personal]] 
+- [[../../../_secret/astro/Star/Alnitak.secret|Alnitak.secret]]
 

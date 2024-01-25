@@ -40,8 +40,8 @@ markerFolder: ./Macedonia~North//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North.md|Macedonia~North]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North.internal.md|Macedonia~North.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North.protect.md|Macedonia~North.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North.private.md|Macedonia~North.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North.personal.md|Macedonia~North.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North.secret.md|Macedonia~North.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North.internal|Macedonia~North.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North.protect|Macedonia~North.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North.private|Macedonia~North.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North.personal|Macedonia~North.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North.secret|Macedonia~North.secret]] 

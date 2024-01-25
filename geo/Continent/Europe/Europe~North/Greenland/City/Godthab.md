@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Greenland/City/Godthab.md|Godthab]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Greenland/City/Godthab.internal.md|Godthab.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Greenland/City/Godthab.protect.md|Godthab.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Greenland/City/Godthab.private.md|Godthab.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Greenland/City/Godthab.personal.md|Godthab.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Greenland/City/Godthab.secret.md|Godthab.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Greenland/City/Godthab.internal|Godthab.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Greenland/City/Godthab.protect|Godthab.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Greenland/City/Godthab.private|Godthab.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Greenland/City/Godthab.personal|Godthab.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Greenland/City/Godthab.secret|Godthab.secret]] 

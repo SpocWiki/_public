@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Thorne.md|Thorne]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Thorne.internal.md|Thorne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Thorne.protect.md|Thorne.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Thorne.private.md|Thorne.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Thorne.personal.md|Thorne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Thorne.secret.md|Thorne.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Thorne.internal|Thorne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Thorne.protect|Thorne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Thorne.private|Thorne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Thorne.personal|Thorne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Thorne.secret|Thorne.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kiboga/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kiboga.md|Kiboga]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kiboga.internal.md|Kiboga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kiboga.protect.md|Kiboga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kiboga.private.md|Kiboga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kiboga.personal.md|Kiboga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kiboga.secret.md|Kiboga.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kiboga.internal|Kiboga.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kiboga.protect|Kiboga.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kiboga.private|Kiboga.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kiboga.personal|Kiboga.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kiboga.secret|Kiboga.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Département~Ain/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Département~Ain.md|Département~Ain]] 
-- [[../../../../_internal/geo/Continent/Département~Ain.internal.md|Département~Ain.internal]] 
-- [[../../../../_protect/geo/Continent/Département~Ain.protect.md|Département~Ain.protect]] 
-- [[../../../../_private/geo/Continent/Département~Ain.private.md|Département~Ain.private]] 
-- [[../../../../_personal/geo/Continent/Département~Ain.personal.md|Département~Ain.personal]] 
-- [[../../../../_secret/geo/Continent/Département~Ain.secret.md|Département~Ain.secret]] 
+- [[../../../../_internal/geo/Continent/Département~Ain.internal|Département~Ain.internal]] 
+- [[../../../../_protect/geo/Continent/Département~Ain.protect|Département~Ain.protect]] 
+- [[../../../../_private/geo/Continent/Département~Ain.private|Département~Ain.private]] 
+- [[../../../../_personal/geo/Continent/Département~Ain.personal|Département~Ain.personal]] 
+- [[../../../../_secret/geo/Continent/Département~Ain.secret|Département~Ain.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Varna.md|Varna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Varna.internal.md|Varna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Varna.protect.md|Varna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Varna.private.md|Varna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Varna.personal.md|Varna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Varna.secret.md|Varna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Varna.internal|Varna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Varna.protect|Varna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Varna.private|Varna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Varna.personal|Varna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Varna.secret|Varna.secret]] 

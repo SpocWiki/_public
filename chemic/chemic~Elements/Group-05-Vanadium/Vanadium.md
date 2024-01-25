@@ -39,8 +39,8 @@ SpocWebEntityId: 21923
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-05-Vanadium/Vanadium.md|Vanadium]] 
-- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Vanadium.internal.md|Vanadium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Vanadium.protect.md|Vanadium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Vanadium.private.md|Vanadium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Vanadium.personal.md|Vanadium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Vanadium.secret.md|Vanadium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Vanadium.internal|Vanadium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Vanadium.protect|Vanadium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Vanadium.private|Vanadium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Vanadium.personal|Vanadium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Vanadium.secret|Vanadium.secret]] 

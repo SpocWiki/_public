@@ -41,9 +41,9 @@ markerFolder: ./Tolna/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Tolna.md|Tolna]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Tolna.internal.md|Tolna.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Tolna.protect.md|Tolna.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Tolna.private.md|Tolna.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Tolna.personal.md|Tolna.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Tolna.secret.md|Tolna.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Tolna.internal|Tolna.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Tolna.protect|Tolna.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Tolna.private|Tolna.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Tolna.personal|Tolna.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Tolna.secret|Tolna.secret]] 
 

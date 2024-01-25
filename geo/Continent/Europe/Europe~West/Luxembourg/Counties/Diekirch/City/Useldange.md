@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Useldange.md|Useldange]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Useldange.internal.md|Useldange.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Useldange.protect.md|Useldange.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Useldange.private.md|Useldange.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Useldange.personal.md|Useldange.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Useldange.secret.md|Useldange.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Useldange.internal|Useldange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Useldange.protect|Useldange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Useldange.private|Useldange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Useldange.personal|Useldange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Useldange.secret|Useldange.secret]] 

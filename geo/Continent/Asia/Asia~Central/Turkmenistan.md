@@ -134,7 +134,7 @@ markerFolder: ./Turkmenistan/
 ## Confidential Links & Embeds: 
 -[[Turkmenistan|Turkmenistan]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Turkmenistan.internal|Turkmenistan.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Turkmenistan.protect.md|Turkmenistan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Turkmenistan.private.md|Turkmenistan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Turkmenistan.personal.md|Turkmenistan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Turkmenistan.secret.md|Turkmenistan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Turkmenistan.protect|Turkmenistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Turkmenistan.private|Turkmenistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Turkmenistan.personal|Turkmenistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Turkmenistan.secret|Turkmenistan.secret]] 

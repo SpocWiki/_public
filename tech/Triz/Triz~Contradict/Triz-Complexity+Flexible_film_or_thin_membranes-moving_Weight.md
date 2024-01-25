@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Flexible_film_or_thin_membranes-moving_Weight]
 [SpocWebEntityId::26291]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.md|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.internal.md|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.protect.md|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.private.md|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.personal.md|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.secret.md|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.internal|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.protect|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.private|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.personal|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.secret|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Varaklanu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Varaklanu.md|Varaklanu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Varaklanu.internal.md|Varaklanu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Varaklanu.protect.md|Varaklanu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Varaklanu.private.md|Varaklanu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Varaklanu.personal.md|Varaklanu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Varaklanu.secret.md|Varaklanu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Varaklanu.internal|Varaklanu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Varaklanu.protect|Varaklanu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Varaklanu.private|Varaklanu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Varaklanu.personal|Varaklanu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Varaklanu.secret|Varaklanu.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Mediator-Quantity]
 [SpocWebEntityId::25802]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.md|Triz-generated_harm+Mediator-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.internal.md|Triz-generated_harm+Mediator-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.protect.md|Triz-generated_harm+Mediator-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.private.md|Triz-generated_harm+Mediator-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.personal.md|Triz-generated_harm+Mediator-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.secret.md|Triz-generated_harm+Mediator-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.internal|Triz-generated_harm+Mediator-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.protect|Triz-generated_harm+Mediator-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.private|Triz-generated_harm+Mediator-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.personal|Triz-generated_harm+Mediator-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.secret|Triz-generated_harm+Mediator-Quantity.secret]] 

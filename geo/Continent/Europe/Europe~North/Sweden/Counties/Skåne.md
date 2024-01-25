@@ -41,9 +41,9 @@ markerFolder: ./Skåne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Skåne.md|Skåne]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Skåne.internal.md|Skåne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Skåne.protect.md|Skåne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Skåne.private.md|Skåne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Skåne.personal.md|Skåne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Skåne.secret.md|Skåne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Skåne.internal|Skåne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Skåne.protect|Skåne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Skåne.private|Skåne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Skåne.personal|Skåne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Skåne.secret|Skåne.secret]] 
 

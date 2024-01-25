@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pirttikylae.md|Pirttikylae]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pirttikylae.internal.md|Pirttikylae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pirttikylae.protect.md|Pirttikylae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pirttikylae.private.md|Pirttikylae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pirttikylae.personal.md|Pirttikylae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pirttikylae.secret.md|Pirttikylae.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pirttikylae.internal|Pirttikylae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pirttikylae.protect|Pirttikylae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pirttikylae.private|Pirttikylae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pirttikylae.personal|Pirttikylae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pirttikylae.secret|Pirttikylae.secret]] 

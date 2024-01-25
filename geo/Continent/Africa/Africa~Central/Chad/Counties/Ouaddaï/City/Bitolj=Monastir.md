@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.md|Bitolj=Monastir]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.internal.md|Bitolj=Monastir.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.protect.md|Bitolj=Monastir.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.private.md|Bitolj=Monastir.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.personal.md|Bitolj=Monastir.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.secret.md|Bitolj=Monastir.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.internal|Bitolj=Monastir.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.protect|Bitolj=Monastir.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.private|Bitolj=Monastir.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.personal|Bitolj=Monastir.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.secret|Bitolj=Monastir.secret]] 

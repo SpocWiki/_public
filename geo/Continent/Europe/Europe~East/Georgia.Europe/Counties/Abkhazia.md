@@ -41,9 +41,9 @@ markerFolder: ./Abkhazia/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.md|Abkhazia]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.internal.md|Abkhazia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.protect.md|Abkhazia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.private.md|Abkhazia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.personal.md|Abkhazia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.secret.md|Abkhazia.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.internal|Abkhazia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.protect|Abkhazia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.private|Abkhazia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.personal|Abkhazia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.secret|Abkhazia.secret]] 
 

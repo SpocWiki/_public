@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Inoroclaw.md|Inoroclaw]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Inoroclaw.internal.md|Inoroclaw.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Inoroclaw.protect.md|Inoroclaw.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Inoroclaw.private.md|Inoroclaw.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Inoroclaw.personal.md|Inoroclaw.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Inoroclaw.secret.md|Inoroclaw.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Inoroclaw.internal|Inoroclaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Inoroclaw.protect|Inoroclaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Inoroclaw.private|Inoroclaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Inoroclaw.personal|Inoroclaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Inoroclaw.secret|Inoroclaw.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./South_Kordufan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Sudan/Counties/South_Kordufan.md|South_Kordufan]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/South_Kordufan.internal.md|South_Kordufan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/South_Kordufan.protect.md|South_Kordufan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/South_Kordufan.private.md|South_Kordufan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/South_Kordufan.personal.md|South_Kordufan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/South_Kordufan.secret.md|South_Kordufan.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/South_Kordufan.internal|South_Kordufan.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/South_Kordufan.protect|South_Kordufan.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/South_Kordufan.private|South_Kordufan.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/South_Kordufan.personal|South_Kordufan.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/South_Kordufan.secret|South_Kordufan.secret]] 
 

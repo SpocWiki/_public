@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Celana.md|Celana]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Celana.internal.md|Celana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Celana.protect.md|Celana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Celana.private.md|Celana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Celana.personal.md|Celana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Celana.secret.md|Celana.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Celana.internal|Celana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Celana.protect|Celana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Celana.private|Celana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Celana.personal|Celana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Celana.secret|Celana.secret]] 

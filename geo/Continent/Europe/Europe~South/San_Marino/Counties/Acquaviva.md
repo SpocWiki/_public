@@ -41,9 +41,9 @@ markerFolder: ./Acquaviva/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Acquaviva.md|Acquaviva]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Acquaviva.internal.md|Acquaviva.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Acquaviva.protect.md|Acquaviva.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Acquaviva.private.md|Acquaviva.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Acquaviva.personal.md|Acquaviva.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Acquaviva.secret.md|Acquaviva.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Acquaviva.internal|Acquaviva.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Acquaviva.protect|Acquaviva.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Acquaviva.private|Acquaviva.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Acquaviva.personal|Acquaviva.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Acquaviva.secret|Acquaviva.secret]] 
 

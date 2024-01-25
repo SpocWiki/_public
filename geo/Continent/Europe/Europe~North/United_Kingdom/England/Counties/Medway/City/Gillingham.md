@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gillingham.md|Gillingham]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gillingham.internal.md|Gillingham.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gillingham.protect.md|Gillingham.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gillingham.private.md|Gillingham.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gillingham.personal.md|Gillingham.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gillingham.secret.md|Gillingham.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gillingham.internal|Gillingham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gillingham.protect|Gillingham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gillingham.private|Gillingham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gillingham.personal|Gillingham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gillingham.secret|Gillingham.secret]] 

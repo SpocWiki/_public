@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nowocherkassk.md|Nowocherkassk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowocherkassk.internal.md|Nowocherkassk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowocherkassk.protect.md|Nowocherkassk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nowocherkassk.private.md|Nowocherkassk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowocherkassk.personal.md|Nowocherkassk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowocherkassk.secret.md|Nowocherkassk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowocherkassk.internal|Nowocherkassk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowocherkassk.protect|Nowocherkassk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nowocherkassk.private|Nowocherkassk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowocherkassk.personal|Nowocherkassk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowocherkassk.secret|Nowocherkassk.secret]] 

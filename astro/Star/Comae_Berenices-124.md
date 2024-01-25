@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Comae_Berenices-124.md|Comae_Berenices-124]] 
-- [[../../../_internal/astro/Star/Comae_Berenices-124.internal.md|Comae_Berenices-124.internal]] 
-- [[../../../_protect/astro/Star/Comae_Berenices-124.protect.md|Comae_Berenices-124.protect]] 
-- [[../../../_private/astro/Star/Comae_Berenices-124.private.md|Comae_Berenices-124.private]] 
-- [[../../../_personal/astro/Star/Comae_Berenices-124.personal.md|Comae_Berenices-124.personal]] 
-- [[../../../_secret/astro/Star/Comae_Berenices-124.secret.md|Comae_Berenices-124.secret]]
+- [[../../../_internal/astro/Star/Comae_Berenices-124.internal|Comae_Berenices-124.internal]] 
+- [[../../../_protect/astro/Star/Comae_Berenices-124.protect|Comae_Berenices-124.protect]] 
+- [[../../../_private/astro/Star/Comae_Berenices-124.private|Comae_Berenices-124.private]] 
+- [[../../../_personal/astro/Star/Comae_Berenices-124.personal|Comae_Berenices-124.personal]] 
+- [[../../../_secret/astro/Star/Comae_Berenices-124.secret|Comae_Berenices-124.secret]]
 

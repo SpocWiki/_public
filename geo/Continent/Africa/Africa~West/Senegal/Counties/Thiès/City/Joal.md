@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Senegal/City/Joal.md|Joal]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/City/Joal.internal.md|Joal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/City/Joal.protect.md|Joal.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/City/Joal.private.md|Joal.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/City/Joal.personal.md|Joal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/City/Joal.secret.md|Joal.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/City/Joal.internal|Joal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/City/Joal.protect|Joal.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/City/Joal.private|Joal.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/City/Joal.personal|Joal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/City/Joal.secret|Joal.secret]] 

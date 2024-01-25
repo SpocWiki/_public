@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sollbacken.md|Sollbacken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sollbacken.internal.md|Sollbacken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sollbacken.protect.md|Sollbacken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sollbacken.private.md|Sollbacken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sollbacken.personal.md|Sollbacken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sollbacken.secret.md|Sollbacken.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sollbacken.internal|Sollbacken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sollbacken.protect|Sollbacken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sollbacken.private|Sollbacken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sollbacken.personal|Sollbacken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sollbacken.secret|Sollbacken.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Hong_Kong~Eastern/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.md|Hong_Kong~Eastern]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.internal.md|Hong_Kong~Eastern.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.protect.md|Hong_Kong~Eastern.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.private.md|Hong_Kong~Eastern.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.personal.md|Hong_Kong~Eastern.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.secret.md|Hong_Kong~Eastern.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.internal|Hong_Kong~Eastern.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.protect|Hong_Kong~Eastern.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.private|Hong_Kong~Eastern.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.personal|Hong_Kong~Eastern.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.secret|Hong_Kong~Eastern.secret]] 
 

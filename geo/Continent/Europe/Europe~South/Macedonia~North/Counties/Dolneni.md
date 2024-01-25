@@ -41,9 +41,9 @@ markerFolder: ./Dolneni/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.md|Dolneni]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.internal.md|Dolneni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.protect.md|Dolneni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.private.md|Dolneni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.personal.md|Dolneni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.secret.md|Dolneni.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.internal|Dolneni.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.protect|Dolneni.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.private|Dolneni.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.personal|Dolneni.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Dolneni.secret|Dolneni.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Yasteluene.md|Yasteluene]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yasteluene.internal.md|Yasteluene.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yasteluene.protect.md|Yasteluene.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yasteluene.private.md|Yasteluene.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Yasteluene.personal.md|Yasteluene.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Yasteluene.secret.md|Yasteluene.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yasteluene.internal|Yasteluene.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yasteluene.protect|Yasteluene.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yasteluene.private|Yasteluene.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Yasteluene.personal|Yasteluene.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Yasteluene.secret|Yasteluene.secret]] 

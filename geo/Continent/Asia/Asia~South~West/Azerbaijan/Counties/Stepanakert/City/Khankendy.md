@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Khankendy.md|Khankendy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khankendy.internal.md|Khankendy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khankendy.protect.md|Khankendy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khankendy.private.md|Khankendy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khankendy.personal.md|Khankendy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khankendy.secret.md|Khankendy.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khankendy.internal|Khankendy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khankendy.protect|Khankendy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khankendy.private|Khankendy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khankendy.personal|Khankendy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khankendy.secret|Khankendy.secret]] 

@@ -132,8 +132,8 @@ markerFolder: ./Ukraine//
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Ukraine.md|Ukraine]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine.internal.md|Ukraine.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine.protect.md|Ukraine.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine.private.md|Ukraine.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine.personal.md|Ukraine.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine.secret.md|Ukraine.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Ukraine.internal|Ukraine.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ukraine.protect|Ukraine.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ukraine.private|Ukraine.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ukraine.personal|Ukraine.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ukraine.secret|Ukraine.secret]] 

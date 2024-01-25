@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Koslow.md|Koslow]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Koslow.internal.md|Koslow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Koslow.protect.md|Koslow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Koslow.private.md|Koslow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Koslow.personal.md|Koslow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Koslow.secret.md|Koslow.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Koslow.internal|Koslow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Koslow.protect|Koslow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Koslow.private|Koslow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Koslow.personal|Koslow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Koslow.secret|Koslow.secret]] 

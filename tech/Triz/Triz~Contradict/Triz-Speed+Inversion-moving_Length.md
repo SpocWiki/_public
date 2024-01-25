@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Inversion-moving_Length]
 [SpocWebEntityId::23370]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Inversion]]]
-- [con::[[Triz-moving_Length]]]
+- [#has_/Cons :: [[Triz-moving_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.md|Triz-Speed+Inversion-moving_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.internal.md|Triz-Speed+Inversion-moving_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.protect.md|Triz-Speed+Inversion-moving_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.private.md|Triz-Speed+Inversion-moving_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.personal.md|Triz-Speed+Inversion-moving_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.secret.md|Triz-Speed+Inversion-moving_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.internal|Triz-Speed+Inversion-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.protect|Triz-Speed+Inversion-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.private|Triz-Speed+Inversion-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.personal|Triz-Speed+Inversion-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Length.secret|Triz-Speed+Inversion-moving_Length.secret]] 

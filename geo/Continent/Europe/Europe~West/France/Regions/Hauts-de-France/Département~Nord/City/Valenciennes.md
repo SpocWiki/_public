@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Valenciennes.md|Valenciennes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Valenciennes.internal.md|Valenciennes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Valenciennes.protect.md|Valenciennes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Valenciennes.private.md|Valenciennes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Valenciennes.personal.md|Valenciennes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Valenciennes.secret.md|Valenciennes.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Valenciennes.internal|Valenciennes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Valenciennes.protect|Valenciennes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Valenciennes.private|Valenciennes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Valenciennes.personal|Valenciennes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Valenciennes.secret|Valenciennes.secret]] 

@@ -28,8 +28,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[S-Frankfurt~Main_Hbf_tief|S-Frankfurt~Main_Hbf_tief]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.internal.md|S-Frankfurt~Main_Hbf_tief.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.protect.md|S-Frankfurt~Main_Hbf_tief.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.private.md|S-Frankfurt~Main_Hbf_tief.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.personal.md|S-Frankfurt~Main_Hbf_tief.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.secret.md|S-Frankfurt~Main_Hbf_tief.secret]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.internal|S-Frankfurt~Main_Hbf_tief.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.protect|S-Frankfurt~Main_Hbf_tief.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.private|S-Frankfurt~Main_Hbf_tief.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.personal|S-Frankfurt~Main_Hbf_tief.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.secret|S-Frankfurt~Main_Hbf_tief.secret]] 

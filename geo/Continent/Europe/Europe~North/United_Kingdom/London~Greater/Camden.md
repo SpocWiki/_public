@@ -41,9 +41,9 @@ markerFolder: ./Camden/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.md|Camden]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.internal.md|Camden.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.protect.md|Camden.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.private.md|Camden.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.personal.md|Camden.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.secret.md|Camden.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.internal|Camden.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.protect|Camden.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.private|Camden.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.personal|Camden.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.secret|Camden.secret]] 
 

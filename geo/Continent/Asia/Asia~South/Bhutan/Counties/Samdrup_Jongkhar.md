@@ -41,9 +41,9 @@ markerFolder: ./Samdrup_Jongkhar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.md|Samdrup_Jongkhar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.internal.md|Samdrup_Jongkhar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.protect.md|Samdrup_Jongkhar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.private.md|Samdrup_Jongkhar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.personal.md|Samdrup_Jongkhar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.secret.md|Samdrup_Jongkhar.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.internal|Samdrup_Jongkhar.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.protect|Samdrup_Jongkhar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.private|Samdrup_Jongkhar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.personal|Samdrup_Jongkhar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samdrup_Jongkhar.secret|Samdrup_Jongkhar.secret]] 
 

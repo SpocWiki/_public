@@ -137,7 +137,7 @@ markerFolder: ./Morocco//
 ## Confidential Links & Embeds: 
 - [[Morocco|Morocco]] 
 - [[../../../../../_internal/geo/Continent/Africa/Morocco.internal|Morocco.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco.protect.md|Morocco.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco.private.md|Morocco.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco.personal.md|Morocco.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco.secret.md|Morocco.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco.protect|Morocco.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco.private|Morocco.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco.personal|Morocco.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco.secret|Morocco.secret]] 

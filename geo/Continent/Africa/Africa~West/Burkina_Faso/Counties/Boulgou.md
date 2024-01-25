@@ -41,9 +41,9 @@ markerFolder: ./Boulgou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.md|Boulgou]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.internal.md|Boulgou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.protect.md|Boulgou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.private.md|Boulgou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.personal.md|Boulgou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.secret.md|Boulgou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.internal|Boulgou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.protect|Boulgou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.private|Boulgou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.personal|Boulgou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.secret|Boulgou.secret]] 
 

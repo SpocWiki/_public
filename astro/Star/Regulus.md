@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Regulus.md|Regulus]] 
-- [[../../../_internal/astro/Star/Regulus.internal.md|Regulus.internal]] 
-- [[../../../_protect/astro/Star/Regulus.protect.md|Regulus.protect]] 
-- [[../../../_private/astro/Star/Regulus.private.md|Regulus.private]] 
-- [[../../../_personal/astro/Star/Regulus.personal.md|Regulus.personal]] 
-- [[../../../_secret/astro/Star/Regulus.secret.md|Regulus.secret]] 
+- [[../../../_internal/astro/Star/Regulus.internal|Regulus.internal]] 
+- [[../../../_protect/astro/Star/Regulus.protect|Regulus.protect]] 
+- [[../../../_private/astro/Star/Regulus.private|Regulus.private]] 
+- [[../../../_personal/astro/Star/Regulus.personal|Regulus.personal]] 
+- [[../../../_secret/astro/Star/Regulus.secret|Regulus.secret]] 

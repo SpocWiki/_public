@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Platta_Medels.md|Platta_Medels]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Platta_Medels.internal.md|Platta_Medels.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Platta_Medels.protect.md|Platta_Medels.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Platta_Medels.private.md|Platta_Medels.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Platta_Medels.personal.md|Platta_Medels.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Platta_Medels.secret.md|Platta_Medels.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Platta_Medels.internal|Platta_Medels.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Platta_Medels.protect|Platta_Medels.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Platta_Medels.private|Platta_Medels.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Platta_Medels.personal|Platta_Medels.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Platta_Medels.secret|Platta_Medels.secret]] 

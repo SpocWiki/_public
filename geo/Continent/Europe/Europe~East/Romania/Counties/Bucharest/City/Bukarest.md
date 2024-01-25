@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Romania/City/Bukarest.md|Bukarest]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Bukarest.internal.md|Bukarest.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Bukarest.protect.md|Bukarest.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Bukarest.private.md|Bukarest.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Bukarest.personal.md|Bukarest.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Bukarest.secret.md|Bukarest.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Bukarest.internal|Bukarest.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Bukarest.protect|Bukarest.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Bukarest.private|Bukarest.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Bukarest.personal|Bukarest.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Bukarest.secret|Bukarest.secret]] 

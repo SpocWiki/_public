@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Antliae-9.md|Antliae-9]] 
-- [[../../../_internal/astro/Star/Antliae-9.internal.md|Antliae-9.internal]] 
-- [[../../../_protect/astro/Star/Antliae-9.protect.md|Antliae-9.protect]] 
-- [[../../../_private/astro/Star/Antliae-9.private.md|Antliae-9.private]] 
-- [[../../../_personal/astro/Star/Antliae-9.personal.md|Antliae-9.personal]] 
-- [[../../../_secret/astro/Star/Antliae-9.secret.md|Antliae-9.secret]]
+- [[../../../_internal/astro/Star/Antliae-9.internal|Antliae-9.internal]] 
+- [[../../../_protect/astro/Star/Antliae-9.protect|Antliae-9.protect]] 
+- [[../../../_private/astro/Star/Antliae-9.private|Antliae-9.private]] 
+- [[../../../_personal/astro/Star/Antliae-9.personal|Antliae-9.personal]] 
+- [[../../../_secret/astro/Star/Antliae-9.secret|Antliae-9.secret]]
 

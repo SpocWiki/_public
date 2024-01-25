@@ -41,9 +41,9 @@ markerFolder: ./Musandam/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.md|Musandam]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.internal.md|Musandam.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.protect.md|Musandam.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.private.md|Musandam.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.personal.md|Musandam.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.secret.md|Musandam.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.internal|Musandam.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.protect|Musandam.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.private|Musandam.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.personal|Musandam.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.secret|Musandam.secret]] 
 

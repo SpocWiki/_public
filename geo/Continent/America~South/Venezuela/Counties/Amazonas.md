@@ -41,9 +41,9 @@ markerFolder: ./Amazonas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Amazonas.md|Amazonas]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Amazonas.internal.md|Amazonas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Amazonas.protect.md|Amazonas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Amazonas.private.md|Amazonas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Amazonas.personal.md|Amazonas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Amazonas.secret.md|Amazonas.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Amazonas.internal|Amazonas.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Amazonas.protect|Amazonas.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Amazonas.private|Amazonas.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Amazonas.personal|Amazonas.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Amazonas.secret|Amazonas.secret]] 
 

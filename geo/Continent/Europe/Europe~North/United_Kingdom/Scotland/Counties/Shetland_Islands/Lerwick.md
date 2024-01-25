@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lerwick.md|Lerwick]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lerwick.internal.md|Lerwick.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lerwick.protect.md|Lerwick.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lerwick.private.md|Lerwick.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lerwick.personal.md|Lerwick.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lerwick.secret.md|Lerwick.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lerwick.internal|Lerwick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lerwick.protect|Lerwick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lerwick.private|Lerwick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lerwick.personal|Lerwick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lerwick.secret|Lerwick.secret]] 

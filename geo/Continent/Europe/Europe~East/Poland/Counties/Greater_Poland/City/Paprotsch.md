@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Paprotsch.md|Paprotsch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Paprotsch.internal.md|Paprotsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Paprotsch.protect.md|Paprotsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Paprotsch.private.md|Paprotsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Paprotsch.personal.md|Paprotsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Paprotsch.secret.md|Paprotsch.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Paprotsch.internal|Paprotsch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Paprotsch.protect|Paprotsch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Paprotsch.private|Paprotsch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Paprotsch.personal|Paprotsch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Paprotsch.secret|Paprotsch.secret]] 

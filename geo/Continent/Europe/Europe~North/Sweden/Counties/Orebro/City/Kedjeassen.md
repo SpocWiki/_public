@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kedjeassen.md|Kedjeassen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kedjeassen.internal.md|Kedjeassen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kedjeassen.protect.md|Kedjeassen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kedjeassen.private.md|Kedjeassen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kedjeassen.personal.md|Kedjeassen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kedjeassen.secret.md|Kedjeassen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kedjeassen.internal|Kedjeassen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kedjeassen.protect|Kedjeassen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kedjeassen.private|Kedjeassen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kedjeassen.personal|Kedjeassen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kedjeassen.secret|Kedjeassen.secret]] 

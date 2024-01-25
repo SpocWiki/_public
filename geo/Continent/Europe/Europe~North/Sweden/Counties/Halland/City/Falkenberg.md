@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Falkenberg.md|Falkenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Falkenberg.internal.md|Falkenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Falkenberg.protect.md|Falkenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Falkenberg.private.md|Falkenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Falkenberg.personal.md|Falkenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Falkenberg.secret.md|Falkenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Falkenberg.internal|Falkenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Falkenberg.protect|Falkenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Falkenberg.private|Falkenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Falkenberg.personal|Falkenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Falkenberg.secret|Falkenberg.secret]] 

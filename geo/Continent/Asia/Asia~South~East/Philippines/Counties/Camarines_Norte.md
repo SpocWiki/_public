@@ -41,9 +41,9 @@ markerFolder: ./Camarines_Norte/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.md|Camarines_Norte]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.internal.md|Camarines_Norte.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.protect.md|Camarines_Norte.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.private.md|Camarines_Norte.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.personal.md|Camarines_Norte.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.secret.md|Camarines_Norte.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.internal|Camarines_Norte.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.protect|Camarines_Norte.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.private|Camarines_Norte.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.personal|Camarines_Norte.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camarines_Norte.secret|Camarines_Norte.secret]] 
 

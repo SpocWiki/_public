@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.md|Cardiff]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.internal.md|Cardiff.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.protect.md|Cardiff.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.private.md|Cardiff.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.personal.md|Cardiff.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.secret.md|Cardiff.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.internal|Cardiff.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.protect|Cardiff.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.private|Cardiff.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.personal|Cardiff.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.secret|Cardiff.secret]] 

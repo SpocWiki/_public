@@ -15,8 +15,8 @@ tags:
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Principle/Triz-Prior_counteracion.md|Triz-Prior_counteracion]] 
-- [[../../../../_internal/tech/Triz/Principle/Triz-Prior_counteracion.internal.md|Triz-Prior_counteracion.internal]] 
-- [[../../../../_protect/tech/Triz/Principle/Triz-Prior_counteracion.protect.md|Triz-Prior_counteracion.protect]] 
-- [[../../../../_private/tech/Triz/Principle/Triz-Prior_counteracion.private.md|Triz-Prior_counteracion.private]] 
-- [[../../../../_personal/tech/Triz/Principle/Triz-Prior_counteracion.personal.md|Triz-Prior_counteracion.personal]] 
-- [[../../../../_secret/tech/Triz/Principle/Triz-Prior_counteracion.secret.md|Triz-Prior_counteracion.secret]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Prior_counteracion.internal|Triz-Prior_counteracion.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Prior_counteracion.protect|Triz-Prior_counteracion.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Prior_counteracion.private|Triz-Prior_counteracion.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Prior_counteracion.personal|Triz-Prior_counteracion.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Prior_counteracion.secret|Triz-Prior_counteracion.secret]] 

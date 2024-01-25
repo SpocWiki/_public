@@ -41,9 +41,9 @@ markerFolder: ./Eastern_Tobago/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.md|Eastern_Tobago]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.internal.md|Eastern_Tobago.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.protect.md|Eastern_Tobago.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.private.md|Eastern_Tobago.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.personal.md|Eastern_Tobago.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.secret.md|Eastern_Tobago.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.internal|Eastern_Tobago.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.protect|Eastern_Tobago.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.private|Eastern_Tobago.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.personal|Eastern_Tobago.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.secret|Eastern_Tobago.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Bheri/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.md|Bheri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.internal.md|Bheri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.protect.md|Bheri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.private.md|Bheri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.personal.md|Bheri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.secret.md|Bheri.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.internal|Bheri.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.protect|Bheri.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.private|Bheri.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.personal|Bheri.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Bheri.secret|Bheri.secret]] 
 

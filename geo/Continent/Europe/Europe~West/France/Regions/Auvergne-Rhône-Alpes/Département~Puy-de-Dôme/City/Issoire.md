@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Issoire.md|Issoire]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Issoire.internal.md|Issoire.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Issoire.protect.md|Issoire.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Issoire.private.md|Issoire.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Issoire.personal.md|Issoire.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Issoire.secret.md|Issoire.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Issoire.internal|Issoire.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Issoire.protect|Issoire.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Issoire.private|Issoire.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Issoire.personal|Issoire.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Issoire.secret|Issoire.secret]] 

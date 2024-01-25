@@ -12,16 +12,16 @@ tags:
 ---
 [name::Time-Loss+Asymmetry-Shape]
 [SpocWebEntityId::25017]
-+ [pro::Time-Loss]
++ [#has_/Pros :: Time-Loss]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Shape]]]
+- [#has_/Cons :: [[Triz-Shape]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.md|Triz-Time-Loss+Asymmetry-Shape]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.internal.md|Triz-Time-Loss+Asymmetry-Shape.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.protect.md|Triz-Time-Loss+Asymmetry-Shape.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.private.md|Triz-Time-Loss+Asymmetry-Shape.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.personal.md|Triz-Time-Loss+Asymmetry-Shape.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.secret.md|Triz-Time-Loss+Asymmetry-Shape.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.internal|Triz-Time-Loss+Asymmetry-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.protect|Triz-Time-Loss+Asymmetry-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.private|Triz-Time-Loss+Asymmetry-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.personal|Triz-Time-Loss+Asymmetry-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.secret|Triz-Time-Loss+Asymmetry-Shape.secret]] 

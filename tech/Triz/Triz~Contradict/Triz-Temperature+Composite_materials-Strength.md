@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Composite_materials-Strength]
 [SpocWebEntityId::24272]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-Strength]]]
+- [#has_/Cons :: [[Triz-Strength]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.md|Triz-Temperature+Composite_materials-Strength]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.internal.md|Triz-Temperature+Composite_materials-Strength.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.protect.md|Triz-Temperature+Composite_materials-Strength.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.private.md|Triz-Temperature+Composite_materials-Strength.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.personal.md|Triz-Temperature+Composite_materials-Strength.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.secret.md|Triz-Temperature+Composite_materials-Strength.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.internal|Triz-Temperature+Composite_materials-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.protect|Triz-Temperature+Composite_materials-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.private|Triz-Temperature+Composite_materials-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.personal|Triz-Temperature+Composite_materials-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.secret|Triz-Temperature+Composite_materials-Strength.secret]] 

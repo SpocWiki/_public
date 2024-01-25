@@ -38,8 +38,8 @@ SpocWebEntityId: 21959
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Lanthanide-Group/Europium.md|Europium]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Europium.internal.md|Europium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Europium.protect.md|Europium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Europium.private.md|Europium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Europium.personal.md|Europium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Europium.secret.md|Europium.secret]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Europium.internal|Europium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Europium.protect|Europium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Europium.private|Europium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Europium.personal|Europium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Europium.secret|Europium.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Peloponnisos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Greece/Counties/Peloponnisos.md|Peloponnisos]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Peloponnisos.internal.md|Peloponnisos.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Peloponnisos.protect.md|Peloponnisos.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Peloponnisos.private.md|Peloponnisos.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Peloponnisos.personal.md|Peloponnisos.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Peloponnisos.secret.md|Peloponnisos.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Peloponnisos.internal|Peloponnisos.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Peloponnisos.protect|Peloponnisos.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Peloponnisos.private|Peloponnisos.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Peloponnisos.personal|Peloponnisos.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Peloponnisos.secret|Peloponnisos.secret]] 
 

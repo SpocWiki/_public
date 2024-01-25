@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Huddersfield.md|Huddersfield]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Huddersfield.internal.md|Huddersfield.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Huddersfield.protect.md|Huddersfield.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Huddersfield.private.md|Huddersfield.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Huddersfield.personal.md|Huddersfield.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Huddersfield.secret.md|Huddersfield.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Huddersfield.internal|Huddersfield.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Huddersfield.protect|Huddersfield.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Huddersfield.private|Huddersfield.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Huddersfield.personal|Huddersfield.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Huddersfield.secret|Huddersfield.secret]] 

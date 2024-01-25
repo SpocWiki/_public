@@ -41,9 +41,9 @@ markerFolder: ./KwaZulu-Natal/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.md|KwaZulu-Natal]] 
-- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.internal.md|KwaZulu-Natal.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.protect.md|KwaZulu-Natal.protect]] 
-- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.private.md|KwaZulu-Natal.private]] 
-- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.personal.md|KwaZulu-Natal.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.secret.md|KwaZulu-Natal.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.internal|KwaZulu-Natal.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.protect|KwaZulu-Natal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.private|KwaZulu-Natal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.personal|KwaZulu-Natal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/KwaZulu-Natal.secret|KwaZulu-Natal.secret]] 
 

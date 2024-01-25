@@ -12,16 +12,16 @@ tags:
 ---
 [name::Complexity+Continuity_of_useful_action-Power]
 [SpocWebEntityId::26347]
-+ [pro::[[Triz-Complexity]]]
++ [#has_/Pros :: [[Triz-Complexity]]]
 [Triz-Principle::[[Triz-Continuity_of_useful_action]]]
-- [con::[[Triz-Power]]]
+- [#has_/Cons :: [[Triz-Power]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.md|Triz-Complexity+Continuity_of_useful_action-Power]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.internal.md|Triz-Complexity+Continuity_of_useful_action-Power.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.protect.md|Triz-Complexity+Continuity_of_useful_action-Power.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.private.md|Triz-Complexity+Continuity_of_useful_action-Power.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.personal.md|Triz-Complexity+Continuity_of_useful_action-Power.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.secret.md|Triz-Complexity+Continuity_of_useful_action-Power.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.internal|Triz-Complexity+Continuity_of_useful_action-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.protect|Triz-Complexity+Continuity_of_useful_action-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.private|Triz-Complexity+Continuity_of_useful_action-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.personal|Triz-Complexity+Continuity_of_useful_action-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Continuity_of_useful_action-Power.secret|Triz-Complexity+Continuity_of_useful_action-Power.secret]] 

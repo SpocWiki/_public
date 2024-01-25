@@ -41,9 +41,9 @@ markerFolder: ./Torfaen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.md|Torfaen]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.internal.md|Torfaen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.protect.md|Torfaen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.private.md|Torfaen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.personal.md|Torfaen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.secret.md|Torfaen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.internal|Torfaen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.protect|Torfaen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.private|Torfaen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.personal|Torfaen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.secret|Torfaen.secret]] 
 

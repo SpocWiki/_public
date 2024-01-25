@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Huntley.md|Huntley]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Huntley.internal.md|Huntley.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Huntley.protect.md|Huntley.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Huntley.private.md|Huntley.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Huntley.personal.md|Huntley.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Huntley.secret.md|Huntley.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Huntley.internal|Huntley.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Huntley.protect|Huntley.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Huntley.private|Huntley.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Huntley.personal|Huntley.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Huntley.secret|Huntley.secret]] 

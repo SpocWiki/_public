@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Viazma=Vyazma.md|Viazma=Vyazma]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Viazma=Vyazma.internal.md|Viazma=Vyazma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Viazma=Vyazma.protect.md|Viazma=Vyazma.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Viazma=Vyazma.private.md|Viazma=Vyazma.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Viazma=Vyazma.personal.md|Viazma=Vyazma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Viazma=Vyazma.secret.md|Viazma=Vyazma.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Viazma=Vyazma.internal|Viazma=Vyazma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Viazma=Vyazma.protect|Viazma=Vyazma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Viazma=Vyazma.private|Viazma=Vyazma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Viazma=Vyazma.personal|Viazma=Vyazma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Viazma=Vyazma.secret|Viazma=Vyazma.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Chateaulin.md|Chateaulin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateaulin.internal.md|Chateaulin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateaulin.protect.md|Chateaulin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateaulin.private.md|Chateaulin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateaulin.personal.md|Chateaulin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateaulin.secret.md|Chateaulin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chateaulin.internal|Chateaulin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chateaulin.protect|Chateaulin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chateaulin.private|Chateaulin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chateaulin.personal|Chateaulin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chateaulin.secret|Chateaulin.secret]] 

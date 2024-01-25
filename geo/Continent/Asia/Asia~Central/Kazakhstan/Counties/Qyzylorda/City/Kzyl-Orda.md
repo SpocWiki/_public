@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kzyl-Orda.md|Kzyl-Orda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kzyl-Orda.internal.md|Kzyl-Orda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kzyl-Orda.protect.md|Kzyl-Orda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kzyl-Orda.private.md|Kzyl-Orda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kzyl-Orda.personal.md|Kzyl-Orda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kzyl-Orda.secret.md|Kzyl-Orda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kzyl-Orda.internal|Kzyl-Orda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kzyl-Orda.protect|Kzyl-Orda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kzyl-Orda.private|Kzyl-Orda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kzyl-Orda.personal|Kzyl-Orda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kzyl-Orda.secret|Kzyl-Orda.secret]] 

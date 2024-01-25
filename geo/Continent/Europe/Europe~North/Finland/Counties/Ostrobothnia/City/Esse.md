@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Esse.md|Esse]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Esse.internal.md|Esse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Esse.protect.md|Esse.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Esse.private.md|Esse.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Esse.personal.md|Esse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Esse.secret.md|Esse.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Esse.internal|Esse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Esse.protect|Esse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Esse.private|Esse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Esse.personal|Esse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Esse.secret|Esse.secret]] 

@@ -37,8 +37,8 @@ markerFolder: ./Saint_Vincent_and_Grenadines/
 
 ## Confidential Links & Embeds: 
 - [[Saint_Vincent_and_Grenadines|Saint_Vincent_and_Grenadines]] 
-- [[../../../../_internal/geo/Continent/South-America/Saint_Vincent_and_Grenadines.internal.md|Saint_Vincent_and_Grenadines.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Saint_Vincent_and_Grenadines.protect.md|Saint_Vincent_and_Grenadines.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Saint_Vincent_and_Grenadines.private.md|Saint_Vincent_and_Grenadines.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Saint_Vincent_and_Grenadines.personal.md|Saint_Vincent_and_Grenadines.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Saint_Vincent_and_Grenadines.secret.md|Saint_Vincent_and_Grenadines.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Saint_Vincent_and_Grenadines.internal|Saint_Vincent_and_Grenadines.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Saint_Vincent_and_Grenadines.protect|Saint_Vincent_and_Grenadines.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Saint_Vincent_and_Grenadines.private|Saint_Vincent_and_Grenadines.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Saint_Vincent_and_Grenadines.personal|Saint_Vincent_and_Grenadines.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Saint_Vincent_and_Grenadines.secret|Saint_Vincent_and_Grenadines.secret]] 

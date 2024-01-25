@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gleichenberg.md|Gleichenberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gleichenberg.internal.md|Gleichenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gleichenberg.protect.md|Gleichenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gleichenberg.private.md|Gleichenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gleichenberg.personal.md|Gleichenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gleichenberg.secret.md|Gleichenberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gleichenberg.internal|Gleichenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gleichenberg.protect|Gleichenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gleichenberg.private|Gleichenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gleichenberg.personal|Gleichenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gleichenberg.secret|Gleichenberg.secret]] 

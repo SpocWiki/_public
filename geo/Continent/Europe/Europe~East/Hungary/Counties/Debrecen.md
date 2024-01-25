@@ -41,9 +41,9 @@ markerFolder: ./Debrecen/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Debrecen.md|Debrecen]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Debrecen.internal.md|Debrecen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Debrecen.protect.md|Debrecen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Debrecen.private.md|Debrecen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Debrecen.personal.md|Debrecen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Debrecen.secret.md|Debrecen.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Debrecen.internal|Debrecen.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Debrecen.protect|Debrecen.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Debrecen.private|Debrecen.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Debrecen.personal|Debrecen.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Debrecen.secret|Debrecen.secret]] 
 

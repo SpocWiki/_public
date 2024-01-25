@@ -41,9 +41,9 @@ markerFolder: ./Tahoua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Niger/Counties/Tahoua.md|Tahoua]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Tahoua.internal.md|Tahoua.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Tahoua.protect.md|Tahoua.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Tahoua.private.md|Tahoua.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Tahoua.personal.md|Tahoua.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Tahoua.secret.md|Tahoua.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Tahoua.internal|Tahoua.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Tahoua.protect|Tahoua.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Tahoua.private|Tahoua.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Tahoua.personal|Tahoua.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Tahoua.secret|Tahoua.secret]] 
 

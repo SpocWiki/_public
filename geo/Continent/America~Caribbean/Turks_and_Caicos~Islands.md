@@ -37,8 +37,8 @@ markerFolder: ./Turks_and_Caicos~Islands/
 
 ## Confidential Links & Embeds: 
 - [[Turks_and_Caicos~Islands|Turks_and_Caicos~Islands]] 
-- [[../../../../_internal/geo/Continent/South-America/Turks_and_Caicos~Islands.internal.md|Turks_and_Caicos~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Turks_and_Caicos~Islands.protect.md|Turks_and_Caicos~Islands.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Turks_and_Caicos~Islands.private.md|Turks_and_Caicos~Islands.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Turks_and_Caicos~Islands.personal.md|Turks_and_Caicos~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Turks_and_Caicos~Islands.secret.md|Turks_and_Caicos~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Turks_and_Caicos~Islands.internal|Turks_and_Caicos~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Turks_and_Caicos~Islands.protect|Turks_and_Caicos~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Turks_and_Caicos~Islands.private|Turks_and_Caicos~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Turks_and_Caicos~Islands.personal|Turks_and_Caicos~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Turks_and_Caicos~Islands.secret|Turks_and_Caicos~Islands.secret]] 

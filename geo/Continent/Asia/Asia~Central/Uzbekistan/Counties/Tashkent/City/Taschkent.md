@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Asia/Uzbekistan/City/Taschkent.md|Taschkent]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Uzbekistan/City/Taschkent.internal.md|Taschkent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Uzbekistan/City/Taschkent.protect.md|Taschkent.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Uzbekistan/City/Taschkent.private.md|Taschkent.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Uzbekistan/City/Taschkent.personal.md|Taschkent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Uzbekistan/City/Taschkent.secret.md|Taschkent.secret]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Uzbekistan/City/Taschkent.internal|Taschkent.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Uzbekistan/City/Taschkent.protect|Taschkent.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Uzbekistan/City/Taschkent.private|Taschkent.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Uzbekistan/City/Taschkent.personal|Taschkent.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Uzbekistan/City/Taschkent.secret|Taschkent.secret]] 

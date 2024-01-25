@@ -134,7 +134,7 @@ markerFolder: ./Kenya//
 ## Confidential Links & Embeds: 
 - [[Kenya|Kenya]] 
 - [[../../../../../_internal/geo/Continent/Africa/Kenya.internal|Kenya.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya.protect.md|Kenya.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya.private.md|Kenya.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya.personal.md|Kenya.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya.secret.md|Kenya.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Kenya.protect|Kenya.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Kenya.private|Kenya.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Kenya.personal|Kenya.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Kenya.secret|Kenya.secret]] 

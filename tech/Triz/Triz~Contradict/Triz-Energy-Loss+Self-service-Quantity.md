@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Self-service-Quantity]
 [SpocWebEntityId::24758]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Self-service]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.md|Triz-Energy-Loss+Self-service-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.internal.md|Triz-Energy-Loss+Self-service-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.protect.md|Triz-Energy-Loss+Self-service-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.private.md|Triz-Energy-Loss+Self-service-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.personal.md|Triz-Energy-Loss+Self-service-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.secret.md|Triz-Energy-Loss+Self-service-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.internal|Triz-Energy-Loss+Self-service-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.protect|Triz-Energy-Loss+Self-service-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.private|Triz-Energy-Loss+Self-service-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.personal|Triz-Energy-Loss+Self-service-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Self-service-Quantity.secret|Triz-Energy-Loss+Self-service-Quantity.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Nord-Est/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.md|Nord-Est]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.internal.md|Nord-Est.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.protect.md|Nord-Est.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.private.md|Nord-Est.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.personal.md|Nord-Est.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.secret.md|Nord-Est.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.internal|Nord-Est.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.protect|Nord-Est.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.private|Nord-Est.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.personal|Nord-Est.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.secret|Nord-Est.secret]] 
 

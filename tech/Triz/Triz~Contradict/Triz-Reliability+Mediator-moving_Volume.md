@@ -12,16 +12,16 @@ tags:
 ---
 [name::Reliability+Mediator-moving_Volume]
 [SpocWebEntityId::25259]
-+ [pro::[[Triz-Reliability]]]
++ [#has_/Pros :: [[Triz-Reliability]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.md|Triz-Reliability+Mediator-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.internal.md|Triz-Reliability+Mediator-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.protect.md|Triz-Reliability+Mediator-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.private.md|Triz-Reliability+Mediator-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.personal.md|Triz-Reliability+Mediator-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.secret.md|Triz-Reliability+Mediator-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.internal|Triz-Reliability+Mediator-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.protect|Triz-Reliability+Mediator-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.private|Triz-Reliability+Mediator-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.personal|Triz-Reliability+Mediator-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.secret|Triz-Reliability+Mediator-moving_Volume.secret]] 

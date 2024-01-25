@@ -12,16 +12,16 @@ tags:
 ---
 [name::Stability+Composite_materials-stationary_Volume]
 [SpocWebEntityId::23851]
-+ [pro::[[Triz-Stability]]]
++ [#has_/Pros :: [[Triz-Stability]]]
 [Triz-Principle::[[Triz-Composite_materials]]]
-- [con::[[Triz-stationary_Volume]]]
+- [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.md|Triz-Stability+Composite_materials-stationary_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.internal.md|Triz-Stability+Composite_materials-stationary_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.protect.md|Triz-Stability+Composite_materials-stationary_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.private.md|Triz-Stability+Composite_materials-stationary_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.personal.md|Triz-Stability+Composite_materials-stationary_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.secret.md|Triz-Stability+Composite_materials-stationary_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.internal|Triz-Stability+Composite_materials-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.protect|Triz-Stability+Composite_materials-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.private|Triz-Stability+Composite_materials-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.personal|Triz-Stability+Composite_materials-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Volume.secret|Triz-Stability+Composite_materials-stationary_Volume.secret]] 

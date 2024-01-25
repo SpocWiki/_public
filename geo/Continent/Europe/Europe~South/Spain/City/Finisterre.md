@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Finisterre.md|Finisterre]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Finisterre.internal.md|Finisterre.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Finisterre.protect.md|Finisterre.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Finisterre.private.md|Finisterre.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Finisterre.personal.md|Finisterre.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Finisterre.secret.md|Finisterre.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Finisterre.internal|Finisterre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Finisterre.protect|Finisterre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Finisterre.private|Finisterre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Finisterre.personal|Finisterre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Finisterre.secret|Finisterre.secret]] 

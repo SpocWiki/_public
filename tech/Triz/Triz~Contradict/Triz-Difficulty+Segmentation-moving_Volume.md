@@ -12,16 +12,16 @@ tags:
 ---
 [name::Difficulty+Segmentation-moving_Volume]
 [SpocWebEntityId::26427]
-+ [pro::[[Triz-Difficulty]]]
++ [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-moving_Volume]]]
+- [#has_/Cons :: [[Triz-moving_Volume]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.md|Triz-Difficulty+Segmentation-moving_Volume]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.internal.md|Triz-Difficulty+Segmentation-moving_Volume.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.protect.md|Triz-Difficulty+Segmentation-moving_Volume.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.private.md|Triz-Difficulty+Segmentation-moving_Volume.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.personal.md|Triz-Difficulty+Segmentation-moving_Volume.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.secret.md|Triz-Difficulty+Segmentation-moving_Volume.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.internal|Triz-Difficulty+Segmentation-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.protect|Triz-Difficulty+Segmentation-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.private|Triz-Difficulty+Segmentation-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.personal|Triz-Difficulty+Segmentation-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-moving_Volume.secret|Triz-Difficulty+Segmentation-moving_Volume.secret]] 

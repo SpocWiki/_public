@@ -41,9 +41,9 @@ markerFolder: ./Norfolk_Island/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Australia/Australia/Counties/Norfolk_Island.md|Norfolk_Island]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Norfolk_Island.internal.md|Norfolk_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Norfolk_Island.protect.md|Norfolk_Island.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Norfolk_Island.private.md|Norfolk_Island.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Norfolk_Island.personal.md|Norfolk_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Norfolk_Island.secret.md|Norfolk_Island.secret]] 
+- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Norfolk_Island.internal|Norfolk_Island.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Norfolk_Island.protect|Norfolk_Island.protect]] 
+- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Norfolk_Island.private|Norfolk_Island.private]] 
+- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Norfolk_Island.personal|Norfolk_Island.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Norfolk_Island.secret|Norfolk_Island.secret]] 
 

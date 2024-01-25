@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Torrnigton.md|Torrnigton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Torrnigton.internal.md|Torrnigton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Torrnigton.protect.md|Torrnigton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Torrnigton.private.md|Torrnigton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Torrnigton.personal.md|Torrnigton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Torrnigton.secret.md|Torrnigton.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Torrnigton.internal|Torrnigton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Torrnigton.protect|Torrnigton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Torrnigton.private|Torrnigton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Torrnigton.personal|Torrnigton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Torrnigton.secret|Torrnigton.secret]] 

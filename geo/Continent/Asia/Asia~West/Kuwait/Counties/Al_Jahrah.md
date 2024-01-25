@@ -41,9 +41,9 @@ markerFolder: ./Al_Jahrah/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.md|Al_Jahrah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.internal.md|Al_Jahrah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.protect.md|Al_Jahrah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.private.md|Al_Jahrah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.personal.md|Al_Jahrah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.secret.md|Al_Jahrah.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.internal|Al_Jahrah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.protect|Al_Jahrah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.private|Al_Jahrah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.personal|Al_Jahrah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.secret|Al_Jahrah.secret]] 
 

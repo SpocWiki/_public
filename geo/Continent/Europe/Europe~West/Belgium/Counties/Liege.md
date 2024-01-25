@@ -41,11 +41,11 @@ markerFolder: ./Liege/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Liege.md|Liege]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Liege.internal.md|Liege.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Liege.protect.md|Liege.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Liege.private.md|Liege.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Liege.personal.md|Liege.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Liege.secret.md|Liege.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Liege.internal|Liege.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Liege.protect|Liege.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Liege.private|Liege.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Liege.personal|Liege.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Liege.secret|Liege.secret]] 
 
 
 ```leaflet

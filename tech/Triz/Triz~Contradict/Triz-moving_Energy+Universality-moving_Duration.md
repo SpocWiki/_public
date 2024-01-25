@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Energy+Universality-moving_Duration]
 [SpocWebEntityId::24474]
-+ [pro::[[Triz-moving_Energy]]]
++ [#has_/Pros :: [[Triz-moving_Energy]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.md|Triz-moving_Energy+Universality-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.internal.md|Triz-moving_Energy+Universality-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.protect.md|Triz-moving_Energy+Universality-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.private.md|Triz-moving_Energy+Universality-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.personal.md|Triz-moving_Energy+Universality-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.secret.md|Triz-moving_Energy+Universality-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.internal|Triz-moving_Energy+Universality-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.protect|Triz-moving_Energy+Universality-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.private|Triz-moving_Energy+Universality-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.personal|Triz-moving_Energy+Universality-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Universality-moving_Duration.secret|Triz-moving_Energy+Universality-moving_Duration.secret]] 

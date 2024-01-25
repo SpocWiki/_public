@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Area+Mechanical_vibration-Time-Loss]
 [SpocWebEntityId::23145]
-+ [pro::[[Triz-stationary_Area]]]
++ [#has_/Pros :: [[Triz-stationary_Area]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.md|Triz-stationary_Area+Mechanical_vibration-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.internal.md|Triz-stationary_Area+Mechanical_vibration-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.protect.md|Triz-stationary_Area+Mechanical_vibration-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.private.md|Triz-stationary_Area+Mechanical_vibration-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.personal.md|Triz-stationary_Area+Mechanical_vibration-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.secret.md|Triz-stationary_Area+Mechanical_vibration-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.internal|Triz-stationary_Area+Mechanical_vibration-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.protect|Triz-stationary_Area+Mechanical_vibration-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.private|Triz-stationary_Area+Mechanical_vibration-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.personal|Triz-stationary_Area+Mechanical_vibration-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Time-Loss.secret|Triz-stationary_Area+Mechanical_vibration-Time-Loss.secret]] 

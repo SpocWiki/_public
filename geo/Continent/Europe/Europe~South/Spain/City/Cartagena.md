@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Cartagena.md|Cartagena]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Cartagena.internal.md|Cartagena.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Cartagena.protect.md|Cartagena.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Cartagena.private.md|Cartagena.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Cartagena.personal.md|Cartagena.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Cartagena.secret.md|Cartagena.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Cartagena.internal|Cartagena.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Cartagena.protect|Cartagena.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Cartagena.private|Cartagena.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Cartagena.personal|Cartagena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Cartagena.secret|Cartagena.secret]] 

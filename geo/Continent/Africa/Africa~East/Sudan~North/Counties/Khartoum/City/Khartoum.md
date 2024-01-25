@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/Sudan/City/Khartoum.md|Khartoum]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/City/Khartoum.internal.md|Khartoum.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/City/Khartoum.protect.md|Khartoum.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/City/Khartoum.private.md|Khartoum.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/City/Khartoum.personal.md|Khartoum.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/City/Khartoum.secret.md|Khartoum.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan/City/Khartoum.internal|Khartoum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan/City/Khartoum.protect|Khartoum.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan/City/Khartoum.private|Khartoum.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan/City/Khartoum.personal|Khartoum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan/City/Khartoum.secret|Khartoum.secret]] 

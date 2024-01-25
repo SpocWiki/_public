@@ -41,9 +41,9 @@ markerFolder: ./Krustpils/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Krustpils.md|Krustpils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Krustpils.internal.md|Krustpils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Krustpils.protect.md|Krustpils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Krustpils.private.md|Krustpils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Krustpils.personal.md|Krustpils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Krustpils.secret.md|Krustpils.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Krustpils.internal|Krustpils.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Krustpils.protect|Krustpils.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Krustpils.private|Krustpils.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Krustpils.personal|Krustpils.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Krustpils.secret|Krustpils.secret]] 
 

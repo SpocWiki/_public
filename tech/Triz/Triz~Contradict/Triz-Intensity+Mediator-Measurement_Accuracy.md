@@ -12,16 +12,16 @@ tags:
 ---
 [name::Intensity+Mediator-Measurement_Accuracy]
 [SpocWebEntityId::23560]
-+ [pro::[[Triz-Intensity]]]
++ [#has_/Pros :: [[Triz-Intensity]]]
 [Triz-Principle::[[Triz-Mediator]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.md|Triz-Intensity+Mediator-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.internal.md|Triz-Intensity+Mediator-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.protect.md|Triz-Intensity+Mediator-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.private.md|Triz-Intensity+Mediator-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.personal.md|Triz-Intensity+Mediator-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.secret.md|Triz-Intensity+Mediator-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.internal|Triz-Intensity+Mediator-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.protect|Triz-Intensity+Mediator-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.private|Triz-Intensity+Mediator-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.personal|Triz-Intensity+Mediator-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Mediator-Measurement_Accuracy.secret|Triz-Intensity+Mediator-Measurement_Accuracy.secret]] 

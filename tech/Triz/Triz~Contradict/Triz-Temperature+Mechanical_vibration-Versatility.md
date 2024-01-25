@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Mechanical_vibration-Versatility]
 [SpocWebEntityId::24332]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::[[Triz-Versatility]]]
+- [#has_/Cons :: [[Triz-Versatility]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.md|Triz-Temperature+Mechanical_vibration-Versatility]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.internal.md|Triz-Temperature+Mechanical_vibration-Versatility.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.protect.md|Triz-Temperature+Mechanical_vibration-Versatility.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.private.md|Triz-Temperature+Mechanical_vibration-Versatility.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.personal.md|Triz-Temperature+Mechanical_vibration-Versatility.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.secret.md|Triz-Temperature+Mechanical_vibration-Versatility.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.internal|Triz-Temperature+Mechanical_vibration-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.protect|Triz-Temperature+Mechanical_vibration-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.private|Triz-Temperature+Mechanical_vibration-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.personal|Triz-Temperature+Mechanical_vibration-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.secret|Triz-Temperature+Mechanical_vibration-Versatility.secret]] 

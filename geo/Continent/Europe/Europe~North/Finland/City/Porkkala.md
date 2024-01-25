@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Porkkala.md|Porkkala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Porkkala.internal.md|Porkkala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Porkkala.protect.md|Porkkala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Porkkala.private.md|Porkkala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Porkkala.personal.md|Porkkala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Porkkala.secret.md|Porkkala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Porkkala.internal|Porkkala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Porkkala.protect|Porkkala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Porkkala.private|Porkkala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Porkkala.personal|Porkkala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Porkkala.secret|Porkkala.secret]] 

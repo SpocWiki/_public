@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Montespluga.md|Montespluga]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montespluga.internal.md|Montespluga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montespluga.protect.md|Montespluga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montespluga.private.md|Montespluga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montespluga.personal.md|Montespluga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montespluga.secret.md|Montespluga.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montespluga.internal|Montespluga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montespluga.protect|Montespluga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montespluga.private|Montespluga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montespluga.personal|Montespluga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montespluga.secret|Montespluga.secret]] 

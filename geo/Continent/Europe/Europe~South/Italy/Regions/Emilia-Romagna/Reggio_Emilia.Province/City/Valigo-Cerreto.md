@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Valigo-Cerreto.md|Valigo-Cerreto]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Valigo-Cerreto.internal.md|Valigo-Cerreto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Valigo-Cerreto.protect.md|Valigo-Cerreto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Valigo-Cerreto.private.md|Valigo-Cerreto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Valigo-Cerreto.personal.md|Valigo-Cerreto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Valigo-Cerreto.secret.md|Valigo-Cerreto.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Valigo-Cerreto.internal|Valigo-Cerreto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Valigo-Cerreto.protect|Valigo-Cerreto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Valigo-Cerreto.private|Valigo-Cerreto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Valigo-Cerreto.personal|Valigo-Cerreto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Valigo-Cerreto.secret|Valigo-Cerreto.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kuruṇægala/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.md|Kuruṇægala]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.internal.md|Kuruṇægala.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.protect.md|Kuruṇægala.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.private.md|Kuruṇægala.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.personal.md|Kuruṇægala.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.secret.md|Kuruṇægala.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.internal|Kuruṇægala.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.protect|Kuruṇægala.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.private|Kuruṇægala.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.personal|Kuruṇægala.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.secret|Kuruṇægala.secret]] 
 

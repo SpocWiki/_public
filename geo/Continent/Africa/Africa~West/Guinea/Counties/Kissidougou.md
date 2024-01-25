@@ -41,9 +41,9 @@ markerFolder: ./Kissidougou/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Kissidougou.md|Kissidougou]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kissidougou.internal.md|Kissidougou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kissidougou.protect.md|Kissidougou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Kissidougou.private.md|Kissidougou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kissidougou.personal.md|Kissidougou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kissidougou.secret.md|Kissidougou.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kissidougou.internal|Kissidougou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kissidougou.protect|Kissidougou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Kissidougou.private|Kissidougou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kissidougou.personal|Kissidougou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kissidougou.secret|Kissidougou.secret]] 
 

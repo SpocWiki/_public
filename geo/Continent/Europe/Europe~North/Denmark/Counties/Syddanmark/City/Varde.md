@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Varde.md|Varde]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Varde.internal.md|Varde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Varde.protect.md|Varde.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Varde.private.md|Varde.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Varde.personal.md|Varde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Varde.secret.md|Varde.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Varde.internal|Varde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Varde.protect|Varde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Varde.private|Varde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Varde.personal|Varde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Varde.secret|Varde.secret]] 

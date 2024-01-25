@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/South-America/Bolivia/City/La_Paz.md|La_Paz]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Bolivia/City/La_Paz.internal.md|La_Paz.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Bolivia/City/La_Paz.protect.md|La_Paz.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Bolivia/City/La_Paz.private.md|La_Paz.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Bolivia/City/La_Paz.personal.md|La_Paz.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Bolivia/City/La_Paz.secret.md|La_Paz.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Bolivia/City/La_Paz.internal|La_Paz.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Bolivia/City/La_Paz.protect|La_Paz.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Bolivia/City/La_Paz.private|La_Paz.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Bolivia/City/La_Paz.personal|La_Paz.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Bolivia/City/La_Paz.secret|La_Paz.secret]] 

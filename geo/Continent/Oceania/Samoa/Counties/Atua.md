@@ -41,9 +41,9 @@ markerFolder: ./Atua/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Atua.md|Atua]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Atua.internal.md|Atua.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Atua.protect.md|Atua.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Atua.private.md|Atua.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Atua.personal.md|Atua.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Atua.secret.md|Atua.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Atua.internal|Atua.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Atua.protect|Atua.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Atua.private|Atua.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Atua.personal|Atua.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Atua.secret|Atua.secret]] 
 

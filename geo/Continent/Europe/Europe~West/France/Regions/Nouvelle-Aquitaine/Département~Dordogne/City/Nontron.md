@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Nontron.md|Nontron]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nontron.internal.md|Nontron.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nontron.protect.md|Nontron.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Nontron.private.md|Nontron.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nontron.personal.md|Nontron.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nontron.secret.md|Nontron.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nontron.internal|Nontron.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nontron.protect|Nontron.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nontron.private|Nontron.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nontron.personal|Nontron.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nontron.secret|Nontron.secret]] 

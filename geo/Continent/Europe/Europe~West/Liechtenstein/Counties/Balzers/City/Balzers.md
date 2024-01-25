@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::47.08]
 [name::Balzers]
 [State::]
-[Country::[[Liechtenstein]]]
+[Country:[[../../../../../Europe~Central/Liechtenstein.public]]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Balzers.md|Balzers]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Balzers.internal.md|Balzers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Balzers.protect.md|Balzers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Balzers.private.md|Balzers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Balzers.personal.md|Balzers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Balzers.secret.md|Balzers.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Balzers.internal|Balzers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Balzers.protect|Balzers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Balzers.private|Balzers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Balzers.personal|Balzers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Balzers.secret|Balzers.secret]] 

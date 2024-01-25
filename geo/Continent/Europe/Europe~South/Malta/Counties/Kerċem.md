@@ -41,9 +41,9 @@ markerFolder: ./Kerċem/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Kerċem.md|Kerċem]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Kerċem.internal.md|Kerċem.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Kerċem.protect.md|Kerċem.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Kerċem.private.md|Kerċem.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Kerċem.personal.md|Kerċem.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Kerċem.secret.md|Kerċem.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Kerċem.internal|Kerċem.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Kerċem.protect|Kerċem.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Kerċem.private|Kerċem.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Kerċem.personal|Kerċem.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Kerċem.secret|Kerċem.secret]] 
 

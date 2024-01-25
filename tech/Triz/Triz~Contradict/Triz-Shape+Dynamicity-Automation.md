@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Dynamicity-Automation]
 [SpocWebEntityId::23820]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.md|Triz-Shape+Dynamicity-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.internal.md|Triz-Shape+Dynamicity-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.protect.md|Triz-Shape+Dynamicity-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.private.md|Triz-Shape+Dynamicity-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.personal.md|Triz-Shape+Dynamicity-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.secret.md|Triz-Shape+Dynamicity-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.internal|Triz-Shape+Dynamicity-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.protect|Triz-Shape+Dynamicity-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.private|Triz-Shape+Dynamicity-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.personal|Triz-Shape+Dynamicity-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.secret|Triz-Shape+Dynamicity-Automation.secret]] 

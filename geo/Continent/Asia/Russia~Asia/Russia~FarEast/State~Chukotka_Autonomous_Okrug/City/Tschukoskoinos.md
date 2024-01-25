@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschukoskoinos.md|Tschukoskoinos]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschukoskoinos.internal.md|Tschukoskoinos.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschukoskoinos.protect.md|Tschukoskoinos.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschukoskoinos.private.md|Tschukoskoinos.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschukoskoinos.personal.md|Tschukoskoinos.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschukoskoinos.secret.md|Tschukoskoinos.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschukoskoinos.internal|Tschukoskoinos.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschukoskoinos.protect|Tschukoskoinos.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschukoskoinos.private|Tschukoskoinos.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschukoskoinos.personal|Tschukoskoinos.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschukoskoinos.secret|Tschukoskoinos.secret]] 

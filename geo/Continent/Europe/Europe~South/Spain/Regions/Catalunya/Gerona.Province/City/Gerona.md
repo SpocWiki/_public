@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Spain/City/Gerona.md|Gerona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Gerona.internal.md|Gerona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Gerona.protect.md|Gerona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Gerona.private.md|Gerona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Gerona.personal.md|Gerona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Gerona.secret.md|Gerona.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Gerona.internal|Gerona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Gerona.protect|Gerona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Gerona.private|Gerona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Gerona.personal|Gerona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Gerona.secret|Gerona.secret]] 

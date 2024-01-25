@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Royston.md|Royston]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Royston.internal.md|Royston.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Royston.protect.md|Royston.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Royston.private.md|Royston.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Royston.personal.md|Royston.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Royston.secret.md|Royston.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Royston.internal|Royston.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Royston.protect|Royston.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Royston.private|Royston.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Royston.personal|Royston.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Royston.secret|Royston.secret]] 

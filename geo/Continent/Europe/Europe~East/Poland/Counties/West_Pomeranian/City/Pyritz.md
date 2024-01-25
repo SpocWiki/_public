@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Pyritz.md|Pyritz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pyritz.internal.md|Pyritz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pyritz.protect.md|Pyritz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pyritz.private.md|Pyritz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pyritz.personal.md|Pyritz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pyritz.secret.md|Pyritz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pyritz.internal|Pyritz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pyritz.protect|Pyritz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pyritz.private|Pyritz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pyritz.personal|Pyritz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pyritz.secret|Pyritz.secret]] 

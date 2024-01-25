@@ -41,9 +41,9 @@ markerFolder: ./Ocotepeque/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.md|Ocotepeque]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.internal.md|Ocotepeque.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.protect.md|Ocotepeque.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.private.md|Ocotepeque.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.personal.md|Ocotepeque.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.secret.md|Ocotepeque.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.internal|Ocotepeque.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.protect|Ocotepeque.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.private|Ocotepeque.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.personal|Ocotepeque.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.secret|Ocotepeque.secret]] 
 

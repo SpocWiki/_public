@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Nagykoros.md|Nagykoros]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nagykoros.internal.md|Nagykoros.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nagykoros.protect.md|Nagykoros.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Nagykoros.private.md|Nagykoros.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nagykoros.personal.md|Nagykoros.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nagykoros.secret.md|Nagykoros.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nagykoros.internal|Nagykoros.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nagykoros.protect|Nagykoros.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Nagykoros.private|Nagykoros.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nagykoros.personal|Nagykoros.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nagykoros.secret|Nagykoros.secret]] 

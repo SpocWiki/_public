@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Stolp.md|Stolp]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolp.internal.md|Stolp.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolp.protect.md|Stolp.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stolp.private.md|Stolp.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolp.personal.md|Stolp.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolp.secret.md|Stolp.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolp.internal|Stolp.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolp.protect|Stolp.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stolp.private|Stolp.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolp.personal|Stolp.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolp.secret|Stolp.secret]] 

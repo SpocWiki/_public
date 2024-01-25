@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Niort.md|Niort]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Niort.internal.md|Niort.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Niort.protect.md|Niort.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Niort.private.md|Niort.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Niort.personal.md|Niort.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Niort.secret.md|Niort.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Niort.internal|Niort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Niort.protect|Niort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Niort.private|Niort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Niort.personal|Niort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Niort.secret|Niort.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kraplau.md|Kraplau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kraplau.internal.md|Kraplau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kraplau.protect.md|Kraplau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kraplau.private.md|Kraplau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kraplau.personal.md|Kraplau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kraplau.secret.md|Kraplau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kraplau.internal|Kraplau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kraplau.protect|Kraplau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kraplau.private|Kraplau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kraplau.personal|Kraplau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kraplau.secret|Kraplau.secret]] 

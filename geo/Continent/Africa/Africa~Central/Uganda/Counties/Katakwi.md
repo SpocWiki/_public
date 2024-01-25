@@ -41,9 +41,9 @@ markerFolder: ./Katakwi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Katakwi.md|Katakwi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Katakwi.internal.md|Katakwi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Katakwi.protect.md|Katakwi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Katakwi.private.md|Katakwi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Katakwi.personal.md|Katakwi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Katakwi.secret.md|Katakwi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Katakwi.internal|Katakwi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Katakwi.protect|Katakwi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Katakwi.private|Katakwi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Katakwi.personal|Katakwi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Katakwi.secret|Katakwi.secret]] 
 

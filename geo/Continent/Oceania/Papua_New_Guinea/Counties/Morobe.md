@@ -41,9 +41,9 @@ markerFolder: ./Morobe/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.md|Morobe]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.internal.md|Morobe.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.protect.md|Morobe.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.private.md|Morobe.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.personal.md|Morobe.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.secret.md|Morobe.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.internal|Morobe.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.protect|Morobe.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.private|Morobe.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.personal|Morobe.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.secret|Morobe.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kronstadt.md|Kronstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kronstadt.internal.md|Kronstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kronstadt.protect.md|Kronstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kronstadt.private.md|Kronstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kronstadt.personal.md|Kronstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kronstadt.secret.md|Kronstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kronstadt.internal|Kronstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kronstadt.protect|Kronstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kronstadt.private|Kronstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kronstadt.personal|Kronstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kronstadt.secret|Kronstadt.secret]] 

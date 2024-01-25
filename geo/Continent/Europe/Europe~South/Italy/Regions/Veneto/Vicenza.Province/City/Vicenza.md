@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Vicenza.md|Vicenza]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vicenza.internal.md|Vicenza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vicenza.protect.md|Vicenza.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vicenza.private.md|Vicenza.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vicenza.personal.md|Vicenza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vicenza.secret.md|Vicenza.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vicenza.internal|Vicenza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vicenza.protect|Vicenza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vicenza.private|Vicenza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vicenza.personal|Vicenza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vicenza.secret|Vicenza.secret]] 

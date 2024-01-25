@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.md|Petrokrepost=Schluesselburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.internal.md|Petrokrepost=Schluesselburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.protect.md|Petrokrepost=Schluesselburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.private.md|Petrokrepost=Schluesselburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.personal.md|Petrokrepost=Schluesselburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.secret.md|Petrokrepost=Schluesselburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.internal|Petrokrepost=Schluesselburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.protect|Petrokrepost=Schluesselburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.private|Petrokrepost=Schluesselburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.personal|Petrokrepost=Schluesselburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrokrepost=Schluesselburg.secret|Petrokrepost=Schluesselburg.secret]] 

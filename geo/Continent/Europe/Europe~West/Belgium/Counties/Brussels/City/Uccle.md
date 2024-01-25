@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Uccle.md|Uccle]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Uccle.internal.md|Uccle.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Uccle.protect.md|Uccle.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Uccle.private.md|Uccle.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Uccle.personal.md|Uccle.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Uccle.secret.md|Uccle.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Uccle.internal|Uccle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Uccle.protect|Uccle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Uccle.private|Uccle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Uccle.personal|Uccle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Uccle.secret|Uccle.secret]] 

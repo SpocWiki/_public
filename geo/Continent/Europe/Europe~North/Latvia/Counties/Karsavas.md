@@ -41,9 +41,9 @@ markerFolder: ./Karsavas/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Karsavas.md|Karsavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Karsavas.internal.md|Karsavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Karsavas.protect.md|Karsavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Karsavas.private.md|Karsavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Karsavas.personal.md|Karsavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Karsavas.secret.md|Karsavas.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Karsavas.internal|Karsavas.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Karsavas.protect|Karsavas.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Karsavas.private|Karsavas.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Karsavas.personal|Karsavas.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Karsavas.secret|Karsavas.secret]] 
 

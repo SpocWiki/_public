@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Strassen.md|Strassen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Strassen.internal.md|Strassen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Strassen.protect.md|Strassen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Strassen.private.md|Strassen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Strassen.personal.md|Strassen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Strassen.secret.md|Strassen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Strassen.internal|Strassen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Strassen.protect|Strassen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Strassen.private|Strassen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Strassen.personal|Strassen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Strassen.secret|Strassen.secret]] 

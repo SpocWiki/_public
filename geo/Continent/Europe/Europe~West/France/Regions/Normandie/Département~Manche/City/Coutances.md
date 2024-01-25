@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Coutances.md|Coutances]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Coutances.internal.md|Coutances.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Coutances.protect.md|Coutances.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Coutances.private.md|Coutances.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Coutances.personal.md|Coutances.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Coutances.secret.md|Coutances.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Coutances.internal|Coutances.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Coutances.protect|Coutances.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Coutances.private|Coutances.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Coutances.personal|Coutances.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Coutances.secret|Coutances.secret]] 

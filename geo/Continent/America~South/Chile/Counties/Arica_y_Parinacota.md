@@ -41,9 +41,9 @@ markerFolder: ./Arica_y_Parinacota/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.md|Arica_y_Parinacota]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.internal.md|Arica_y_Parinacota.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.protect.md|Arica_y_Parinacota.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.private.md|Arica_y_Parinacota.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.personal.md|Arica_y_Parinacota.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.secret.md|Arica_y_Parinacota.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.internal|Arica_y_Parinacota.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.protect|Arica_y_Parinacota.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.private|Arica_y_Parinacota.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.personal|Arica_y_Parinacota.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Arica_y_Parinacota.secret|Arica_y_Parinacota.secret]] 
 

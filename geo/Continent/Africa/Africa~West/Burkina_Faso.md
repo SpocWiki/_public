@@ -132,7 +132,7 @@ markerFolder: ./Burkina_Faso//
 ## Confidential Links & Embeds: 
 - [[Burkina_Faso|Burkina_Faso]] 
 - [[../../../../../_internal/geo/Continent/Africa/Burkina_Faso.internal|Burkina_Faso.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso.protect.md|Burkina_Faso.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso.private.md|Burkina_Faso.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso.personal.md|Burkina_Faso.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso.secret.md|Burkina_Faso.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso.protect|Burkina_Faso.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso.private|Burkina_Faso.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso.personal|Burkina_Faso.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso.secret|Burkina_Faso.secret]] 

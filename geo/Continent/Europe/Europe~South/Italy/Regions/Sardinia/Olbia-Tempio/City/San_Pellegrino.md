@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/San_Pellegrino.md|San_Pellegrino]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Pellegrino.internal.md|San_Pellegrino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Pellegrino.protect.md|San_Pellegrino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Pellegrino.private.md|San_Pellegrino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Pellegrino.personal.md|San_Pellegrino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Pellegrino.secret.md|San_Pellegrino.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Pellegrino.internal|San_Pellegrino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Pellegrino.protect|San_Pellegrino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Pellegrino.private|San_Pellegrino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Pellegrino.personal|San_Pellegrino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Pellegrino.secret|San_Pellegrino.secret]] 

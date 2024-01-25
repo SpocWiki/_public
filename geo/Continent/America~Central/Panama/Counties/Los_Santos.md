@@ -41,9 +41,9 @@ markerFolder: ./Los_Santos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Los_Santos.md|Los_Santos]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Los_Santos.internal.md|Los_Santos.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Los_Santos.protect.md|Los_Santos.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Los_Santos.private.md|Los_Santos.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Los_Santos.personal.md|Los_Santos.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Los_Santos.secret.md|Los_Santos.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Los_Santos.internal|Los_Santos.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Los_Santos.protect|Los_Santos.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Los_Santos.private|Los_Santos.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Los_Santos.personal|Los_Santos.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Los_Santos.secret|Los_Santos.secret]] 
 

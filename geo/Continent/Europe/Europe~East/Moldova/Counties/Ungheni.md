@@ -41,9 +41,9 @@ markerFolder: ./Ungheni/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Ungheni.md|Ungheni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ungheni.internal.md|Ungheni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ungheni.protect.md|Ungheni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ungheni.private.md|Ungheni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ungheni.personal.md|Ungheni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ungheni.secret.md|Ungheni.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ungheni.internal|Ungheni.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ungheni.protect|Ungheni.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ungheni.private|Ungheni.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ungheni.personal|Ungheni.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ungheni.secret|Ungheni.secret]] 
 

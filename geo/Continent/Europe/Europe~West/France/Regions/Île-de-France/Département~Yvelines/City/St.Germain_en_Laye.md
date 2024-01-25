@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/St.Germain_en_Laye.md|St.Germain_en_Laye]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Germain_en_Laye.internal.md|St.Germain_en_Laye.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Germain_en_Laye.protect.md|St.Germain_en_Laye.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Germain_en_Laye.private.md|St.Germain_en_Laye.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Germain_en_Laye.personal.md|St.Germain_en_Laye.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Germain_en_Laye.secret.md|St.Germain_en_Laye.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Germain_en_Laye.internal|St.Germain_en_Laye.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Germain_en_Laye.protect|St.Germain_en_Laye.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Germain_en_Laye.private|St.Germain_en_Laye.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Germain_en_Laye.personal|St.Germain_en_Laye.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Germain_en_Laye.secret|St.Germain_en_Laye.secret]] 

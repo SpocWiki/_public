@@ -138,7 +138,7 @@ markerFolder: ./Uzbekistan///
 ## Confidential Links & Embeds: 
 - [[Uzbekistan|Uzbekistan]] 
 - [[../../../../../_internal/geo/Continent/Asia/Uzbekistan.internal|Uzbekistan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Uzbekistan.protect.md|Uzbekistan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Uzbekistan.private.md|Uzbekistan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Uzbekistan.personal.md|Uzbekistan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Uzbekistan.secret.md|Uzbekistan.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Uzbekistan.protect|Uzbekistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Uzbekistan.private|Uzbekistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Uzbekistan.personal|Uzbekistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Uzbekistan.secret|Uzbekistan.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Kosrae/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.md|Kosrae]] 
-- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.internal.md|Kosrae.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.protect.md|Kosrae.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.private.md|Kosrae.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.personal.md|Kosrae.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.secret.md|Kosrae.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.internal|Kosrae.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.protect|Kosrae.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.private|Kosrae.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.personal|Kosrae.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.secret|Kosrae.secret]] 
 

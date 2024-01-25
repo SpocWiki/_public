@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Galtuer.md|Galtuer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Galtuer.internal.md|Galtuer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Galtuer.protect.md|Galtuer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Galtuer.private.md|Galtuer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Galtuer.personal.md|Galtuer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Galtuer.secret.md|Galtuer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Galtuer.internal|Galtuer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Galtuer.protect|Galtuer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Galtuer.private|Galtuer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Galtuer.personal|Galtuer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Galtuer.secret|Galtuer.secret]] 

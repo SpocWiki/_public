@@ -41,9 +41,9 @@ markerFolder: ./Prizren/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Prizren.md|Prizren]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Prizren.internal.md|Prizren.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Prizren.protect.md|Prizren.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Prizren.private.md|Prizren.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Prizren.personal.md|Prizren.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Prizren.secret.md|Prizren.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Prizren.internal|Prizren.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Prizren.protect|Prizren.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Prizren.private|Prizren.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Prizren.personal|Prizren.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Prizren.secret|Prizren.secret]] 
 

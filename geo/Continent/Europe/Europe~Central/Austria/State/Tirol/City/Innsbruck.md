@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Innsbruck.md|Innsbruck]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Innsbruck.internal.md|Innsbruck.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Innsbruck.protect.md|Innsbruck.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Innsbruck.private.md|Innsbruck.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Innsbruck.personal.md|Innsbruck.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Innsbruck.secret.md|Innsbruck.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Innsbruck.internal|Innsbruck.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Innsbruck.protect|Innsbruck.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Innsbruck.private|Innsbruck.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Innsbruck.personal|Innsbruck.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Innsbruck.secret|Innsbruck.secret]] 

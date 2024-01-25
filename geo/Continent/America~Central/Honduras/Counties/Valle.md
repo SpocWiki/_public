@@ -41,9 +41,9 @@ markerFolder: ./Valle/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Valle.md|Valle]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Valle.internal.md|Valle.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Valle.protect.md|Valle.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Valle.private.md|Valle.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Valle.personal.md|Valle.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Valle.secret.md|Valle.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Valle.internal|Valle.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Valle.protect|Valle.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Valle.private|Valle.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Valle.personal|Valle.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Valle.secret|Valle.secret]] 
 

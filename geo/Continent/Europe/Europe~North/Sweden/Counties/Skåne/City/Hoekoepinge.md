@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hoekoepinge.md|Hoekoepinge]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hoekoepinge.internal.md|Hoekoepinge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hoekoepinge.protect.md|Hoekoepinge.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hoekoepinge.private.md|Hoekoepinge.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hoekoepinge.personal.md|Hoekoepinge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hoekoepinge.secret.md|Hoekoepinge.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hoekoepinge.internal|Hoekoepinge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hoekoepinge.protect|Hoekoepinge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hoekoepinge.private|Hoekoepinge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hoekoepinge.personal|Hoekoepinge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hoekoepinge.secret|Hoekoepinge.secret]] 

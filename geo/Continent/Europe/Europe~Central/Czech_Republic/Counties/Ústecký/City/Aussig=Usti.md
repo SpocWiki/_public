@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.md|Aussig=Usti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.internal.md|Aussig=Usti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.protect.md|Aussig=Usti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.private.md|Aussig=Usti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.personal.md|Aussig=Usti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.secret.md|Aussig=Usti.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.internal|Aussig=Usti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.protect|Aussig=Usti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.private|Aussig=Usti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.personal|Aussig=Usti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.secret|Aussig=Usti.secret]] 

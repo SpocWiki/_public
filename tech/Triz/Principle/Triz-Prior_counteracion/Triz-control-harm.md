@@ -25,8 +25,8 @@ If it will be necessary to do an action with both harmful and useful effects, th
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-control-harm.md|Triz-control-harm]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-control-harm.internal.md|Triz-control-harm.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-control-harm.protect.md|Triz-control-harm.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-control-harm.private.md|Triz-control-harm.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-control-harm.personal.md|Triz-control-harm.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-control-harm.secret.md|Triz-control-harm.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-control-harm.internal|Triz-control-harm.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-control-harm.protect|Triz-control-harm.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-control-harm.private|Triz-control-harm.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-control-harm.personal|Triz-control-harm.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-control-harm.secret|Triz-control-harm.secret]] 

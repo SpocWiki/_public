@@ -12,16 +12,16 @@ tags:
 ---
 [name::Temperature+Universality-moving_Weight]
 [SpocWebEntityId::24226]
-+ [pro::[[Triz-Temperature]]]
++ [#has_/Pros :: [[Triz-Temperature]]]
 [Triz-Principle::[[Triz-Universality]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.md|Triz-Temperature+Universality-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.internal.md|Triz-Temperature+Universality-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.protect.md|Triz-Temperature+Universality-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.private.md|Triz-Temperature+Universality-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.personal.md|Triz-Temperature+Universality-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.secret.md|Triz-Temperature+Universality-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.internal|Triz-Temperature+Universality-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.protect|Triz-Temperature+Universality-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.private|Triz-Temperature+Universality-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.personal|Triz-Temperature+Universality-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Universality-moving_Weight.secret|Triz-Temperature+Universality-moving_Weight.secret]] 

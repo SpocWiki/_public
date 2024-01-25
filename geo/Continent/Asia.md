@@ -28,8 +28,8 @@ markerFolder: ./Asia/
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/geo/Continent/Asia.md|Asia]] 
-- [[../../../_internal/geo/Continent/Asia.internal.md|Asia.internal]] 
-- [[../../../_protect/geo/Continent/Asia.protect.md|Asia.protect]] 
-- [[../../../_private/geo/Continent/Asia.private.md|Asia.private]] 
-- [[../../../_personal/geo/Continent/Asia.personal.md|Asia.personal]] 
-- [[../../../_secret/geo/Continent/Asia.secret.md|Asia.secret]] 
+- [[../../../_internal/geo/Continent/Asia.internal|Asia.internal]] 
+- [[../../../_protect/geo/Continent/Asia.protect|Asia.protect]] 
+- [[../../../_private/geo/Continent/Asia.private|Asia.private]] 
+- [[../../../_personal/geo/Continent/Asia.personal|Asia.personal]] 
+- [[../../../_secret/geo/Continent/Asia.secret|Asia.secret]] 

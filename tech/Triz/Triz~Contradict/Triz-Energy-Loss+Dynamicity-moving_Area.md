@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Dynamicity-moving_Area]
 [SpocWebEntityId::24715]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-moving_Area]]]
+- [#has_/Cons :: [[Triz-moving_Area]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.md|Triz-Energy-Loss+Dynamicity-moving_Area]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.internal.md|Triz-Energy-Loss+Dynamicity-moving_Area.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.protect.md|Triz-Energy-Loss+Dynamicity-moving_Area.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.private.md|Triz-Energy-Loss+Dynamicity-moving_Area.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.personal.md|Triz-Energy-Loss+Dynamicity-moving_Area.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.secret.md|Triz-Energy-Loss+Dynamicity-moving_Area.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.internal|Triz-Energy-Loss+Dynamicity-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.protect|Triz-Energy-Loss+Dynamicity-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.private|Triz-Energy-Loss+Dynamicity-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.personal|Triz-Energy-Loss+Dynamicity-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-moving_Area.secret|Triz-Energy-Loss+Dynamicity-moving_Area.secret]] 

@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.md|Grabtown]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.internal.md|Grabtown.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.protect.md|Grabtown.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.private.md|Grabtown.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.personal.md|Grabtown.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.secret.md|Grabtown.secret]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.internal|Grabtown.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.protect|Grabtown.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.private|Grabtown.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.personal|Grabtown.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Grabtown.secret|Grabtown.secret]] 

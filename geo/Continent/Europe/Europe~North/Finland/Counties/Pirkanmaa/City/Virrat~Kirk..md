@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Virrat~Kirk..md|Virrat~Kirk.]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Virrat~Kirk..internal.md|Virrat~Kirk..internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Virrat~Kirk..protect.md|Virrat~Kirk..protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Virrat~Kirk..private.md|Virrat~Kirk..private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Virrat~Kirk..personal.md|Virrat~Kirk..personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Virrat~Kirk..secret.md|Virrat~Kirk..secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Virrat~Kirk..internal|Virrat~Kirk..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Virrat~Kirk..protect|Virrat~Kirk..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Virrat~Kirk..private|Virrat~Kirk..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Virrat~Kirk..personal|Virrat~Kirk..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Virrat~Kirk..secret|Virrat~Kirk..secret]] 

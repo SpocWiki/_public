@@ -41,9 +41,9 @@ markerFolder: ./Lucerne/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.md|Lucerne]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.internal.md|Lucerne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.protect.md|Lucerne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.private.md|Lucerne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.personal.md|Lucerne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.secret.md|Lucerne.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.internal|Lucerne.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.protect|Lucerne.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.private|Lucerne.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.personal|Lucerne.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.secret|Lucerne.secret]] 
 

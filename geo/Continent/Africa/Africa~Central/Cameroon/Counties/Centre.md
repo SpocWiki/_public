@@ -41,9 +41,9 @@ markerFolder: ./Centre/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Centre.md|Centre]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Centre.internal.md|Centre.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Centre.protect.md|Centre.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Centre.private.md|Centre.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Centre.personal.md|Centre.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Centre.secret.md|Centre.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Centre.internal|Centre.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Centre.protect|Centre.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Centre.private|Centre.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Centre.personal|Centre.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Centre.secret|Centre.secret]] 
 

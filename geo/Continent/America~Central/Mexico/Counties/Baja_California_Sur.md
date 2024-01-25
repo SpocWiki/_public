@@ -41,9 +41,9 @@ markerFolder: ./Baja_California_Sur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.md|Baja_California_Sur]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.internal.md|Baja_California_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.protect.md|Baja_California_Sur.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.private.md|Baja_California_Sur.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.personal.md|Baja_California_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.secret.md|Baja_California_Sur.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.internal|Baja_California_Sur.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.protect|Baja_California_Sur.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.private|Baja_California_Sur.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.personal|Baja_California_Sur.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Baja_California_Sur.secret|Baja_California_Sur.secret]] 
 

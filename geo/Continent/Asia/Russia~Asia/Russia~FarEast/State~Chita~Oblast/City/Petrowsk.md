@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petrowsk.md|Petrowsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrowsk.internal.md|Petrowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrowsk.protect.md|Petrowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrowsk.private.md|Petrowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrowsk.personal.md|Petrowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrowsk.secret.md|Petrowsk.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrowsk.internal|Petrowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrowsk.protect|Petrowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrowsk.private|Petrowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrowsk.personal|Petrowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrowsk.secret|Petrowsk.secret]] 

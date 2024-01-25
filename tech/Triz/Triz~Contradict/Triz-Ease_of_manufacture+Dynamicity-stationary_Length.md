@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_manufacture+Dynamicity-stationary_Length]
 [SpocWebEntityId::25840]
-+ [pro::[[Triz-Ease_of_manufacture]]]
++ [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-stationary_Length]]]
+- [#has_/Cons :: [[Triz-stationary_Length]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.md|Triz-Ease_of_manufacture+Dynamicity-stationary_Length]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.internal.md|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.protect.md|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.private.md|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.personal.md|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.secret.md|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.internal|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.protect|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.private|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.personal|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-stationary_Length.secret|Triz-Ease_of_manufacture+Dynamicity-stationary_Length.secret]] 

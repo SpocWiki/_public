@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Horodenra.md|Horodenra]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Horodenra.internal.md|Horodenra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Horodenra.protect.md|Horodenra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Horodenra.private.md|Horodenra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Horodenra.personal.md|Horodenra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Horodenra.secret.md|Horodenra.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Horodenra.internal|Horodenra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Horodenra.protect|Horodenra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Horodenra.private|Horodenra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Horodenra.personal|Horodenra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Horodenra.secret|Horodenra.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Raab=Gyor.md|Raab=Gyor]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Raab=Gyor.internal.md|Raab=Gyor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Raab=Gyor.protect.md|Raab=Gyor.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Raab=Gyor.private.md|Raab=Gyor.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Raab=Gyor.personal.md|Raab=Gyor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Raab=Gyor.secret.md|Raab=Gyor.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Raab=Gyor.internal|Raab=Gyor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Raab=Gyor.protect|Raab=Gyor.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Raab=Gyor.private|Raab=Gyor.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Raab=Gyor.personal|Raab=Gyor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Raab=Gyor.secret|Raab=Gyor.secret]] 

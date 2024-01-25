@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kilanda.md|Kilanda]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kilanda.internal.md|Kilanda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kilanda.protect.md|Kilanda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kilanda.private.md|Kilanda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kilanda.personal.md|Kilanda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kilanda.secret.md|Kilanda.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kilanda.internal|Kilanda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kilanda.protect|Kilanda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kilanda.private|Kilanda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kilanda.personal|Kilanda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kilanda.secret|Kilanda.secret]] 

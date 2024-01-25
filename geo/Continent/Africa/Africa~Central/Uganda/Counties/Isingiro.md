@@ -41,9 +41,9 @@ markerFolder: ./Isingiro/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Isingiro.md|Isingiro]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Isingiro.internal.md|Isingiro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Isingiro.protect.md|Isingiro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Isingiro.private.md|Isingiro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Isingiro.personal.md|Isingiro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Isingiro.secret.md|Isingiro.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Isingiro.internal|Isingiro.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Isingiro.protect|Isingiro.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Isingiro.private|Isingiro.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Isingiro.personal|Isingiro.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Isingiro.secret|Isingiro.secret]] 
 

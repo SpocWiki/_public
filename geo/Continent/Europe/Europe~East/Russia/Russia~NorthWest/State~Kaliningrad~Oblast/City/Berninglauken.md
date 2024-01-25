@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Berninglauken.md|Berninglauken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Berninglauken.internal.md|Berninglauken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Berninglauken.protect.md|Berninglauken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Berninglauken.private.md|Berninglauken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Berninglauken.personal.md|Berninglauken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Berninglauken.secret.md|Berninglauken.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Berninglauken.internal|Berninglauken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Berninglauken.protect|Berninglauken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Berninglauken.private|Berninglauken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Berninglauken.personal|Berninglauken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Berninglauken.secret|Berninglauken.secret]] 

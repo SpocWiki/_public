@@ -41,9 +41,9 @@ markerFolder: ./Niamey/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Niger/Counties/Niamey.md|Niamey]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Niamey.internal.md|Niamey.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Niamey.protect.md|Niamey.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Niamey.private.md|Niamey.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Niamey.personal.md|Niamey.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Niamey.secret.md|Niamey.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Niamey.internal|Niamey.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Niamey.protect|Niamey.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Niamey.private|Niamey.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Niamey.personal|Niamey.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Niamey.secret|Niamey.secret]] 
 

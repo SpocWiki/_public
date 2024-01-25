@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Heve.md|Heve]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Heve.internal.md|Heve.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Heve.protect.md|Heve.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Heve.private.md|Heve.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Heve.personal.md|Heve.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Heve.secret.md|Heve.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Heve.internal|Heve.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Heve.protect|Heve.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Heve.private|Heve.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Heve.personal|Heve.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Heve.secret|Heve.secret]] 

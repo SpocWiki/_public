@@ -35,8 +35,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Mississippi.md|Mississippi]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Mississippi.internal.md|Mississippi.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Mississippi.protect.md|Mississippi.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Mississippi.private.md|Mississippi.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Mississippi.personal.md|Mississippi.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Mississippi.secret.md|Mississippi.secret]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Mississippi.internal|Mississippi.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Mississippi.protect|Mississippi.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Mississippi.private|Mississippi.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Mississippi.personal|Mississippi.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Mississippi.secret|Mississippi.secret]] 

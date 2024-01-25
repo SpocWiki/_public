@@ -41,9 +41,9 @@ markerFolder: ./Huíla/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Angola/Counties/Huíla.md|Huíla]] 
-- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Huíla.internal.md|Huíla.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Huíla.protect.md|Huíla.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Huíla.private.md|Huíla.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Huíla.personal.md|Huíla.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Huíla.secret.md|Huíla.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola/Counties/Huíla.internal|Huíla.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola/Counties/Huíla.protect|Huíla.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola/Counties/Huíla.private|Huíla.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola/Counties/Huíla.personal|Huíla.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola/Counties/Huíla.secret|Huíla.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Bihar/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Bihar.md|Bihar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Bihar.internal.md|Bihar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Bihar.protect.md|Bihar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Bihar.private.md|Bihar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Bihar.personal.md|Bihar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Bihar.secret.md|Bihar.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Bihar.internal|Bihar.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Bihar.protect|Bihar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Bihar.private|Bihar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Bihar.personal|Bihar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Bihar.secret|Bihar.secret]] 
 

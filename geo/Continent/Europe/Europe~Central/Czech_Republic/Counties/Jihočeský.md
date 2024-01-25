@@ -41,9 +41,9 @@ markerFolder: ./Jihočeský/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.md|Jihočeský]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.internal.md|Jihočeský.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.protect.md|Jihočeský.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.private.md|Jihočeský.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.personal.md|Jihočeský.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.secret.md|Jihočeský.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.internal|Jihočeský.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.protect|Jihočeský.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.private|Jihočeský.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.personal|Jihočeský.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Jihočeský.secret|Jihočeský.secret]] 
 

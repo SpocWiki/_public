@@ -41,9 +41,9 @@ markerFolder: ./South_Abaco/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.md|South_Abaco]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.internal.md|South_Abaco.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.protect.md|South_Abaco.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.private.md|South_Abaco.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.personal.md|South_Abaco.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.secret.md|South_Abaco.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.internal|South_Abaco.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.protect|South_Abaco.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.private|South_Abaco.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.personal|South_Abaco.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/South_Abaco.secret|South_Abaco.secret]] 
 

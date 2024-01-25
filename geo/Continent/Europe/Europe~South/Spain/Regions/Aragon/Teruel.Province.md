@@ -41,9 +41,9 @@ markerFolder: ./Teruel.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.md|Teruel.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.internal.md|Teruel.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.protect.md|Teruel.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.private.md|Teruel.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.personal.md|Teruel.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.secret.md|Teruel.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.internal|Teruel.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.protect|Teruel.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.private|Teruel.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.personal|Teruel.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Aragon/Teruel.Province.secret|Teruel.Province.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Haut-Ogooué/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.md|Haut-Ogooué]] 
-- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.internal.md|Haut-Ogooué.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.protect.md|Haut-Ogooué.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.private.md|Haut-Ogooué.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.personal.md|Haut-Ogooué.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.secret.md|Haut-Ogooué.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.internal|Haut-Ogooué.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.protect|Haut-Ogooué.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.private|Haut-Ogooué.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.personal|Haut-Ogooué.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Haut-Ogooué.secret|Haut-Ogooué.secret]] 
 

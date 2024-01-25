@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Rosasco.md|Rosasco]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rosasco.internal.md|Rosasco.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rosasco.protect.md|Rosasco.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rosasco.private.md|Rosasco.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rosasco.personal.md|Rosasco.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rosasco.secret.md|Rosasco.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rosasco.internal|Rosasco.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rosasco.protect|Rosasco.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rosasco.private|Rosasco.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rosasco.personal|Rosasco.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rosasco.secret|Rosasco.secret]] 

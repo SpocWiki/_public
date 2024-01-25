@@ -43,7 +43,7 @@ markerFolder: ./Korea~South/
 ## Confidential Links & Embeds: 
 -[[Korea~South|Korea~South]]] 
 -[[../../../../../_internal/geo/Continent/Asia/Korea~South.internal|Korea~South.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Korea~South.protect.md|Korea~South.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Korea~South.private.md|Korea~South.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Korea~South.personal.md|Korea~South.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Korea~South.secret.md|Korea~South.secret]] 
+- [[../../../../_protect/geo/Continent/Asia/Korea~South.protect|Korea~South.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Korea~South.private|Korea~South.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Korea~South.personal|Korea~South.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Korea~South.secret|Korea~South.secret]] 

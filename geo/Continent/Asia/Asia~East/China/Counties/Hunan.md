@@ -41,9 +41,9 @@ markerFolder: ./Hunan/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Hunan.md|Hunan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hunan.internal.md|Hunan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hunan.protect.md|Hunan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hunan.private.md|Hunan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hunan.personal.md|Hunan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hunan.secret.md|Hunan.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hunan.internal|Hunan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hunan.protect|Hunan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hunan.private|Hunan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hunan.personal|Hunan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hunan.secret|Hunan.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Mbale/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mbale.md|Mbale]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mbale.internal.md|Mbale.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mbale.protect.md|Mbale.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mbale.private.md|Mbale.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mbale.personal.md|Mbale.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mbale.secret.md|Mbale.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mbale.internal|Mbale.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mbale.protect|Mbale.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mbale.private|Mbale.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mbale.personal|Mbale.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mbale.secret|Mbale.secret]] 
 

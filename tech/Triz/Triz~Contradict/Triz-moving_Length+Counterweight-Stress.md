@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Length+Counterweight-Stress]
 [SpocWebEntityId::22831]
-+ [pro::[[Triz-moving_Length]]]
++ [#has_/Pros :: [[Triz-moving_Length]]]
 [Triz-Principle::[[Triz-Counterweight]]]
-- [con::[[Triz-Stress]]]
+- [#has_/Cons :: [[Triz-Stress]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.md|Triz-moving_Length+Counterweight-Stress]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.internal.md|Triz-moving_Length+Counterweight-Stress.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.protect.md|Triz-moving_Length+Counterweight-Stress.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.private.md|Triz-moving_Length+Counterweight-Stress.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.personal.md|Triz-moving_Length+Counterweight-Stress.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.secret.md|Triz-moving_Length+Counterweight-Stress.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.internal|Triz-moving_Length+Counterweight-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.protect|Triz-moving_Length+Counterweight-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.private|Triz-moving_Length+Counterweight-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.personal|Triz-moving_Length+Counterweight-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.secret|Triz-moving_Length+Counterweight-Stress.secret]] 

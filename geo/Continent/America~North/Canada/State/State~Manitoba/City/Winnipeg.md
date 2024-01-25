@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/North-America/Canada/City/Winnipeg.md|Winnipeg]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Winnipeg.internal.md|Winnipeg.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Winnipeg.protect.md|Winnipeg.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Winnipeg.private.md|Winnipeg.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Winnipeg.personal.md|Winnipeg.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Winnipeg.secret.md|Winnipeg.secret]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Winnipeg.internal|Winnipeg.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Winnipeg.protect|Winnipeg.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Winnipeg.private|Winnipeg.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Winnipeg.personal|Winnipeg.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Winnipeg.secret|Winnipeg.secret]] 

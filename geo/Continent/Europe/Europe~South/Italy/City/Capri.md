@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Capri.md|Capri]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Capri.internal.md|Capri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Capri.protect.md|Capri.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Capri.private.md|Capri.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Capri.personal.md|Capri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Capri.secret.md|Capri.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Capri.internal|Capri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Capri.protect|Capri.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Capri.private|Capri.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Capri.personal|Capri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Capri.secret|Capri.secret]] 

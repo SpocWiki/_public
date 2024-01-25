@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lublin.md|Lublin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lublin.internal.md|Lublin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lublin.protect.md|Lublin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lublin.private.md|Lublin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lublin.personal.md|Lublin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lublin.secret.md|Lublin.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lublin.internal|Lublin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lublin.protect|Lublin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lublin.private|Lublin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lublin.personal|Lublin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lublin.secret|Lublin.secret]] 

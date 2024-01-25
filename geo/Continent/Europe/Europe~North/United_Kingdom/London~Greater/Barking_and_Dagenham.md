@@ -41,9 +41,9 @@ markerFolder: ./Barking_and_Dagenham/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.md|Barking_and_Dagenham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.internal.md|Barking_and_Dagenham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.protect.md|Barking_and_Dagenham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.private.md|Barking_and_Dagenham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.personal.md|Barking_and_Dagenham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.secret.md|Barking_and_Dagenham.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.internal|Barking_and_Dagenham.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.protect|Barking_and_Dagenham.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.private|Barking_and_Dagenham.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.personal|Barking_and_Dagenham.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.secret|Barking_and_Dagenham.secret]] 
 

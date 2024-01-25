@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zug.md|Zug]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zug.internal.md|Zug.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zug.protect.md|Zug.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zug.private.md|Zug.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zug.personal.md|Zug.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zug.secret.md|Zug.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zug.internal|Zug.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zug.protect|Zug.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zug.private|Zug.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zug.personal|Zug.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zug.secret|Zug.secret]] 

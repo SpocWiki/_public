@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Finspaug.md|Finspaug]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Finspaug.internal.md|Finspaug.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Finspaug.protect.md|Finspaug.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Finspaug.private.md|Finspaug.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Finspaug.personal.md|Finspaug.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Finspaug.secret.md|Finspaug.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Finspaug.internal|Finspaug.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Finspaug.protect|Finspaug.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Finspaug.private|Finspaug.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Finspaug.personal|Finspaug.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Finspaug.secret|Finspaug.secret]] 

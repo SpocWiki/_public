@@ -12,16 +12,16 @@ tags:
 ---
 [name::Versatility+Segmentation-moving_Duration]
 [SpocWebEntityId::26224]
-+ [pro::[[Triz-Versatility]]]
++ [#has_/Pros :: [[Triz-Versatility]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-moving_Duration]]]
+- [#has_/Cons :: [[Triz-moving_Duration]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.md|Triz-Versatility+Segmentation-moving_Duration]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.internal.md|Triz-Versatility+Segmentation-moving_Duration.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.protect.md|Triz-Versatility+Segmentation-moving_Duration.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.private.md|Triz-Versatility+Segmentation-moving_Duration.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.personal.md|Triz-Versatility+Segmentation-moving_Duration.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.secret.md|Triz-Versatility+Segmentation-moving_Duration.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.internal|Triz-Versatility+Segmentation-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.protect|Triz-Versatility+Segmentation-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.private|Triz-Versatility+Segmentation-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.personal|Triz-Versatility+Segmentation-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Segmentation-moving_Duration.secret|Triz-Versatility+Segmentation-moving_Duration.secret]] 

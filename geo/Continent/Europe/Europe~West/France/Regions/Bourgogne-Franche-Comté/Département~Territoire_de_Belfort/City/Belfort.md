@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Belfort.md|Belfort]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Belfort.internal.md|Belfort.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Belfort.protect.md|Belfort.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Belfort.private.md|Belfort.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Belfort.personal.md|Belfort.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Belfort.secret.md|Belfort.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Belfort.internal|Belfort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Belfort.protect|Belfort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Belfort.private|Belfort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Belfort.personal|Belfort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Belfort.secret|Belfort.secret]] 

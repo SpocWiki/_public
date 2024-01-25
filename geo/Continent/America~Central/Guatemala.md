@@ -134,8 +134,8 @@ markerFolder: ./Guatemala/
 
 ## Confidential Links & Embeds: 
 - [[Guatemala|Guatemala]] 
-- [[../../../../_internal/geo/Continent/South-America/Guatemala.internal.md|Guatemala.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Guatemala.protect.md|Guatemala.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Guatemala.private.md|Guatemala.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Guatemala.personal.md|Guatemala.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Guatemala.secret.md|Guatemala.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Guatemala.internal|Guatemala.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Guatemala.protect|Guatemala.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Guatemala.private|Guatemala.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Guatemala.personal|Guatemala.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Guatemala.secret|Guatemala.secret]] 

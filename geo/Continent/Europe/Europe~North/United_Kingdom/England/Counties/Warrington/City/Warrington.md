@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Warrington.md|Warrington]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Warrington.internal.md|Warrington.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Warrington.protect.md|Warrington.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Warrington.private.md|Warrington.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Warrington.personal.md|Warrington.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Warrington.secret.md|Warrington.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Warrington.internal|Warrington.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Warrington.protect|Warrington.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Warrington.private|Warrington.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Warrington.personal|Warrington.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Warrington.secret|Warrington.secret]] 

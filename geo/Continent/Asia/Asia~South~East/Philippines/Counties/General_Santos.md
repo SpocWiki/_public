@@ -41,9 +41,9 @@ markerFolder: ./General_Santos/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.md|General_Santos]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.internal.md|General_Santos.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.protect.md|General_Santos.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.private.md|General_Santos.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.personal.md|General_Santos.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.secret.md|General_Santos.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.internal|General_Santos.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.protect|General_Santos.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.private|General_Santos.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.personal|General_Santos.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/General_Santos.secret|General_Santos.secret]] 
 

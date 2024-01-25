@@ -41,9 +41,9 @@ markerFolder: ./Vercelli/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.md|Vercelli]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.internal.md|Vercelli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.protect.md|Vercelli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.private.md|Vercelli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.personal.md|Vercelli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.secret.md|Vercelli.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.internal|Vercelli.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.protect|Vercelli.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.private|Vercelli.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.personal|Vercelli.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Piedmont/Vercelli.secret|Vercelli.secret]] 
 

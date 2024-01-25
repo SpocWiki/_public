@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Heidenheim~Wuerttemberg|Heidenheim~Wuerttemberg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.internal.md|Heidenheim~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.protect.md|Heidenheim~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.private.md|Heidenheim~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.personal.md|Heidenheim~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.secret.md|Heidenheim~Wuerttemberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.internal|Heidenheim~Wuerttemberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.protect|Heidenheim~Wuerttemberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.private|Heidenheim~Wuerttemberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.personal|Heidenheim~Wuerttemberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.secret|Heidenheim~Wuerttemberg.secret]] 

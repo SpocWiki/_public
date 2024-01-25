@@ -134,7 +134,7 @@ markerFolder: ./Botswana//
 ## Confidential Links & Embeds: 
 - [[Botswana|Botswana]] 
 - [[../../../../../_internal/geo/Continent/Africa/Botswana.internal|Botswana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana.protect.md|Botswana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana.private.md|Botswana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana.personal.md|Botswana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana.secret.md|Botswana.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana.protect|Botswana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana.private|Botswana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana.personal|Botswana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana.secret|Botswana.secret]] 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Nesting-Automation]
 [SpocWebEntityId::26175]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Nesting]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.md|Triz-Ease_of_repair+Nesting-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.internal.md|Triz-Ease_of_repair+Nesting-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.protect.md|Triz-Ease_of_repair+Nesting-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.private.md|Triz-Ease_of_repair+Nesting-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.personal.md|Triz-Ease_of_repair+Nesting-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.secret.md|Triz-Ease_of_repair+Nesting-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.internal|Triz-Ease_of_repair+Nesting-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.protect|Triz-Ease_of_repair+Nesting-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.private|Triz-Ease_of_repair+Nesting-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.personal|Triz-Ease_of_repair+Nesting-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.secret|Triz-Ease_of_repair+Nesting-Automation.secret]] 

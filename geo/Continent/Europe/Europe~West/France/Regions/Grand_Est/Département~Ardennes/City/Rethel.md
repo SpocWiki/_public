@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Rethel.md|Rethel]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Rethel.internal.md|Rethel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Rethel.protect.md|Rethel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Rethel.private.md|Rethel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Rethel.personal.md|Rethel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Rethel.secret.md|Rethel.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Rethel.internal|Rethel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Rethel.protect|Rethel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Rethel.private|Rethel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Rethel.personal|Rethel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Rethel.secret|Rethel.secret]] 

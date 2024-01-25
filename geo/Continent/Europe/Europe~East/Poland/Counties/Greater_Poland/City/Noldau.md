@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Noldau.md|Noldau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Noldau.internal.md|Noldau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Noldau.protect.md|Noldau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Noldau.private.md|Noldau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Noldau.personal.md|Noldau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Noldau.secret.md|Noldau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Noldau.internal|Noldau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Noldau.protect|Noldau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Noldau.private|Noldau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Noldau.personal|Noldau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Noldau.secret|Noldau.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sierpe.md|Sierpe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sierpe.internal.md|Sierpe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sierpe.protect.md|Sierpe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sierpe.private.md|Sierpe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sierpe.personal.md|Sierpe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sierpe.secret.md|Sierpe.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sierpe.internal|Sierpe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sierpe.protect|Sierpe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sierpe.private|Sierpe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sierpe.personal|Sierpe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sierpe.secret|Sierpe.secret]] 

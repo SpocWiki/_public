@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Volume+Thermal_expansion-Intensity]
 [SpocWebEntityId::23309]
-+ [pro::[[Triz-stationary_Volume]]]
++ [#has_/Pros :: [[Triz-stationary_Volume]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
-- [con::[[Triz-Intensity]]]
+- [#has_/Cons :: [[Triz-Intensity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.md|Triz-stationary_Volume+Thermal_expansion-Intensity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.internal.md|Triz-stationary_Volume+Thermal_expansion-Intensity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.protect.md|Triz-stationary_Volume+Thermal_expansion-Intensity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.private.md|Triz-stationary_Volume+Thermal_expansion-Intensity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.personal.md|Triz-stationary_Volume+Thermal_expansion-Intensity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.secret.md|Triz-stationary_Volume+Thermal_expansion-Intensity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.internal|Triz-stationary_Volume+Thermal_expansion-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.protect|Triz-stationary_Volume+Thermal_expansion-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.private|Triz-stationary_Volume+Thermal_expansion-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.personal|Triz-stationary_Volume+Thermal_expansion-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Thermal_expansion-Intensity.secret|Triz-stationary_Volume+Thermal_expansion-Intensity.secret]] 

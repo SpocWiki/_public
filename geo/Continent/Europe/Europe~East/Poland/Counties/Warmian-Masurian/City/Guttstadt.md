@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Guttstadt.md|Guttstadt]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Guttstadt.internal.md|Guttstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Guttstadt.protect.md|Guttstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Guttstadt.private.md|Guttstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Guttstadt.personal.md|Guttstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Guttstadt.secret.md|Guttstadt.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Guttstadt.internal|Guttstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Guttstadt.protect|Guttstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Guttstadt.private|Guttstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Guttstadt.personal|Guttstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Guttstadt.secret|Guttstadt.secret]] 

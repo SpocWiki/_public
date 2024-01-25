@@ -25,8 +25,8 @@ Use combined ultrasonic and electromagnetic field oscillations.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Sub/Triz-combined-oscillations.md|Triz-combined-oscillations]] 
-- [[../../../../_internal/tech/Triz/Sub/Triz-combined-oscillations.internal.md|Triz-combined-oscillations.internal]] 
-- [[../../../../_protect/tech/Triz/Sub/Triz-combined-oscillations.protect.md|Triz-combined-oscillations.protect]] 
-- [[../../../../_private/tech/Triz/Sub/Triz-combined-oscillations.private.md|Triz-combined-oscillations.private]] 
-- [[../../../../_personal/tech/Triz/Sub/Triz-combined-oscillations.personal.md|Triz-combined-oscillations.personal]] 
-- [[../../../../_secret/tech/Triz/Sub/Triz-combined-oscillations.secret.md|Triz-combined-oscillations.secret]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-combined-oscillations.internal|Triz-combined-oscillations.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-combined-oscillations.protect|Triz-combined-oscillations.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-combined-oscillations.private|Triz-combined-oscillations.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-combined-oscillations.personal|Triz-combined-oscillations.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-combined-oscillations.secret|Triz-combined-oscillations.secret]] 

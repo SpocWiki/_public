@@ -41,9 +41,9 @@ markerFolder: ./Delhi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Delhi.md|Delhi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Delhi.internal.md|Delhi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Delhi.protect.md|Delhi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Delhi.private.md|Delhi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Delhi.personal.md|Delhi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Delhi.secret.md|Delhi.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Delhi.internal|Delhi.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Delhi.protect|Delhi.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Delhi.private|Delhi.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Delhi.personal|Delhi.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Delhi.secret|Delhi.secret]] 
 

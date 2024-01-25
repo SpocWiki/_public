@@ -41,9 +41,9 @@ markerFolder: ./Otuke/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Otuke.md|Otuke]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Otuke.internal.md|Otuke.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Otuke.protect.md|Otuke.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Otuke.private.md|Otuke.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Otuke.personal.md|Otuke.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Otuke.secret.md|Otuke.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Otuke.internal|Otuke.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Otuke.protect|Otuke.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Otuke.private|Otuke.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Otuke.personal|Otuke.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Otuke.secret|Otuke.secret]] 
 

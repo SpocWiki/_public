@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.md|Kapstadt=Cape_Town]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.internal.md|Kapstadt=Cape_Town.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.protect.md|Kapstadt=Cape_Town.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.private.md|Kapstadt=Cape_Town.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.personal.md|Kapstadt=Cape_Town.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.secret.md|Kapstadt=Cape_Town.secret]] 
+- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.internal|Kapstadt=Cape_Town.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.protect|Kapstadt=Cape_Town.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.private|Kapstadt=Cape_Town.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.personal|Kapstadt=Cape_Town.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.secret|Kapstadt=Cape_Town.secret]] 

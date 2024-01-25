@@ -41,9 +41,9 @@ markerFolder: ./Bushenyi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bushenyi.md|Bushenyi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bushenyi.internal.md|Bushenyi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bushenyi.protect.md|Bushenyi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bushenyi.private.md|Bushenyi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bushenyi.personal.md|Bushenyi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bushenyi.secret.md|Bushenyi.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bushenyi.internal|Bushenyi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bushenyi.protect|Bushenyi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bushenyi.private|Bushenyi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bushenyi.personal|Bushenyi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bushenyi.secret|Bushenyi.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Shefa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Shefa.md|Shefa]] 
-- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Shefa.internal.md|Shefa.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Shefa.protect.md|Shefa.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Shefa.private.md|Shefa.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Shefa.personal.md|Shefa.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Shefa.secret.md|Shefa.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Shefa.internal|Shefa.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Shefa.protect|Shefa.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Shefa.private|Shefa.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Shefa.personal|Shefa.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Shefa.secret|Shefa.secret]] 
 

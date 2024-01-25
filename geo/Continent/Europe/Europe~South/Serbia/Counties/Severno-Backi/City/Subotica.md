@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Subotica.md|Subotica]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Subotica.internal.md|Subotica.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Subotica.protect.md|Subotica.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Subotica.private.md|Subotica.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Subotica.personal.md|Subotica.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Subotica.secret.md|Subotica.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Subotica.internal|Subotica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Subotica.protect|Subotica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Subotica.private|Subotica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Subotica.personal|Subotica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Subotica.secret|Subotica.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Mazandaran/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.md|Mazandaran]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.internal.md|Mazandaran.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.protect.md|Mazandaran.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.private.md|Mazandaran.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.personal.md|Mazandaran.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.secret.md|Mazandaran.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.internal|Mazandaran.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.protect|Mazandaran.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.private|Mazandaran.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.personal|Mazandaran.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Mazandaran.secret|Mazandaran.secret]] 
 

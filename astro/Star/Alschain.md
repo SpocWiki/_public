@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Alschain.md|Alschain]] 
-- [[../../../_internal/astro/Star/Alschain.internal.md|Alschain.internal]] 
-- [[../../../_protect/astro/Star/Alschain.protect.md|Alschain.protect]] 
-- [[../../../_private/astro/Star/Alschain.private.md|Alschain.private]] 
-- [[../../../_personal/astro/Star/Alschain.personal.md|Alschain.personal]] 
-- [[../../../_secret/astro/Star/Alschain.secret.md|Alschain.secret]]
+- [[../../../_internal/astro/Star/Alschain.internal|Alschain.internal]] 
+- [[../../../_protect/astro/Star/Alschain.protect|Alschain.protect]] 
+- [[../../../_private/astro/Star/Alschain.private|Alschain.private]] 
+- [[../../../_personal/astro/Star/Alschain.personal|Alschain.personal]] 
+- [[../../../_secret/astro/Star/Alschain.secret|Alschain.secret]]
 

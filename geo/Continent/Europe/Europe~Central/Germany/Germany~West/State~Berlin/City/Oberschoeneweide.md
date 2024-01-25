@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Oberschoeneweide|Oberschoeneweide]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.internal.md|Oberschoeneweide.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.protect.md|Oberschoeneweide.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.private.md|Oberschoeneweide.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.personal.md|Oberschoeneweide.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.secret.md|Oberschoeneweide.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.internal|Oberschoeneweide.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.protect|Oberschoeneweide.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.private|Oberschoeneweide.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.personal|Oberschoeneweide.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.secret|Oberschoeneweide.secret]] 

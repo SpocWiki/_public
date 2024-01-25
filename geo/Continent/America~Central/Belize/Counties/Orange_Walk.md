@@ -41,9 +41,9 @@ markerFolder: ./Orange_Walk/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Belize/Counties/Orange_Walk.md|Orange_Walk]] 
-- [[../../../../_internal/geo/Continent/America~Central/Belize/Counties/Orange_Walk.internal.md|Orange_Walk.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Belize/Counties/Orange_Walk.protect.md|Orange_Walk.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Belize/Counties/Orange_Walk.private.md|Orange_Walk.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Belize/Counties/Orange_Walk.personal.md|Orange_Walk.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Belize/Counties/Orange_Walk.secret.md|Orange_Walk.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Belize/Counties/Orange_Walk.internal|Orange_Walk.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Belize/Counties/Orange_Walk.protect|Orange_Walk.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Belize/Counties/Orange_Walk.private|Orange_Walk.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Belize/Counties/Orange_Walk.personal|Orange_Walk.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Belize/Counties/Orange_Walk.secret|Orange_Walk.secret]] 
 

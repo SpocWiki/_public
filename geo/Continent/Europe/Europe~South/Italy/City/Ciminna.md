@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ciminna.md|Ciminna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ciminna.internal.md|Ciminna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ciminna.protect.md|Ciminna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ciminna.private.md|Ciminna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ciminna.personal.md|Ciminna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ciminna.secret.md|Ciminna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ciminna.internal|Ciminna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ciminna.protect|Ciminna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ciminna.private|Ciminna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ciminna.personal|Ciminna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ciminna.secret|Ciminna.secret]] 

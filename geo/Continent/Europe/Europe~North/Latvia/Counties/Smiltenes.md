@@ -41,9 +41,9 @@ markerFolder: ./Smiltenes/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Smiltenes.md|Smiltenes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Smiltenes.internal.md|Smiltenes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Smiltenes.protect.md|Smiltenes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Smiltenes.private.md|Smiltenes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Smiltenes.personal.md|Smiltenes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Smiltenes.secret.md|Smiltenes.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Smiltenes.internal|Smiltenes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Smiltenes.protect|Smiltenes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Smiltenes.private|Smiltenes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Smiltenes.personal|Smiltenes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Smiltenes.secret|Smiltenes.secret]] 
 

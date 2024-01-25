@@ -41,9 +41,9 @@ markerFolder: ./Crotone.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.md|Crotone.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.internal.md|Crotone.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.protect.md|Crotone.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.private.md|Crotone.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.personal.md|Crotone.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.secret.md|Crotone.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.internal|Crotone.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.protect|Crotone.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.private|Crotone.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.personal|Crotone.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Calabria/Crotone.Province.secret|Crotone.Province.secret]] 
 

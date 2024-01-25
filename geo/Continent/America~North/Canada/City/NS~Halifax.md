@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[NS~Halifax|NS~Halifax]]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/NS~Halifax.internal.md|NS~Halifax.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/NS~Halifax.protect.md|NS~Halifax.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/City/NS~Halifax.private.md|NS~Halifax.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/NS~Halifax.personal.md|NS~Halifax.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/NS~Halifax.secret.md|NS~Halifax.secret]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/NS~Halifax.internal|NS~Halifax.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/NS~Halifax.protect|NS~Halifax.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/NS~Halifax.private|NS~Halifax.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/NS~Halifax.personal|NS~Halifax.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/NS~Halifax.secret|NS~Halifax.secret]] 

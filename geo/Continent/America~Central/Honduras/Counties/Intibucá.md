@@ -41,9 +41,9 @@ markerFolder: ./Intibucá/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Intibucá.md|Intibucá]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Intibucá.internal.md|Intibucá.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Intibucá.protect.md|Intibucá.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Intibucá.private.md|Intibucá.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Intibucá.personal.md|Intibucá.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Intibucá.secret.md|Intibucá.secret]] 
+- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Intibucá.internal|Intibucá.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Intibucá.protect|Intibucá.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Intibucá.private|Intibucá.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Intibucá.personal|Intibucá.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Intibucá.secret|Intibucá.secret]] 
 

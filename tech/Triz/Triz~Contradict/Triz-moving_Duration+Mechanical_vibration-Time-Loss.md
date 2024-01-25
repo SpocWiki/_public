@@ -12,16 +12,16 @@ tags:
 ---
 [name::moving_Duration+Mechanical_vibration-Time-Loss]
 [SpocWebEntityId::24122]
-+ [pro::[[Triz-moving_Duration]]]
++ [#has_/Pros :: [[Triz-moving_Duration]]]
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
-- [con::Time-Loss]
+- [#has_/Cons :: Time-Loss]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.md|Triz-moving_Duration+Mechanical_vibration-Time-Loss]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.internal.md|Triz-moving_Duration+Mechanical_vibration-Time-Loss.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.protect.md|Triz-moving_Duration+Mechanical_vibration-Time-Loss.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.private.md|Triz-moving_Duration+Mechanical_vibration-Time-Loss.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.personal.md|Triz-moving_Duration+Mechanical_vibration-Time-Loss.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.secret.md|Triz-moving_Duration+Mechanical_vibration-Time-Loss.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.internal|Triz-moving_Duration+Mechanical_vibration-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.protect|Triz-moving_Duration+Mechanical_vibration-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.private|Triz-moving_Duration+Mechanical_vibration-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.personal|Triz-moving_Duration+Mechanical_vibration-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Mechanical_vibration-Time-Loss.secret|Triz-moving_Duration+Mechanical_vibration-Time-Loss.secret]] 

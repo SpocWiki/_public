@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_operation+Rejecting_and_regenerating_parts-Automation]
 [SpocWebEntityId::26063]
-+ [pro::[[Triz-Ease_of_operation]]]
++ [#has_/Pros :: [[Triz-Ease_of_operation]]]
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
-- [con::[[Triz-Automation]]]
+- [#has_/Cons :: [[Triz-Automation]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.internal.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.protect.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.private.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.personal.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.secret.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.internal|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.protect|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.private|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.personal|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.secret|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.secret]] 

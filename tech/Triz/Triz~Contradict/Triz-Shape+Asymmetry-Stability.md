@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Asymmetry-Stability]
 [SpocWebEntityId::23751]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle::[[Triz-Asymmetry]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.md|Triz-Shape+Asymmetry-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.internal.md|Triz-Shape+Asymmetry-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.protect.md|Triz-Shape+Asymmetry-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.private.md|Triz-Shape+Asymmetry-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.personal.md|Triz-Shape+Asymmetry-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.secret.md|Triz-Shape+Asymmetry-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.internal|Triz-Shape+Asymmetry-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.protect|Triz-Shape+Asymmetry-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.private|Triz-Shape+Asymmetry-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.personal|Triz-Shape+Asymmetry-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.secret|Triz-Shape+Asymmetry-Stability.secret]] 

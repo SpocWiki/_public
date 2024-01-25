@@ -138,7 +138,7 @@ markerFolder: ./Mauritius//
 ## Confidential Links & Embeds: 
 - [[Mauritius|Mauritius]] 
 - [[../../../../../_internal/geo/Continent/Africa/Mauritius.internal|Mauritius.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius.protect.md|Mauritius.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius.private.md|Mauritius.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius.personal.md|Mauritius.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius.secret.md|Mauritius.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritius.protect|Mauritius.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritius.private|Mauritius.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritius.personal|Mauritius.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritius.secret|Mauritius.secret]] 

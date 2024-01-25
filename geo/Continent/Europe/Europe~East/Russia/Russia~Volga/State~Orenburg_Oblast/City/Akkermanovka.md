@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Akkermanovka.md|Akkermanovka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Akkermanovka.internal.md|Akkermanovka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Akkermanovka.protect.md|Akkermanovka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Akkermanovka.private.md|Akkermanovka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Akkermanovka.personal.md|Akkermanovka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Akkermanovka.secret.md|Akkermanovka.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Akkermanovka.internal|Akkermanovka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Akkermanovka.protect|Akkermanovka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Akkermanovka.private|Akkermanovka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Akkermanovka.personal|Akkermanovka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Akkermanovka.secret|Akkermanovka.secret]] 

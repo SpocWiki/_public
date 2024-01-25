@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Vietz.md|Vietz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Vietz.internal.md|Vietz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Vietz.protect.md|Vietz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Vietz.private.md|Vietz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Vietz.personal.md|Vietz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Vietz.secret.md|Vietz.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Vietz.internal|Vietz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Vietz.protect|Vietz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Vietz.private|Vietz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Vietz.personal|Vietz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Vietz.secret|Vietz.secret]] 

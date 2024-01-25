@@ -19,8 +19,8 @@ ZodiacPos: 5
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Zodiac/Zodiac~Leo.md|Zodiac~Leo]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Leo.internal.md|Zodiac~Leo.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Leo.protect.md|Zodiac~Leo.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Leo.private.md|Zodiac~Leo.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Leo.personal.md|Zodiac~Leo.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Leo.secret.md|Zodiac~Leo.secret]] 
+- [[../../../_internal/astro/Zodiac/Zodiac~Leo.internal|Zodiac~Leo.internal]] 
+- [[../../../_protect/astro/Zodiac/Zodiac~Leo.protect|Zodiac~Leo.protect]] 
+- [[../../../_private/astro/Zodiac/Zodiac~Leo.private|Zodiac~Leo.private]] 
+- [[../../../_personal/astro/Zodiac/Zodiac~Leo.personal|Zodiac~Leo.personal]] 
+- [[../../../_secret/astro/Zodiac/Zodiac~Leo.secret|Zodiac~Leo.secret]] 

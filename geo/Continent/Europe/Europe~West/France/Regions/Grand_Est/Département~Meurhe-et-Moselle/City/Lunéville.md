@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Lunéville.md|Lunéville]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lunéville.internal.md|Lunéville.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lunéville.protect.md|Lunéville.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Lunéville.private.md|Lunéville.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lunéville.personal.md|Lunéville.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lunéville.secret.md|Lunéville.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lunéville.internal|Lunéville.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lunéville.protect|Lunéville.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lunéville.private|Lunéville.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lunéville.personal|Lunéville.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lunéville.secret|Lunéville.secret]] 

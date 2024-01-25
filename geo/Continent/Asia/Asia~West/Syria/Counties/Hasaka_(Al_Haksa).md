@@ -41,9 +41,9 @@ markerFolder: ./Hasaka_(Al_Haksa)/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).md|Hasaka_(Al_Haksa)]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).internal.md|Hasaka_(Al_Haksa).internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).protect.md|Hasaka_(Al_Haksa).protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).private.md|Hasaka_(Al_Haksa).private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).personal.md|Hasaka_(Al_Haksa).personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).secret.md|Hasaka_(Al_Haksa).secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).internal|Hasaka_(Al_Haksa).internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).protect|Hasaka_(Al_Haksa).protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).private|Hasaka_(Al_Haksa).private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).personal|Hasaka_(Al_Haksa).personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Hasaka_(Al_Haksa).secret|Hasaka_(Al_Haksa).secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Reykjavík/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Reykjavík.md|Reykjavík]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Reykjavík.internal.md|Reykjavík.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Reykjavík.protect.md|Reykjavík.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Reykjavík.private.md|Reykjavík.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Reykjavík.personal.md|Reykjavík.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Reykjavík.secret.md|Reykjavík.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Reykjavík.internal|Reykjavík.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Reykjavík.protect|Reykjavík.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Reykjavík.private|Reykjavík.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Reykjavík.personal|Reykjavík.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Reykjavík.secret|Reykjavík.secret]] 
 

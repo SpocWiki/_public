@@ -41,9 +41,9 @@ markerFolder: ./Mukono/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mukono.md|Mukono]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mukono.internal.md|Mukono.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mukono.protect.md|Mukono.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mukono.private.md|Mukono.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mukono.personal.md|Mukono.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mukono.secret.md|Mukono.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mukono.internal|Mukono.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mukono.protect|Mukono.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mukono.private|Mukono.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mukono.personal|Mukono.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mukono.secret|Mukono.secret]] 
 

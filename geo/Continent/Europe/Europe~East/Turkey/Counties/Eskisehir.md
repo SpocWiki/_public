@@ -41,9 +41,9 @@ markerFolder: ./Eskisehir/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Eskisehir.md|Eskisehir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Eskisehir.internal.md|Eskisehir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Eskisehir.protect.md|Eskisehir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Eskisehir.private.md|Eskisehir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Eskisehir.personal.md|Eskisehir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Eskisehir.secret.md|Eskisehir.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Eskisehir.internal|Eskisehir.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Eskisehir.protect|Eskisehir.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Eskisehir.private|Eskisehir.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Eskisehir.personal|Eskisehir.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Eskisehir.secret|Eskisehir.secret]] 
 

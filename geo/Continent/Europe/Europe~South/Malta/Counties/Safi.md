@@ -41,9 +41,9 @@ markerFolder: ./Safi/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Malta/Counties/Safi.md|Safi]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Safi.internal.md|Safi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Safi.protect.md|Safi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Safi.private.md|Safi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Safi.personal.md|Safi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Safi.secret.md|Safi.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Safi.internal|Safi.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Safi.protect|Safi.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Safi.private|Safi.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Safi.personal|Safi.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Safi.secret|Safi.secret]] 
 

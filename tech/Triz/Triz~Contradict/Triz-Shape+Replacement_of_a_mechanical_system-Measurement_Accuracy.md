@@ -12,16 +12,16 @@ tags:
 ---
 [name::Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy]
 [SpocWebEntityId::23788]
-+ [pro::[[Triz-Shape]]]
++ [#has_/Pros :: [[Triz-Shape]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.md|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal.md|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect.md|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.private.md|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal.md|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret.md|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.private|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret]] 

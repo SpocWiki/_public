@@ -12,16 +12,16 @@ tags:
 ---
 [name::Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight]
 [SpocWebEntityId::25362]
-+ [pro::[[Triz-Measurement_Accuracy]]]
++ [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
 [Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
-- [con::[[Triz-stationary_Weight]]]
+- [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.md|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.internal.md|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.protect.md|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.private.md|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.personal.md|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.secret.md|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.internal|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.protect|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.private|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.personal|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.secret|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Weight.secret]] 

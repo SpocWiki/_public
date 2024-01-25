@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Auray.md|Auray]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Auray.internal.md|Auray.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Auray.protect.md|Auray.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Auray.private.md|Auray.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Auray.personal.md|Auray.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Auray.secret.md|Auray.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Auray.internal|Auray.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Auray.protect|Auray.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Auray.private|Auray.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Auray.personal|Auray.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Auray.secret|Auray.secret]] 

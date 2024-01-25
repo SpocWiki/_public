@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ojebyn.md|Ojebyn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ojebyn.internal.md|Ojebyn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ojebyn.protect.md|Ojebyn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ojebyn.private.md|Ojebyn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ojebyn.personal.md|Ojebyn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ojebyn.secret.md|Ojebyn.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ojebyn.internal|Ojebyn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ojebyn.protect|Ojebyn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ojebyn.private|Ojebyn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ojebyn.personal|Ojebyn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ojebyn.secret|Ojebyn.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Somero~Langs..md|Somero~Langs.]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Somero~Langs..internal.md|Somero~Langs..internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Somero~Langs..protect.md|Somero~Langs..protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Somero~Langs..private.md|Somero~Langs..private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Somero~Langs..personal.md|Somero~Langs..personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Somero~Langs..secret.md|Somero~Langs..secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Somero~Langs..internal|Somero~Langs..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Somero~Langs..protect|Somero~Langs..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Somero~Langs..private|Somero~Langs..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Somero~Langs..personal|Somero~Langs..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Somero~Langs..secret|Somero~Langs..secret]] 

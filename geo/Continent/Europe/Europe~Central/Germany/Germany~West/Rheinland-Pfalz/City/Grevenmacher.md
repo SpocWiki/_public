@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Grevenmacher.md|Grevenmacher]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Grevenmacher.internal.md|Grevenmacher.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Grevenmacher.protect.md|Grevenmacher.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Grevenmacher.private.md|Grevenmacher.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Grevenmacher.personal.md|Grevenmacher.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Grevenmacher.secret.md|Grevenmacher.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Grevenmacher.internal|Grevenmacher.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Grevenmacher.protect|Grevenmacher.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Grevenmacher.private|Grevenmacher.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Grevenmacher.personal|Grevenmacher.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Grevenmacher.secret|Grevenmacher.secret]] 

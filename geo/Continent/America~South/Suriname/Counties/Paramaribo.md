@@ -41,9 +41,9 @@ markerFolder: ./Paramaribo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Paramaribo.md|Paramaribo]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Paramaribo.internal.md|Paramaribo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Paramaribo.protect.md|Paramaribo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Paramaribo.private.md|Paramaribo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Paramaribo.personal.md|Paramaribo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Paramaribo.secret.md|Paramaribo.secret]] 
+- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Paramaribo.internal|Paramaribo.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Paramaribo.protect|Paramaribo.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Paramaribo.private|Paramaribo.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Paramaribo.personal|Paramaribo.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Paramaribo.secret|Paramaribo.secret]] 
 

@@ -12,16 +12,16 @@ tags:
 ---
 [name::stationary_Energy+Phase_transition-Reliability]
 [SpocWebEntityId::24564]
-+ [pro::[[Triz-stationary_Energy]]]
++ [#has_/Pros :: [[Triz-stationary_Energy]]]
 [Triz-Principle::[[Triz-Phase_transition]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.md|Triz-stationary_Energy+Phase_transition-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.internal.md|Triz-stationary_Energy+Phase_transition-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.protect.md|Triz-stationary_Energy+Phase_transition-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.private.md|Triz-stationary_Energy+Phase_transition-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.personal.md|Triz-stationary_Energy+Phase_transition-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.secret.md|Triz-stationary_Energy+Phase_transition-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.internal|Triz-stationary_Energy+Phase_transition-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.protect|Triz-stationary_Energy+Phase_transition-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.private|Triz-stationary_Energy+Phase_transition-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.personal|Triz-stationary_Energy+Phase_transition-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.secret|Triz-stationary_Energy+Phase_transition-Reliability.secret]] 

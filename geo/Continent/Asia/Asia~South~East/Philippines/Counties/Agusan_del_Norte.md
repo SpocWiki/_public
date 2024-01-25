@@ -41,9 +41,9 @@ markerFolder: ./Agusan_del_Norte/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.md|Agusan_del_Norte]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.internal.md|Agusan_del_Norte.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.protect.md|Agusan_del_Norte.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.private.md|Agusan_del_Norte.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.personal.md|Agusan_del_Norte.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.secret.md|Agusan_del_Norte.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.internal|Agusan_del_Norte.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.protect|Agusan_del_Norte.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.private|Agusan_del_Norte.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.personal|Agusan_del_Norte.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Norte.secret|Agusan_del_Norte.secret]] 
 

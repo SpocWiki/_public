@@ -41,9 +41,9 @@ markerFolder: ./Département~Vaucluse/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.md|Département~Vaucluse]] 
-- [[../../../../_internal/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.internal.md|Département~Vaucluse.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.protect.md|Département~Vaucluse.protect]] 
-- [[../../../../_private/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.private.md|Département~Vaucluse.private]] 
-- [[../../../../_personal/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.personal.md|Département~Vaucluse.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.secret.md|Département~Vaucluse.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.internal|Département~Vaucluse.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.protect|Département~Vaucluse.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.private|Département~Vaucluse.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.personal|Département~Vaucluse.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France/Regions/Provence-Alpes-Côte d'Azur/Département~Vaucluse.secret|Département~Vaucluse.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Lugo/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.md|Lugo]] 
-- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.internal.md|Lugo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.protect.md|Lugo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.private.md|Lugo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.personal.md|Lugo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.secret.md|Lugo.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.internal|Lugo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.protect|Lugo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.private|Lugo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.personal|Lugo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain/Regions/Galicia/Lugo.secret|Lugo.secret]] 
 

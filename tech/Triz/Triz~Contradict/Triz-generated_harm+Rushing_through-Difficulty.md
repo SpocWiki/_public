@@ -12,16 +12,16 @@ tags:
 ---
 [name::generated_harm+Rushing_through-Difficulty]
 [SpocWebEntityId::25820]
-+ [pro::[[Triz-generated_harm]]]
++ [#has_/Pros :: [[Triz-generated_harm]]]
 [Triz-Principle::[[Triz-Rushing_through]]]
-- [con::[[Triz-Difficulty]]]
+- [#has_/Cons :: [[Triz-Difficulty]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.md|Triz-generated_harm+Rushing_through-Difficulty]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.internal.md|Triz-generated_harm+Rushing_through-Difficulty.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.protect.md|Triz-generated_harm+Rushing_through-Difficulty.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.private.md|Triz-generated_harm+Rushing_through-Difficulty.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.personal.md|Triz-generated_harm+Rushing_through-Difficulty.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.secret.md|Triz-generated_harm+Rushing_through-Difficulty.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.internal|Triz-generated_harm+Rushing_through-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.protect|Triz-generated_harm+Rushing_through-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.private|Triz-generated_harm+Rushing_through-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.personal|Triz-generated_harm+Rushing_through-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.secret|Triz-generated_harm+Rushing_through-Difficulty.secret]] 

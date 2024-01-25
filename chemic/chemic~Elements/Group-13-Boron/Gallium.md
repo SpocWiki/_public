@@ -41,8 +41,8 @@ SpocWebEntityId: 21929
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/chemic/Elements/Group-13-Boron/Gallium.md|Gallium]] 
-- [[../../../../_internal/chemic/Elements/Group-13-Boron/Gallium.internal.md|Gallium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-13-Boron/Gallium.protect.md|Gallium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-13-Boron/Gallium.private.md|Gallium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-13-Boron/Gallium.personal.md|Gallium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-13-Boron/Gallium.secret.md|Gallium.secret]] 
+- [[../../../../_internal/chemic/Elements/Group-13-Boron/Gallium.internal|Gallium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-13-Boron/Gallium.protect|Gallium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-13-Boron/Gallium.private|Gallium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-13-Boron/Gallium.personal|Gallium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-13-Boron/Gallium.secret|Gallium.secret]] 

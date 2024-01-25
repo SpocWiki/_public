@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zutphen.md|Zutphen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zutphen.internal.md|Zutphen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zutphen.protect.md|Zutphen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zutphen.private.md|Zutphen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zutphen.personal.md|Zutphen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zutphen.secret.md|Zutphen.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zutphen.internal|Zutphen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zutphen.protect|Zutphen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zutphen.private|Zutphen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zutphen.personal|Zutphen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zutphen.secret|Zutphen.secret]] 

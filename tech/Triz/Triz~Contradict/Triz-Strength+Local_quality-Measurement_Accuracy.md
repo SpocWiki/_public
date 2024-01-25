@@ -12,16 +12,16 @@ tags:
 ---
 [name::Strength+Local_quality-Measurement_Accuracy]
 [SpocWebEntityId::24026]
-+ [pro::[[Triz-Strength]]]
++ [#has_/Pros :: [[Triz-Strength]]]
 [Triz-Principle::[[Triz-Local_quality]]]
-- [con::[[Triz-Measurement_Accuracy]]]
+- [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.md|Triz-Strength+Local_quality-Measurement_Accuracy]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.internal.md|Triz-Strength+Local_quality-Measurement_Accuracy.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.protect.md|Triz-Strength+Local_quality-Measurement_Accuracy.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.private.md|Triz-Strength+Local_quality-Measurement_Accuracy.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.personal.md|Triz-Strength+Local_quality-Measurement_Accuracy.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.secret.md|Triz-Strength+Local_quality-Measurement_Accuracy.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.internal|Triz-Strength+Local_quality-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.protect|Triz-Strength+Local_quality-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.private|Triz-Strength+Local_quality-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.personal|Triz-Strength+Local_quality-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.secret|Triz-Strength+Local_quality-Measurement_Accuracy.secret]] 

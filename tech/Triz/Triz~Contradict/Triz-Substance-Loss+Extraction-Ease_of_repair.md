@@ -12,16 +12,16 @@ tags:
 ---
 [name::Substance-Loss+Extraction-Ease_of_repair]
 [SpocWebEntityId::24908]
-+ [pro::Substance-Loss]
++ [#has_/Pros :: Substance-Loss]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Ease_of_repair]]]
+- [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.md|Triz-Substance-Loss+Extraction-Ease_of_repair]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.internal.md|Triz-Substance-Loss+Extraction-Ease_of_repair.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.protect.md|Triz-Substance-Loss+Extraction-Ease_of_repair.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.private.md|Triz-Substance-Loss+Extraction-Ease_of_repair.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.personal.md|Triz-Substance-Loss+Extraction-Ease_of_repair.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.secret.md|Triz-Substance-Loss+Extraction-Ease_of_repair.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.internal|Triz-Substance-Loss+Extraction-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.protect|Triz-Substance-Loss+Extraction-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.private|Triz-Substance-Loss+Extraction-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.personal|Triz-Substance-Loss+Extraction-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_repair.secret|Triz-Substance-Loss+Extraction-Ease_of_repair.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tim.md|Tim]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tim.internal.md|Tim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tim.protect.md|Tim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tim.private.md|Tim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tim.personal.md|Tim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tim.secret.md|Tim.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tim.internal|Tim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tim.protect|Tim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tim.private|Tim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tim.personal|Tim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tim.secret|Tim.secret]] 

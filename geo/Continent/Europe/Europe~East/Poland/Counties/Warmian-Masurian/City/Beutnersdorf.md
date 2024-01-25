@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Beutnersdorf.md|Beutnersdorf]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Beutnersdorf.internal.md|Beutnersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Beutnersdorf.protect.md|Beutnersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Beutnersdorf.private.md|Beutnersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Beutnersdorf.personal.md|Beutnersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Beutnersdorf.secret.md|Beutnersdorf.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Beutnersdorf.internal|Beutnersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Beutnersdorf.protect|Beutnersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Beutnersdorf.private|Beutnersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Beutnersdorf.personal|Beutnersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Beutnersdorf.secret|Beutnersdorf.secret]] 

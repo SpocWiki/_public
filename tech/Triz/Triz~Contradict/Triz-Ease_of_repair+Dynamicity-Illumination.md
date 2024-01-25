@@ -12,16 +12,16 @@ tags:
 ---
 [name::Ease_of_repair+Dynamicity-Illumination]
 [SpocWebEntityId::26117]
-+ [pro::[[Triz-Ease_of_repair]]]
++ [#has_/Pros :: [[Triz-Ease_of_repair]]]
 [Triz-Principle::[[Triz-Dynamicity]]]
-- [con::[[Triz-Illumination]]]
+- [#has_/Cons :: [[Triz-Illumination]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.md|Triz-Ease_of_repair+Dynamicity-Illumination]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.internal.md|Triz-Ease_of_repair+Dynamicity-Illumination.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.protect.md|Triz-Ease_of_repair+Dynamicity-Illumination.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.private.md|Triz-Ease_of_repair+Dynamicity-Illumination.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.personal.md|Triz-Ease_of_repair+Dynamicity-Illumination.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.secret.md|Triz-Ease_of_repair+Dynamicity-Illumination.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.internal|Triz-Ease_of_repair+Dynamicity-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.protect|Triz-Ease_of_repair+Dynamicity-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.private|Triz-Ease_of_repair+Dynamicity-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.personal|Triz-Ease_of_repair+Dynamicity-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.secret|Triz-Ease_of_repair+Dynamicity-Illumination.secret]] 

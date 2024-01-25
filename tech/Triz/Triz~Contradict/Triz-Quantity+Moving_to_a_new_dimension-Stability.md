@@ -12,16 +12,16 @@ tags:
 ---
 [name::Quantity+Moving_to_a_new_dimension-Stability]
 [SpocWebEntityId::25148]
-+ [pro::[[Triz-Quantity]]]
++ [#has_/Pros :: [[Triz-Quantity]]]
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
-- [con::[[Triz-Stability]]]
+- [#has_/Cons :: [[Triz-Stability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.md|Triz-Quantity+Moving_to_a_new_dimension-Stability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.internal.md|Triz-Quantity+Moving_to_a_new_dimension-Stability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.protect.md|Triz-Quantity+Moving_to_a_new_dimension-Stability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.private.md|Triz-Quantity+Moving_to_a_new_dimension-Stability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.personal.md|Triz-Quantity+Moving_to_a_new_dimension-Stability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.secret.md|Triz-Quantity+Moving_to_a_new_dimension-Stability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.internal|Triz-Quantity+Moving_to_a_new_dimension-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.protect|Triz-Quantity+Moving_to_a_new_dimension-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.private|Triz-Quantity+Moving_to_a_new_dimension-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.personal|Triz-Quantity+Moving_to_a_new_dimension-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.secret|Triz-Quantity+Moving_to_a_new_dimension-Stability.secret]] 

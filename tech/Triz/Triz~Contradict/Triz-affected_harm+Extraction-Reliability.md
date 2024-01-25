@@ -12,16 +12,16 @@ tags:
 ---
 [name::affected_harm+Extraction-Reliability]
 [SpocWebEntityId::25677]
-+ [pro::[[Triz-affected_harm]]]
++ [#has_/Pros :: [[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Extraction]]]
-- [con::[[Triz-Reliability]]]
+- [#has_/Cons :: [[Triz-Reliability]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.md|Triz-affected_harm+Extraction-Reliability]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.internal.md|Triz-affected_harm+Extraction-Reliability.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.protect.md|Triz-affected_harm+Extraction-Reliability.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.private.md|Triz-affected_harm+Extraction-Reliability.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.personal.md|Triz-affected_harm+Extraction-Reliability.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.secret.md|Triz-affected_harm+Extraction-Reliability.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.internal|Triz-affected_harm+Extraction-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.protect|Triz-affected_harm+Extraction-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.private|Triz-affected_harm+Extraction-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.personal|Triz-affected_harm+Extraction-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.secret|Triz-affected_harm+Extraction-Reliability.secret]] 

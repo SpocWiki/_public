@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Admont.md|Admont]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Admont.internal.md|Admont.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Admont.protect.md|Admont.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Admont.private.md|Admont.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Admont.personal.md|Admont.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Admont.secret.md|Admont.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Admont.internal|Admont.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Admont.protect|Admont.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Admont.private|Admont.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Admont.personal|Admont.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Admont.secret|Admont.secret]] 

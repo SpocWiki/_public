@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Kallundborg.md|Kallundborg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Kallundborg.internal.md|Kallundborg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Kallundborg.protect.md|Kallundborg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Kallundborg.private.md|Kallundborg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Kallundborg.personal.md|Kallundborg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Kallundborg.secret.md|Kallundborg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Kallundborg.internal|Kallundborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Kallundborg.protect|Kallundborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Kallundborg.private|Kallundborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Kallundborg.personal|Kallundborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Kallundborg.secret|Kallundborg.secret]] 

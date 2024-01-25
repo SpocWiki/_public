@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Oranjestad|Oranjestad]]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Aruba/City/Oranjestad.internal.md|Oranjestad.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Aruba/City/Oranjestad.protect.md|Oranjestad.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Aruba/City/Oranjestad.private.md|Oranjestad.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Aruba/City/Oranjestad.personal.md|Oranjestad.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Aruba/City/Oranjestad.secret.md|Oranjestad.secret]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Aruba/City/Oranjestad.internal|Oranjestad.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Aruba/City/Oranjestad.protect|Oranjestad.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Aruba/City/Oranjestad.private|Oranjestad.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Aruba/City/Oranjestad.personal|Oranjestad.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Aruba/City/Oranjestad.secret|Oranjestad.secret]] 

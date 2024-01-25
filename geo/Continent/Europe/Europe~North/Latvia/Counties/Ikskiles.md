@@ -41,9 +41,9 @@ markerFolder: ./Ikskiles/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ikskiles.md|Ikskiles]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ikskiles.internal.md|Ikskiles.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ikskiles.protect.md|Ikskiles.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ikskiles.private.md|Ikskiles.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ikskiles.personal.md|Ikskiles.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ikskiles.secret.md|Ikskiles.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ikskiles.internal|Ikskiles.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ikskiles.protect|Ikskiles.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ikskiles.private|Ikskiles.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ikskiles.personal|Ikskiles.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ikskiles.secret|Ikskiles.secret]] 
 

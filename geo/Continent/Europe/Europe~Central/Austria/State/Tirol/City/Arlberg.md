@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Arlberg.md|Arlberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Arlberg.internal.md|Arlberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Arlberg.protect.md|Arlberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Arlberg.private.md|Arlberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Arlberg.personal.md|Arlberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Arlberg.secret.md|Arlberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Arlberg.internal|Arlberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Arlberg.protect|Arlberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Arlberg.private|Arlberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Arlberg.personal|Arlberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Arlberg.secret|Arlberg.secret]] 

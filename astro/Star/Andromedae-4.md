@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Andromedae-4.md|Andromedae-4]] 
-- [[../../../_internal/astro/Star/Andromedae-4.internal.md|Andromedae-4.internal]] 
-- [[../../../_protect/astro/Star/Andromedae-4.protect.md|Andromedae-4.protect]] 
-- [[../../../_private/astro/Star/Andromedae-4.private.md|Andromedae-4.private]] 
-- [[../../../_personal/astro/Star/Andromedae-4.personal.md|Andromedae-4.personal]] 
-- [[../../../_secret/astro/Star/Andromedae-4.secret.md|Andromedae-4.secret]]
+- [[../../../_internal/astro/Star/Andromedae-4.internal|Andromedae-4.internal]] 
+- [[../../../_protect/astro/Star/Andromedae-4.protect|Andromedae-4.protect]] 
+- [[../../../_private/astro/Star/Andromedae-4.private|Andromedae-4.private]] 
+- [[../../../_personal/astro/Star/Andromedae-4.personal|Andromedae-4.personal]] 
+- [[../../../_secret/astro/Star/Andromedae-4.secret|Andromedae-4.secret]]
 

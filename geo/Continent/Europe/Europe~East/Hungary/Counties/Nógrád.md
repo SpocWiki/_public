@@ -41,9 +41,9 @@ markerFolder: ./Nógrád/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Nógrád.md|Nógrád]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Nógrád.internal.md|Nógrád.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Nógrád.protect.md|Nógrád.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Nógrád.private.md|Nógrád.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Nógrád.personal.md|Nógrád.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Nógrád.secret.md|Nógrád.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Nógrád.internal|Nógrád.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Nógrád.protect|Nógrád.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Nógrád.private|Nógrád.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Nógrád.personal|Nógrád.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Nógrád.secret|Nógrád.secret]] 
 

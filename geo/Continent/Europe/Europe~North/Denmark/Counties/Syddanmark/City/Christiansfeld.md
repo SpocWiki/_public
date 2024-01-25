@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Christiansfeld.md|Christiansfeld]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Christiansfeld.internal.md|Christiansfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Christiansfeld.protect.md|Christiansfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Christiansfeld.private.md|Christiansfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Christiansfeld.personal.md|Christiansfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Christiansfeld.secret.md|Christiansfeld.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Christiansfeld.internal|Christiansfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Christiansfeld.protect|Christiansfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Christiansfeld.private|Christiansfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Christiansfeld.personal|Christiansfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Christiansfeld.secret|Christiansfeld.secret]] 

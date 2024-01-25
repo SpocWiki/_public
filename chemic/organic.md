@@ -12,9 +12,9 @@
 
 ## Confidential Links & Embeds: 
 - [[../../_public/chemic/organic.md|organic]] 
-- [[../../_internal/chemic/organic.internal.md|organic.internal]] 
-- [[../../_protect/chemic/organic.protect.md|organic.protect]] 
-- [[../../_private/chemic/organic.private.md|organic.private]] 
-- [[../../_personal/chemic/organic.personal.md|organic.personal]] 
-- [[../../_secret/chemic/organic.secret.md|organic.secret]]
+- [[../../_internal/chemic/organic.internal|organic.internal]] 
+- [[../../_protect/chemic/organic.protect|organic.protect]] 
+- [[../../_private/chemic/organic.private|organic.private]] 
+- [[../../_personal/chemic/organic.personal|organic.personal]] 
+- [[../../_secret/chemic/organic.secret|organic.secret]]
 

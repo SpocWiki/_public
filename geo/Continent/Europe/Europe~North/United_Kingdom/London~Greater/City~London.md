@@ -40,7 +40,7 @@ It is surrounded by:
 ## Confidential Links & Embeds: 
 - [[City~London|City~London]] 
 - [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.internal|City~London.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.protect.md|London.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.private.md|London.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.personal.md|London.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.secret.md|London.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.protect|London.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.private|London.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.personal|London.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/City~London.secret|London.secret]] 

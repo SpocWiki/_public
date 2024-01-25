@@ -41,9 +41,9 @@ markerFolder: ./Konya/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Konya.md|Konya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Konya.internal.md|Konya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Konya.protect.md|Konya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Konya.private.md|Konya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Konya.personal.md|Konya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Konya.secret.md|Konya.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Konya.internal|Konya.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Konya.protect|Konya.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Konya.private|Konya.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Konya.personal|Konya.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Konya.secret|Konya.secret]] 
 

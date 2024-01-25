@@ -41,9 +41,9 @@ markerFolder: ./Ozolnieku/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ozolnieku.md|Ozolnieku]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ozolnieku.internal.md|Ozolnieku.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ozolnieku.protect.md|Ozolnieku.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ozolnieku.private.md|Ozolnieku.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ozolnieku.personal.md|Ozolnieku.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ozolnieku.secret.md|Ozolnieku.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ozolnieku.internal|Ozolnieku.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ozolnieku.protect|Ozolnieku.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ozolnieku.private|Ozolnieku.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ozolnieku.personal|Ozolnieku.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ozolnieku.secret|Ozolnieku.secret]] 
 

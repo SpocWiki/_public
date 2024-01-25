@@ -41,9 +41,9 @@ markerFolder: ./Saint_Lucy/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.md|Saint_Lucy]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.internal.md|Saint_Lucy.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.protect.md|Saint_Lucy.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.private.md|Saint_Lucy.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.personal.md|Saint_Lucy.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.secret.md|Saint_Lucy.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.internal|Saint_Lucy.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.protect|Saint_Lucy.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.private|Saint_Lucy.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.personal|Saint_Lucy.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Lucy.secret|Saint_Lucy.secret]] 
 

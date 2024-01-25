@@ -125,8 +125,8 @@ markerFolder: ./British_Indian_Ocean_Territory/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/British_Indian_Ocean_Territory.md|British_Indian_Ocean_Territory]] 
-- [[../../../../_internal/geo/Continent/Africa/British_Indian_Ocean_Territory.internal.md|British_Indian_Ocean_Territory.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/British_Indian_Ocean_Territory.protect.md|British_Indian_Ocean_Territory.protect]] 
-- [[../../../../_private/geo/Continent/Africa/British_Indian_Ocean_Territory.private.md|British_Indian_Ocean_Territory.private]] 
-- [[../../../../_personal/geo/Continent/Africa/British_Indian_Ocean_Territory.personal.md|British_Indian_Ocean_Territory.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/British_Indian_Ocean_Territory.secret.md|British_Indian_Ocean_Territory.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/British_Indian_Ocean_Territory.internal|British_Indian_Ocean_Territory.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/British_Indian_Ocean_Territory.protect|British_Indian_Ocean_Territory.protect]] 
+- [[../../../../_private/geo/Continent/Africa/British_Indian_Ocean_Territory.private|British_Indian_Ocean_Territory.private]] 
+- [[../../../../_personal/geo/Continent/Africa/British_Indian_Ocean_Territory.personal|British_Indian_Ocean_Territory.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/British_Indian_Ocean_Territory.secret|British_Indian_Ocean_Territory.secret]] 

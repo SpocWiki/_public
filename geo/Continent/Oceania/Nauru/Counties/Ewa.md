@@ -41,9 +41,9 @@ markerFolder: ./Ewa/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Ewa.md|Ewa]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Ewa.internal.md|Ewa.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Ewa.protect.md|Ewa.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Ewa.private.md|Ewa.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Ewa.personal.md|Ewa.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Ewa.secret.md|Ewa.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Ewa.internal|Ewa.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Ewa.protect|Ewa.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Ewa.private|Ewa.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Ewa.personal|Ewa.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Ewa.secret|Ewa.secret]] 
 

@@ -139,7 +139,7 @@ markerFolder: ./Ghana//
 ## Confidential Links & Embeds: 
 - [[Ghana|Ghana]] 
 - [[../../../../../_internal/geo/Continent/Africa/Ghana.internal|Ghana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana.protect.md|Ghana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana.private.md|Ghana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana.personal.md|Ghana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana.secret.md|Ghana.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Ghana.protect|Ghana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ghana.private|Ghana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ghana.personal|Ghana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ghana.secret|Ghana.secret]] 

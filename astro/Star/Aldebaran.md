@@ -28,9 +28,9 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Aldebaran.md|Aldebaran]] 
-- [[../../../_internal/astro/Star/Aldebaran.internal.md|Aldebaran.internal]] 
-- [[../../../_protect/astro/Star/Aldebaran.protect.md|Aldebaran.protect]] 
-- [[../../../_private/astro/Star/Aldebaran.private.md|Aldebaran.private]] 
-- [[../../../_personal/astro/Star/Aldebaran.personal.md|Aldebaran.personal]] 
-- [[../../../_secret/astro/Star/Aldebaran.secret.md|Aldebaran.secret]]
+- [[../../../_internal/astro/Star/Aldebaran.internal|Aldebaran.internal]] 
+- [[../../../_protect/astro/Star/Aldebaran.protect|Aldebaran.protect]] 
+- [[../../../_private/astro/Star/Aldebaran.private|Aldebaran.private]] 
+- [[../../../_personal/astro/Star/Aldebaran.personal|Aldebaran.personal]] 
+- [[../../../_secret/astro/Star/Aldebaran.secret|Aldebaran.secret]]
 

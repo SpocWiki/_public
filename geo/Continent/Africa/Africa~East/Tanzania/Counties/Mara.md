@@ -41,9 +41,9 @@ markerFolder: ./Mara/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mara.md|Mara]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mara.internal.md|Mara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mara.protect.md|Mara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mara.private.md|Mara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mara.personal.md|Mara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mara.secret.md|Mara.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mara.internal|Mara.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mara.protect|Mara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mara.private|Mara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mara.personal|Mara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mara.secret|Mara.secret]] 
 

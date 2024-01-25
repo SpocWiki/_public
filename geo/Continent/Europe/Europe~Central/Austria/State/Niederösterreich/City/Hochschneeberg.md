@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hochschneeberg.md|Hochschneeberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hochschneeberg.internal.md|Hochschneeberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hochschneeberg.protect.md|Hochschneeberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hochschneeberg.private.md|Hochschneeberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hochschneeberg.personal.md|Hochschneeberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hochschneeberg.secret.md|Hochschneeberg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hochschneeberg.internal|Hochschneeberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hochschneeberg.protect|Hochschneeberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hochschneeberg.private|Hochschneeberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hochschneeberg.personal|Hochschneeberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hochschneeberg.secret|Hochschneeberg.secret]] 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wohlau.md|Wohlau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wohlau.internal.md|Wohlau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wohlau.protect.md|Wohlau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wohlau.private.md|Wohlau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wohlau.personal.md|Wohlau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wohlau.secret.md|Wohlau.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wohlau.internal|Wohlau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wohlau.protect|Wohlau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wohlau.private|Wohlau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wohlau.personal|Wohlau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wohlau.secret|Wohlau.secret]] 

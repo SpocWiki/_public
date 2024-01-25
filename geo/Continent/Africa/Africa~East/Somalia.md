@@ -138,7 +138,7 @@ markerFolder: ./Somalia//
 ## Confidential Links & Embeds: 
 - [[Somalia|Somalia]] 
 - [[../../../../../_internal/geo/Continent/Africa/Somalia.internal|Somalia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia.protect.md|Somalia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia.private.md|Somalia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia.personal.md|Somalia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia.secret.md|Somalia.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia.protect|Somalia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia.private|Somalia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia.personal|Somalia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia.secret|Somalia.secret]] 

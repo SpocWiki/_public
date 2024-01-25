@@ -144,8 +144,8 @@ markerFolder: ./Aruba/
 
 ## Confidential Links & Embeds: 
 - [[Aruba|Aruba]] 
-- [[../../../../_internal/geo/Continent/South-America/Aruba.internal.md|Aruba.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Aruba.protect.md|Aruba.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Aruba.private.md|Aruba.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Aruba.personal.md|Aruba.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Aruba.secret.md|Aruba.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Aruba.internal|Aruba.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Aruba.protect|Aruba.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Aruba.private|Aruba.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Aruba.personal|Aruba.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Aruba.secret|Aruba.secret]] 

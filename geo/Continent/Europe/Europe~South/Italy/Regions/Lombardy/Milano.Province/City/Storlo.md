@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Italy/City/Storlo.md|Storlo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Storlo.internal.md|Storlo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Storlo.protect.md|Storlo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Storlo.private.md|Storlo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Storlo.personal.md|Storlo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Storlo.secret.md|Storlo.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Storlo.internal|Storlo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Storlo.protect|Storlo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Storlo.private|Storlo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Storlo.personal|Storlo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Storlo.secret|Storlo.secret]] 

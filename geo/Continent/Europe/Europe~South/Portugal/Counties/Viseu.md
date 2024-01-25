@@ -41,9 +41,9 @@ markerFolder: ./Viseu/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Viseu.md|Viseu]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Viseu.internal.md|Viseu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Viseu.protect.md|Viseu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Viseu.private.md|Viseu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Viseu.personal.md|Viseu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Viseu.secret.md|Viseu.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Viseu.internal|Viseu.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Viseu.protect|Viseu.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Viseu.private|Viseu.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Viseu.personal|Viseu.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Viseu.secret|Viseu.secret]] 
 

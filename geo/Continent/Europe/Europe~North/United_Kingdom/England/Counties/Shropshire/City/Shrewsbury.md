@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.md|Shrewsbury]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.internal.md|Shrewsbury.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.protect.md|Shrewsbury.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.private.md|Shrewsbury.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.personal.md|Shrewsbury.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.secret.md|Shrewsbury.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.internal|Shrewsbury.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.protect|Shrewsbury.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.private|Shrewsbury.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.personal|Shrewsbury.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.secret|Shrewsbury.secret]] 

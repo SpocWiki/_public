@@ -135,7 +135,7 @@ markerFolder: ./Eritrea//
 ## Confidential Links & Embeds: 
 - [[Eritrea|Eritrea]] 
 - [[../../../../../_internal/geo/Continent/Africa/Eritrea.internal|Eritrea.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Eritrea.protect.md|Eritrea.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Eritrea.private.md|Eritrea.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Eritrea.personal.md|Eritrea.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Eritrea.secret.md|Eritrea.secret]] 
+- [[../../../../_protect/geo/Continent/Africa/Eritrea.protect|Eritrea.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Eritrea.private|Eritrea.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Eritrea.personal|Eritrea.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Eritrea.secret|Eritrea.secret]] 

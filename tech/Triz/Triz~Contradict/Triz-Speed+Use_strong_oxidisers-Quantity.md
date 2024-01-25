@@ -12,16 +12,16 @@ tags:
 ---
 [name::Speed+Use_strong_oxidisers-Quantity]
 [SpocWebEntityId::23431]
-+ [pro::[[Triz-Speed]]]
++ [#has_/Pros :: [[Triz-Speed]]]
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
-- [con::[[Triz-Quantity]]]
+- [#has_/Cons :: [[Triz-Quantity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.md|Triz-Speed+Use_strong_oxidisers-Quantity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.internal.md|Triz-Speed+Use_strong_oxidisers-Quantity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.protect.md|Triz-Speed+Use_strong_oxidisers-Quantity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.private.md|Triz-Speed+Use_strong_oxidisers-Quantity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.personal.md|Triz-Speed+Use_strong_oxidisers-Quantity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.secret.md|Triz-Speed+Use_strong_oxidisers-Quantity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.internal|Triz-Speed+Use_strong_oxidisers-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.protect|Triz-Speed+Use_strong_oxidisers-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.private|Triz-Speed+Use_strong_oxidisers-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.personal|Triz-Speed+Use_strong_oxidisers-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.secret|Triz-Speed+Use_strong_oxidisers-Quantity.secret]] 

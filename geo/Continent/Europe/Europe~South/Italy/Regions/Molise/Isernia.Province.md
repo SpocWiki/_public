@@ -41,9 +41,9 @@ markerFolder: ./Isernia.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.md|Isernia.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.internal.md|Isernia.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.protect.md|Isernia.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.private.md|Isernia.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.personal.md|Isernia.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.secret.md|Isernia.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.internal|Isernia.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.protect|Isernia.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.private|Isernia.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.personal|Isernia.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Molise/Isernia.Province.secret|Isernia.Province.secret]] 
 

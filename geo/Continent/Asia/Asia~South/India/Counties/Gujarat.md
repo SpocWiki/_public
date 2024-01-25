@@ -41,9 +41,9 @@ markerFolder: ./Gujarat/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.md|Gujarat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.internal.md|Gujarat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.protect.md|Gujarat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.private.md|Gujarat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.personal.md|Gujarat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.secret.md|Gujarat.secret]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.internal|Gujarat.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.protect|Gujarat.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.private|Gujarat.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.personal|Gujarat.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.secret|Gujarat.secret]] 
 

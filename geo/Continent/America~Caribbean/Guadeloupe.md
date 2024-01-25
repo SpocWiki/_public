@@ -133,8 +133,8 @@ markerFolder: ./Guadeloupe/
 
 ## Confidential Links & Embeds: 
 - [[Guadeloupe|Guadeloupe]] 
-- [[../../../../_internal/geo/Continent/South-America/Guadeloupe.internal.md|Guadeloupe.internal]] 
-- [[../../../../_protect/geo/Continent/South-America/Guadeloupe.protect.md|Guadeloupe.protect]] 
-- [[../../../../_private/geo/Continent/South-America/Guadeloupe.private.md|Guadeloupe.private]] 
-- [[../../../../_personal/geo/Continent/South-America/Guadeloupe.personal.md|Guadeloupe.personal]] 
-- [[../../../../_secret/geo/Continent/South-America/Guadeloupe.secret.md|Guadeloupe.secret]] 
+- [[../../../../_internal/geo/Continent/South-America/Guadeloupe.internal|Guadeloupe.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Guadeloupe.protect|Guadeloupe.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Guadeloupe.private|Guadeloupe.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Guadeloupe.personal|Guadeloupe.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Guadeloupe.secret|Guadeloupe.secret]] 

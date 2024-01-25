@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kangasala.md|Kangasala]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kangasala.internal.md|Kangasala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kangasala.protect.md|Kangasala.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kangasala.private.md|Kangasala.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kangasala.personal.md|Kangasala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kangasala.secret.md|Kangasala.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kangasala.internal|Kangasala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kangasala.protect|Kangasala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kangasala.private|Kangasala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kangasala.personal|Kangasala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kangasala.secret|Kangasala.secret]] 

@@ -41,9 +41,9 @@ markerFolder: ./Vatican/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.md|Vatican]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.internal.md|Vatican.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.protect.md|Vatican.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.private.md|Vatican.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.personal.md|Vatican.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.secret.md|Vatican.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.internal|Vatican.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.protect|Vatican.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.private|Vatican.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.personal|Vatican.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Lazio/Vatican.secret|Vatican.secret]] 
 

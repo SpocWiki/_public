@@ -12,16 +12,16 @@ tags:
 ---
 [name::Energy-Loss+Nesting-Complexity]
 [SpocWebEntityId::24776]
-+ [pro::Energy-Loss]
++ [#has_/Pros :: Energy-Loss]
 [Triz-Principle::[[Triz-Nesting]]]
-- [con::[[Triz-Complexity]]]
+- [#has_/Cons :: [[Triz-Complexity]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.md|Triz-Energy-Loss+Nesting-Complexity]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.internal.md|Triz-Energy-Loss+Nesting-Complexity.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.protect.md|Triz-Energy-Loss+Nesting-Complexity.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.private.md|Triz-Energy-Loss+Nesting-Complexity.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.personal.md|Triz-Energy-Loss+Nesting-Complexity.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.secret.md|Triz-Energy-Loss+Nesting-Complexity.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.internal|Triz-Energy-Loss+Nesting-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.protect|Triz-Energy-Loss+Nesting-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.private|Triz-Energy-Loss+Nesting-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.personal|Triz-Energy-Loss+Nesting-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Complexity.secret|Triz-Energy-Loss+Nesting-Complexity.secret]] 

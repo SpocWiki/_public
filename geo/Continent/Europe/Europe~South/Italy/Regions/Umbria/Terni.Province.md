@@ -41,9 +41,9 @@ markerFolder: ./Terni.Province/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.md|Terni.Province]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.internal.md|Terni.Province.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.protect.md|Terni.Province.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.private.md|Terni.Province.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.personal.md|Terni.Province.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.secret.md|Terni.Province.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.internal|Terni.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.protect|Terni.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.private|Terni.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.personal|Terni.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Umbria/Terni.Province.secret|Terni.Province.secret]] 
 

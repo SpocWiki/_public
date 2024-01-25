@@ -41,9 +41,9 @@ markerFolder: ./Islands/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Sweden/Islands.md|Islands]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Islands.internal.md|Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Islands.protect.md|Islands.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Islands.private.md|Islands.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Islands.personal.md|Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Islands.secret.md|Islands.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Islands.internal|Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Islands.protect|Islands.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Islands.private|Islands.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Islands.personal|Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Islands.secret|Islands.secret]] 
 

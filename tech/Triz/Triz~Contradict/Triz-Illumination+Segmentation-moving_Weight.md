@@ -12,16 +12,16 @@ tags:
 ---
 [name::Illumination+Segmentation-moving_Weight]
 [SpocWebEntityId::24349]
-+ [pro::[[Triz-Illumination]]]
++ [#has_/Pros :: [[Triz-Illumination]]]
 [Triz-Principle::[[Triz-Segmentation]]]
-- [con::[[Triz-moving_Weight]]]
+- [#has_/Cons :: [[Triz-moving_Weight]]]
 
 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.md|Triz-Illumination+Segmentation-moving_Weight]] 
-- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.internal.md|Triz-Illumination+Segmentation-moving_Weight.internal]] 
-- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.protect.md|Triz-Illumination+Segmentation-moving_Weight.protect]] 
-- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.private.md|Triz-Illumination+Segmentation-moving_Weight.private]] 
-- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.personal.md|Triz-Illumination+Segmentation-moving_Weight.personal]] 
-- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.secret.md|Triz-Illumination+Segmentation-moving_Weight.secret]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.internal|Triz-Illumination+Segmentation-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.protect|Triz-Illumination+Segmentation-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.private|Triz-Illumination+Segmentation-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.personal|Triz-Illumination+Segmentation-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.secret|Triz-Illumination+Segmentation-moving_Weight.secret]] 

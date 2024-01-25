@@ -41,9 +41,9 @@ markerFolder: ./Doncaster/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.md|Doncaster]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.internal.md|Doncaster.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.protect.md|Doncaster.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.private.md|Doncaster.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.personal.md|Doncaster.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.secret.md|Doncaster.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.internal|Doncaster.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.protect|Doncaster.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.private|Doncaster.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.personal|Doncaster.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Doncaster.secret|Doncaster.secret]] 
 

@@ -41,9 +41,9 @@ markerFolder: ./Ngeremlengui/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.md|Ngeremlengui]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.internal.md|Ngeremlengui.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.protect.md|Ngeremlengui.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.private.md|Ngeremlengui.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.personal.md|Ngeremlengui.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.secret.md|Ngeremlengui.secret]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.internal|Ngeremlengui.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.protect|Ngeremlengui.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.private|Ngeremlengui.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.personal|Ngeremlengui.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.secret|Ngeremlengui.secret]] 
 

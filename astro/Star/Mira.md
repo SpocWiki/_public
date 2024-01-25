@@ -28,8 +28,8 @@ confidential: public
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/astro/Star/Mira.md|Mira]] 
-- [[../../../_internal/astro/Star/Mira.internal.md|Mira.internal]] 
-- [[../../../_protect/astro/Star/Mira.protect.md|Mira.protect]] 
-- [[../../../_private/astro/Star/Mira.private.md|Mira.private]] 
-- [[../../../_personal/astro/Star/Mira.personal.md|Mira.personal]] 
-- [[../../../_secret/astro/Star/Mira.secret.md|Mira.secret]] 
+- [[../../../_internal/astro/Star/Mira.internal|Mira.internal]] 
+- [[../../../_protect/astro/Star/Mira.protect|Mira.protect]] 
+- [[../../../_private/astro/Star/Mira.private|Mira.private]] 
+- [[../../../_personal/astro/Star/Mira.personal|Mira.personal]] 
+- [[../../../_secret/astro/Star/Mira.secret|Mira.secret]] 

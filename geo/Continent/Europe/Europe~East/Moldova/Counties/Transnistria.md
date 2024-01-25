@@ -41,9 +41,9 @@ markerFolder: ./Transnistria/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Transnistria.md|Transnistria]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Transnistria.internal.md|Transnistria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Transnistria.protect.md|Transnistria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Transnistria.private.md|Transnistria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Transnistria.personal.md|Transnistria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Transnistria.secret.md|Transnistria.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Transnistria.internal|Transnistria.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Transnistria.protect|Transnistria.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Transnistria.private|Transnistria.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Transnistria.personal|Transnistria.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Transnistria.secret|Transnistria.secret]] 
 

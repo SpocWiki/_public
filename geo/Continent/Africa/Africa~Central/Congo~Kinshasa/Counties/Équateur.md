@@ -41,9 +41,9 @@ markerFolder: ./Équateur/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.md|Équateur]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.internal.md|Équateur.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.protect.md|Équateur.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.private.md|Équateur.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.personal.md|Équateur.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.secret.md|Équateur.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.internal|Équateur.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.protect|Équateur.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.private|Équateur.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.personal|Équateur.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.secret|Équateur.secret]] 
 

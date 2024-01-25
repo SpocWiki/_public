@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bie.md|Bie]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bie.internal.md|Bie.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bie.protect.md|Bie.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bie.private.md|Bie.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bie.personal.md|Bie.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bie.secret.md|Bie.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bie.internal|Bie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bie.protect|Bie.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bie.private|Bie.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bie.personal|Bie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bie.secret|Bie.secret]] 

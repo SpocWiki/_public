@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Boulogne_sur_mer.md|Boulogne_sur_mer]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Boulogne_sur_mer.internal.md|Boulogne_sur_mer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Boulogne_sur_mer.protect.md|Boulogne_sur_mer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Boulogne_sur_mer.private.md|Boulogne_sur_mer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Boulogne_sur_mer.personal.md|Boulogne_sur_mer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Boulogne_sur_mer.secret.md|Boulogne_sur_mer.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Boulogne_sur_mer.internal|Boulogne_sur_mer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Boulogne_sur_mer.protect|Boulogne_sur_mer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Boulogne_sur_mer.private|Boulogne_sur_mer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Boulogne_sur_mer.personal|Boulogne_sur_mer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Boulogne_sur_mer.secret|Boulogne_sur_mer.secret]] 

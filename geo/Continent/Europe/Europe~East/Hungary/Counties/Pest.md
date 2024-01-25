@@ -41,9 +41,9 @@ markerFolder: ./Pest/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Pest.md|Pest]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Pest.internal.md|Pest.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Pest.protect.md|Pest.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Pest.private.md|Pest.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Pest.personal.md|Pest.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Pest.secret.md|Pest.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Pest.internal|Pest.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Pest.protect|Pest.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Pest.private|Pest.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Pest.personal|Pest.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Pest.secret|Pest.secret]] 
 

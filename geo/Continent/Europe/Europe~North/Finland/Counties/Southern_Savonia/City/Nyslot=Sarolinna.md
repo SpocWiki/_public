@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.md|Nyslot=Sarolinna]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.internal.md|Nyslot=Sarolinna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.protect.md|Nyslot=Sarolinna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.private.md|Nyslot=Sarolinna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.personal.md|Nyslot=Sarolinna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.secret.md|Nyslot=Sarolinna.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.internal|Nyslot=Sarolinna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.protect|Nyslot=Sarolinna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.private|Nyslot=Sarolinna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.personal|Nyslot=Sarolinna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nyslot=Sarolinna.secret|Nyslot=Sarolinna.secret]] 

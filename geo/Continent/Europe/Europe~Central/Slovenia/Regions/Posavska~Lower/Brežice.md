@@ -41,9 +41,9 @@ markerFolder: ./Brežice/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.md|Brežice]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.internal.md|Brežice.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.protect.md|Brežice.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.private.md|Brežice.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.personal.md|Brežice.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.secret.md|Brežice.secret]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.internal|Brežice.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.protect|Brežice.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.private|Brežice.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.personal|Brežice.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia/Regions/Posavska~Lower/Brežice.secret|Brežice.secret]] 
 

@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/geo/Continent/Europe/France/City/Digne.md|Digne]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Digne.internal.md|Digne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Digne.protect.md|Digne.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Digne.private.md|Digne.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Digne.personal.md|Digne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Digne.secret.md|Digne.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Digne.internal|Digne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Digne.protect|Digne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Digne.private|Digne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Digne.personal|Digne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Digne.secret|Digne.secret]] 

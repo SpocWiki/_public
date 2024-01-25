@@ -41,9 +41,9 @@ markerFolder: ./Ghadamis/
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/geo/Continent/Africa/Libya/Counties/Ghadamis.md|Ghadamis]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ghadamis.internal.md|Ghadamis.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ghadamis.protect.md|Ghadamis.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ghadamis.private.md|Ghadamis.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ghadamis.personal.md|Ghadamis.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ghadamis.secret.md|Ghadamis.secret]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ghadamis.internal|Ghadamis.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ghadamis.protect|Ghadamis.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ghadamis.private|Ghadamis.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ghadamis.personal|Ghadamis.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ghadamis.secret|Ghadamis.secret]] 
 
