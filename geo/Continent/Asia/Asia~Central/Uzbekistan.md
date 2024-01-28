@@ -72,8 +72,8 @@ Languages:
 [	UNTERM_Russian	 :: Узбекистан ] 
 [	UNTERM_Russian_Formal	 :: Республика Узбекистан ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
 Sub-region_Name ::  [[Central Asia]] ] 
 
 [	Region	 :: 142 ] 

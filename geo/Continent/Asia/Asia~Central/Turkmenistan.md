@@ -70,8 +70,8 @@ Languages:
 [	UNTERM_Russian	 :: Туркменистан ] 
 [	UNTERM_Russian_Formal	 :: Туркменистан ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
 Sub-region_Name ::  [[Central Asia]] ] 
 
 [	Region	 :: 142 ] 

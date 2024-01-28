@@ -70,8 +70,8 @@ Languages:
 [	UNTERM_Russian	 :: Казахстан ] 
 [	UNTERM_Russian_Formal	 :: Республика Казахстан ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
 Sub-region_Name ::  [[Central Asia]] ] 
 
 [	Region	 :: 142 ] 
@@ -118,7 +118,7 @@ markerFolder: ./Kazakhstan/
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::KZ] 
-Capital :: [[Kazakhstan/Counties/Astana/City/Astana]]  
+Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]  
 
 ![[Kazakhstan/Emblem_of_Kazakhstan.svg|350]] 
 
