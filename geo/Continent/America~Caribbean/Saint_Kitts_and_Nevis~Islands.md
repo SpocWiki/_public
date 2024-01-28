@@ -28,7 +28,7 @@ markerFolder: ./Saint_Kitts_and_Nevis~Islands/
 [name-de::Saint Kitts und Nevis] 
 [Area-Total::262] 
 [Area-Land::360] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::KAN] 
 [Capital-Id::] 
 [Alcohol-l::9.4] 

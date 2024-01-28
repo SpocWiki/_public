@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Панама ] 
 [	UNTERM_Russian_Formal	 :: Республика Панама ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Central America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Central America]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 13 ] 
@@ -116,7 +116,7 @@ markerFolder: ./Panama/
 [name-de::Panama] 
 [Area-Total::75517] 
 [Area-Land::74430] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::PA] 
 Capital :: [[Panama_City]]  
 

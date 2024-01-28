@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Ботсвана ] 
 [	UNTERM_Russian_Formal	 :: Республика Ботсвана ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Southern Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Southern Africa]]  
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 18 ] 

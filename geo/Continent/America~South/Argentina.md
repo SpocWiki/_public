@@ -75,9 +75,9 @@ Languages:
 [	UNTERM_Russian	 :: Аргентина ] 
 [	UNTERM_Russian_Formal	 :: Аргентинская Республика ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -122,7 +122,7 @@ markerFolder: ./Argentina/
 [name-de::Argentinien] 
 [Area-Total::2766889] 
 [Area-Land::2736690] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::RA] 
 Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]  
 

@@ -67,9 +67,9 @@ Languages:
 [	UNTERM_Russian	 :: Барбадос ] 
 [	UNTERM_Russian_Formal	 :: Барбадос ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Caribbean]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Caribbean]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 29 ] 
@@ -114,7 +114,7 @@ markerFolder: ./Barbados/
 [name-de::Barbados] 
 [Area-Total::430] 
 [Area-Land::430] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::BDS] 
 Capital :: [[Barbados/City/Bridgetown]]  
 

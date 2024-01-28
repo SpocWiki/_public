@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Гаити ] 
 [	UNTERM_Russian_Formal	 :: Республика Гаити ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Caribbean]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Caribbean]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 29 ] 
@@ -117,7 +117,7 @@ markerFolder: ./Haiti/
 [name-de::Haiti] 
 [Area-Total::27750] 
 [Area-Land::27560] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::RH] 
 Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]  
 

@@ -79,9 +79,9 @@ Languages:
 [	UNTERM_Russian	 :: Южная Африка ] 
 [	UNTERM_Russian_Formal	 :: Южно-Африканская Республика ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Southern Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Southern Africa]]  
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 18 ] 

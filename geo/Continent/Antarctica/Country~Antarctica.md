@@ -68,8 +68,8 @@ For the Continent [see Antarctica](../Antarctica)
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[]] ] 
-Intermediate_Region_Name ::  [[]] ] 
+Region_Name ::  [[]] 
+Intermediate_Region_Name ::  [[]] 
 Sub-region_Name ::  [[]] ] 
 
 [	Region	 ::  ] 

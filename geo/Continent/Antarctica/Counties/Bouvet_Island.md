@@ -80,9 +80,9 @@ Languages: []
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 

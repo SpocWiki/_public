@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Беларусь ] 
 [	UNTERM_Russian_Formal	 :: Республика Беларусь ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Eastern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Eastern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

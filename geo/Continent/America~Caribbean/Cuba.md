@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Куба ] 
 [	UNTERM_Russian_Formal	 :: Республика Куба ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Caribbean]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Caribbean]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 29 ] 
@@ -116,7 +116,7 @@ markerFolder: ./Cuba/
 [name-de::Kuba] 
 [Area-Total::110860] 
 [Area-Land::109820] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::C] 
 Capital :: [[Cuba/City/Habana=Havana=Havanna]]  
 

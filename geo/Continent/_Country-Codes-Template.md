@@ -78,9 +78,9 @@ Languages: [{{Languages}}]
 [	UNTERM_Russian	 :: {{UNTERM_Russian}} ] 
 [	UNTERM_Russian_Formal	 :: {{UNTERM_Russian_Formal}} ] 
 
-Region_Name ::  [[{{Region_Name}}]] ] 
-Intermediate_Region_Name ::  [[{{Intermediate_Region_Name}}]] ] 
-Sub-region_Name ::  [[{{Sub-region_Name}}]] ] 
+Region_Name ::  [[{{Region_Name}}]] 
+Intermediate_Region_Name ::  [[{{Intermediate_Region_Name}}]] 
+Sub-region_Name ::  [[{{Sub-region_Name}}]] 
 
 [	Region	 :: {{Region}} ] 
 [	Intermediate_Region	 :: {{Intermediate_Region}} ] 

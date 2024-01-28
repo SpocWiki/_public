@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Малави ] 
 [	UNTERM_Russian_Formal	 :: Республика Малави ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Eastern Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Eastern Africa]] 
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 14 ] 

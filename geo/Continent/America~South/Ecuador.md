@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Эквадор ] 
 [	UNTERM_Russian_Formal	 :: Республика Эквадор ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -116,7 +116,7 @@ markerFolder: ./Ecuador/
 [name-de::Ecuador] 
 [Area-Total::272045] 
 [Area-Land::276840] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::EC] 
 Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]  
 

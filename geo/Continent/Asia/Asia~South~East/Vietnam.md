@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Вьетнам ] 
 [	UNTERM_Russian_Formal	 :: Социалистическая Республика Вьетнам ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[South-eastern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[South-eastern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

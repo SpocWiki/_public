@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Уругвай ] 
 [	UNTERM_Russian_Formal	 :: Восточная Республика Уругвай ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -115,7 +115,7 @@ markerFolder: ./Uruguay/
 [name-de::Uruguay] 
 [Area-Total::176215] 
 [Area-Land::174810] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::ROU] 
 Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]  
 ![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]] 

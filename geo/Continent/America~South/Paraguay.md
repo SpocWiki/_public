@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Парагвай ] 
 [	UNTERM_Russian_Formal	 :: Республика Парагвай ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -123,7 +123,7 @@ markerFolder: ./Paraguay/
 
 [Area-Total::406752] 
 [Area-Land::397300] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::PY] 
 Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]  
 [Alcohol-l::7.9] 

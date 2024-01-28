@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Caribbean]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Caribbean]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 29 ] 
@@ -116,7 +116,7 @@ markerFolder: ./British_Virgin~Islands/
 [name-de::brit. Jungfraueninseln] 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::] 
 [Capital-Id::] 
 ![[Coat_of_arms_of_Virgin-islands.svg|350]] 

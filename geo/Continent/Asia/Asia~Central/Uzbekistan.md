@@ -74,7 +74,7 @@ Languages:
 
 Region_Name ::  [[Asia]] 
 Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Central Asia]] ] 
+Sub-region_Name ::  [[Central Asia]]  
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

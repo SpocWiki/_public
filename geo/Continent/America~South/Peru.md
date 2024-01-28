@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Перу ] 
 [	UNTERM_Russian_Formal	 :: Республика Перу ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -119,7 +119,7 @@ markerFolder: ./Peru/
 [name-de::Peru] 
 [Area-Total::1285216] 
 [Area-Land::1280000] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::PE] 
 Capital :: [[Peru/Counties/Lima_Province/City/Lima]]  
 ![[Coat_of_arms_of_Peru.svg|350]] 

@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[Channel Islands]] ] 
-Sub-region_Name ::  [[Northern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[Channel Islands]] 
+Sub-region_Name ::  [[Northern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 :: 830 ] 
@@ -126,6 +126,7 @@ Continent :: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
+
 - [[../../../../../_Standards/geo/Continent/Europe/Europe~West/Guernsey|Guernsey]] 
 - [[../../../../../_public/geo/Continent/Europe/Europe~West/Guernsey.public|Guernsey.public]] 
 - [[../../../../../_internal/geo/Continent/Europe/Europe~West/Guernsey.internal|Guernsey.internal]] 

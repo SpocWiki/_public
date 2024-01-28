@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Суринам ] 
 [	UNTERM_Russian_Formal	 :: Республика Суринам ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -126,7 +126,7 @@ markerFolder: ./Suriname/
 
 [Area-Total::163265] 
 [Area-Land::156000] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::SME] 
 Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]  
 [Alcohol-l::6.1] 

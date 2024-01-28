@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Гвинея-Бисау ] 
 [	UNTERM_Russian_Formal	 :: Республика Гвинея-Бисау ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Western Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Western Africa]]  
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 11 ] 

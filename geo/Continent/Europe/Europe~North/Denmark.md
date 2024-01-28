@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Дания ] 
 [	UNTERM_Russian_Formal	 :: Королевство Дания ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

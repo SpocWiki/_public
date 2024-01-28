@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Ирландия ] 
 [	UNTERM_Russian_Formal	 :: Ирландия ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 
@@ -117,7 +117,7 @@ markerFolder: ./Ireland//
 [Area-Land::68890] 
 Continent :: [[Europe]]  
 [VehicleCode::IRL] 
-Capital :: [[geo/Continent/Europe/Europe~North/Ireland/Counties/Dublin]]  
+Capital :: [[./Ireland/Counties/Dublin]]  
 ![[Coat_of_arms_of_Ireland.svg|350]] 
 ![[Anthem-Ireland.mp3]] 
 ![[Flag_of_Ireland.svg|350]] 

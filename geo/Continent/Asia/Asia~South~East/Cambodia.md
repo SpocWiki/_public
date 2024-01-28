@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Камбоджа ] 
 [	UNTERM_Russian_Formal	 :: Королевство Камбоджа ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[South-eastern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[South-eastern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

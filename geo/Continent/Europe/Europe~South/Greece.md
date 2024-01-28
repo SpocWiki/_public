@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Греция ] 
 [	UNTERM_Russian_Formal	 :: Греческая Республика ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Southern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Southern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

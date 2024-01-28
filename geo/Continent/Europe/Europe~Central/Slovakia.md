@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Словакия ] 
 [	UNTERM_Russian_Formal	 :: Словацкая Республика ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Eastern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Eastern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

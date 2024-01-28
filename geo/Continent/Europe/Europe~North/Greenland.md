@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern America]] ] 
+Region_Name ::  [[Americas]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern America]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 ::  ] 

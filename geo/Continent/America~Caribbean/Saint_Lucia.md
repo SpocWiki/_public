@@ -31,7 +31,7 @@ markerFolder: ./Saint_Lucia/
 
 [Area-Total::616] 
 [Area-Land::0] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::WL] 
 Capital :: [[Saint_Lucia/Counties/Castries/City/Castries]]  
 [Alcohol-l::11.9] 

@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Шри-Ланка ] 
 [	UNTERM_Russian_Formal	 :: Демократическая Социалистическая Республика Шри-Ланка ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Southern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Southern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

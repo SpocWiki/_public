@@ -68,9 +68,9 @@ Languages:
 [	UNTERM_Russian	 :: Гватемала ] 
 [	UNTERM_Russian_Formal	 :: Республика Гватемала ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Central America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Central America]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 13 ] 
@@ -115,7 +115,7 @@ markerFolder: ./Guatemala/
 [name-de::Guatemala] 
 [Area-Total::108889] 
 [Area-Land::108430] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::GT] 
 Capital :: [[Guatemala_City]]  
 

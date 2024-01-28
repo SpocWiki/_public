@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Ниуэ    ** ] 
 [	UNTERM_Russian_Formal	 :: Ниуэ ] 
 
-Region_Name ::  [[Oceania]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Polynesia]] ] 
+Region_Name ::  [[Oceania]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Polynesia]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 

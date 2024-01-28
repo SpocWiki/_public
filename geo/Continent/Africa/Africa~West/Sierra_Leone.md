@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Сьерра-Леоне ] 
 [	UNTERM_Russian_Formal	 :: Республика Сьерра-Леоне ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Western Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Western Africa]]  
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 11 ] 

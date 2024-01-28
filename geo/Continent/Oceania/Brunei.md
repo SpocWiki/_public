@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Бруней-Даруссалам ] 
 [	UNTERM_Russian_Formal	 :: Бруней-Даруссалам ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[South-eastern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[South-eastern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

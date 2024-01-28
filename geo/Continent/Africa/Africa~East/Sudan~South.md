@@ -89,9 +89,9 @@ markerFolder: ./Sudan~South//
 [	UNTERM_Russian	 :: Южный Судан ] 
 [	UNTERM_Russian_Formal	 :: Республика Южный Судан ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Eastern Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Eastern Africa]] 
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 14 ] 

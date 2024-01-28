@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Япония ] 
 [	UNTERM_Russian_Formal	 :: Япония ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Eastern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Eastern Asia]]  
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

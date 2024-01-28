@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Папуа-Новая Гвинея ] 
 [	UNTERM_Russian_Formal	 :: Независимое государство Папуа-Новая Гвинея ] 
 
-Region_Name ::  [[Oceania]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Melanesia]] ] 
+Region_Name ::  [[Oceania]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Melanesia]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 

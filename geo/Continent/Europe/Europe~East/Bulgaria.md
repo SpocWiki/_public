@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Болгария ] 
 [	UNTERM_Russian_Formal	 :: Республика Болгария ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Eastern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Eastern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 
@@ -121,7 +121,7 @@ markerFolder: ./Bulgaria//
 [Area-Land::110550] 
 Continent :: [[Europe]]  
 [VehicleCode::BG] 
-Capital :: [[geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia]]  
+Capital :: [[./Bulgaria/Counties/Sofia]]  
 ![[Coat_of_arms_of_Bulgaria.svg|350]] 
 ![[Anthem-Bulgaria-complete.mp3]] 
 ![[Flag_of_Bulgaria.svg|350]] 

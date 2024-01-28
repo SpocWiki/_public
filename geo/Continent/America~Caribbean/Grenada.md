@@ -68,9 +68,9 @@ Languages:
 [	UNTERM_Russian	 :: Гренада ] 
 [	UNTERM_Russian_Formal	 :: Гренада ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Caribbean]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Caribbean]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 29 ] 
@@ -121,7 +121,7 @@ markerFolder: ./Grenada/
 
 [Area-Total::344] 
 [Area-Land::340] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::WG] 
 Capital :: [[Grenada/City/St._George’s]]  
 [Alcohol-l::10.4] 

@@ -68,9 +68,9 @@ Languages:
 [	UNTERM_Russian	 :: Гайана ] 
 [	UNTERM_Russian_Formal	 :: Республика Гайана ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -115,7 +115,7 @@ markerFolder: ./Guyana/
 [name-de::Guyana] 
 [Area-Total::214969] 
 [Area-Land::196850] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::GUY] 
 Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]  
 

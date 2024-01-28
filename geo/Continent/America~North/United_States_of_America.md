@@ -36,7 +36,7 @@ markerFolder: ./United_States_of_America/
 
 [Area-Total::9809155] 
 [Area-Land::9573110] 
-Continent :: North-America] 
+Continent :: [[North-America]]  
 [VehicleCode::USA] 
 Capital :: [[United_States_of_America/USA~Eastern/District_of_Columbia/City/Washington~City]]  
 [Alcohol-l::9.4] 

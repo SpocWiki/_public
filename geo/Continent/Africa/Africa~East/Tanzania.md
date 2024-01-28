@@ -75,9 +75,9 @@ Languages:
 [	UNTERM_Russian	 :: Объединенная Республика Танзания ] 
 [	UNTERM_Russian_Formal	 :: Объединенная Республика Танзания ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Eastern Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Eastern Africa]] 
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 14 ] 

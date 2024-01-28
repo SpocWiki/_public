@@ -74,9 +74,9 @@ Languages:
 [	UNTERM_Russian	 :: Бразилия ] 
 [	UNTERM_Russian_Formal	 :: Федеративная Республика Бразилия ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -121,7 +121,7 @@ markerFolder: ./Brazil/
 [name-de::Brasilien] 
 [Area-Total::8511996] 
 [Area-Land::8456510] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::BR] 
 Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]  
 

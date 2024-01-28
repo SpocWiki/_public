@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Индонезия ] 
 [	UNTERM_Russian_Formal	 :: Республика Индонезия ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[South-eastern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[South-eastern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

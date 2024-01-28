@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Непал ] 
 [	UNTERM_Russian_Formal	 :: Федеративная Демократическая Республика Непал ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Southern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Southern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

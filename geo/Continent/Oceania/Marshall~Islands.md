@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Маршалловы Острова ] 
 [	UNTERM_Russian_Formal	 :: Республика Маршалловы Острова ] 
 
-Region_Name ::  [[Oceania]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Micronesia]] ] 
+Region_Name ::  [[Oceania]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Micronesia]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 

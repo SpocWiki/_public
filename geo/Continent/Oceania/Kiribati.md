@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Кирибати ] 
 [	UNTERM_Russian_Formal	 :: Республика Кирибати ] 
 
-Region_Name ::  [[Oceania]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Micronesia]] ] 
+Region_Name ::  [[Oceania]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Micronesia]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 

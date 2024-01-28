@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Мексика ] 
 [	UNTERM_Russian_Formal	 :: Мексиканские Соединенные Штаты ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Central America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Central America]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 13 ] 
@@ -117,7 +117,7 @@ markerFolder: ./Mexico/
 [name-de::Mexiko] 
 [Area-Total::1958201] 
 [Area-Land::1908690] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::MEX] 
 Capital :: [[Mexico_City]]  
 

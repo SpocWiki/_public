@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Азербайджан ] 
 [	UNTERM_Russian_Formal	 :: Азербайджанская Республика ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

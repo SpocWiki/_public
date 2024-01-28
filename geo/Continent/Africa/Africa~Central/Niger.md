@@ -74,9 +74,9 @@ Languages:
 [	UNTERM_Russian	 :: Нигер ] 
 [	UNTERM_Russian_Formal	 :: Республика Нигер ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Western Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Western Africa]]  
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 11 ] 

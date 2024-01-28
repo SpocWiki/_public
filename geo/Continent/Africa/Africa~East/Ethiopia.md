@@ -75,9 +75,9 @@ Languages:
 [	UNTERM_Russian	 :: Эфиопия ] 
 [	UNTERM_Russian_Formal	 :: Федеративная Демократическая Республика Эфиопия ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Eastern Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Eastern Africa]] 
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 14 ] 
@@ -113,8 +113,8 @@ id: Ethiopia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ethiopia.public//
-markerFolder: ./Ethiopia.public//
+geojsonFolder: ./Ethiopia//
+markerFolder: ./Ethiopia//
 ```
 
 [name-en::Ethiopia] 

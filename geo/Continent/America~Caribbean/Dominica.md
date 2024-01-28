@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Доминика ] 
 [	UNTERM_Russian_Formal	 :: Содружество Доминики ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Caribbean]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Caribbean]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 29 ] 
@@ -116,7 +116,7 @@ markerFolder: ./Dominica/
 [name-de::Dominica] 
 [Area-Total::750] 
 [Area-Land::750] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::WD] 
 Capital :: [[Dominica/Counties/Saint_George/City/Roseau]]  
 

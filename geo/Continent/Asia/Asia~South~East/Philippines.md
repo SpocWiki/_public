@@ -93,9 +93,9 @@ Languages:
 [	UNTERM_Russian	 :: Филиппины ] 
 [	UNTERM_Russian_Formal	 :: Республика Филиппины ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[South-eastern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[South-eastern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

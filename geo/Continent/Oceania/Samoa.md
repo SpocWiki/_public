@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Самоа ] 
 [	UNTERM_Russian_Formal	 :: Независимое Государство Самоа ] 
 
-Region_Name ::  [[Oceania]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Polynesia]] ] 
+Region_Name ::  [[Oceania]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Polynesia]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 

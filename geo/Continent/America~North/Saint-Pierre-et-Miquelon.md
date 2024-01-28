@@ -25,7 +25,7 @@ markerFolder: ./Saint-Pierre-et-Miquelon///
 [name-de::St. Pierre und Miquelon] 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: North-America] 
+Continent :: [[North-America]]  
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 

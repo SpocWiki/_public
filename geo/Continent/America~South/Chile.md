@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Чили ] 
 [	UNTERM_Russian_Formal	 :: Республика Чили ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -116,7 +116,7 @@ markerFolder: ./Chile/
 [name-de::Chile] 
 [Area-Total::756626] 
 [Area-Land::748800] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::RCH] 
 Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]  
 

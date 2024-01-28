@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Финляндия ] 
 [	UNTERM_Russian_Formal	 :: Финляндская Республика ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

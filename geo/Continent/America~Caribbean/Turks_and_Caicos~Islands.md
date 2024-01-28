@@ -25,7 +25,7 @@ markerFolder: ./Turks_and_Caicos~Islands/
 [name-de::Turks Inseln] 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 

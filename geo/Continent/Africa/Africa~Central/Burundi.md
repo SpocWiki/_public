@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Бурунди ] 
 [	UNTERM_Russian_Formal	 :: Республика Бурунди ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Eastern Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Eastern Africa]] 
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 14 ] 
@@ -109,8 +109,8 @@ id: Burundi
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Burundi.public//
-markerFolder: ./Burundi.public//
+geojsonFolder: ./Burundi//
+markerFolder: ./Burundi//
 ```
 
 [name-en::Burundi] 
@@ -140,3 +140,5 @@ Capital :: [[Bujumbura]]
 - [[../../../../../_private/geo/Continent/Africa/Africa~Central/Burundi.private|Burundi.private]] 
 - [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Burundi.personal|Burundi.personal]] 
 - [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Burundi.secret|Burundi.secret]] 
+
+

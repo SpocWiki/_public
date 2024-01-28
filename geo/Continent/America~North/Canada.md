@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Канада ] 
 [	UNTERM_Russian_Formal	 :: Канада ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern America]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern America]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 ::  ] 
@@ -124,7 +124,7 @@ markerFolder: ./Canada/
 
 [Area-Total::9958319] 
 [Area-Land::9220970] 
-Continent :: North-America] 
+Continent :: [[North-America]]  
 [VehicleCode::CDN] 
 Capital :: [[Canada/State/State~Ontario/City/Ottawa]]  
 [Alcohol-l::9.8] 

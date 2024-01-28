@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Багамские Острова ] 
 [	UNTERM_Russian_Formal	 :: Содружество Багамских Островов ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Caribbean]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Caribbean]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 29 ] 
@@ -117,7 +117,7 @@ markerFolder: ./Bahamas/
 [name-de::Bahamas] 
 [Area-Total::13939] 
 [Area-Land::10010] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::BS] 
 Capital :: [[Bahamas/Counties/New_Providence/City/Nassau]]  
 ![[Coat_of_arms_of_Bahamas.svg|350]] 

@@ -67,9 +67,9 @@ Languages:
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Oceania]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Micronesia]] ] 
+Region_Name ::  [[Oceania]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Micronesia]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 
@@ -113,7 +113,7 @@ markerFolder: ./USA_Outlying~Islands/
 [name-de::USA Inseln] 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: North-America] 
+Continent :: [[North-America]]  
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 

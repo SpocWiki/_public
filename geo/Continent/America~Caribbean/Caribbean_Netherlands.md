@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Caribbean]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Caribbean]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 29 ] 
@@ -118,7 +118,7 @@ markerFolder: ./Caribbean_Netherlands/
 [name-de::Niederländische Antillen] 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::NA] 
 ![[Coat_of_arms_of_Netherlands-antilles.svg|350]] 
 ![[Anthem-Netherlands-antilles.mp3]] 

@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Намибия ] 
 [	UNTERM_Russian_Formal	 :: Республика Намибия ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Southern Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Southern Africa]]  
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 18 ] 

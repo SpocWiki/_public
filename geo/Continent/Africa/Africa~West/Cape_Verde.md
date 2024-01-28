@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Кабо-Верде ] 
 [	UNTERM_Russian_Formal	 :: Республика Кабо-Верде ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Western Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Western Africa]]  
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 11 ] 

@@ -75,9 +75,9 @@ Languages:
 [	UNTERM_Russian	 :: Пакистан ] 
 [	UNTERM_Russian_Formal	 :: Исламская Республика Пакистан ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Southern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Southern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

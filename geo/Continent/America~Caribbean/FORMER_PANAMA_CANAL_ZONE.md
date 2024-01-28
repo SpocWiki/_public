@@ -24,7 +24,7 @@ markerFolder: ./FORMER_PANAMA_CANAL_ZONE/
 [name-de::Panama Kanal Zone] 
 [Area-Total::] 
 [Area-Land::] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 

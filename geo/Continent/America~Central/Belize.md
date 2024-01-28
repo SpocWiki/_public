@@ -68,9 +68,9 @@ Languages:
 [	UNTERM_Russian	 :: Белиз ] 
 [	UNTERM_Russian_Formal	 :: Белиз ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Central America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Central America]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 13 ] 
@@ -114,7 +114,7 @@ markerFolder: ./Belize/
 [name-de::Belize] 
 [Area-Total::22965] 
 [Area-Land::22800] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::BZ] 
 Capital :: [[Belize/Counties/Cayo/City/Belmopan]]  
 

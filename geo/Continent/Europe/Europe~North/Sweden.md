@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Швеция ] 
 [	UNTERM_Russian_Formal	 :: Королевство Швеция ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 
@@ -119,7 +119,7 @@ markerFolder: ./Sweden///
 [Area-Land::411620] 
 Continent :: [[Europe]]  
 [VehicleCode::S] 
-Capital :: [[geo/Continent/Europe/Europe~North/Sweden/Counties/Stockholm]]  
+Capital :: [[./Sweden/Counties/Stockholm]]  
 ![[Coat_of_arms_of_Sweden.svg|350]] 
 
 ![[Anthem-Sweden.mp3]] 

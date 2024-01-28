@@ -68,9 +68,9 @@ Languages:
 [	UNTERM_Russian	 :: Сальвадор ] 
 [	UNTERM_Russian_Formal	 :: Республика Эль-Сальвадор ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Central America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Central America]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 13 ] 
@@ -114,7 +114,7 @@ markerFolder: ./El_Salvador/
 [name-de::El Salvador] 
 [Area-Total::21041] 
 [Area-Land::20720] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::ES] 
 Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]  
 

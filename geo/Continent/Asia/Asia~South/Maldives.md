@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Мальдивские Острова ] 
 [	UNTERM_Russian_Formal	 :: Мальдивская Республика ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Southern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Southern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

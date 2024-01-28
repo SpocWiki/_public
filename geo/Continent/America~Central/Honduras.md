@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Гондурас ] 
 [	UNTERM_Russian_Formal	 :: Республика Гондурас ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Central America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Central America]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 13 ] 
@@ -117,7 +117,7 @@ markerFolder: ./Honduras/
 [name-de::Honduras] 
 [Area-Total::112088] 
 [Area-Land::111890] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::HN] 
 Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]  
 

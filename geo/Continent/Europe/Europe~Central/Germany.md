@@ -74,9 +74,9 @@ expiryDate:
 [	UNTERM_Russian	 :: Германия ] 
 [	UNTERM_Russian_Formal	 :: Федеративная Республика Германия ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 
@@ -116,8 +116,8 @@ id: Germany
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Germany.public//
-markerFolder: ./Germany.public/
+geojsonFolder: ./Germany//
+markerFolder: ./Germany/
 ```
 
 [name-en::Germany] 
@@ -151,4 +151,3 @@ Capital :: [[Berlin]]
 - [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]] 
 
 
-[[Germany]] 

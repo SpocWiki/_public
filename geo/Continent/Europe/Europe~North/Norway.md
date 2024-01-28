@@ -74,9 +74,9 @@ Languages:
 [	UNTERM_Russian	 :: Норвегия ] 
 [	UNTERM_Russian_Formal	 :: Королевство Норвегия ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

@@ -74,9 +74,9 @@ Languages:
 [	UNTERM_Russian	 :: Китай ] 
 [	UNTERM_Russian_Formal	 :: Китайская Народная Республика ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Eastern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Eastern Asia]]  
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

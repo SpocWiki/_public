@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Africa]]  
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 ::  ] 

@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Острова Кука    ** ] 
 [	UNTERM_Russian_Formal	 :: Острова Кука ] 
 
-Region_Name ::  [[Oceania]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Polynesia]] ] 
+Region_Name ::  [[Oceania]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Polynesia]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 

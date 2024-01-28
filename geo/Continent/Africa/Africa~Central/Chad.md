@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Чад ] 
 [	UNTERM_Russian_Formal	 :: Республика Чад ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Middle Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Middle Africa]] 
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 17 ] 

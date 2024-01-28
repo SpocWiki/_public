@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Венесуэла (Боливарианская Республика) ] 
 [	UNTERM_Russian_Formal	 :: Боливарианская Республика Венесуэла ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -118,7 +118,7 @@ markerFolder: ./Venezuela/
 [name-de::Venezuela] 
 [Area-Total::912050] 
 [Area-Land::882050] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::YV] 
 Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]  
 

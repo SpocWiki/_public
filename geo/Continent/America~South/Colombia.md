@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Колумбия ] 
 [	UNTERM_Russian_Formal	 :: Республика Колумбия ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -116,7 +116,7 @@ markerFolder: ./Colombia/
 [name-de::Kolumbien] 
 [Area-Total::1141784] 
 [Area-Land::1038700] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::CO] 
 Capital :: [[Colombia/Counties/Bogota/City/Bogota]]  
 

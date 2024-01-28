@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Египет ] 
 [	UNTERM_Russian_Formal	 :: Арабская Республика Египет ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Africa]]  
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 ::  ] 

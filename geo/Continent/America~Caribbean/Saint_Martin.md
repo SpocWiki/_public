@@ -28,7 +28,7 @@ markerFolder: ./Saint_Martin/
 [name-de::St. Martin (Insel)] 
 [Area-Total::] 
 [Area-Land::] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 

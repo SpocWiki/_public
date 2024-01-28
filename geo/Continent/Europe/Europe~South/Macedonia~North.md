@@ -27,7 +27,7 @@ markerFolder: ./Macedonia~North//
 [Area-Land::25430] 
 Continent :: [[Europe]]  
 [VehicleCode::MK] 
-Capital :: [[geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Skopje]]  
+Capital :: [[./Macedonia~North/Counties/Skopje]]  
 ![[Coat_of_arms_of_Macedonia.svg|350]] 
 ![[Anthem-Macedonia.mp3]] 
 ![[Flag_of_Macedonia.svg|350]] 

@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Тимор-Лешти ] 
 [	UNTERM_Russian_Formal	 :: Демократическая Республика Тимор-Лешти ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[South-eastern Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[South-eastern Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Латвия ] 
 [	UNTERM_Russian_Formal	 :: Латвийская Республика ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 
@@ -121,7 +121,7 @@ markerFolder: ./Latvia//
 [Area-Land::62050] 
 Continent :: [[Europe]]  
 [VehicleCode::LV] 
-Capital :: [[geo/Continent/Europe/Europe~North/Latvia/Counties/Riga]]  
+Capital :: [[./Latvia/Counties/Riga]]  
 ![[Coat_of_arms_of_Latvia.svg|650]] 
 ![[Anthem-Latvia.mp3]] 
 ![[Flag_of_Latvia.svg|350]] 

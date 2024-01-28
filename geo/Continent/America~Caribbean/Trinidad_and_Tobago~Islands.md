@@ -25,7 +25,7 @@ markerFolder: ./Trinidad_and_Tobago~Islands/
 [name-de::Trinidad und Tobago] 
 [Area-Total::5128] 
 [Area-Land::5130] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::TT] 
 Capital :: [[Trinidad_and_Tobago~Islands/Counties/Port_of_Spain/City/Port_of_Spain]]  
 ![[Coat_of_arms_of_Trinidad-and-tobago.svg|350]] 

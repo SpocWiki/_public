@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Никарагуа ] 
 [	UNTERM_Russian_Formal	 :: Республика Никарагуа ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Central America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Central America]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 13 ] 
@@ -115,7 +115,7 @@ markerFolder: ./Nicaragua/
 [name-de::Nicaragua] 
 [Area-Total::120254] 
 [Area-Land::118750] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::NIC] 
 Capital :: [[Nicaragua/Counties/Managua/City/Managua]]  
 

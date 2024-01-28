@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Швейцария ] 
 [	UNTERM_Russian_Formal	 :: Швейцарская Конфедерация ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

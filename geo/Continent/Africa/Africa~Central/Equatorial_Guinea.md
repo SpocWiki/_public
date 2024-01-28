@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Экваториальная Гвинея ] 
 [	UNTERM_Russian_Formal	 :: Республика Экваториальная Гвинея ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[Middle Africa]] ] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[Middle Africa]] 
+Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 :: 17 ] 

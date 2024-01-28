@@ -69,9 +69,9 @@ Languages:
 [	UNTERM_Russian	 :: Коста-Рика ] 
 [	UNTERM_Russian_Formal	 :: Республика Коста-Рика ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[Central America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[Central America]]  
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 13 ] 
@@ -115,7 +115,7 @@ markerFolder: ./Costa_Rica/
 [name-de::Costa Rica] 
 [Area-Total::51100] 
 [Area-Land::51060] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::CR] 
 Capital :: [[Costa_Rica/Counties/San_José/City/San_José=San_Jose]]  
 

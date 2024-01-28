@@ -72,9 +72,9 @@ Languages:
 [	UNTERM_Russian	 :: Черногория ] 
 [	UNTERM_Russian_Formal	 :: Черногория ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Southern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Southern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 
@@ -120,7 +120,7 @@ markerFolder: ./Montenegro//
 [Area-Land::] 
 Continent :: [[Europe]]  
 [VehicleCode::MNE] 
-Capital :: [[geo/Continent/Europe/Europe~South/Montenegro/Counties/Podgorica]]  
+Capital :: [[./Montenegro/Counties/Podgorica]]  
 ![[Coat_of_arms_of_Montenegro.svg|350]] 
 ![[Anthem-Montenegro.mp3]] 
 ![[Flag_of_Montenegro.svg|350]] 

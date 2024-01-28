@@ -25,7 +25,7 @@ markerFolder: ./Dominican_Rep/
 [name-de::Dominikanische Republik] 
 [Area-Total::48422] 
 [Area-Land::48380] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::DOM] 
 Capital :: [[Dominican_Rep/Counties/La_Vega/City/Santo_Domingo]]  
 ![[Coat_of_arms_of_Dominican-republic.svg|350]] 

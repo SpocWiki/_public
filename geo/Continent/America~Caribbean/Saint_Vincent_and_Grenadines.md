@@ -25,7 +25,7 @@ markerFolder: ./Saint_Vincent_and_Grenadines/
 [name-de::Saint Vincent und die Grenadinen] 
 [Area-Total::389] 
 [Area-Land::12] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::WV] 
 Capital :: [[Saint_Vincent_and_Grenadines/Counties/Saint_George/City/Kingstown]]  
 [Alcohol-l::5.4] 

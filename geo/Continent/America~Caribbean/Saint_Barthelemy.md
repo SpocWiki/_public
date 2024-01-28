@@ -30,7 +30,7 @@ markerFolder: ./Saint_Barthelemy/
 [name-de::St. Barts] 
 [Area-Total::] 
 [Area-Land::] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 

@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Хорватия ] 
 [	UNTERM_Russian_Formal	 :: Республика Хорватия ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Southern Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Southern Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

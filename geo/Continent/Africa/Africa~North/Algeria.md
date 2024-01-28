@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Алжир ] 
 [	UNTERM_Russian_Formal	 :: Алжирская Народная Демократическая Республика ] 
 
-Region_Name ::  [[Africa]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Northern Africa]] ] 
+Region_Name ::  [[Africa]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Northern Africa]]  
 
 [	Region	 :: 2 ] 
 [	Intermediate_Region	 ::  ] 
@@ -118,7 +118,7 @@ markerFolder: ./Algeria//
 [Area-Land::2381740] 
 Continent :: [[Africa]]  
 [VehicleCode::DZ] 
-Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]  
+Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]] 
 ![[Africa~North/Algeria/Emblem_of_Algeria.svg|350]]  
 
 

@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Соломоновы Острова ] 
 [	UNTERM_Russian_Formal	 :: Соломоновы Острова ] 
 
-Region_Name ::  [[Oceania]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Melanesia]] ] 
+Region_Name ::  [[Oceania]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Melanesia]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 

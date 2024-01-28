@@ -68,9 +68,9 @@ Languages:
 [	UNTERM_Russian	 :: Лихтенштейн ] 
 [	UNTERM_Russian_Formal	 :: Княжество Лихтенштейн ] 
 
-Region_Name ::  [[Europe]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Europe]] ] 
+Region_Name ::  [[Europe]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Europe]] 
 
 [	Region	 :: 150 ] 
 [	Intermediate_Region	 ::  ] 

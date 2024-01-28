@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Боливия (Многонациональное Государство) ] 
 [	UNTERM_Russian_Formal	 :: Многонациональное Государство Боливия ] 
 
-Region_Name ::  [[Americas]] ] 
-Intermediate_Region_Name ::  [[South America]] ] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] ] 
+Region_Name ::  [[Americas]]  
+Intermediate_Region_Name ::  [[South America]] 
+Sub-region_Name ::  [[Latin America and the Caribbean]] 
 
 [	Region	 :: 19 ] 
 [	Intermediate_Region	 :: 5 ] 
@@ -120,7 +120,7 @@ markerFolder: ./Bolivia/
 [name-de::Bolivien] 
 [Area-Total::1098581] 
 [Area-Land::1084380] 
-Continent :: South-America] 
+Continent :: [[South-America]]  
 [VehicleCode::BOL] 
 Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]  
 
